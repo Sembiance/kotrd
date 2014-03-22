@@ -1,0 +1,499 @@
+#PLAYER
+Name Coty~
+Id   1108860882
+LogO 1132543645
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Elf~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 29214
+Scro 33
+Room 3001
+HMV  124 124 110 110 149 149
+Gold 43
+Silv 7914
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  18798
+PAct  DEFQTd
+AfBy JTV
+WName Coty~
+Comm NO
+RaceChan H
+Deaf DP
+Pos  8
+Prac 11
+Trai 4
+Save  -31
+Alig  996
+Hit   87
+Dam   15
+ACs 8 2 3 18
+Wimp  10
+Attr 17 16 15 17 12
+AMod 6 1 1 6 1
+Pass CogAXM14hhAgM~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 77
+TSex 1
+PSize 1
+LLev 7
+HMVP 79 110 124
+Cnd  0 0 10 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 43 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'bash'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 12 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'haste'   0 489  65   4   2    2097152
+Affc 'bless'   0 227   6 -31  20          0
+Affc 'bless'   0 227   6  62  18          0
+Affc 'giant strength'   0 451 281   4   1          0
+Affc 'fly'   0 449 284   0   0     524288
+Affc 'stone skin'   0 456 281 -40  17          0
+Affc 'armor'   0 250  81 -20  17          0
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear 5
+Cost 430
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 5813
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 230
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 15144
+Nest 0
+Cond 0
+Wear 7
+Cost -200
+End
+
+#O
+Vnum 15141
+Nest 0
+Cond 0
+Wear 11
+Cost -200
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  1
+Cost 248
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 184 0 0 0
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

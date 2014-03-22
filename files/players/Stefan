@@ -1,0 +1,73 @@
+#PLAYER
+Name Stefan~
+Id   1092942637
+LogO 1092944248
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Lizardman~
+Sex  1
+Cla  5
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 1611
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  48 48 104 104 112 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  4786
+PAct  QTd
+AfBy Jb
+Empower  0
+WName Stefan~
+Comm NOQ
+Deaf DP
+Pos  5
+Prac 6
+Trai 5
+Save  -31
+Alig  0
+Hit   62
+ACs 80 80 80 80
+Attr 19 12 14 17 14
+AMod 0 0 0 0 0
+Pass StmE1xnUb3r7U~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 49
+TSex 1
+PSize 2
+LLev 0
+HMVP 48 104 112
+Cnd  0 0 24 24
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'armor'   0 245  77 -20  17          0
+Affc 'bless'   0 248 111 -31  20          0
+Affc 'bless'   0 249 111  62  18          0
+End
+
+#END

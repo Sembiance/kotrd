@@ -1,0 +1,1620 @@
+#AREADATA
+Name The Eidolon Underworld~
+Builders None~
+VNUMs 23800 24099
+Credits Argon~
+Security 5
+Flags B
+LEVELs 200 350
+End
+
+
+
+#MOBILES
+#23800
+charon ferryman~
+{WThe Ferryman {DCharon{x~
+{WThe Ferryman, {DCharon {Wis here, waiting to take you acros the Marsh.{x
+~
+The once mighty Ferryman lives forever in pergatory, his only mission now
+to ferry souls across the Marsh, and some to their death.......  
+~
+Human~
+ABc DFHJZ 0 0
+0
+101 525 1d1+35000 1d1+1 1d1+400 none
+-120 -120 -120 -90
+0 ABCD 0 0
+stand stand male 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 23800 70~
+M DELAY 23801 100~
+M SPEECH 23802 yes~
+#0
+
+
+
+#OBJECTS
+#23807
+elm~
+elm from which False Dreams Cling~
+A Giant tree rests in the path.~
+WOOD furniture 0 0
+0 0 0 0 0
+350 0 0 P
+#24099
+eidolon quest item legend~
+{Da Legendary {WEidolon {Dquest item{x~
+{x~
+MAGIC_ENERGY treasure HT A
+0 0 0 0 0
+100 20 0 P
+#0
+
+
+
+#ROOMS
+#23800
+~
+~
+0 4 0
+C 0
+S
+#23801
+{DEntrance to the Underworld{x~
+The Entrance to the Underworld, where Grief, Anxiety, Diseases, Old Age,
+Fear, Hunger, Death, Agony and Sleep dwell.  To the North lies the Path of
+Aeneas, but all roads lead to Despair.  
+~
+0 8 12
+D0
+~
+~
+0 0 23802
+C 0
+S
+#23802
+{DAeneas Path{x~
+The path is surrounded on each side by dead grass that is waist high on
+most creatures.  Off in the distant west is the Grove of Persephone.  The
+breathe from the Souls of Oceanus can be felt from the same direction,
+causing the grass to sway eerily.  
+~
+0 8 12
+D0
+~
+~
+0 0 23803
+D2
+~
+~
+0 0 23801
+C 0
+S
+#23803
+{DFollowing the Path of Aeneas{x~
+The path is surrounded on each side by dead grass that is waist high on
+most creatures.  Off in the distant west is the Grove of Persephone.  The
+breathe from the Souls of Oceanus can be felt from the same direction,
+causing the grass to sway eerily.  
+~
+0 8 12
+D0
+~
+~
+0 0 23804
+D2
+~
+~
+0 0 23802
+C 0
+S
+#23804
+{DFollowing the Path of Aeneas{x~
+The path is surrounded on each side by dead grass that is waist high on
+most creatures.  Off in the distant west is the Grove of Persephone.  The
+breathe from the Souls of Oceanus can be felt from the same direction,
+causing the grass to sway eerily.  
+~
+0 8 12
+D0
+~
+~
+0 0 23805
+D2
+~
+~
+0 0 23803
+C 0
+S
+#23805
+{DFollowing the Path of Aeneas{x~
+The path is surrounded on each side by dead grass that is waist high on
+most creatures.  Off in the distant west is the Grove of Persephone.  The
+breathe from the Souls of Oceanus can be felt from the same direction,
+causing the grass to sway eerily back and forth.  The path continues North,
+and back South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23806
+D2
+~
+~
+0 0 23804
+C 0
+S
+#23806
+{DFollowing the Path of Aeneas{x~
+The path is surrounded on each side by dead grass that is waist high on
+most creatures.  You can see a giant tree beyond the grass.  The path
+continues North, and also goes back South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23807
+D2
+~
+~
+0 0 23805
+C 0
+S
+#23807
+{DThe {WElm{D from which False Dreams Cling{x~
+A giant Elm Tree stands in the path.  A battered and broken {wsign{x
+clings to the bark.  The tree is giant in stature and appears to be older
+than the world itself.  Its branches hang low and cast a shadow of hate on
+the ground below it.  The mighty Elm appears to be smiling at the thought of
+devouring you whole.  The path continues around the Elm.  
+~
+0 8 12
+E
+sign~
+{x
+{x               {W****************************{x
+{x               {W*   {REidolon Underground    {W*{x
+{x               {W****************************{x
+{x               {W*                          {W*{x
+{x               {W*   {w"{DEasy is the descent   {W*{x
+{x               {W*   {Dto Hades: night and    {W*{x
+{x               {W*   {Dday the door stands    {W*{x
+{x               {W*   {Dopen; but to recall    {W*{x
+{x               {W*   {Dthe steps and pass     {W*{x
+{x               {W*   {Dout to the upper       {W*{x
+{x               {W*   {Dair, this is the       {W*{x
+{x               {W*   {Dtask, this the toil!{w"  {W*{x
+{x               {W*                          *{x
+{x               {W*   {CCumaean Sibyl to       {W*{x
+{x               {W*                  {DAeneas  {W*{x
+{x               {W****************************{x
+{x               {W*   Copyright Jan 2005     {W*{x
+{x               {W*            by            {W*{x
+{x               {W*      {WAr{bg{Don  {w&  {CVenus     {W*{x
+{x               {W*    {rfor Phoenix{W: {rRot{RR{rD    {W*{x
+{x               {W*    {Rrotrdmud.com  5000    {W*{x
+{x               {W****************************{x
+{x
+~
+D0
+~
+~
+0 0 23820
+D2
+~
+~
+0 0 23806
+D3
+~
+tree~
+1 0 23808
+C 0
+S
+#23808
+{DThe Grove of Persephone{x~
+The path of Tiresias is halted by the Grove, which is the last stop
+before reaching Oceanus.  This large wooded stand of trees lacks dense
+undergrowth, but was cultivated to bear the fruits of death.  The Path leads
+North to the Rock of Tiresias, and South 
+~
+0 8 12
+D0
+~
+~
+0 0 23847
+D2
+~
+~
+0 0 23809
+C 0
+S
+#23809
+{DThe Path of Tiresias{x~
+The path leads past the Grove of Persephone towards the great underground
+sea of Oceanus.  The undead souls can be heard wailing from seemingly every
+direction.  The pain echos from their screaming, but the surrounding
+darkness does not seem to care.  The path continues West towards Oceanus,
+and back North towards the Grove.  
+~
+0 8 12
+D0
+~
+~
+0 0 23808
+D3
+~
+~
+0 0 23810
+C 0
+S
+#23810
+{DThe Path of Tiresias{x~
+The path of Tiresias twists and turns along the shore of Oceanus.  The
+side of the path which faces the sea is just as dark as the side that faces
+the high, dead grass.  Shadows creep from every direction, ready to nip at
+the heels of any traveller who dares walk the path.  The path itself leads
+back East, and also South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23809
+D2
+~
+~
+0 0 23811
+C 0
+S
+#23811
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues along the shore to the West, and also goes back North.  
+~
+0 8 12
+D0
+~
+~
+0 0 23810
+D3
+~
+~
+0 0 23812
+C 0
+S
+#23812
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues South, and also goes back to the East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23811
+D2
+~
+~
+0 0 23813
+C 0
+S
+#23813
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues along the shore to the West, and also goes back North.  
+~
+0 8 12
+D0
+~
+~
+0 0 23812
+D3
+~
+~
+0 0 23814
+C 0
+S
+#23814
+{DAlong the Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues South, and also goes back to the East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23813
+D2
+~
+~
+0 0 23815
+C 0
+S
+#23815
+{DAlong the Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues along the shore to the West, and also goes back North.  
+~
+0 8 12
+D0
+~
+~
+0 0 23814
+D3
+~
+~
+0 0 23816
+C 0
+S
+#23816
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues South, and also goes back to the East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23815
+D2
+~
+~
+0 0 23817
+C 0
+S
+#23817
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues along the shore to the West, and also goes back North.  
+~
+0 8 12
+D0
+~
+~
+0 0 23816
+D3
+~
+~
+0 0 23818
+C 0
+S
+#23818
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path continues South, and also goes back to the East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23817
+D2
+~
+~
+0 0 23819
+C 0
+S
+#23819
+{DThe Shores of {bOceanus{x~
+The vast underground sea that encircles the Kingdom of Hades is just off
+the path.  The sea is filled not with water, but with souls and desperation.
+Their pain echoes across the shores, creating small sand dunes of agony. 
+The path ends here, but the pain and suffering do not.  
+~
+0 8 12
+D0
+~
+~
+0 0 23818
+C 0
+S
+#23820
+{DThe Path of Aeneas{x~
+The path leads north towards the Acheron river, leaving the Elm from
+which False Hope Clings behind.  The path has been formed from many years of
+slaves and weerily souls beating the ground on their way towards pergatory. 
+It goes back South, and also to the East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23821
+D2
+~
+~
+0 0 23807
+C 0
+S
+#23821
+{DThe Path of Aeneas{x~
+The path leads north towards the Acheron river, leaving the Elm from
+which False Hope Clings behind.  The path has been formed from many years of
+slaves and weerily souls beating the ground on their way towards pergatory. 
+It continues both to the North, and also back West.  
+~
+0 8 12
+D0
+~
+~
+0 0 23822
+D3
+~
+~
+0 0 23820
+C 0
+S
+#23822
+{DAlong the Path of Aeneas{x~
+The path leads north towards the Acheron river, leaving the Elm from
+which False Hope Clings behind.  The path has been formed from many years of
+slaves and weerily souls beating the ground on their way towards pergatory. 
+It continues both to the North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23823
+D2
+~
+~
+0 0 23821
+C 0
+S
+#23823
+{DAlong the Path of Aeneas{x~
+The path leads north towards the Acheron river, leaving the Elm from
+which False Hope Clings behind.  The path has been formed from many years of
+slaves and weerily souls beating the ground on their way towards pergatory. 
+It continues both to the East, and back South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23824
+D2
+~
+~
+0 0 23822
+C 0
+S
+#23824
+{DThe Path of Aeneas{x~
+The path grows darker by the foot.  The grass on each side, though
+already dead, seems to be dying as the path continues.  Small gravel rocks
+on the path roll back and forth in rhythm, as if the ground had a heartbeat.
+The path continues North and West.  
+~
+0 8 12
+D0
+~
+~
+0 0 23825
+D3
+~
+~
+0 0 23823
+C 0
+S
+#23825
+{DThe Path of Aeneas{x~
+The path grows darker by the foot.  The grass on each side, though
+already dead, seems to be dying as the path continues.  Small gravel rocks
+on the path roll back and forth in rhythm, as if the ground had a heartbeat.
+The path continues North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23826
+D2
+~
+~
+0 0 23824
+C 0
+S
+#23826
+{WCrossroads of Pain{x~
+The path of destruction has hit a crossroads.  The path leads West around
+the Marsh, North to the Marsh, East along the Acheron River, and back South.
+Many have chosen the incorrect path and were never seen again.  
+~
+0 8 12
+D1
+~
+~
+0 0 23866
+D2
+~
+~
+0 0 23825
+D3
+~
+~
+0 0 23827
+C 0
+S
+#23827
+{MThe Path around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23826
+D3
+~
+~
+0 0 23828
+C 0
+S
+#23828
+{MThe Path around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23827
+D3
+~
+~
+0 0 23829
+C 0
+S
+#23829
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23828
+D3
+~
+~
+0 0 23830
+C 0
+S
+#23830
+{MThe Path around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23829
+D3
+~
+~
+0 0 23831
+C 0
+S
+#23831
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23830
+D3
+~
+~
+0 0 23832
+C 0
+S
+#23832
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West, and
+the howling of unburied ghouls can be heard from the South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23831
+D2
+~
+~
+0 0 23833
+D3
+~
+~
+0 0 23834
+C 0
+S
+#23833
+{WGraveyard {Dof Unburied Souls{x~
+The friendless bodies of unburied men haunt this place.  Legends who have
+fallen may claim their corpse from this area.  The Eidolon cannot be stopped
+by death, their thirst for revenge is too great to ignore.  
+~
+0 8 12
+D0
+~
+~
+0 0 23832
+C 0
+S
+#23834
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23832
+D3
+~
+~
+0 0 23835
+C 0
+S
+#23835
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23834
+D3
+~
+~
+0 0 23836
+C 0
+S
+#23836
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The
+grassy vegetation is high and dirty.  The path continues East and to the
+North.  {x 
+~
+0 8 12
+D0
+~
+~
+0 0 23837
+D1
+~
+~
+0 0 23835
+C 0
+S
+#23837
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with the blood that flows from the nearby Marsh.  The path
+continues to the North and South, and West towards a giant rock.  
+~
+0 8 12
+D0
+~
+~
+0 0 23848
+D2
+~
+~
+0 0 23836
+D3
+~
+~
+0 0 23838
+C 0
+S
+#23838
+{WRock of {DTiresias{x~
+The Rock of Tiresias towers into the sky.  Its granite walls seep with
+bile, forming a pool at the bottom that flows into the Marsh.  The top of
+the rock is not even visible from the ground to most creatures, but the bile
+can be smelled from miles around.  The only exits are South along the
+Phlegethon River, and back East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23837
+D2
+~
+~
+0 0 23839
+C 0
+S
+#23839
+{DThe Path of Tiresias{x~
+The path leads West away from the mammoth rock that seems to tower to the
+Heavens.  The Phlegethon River is ahead on one side of the path, while tall,
+dead grass covers the other side.  Exits are North and West.  
+~
+0 8 12
+D0
+~
+~
+0 0 23838
+D3
+~
+~
+0 0 23840
+C 0
+S
+#23840
+{DThe Path of Tiresias{x~
+The path leads West away from the mammoth rock that seems to tower to the
+Heavens.  The Phlegethon River is ahead on one side of the path, while tall,
+dead grass covers the other side.  Exits are South and East.  
+~
+0 8 12
+D1
+~
+~
+0 0 23839
+D2
+~
+~
+0 0 23841
+C 0
+S
+#23841
+{DThe Path of Tiresias{x~
+The Phlegethon River rages on the right side of the path, inviting all to
+leap to their death.  Drowing souls creep from the banks of the river,
+aching to regain even an ounce of light, but the river simply rages on,
+pulling them back into the depths of its belly.  Exits are North and South. 
+~
+0 8 12
+D0
+~
+~
+0 0 23840
+D2
+~
+~
+0 0 23842
+C 0
+S
+#23842
+{DThe Winding Path of Tiresias{x~
+The Phlegethon River rages on the right side of the path, inviting all to
+leap to their death.  Drowing souls creep from the banks of the river,
+aching to regain even an ounce of light, but the river simply rages on,
+pulling them back into the depths of its belly.  Exits are North and East.  
+~
+0 8 12
+D0
+~
+~
+0 0 23841
+D1
+~
+~
+0 0 23843
+C 0
+S
+#23843
+{DThe Path of Tiresias{x~
+The Phlegethon River rages on the right side of the path, inviting all to
+leap to their death.  Drowing souls creep from the banks of the river,
+aching to regain even an ounce of light, but the river simply rages on,
+pulling them back into the depths of its belly.  Exits are South and West.  
+~
+0 8 12
+D2
+~
+~
+0 0 23844
+D3
+~
+~
+0 0 23842
+C 0
+S
+#23844
+{DThe Winding Path of Tiresias{x~
+The Phlegethon River rages on the right side of the path, inviting all to
+leap to their death.  Drowing souls creep from the banks of the river,
+aching to regain even an ounce of light, but the river simply rages on,
+pulling them back into the depths of its belly.  Exits are North and East.  
+~
+0 8 12
+D0
+~
+~
+0 0 23843
+D1
+~
+~
+0 0 23845
+C 0
+S
+#23845
+{DThe Winding Path of Tiresias{x~
+The path twists and turns away from the Phlegethon River and towards the
+Grove of Persephone, which is up in the distant south.  Exits are South and
+West.  
+~
+0 8 12
+D2
+~
+~
+0 0 23846
+D3
+~
+~
+0 0 23844
+C 0
+S
+#23846
+{DThe Path of Tiresias{x~
+The path twists and turns away from the Phlegethon River and towards the
+Grove of Persephone, which is up in the distant south.  Exits are North and
+East.  
+~
+0 8 12
+D0
+~
+~
+0 0 23845
+D1
+~
+~
+0 0 23847
+C 0
+S
+#23847
+{DThe Path of Tiresias{x~
+The path twists and turns away from the Phlegethon River and towards the
+Grove of Persephone, which is up in the distant south.  South and West.  
+~
+0 8 12
+D2
+~
+~
+0 0 23808
+D3
+~
+~
+0 0 23846
+C 0
+S
+#23848
+{MThe Path around the Marsh{x~
+The path around the Marsh is mud and reeks of dead bodies.  The soft, wet
+ground seeps with blood that flows from the nearby Marsh.  The ground gets
+muddier as the mighty rivers meet ahead.  Exits are North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23849
+D2
+~
+~
+0 0 23837
+C 0
+S
+#23849
+{DWhere the Phlegethon and Cocytus Rivers meet{x~
+Here the raging waters of the Phlegethon River meets the slower paced
+Cocytus River, as they both flow into the Marsh.  Exits are North and South.
+~
+0 8 12
+D0
+~
+~
+0 0 23850
+D2
+~
+~
+0 0 23848
+C 0
+S
+#23850
+{MThe Path around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The ground
+gets muddier as the mighty rivers meet ahead.  Exits are East and South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23851
+D2
+~
+~
+0 0 23849
+C 0
+S
+#23851
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23852
+D3
+~
+~
+0 0 23850
+C 0
+S
+#23852
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23853
+D3
+~
+~
+0 0 23851
+C 0
+S
+#23853
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23854
+D3
+~
+~
+0 0 23852
+C 0
+S
+#23854
+{DRoad the Palace of {WHades{x~
+The smell of burning flesh is rampant in the air.  The dock on the Marsh
+can barely be seen through the black fog.  Exits are East and West around
+the Marsh, and North towards the Palace.  
+~
+0 8 12
+D0
+~
+~
+0 0 23867
+D1
+~
+~
+0 0 23855
+D3
+~
+~
+0 0 23853
+C 0
+S
+#23855
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23856
+D3
+~
+~
+0 0 23854
+C 0
+S
+#23856
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23857
+D3
+~
+~
+0 0 23855
+C 0
+S
+#23857
+{MAround the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23858
+D3
+~
+~
+0 0 23856
+C 0
+S
+#23858
+{MPath around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23859
+D3
+~
+~
+0 0 23857
+C 0
+S
+#23859
+{MPath around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The burning
+smell of flesh signifies that the Road to the Palace is near.  Exits are
+East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23860
+D3
+~
+~
+0 0 23858
+C 0
+S
+#23860
+{MPath around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The ground
+gets muddier as the mighty rivers meet ahead.  Exits are West and South.  
+~
+0 8 12
+D2
+~
+~
+0 0 23861
+D3
+~
+~
+0 0 23859
+C 0
+S
+#23861
+{DWhere the Styx and the Acheron meet{x~
+Here the raging waters of the Styx River meets the slower paced Acheron
+River, as they both flow into the Marsh.  Exits are North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23860
+D2
+~
+~
+0 0 23862
+C 0
+S
+#23862
+{MPath around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The ground
+gets muddier as the mighty rivers meet ahead.  Exits are North and East.  
+~
+0 8 12
+D0
+~
+~
+0 0 23861
+D1
+~
+~
+0 0 23863
+C 0
+S
+#23863
+{MPath around the Marsh{x~
+The path around the Marsh is muddy and reeks of dead bodies.  The soft,
+wet ground seeps with blood that flows from the nearby Marsh.  The ground
+gets muddier as the mighty rivers meet ahead.  Exits are South and West.  
+~
+0 8 12
+D2
+~
+~
+0 0 23864
+D3
+~
+~
+0 0 23862
+C 0
+S
+#23864
+{MAround the Marsh{x~
+The path continues around the Marsh.  It gets muddier and muddier and is
+almost impassable.  The ground seems to be more alive than anything that has
+seen this path in ages.  The Exits are North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23863
+D2
+~
+~
+0 0 23865
+C 0
+S
+#23865
+{MAround the Marsh{x~
+The path continues around the Marsh.  It gets muddier and muddier and is
+almost impassable.  The ground seems to be more alive than anything that has
+seen this path in ages.  The Exits are North and West.  
+~
+0 8 12
+D0
+~
+~
+0 0 23864
+D3
+~
+~
+0 0 23866
+C 0
+S
+#23866
+{MAround the Marsh{x~
+The path continues around the Marsh.  It gets muddier and muddier and is
+almost impassable.  The ground seems to be more alive than anything that has
+seen this path in ages.  The Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23865
+D3
+~
+~
+0 0 23826
+C 0
+S
+#23867
+{DRoad to the Palace{x~
+The smell of burning flesh is rampant in the air.  The dock on the Marsh
+can barely be seen through the black fog.  Exits are North towards the
+Palace and back South to the Marsh.  
+~
+0 8 12
+D0
+~
+~
+0 0 23868
+D2
+~
+~
+0 0 23854
+C 0
+S
+#23868
+{DRoad to the Palace{x~
+The smell of burning flesh is rampant in the air.  The dock on the Marsh
+can barely be seen through the black fog.  Exits are North towards the
+Palace and back South to the Marsh.  
+~
+0 8 12
+D0
+~
+~
+0 0 23869
+D2
+~
+~
+0 0 23867
+C 0
+S
+#23869
+{DRoad to the Palace{x~
+The smell of burning flesh is rampant in the air.  The dock on the Marsh
+can barely be seen through the black fog.  Exits are North towards the
+Palace and back South to the Marsh.  
+~
+0 8 12
+D0
+~
+~
+0 0 23870
+D2
+~
+~
+0 0 23868
+C 0
+S
+#23870
+{DRoad to the Palace{x~
+The Palace of Hades is now in sight.  Surrounded by the Vale of Mourning
+to the east, the Plain of Judgement to the north, and the Elysian Fields to
+the west.  The Palace and its surroundings are cast in a shadow that is
+darker than night itself.  
+~
+0 8 12
+D0
+~
+~
+0 0 23871
+D2
+~
+~
+0 0 23869
+C 0
+S
+#23871
+{WThe Palace of {DHades{x~
+~
+0 8 9
+D0
+~
+~
+0 0 23872
+D2
+~
+~
+0 0 23870
+C 0
+S
+#23872
+{DThe Palace of {WHades{x~
+The Palace is large and made of bone.  Skulls and broken bodies on top of
+each other form the foundation.  The Eidolon bask in this place, and spend
+their time here when not hunting the dreaded Nephilim.  Exits are East, West
+and South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23883
+D2
+~
+~
+0 0 23871
+D3
+~
+~
+0 0 23873
+C 0
+S
+#23873
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23872
+D3
+~
+~
+0 0 23874
+C 0
+S
+#23874
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and North.  
+~
+0 8 12
+D0
+~
+~
+0 0 23875
+D1
+~
+~
+0 0 23873
+C 0
+S
+#23875
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23876
+D2
+~
+~
+0 0 23874
+C 0
+S
+#23876
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and South.  
+~
+0 8 12
+D1
+~
+~
+0 0 23877
+D2
+~
+~
+0 0 23875
+C 0
+S
+#23877
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23878
+D3
+~
+~
+0 0 23876
+C 0
+S
+#23878
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23879
+D2
+~
+~
+0 0 24099
+D3
+~
+~
+0 0 23877
+C 0
+S
+#23879
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23880
+D3
+~
+~
+0 0 23878
+C 0
+S
+#23880
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are South and West.  
+~
+0 8 12
+D2
+~
+~
+0 0 23881
+D3
+~
+~
+0 0 23879
+C 0
+S
+#23881
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are North and South.  
+~
+0 8 12
+D0
+~
+~
+0 0 23880
+D2
+~
+~
+0 0 23882
+C 0
+S
+#23882
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are North and West.  
+~
+0 8 12
+D0
+~
+~
+0 0 23881
+D3
+~
+~
+0 0 23883
+C 0
+S
+#23883
+{DThe Palace of {WHades{x~
+The wall of bone continues.  It is clear that some of the skulls are
+bleeding through their eye sockets.  Some of them are smiling, and some of
+them are laughing, but all of them are crying.  Exits are East and West.  
+~
+0 8 12
+D1
+~
+~
+0 0 23882
+D3
+~
+~
+0 0 23872
+C 0
+S
+#24099
+{WThe {DEidolon {WRoom of {YLegends{x~
+This is the room where Heros become Legends.  Only the greatest warriors
+can accomplish this great task.  The road is long, and is not easy, but the
+rewards are plentiful.  
+~
+0 9228 12
+D0
+~
+~
+0 0 23878
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 23807 3 1
+O 0 23807 0 23807
+M 0 23800 1 23826 1
+S
+
+
+
+#SHOPS
+23800 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#23800
+if isdelay $i
+break
+else
+say {YWould you like to ride the ferry?{x
+mob remember $n
+mob delay 2
+endif
+~
+#23801
+if hastarget $i
+say {YI only have eternity for you to descide.....{x
+twiddle
+else
+mob forget
+endif
+~
+#23802
+mob echoaround $n $I {munties the lines and gives the ferry a little shove.{x
+mob echoat $n $I {munties the lines and gives the ferry a little shove.{x
+mob recho {mThe black fogs makes it impossible to see what the Marsh is hiding, lucky for you, you didnt swim.{x
+mob transfer $n 23854
+~
+#0
+
+#$

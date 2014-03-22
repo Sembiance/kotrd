@@ -1,0 +1,1885 @@
+#AREADATA
+Name Test of Magic~
+Builders Belf~
+VNUMs 4700 4799
+Credits 5 -  15~
+Security 8
+Flags F
+LEVELs 6 30
+End
+
+
+
+#MOBILES
+#4701
+creation tiny~
+the Tiny Creation~
+{cThe Tiny Creation is here to serve the needs of the lord of the tower.{x
+~
+This thing appears as a basically humanoid shaped mass of strange black stuff.
+~
+Human~
+ABCU 0 0 0
+0
+6 0 6d10+6 1d1+9 1d6+1 none
+5 5 5 5
+0 0 D BCHIJKOQ
+stand stand male 500
+AHMV ABCDEFGHIJKMV tiny unknown
+#4702
+creation small~
+the Small Creation~
+{cThe Small Creation is moves around doing simple cleaning work.{x
+~
+This thing appears as a basically humanoid shaped mass of strange grey
+stuff.
+~
+Human~
+ABCU 0 0 0
+0
+8 1 8d10+8 1d1+9 1d8+2 none
+3 3 3 3
+F 0 D BCHIJKOQ
+stand stand male 1000
+AHMV ABCDEFGHIJKMV small unknown
+#4703
+creation medium~
+the Medium Creation~
+{cThe Medium Creation stands watch here.{x
+~
+This thing appears as a basically humanoid shaped mass of strange white
+stuff.
+~
+Human~
+ABCU 0 0 0
+0
+10 2 10d10+10 1d1+9 1d10+4 none
+1 1 1 1
+EF 0 D BCHIJKOQ
+stand stand male 1500
+AHMV ABCDEFGHIJKMV medium unknown
+#4704
+creation large~
+the large Creation~
+{cThe Large Creation stand guard here to repel intruders.{x
+~
+This thing appears as a basically humanoid shaped mass of strange glowing
+stuff.
+~
+Human~
+ABCFU J 0 0
+0
+12 3 12d10+52 1d1+9 1d12+8 none
+-1 -1 -1 -1
+EFN 0 D BCHIJKOQ
+stand stand male 2000
+AHMV ABCDEFGHIJKMV large unknown
+#4705
+creation huge~
+the huge creation~
+{cThe Huge Creation is here administering the work of the other
+creations.{x
+~
+This thing appears as a basically humanoid shaped mass of strange
+pulsating stuff.
+~
+Human~
+ABCU J 0 0
+0
+14 4 14d10+140 1d1+9 3d15+12 none
+-3 -3 -3 -3
+EFIN 0 D BCHIJKOQ
+stand stand male 2500
+AHMV ABCDEFGHIJKMV huge unknown
+#4706
+creation giant~
+the Giant Creation~
+{cThe Giant Creation protecting the lord of the tower.{x
+~
+This thing appears as a basically humanoid shaped mass of strange
+multi-coloured stuff.
+~
+Human~
+ABCU DJ 0 0
+0
+16 5 16d10+200 1d1+9 3d20+16 none
+-5 -5 -5 -5
+EFIKN 0 D BCHIJKOQ
+stand stand male 3000
+AHMV ABCDEFGHIJKMV giant unknown
+#4707
+apprentice mage~
+the apprentice mage~
+{cThe apprentice mage goes about his studies here.{x
+~
+This young mage is here seeking power, you wonder how much he has found.
+~
+Human~
+AGRU DJ 0 0
+0
+6 2 10d6+10 10d10+10 1d6+6 none
+2 2 2 2
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKMV small unknown
+#4708
+lord tower~
+the lord of the tower~
+{cThe Lord of the Tower seems very angry.{x
+~
+The Lord of the Tower is an imposing man dreesed in a hooded concealing robe.
+~
+Human~
+ABFRU DFJ 0 0
+0
+20 5 20d6+200 20d20+20 1d20+10 none
+0 0 0 0
+0 0 0 J
+stand stand male 5000
+AHMV ABCDEFGHIJKMV large unknown
+#0
+
+
+
+#OBJECTS
+#4701
+robes apprentice~
+a set of apprentice's robes~
+You see a set of apprentice's robes here.~
+SELECT_A_MATERIAL armor G AD
+C C C C 0
+6 10 1000 P
+A
+3 1
+A
+9 1
+E
+robes~
+You see some finely made robes with sliver symbols sown around the cuffs
+and hemm.
+~
+#4702
+cloak apprentice~
+an apprentice's cloak~
+You see a cloak here.~
+SELECT_A_MATERIAL armor G AC
+C C C C 0
+6 10 1000 P
+A
+4 1
+A
+3 1
+#4703
+skull cap apprentice~
+an apprentice's cloth skull cap~
+You see a cloth skull cap here.~
+SELECT_A_MATERIAL armor G AE
+C C C C 0
+6 10 1000 P
+A
+4 1
+A
+3 1
+#4704
+boots soft~
+some soft leather boots~
+You see a pair of soft leather boots here.~
+SELECT_A_MATERIAL armor G AG
+C C C C 0
+6 10 1000 P
+A
+14 50
+A
+2 2
+#4705
+dagger gleaming~
+a gleaming dagger~
+You see a gleaming dagger here.~
+MET_GENERIC weapon G AN
+dagger 3 4 pierce 0
+6 10 1000 P
+A
+19 2
+A
+18 2
+#4706
+cloak wizards~
+a wizard's cloak~
+You see a fine cloak here.~
+SELECT_A_MATERIAL armor G AC
+AC AC AC AC 0
+15 10 3000 P
+A
+12 10
+A
+4 1
+A
+3 1
+#4707
+robes wizards~
+a set of wizard's robes~
+You see a set of wizard's robes here.~
+SELECT_A_MATERIAL armor G AD
+AC AC AC AC 0
+15 10 3000 P
+A
+3 1
+A
+9 1
+E
+robes~
+You see some finely made robes covered with glowing magical sliver symbols.
+~
+#4708
+bracers protection~
+bracers of protection~
+You see some bracers here.~
+SELECT_A_MATERIAL armor G AI
+AB AB AB CD 0
+15 10 3000 P
+A
+4 1
+#4709
+skull cap~
+a silver skull cap~
+You see a silver skull cap here.~
+SELECT_A_MATERIAL armor G AE
+AB AB AB 0 0
+15 10 3000 P
+#4710
+boots black~
+some soft black boots~
+You see a pair of soft black boots here.~
+SELECT_A_MATERIAL armor G AG
+C C C 0 0
+15 10 3000 P
+A
+14 20
+A
+2 1
+#4711
+dagger mithril~
+a mithril dagger~
+You see a mithril dagger here.~
+MITHRIL weapon G AN
+dagger 4 4 pierce 0
+15 10 1000 P
+A
+13 10
+A
+18 3
+#4712
+wand black~
+a black wand~
+You see a black wand here.~
+SELECT_A_MATERIAL wand G AO
+4 10 10 'magic missile' 0
+6 3 500 P
+#4713
+wand silver~
+a silver wand~
+You see a silver wand here.~
+SELECT_A_MATERIAL wand FG AO
+4 10 10 'magic missile' 0
+6 3 500 P
+#4714
+staff gold exotic~
+a gold staff~
+You see a gold staff here.~
+GOLD weapon FG AO
+exotic 3 3 thrust 0
+6 130 1000 P
+#4715
+staff platinum exotic~
+a platinum staff~
+You see a platinum staff floating in the air here.~
+PLATINUM weapon FG AN
+exotic 3 3 thrust 0
+6 120 1000 P
+#4716
+key copper~
+a copper key~
+You see a copper key here.~
+SELECT_A_MATERIAL key FG AO
+0 0 0 0 0
+6 10 1000 P
+#4717
+key sliver~
+a silver key~
+You see a silver key here.~
+SELECT_A_MATERIAL key FG AO
+0 0 0 0 0
+6 10 1000 P
+#4718
+key gold~
+a gold key~
+You see a gold key here.~
+SELECT_A_MATERIAL key FG AO
+0 0 0 0 0
+6 10 1000 P
+#4719
+key platinum~
+a platinum key~
+You see a platinum key here.~
+SELECT_A_MATERIAL key FG AO
+0 0 0 0 0
+6 10 1000 P
+#4721
+tome~
+a tome of wisdom and understanding~
+You see a large ironbound book with a dragonskin cover.~
+SELECT_A_MATERIAL armor AGHIM AO
+AC AC AC AC 0
+15 10 30000 P
+A
+4 2
+A
+3 2
+#0
+
+
+
+#ROOMS
+#4701
+{MHidden path{x~
+This narrow track winds it's way between the dense undergrowth.  The
+ground is covered with sticks, leaves and roots.  The vegetation around
+here seems strange and twisted.  An eirey feels prevails, perhaps it's
+not a wise idea to continue...
+~
+0 0 4
+D0
+The path continues north towards the unknown!
+~
+~
+0 -1 4702
+D2
+You see the main road.
+~
+~
+0 -1 4703
+D3
+~
+~
+0 0 3762
+C 0
+S
+#4702
+{MBefore the Gates{x~
+You stand before an ornate set of iron grill-work gates.  The iron-work
+is twisted and the metal seems strangely blackened.  A smooth black wall
+extends away on both sides.  The surrounding vegetation closes in against
+the wall making movement to either side along the wall impossible.  The
+wall rises 30 feet into the sky, above all the trees near it making that
+way og entry impossible.  It seems that the gateway is the only
+entrance.  Beyond the wall u can percieve a tall tower.  All seems
+cloaked in shadows...
+~
+0 0 4
+D0
+~
+~
+0 -1 4703
+D2
+~
+~
+0 -1 4701
+D4
+~
+~
+0 -1 4712
+C 0
+S
+#4703
+{MInside the Gate{x~
+You stand in a small courtyard around the tower.  The courtyard extends
+to the east and west.  To the north a large doorway leads into the tower,
+to the south a gate leads into the forest.  The tower seems about 6
+stories high and is made of some dark smooth substance.  Narrow slits are
+cut in the walls to serve as windows but none are lower than 20 feet high
+and all are too narrow to serve as ways of entry.  The ground here is
+packed earth and no vegetation grows within the wall.  Not even the
+smallest blade of grass can be seen.
+~
+0 0 2
+D0
+~
+~
+0 -1 4741
+D1
+~
+~
+0 -1 4704
+D2
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 4710
+D4
+~
+~
+0 -1 4713
+C 0
+S
+#4704
+{MSouth East Corner of Courtyard{x~
+You are in the south east corner of the courtyard surrounding the tower.
+This area looks just the same as the area to the west and north but the is
+no entryway into the tower here.
+~
+0 0 2
+D0
+~
+~
+0 -1 4705
+D3
+~
+~
+0 -1 4703
+D4
+~
+~
+0 -1 4714
+C 0
+S
+#4705
+{MEastern area of the Courtyard{x~
+You are in the eastern area of the courtyard.  To the north and south the
+courtyard extends.  To the west is the tower and the east is the outside
+wall.  The ground here is the same as elsewhere in the courtyard and
+there is no visible entrance to the tower from here.
+~
+0 0 2
+D0
+~
+~
+0 -1 4706
+D2
+~
+~
+0 -1 4704
+D4
+~
+~
+0 -1 4715
+C 0
+S
+#4706
+{MNorth East Corner of Courtyard{x~
+You are in the north east corner of the courtyard surrounding the tower.
+This are looks just the same as the areas to the west and south but the is
+no entryway into the tower here.
+~
+0 0 2
+D2
+~
+~
+0 -1 4705
+D3
+~
+~
+0 -1 4707
+D4
+~
+~
+0 -1 4716
+C 0
+S
+#4707
+{MNorthern area of the Courtyard{x~
+You are in the northern area of the courtyard.  To the south a small door
+to the tower exists, to the north the exterior wall blocks exploration
+and to the east and west the courtyard continues.
+~
+0 0 2
+D1
+~
+~
+0 -1 4706
+D2
+~
+~
+1 -1 4748
+D3
+~
+~
+0 -1 4708
+D4
+~
+~
+0 -1 4717
+C 0
+S
+#4708
+{MNorth Western corner of the Courtyard{x~
+You are in the north western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and south
+but there is no entryway into the tower here.
+~
+0 0 2
+D1
+~
+~
+0 -1 4707
+D2
+~
+~
+0 -1 4709
+D4
+~
+~
+0 -1 4718
+C 0
+S
+#4709
+{MWestern area of the Courtyard{x~
+You are in the western area of the courtyard.  The ground here is bare
+earth, heavily packed and without a single blade of grass or other
+vegetation visible.  The courtyard extends to the north and south.  The
+exterior wall is to the west and the tower to the east.
+~
+0 0 2
+D0
+~
+~
+0 -1 4708
+D2
+~
+~
+0 -1 4710
+D4
+~
+~
+0 -1 4719
+C 0
+S
+#4710
+{MSouth Western corner of the Courtyard{x~
+You are in the south western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and north
+but there is no entryway into the tower here.
+~
+0 0 2
+D0
+~
+~
+0 -1 4709
+D1
+~
+~
+0 -1 4703
+D4
+~
+~
+0 -1 4720
+C 0
+S
+#4712
+{MIn the Air{x~
+You are in the air above the area just before the gate.  How simple it
+would be to simply fly over it.
+~
+0 0 10
+D0
+~
+~
+0 -1 4713
+D4
+~
+~
+0 -1 4722
+D5
+~
+~
+0 -1 4702
+C 0
+S
+#4713
+{MIn the Air{x~
+You are in the Air above the southern area of the courtyard.  There is an   
+entrance to the tower at ground level.
+~
+0 0 10
+D1
+~
+~
+0 -1 4714
+D3
+~
+~
+0 -1 4720
+D4
+~
+~
+0 -1 4723
+D5
+~
+~
+0 -1 4703
+C 0
+S
+#4714
+{MIn the Air{x~
+You are above the south east corner of the courtyard surrounding the tower.
+This area looks just the same as the area to the west and north but the is
+no entryway into the tower here.
+~
+0 0 10
+D0
+~
+~
+0 -1 4715
+D3
+~
+~
+0 -1 4713
+D4
+~
+~
+0 -1 4724
+D5
+~
+~
+0 -1 4704
+C 0
+S
+#4715
+{MIn the Air{x~
+You are above the eastern area of the courtyard.  To the north and south the
+courtyard extends.  To the west is the tower and the east is the outside
+wall.  The ground here is the same as elsewhere in the courtyard and  
+there is no visible entrance to the tower from here.
+~
+0 0 10
+D0
+~
+~
+0 -1 4716
+D2
+~
+~
+0 -1 4714
+D4
+~
+~
+0 -1 4725
+D5
+~
+~
+0 -1 4705
+C 0
+S
+#4716
+{MIn the Air{x~
+You are above the north east corner of the courtyard surrounding the tower.
+This are looks just the same as the areas to the west and south but the is
+no entryway into the tower here.
+~
+0 0 10
+D2
+~
+~
+0 -1 4715
+D3
+~
+~
+0 -1 4717
+D4
+~
+~
+0 -1 4726
+D5
+~
+~
+0 -1 4706
+C 0
+S
+#4717
+{MNorthern area of the Courtyard{x~
+You are above the northern area of the courtyard.  Below you at ground
+level a small door to the tower exists, to the north the exterior wall
+blocks exploration and to the east and west the courtyard continues.
+~
+0 0 2
+D1
+~
+~
+0 -1 4716
+D3
+~
+~
+0 -1 4718
+D4
+~
+~
+0 -1 4727
+D5
+~
+~
+0 -1 4707
+C 0
+S
+#4718
+{MIn the Air{x~
+You above in the north western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and south
+but there is no entryway into the tower here.
+~
+0 0 10
+D1
+~
+~
+0 -1 4717
+D2
+~
+~
+0 -1 4719
+D4
+~
+~
+0 -1 4728
+D5
+~
+~
+0 -1 4708
+C 0
+S
+#4719
+{MWestern area of the Courtyard{x~
+You above the western area of the courtyard.  The ground below is bare
+earth, heavily packed and without a single blade of grass or other
+vegetation visible.  The courtyard extends to the north and south.  The
+exterior wall is to the west and the tower to the east.
+~
+0 0 2
+D0
+~
+~
+0 -1 4718
+D2
+~
+~
+0 -1 4720
+D4
+~
+~
+0 -1 4729
+D5
+~
+~
+0 -1 4709
+C 0
+S
+#4720
+{MSouth Western corner of the Courtyard{x~
+You above the south western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and north
+but there is no entryway into the tower here.
+~
+0 0 2
+D0
+~
+~
+0 -1 4719
+D1
+~
+~
+0 -1 4713
+D4
+~
+~
+0 -1 4730
+D5
+~
+~
+0 -1 4710
+C 0
+S
+#4722
+{MIn the Air{x~
+You are in the air above the area just before the gate.  How simple it
+would be to simply fly over it.
+~
+0 0 10
+D0
+~
+~
+0 -1 4723
+D4
+~
+~
+0 -1 4732
+D5
+~
+~
+0 -1 4712
+C 0
+S
+#4723
+{MIn the Air{x~
+You are in the Air above the southern area of the courtyard.  There is an   
+entrance to the tower at ground level.
+~
+0 0 10
+D1
+~
+~
+0 -1 4724
+D3
+~
+~
+0 -1 4730
+D4
+~
+~
+0 -1 4733
+D5
+~
+~
+0 -1 4713
+C 0
+S
+#4724
+{MIn the Air{x~
+You are above the south east corner of the courtyard surrounding the tower.
+This area looks just the same as the area to the west and north but the is
+no entryway into the tower here.
+~
+0 0 10
+D0
+~
+~
+0 -1 4725
+D3
+~
+~
+0 -1 4723
+D4
+~
+~
+0 -1 4734
+D5
+~
+~
+0 -1 4714
+C 0
+S
+#4725
+{MIn the Air{x~
+You are above the eastern area of the courtyard.  To the north and south the
+courtyard extends.  To the west is the tower and the east is the outside
+wall.  The ground here is the same as elsewhere in the courtyard and  
+there is no visible entrance to the tower from here.
+~
+0 0 10
+D0
+~
+~
+0 -1 4726
+D2
+~
+~
+0 -1 4724
+D4
+~
+~
+0 -1 4735
+D5
+~
+~
+0 -1 4715
+C 0
+S
+#4726
+{MIn the Air{x~
+You are above the north east corner of the courtyard surrounding the tower.
+This are looks just the same as the areas to the west and south but the is
+no entryway into the tower here.
+~
+0 0 0
+D2
+~
+~
+0 -1 4725
+D3
+~
+~
+0 -1 4727
+D4
+~
+~
+0 -1 4736
+D5
+~
+~
+0 -1 4716
+C 0
+S
+#4727
+{MNorthern area of the Courtyard{x~
+You are above the northern area of the courtyard.  Below you at ground
+level a small door to the tower exists, to the north the exterior wall
+blocks exploration and to the east and west the courtyard continues.
+~
+0 0 0
+D1
+~
+~
+0 -1 4726
+D3
+~
+~
+0 -1 4728
+D4
+~
+~
+0 -1 4737
+D5
+~
+~
+0 -1 4717
+C 0
+S
+#4728
+{MIn the Air{x~
+You above in the north western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and south
+but there is no entryway into the tower here.
+~
+0 0 0
+D1
+~
+~
+0 -1 4727
+D2
+~
+~
+0 -1 4729
+D4
+~
+~
+0 -1 4738
+D5
+~
+~
+0 -1 4718
+C 0
+S
+#4729
+{MWestern area of the Courtyard{x~
+You above the western area of the courtyard.  The ground below is bare
+earth, heavily packed and without a single blade of grass or other
+vegetation visible.  The courtyard extends to the north and south.  The
+exterior wall is to the west and the tower to the east.
+~
+0 0 0
+D0
+~
+~
+0 -1 4728
+D2
+~
+~
+0 -1 4730
+D4
+~
+~
+0 -1 4739
+D5
+~
+~
+0 -1 4719
+C 0
+S
+#4730
+{MSouth Western corner of the Courtyard{x~
+You above the south western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and north
+but there is no entryway into the tower here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4729
+D1
+~
+~
+0 -1 4723
+D4
+~
+~
+0 -1 4740
+D5
+~
+~
+0 -1 4720
+C 0
+S
+#4732
+{MIn the Air{x~
+You are in the air above the area just before the gate.  How simple it
+would be to simply fly over it.
+~
+0 0 0
+D0
+~
+~
+0 -1 4733
+D5
+~
+~
+0 -1 4722
+C 0
+S
+#4733
+{MIn the Air{x~
+You are in the Air above the southern area of the courtyard.  There is an
+entrance to the tower at ground level.
+~
+0 0 0
+D0
+~
+~
+0 -1 4780
+D1
+~
+~
+0 -1 4734
+D3
+~
+~
+0 -1 4740
+D5
+~
+~
+0 -1 4723
+C 0
+S
+#4734
+{MIn the Air{x~
+You are above the south east corner of the courtyard surrounding the tower.
+This area looks just the same as the area to the west and north but the is
+no entryway into the tower here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4735
+D3
+~
+~
+0 -1 4733
+D5
+~
+~
+0 -1 4724
+C 0
+S
+#4735
+{MIn the Air{x~
+You are above the eastern area of the courtyard.  To the north and south the
+courtyard extends.  To the west is the tower and the east is the outside
+wall.  The ground here is the same as elsewhere in the courtyard and
+there is no visible entrance to the tower from here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4736
+D2
+~
+~
+0 -1 4734
+D3
+~
+~
+0 -1 4780
+D5
+~
+~
+0 -1 4725
+C 0
+S
+#4736
+{MIn the Air{x~
+You are above the north east corner of the courtyard surrounding the tower.
+This are looks just the same as the areas to the west and south but the is
+no entryway into the tower here.
+~
+0 0 10
+D2
+~
+~
+0 -1 4735
+D3
+~
+~
+0 -1 4737
+D5
+~
+~
+0 -1 4726
+C 0
+S
+#4737
+{MNorthern area of the Courtyard{x~
+You are above the northern area of the courtyard.  Below you at ground
+level a small door to the tower exists, to the north the exterior wall
+blocks exploration and to the east and west the courtyard continues.
+~
+0 0 2
+D1
+~
+~
+0 -1 4736
+D2
+~
+~
+0 -1 4780
+D3
+~
+~
+0 -1 4738
+D5
+~
+~
+0 -1 4727
+C 0
+S
+#4738
+{MIn the Air{x~
+You above in the north western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and south
+but there is no entryway into the tower here.
+~
+0 0 10
+D1
+~
+~
+0 -1 4737
+D2
+~
+~
+0 -1 4739
+D5
+~
+~
+0 -1 4728
+C 0
+S
+#4739
+{MWestern area of the Courtyard{x~
+You above the western area of the courtyard.  The ground below is bare
+earth, heavily packed and without a single blade of grass or other
+vegetation visible.  The courtyard extends to the north and south.  The
+exterior wall is to the west and the tower to the east.
+~
+0 0 2
+D0
+~
+~
+0 -1 4738
+D1
+~
+~
+0 -1 4780
+D2
+~
+~
+0 -1 4740
+D5
+~
+~
+0 -1 4729
+C 0
+S
+#4740
+{MSouth Western corner of the Courtyard{x~
+You above the south western corner of the courtyard surrounding the
+tower.  This are looks just the same as the areas to the east and north
+but there is no entryway into the tower here.
+~
+0 0 2
+D0
+~
+~
+0 -1 4739
+D1
+~
+~
+0 -1 4733
+D5
+~
+~
+0 -1 4730
+C 0
+S
+#4741
+{MThe Entrance{x~
+You stand inside the entrance to the tower.  Another door lies to the
+north leading to the heart of the tower.  This room is bare and boring.
+~
+0 1 1
+D0
+~
+~
+0 -1 4742
+D2
+~
+~
+0 -1 4703
+C 0
+S
+#4742
+{MHallway{x~
+You are in the main hallway of the tower.  This hallway seems rather
+large for what you saw of the tower from the outside.  The floor is
+polished black marble with red veins.  The walls are made with some
+strange smooth black rock like substance and the ceiling is lost in the
+darkness.  There is a doorway to the east and another to the west.  The
+hallway continues to the north and seems to open out into a large room.
+~
+0 0 1
+D0
+~
+~
+0 -1 4743
+D1
+~
+~
+0 -1 4744
+D2
+~
+~
+0 -1 4741
+D3
+~
+~
+0 -1 4745
+C 0
+S
+#4743
+{MAudience Chamber{x~
+You are in the audience chamber of the tower.  Marble columns support a
+ceiling lost in darkness.  At the far end a large stone chair with carved
+skulls decorating it draws your attention.  The walls are covered with
+strange tapestries that seem to have a life of their own.  Each tapestry 
+shows seens of great mages overcoming powerful foes with equally great
+magics.
+~
+0 0 1
+D2
+~
+~
+0 -1 4742
+C 0
+S
+#4744
+{MStairwell{x~
+The domainant feature of this room is a large circular stairway leading
+up into the tower.  Each stair is made of some strange reddish stone
+sanded smooth to a mirror-like finish.  Pictures on the walls depict
+powerful looking figures dressed in robes and holding glowing staffs,
+rods and wands.
+~
+0 0 1
+D3
+~
+~
+0 -1 4742
+D4
+~
+~
+0 -1 4750
+C 0
+S
+#4745
+{MCloakroom{x~
+You stand in a large cloak room.  Numerous pegs line the walls for the
+hanging of cloaks etc.  You notice meany fine ceramonial robes hanging
+from the pegs, obviously travel cloaks are exchanged for dress cloaks
+here.  A small passageway leads to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 4746
+D1
+~
+~
+0 -1 4742
+C 0
+S
+#4746
+{MKitchen{x~
+This room appears to be some sort of kitchen.  Large tables lie scattered
+about the walls and a huge firepit lies in the centre of the floor.
+Sacks and barrels are neatly stored under the tables and food-scrapes
+litter the tabletops.
+~
+0 0 1
+D0
+~
+~
+0 -1 4747
+D2
+~
+~
+0 -1 4745
+C 0
+S
+#4747
+{MStoreroom{x~
+This huge room is packed with barrels, crates, boxs and sacks.  The smell
+of salt is strong here suggesting that many of the barrels are filled
+with salted meat and vegetables.  All many of fresh fruit and vegetables
+lie about with little semblence of order, carrots, turnips, potatoes,  
+raddish, sugar beet, oats, tomatoes, apples, pears, oranges, beans, peas,
+cucumber, lemons, lettuce, celery, cabbage, onions, ginger, mint, etc.
+~
+0 1 1
+D0
+~
+~
+0 -1 4748
+D2
+~
+~
+0 -1 4746
+C 0
+S
+#4748
+{MStables{x~
+You stand in a large stable.  Large stalls on each side wall provide
+housing for any type of best.  At the nrthern end a solid door lead to
+the exterior whilst to the south a passageway leads deep into the tower.
+~
+0 0 1
+D0
+~
+~
+0 -1 4707
+D2
+~
+~
+0 -1 4747
+C 0
+S
+#4750
+{MGuardroom{x~
+You are in the Arena.  Ceilings can barely be seen in this huge Arena.  You
+feel as if you are being watched by some divine being.
+~
+0 0 1
+D3
+~
+~
+0 -1 4751
+D5
+~
+~
+0 -1 4744
+C 0
+S
+#4751
+{MCentral Room{x~
+This large chamber has rooms branching off in all directions.  Heads of
+exotic beasts adorne the walls.  Displays of more common but still
+powerful beasts are situated around the walls.  A massive statue of a
+fire giant with a plaque stands in the centre of the chamber.  Some of
+the displays include a Beholder, an imp, a devil-like creature, a angleic
+being, and a gargoyle.  The most interesting display is a strange shadowy
+being held inside a magic circle.  Wards surround the circle to keep
+other creatures from interfering with it's magic.
+~
+0 0 0
+D0
+~
+~
+0 -1 4752
+D1
+~
+~
+0 -1 4750
+D2
+~
+~
+1 -1 4753
+D3
+~
+~
+0 -1 4754
+C 0
+S
+#4752
+{MCorridor{x~
+This rather plain corridor goes north-south.  A few rather abstract
+paintings are hung on the walls.  The floor, walls and ceiling all seem
+to be of the strange smooth dark substance so common in this place.
+~
+0 0 1
+D0
+~
+~
+1 -1 4755
+D1
+~
+~
+1 -1 4756
+D2
+~
+~
+0 -1 4751
+D3
+~
+~
+1 -1 4757
+C 0
+S
+#4753
+{MWorkshop{x~
+This huge room serves as a workshop for the apprentices'.  Large
+workbenches are arranged around the room and each is cluttered with all
+manner of junk.  Test tubes, beakers, stands, retorts, burners, conical
+flasks, round flasks, square flasks etc.  The exit to the central room is to
+the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 4751
+C 0
+S
+#4754
+{MStairwell{x~
+This room is dominated by a large circular stairway leading up.  Carpets
+litter the floor and paintings of weird scenes adorn the walls.  The exit
+back to the main hall is to the east and the stairway leads up...
+~
+0 0 1
+D1
+~
+~
+0 -1 4751
+D4
+~
+~
+0 -1 4760
+C 0
+S
+#4755
+{MApprentices' Room{x~
+You are in a smallish room with simple furnishings.  A bed, table and
+chest are the main furnishings here.  Rugs lie scattered about the
+floor.
+~
+0 1 1
+D2
+~
+~
+0 -1 4752
+C 0
+S
+#4756
+{MApprentice's Room{x~
+This smaller room is sparsely furnished.  A bookself occupies the north
+wall and is filled with books.  A bed lies against the south wall and a
+cluttered desk is against the east wall.  The exit is to the west.
+Scattered rugs lie about the floor.  Each is made up of the skin of some 
+unknown beast.
+~
+0 1 1
+D3
+~
+~
+0 -1 4752
+C 0
+S
+#4757
+{MSmall library{x~
+You are in a small room about 30 by 30 feet.  Bookshelves occupy all the
+available wallspace and a large reading table is in the centre of the
+room.  The books all seem to be of fairly basic nature although many of
+the title appear to be in strange languages.  The exit is to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 4752
+C 0
+S
+#4760
+{MGuardroom{x~
+This seems to be some sort of guardroom.  A staitway leads down and 
+another exit is to the east.  This room has no furnishings at all.  The 
+walls, floors and ceiling are all bare.  This room obviously prevents
+intruders from goin any further into the tower.
+~
+0 0 1
+D1
+~
+~
+0 -1 4761
+D5
+~
+~
+0 -1 4754
+C 0
+S
+#4761
+{MMain Workshop{x~
+This huge room is surely too large to fit within the tower.  Tables,
+benches, shelves and stands are all ladden with beakers, flasks, cages,
+jars, bottles, rocks, bags, boxes, books, mannuels, tomes and scrolls.
+This place is a MESS.  Various jobs seem to be all in a state of
+semi-completion.  Vaguely humaniod shapes moulded out of various
+substances stand half done, large barrels that serve a rubbish bins lie
+overfolwing and sometimes turned over about the room.  You wonder how you
+can safely navigate your way across the room to the other exits.
+~
+0 0 1
+D0
+~
+~
+1 -1 4762
+D1
+~
+~
+1 -1 4763
+D2
+~
+~
+1 -1 4764
+D3
+~
+~
+0 -1 4760
+C 0
+S
+#4762
+{MStoreroom{x~
+this room is cluttered with everthing that couldn't fit out in the
+laboratory or wasn't needed for imediate use.  Although this room is
+jammed full of gear you notice a semblance of order here and the room is
+infact very clean.  Perhaps there is some order out in the laboratory
+like that present here but you can't work it out.
+~
+0 0 1
+D2
+~
+~
+1 -1 4761
+C 0
+S
+#4763
+{MStairwell{x~
+This is yet another large room with a large circular stairway dominant.
+The decorations here are more costly and elaborate.  There is rich red
+carpet on the floor and up the steps and beautiful mahogany bannisters
+for support.  Incredible tapestries play out illusionary scenes of epic
+magical battles like you were there.
+~
+0 0 1
+D3
+~
+~
+1 -1 4761
+D4
+~
+~
+0 -1 4770
+C 0
+S
+#4764
+{MCorridor{x~
+This short corridor is richly furnished.  Beautiful red carpet adorns the
+floor and a large expensive mirror hangs on the wall giving the illusion
+of space.
+~
+0 0 1
+D0
+~
+~
+0 -1 4761
+D1
+~
+~
+1 -1 4765
+D2
+~
+~
+1 -1 4766
+D3
+~
+~
+1 -1 4767
+C 0
+S
+#4765
+{MApprentice's Room{x~
+You are in a small room about 30 by 30 feet.  Bookshelves occupy all the
+available wallspace except against the east wall where a small bed has
+been squeezed in.  A large reading table is in the centre of the
+room.  The books all seem to be of fairly basic nature although many of
+the title appear to be in strange languages.  The exit is to the west.
+~
+0 0 1
+D3
+~
+~
+1 -1 4764
+C 0
+S
+#4766
+{MCage Room{x~
+This room is full of cages filled with all manner of wierd and wonderful beast
+s, from simple mice to strange monsters from other planets.   
+~
+0 0 1
+D0
+~
+~
+1 -1 4764
+C 0
+S
+#4767
+{MApprentice's Room{x~
+You are in a small room about 30 by 30 feet.  Bookshelves occupy all the
+available wallspace except a small gap in the west wall where a bed has
+been placed.  A large reading table is in the centre of the room.  The books
+all seem to be of fairly basic nature although many of the title appear to
+be in strange languages.  The exit is to the east.
+~
+0 1 1
+D1
+~
+~
+1 -1 4764
+C 0
+S
+#4770
+{MGuardroom{x~
+This room appears to be a simple guardrom.  No furniture is visible.  The
+walls, floors and ceiling are all bare.  A simple magical globe provides
+illumination.
+~
+0 0 1
+D3
+~
+~
+1 -1 4771
+D4
+~
+~
+0 -1 4780
+D5
+~
+~
+0 -1 4763
+C 0
+S
+#4771
+{MMaster's Room{x~
+This huge room must be atleast 100 feet square, lush lounges, beatiful
+red-oak tables, multi-coloured magical light globes, fine magical
+tapestries, Tyrian purple curtains, rugs made from the skins of wondrous 
+exotic beasts all add to the feeling of pure luxury and opulence.  A
+large opening leads to the north and a smaller doorway leads to the  
+south.
+~
+0 8192 1
+D0
+~
+~
+1 -1 4772
+D1
+~
+~
+0 -1 4770
+D2
+~
+~
+1 -1 4773
+C 0
+S
+#4772
+{MMaster Library{x~
+This huge room is packed with books.  Bookshelves line the walls and
+stand in neat rows about the room.  Reading tables are piled with books,
+the bookselves themselves look ready to burst.  Books on every imaginable
+topic and a few more can be found here.  Many of the books seem to be in
+strange languages, you wonder what knowledge they contain.
+~
+0 0 1
+D2
+~
+~
+0 -1 4771
+C 0
+S
+#4773
+{MMaster Bedroom{x~
+This large room is luxury defined.  Beautiful rugs, curtains, tapestries,
+tables etc fill the room.  A huge canopy bed with tyrian purple curtains
+stands against the south wall.
+~
+0 0 1
+D0
+~
+~
+0 -1 4771
+C 0
+S
+#4780
+{MTop of the Tower{x~
+You stand on the roof of the tower.  A 6 foot high battlement runs around
+the edge.  The entire countryside can be clearly seen from here.  To the
+south east a gnome village is a bussle of activity.  To the south the
+world seems in turmoil as the elements colide in elemental canyon.  To
+the west is the city of Midgaard and to the east is the city of New
+Thalos.  To the south west the ruins of old thalos can be seen.  To the
+north the village of ofcol and the famous Dragon citidel is visible.  To
+the north west a valley can be seen.
+~
+0 0 2
+D0
+~
+~
+0 -1 4737
+D1
+~
+~
+0 -1 4735
+D2
+~
+~
+0 -1 4733
+D3
+~
+~
+0 -1 4739
+D5
+~
+~
+0 -1 4770
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 4708 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 4701 10 4703 1
+M 0 4702 20 4705 1
+M 0 4702 20 4705 1
+M 0 4701 10 4707 1
+G 0 4716 0
+M 0 4702 20 4708 1
+M 0 4702 20 4709 1
+M 0 4702 20 4709 1
+M 0 4701 10 4742 1
+M 0 4701 10 4743 1
+M 0 4702 20 4743 1
+M 0 4702 20 4743 1
+M 0 4705 5 4743 1
+M 0 4702 20 4744 1
+M 0 4701 10 4745 1
+M 0 4701 10 4747 1
+M 0 4701 10 4747 1
+M 0 4702 20 4747 1
+M 0 4702 20 4747 1
+M 0 4702 20 4748 1
+M 0 4702 20 4748 1
+M 0 4703 10 4750 1
+M 0 4703 10 4750 1
+M 0 4702 20 4751 1
+G 0 4717 0
+M 0 4703 10 4751 1
+M 0 4705 5 4751 1
+M 0 4707 5 4751 1
+E 0 4701 0 5
+E 0 4702 0 3
+E 0 4703 0 6
+E 0 4704 0 8
+E 0 4705 0 16
+E 0 4714 0 17
+M 0 4703 10 4752 1
+M 0 4703 10 4752 1
+M 0 4702 20 4753 1
+M 0 4702 20 4754 1
+M 0 4702 20 4754 1
+M 0 4703 10 4754 1
+M 0 4707 5 4756 1
+E 0 4701 0 5
+E 0 4702 0 3
+E 0 4703 0 6
+E 0 4704 0 8
+E 0 4705 0 16
+E 0 4713 0 17
+M 0 4703 10 4760 1
+M 0 4703 10 4761 1
+G 0 4718 0
+M 0 4704 3 4761 1
+M 0 4705 5 4761 1
+M 0 4707 5 4761 1
+E 0 4701 0 5
+E 0 4702 0 3
+E 0 4703 0 6
+E 0 4704 0 8
+E 0 4705 0 16
+E 0 4715 0 17
+M 0 4704 3 4762 1
+M 0 4704 3 4763 1
+M 0 4707 5 4765 1
+E 0 4701 0 5
+E 0 4702 0 3
+E 0 4703 0 6
+E 0 4704 0 8
+E 0 4705 0 16
+M 0 4707 5 4767 1
+E 0 4701 0 5
+E 0 4702 0 3
+E 0 4703 0 6
+E 0 4704 0 8
+E 0 4705 0 16
+E 0 4712 0 17
+M 0 4706 5 4771 1
+G 0 4719 0
+M 0 4706 5 4771 1
+M 0 4706 5 4772 1
+M 0 4708 1 4772 1
+E 0 4706 0 3
+E 0 4707 0 5
+E 0 4708 0 10
+E 0 4709 0 6
+E 0 4710 0 8
+E 0 4711 0 16
+O 0 4721 0 4772
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

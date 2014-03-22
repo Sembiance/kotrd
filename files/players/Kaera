@@ -1,0 +1,160 @@
+#PLAYER
+Name Kaera~
+Id   1145992530
+LogO 1145994677
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Elf~
+Sex  2
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 1051
+Scro 33
+Room 3054
+HMV  25 33 103 103 68 106
+Gold 0
+Silv 128
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2827
+PAct  DFGQTd
+AfBy J
+WName Kaera~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 3
+Save  -31
+Alig  1000
+Hit   62
+ACs 70 69 69 80
+Attr 16 15 19 16 13
+AMod 0 0 0 0 0
+Pass KaZseakwVhQ8I~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 48
+TSex 2
+PSize 1
+LLev 0
+HMVP 33 103 106
+Cnd  0 20 34 34
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 1 'axe'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'bless'   0 248 118 -31  20          0
+Affc 'bless'   0 250 118  62  18          0
+Affc 'armor'   0 247  80 -20  17          0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 31501
+Nest 0
+Cond 0
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#END

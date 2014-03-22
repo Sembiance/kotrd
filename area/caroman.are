@@ -1,0 +1,2535 @@
+#AREADATA
+Name Caroman's Work in Progress~
+Builders Caroman~
+VNUMs 11500 11599
+Credits UNKNOWN~
+Security 1
+Flags E
+LEVELs 101 500
+End
+
+
+
+#MOBILES
+#11500
+ice golem gatekeeper~
+{WAn Ice Golem{x~
+{WAn Ice Golem stands frozen, keeping watch over the gate{x
+~
+A golem stands proudly in front of the gate.  The blizzard does not
+affect him, his eyes seem to stay frozen, starring directly in to yours.  
+~
+Golem~
+ABC HOTVXac -1000 0
+0
+50 20 30d11+7000 1d1+100 1d20+10 slash
+-12 -12 -12 -12
+EFHIKN ILQRS F HJO
+stand stand male 10000
+CHJM ABCGHIJKM medium unknown
+#11501
+ice soldier~
+{WAn Ice Soldier{x~
+{WAn Ice Soldier, bundled in layers upon layers of clothes awaits to do the bidding of the Lords of the Tower{x
+~
+~
+Human~
+ACFT HOV 0 0
+0
+50 30 28d10+6500 1d1+100 2d15+20 slash
+-11 -11 -11 -11
+CEFN I F H
+stand stand male 10000
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+#11502
+guardian ice golem guard~
+{WThe Guardian Ice Golem{x~
+{WThe Guardian Ice Golem Guards the Entrance to the Tower{x
+~
+A huge ice golem stands before you.  He is the guardian of the tower and
+lets no one pass.  His eyes stare deep in to yours and he glares at you. 
+His muscles are tense and he is ready to do battle.  
+~
+Golem~
+ABC DFHPQTVc -1000 0
+0
+55 25 30d15+9000 1d1+100 2d20+15 slash
+-25 -25 -25 -25
+CEFK ILQR 0 HJO
+stand stand male 15000
+CHJM ABCGHIJKM medium unknown
+F res F
+#11503
+frost dragon~
+{CFrost Dragon{x~
+{C A Frost Dragon chills the air with his icy breath{X
+~
+~
+dragon~
+AFT CDFHJOTVc 0 0
+0
+60 45 33d16+8800 1d100+100 4d25+25 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11504
+snow dragon~
+{WSnow Dragon~
+{WA Snow Dragon blows a hurricane of snow in to your face{x
+~
+~
+dragon~
+AFT CDFHJOTVc 0 0
+0
+60 45 33d16+8800 1d100+100 4d25+25 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11505
+hail dragon~
+{BHail Dragon{x~
+{BA Hail Dragon breathes chunks of ice at you{x
+~
+~
+dragon~
+AFT CDFHJOTVc 0 0
+0
+60 45 33d16+8800 1d100+100 4d25+25 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11506
+ice dragon~
+{DIce Dragon{x~
+{DAn Ice Dragon's glare freezes your bones{x
+~
+~
+dragon~
+AFT CDFHJOTVc 0 0
+0
+60 45 33d16+8800 1d100+100 4d25+25 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11507
+winter~
+{BWINTER{x~
+{BWinter surrounds and overcomes you!{x
+~
+~
+dragon~
+ABFT CDFJOTVce 0 0
+0
+60 65 32d14+8100 1d100+100 5d26+25 slash
+-30 -30 -30 -30
+CFK EI JN 0
+stand stand male 30000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11508
+lord of hail~
+{BThe Lord of Hail{x~
+{BThe Lord of Hail casts balls of ice down upon the land from his room in the tower{x
+~
+~
+dragon~
+ABFR CDFHJOTVc -1000 0
+0
+65 50 32d15+8800 1d100+100 4d25+20 slash
+-40 -40 -40 -40
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11509
+lord of frost~
+{CThe Lord of Frost{x~
+{CFrom his room in the tower The Lord of Frost casts a glaze of ice over the ground{x
+~
+~
+dragon~
+ABFR CDFHJOTVc -1000 0
+0
+66 35 32d18+9000 1d100+100 4d30+25 slash
+-20 -20 -20 -20
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11510
+{WThe Lord of Snow{x~
+{WThe Lord of Snow{x~
+{WHigh in the tower The Lord of Snow busies himself killing the innocent in freezing blizzards{x
+~
+~
+dragon~
+ABFR CDFHJOTVc -1000 0
+0
+68 50 32d20+9200 1d100+100 5d20+15 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#11511
+lord of ice~
+{DThe Lord of Ice{x~
+{DAtop the tower the Lord of Ice attempts to freeze all water in the realm{x
+~
+~
+dragon~
+ABFR CDFHJOTVc -1000 0
+0
+70 40 34d25+9800 1d100+100 5d30+20 slash
+-30 -30 -30 -30
+CFK I JN H
+stand stand male 20000
+AHZ ACDEFGHIJKPQUVXZ medium unknown
+F res BEH
+#0
+
+
+
+#OBJECTS
+#11500
+small icicle~
+{WA Small Icicle{x~
+{WA Small Icicle lays here melting{X~
+SELECT_A_MATERIAL key EF AO
+0 0 0 0 0
+40 10 10000 P
+#11501
+key to the tower~
+{CThe Key to the Tower{x~
+{CA key lays here, a chill of the likes that you have never felt penetrate your skin{x~
+ROCK_MARBLE key AB AO
+0 0 0 0 0
+50 10 100 P
+#11502
+winters whip~
+{CWinter's Whip{x~
+{CA long {BWHIP{C is frozen to the ground{x~
+SELECT_A_MATERIAL weapon AB AN
+whip 9 11 frbite BCH
+50 60 50000 P
+A
+18 5
+A
+19 5
+#11503
+key~
+{CA Key{x~
+{CA key lays here{x~
+ROCK_MARBLE key AB AO
+0 0 0 0 0
+50 10 100 P
+#11504
+key~
+{WA Key{x~
+{WA key lays here{x~
+ROCK_MARBLE key AB AO
+0 0 0 0 0
+50 10 100 P
+#11505
+key~
+{DA Key{x~
+{DA key lays here{x~
+ROCK_MARBLE key AB AO
+0 0 0 0 0
+50 10 100 P
+#11506
+ice boots~
+{WIce Boots{x~
+{WA pair of frozen boots{x~
+HIGH_LEATHER armor FJLY AG
+AC AC AC AC 0
+52 10 20000 P
+A
+4 -1
+A
+1 1
+A
+14 -50
+A
+13 40
+A
+19 5
+#11507
+snow shield~
+{WSnow Shield{x~
+{WA very precious shield lays on the ground{x~
+SOULSTONE armor MY AJ
+BD BD BD BD 0
+52 25 10000 P
+A
+19 2
+A
+1 -2
+A
+17 -50
+A
+12 100
+#0
+
+
+
+#ROOMS
+#11500
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11501
+C 0
+S
+#11501
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11502
+D1
+~
+~
+0 0 11534
+D2
+~
+~
+0 0 11500
+D3
+~
+~
+0 0 11554
+D6
+~
+~
+0 0 11536
+D9
+~
+~
+0 0 11556
+C 0
+S
+#11502
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11503
+D1
+~
+~
+0 0 11536
+D2
+~
+~
+0 0 11501
+D3
+~
+~
+0 0 11556
+D6
+~
+~
+0 0 11538
+D7
+~
+~
+0 0 11534
+D8
+~
+~
+0 0 11554
+D9
+~
+~
+0 0 11558
+C 0
+S
+#11503
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11504
+D1
+~
+~
+0 0 11538
+D2
+~
+~
+0 0 11502
+D3
+~
+~
+0 0 11558
+D6
+~
+~
+0 0 11540
+D9
+~
+~
+0 0 11560
+C 0
+S
+#11504
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11505
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 11503
+D3
+~
+~
+0 0 11560
+D6
+~
+~
+0 0 11544
+D9
+~
+~
+0 0 11562
+C 0
+S
+#11505
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11506
+D1
+~
+~
+0 0 11544
+D2
+~
+~
+0 0 11504
+D3
+~
+~
+0 0 11562
+D6
+~
+~
+0 0 11546
+D9
+~
+~
+0 0 11564
+C 0
+S
+#11506
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11507
+D1
+~
+~
+0 0 11546
+D2
+~
+~
+0 0 11505
+D3
+~
+~
+0 0 11564
+D6
+~
+~
+0 0 11548
+C 0
+S
+#11507
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11508
+D1
+~
+~
+0 0 11548
+D2
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11566
+D6
+~
+~
+0 0 11550
+D9
+~
+~
+0 0 11568
+C 0
+S
+#11508
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11509
+D1
+~
+~
+0 0 11550
+D2
+~
+~
+0 0 11507
+D3
+~
+~
+0 0 11568
+D6
+~
+~
+0 0 11552
+D9
+~
+~
+0 0 11570
+C 0
+S
+#11509
+{CA Frozen Path{x~
+As the fierce blizzard rages all around you it is all you can do to stay
+on your feet.  The path is completely frozen over with a slab of sheer ice. 
+You can not make out anything clearly and your senses are fogged by the
+howling wind.  As you let fear overcome you an evil chill seems to touch
+your very soul.  
+~
+0 0 6
+E
+runes~
+The Isle of Nightmares lies beyond this path.  Be wary of which direction
+you travel for there is only one way through.  Once you make a step in the
+correct direction, there is no turning back.  If you take a wrong step you
+are doomed to never come back.  Seek out the gatekeeper, for he holds the
+key.  The treasure and riches found in Nightmare Isle will be the greatest
+you will ever see.  
+~
+D0
+~
+~
+0 0 11510
+D1
+~
+~
+0 0 11552
+D2
+~
+~
+0 0 11508
+D3
+~
+~
+0 0 11570
+C 0
+S
+#11510
+{CBefore A Frozen Gate{x~
+Above you looms a huge gate.  It is covered in ice and seems to be frozen
+shut.  As you draw closer the blizzard seems to become more intense, and the
+howling seems to only become louder.  
+~
+0 0 6
+D0
+~
+~
+2 11500 11511
+D2
+~
+~
+0 0 11509
+C 0
+S
+#11511
+{CPath to the Tower{x~
+The piercing chill makes your blood run cold.  With every step the arctic
+inclemency becomes worse, and you feel yourself begin to loose energy.  In
+the distance you see a huge stalagmite of ice towering above you.  Howling
+voices surround you and you are barely able to concentrate.  
+~
+0 8192 2
+D0
+~
+~
+0 0 11512
+D2
+~
+~
+2 0 11510
+M 50 H 50
+C 0
+S
+#11512
+{CPath to the Tower{x~
+The piercing chill makes your blood run cold.  With every step the arctic
+inclemency becomes worse, and you feel yourself begin to loose energy.  In
+the distance you see a huge stalagmite of ice towering above you.  Howling
+voices surround you and you are barely able to concentrate.
+~
+0 8192 2
+D0
+~
+~
+0 0 11513
+D2
+~
+~
+0 0 11511
+M 25 H 25
+C 0
+S
+#11513
+{CIntersection in the Path{x~
+The piercing chill makes your blood run cold.  With every step the
+arctic inclemency becomes worse, and you feel yourself begin to loose
+energy.  In the distance you see a huge stalagmite of ice towering above
+you.  Howling voices surround you and you are barely able to concentrate. 
+Two paths diverge from here to the east and west.  
+~
+0 8192 2
+D0
+~
+~
+0 0 11514
+D1
+~
+~
+0 0 11521
+D2
+~
+~
+0 0 11512
+D3
+~
+~
+0 0 11517
+M 0 H 0
+C 0
+S
+#11514
+{CPath to the Tower{x~
+The piercing chill makes your blood run cold.  With every step the arctic
+inclemency becomes worse, and you feel yourself begin to loose energy.  In
+the distance you see a huge stalagmite of ice towering above you.  Howling
+voices surround you and you are barely able to concentrate.
+~
+0 8192 2
+D0
+~
+~
+0 0 11515
+D2
+~
+~
+0 0 11513
+M -25 H -25
+C 0
+S
+#11515
+{CPath to the Tower{x~
+The piercing chill makes your blood run cold.  With every step the arctic
+inclemency becomes worse, and you feel yourself begin to loose energy.  In
+the distance you see a huge stalagmite of ice towering above you.  Howling
+voices surround you and you are barely able to concentrate.
+~
+0 8192 2
+D0
+~
+~
+0 0 11516
+D2
+~
+~
+0 0 11514
+M -50 H -50
+C 0
+S
+#11516
+{CBefore the Ice Tower{x~
+You approach the Ice Tower.  From a distance it resembles a huge
+stalagmite.  An intense cold radiates from around the huge icicle and every
+second you stand there you feel yourself about to fall to the ground.  Your
+senses have become numb and your mind is fogged with thoughts of turning
+back.  
+~
+0 8192 2
+D0
+~
+~
+4 11501 11525
+D2
+~
+~
+0 0 11515
+M -100 H -100
+C 0
+S
+#11517
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11513
+D3
+~
+~
+0 0 11518
+C 0
+S
+#11518
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11517
+D3
+~
+~
+0 0 11519
+C 0
+S
+#11519
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11518
+D3
+~
+~
+0 0 11520
+C 0
+S
+#11520
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11519
+C 0
+S
+#11521
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11522
+D3
+~
+~
+0 0 11513
+C 0
+S
+#11522
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11523
+D3
+~
+~
+0 0 11521
+C 0
+S
+#11523
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D1
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11522
+C 0
+S
+#11524
+{WA Cold Path{x~
+As you move away from the main path you are better able to concentrate,
+and the numbness in your limbs seems to subside.  The blizzard still rages,
+and the howling voices have become closer, and more audible.  Your vision is
+blurred from the falling sleet and snow.  It is all you can do to find your
+way along the path.  
+~
+0 8192 13
+D3
+~
+~
+0 0 11523
+C 0
+S
+#11525
+{DBase of The Tower{x~
+{cYou stand before a stairacse which seems to spiral up in to oblivion. 
+The walls around you are a deep blue from the layers of ice which have built
+up over centuries.  An eerie chill, the likes of which you have never felt
+before, pierces your armor and chills your bones.  The inside of the tower
+is lit by a bright blue ball which floats at the peek.  
+~
+0 8 1
+D2
+~
+~
+4 0 11516
+D4
+~
+~
+0 0 11526
+C 0
+S
+#11526
+{BUp the Spiral Staircase{x~
+As you make your way up the staircase you can barely keep your feet. 
+With every step the ice seems to become more and more slippery.  As you get
+closer to the floating blue sphere which illuminates the middle of the tower
+you feel yourself becoming weeker.  There is a icy landing to the east.  
+~
+0 8 1
+D1
+~
+~
+4 11500 11530
+D4
+~
+~
+0 0 11527
+D5
+~
+~
+0 0 11525
+M 0 H 0
+C 0
+S
+#11527
+{BUp the Spiral Staircase{x~
+As you make your way up the staircase you can barely keep your feet. 
+With every step the ice seems to become more and more slippery.  As you get
+closer to the floating blue sphere which illuminates the middle of the tower
+you feel yourself becoming weeker.  There is an icy landing to the north. 
+~
+0 8 1
+D0
+~
+~
+0 0 11531
+D4
+~
+~
+0 0 11528
+D5
+~
+~
+0 0 11526
+M -25 H -25
+C 0
+S
+#11528
+{BUp the Spiral Staircase{x~
+As you make your way up the staircase you can barely keep your feet. 
+With every step the ice seems to become more and more slippery.  As you get
+closer to the floating blue sphere which illuminates the middle of the tower
+you feel yourself becoming weeker.  There is an icy landing to the west{x 
+~
+0 8 1
+D3
+~
+~
+0 0 11532
+D4
+~
+~
+0 0 11529
+D5
+~
+~
+0 0 11527
+M -50 H -50
+C 0
+S
+#11529
+{BUp the Spiral Staircase{x~
+As you make your way up the staircase you can barely keep your feet. 
+With every step the ice seems to become more and more slippery.  As you get
+closer to the floating blue sphere which illuminates the middle of the tower
+you feel yourself becoming weeker.  There is an icy landing to the south.  
+~
+0 8 1
+D2
+~
+~
+0 0 11533
+D5
+~
+~
+0 0 11528
+M -100 H -100
+C 0
+S
+#11530
+{BThe Lord of Hail's Chamber{x~
+Chunks of ice perpetually float around the room.  They range in size of
+small pebbles to boulders.  As the Lord of Hail stands out on his balcony he
+sends them to do their wrath upon the land.  As one hail stone disapeares
+another one immediatley takes its place.  
+~
+0 0 0
+D3
+~
+~
+4 0 11526
+C 0
+S
+#11531
+{CThe Lord of Frost's Chamber{x~
+The ground in the room is frozen so cold that it can be felt through the
+sole in your boots.  The cold works its way up your legs and leaves you
+almost paralized.  From his balcony the Lord of Frost seems to be starring
+intently at the ground, freezing it.  
+~
+0 0 0
+D2
+~
+~
+0 0 11527
+C 0
+S
+#11532
+{WThe Lord of Snow's Chamber{x~
+The ground, which is 5 feet beneath your feet, is covered in a thick
+snow.  A big mound in the middle of the room is where the Lord of Snow
+prefers to stand while using his power to its full extent to make every
+travelers life miserable.  The blizzard you were in earlier seems to be
+coming from the very window in this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 11528
+C 0
+S
+#11533
+{DThe Lord of Ice's Chamber{x~
+You are at the peek of this giant tower.  The walls are made of a pure,
+clear ice.  You can see the entire land, from the red forest, to the red
+sea.  The circumfrence of cold can be seen visably lessening as you look
+farther away from the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 11529
+C 0
+S
+#11534
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11536
+D1
+~
+~
+0 0 11535
+D3
+~
+~
+0 0 11501
+D6
+~
+~
+0 0 11537
+D9
+~
+~
+0 0 11502
+M -20 H -20
+C 0
+S
+#11535
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11537
+D3
+~
+~
+0 0 11534
+D9
+~
+~
+0 0 11536
+M -20 H -20
+C 0
+S
+#11536
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11538
+D1
+~
+~
+0 0 11537
+D2
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11502
+D6
+~
+~
+0 0 11539
+D7
+~
+~
+0 0 11535
+D8
+~
+~
+0 0 11501
+M -20 H -20
+C 0
+S
+#11537
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11539
+D2
+~
+~
+0 0 11535
+D3
+~
+~
+0 0 11536
+D8
+~
+~
+0 0 11534
+D9
+~
+~
+0 0 11538
+M -20 H -20
+C 0
+S
+#11538
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11540
+D1
+~
+~
+0 0 11539
+D2
+~
+~
+0 0 11536
+D3
+~
+~
+0 0 11503
+D6
+~
+~
+0 0 11541
+D7
+~
+~
+0 0 11537
+D8
+~
+~
+0 0 11502
+M -20 H -20
+C 0
+S
+#11539
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11541
+D2
+~
+~
+0 0 11537
+D3
+~
+~
+0 0 11538
+D8
+~
+~
+0 0 11536
+D9
+~
+~
+0 0 11540
+M -20 H -20
+C 0
+S
+#11540
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11544
+D1
+~
+~
+0 0 11541
+D2
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11504
+D6
+~
+~
+0 0 11545
+D7
+~
+~
+0 0 11539
+D8
+~
+~
+0 0 11503
+M -20 H -20
+C 0
+S
+#11541
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11545
+D2
+~
+~
+0 0 11539
+D3
+~
+~
+0 0 11540
+D8
+~
+~
+0 0 11538
+D9
+~
+~
+0 0 11544
+M -20 H -20
+C 0
+S
+#11544
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11546
+D1
+~
+~
+0 0 11545
+D2
+~
+~
+0 0 11540
+D3
+~
+~
+0 0 11505
+D6
+~
+~
+0 0 11547
+D7
+~
+~
+0 0 11541
+D8
+~
+~
+0 0 11504
+M -20 H -20
+C 0
+S
+#11545
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11547
+D2
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11544
+D8
+~
+~
+0 0 11540
+D9
+~
+~
+0 0 11546
+M -20 H -20
+C 0
+S
+#11546
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11548
+D1
+~
+~
+0 0 11547
+D2
+~
+~
+0 0 11544
+D3
+~
+~
+0 0 11506
+D6
+~
+~
+0 0 11549
+D7
+~
+~
+0 0 11545
+D8
+~
+~
+0 0 11505
+M -20 H -20
+C 0
+S
+#11547
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11549
+D2
+~
+~
+0 0 11545
+D3
+~
+~
+0 0 11546
+D8
+~
+~
+0 0 11544
+D9
+~
+~
+0 0 11548
+M -20 H -20
+C 0
+S
+#11548
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11550
+D1
+~
+~
+0 0 11549
+D2
+~
+~
+0 0 11546
+D3
+~
+~
+0 0 11507
+D6
+~
+~
+0 0 11551
+D7
+~
+~
+0 0 11547
+D8
+~
+~
+0 0 11506
+M -20 H -20
+C 0
+S
+#11549
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11551
+D2
+~
+~
+0 0 11547
+D3
+~
+~
+0 0 11548
+D8
+~
+~
+0 0 11546
+D9
+~
+~
+0 0 11550
+M -20 H -20
+C 0
+S
+#11550
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11552
+D1
+~
+~
+0 0 11551
+D2
+~
+~
+0 0 11548
+D3
+~
+~
+0 0 11508
+D7
+~
+~
+0 0 11549
+D8
+~
+~
+0 0 11507
+D9
+~
+~
+0 0 11553
+M -20 H -20
+C 0
+S
+#11551
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11553
+D2
+~
+~
+0 0 11549
+D3
+~
+~
+0 0 11550
+D8
+~
+~
+0 0 11548
+D9
+~
+~
+0 0 11552
+M -20 H -20
+C 0
+S
+#11552
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D1
+~
+~
+0 0 11553
+D2
+~
+~
+0 0 11550
+D3
+~
+~
+0 0 11509
+D7
+~
+~
+0 0 11551
+D8
+~
+~
+0 0 11508
+M -20 H -20
+C 0
+S
+#11553
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D2
+~
+~
+0 0 11551
+D3
+~
+~
+0 0 11552
+D7
+~
+~
+0 0 11550
+M -20 H -20
+C 0
+S
+#11554
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11556
+D1
+~
+~
+0 0 11501
+D3
+~
+~
+0 0 11555
+D6
+~
+~
+0 0 11502
+D9
+~
+~
+0 0 11557
+M -20 H -20
+C 0
+S
+#11555
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11557
+D1
+~
+~
+0 0 11554
+D6
+~
+~
+0 0 11556
+M -20 H -20
+C 0
+S
+#11556
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11558
+D1
+~
+~
+0 0 11502
+D2
+~
+~
+0 0 11554
+D3
+~
+~
+0 0 11557
+D7
+~
+~
+0 0 11501
+D8
+~
+~
+0 0 11555
+D9
+~
+~
+0 0 11559
+M -20 H -20
+C 0
+S
+#11557
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11559
+D1
+~
+~
+0 0 11556
+D2
+~
+~
+0 0 11555
+D6
+~
+~
+0 0 11558
+D7
+~
+~
+0 0 11554
+M -20 H -20
+C 0
+S
+#11558
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11560
+D1
+~
+~
+0 0 11503
+D2
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11559
+D7
+~
+~
+0 0 11502
+D8
+~
+~
+0 0 11557
+D9
+~
+~
+0 0 11561
+M -20 H -20
+C 0
+S
+#11559
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11561
+D1
+~
+~
+0 0 11558
+D2
+~
+~
+0 0 11557
+D6
+~
+~
+0 0 11560
+D7
+~
+~
+0 0 11556
+M -20 H -20
+C 0
+S
+#11560
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11562
+D1
+~
+~
+0 0 11504
+D2
+~
+~
+0 0 11558
+D3
+~
+~
+0 0 11561
+D7
+~
+~
+0 0 11503
+D8
+~
+~
+0 0 11559
+D9
+~
+~
+0 0 11563
+M -20 H -20
+C 0
+S
+#11561
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11563
+D1
+~
+~
+0 0 11560
+D2
+~
+~
+0 0 11559
+D6
+~
+~
+0 0 11562
+D7
+~
+~
+0 0 11558
+M -20 H -20
+C 0
+S
+#11562
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11564
+D1
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11560
+D3
+~
+~
+0 0 11563
+D7
+~
+~
+0 0 11504
+D8
+~
+~
+0 0 11561
+D9
+~
+~
+0 0 11565
+M -20 H -20
+C 0
+S
+#11563
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11565
+D1
+~
+~
+0 0 11562
+D2
+~
+~
+0 0 11561
+D5
+~
+~
+1 0 11572
+D6
+~
+~
+0 0 11564
+D7
+~
+~
+0 0 11560
+M -20 H -20
+C 0
+S
+#11564
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11566
+D1
+~
+~
+0 0 11506
+D2
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11565
+D7
+~
+~
+0 0 11505
+D8
+~
+~
+0 0 11563
+D9
+~
+~
+0 0 11567
+M -20 H -20
+C 0
+S
+#11565
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11567
+D1
+~
+~
+0 0 11564
+D2
+~
+~
+0 0 11563
+D6
+~
+~
+0 0 11566
+D7
+~
+~
+0 0 11562
+M -20 H -20
+C 0
+S
+#11566
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11568
+D1
+~
+~
+0 0 11507
+D2
+~
+~
+0 0 11564
+D3
+~
+~
+0 0 11567
+D8
+~
+~
+0 0 11565
+D9
+~
+~
+0 0 11569
+M -20 H -20
+C 0
+S
+#11567
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11569
+D1
+~
+~
+0 0 11566
+D2
+~
+~
+0 0 11565
+D6
+~
+~
+0 0 11568
+D7
+~
+~
+0 0 11564
+M -20 H -20
+C 0
+S
+#11568
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11570
+D1
+~
+~
+0 0 11508
+D2
+~
+~
+0 0 11566
+D3
+~
+~
+0 0 11569
+D7
+~
+~
+0 0 11507
+D8
+~
+~
+0 0 11567
+D9
+~
+~
+0 0 11571
+M -20 H -20
+C 0
+S
+#11569
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D0
+~
+~
+0 0 11571
+D1
+~
+~
+0 0 11568
+D2
+~
+~
+0 0 11567
+D6
+~
+~
+0 0 11570
+D7
+~
+~
+0 0 11566
+M -20 H -20
+C 0
+S
+#11570
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vision is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D1
+~
+~
+0 0 11509
+D2
+~
+~
+0 0 11568
+D3
+~
+~
+0 0 11571
+D7
+~
+~
+0 0 11508
+D8
+~
+~
+0 0 11569
+M -20 H -20
+C 0
+S
+#11571
+{wFrozen Wasteland{x~
+You can no longer feel your extremities, your vIsion is clouded by the
+fog and heavy snowfall.  The wind howls and roars, deafining you.  Every
+step away from the path is a struggle, and you find yourself becoming
+weaker.  
+~
+0 8192 4
+D1
+~
+~
+0 0 11570
+D2
+~
+~
+0 0 11569
+D7
+~
+~
+0 0 11568
+M -20 H -20
+C 0
+S
+#11572
+{WA Tunnell Beneath the Frozen Ground{x~
+The walls of the tunnel are frozen from a buildup of permafrost.  Though
+you have found a temporary escape from the raging blizzard the temperature
+seems to drop even more than it was.  Corpses preserved from the cold lay
+strewn around the ground, probably hundreds of years old.  A strange
+growling noise seems to come from frther down the tunnel.  
+~
+0 8 12
+D1
+~
+~
+0 0 11573
+D4
+~
+~
+1 0 11563
+C 0
+S
+#11573
+{WA Tunnell Beneath the Frozen Ground{x~
+The walls of the tunnel are frozen from a buildup of permafrost.  Though
+you have found a temporary escape from the raging blizzard the temperature
+seems to drop even more than it was.  Corpses preserved from the cold lay
+strewn around the ground, probably hundreds of years old.  A strange
+growling noise seems to come from frther down the tunnel.  
+~
+0 8 12
+D1
+~
+~
+0 0 11574
+D3
+~
+~
+0 0 11572
+C 0
+S
+#11574
+{WA Tunnell Beneath the Frozen Ground{x~
+The walls of the tunnel are frozen from a buildup of permafrost.  Though
+you have found a temporary escape from the raging blizzard the temperature
+seems to drop even more than it was.  Corpses preserved from the cold lay
+strewn around the ground, probably hundreds of years old.  A strange
+growling noise seems to come from frther down the tunnel.  
+~
+0 8 12
+D1
+~
+~
+0 0 11575
+D3
+~
+~
+0 0 11573
+C 0
+S
+#11575
+{WA Tunnell Beneath the Frozen Ground{x~
+The walls of the tunnel are frozen from a buildup of permafrost.  Though
+you have found a temporary escape from the raging blizzard the temperature
+seems to drop even more than it was.  Corpses preserved from the cold lay
+strewn around the ground, probably hundreds of years old.  A strange
+growling noise seems to come from frther down the tunnel.  
+~
+0 8 12
+D1
+~
+~
+4 11500 11576
+D3
+~
+~
+0 0 11574
+C 0
+S
+#11576
+{BWINTERS LAIR{x~
+You are immersed in a storm the likes of which you have never even heard
+tale of before.  The storm itself seems to be alive, and is pounding on you
+from all sides.  You whirl and slash at it with all your might, but the whip
+of winter is unmerciful.  
+~
+0 0 0
+D3
+~
+~
+4 0 11575
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 11510 0 2
+D 0 11511 2 2
+D 0 11516 0 2
+D 0 11525 2 2
+D 0 11526 1 2
+D 0 11530 3 2
+D 0 11563 5 1
+D 0 11572 4 1
+D 0 11575 1 2
+D 0 11576 3 2
+M 0 11500 1 11510 1
+G 0 11500 0
+M 0 11501 1 11512 1
+M 0 11501 20 11513 1
+M 0 11501 20 11515 1
+M 0 11502 1 11516 1
+G 0 11501 0
+E 0 11506 0 8
+M 0 11501 20 11518 1
+M 0 11501 20 11520 1
+M 0 11501 20 11522 1
+E 0 11507 0 11
+M 0 11501 20 11524 1
+M 0 11508 1 11530 1
+G 0 11503 0
+M 0 11509 1 11531 1
+G 0 11504 0
+M 0 11510 1 11532 1
+G 0 11505 0
+M 0 11511 1 11533 1
+M 0 11504 20 11534 1
+M 0 11506 20 11535 1
+M 0 11503 20 11536 1
+M 0 11505 20 11536 1
+M 0 11506 20 11538 1
+M 0 11504 20 11539 1
+M 0 11505 20 11540 1
+M 0 11503 20 11541 1
+M 0 11504 20 11544 1
+M 0 11503 20 11545 1
+M 0 11506 20 11545 1
+M 0 11505 20 11546 1
+M 0 11506 20 11547 1
+M 0 11503 20 11548 1
+M 0 11505 20 11550 1
+M 0 11506 20 11551 1
+M 0 11504 20 11552 1
+M 0 11503 20 11553 1
+M 0 11505 20 11554 1
+M 0 11503 20 11555 1
+M 0 11506 20 11555 1
+M 0 11504 20 11557 1
+M 0 11506 20 11558 1
+M 0 11505 20 11559 1
+M 0 11505 20 11560 1
+M 0 11504 20 11561 1
+M 0 11503 20 11562 1
+M 0 11504 20 11562 1
+M 0 11506 20 11564 1
+M 0 11505 20 11565 1
+M 0 11506 20 11566 1
+M 0 11504 1 11567 1
+M 0 11503 20 11567 1
+M 0 11504 20 11567 1
+M 0 11506 20 11569 1
+M 0 11504 20 11570 1
+M 0 11503 20 11571 1
+M 0 11505 20 11571 1
+M 0 11503 20 11572 1
+M 0 11504 20 11573 1
+M 0 11505 20 11574 1
+M 0 11506 20 11575 1
+M 0 11507 1 11576 1
+E 0 11502 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#11500
+~
+#0
+
+#$

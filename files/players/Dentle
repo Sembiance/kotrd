@@ -1,0 +1,619 @@
+#PLAYER
+Name Dentle~
+Id   1089226445
+LogO 1100103090
+Vers 5
+Prom <%hhp %mm %vmv {G%X{wtnl><%K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  8
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 253555
+Scro 33
+Room 3054
+HMV  5337 5337 2787 2787 2794 2794
+Gold 32
+Silv 937
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200032
+QuestPnts 806
+PAct  DEGTbcd
+AfBy DFHV
+WName Dentle~
+Comm KNO
+Deaf 0
+Pos  8
+Save  -25
+Alig  0
+Hit   222
+Dam   186
+ACs -675 -675 -675 -675
+Wimp  500
+Attr 14 22 23 15 15
+AMod 16 6 10 10 16
+Pass DeSvm/3NrWg5Y~
+Titl ..~
+Pnts 40
+TSex 1
+PSize 3
+LLev 42
+HMVP 2037 462 744
+Cnd  0 0 -1 -1
+Alias ga get all~
+Alias ta track calico~
+Alias a get key cor~
+Alias s s~
+Alias c c~
+Alias v get all carr~
+Alias b get all carr~
+Alias f unlock west~
+Alias g open west~
+Alias j unlock east~
+Alias m open east~
+Alias 1 order all res den~
+Alias 2 ass mis~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 76 'cure serious'
+Sk 75 'protection evil'
+Sk 78 'cure poison'
+Sk 1 'dispel evil'
+Sk 77 'remove curse'
+Sk 1 'detect evil'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'farsight'
+Sk 1 'infravision'
+Sk 75 'invisibility'
+Sk 90 'word of recall'
+Sk 100 'blightning'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 100 'mace'
+Sk 75 'axe'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 1 'bash'
+Sk 75 'dirt kicking'
+Sk 76 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 86 'hand to hand'
+Sk 95 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 77 'shield block'
+Sk 76 'rescue'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 75 'envenom'
+Sk 93 'fast healing'
+Sk 82 'haggle'
+Sk 75 'hide'
+Sk 75 'pick lock'
+Sk 75 'sneak'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 85 'companion'
+Sk 86 'track'
+Sk 100 'whirlwind'
+Sk 1 'metamorph'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'ranger basics'
+Gr 'assassin default'
+Gr 'invisibility spell'
+Gr 'ranger spells'
+Affc 'armor'   0  92   9 -20  17          0
+Affc 'energy shield'   0  58  46 -20  17          0
+Affc 'sanctuary'   0  69   3   0   0        128
+End
+
+#O
+Vnum 20413
+Nest 0
+Cond 0
+Wear 7
+Cost 8000
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 20419
+Nest 0
+Cond 0
+Wear 13
+Cost 22500
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 11893
+Nest 0
+Cond 0
+Wear 0
+Cost 55000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 20417
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 904
+Nest 0
+Cond 0
+Wear 8
+Cost 3000
+End
+
+#O
+Vnum 11889
+Nest 0
+Cond 0
+Wear 5
+Cost 50000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 20499
+Nest 0
+Cond 0
+Wear 4
+Cost 10000
+End
+
+#O
+Vnum 20499
+Nest 0
+Cond 0
+Wear 3
+Cost 10000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 2
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 1
+Cost 2000
+End
+
+#O
+Vnum 20427
+Nest 0
+Cond 0
+Wear 20
+Cost 350000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 20498
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 20498
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6727
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 7500
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 435
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 433
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 425
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 478
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 443
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 438
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 11699
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 264
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 8431
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'haste'
+End
+
+#O
+Vnum 14514
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1101
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 6727
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#END

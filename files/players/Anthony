@@ -1,0 +1,458 @@
+#PLAYER
+Name Anthony~
+Id   1105259849
+LogO 1105645585
+Vers 5
+Prom <%hhp %mm %vmv {G%X{x%K> ~
+Race Human~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 20
+OldLvl 20
+Sec  0
+Plyd 27575
+Scro 33
+Room 4260
+HMV  57 282 152 172 71 214
+Gold 340
+Silv 15990
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 20
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  20075
+PAct  DGQTd
+WName Anthony~
+Comm N
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 24
+Save  -1
+Alig  -1000
+Hit   35
+Dam   30
+ACs -3 -1 -2 79
+Wimp  29
+Attr 18 18 18 21 18
+AMod 0 1 1 3 2
+Pass AnC4O.hxaxOeY~
+Titl  [ Vengence ]~
+Pnts 40
+TSex 1
+PSize 2
+LLev 6
+HMVP 247 152 214
+Cnd  0 8 27 6
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'invisibility'
+Sk 85 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 71 'kick'
+Sk 76 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 76 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 29 'envenom'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 75 'hide'
+Sk 1 'pick lock'
+Sk 75 'sneak'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Gr 'invisibility spell'
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 173 0 0
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 546
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 15124
+Nest 0
+Cond 0
+Wear 5
+Cost -200
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 600
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Time 808
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Time 769
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Time 971
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear 17
+Time 755
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear 14
+Cost 10
+End
+
+#O
+Vnum 4275
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4263
+Nest 0
+Cond 0
+Wear 4
+Cost 2610
+End
+
+#O
+Vnum 4263
+Nest 0
+Cond 0
+Wear 3
+Cost 2610
+End
+
+#O
+Vnum 4265
+Nest 0
+Cond 0
+Wear 6
+Cost 1950
+End
+
+#O
+Vnum 4267
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4269
+Nest 0
+Cond 0
+Wear 8
+Cost 2850
+End
+
+#O
+Vnum 4277
+Nest 0
+Cond 0
+Wear 13
+Cost 1990
+End
+
+#O
+Vnum 4273
+Nest 0
+Cond 0
+Wear 10
+Cost 2150
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#END

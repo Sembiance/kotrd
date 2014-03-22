@@ -1,0 +1,446 @@
+#PLAYER
+Name Kumori~
+Id   1109645070
+LogO 1109819594
+Vers 5
+Prom <%hhp %mm %vmv :%X> ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 13550
+Scro 33
+Room 3001
+HMV  112 112 111 111 126 130
+Gold 38
+Silv 1030
+Gold_bank 400
+Silv_bank 0
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  9427
+PAct  CDEFGHQTd
+WName Kumori~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 2
+Trai 1
+Save  -31
+Alig  1000
+Hit   64
+Dam   1
+ACs 36 35 33 72
+Wimp  14
+Attr 20 14 17 14 17
+AMod 2 1 2 2 2
+Pass KukFQJ96bxsC6~
+Titl  the future is cloudy~
+Pnts 50
+TSex 1
+PSize 2
+LLev 2
+HMVP 104 111 130
+Cnd  0 12 48 7
+Boards       4 General 1109789385 Ideas 1106854028 Announce 1104975611 Personal 0 
+Sk 1 'giant strength'
+Sk 75 'sword'
+Sk 1 'bash'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 45 'kick'
+Sk 9 'dodge'
+Sk 1 'parry'
+Sk 40 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'warrior spells'
+Affc 'armor'   0 241  47 -20  17          0
+Affc 'bless'   0 229  16  62  18          0
+Affc 'bless'   0 234  16 -31  20          0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 3014
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3014
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 0
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 18603
+Nest 0
+Cond 0
+Wear 6
+Cost 220
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear 0
+Cost 120
+Val  0 0 46 0 0
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear 16
+Cost 140
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 5794
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+End
+
+#O
+Vnum 10004
+Nest 0
+Cond 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6646
+Nest 0
+Cond 0
+Wear -1
+Time 841
+Cost 150
+Spell 1 'cure light'
+Spell 2 'armor'
+End
+
+#O
+Vnum 6622
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+End
+
+#O
+Vnum 4052
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#END

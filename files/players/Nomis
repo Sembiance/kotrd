@@ -1,0 +1,440 @@
+#PLAYER
+Name Nomis~
+Id   1102708936
+LogO 1102713497
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Cambion~
+Sex  1
+Cla  1
+OCla -1
+Levl 11
+OldLvl 11
+Sec  0
+Plyd 288687
+Scro 33
+Room 3005
+HMV  118 118 134 134 160 160
+Gold 109
+Silv 91
+Gold_bank 100
+Silv_bank 0
+Shares 0
+Share_level 11
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  19250
+PAct  DEFQTd
+AfBy DGTe
+WName Nomis~
+Comm NO
+Deaf DP
+Pos  8
+Save  -2
+Alig  -1000
+Hit   78
+Dam   75
+ACs -197 -190 -197 -108
+Attr 16 10 19 17 19
+AMod 0 0 1 0 1
+Pass NoLXh9jAN.hP6~
+Titl  Regna~
+Pnts 55
+TSex 1
+PSize 3
+LLev 1
+HMVP 118 134 160
+Cnd  0 20 28 40
+Alias cbr cast 'bless' nomis~
+Boards       4 General 1102345742 Ideas 0 Announce 0 Personal 0 
+Sk 1 'cure light'
+Sk 75 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 10 'armor'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'stone skin'
+Sk 75 'mace'
+Sk 11 'flail'
+Sk 1 'haggle'
+Sk 60 'meditation'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'full protective'
+Affc 'bless'   0  10   3  -1  20          0
+Affc 'bless'   0  10   3   2  18          0
+Affc 'golden aura'   0 362  15   0   0 1073741824
+Affc 'combat mind'   0 365  57  75  19          0
+Affc 'combat mind'   0 359  57 -192  17          0
+Affc 'combat mind'   0 365  57  75  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 131 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3705
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#END

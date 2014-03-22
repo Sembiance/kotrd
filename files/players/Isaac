@@ -1,0 +1,74 @@
+#PLAYER
+Name Isaac~
+Id   1115073306
+LogO 1115074463
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Inccubus~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  1
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1157
+Scro 33
+Room 3379
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2200
+PAct  QTd
+AfBy TV
+WName Isaac~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Alig  -1000
+ACs 80 80 80 80
+Attr 20 9 12 16 13
+AMod 0 0 0 0 0
+Pass Is7qCNCd4OeYc~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 62
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 28 38 38
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 1 'sword'
+Sk 1 'dagger'
+Sk 40 'exotic'
+Sk 1 'backstab'
+Sk 1 'enhanced damage'
+Sk 1 'shield block'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Affc 'armor'   0 250  88 -20  17          0
+End
+
+#END

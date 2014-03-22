@@ -1,0 +1,916 @@
+#AREADATA
+Name Mud School #2~
+Builders Caroman~
+VNUMs 3800 3899
+Credits 1 -   5~
+Security 3
+Flags EF
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#3800
+old man~
+An Old Man~
+{YAn Old Man stands here, leaning aganst his walking stick.{x
+~
+{YThe old man looks very very wise indead, and if you ask i am sure he could give you a few pointers on any spell or skill.{x
+ 
+~
+Human~
+ABCGJ DFG 1000 0
+0
+100 10 1d100+100 1d100+100 1d100+100 none
+0 100 -10 -10
+0 ABCDPQ 0 0
+stand stand male 10
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+M SPEECH 3818 yes~
+M GRALL 3800 100~
+#3801
+black dragon~
+The Black Dragon~
+{WA Big Black Dragon blocks the path.{x
+~
+{WA huge Black Dragon lays across the path, blocking your way.{x
+~
+dragon~
+ABCGK JT -1000 0
+0
+100 10 1d100+100 1d100+100 1d100+100 none
+0 10 -10 -10
+0 ABCDKQ BEHJK O
+stand stand none 10
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M GRALL 3801 100~
+M SPEECH 3802 please~
+#3802
+sentinel~
+A Sentinel~
+{MA Sentinel stands here, guarding the gate.{x
+~
+It is the sentinel's job to guard the gate, and i do not think you wanna mess with him...
+~
+Human~
+ABCG 0 1000 0
+0
+0 10 1d100+100 1d100+100 1d100+100 none
+-10 0 10 -10
+0 ABCDQ 0 0
+stand stand male 10
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+M GRALL 3803 100~
+#3803
+disgruntled green dragon~
+A Disgruntled Green Dragon~
+{GA Disgruntled Green Dragon stands here, with a very angry look on his face.{x
+~
+The Disgruntled Green Dragon looks very angry.  You can, however, see a
+touch of niceness in his eye, you can tell he doesn't want to hurt
+anyone....  
+~
+dragon~
+ABC JT 0 0
+0
+5 -5 1d1+49 1d1+99 1d1+0 none
+-15 -15 -15 -15
+0 AB BCDEHJK O
+stand stand male 10
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M KILL 3805 100~
+M GRALL 3804 100~
+#3804
+helpfull white dragon~
+A Helpfull White Dragon~
+{wA Helpfull White Dragon stands here, looking for someone to help.
+~
+A Helpfull White dragon is looking for someone in need of help, so he can help them!
+And if you don't need any help, he will give you a few pointers!
+~
+dragon~
+ABCG JT 1000 0
+0
+100 10 1d100+100 1d100+100 1d100+100 none
+-10 -10 -10 -10
+0 CDPQ BEHJK O
+stand stand female 10
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M GRALL 3806 100~
+#3805
+nice little shopkeeper~
+A nice Little Shopkeeper~
+{MA nice Little Shopkeeper stands here, ready to serve you.{x
+~
+A nice little shop keepere stands here, ready to serve you.  He looks
+like a nice little man, short and stubby.  He really enjoys his job here at
+the Training Grounds.  
+~
+Human~
+ABCGTZ 0 0 0
+0
+1 500 1d1+999999 1d100+100 2d2+10 none
+-40 -40 -40 -40
+CFIK ABCDLQU 0 0
+stand stand male 10
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+M GRALL 3807 100~
+#3806
+aging bronze dragon~
+An Aging Bronze Dragon~
+{YAn Aging {yBronze {YDragon lays here.{x
+~
+You can tell by the looks of him that he is old and worn out, content to
+lay here and help newbies.  
+~
+dragon~
+ABCGa JT 1000 0
+0
+100 10 1d100+100 1d100+100 1d100+100 none
+-10 -10 -10 -10
+0 ABCDQ BEHJK O
+stand stand male 10
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M GRALL 3808 100~
+#3807
+blue dragon hatchling~
+A Blue Dragon Hatchling~
+{BA Blue Dragon Hatchling is running arround here.
+~
+This little guy looks really mad, he acts as if he wants to bite your
+head off!!  
+~
+Human~
+ABCF 0 0 0
+0
+1 0 1d1+7 1d1+99 1d2+0 claw
+10 10 10 10
+0 AB 0 0
+stand stand male 100
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+M DEATH 3816 100~
+M HPCNT 3815 65~
+#3808
+red dragon hatchling~
+A Red Dragon Hatchling~
+{RA Red Dragon Hatchling wanders around the cavern.{x
+~
+A Young red dragon hatchling wanders around the cavern.
+~
+dragon~
+ABC JT 0 0
+0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+N AB BEHJK O
+stand stand female 10
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M HPCNT 3813 65~
+M DEATH 3814 100~
+#3809
+gold dragon hatchling~
+A Gold Dragon Hatchling~
+{YA Gold Dragon Hatchling crawls along the ground, looking for food.
+~
+A magnificent gold dragon hatchling crawls along the cave floor, looking
+for something to eat.  
+~
+dragon~
+ABCG JT 0 0
+0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+J AB BEHJK O
+stand stand female 100
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M DEATH 3811 100~
+M HPCNT 3812 65~
+#3810
+green dragon hatchling~
+Green Dragon Hatchling~
+{GA Green Dragon Hatchling sees you and runs towards you!!{x
+~
+The Green Dragon Hatchling looks very angry, and upon seeing you he jumps from where he is at and chases you down!!{x
+~
+dragon~
+ABCFG JT 0 0
+0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+I AB BEHJK O
+stand stand male 100
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M HPCNT 3809 65~
+M DEATH 3810 100~
+#3811
+big silver dragon~
+A Big Silver Dragon~
+{wA Big Silver Dragon sits here, healing those in need.{x
+~
+You look at this humongous beast with awe.  You hope that you may one day
+be as great as this huge beast.  When he sees you enter the room he starts
+helping you by casting protective, and healing spells on you.  
+~
+dragon~
+ABCGa JT 100 0
+0
+100 10 1d100+100 1d100+100 1d100+100 claw
+-10 -10 -10 -10
+0 CDPQ BEHJK O
+stand stand none 100
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+#3812
+evil blue dragon~
+The Evil Blue Dragon~
+{BThe Evil Blue Dragon stands here, snarling at you.
+~
+This dragon is truly evil, you can see a big gold chain haning around his
+neck, from which a small key hangs, oir maybe it just looks msall in
+comparison with him.  Don't woory about it, you can take him...  Maybe..  
+~
+dragon~
+ABCFG JTZ 0 0
+0
+2 1 2d2+20 1d1+99 1d4+1 claw
+8 8 8 10
+FN AB BEHJK CFIO
+stand stand none 100
+ABCHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M GRALL 3817 100~
+#3813
+smiling bronze dragon~
+A Smiling Bronze Dragon~
+{YA smiling bronze dragon welcomes you to the mud!!{x
+~
+A very happy dragon dances around, smiling and singing.  He seems ver
+friendly and is willing to give you lots of information on how to play the
+mud!  
+~
+dragon~
+AB JT 0 0
+0
+20 0 1d10+10 1d10+10 1d10+10 none
+-10 -10 -10 -10
+0 ABCDKT BEHJK 0
+stand stand male 100
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+M GRALL 3819 100~
+#0
+
+
+
+#OBJECTS
+#3800
+key~
+black key~
+{WA Long Black Key Sits Here.{x~
+SELECT_A_MATERIAL key AB A
+0 0 0 0 0
+1 1 1 P
+#3801
+rabbit stew~
+{YRabbit Stew{x~
+{YA nice bowl full of Rabbit Stew sits here{x~
+SELECT_A_MATERIAL food 0 A
+CE DF 0 0 0
+1 5 22 P
+#3802
+tin cup~
+{YA Tin Cup full of water{x~
+{YA small Tin Cup filled with water sits here{x~
+SELECT_A_MATERIAL drink 0 A
+0 0 'water' 0 0
+1 40 36 P
+#3803
+nice little light~
+{YA Nice Little Light{x~
+{YA Nice little Light sits here.~
+SELECT_A_MATERIAL light_source 0 A
+0 0 BEF 0 0
+1 30 4 P
+#3804
+dragon scale dagger~
+a Dragon Scale Dagger~
+A Dragon Scale Dagger lays here.~
+UNKNOWN weapon U AN
+dagger 1 4 pierce 0
+1 10 210 P
+#3805
+golden key~
+{YA Golden Key{x~
+A {Ygolden key{x lies here~
+SELECT_A_MATERIAL key A AC
+0 0 0 0 0
+1 25 10 P
+A
+4 1
+A
+5 1
+#3806
+dragon scale mace~
+a Dragon Scale Mace~
+A Dragon Scale Mace lays here.~
+SELECT_A_MATERIAL weapon U AN
+mace 1 6 pound 0
+1 60 250 P
+A
+18 1
+#3807
+dragon scale sword~
+a Dragon Scale Sword~
+A Dragon Scale Sword lays here.~
+IRON weapon U AN
+sword 1 6 slash 0
+1 50 360 P
+A
+18 1
+#3808
+dragon scale vest~
+a Dragon Scale Vest~
+A Dragon Scale Vest lays here~
+SELECT_A_MATERIAL armor U AD
+A A A 0 0
+0 50 140 P
+#3809
+dragon scale shield~
+a Dragon Scale Shield~
+A Dragon Scale Shield lays here.~
+SELECT_A_MATERIAL armor U AJ
+A A A 0 0
+0 30 108 P
+#3810
+dragon scale cloak~
+a Dragon Scale Cloak~
+A Dragon Scale Cloak lays here~
+SELECT_A_MATERIAL armor U AC
+A A A 0 0
+0 40 72 P
+#3811
+dragon scale helmet~
+a Dragon Scale Helmet~
+A Dragon Scale Helmet lays here.~
+SELECT_A_MATERIAL armor U AE
+A A A 0 0
+0 30 72 P
+#3812
+pair of dragon scale leggings~
+a Pair of Dragon Scale Leggings~
+A Pair of Dragon Scale Leggings lays here~
+SELECT_A_MATERIAL armor U AF
+A A A 0 0
+0 30 72 P
+#3813
+dragon scale boots~
+a Pair of Dragon Scale Boots~
+A Pair of Dragon Scale Boots lays here~
+SELECT_A_MATERIAL armor U AG
+A A A 0 0
+0 30 72 P
+#3814
+dragon scale gloves~
+a Pair of Dragon Scale Gloves~
+A Pair of Dragon Scale Gloves lay here~
+SELECT_A_MATERIAL armor U AH
+A A A 0 0
+0 10 72 P
+#3815
+dragon scale sleeves~
+a Pair of Dragon Scale Sleeves~
+A Pair of Dragon Scale Sleeves lay here~
+SELECT_A_MATERIAL armor U AI
+A A A 0 0
+0 20 72 P
+#3816
+dragon scale cape~
+a Dragon Scale Cape~
+A Dragon Scale Cape lays here~
+SELECT_A_MATERIAL armor U AK
+A A A 0 0
+0 20 72 P
+#3817
+dragon scale belt~
+a Dragon Scale Belt~
+A Dragon Scale Belt lays here~
+SELECT_A_MATERIAL armor U AL
+A A A 0 0
+0 10 72 P
+#3818
+dragon scale bracer~
+a Dragon Scale Bracer~
+A Dragon Scale Bracer lays here~
+SELECT_A_MATERIAL armor U AM
+0 A A 0 0
+0 10 48 P
+#3819
+small torch~
+(no short description)~
+(no description)~
+SELECT_A_MATERIAL light_source AG A
+0 0 DGH 0 0
+0 20 380 P
+A
+17 -1
+A
+20 -1
+#3820
+dragon scale spear~
+a Dragon Scale Spear~
+A Dragon Scale Spear lays here~
+SELECT_A_MATERIAL weapon U AN
+spear 1 6 thrust 0
+1 50 111 P
+A
+18 1
+#3821
+dragon scale axe~
+a Dragon Scale Axe~
+A Dragon Scale Axe lays here~
+SELECT_A_MATERIAL weapon U AN
+axe 1 6 chop 0
+1 50 350 P
+A
+18 1
+#3822
+dragon scale mflail~
+a Dragon Scale Flail~
+A Dragon Scale Flail lays here~
+SELECT_A_MATERIAL weapon U AN
+flail 1 5 crush 0
+1 50 310 P
+A
+18 1
+#3823
+dragon scale whip~
+a Dragon Scale Whip~
+A Dragon Scale Whip lays here~
+SELECT_A_MATERIAL weapon U AN
+whip 2 2 whip 0
+1 20 330 P
+A
+18 2
+#3824
+dragon scale glaive~
+a Dragon Scale Glaive~
+A Dragon Scale Glaive lays here~
+SELECT_A_MATERIAL weapon U AN
+polearm 1 7 slash 0
+1 80 183 P
+A
+19 1
+#3825
+no name~
+(no short description)~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3899
+sign~
+a sign~
+{RA Sign is here to help you know your stats better. (read it!!){x~
+SELECT_A_MATERIAL furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Strength/str: This stat gives you the ability to hit harder, and carry more items.
+Intelligence/int: This stat trained will help you learn things faster when you practice.
+Wisdom/wis: This stat trained will give you more practices per level so you may train your skills.
+Dexterity/dex: This stat trained will make you harder to hit in battle, more agile.
+Constitution/con: This stat trained will give you more hit points per level.
+~
+#0
+
+
+
+#ROOMS
+#3800
+{rEntrance to the Newbie Training Grounds{x~
+As you look around the Newbie Training Ground you see many young
+adventurues like yourself being trained by huge dragons!!  From the looks of
+the well traveled path at your feet, and all the noise around you, it is
+safe here.  The cool wind at your back seems to be pushing your forward into
+the training grounds...  
+~
+0 131072 5
+D0
+~
+~
+0 0 3801
+D1
+~
+~
+0 0 18608
+C 0
+S
+#3801
+{gPath Through the Grounds{x~
+The path is wide enough for carts and horses to be driven down, and is
+lined with huge pine trees.  You look up in the sky and see dragons of
+inumerable color flying through the sky.  
+~
+0 132096 5
+D0
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3800
+C 0
+S
+#3802
+{gFurther Down the Path{X~
+As you continue down the path a cool wind blows at your back, cooling
+you.  You hear the well practiced battle cries of battle hardened warriors,
+attempting to teach aspiring ones.  The smell of exotic herbs floats acroos
+your nose, as novice mages practice time and time again to get their spell
+componets just right.  There is a Big Black Gate ahead of you...  
+~
+0 131072 5
+D0
+~
+~
+1 3800 3803
+D2
+~
+~
+0 0 3801
+C 0
+S
+#3803
+{gFork in the Road{x~
+You stop as you come to a fork in the road.  To the west you see singed
+treesand a horrible smell eminates rom there.  To the east the path seems to
+continue, but for some reason you really want to go west....  
+~
+0 132096 5
+D1
+~
+~
+0 0 3805
+D2
+~
+~
+1 3800 3802
+D3
+~
+~
+0 0 3804
+C 0
+S
+#3804
+{GThe Disgruntled Green Dragon's Lair{x~
+A disgruntled dragon got angry at the world and just ahppened to come down on the training grounds as a new place to live, he isn't very strong, but he fights till the death.
+~
+0 131080 1
+D1
+~
+~
+0 0 3803
+C 0
+S
+#3805
+{gFarther Down the Path{x~
+You continue on down the path.  The sun shines on you, and you already
+feel ten times as smart as when you entered the training grounds.  You
+decide that you will be ready for The Red Forest in no time flat!!  
+~
+0 131072 5
+D1
+~
+~
+0 0 3806
+D3
+~
+~
+0 0 3803
+C 0
+S
+#3806
+{gAlmost to the End!!{x~
+You now feel completely full of wisdom! You think that you are ready to
+gain a few levels, finally.  To the north you see a little shop, and to the
+east you see the entrance to a cave.  
+~
+0 0 5
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+0 0 3808
+D3
+~
+~
+0 0 3805
+C 0
+S
+#3807
+{mA Nice Little Shop{x~
+Wow, you are really getting hungry, and a nice bowl of rabbit stew would
+really hit the spot.  This place may be small, but its exactly what you were
+looking for.  
+~
+0 1032 1
+D2
+~
+~
+0 0 3806
+C 0
+S
+#3808
+{WEntrance to the Caves{x~
+The Caves are totally dark.  Water drips down off the cieling and the
+only exit looks to be down a rope ladder.  
+~
+0 8 1
+D3
+~
+~
+0 0 3806
+D5
+~
+~
+0 0 3809
+C 0
+S
+#3809
+{WFirst Cavern in the Caves{x~
+You enter another little cavern, totally dark.  Again the only exit looks
+to be down...  
+~
+0 8 1
+D4
+~
+~
+0 0 3808
+D5
+~
+~
+0 0 3810
+C 0
+S
+#3810
+{WSecond Cavern in the Caves{x~
+You enter another little cavern, totally dark.  Again the only exit looks
+to be down...  
+~
+0 8 1
+D4
+~
+~
+0 0 3809
+D5
+~
+~
+0 0 3811
+C 0
+S
+#3811
+{WThird Cavern in the Caves{x~
+You enter another little cavern, totally dark.  Again the only exit looks
+to be down...  
+~
+0 8 1
+D4
+~
+~
+0 0 3810
+D5
+~
+~
+0 0 3812
+C 0
+S
+#3812
+{WFourth Cavern in the Caves{x~
+Finally you reach the bottom.  You are exhausted and feel like taking a
+nap.  
+~
+0 8 1
+D1
+~
+~
+0 0 3813
+D4
+~
+~
+0 0 3811
+C 0
+S
+#3813
+{wA Huge Cavern{x~
+You are in the middle of a giant room.  Along the outside of the cavern
+are torches, hanging from brackets, illuminating the room.  You see a cage
+to the north, and above you see light pouring through a grate in the
+cieling.  
+~
+0 8 1
+D0
+~
+~
+1 3805 3814
+D3
+~
+~
+0 0 3812
+D4
+~
+~
+1 3805 3815
+C 0
+S
+#3814
+{BThe Evil Blue Dragon's Cage{x~
+{CThe evil blue dragon was put here, because he was so evil.  He really
+is a mean guy, and you wonder why they don't have guards posted.  You see a
+key haning around his neck.  Don't wake him up!!  
+~
+0 8 1
+D2
+~
+~
+1 0 3813
+C 0
+S
+#3815
+{CA Huge Ledge{x~
+You stand on a huge ledge overlooking a valley, to the south you see
+another portion of the Newbie Training Grounds.  
+~
+0 0 6
+D5
+~
+~
+1 0 3813
+D7
+~
+~
+0 0 3770
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3813 0 1
+D 0 3813 4 2
+D 0 3814 2 1
+D 0 3815 5 2
+M 0 3813 1 3800 1
+M 0 3800 1 3801 1
+M 0 3801 1 3802 1
+G 0 3800 0
+M 0 3802 1 3803 1
+G 0 3800 0
+M 0 3803 1 3804 1
+M 0 3804 1 3805 1
+M 0 3805 1 3807 1
+G 0 3801 0
+G 0 3802 0
+G 0 3803 0
+M 0 3806 1 3808 1
+M 0 3807 1 3809 1
+E 0 3813 0 8
+E 0 3818 0 15
+M 0 3808 1 3810 1
+E 0 3811 0 6
+E 0 3816 0 12
+M 0 3809 1 3811 1
+E 0 3810 0 3
+E 0 3810 0 4
+M 0 3810 1 3812 1
+E 0 3812 0 7
+E 0 3817 0 13
+M 0 3811 1 3813 1
+M 0 3812 1 3814 1
+E 0 3805 0 3
+S
+
+
+
+#SHOPS
+3805 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#3800
+tell $n So, you wish to adventure in the Realm of the Red Dragon?
+chuckle
+tell $n I shall do what I can to help you in your journey.
+tell $n The first thing you need to do is to train your stats, Inteligance, Wisdom, Strength, Constitution, and Dexterity.
+tell $n Would you like to learn more about these stats?  Or are you in to big of a hurry?
+~
+#3801
+tell $n Beyond this room lies unforseen danger, practice your skills here to be prepared.
+tell $n Type 'prac' and it will show you a list of skills and spells you can currently practice, new things will be added to this list almost every level, so check it often!
+
+tell $n When you're done, say the magic word, and I shall let you pass.
+~
+#3802
+unlock north
+open north
+tell $n Have a nice day!!
+~
+#3803
+close south
+lock south
+tell $n Unless of course. . . you like the idea of being dragon food.
+tell $n Sorry $n, we don't just let people wander around these parts.
+tell $n There are rumors of evil dragons wandering around the training grounds, if you meet up with one you can't kill just type flee and get out of there!
+~
+#3804
+growl
+tell $n Come on, kill me! I'm here!!
+~
+#3805
+tell $n Oh i don't have the heart to kill ya, you better type FLEE now!!
+chuckle
+~
+#3806
+tell $n Why hello there $N!!
+smile
+tell $n Type I and you can see everything you are holding, and by typing EQ you can see everything you are wearing!!
+tell $n oh ya, by typing SCORE, you can see your scorecard!!
+say Wow, you are really doing GREAT!!
+~
+#3807
+tell $n Greetings $N, what can i get for you today?
+tell $n If it is gold you need child, you need but visit the caves, i hear you can make a little money from saccrificing the creatures corpses...
+tell $n To see what items i offer, type LIST.
+ 
+~
+#3808
+tell $n You have a big challenge ahead of you.
+tell $n Four young dragons guard the exit to the training grounds, if you can beat them all, you are ready to explore the world.
+smile
+tell $n If you need to be healed, just come back to me, and i will heal you.
+, points down the rope ladder.
+~
+#3809
+say NOOO!! DON'T HURT ME PLEASE!!
+wince
+~
+#3810
+say I'm gonna tell my mom!!
+, spits in your face!
+~
+#3811
+yell $N is a meanie!!
+, stomps on your foot.
+~
+#3812
+say All i wanted was a nice meal!! You don't have to hurt me!!
+~
+#3813
+say I am gonna get you!!
+~
+#3814
+say Owww that was my head you just hit!!
+scream
+~
+#3815
+say LEAVE ME ALONE!!
+~
+#3816
+say It's all fun and games till someone gets hurt!!
+~
+#3817
+say Your Dead Meat!!
+snarl
+~
+#3818
+tell $n Very good.
+tell $n Strength gives you the ability to hit harder, and carry more items.
+tell $n Intelligence will help you learn things faster when practicing.
+tell $n Wisdom will give you more practices per level.
+tell $n Constitution wil give you more hitpoints per level.
+smile
+tell $n Choose what you train wisely, because it will use 3 of your trains for every attribute you increase by 1.
+tell $n Use the syntax: train <stat>, at any trainer like myself, and we shall train you.
+~
+#3819
+tell $n Welcome to the dragon good buddy!
+tell $n Remember the possible directions you can move are North, South, East, West, Northeast, Southeast, Northwest, Southwest, to see what directions you can go from the room you are currently in just type exits.
+tell $n Remember to always say the magic word, please, to any of those who are going to give you assistance, and if anyone asks if you would like them to give you information along your travels always just say yes!
+~
+#0
+
+#$

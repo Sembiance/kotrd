@@ -1,0 +1,379 @@
+#PLAYER
+Name Damu~
+Id   1107682254
+LogO 1108902344
+Vers 5
+Prom %h/%Hhp %m/%Mmp %v/%Vmv %gg %ss <TNL%X> %K  ~
+Race Succubus~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 16
+OldLvl 16
+Sec  0
+Plyd 21016
+Scro 33
+Room 3001
+HMV  302 302 148 148 245 245
+Gold 377
+Silv 118
+Gold_bank 2000
+Silv_bank 0
+Shares 0
+Share_level 16
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  62750
+QuestPnts 100
+PAct  DEFGTd
+AfBy DFT
+WName Damu~
+Comm FNO
+RaceChan K
+Deaf DP
+Pos  8
+Alig  -1000
+Hit   26
+Dam   31
+ACs -30 -32 -27 -9
+Wimp  30
+Attr 20 17 14 22 19
+AMod 2 0 3 3 3
+Pass DaTawOFMV1QKU~
+Titl  Radus~
+Pnts 78
+TSex 2
+PSize 2
+LLev 4
+HMVP 222 138 190
+Cnd  0 0 6 23
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'charm person'
+Sk 1 'energy drain'
+Sk 82 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 52 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 10 'hide'
+Sk 1 'pick lock'
+Sk 20 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'stone skin'   0  10   7 -40  17          0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 10004
+Nest 0
+Cond 0
+Wear 15
+Cost 90
+End
+
+#O
+Vnum 10004
+Nest 0
+Cond 0
+Wear 14
+Cost 90
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+Affc 'reserved'   1  10  -1   3  19          0
+End
+
+#O
+Vnum 22011
+Nest 0
+Cond 0
+Wear 6
+Cost 450
+End
+
+#O
+Vnum 15714
+Nest 0
+Cond 0
+Wear 5
+Cost -900
+End
+
+#O
+Vnum 15728
+Nest 0
+ExtF 65
+Cond 0
+Wear 2
+Time 57
+Cost 900
+End
+
+#O
+Vnum 15729
+Nest 0
+Cond 0
+Wear 8
+Cost 900
+End
+
+#O
+Vnum 15730
+Nest 0
+Cond 0
+Wear 3
+Cost 900
+End
+
+#O
+Vnum 10281
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  64 64 10 0 0
+End
+
+#O
+Vnum 6644
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 10236
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 10238
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

@@ -1,0 +1,1309 @@
+#AREADATA
+Name Telparia~
+Builders Sembiance~
+VNUMs 1900 1999
+Credits ALL   ~
+Security 9
+Flags J
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#1900
+authorized map dealer~
+an authorizied map dealer~
+An authorizied map dealer
+~
+You see a talk, lanky person.
+You can tell that he is an authorizied map dealer for Sembiance.
+~
+Human~
+ABY 0 0 0
+0
+100 500 20d20+200 25d25+250 30d30+300 wrath
+-90 -90 -90 -90
+F AD 0 0
+stand stand male 66613
+AHMV ABCDEFGHIJKMV small unknown
+#0
+
+
+
+#OBJECTS
+#1900
+map key~
+a map key~
+A map key~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 5 5 P
+E
+map key~
+{c--------------------------------------------------------------
+{c|                      GLOBAL MAP KEY                        |
+{c--------------------------------------------------------------
+{c| {g |           {c= One Way Only (South)                        |
+{c| {g\|/          {c                                              |
+{c|                                                            |
+{c| {g/|\          {c= One Way Only (North)                        |
+{c| {g |           {c                                              |
+{c| {g-->          {c= One Way Only (East)                         |
+{c| {g<--          {c= One Way Only (West)                         |
+{c| {g H           {c= Overpass, not connected                     |
+{c| {g|{mU{g|          {c= Connected to next room by going Up          |
+{c| {g|{mD{g|          {c= Connceted to next room by going Down        |
+{c| {G#{M***{G#        {c= Map Extension (Usually Below Main map)      |
+{c| {Y&&&{y<place>   {c= Internal Places. Type 'enter <place>'       |
+{c| {W[{Y<place>{W]    {c= For Map of this Area see another Map        |
+{c| {W** {x<text> {W** {c= MapMakers Comment                           |
+{c| {g   /-\       {c= If you go east, north, south or west, you   |
+{c| {g/{y< The >{g\    {c  stay in the same room.                      |
+{c| {g\{y<Place>{g/    {c                                              |
+{c| {g   \-/       {c                                              |
+{c--------------------------------------------------------------
+{c| Note - If a room only has a {g|{mU{g|{c not a {g|{mD{g|{c its one-way-only |
+{c--------------------------------------------------------------
+~
+#1901
+map drow city~
+a map of Drow City~
+A map of Drow City~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map drow city~
+{x          {c==================================================
+          {W*{c%{W*              {RMap of Drow City              {W*{c%{W*
+          {W*{c%{W*        {rBrought to you by: Sembiance        {W*{c%{W*
+          {c==================================================
+{x
+                      {yTreasury{g---{yDais
+                                  {g|
+                                  {g|
+                   {g/----------{yThe Altar{g----------\
+             {g      |         |{mD{g| /|\ |{mD{g|         |
+             {g      |         | {g|  |  | {g|         |
+              {g     |         {yPit {g |  {yPit     {g    |
+               {g    |             / \             |
+{g                   |     /------/   \------\     |
+  {g                 |     |                 |     |
+  {g                 |     |                 |     |
+  {g                 |     |                 |     |
+  {g                 \--->{yWest{g<---{yMain{g---->{yEast{g<---/
+                        {ySide   Chamber   Side
+  {g                       |    /|\ | /|\    |
+  {g                       |     |  |  |     |
+  {g                       \-----/  |  \-----/
+  {g                                |
+                                {yGrand
+                               {yStairWay
+                                 {g|{mU{g|
+                                 {g|{mD{g|
+                    {yCleric's{g----{yGrand
+                    {yBarracks   Hallway
+ {g                                 |
+   {g                               |
+                               {y Grand{g-----{yMage's
+                               {yHallway   Barracks
+   {g                              |D{g|
+   {g                              |U{g|
+                               {y Grand           WeaponsMaster's
+                              {y Stairway             Chamber
+{g                                  |                    |
+{g/---------------------------------H--------------------H---------------\
+{g|                                 |                    |               |
+{g\---{yLong{g------{yLong{g------{yLong{g---{yHallway{g------{yLong{g------{yLong{g------{yLong{g---/
+  {y Hallway   Hallway   Hallway    {g| {y       Hallway   Hallway   Hallway
+               {g |                 |
+                {g|                 |
+             {yWarrior's         Entrance
+            {y Barracks            Way
+                              {g   |{mU{g|
+                                 {g|{mD{g|
+{y                                 Lloth     Mages    4th{g-----{yThrone
+{y            Cleric{g---{yStreet     Temple   Academy   House     Room
+{y            Acadamy {g   |          |         |        |
+                      {g |          |         |        |
+{y     Main            Street{g-----{yStreet{g----{yStreet{g---{yStreet      {W[{YThalos{W]
+{y    Chamber      {g      |                    |        |           {g|{mD{g|
+{g       |               |                    |        |           | {g|
+{g       |               |                    |        |           |{mU{g|
+{y     Throne{g----{y1st{g----{yMain   Warriors     Slave{g----{yStreet{g--------{yCity
+{y      Room    House   Gate   Acadamy     Chamber     |         {yEntrance
+                     {g  |        |                    |
+                     {g  |        |                    |
+{y                     Street{g---{yStreet{g-----{yStreet{g----{yStreet
+                      {g |                   | 
+                      {g |                   |
+{y            Throne{g----{y2nd                 3rd
+{y             Room    House               House
+                                        {g   |
+                                         {g  |
+{y                                         Throne
+{y                                          Room{x
+~
+#1902
+map holy grove~
+a map of Holy Grove~
+A map of Holy Grove~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map holy grove~
+{c          ==================================================
+          {c*{W%{c*             {RMap of Holy Grove              {c*{W%{c*
+          {c*{W%{c*        {rBrought to you by: Sembiance        {c*{W%{c*
+          {c==================================================
+{x
+                            {W[ {YOld  {W]
+                            {W[{YThalos{W]
+                             {g  |             /--------\
+                               {g|             |        |
+            {yHoly{g----{yHoly{g-----{yWoods    {g       |     {yCroquet
+            {yGrove   Grove   Clearing {g        |    {y  Lawn
+             {g |       |        |             |        |
+             {g |       |        |             |        |
+   {yInside{g---{yHoly{g----{ySacred{g---{yHoly   {g         |    {y   The
+   {yGrove    Grove   Glade    Grove {g          |      {yFoyer
+     {g|        |       |        |             |        |
+     {g|        |       |        \-------------/        |
+  {y Grove     {g |       |                              {yThe{g------{yThe Blue
+   {yEdge      {g |       |                           {y Hallway      Room
+    {g |        |       |                               |
+    {g |        |       |                               |
+    {g |        |       |       {yThe{g---------{yThe{g--------{yThe{g------{yThe Red
+     {g|        |       |    {yGreenhouse   Ballroom   Hallway     Room
+     {g|        |       |        |           |          |
+     {g|        |       |        |           |          |
+     {g|      {yHoly{g----{ySunny{g-----{yThe{g--------{yDining{g------{yThe
+     {g|     {y Grove   Field   Terrace       Hall     Kitchen
+    {g |
+    {g |
+{W[{YMiden'nir{W]{x
+~
+#1903
+map limbo~
+a map of Limbo~
+A map of Limbo~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map limbo~
+{c              ==================================================
+              {c*{W%{c*              {R  Map of Limbo                {c*{W%{c*
+              {c*{W%{c*        {rBrought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+          {W*         *  *               *
+   {W*             *             *                 *
+    {W    *      {yThe Void   {W*           *
+{W  *         *          *      *             *         *        
+{W *      *                 *              *  {y?Limbo?{W   *
+{W      *             *           *               *         
+{W*      *          *       *           *            *  *
+{x
+{x
+  {W**  {xThe void is the evil place no one wants to be   {W**
+  {W**  {xContaining only 2 rooms. The Void, and ?Limbo?  {W**
+  {W** {xThe second room is where all linkdead players go {W**{x
+~
+#1904
+map elemental canyon~
+a map of Elemental Canyon~
+A map of Elemental Canyon~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map elemental canyon~
+{c          ==================================================
+          {c*{W%{c*           {RMap of Elemental Canyon          {c*{W%{c*
+          {c*{W%{c*    {r    Brought to you by: Sembiance        {c*{W%{c*
+{c          ==================================================
+{x
+                          {y Lightning
+                            {yChamber
+                            {g  |{mD{g|
+                             {g |{mU{g|
+ {yElectric{g-----{yElectric{g-----{yLightning
+{yPlayground   Playground    Causeway
+   {g |            |                                                    
+   {g |            |                                                  {y Water
+   {g |            |      {y Floating{g---{yFloating{g---{yWindy{g------{yAir       Chamber
+   {g |            |          |          |       {yTunnel   Chamber       {g|{mD{g|
+{g    |            |          |          |                              |{mU{g|
+ {g   |            |          |          |   {yElemental{g---{yElemental{g---{yElemental
+  {g  |            |          |          |     {y Bay         Bay         Bay     
+   {g |            |          |          |       |           |           |
+    {g|            |          |          |       |           |           |
+{g    |            |          |          |   {yElemental{g---{yElemental{g---{yElemental
+ {g   |            |          |          |      {yBay         Bay         Bay
+  {g  |            |          |          |       |
+   {g |            |       {yFloating{g---{yFloating {g  \
+    {g|            |          |                   -----------
+ {yElectric{g-----{yElectric{g      \                              \
+{yPlayground   Playground  {g    \--------------------\        |{x
+{x               {g  |                                |        |
+                 {g|                                |        |
+              {yElectric{g------{yMesa{g-----------------{yMesa  {g    |
+              {yPathway       West                 East    {g  |
+                            {g |                    |        |
+                            {g |                    |        |
+                          {y Canyon{g-----{yCanyon{g----{yCanyon{g     |
+                           {yFloor      Floor     Floor{g      |
+                            {g |          |         |        |
+                            {g |          |         |        |
+                   {yFiery{g---{yCanyon{g-----{yCanyon{g----{yCanyon   In The
+                   {yPath    Floor      Floor     Floor    River
+              {g       |       |          |         |        |
+               {g      |       |          |         |        |
+ {yFire{g----{yBruning{g---{yFiery   Canyon{g-----{yCanyon{g----{yCanyon{g---{yBy The
+{yChamber  Garden    Path    Floor      Floor      Floor   River
+                            {g |          |         |
+                             {g|          |         |
+                           {yCanyon{g---{yElemental{g---{yCanyon{g---{yDark{g---{yDarker{g---{yDarker
+                           {yFloor     Gateway    Floor    Cave   Caves    Caves
+                                        {g|                         |        |
+                                       {g |                        /        /
+                                      {g  |                      --       --
+                 {y Overlook          {g    |                     /        /
+                  {g|    |{mD{g|              |                    |        |
+                 {g |    | |              |                  {yDarker{g---{yDarker
+                 {g |    | |              |                  {yCaves    Caves
+                  {g|    \ \              |                    |        |
+              {g    |     \===========\   |                   /        /
+                 {g |                \ \  |                 --       --
+                {g  |                 | | |                /        /
+                 {g |                 |{mU{g| |               |        |
+     {W[{Y Cloudy{W ]{y Vista               Canyon            Darkest{g--{yDarkest{g---{yEarth
+     {W[{YMountain{W]  {g|{mD{g|          {y     Entrance            Caves    Caves   Chamber
+          {g |     | |
+           {g|     |{mU{g|
+         {y Blind Curve
+              {g|{mD{g|
+              {g|{mU{g|
+   {W[{Y The {W]  {yMountain
+   {W[{YAbyss{W]  {y Tombs
+    {g |        |{mD{g|
+     {g|        |{mU{g|
+   {y  Mountain Path
+     {g |{mD{g|
+     {g | |
+      {g\ \
+      {g \============\
+        {g           \ \
+          {g          | |
+         {W[{YThalos{W]  {g | |
+           {g |       | |
+           {g |       | |
+            {g|       |{mU{g|
+   {W[{YCrystalmir{W]{g----{yMountain Path
+   {W[  {Y Lake   {W]{x
+~
+#1905
+map mob factory~
+a map of Mob Factory~
+A map of Mob Factory~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map mob factory~
+{c              ==================================================
+              {c*{W%{c*             {R Map of Mob Factory            {c*{W%{c*
+              {c*{W%{c*        {rBrought to you by: Sembiance        {c*{W%{c*
+              {c==================================================
+{x
+             {yFactory{g----{yFactory{g---{yInspection{g---{yPrimary{g----{ySecondary
+             {yStorage    Storage      Room      Assembly   Assembly
+              {g  |          |          |           |           |
+             {g   |          |          |           |           |
+             {yFactory{g----{yFactory{g---{yInspection{g---{yPrimary{g----{ySecondary
+             {yStorage    Storage      Room      Assembly   Assembly
+             {g   |          |          |           |           |
+             {g   |          |          |           |           |
+{W[{YMidgaard{W]{g----{yFactoy{g----{yEntrance{g---{yEntrance{g----{yPrimary{g----{ySecondary
+             {yEntrance     Hall       Hall      Assembly   Assembly
+               {g |          |          |           |           |
+              {g  |          |          |           |           |
+            {yForeman's   Factory     Reject{g-----{yPrimary{g----{ySecondary
+             {yOffice    Cafeteria     Room      Assembly   Assembly
+              {g  |          |          |           |           |
+               {g |          |          |           |           |
+            {yForeman's   Factory     Reject{g-----{yPrimary{g----{ySecondary
+            {yBathroom   Cafeteria     Room      Assembly   Assembly{x
+~
+#1906
+map dwarven daycare~
+a map of Dwarven Daycare~
+A map of Dwarven Daycare~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map dwarven daycare~
+{c              ==================================================
+              {c*{W%{c*     {R   Map of Dwarven Daycare Center       {c*{W%{c*
+              {c*{W%{c*     {r   Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+                      {W[{YDwarven{W]
+                      {W[{YKingdom{W]
+                          {g|
+                         {g |
+                       {yDwarven
+                      {y Drop Off
+                       {g   |
+                       {g   |
+   {yMessy{g----{yDay Care{g---{yDay Care{g---{yMessy
+  {yBathroom   Center     Center   Kitchen
+              {g |          |
+              {g |          |
+               {g|          |      {y Playground   Playground
+              {g |          |           |            |
+              {g |          |           |            |
+              {g |          |           |            |
+{yStaircase{g---{yDay Care{g---{yDay Care{g---{yPlayground{g---{yPlayground
+   {g|{mD{g|       {yCenter     Center
+  {g | |
+   {g| |                             /-----\
+   {g| |                             |     |
+   {g| |                        /----H-----H---\
+  {g | |                        |    |     |   |
+  {g | |           /---{yMini{g-----/   {yMini{g---H---/
+   {g| |           |   {yMaze         Maze   {g|
+  {g | |           |   /|\           |     |
+  {g | |           |    |            |     |
+  {g | |           \----H------\     |     |
+  {g | |                |      |     |     |
+   {g|{mU{g|                |      |     |     |
+{yMini-Maze{g------------{yMini{g<---/    {yMini {g  |
+{yEntrance             Maze{g---------{yMaze  {g |
+                                       {g  |
+                                     {g    |
+                    {g  /------------------/
+                     {g |
+                    {yEnd of
+                    {y Maze
+                     {g |
+                     {g |
+                    {y The
+                    {y End{e
+~
+#1907
+map smurf village~
+a map of Smurf Village~
+A map of Smurf Village~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map smurf village~
+{c              ==================================================
+{c              *{W%{c*   {R         Map of Smurf Village            {c*{W%{c*
+{c              *{W%{c*     {r   Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+{yGargamel's
+  {yCastle
+{g    |
+ {g   |
+ {yOutside
+ {yCastle
+  {g  |
+  {g  |
+{y Gargamel
+ {y  Path
+  {g  |
+   {g |
+ {ySmurfy{g-----{ySmurfy{g-------{ySmurfy{g---{ySmurfberry
+ {y Road       Road         Road      Patch
+    {g|                      |          |
+   {g |                      |          |
+  {yJokey  Grumpy{g---{yStone{g--{ySmurfy{g---{ySmurfberry
+  {yHome   House    Path    Road      Patch
+                 {g   |      |          |
+                 {g   |      |          |
+  {y                Papa   {g  |          |
+  {y                Home  {g   |          |
+                         {g  |          |
+                       {g    |          |
+           {y  Smurfette{g---{ySmurfy{g---{ySmurfberry
+              {y Home       Road      Patch
+                        {g   |
+                        {g   |
+     {y  Sleepy{g---{ySmurfy{g---{ySmurfy{g---{yHandy
+     {y   Home     Road     Road    Home
+                  {g|        |
+                  {g|        |      {yBrainy
+                  {g|        |      {y Home
+                  {g|        |        |
+           {y     Smurfy{g---{ySmurfy{g---{ySmurfy
+             {y    Road     Road    Road
+                 {g |        |
+                 {g |        |
+              {y  Hefty   Village
+               {y Home    Entrance
+                          {g |
+                          {g |
+                  {y       Dimly
+                    {y    Lit Path
+                          {g |
+                          {g |
+                      {y   Dimly
+                      {y  Lit Path
+                          {g |
+                         {g  |
+                        {y Dimly
+                       {y Lit Path
+                         {g  |
+                         {g  |
+                      {W[{YMiden'nir{W]{x
+~
+#1908
+map gnome village~
+a map of Gnome Village~
+A map of Gnome Village~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map gnome village~
+{c          ==================================================
+{c          *{W%{c*    {R        Map of Gnome Village            {c*{W%{c*
+{c          *{W%{c*      {r  Brought to you by: Sembiance        {c*{W%{c*
+{c          ==================================================
+{x
+                     {yBarracks{g---{yStorage   Chief's
+                        {g|        {y Room     House
+                        {g|                   |
+                       {g |                   |
+{ySmall{g------{yHallway{g---{yHallway{g---{yIron{g--------{yDusty
+{yRoom   {g       |         |     {yGateway      Path
+ {g|{mD{g|          |         |                   |
+ {g| |          |         |                   |
+ {g| |         {yMess    Storage{g---{yStorage     Road
+ {g| |         {yHall     Room      Room       {g |
+ {g| |                                        |
+ {g| |                                        |
+ {g| |     {W[{YMiden'nir{W]  {ySmall      Small{g-----{yRoad{g---{ySmall   Small
+{g | |          |       {yHouse      House      {g|     {yHouse   House
+{g | |          |         |                   |               |
+ {g| |          |         |                   |               |
+{g | |      {y Village{g----{yDusty{g----------------{yRoad{g-----------{yDusty{g---{yUnused{g--{G1{M***{G1
+{g | |       {yEntrance   Path              {g    |           {y  Path     Path
+ {g| |                                        |               |
+ {g| |                                        |               |
+ {g| |                              {y Gnome{g---{yRoad           Small
+ {g| |                              {y Shop   {g  |             {yHouse
+ {g| |                                       {g |
+{g | |                               {yGnome{g---{yRoad{g---{yGnome
+{g | |                              {y Shop    {g |     {yShop
+ {g| |                                        |
+{g | |                    {y Small{g---{yStream{g---{yStream
+ {g| |                   {y   Hut     Path     Path
+ {g| |
+ {g|{mU{g|          
+{yUnused{g------------------{yDark{g------{yTorture       Hobgoblin   Store
+ {yRoom                  Hallway    Chamber       Barracks    Room
+                        {g  |                        |          |
+                        {g  |                        |          |
+             {yPrison{g-----{yDark{g------{yPrison        Hobgoblin{g---{yMess{g---{yKitchen
+             {y Cell     Hallway     Cell         Barracks    Hall
+                         {g |                        |
+                         {g |                        |
+  {yA Ladder{g---{yEnd of{g-----{yDark{g------{yPrison     {g/---{yMine{g-------{yMine{g-----{yWalkway
+    {g|{mD{g|     {y Hallway   Hallway     Cell    {g  |   {yShaft      Shaft    {g   |
+    {g| |                   |                  |     |          |         |
+    {g|{mU{g|                   |                  \-----H----------H---------|----\
+    {yLair                Prison  {g                   |          |         |    |
+    {g |                 {y  Cell                  Hobgoblin   Guarded   Walkway{g |
+    {g |                                         {y Armory      Room    {g    |    |
+  {g   |                                                        |         |    |
+   {g  |                                                        |         |    |
+   {yDamp{g---{yHall{g-------{yThe                                   Guarded    Grand {g |
+  {y Hall    End      Altar                                   Room      Hall{g   |
+  {y Maze                                                   {g    |         |    |
+                                                            {g  |         |    |
+{W** {xMAZE! {W**                                                {yTreasury   Throne {g|
+                                                                  {y     Room {g |
+                                                                             {g|
+                                                           {y Hermit's      {g   |
+                                                            {y Lair        {g    |
+                                                            {g  |              |
+                                                             {g |              |
+                                                              {ySmall      {g    |
+                                                              {yShaft    {g      |
+                                                             {g | |{mD{g|          |
+                                                             {g | \ \          |
+                                                              {g|  \=====\     |
+                                                            {ySmall  {g   \ \    |
+                                                           {y Shaft  {g    \ \   |
+                                                         {g     |         | |  |
+                                                           {g   |         | |  |
+                                              {y Mine Shaft{g---{yMine{g--------H-H--/
+                                               {y Entrance    Shaft  {g     | |
+                                                {g   |          |         | |
+                                                  {g |          |         |{mU{g|
+                                                  {g |        {yMine       Hole
+                                                   {g|       {y Shaft
+                                                   {g|          |
+                                                  {g |          |
+                {G1{M***{G1{g---{yOvergrown{g---{yOvergrown{g---{yClearing {g     |
+                         {y Path        Path                {g    |
+                                                           {g   |
+                                                            {g  |
+                                                   {yCell{g---{yDungeon{g----{yCell
+                                                           {yEntrance
+                                                            {g  |
+                                                            {g  |
+                                                    {yCell{g---{yDungeon{g----{yCell
+                                                         {g     |
+                                                             {g |
+                                                             {g |
+                                                             {yCell{x
+~
+#1909
+map old marsh~
+a map of Old Marsh~
+A map of Old Marsh~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map old marsh~
+{c              ==================================================
+{c              *{W%{c*     {R         Map of Old Marsh              {c*{W%{c*
+{c              *{W%{c*       {r Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+  {W[{YHaon{W]
+  {W[{YDor {W]
+    {g|
+    {g|
+ {y Muddy
+  {yPath
+   {g |
+   {g |
+  {ySwamp{g-------{yMarshy{g---{yOozing{g---{yOozing
+ {y Edge        Forest    Bog      Bog
+  {g  |
+ {g   |
+  {yOn a{g---------{yDark{g-----{yQuick{g---{ySwamp Things
+ {y Hill         Pool     Sand        Lair
+   {g |           |         |
+    {g|           |         |
+ {yGloomy       Dark    {g    |
+  {yPath        Cloud  {g     |
+{g    |           |         |
+   {g |           |         |
+  {y Near{g-------{yBy the{g----{yMurky{g---{yNorthern
+{yVegetation   Monolith    Bog    Lake Side
+                                    {g|
+                                    {g|
+              {W[{YMarienburg{W]          {g|
+                   {g |               |
+                {g   |                |
+                {g   |                |
+              {y Before{g---{yBeach{g---{ySouthern
+              {y Gates            Lake Side{x
+~
+#1910
+map troll den~
+a map of Troll Den~
+A map of Troll Den~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map troll den~
+{c              ==================================================
+              {c*{W%{c*             {RMap of Troll Den               {c*{W%{c*
+              {c*{W%{c*        {rBrought to you by: Sembiance        {c*{W%{c*
+              {c==================================================
+{x
+      {yDeep Forest
+       {yDead End
+           {g|
+           {g|
+       {yWastedump
+           {g|
+           {g|
+           {g|
+{yLarder{g---{yLiving{g---{yPlaypen
+          {yRoom
+           {g|
+           {g|
+       {y Bedroom{x
+~
+#1911
+map shire~
+a map of Shire~
+A map of Shire~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map shire~
+{c              ==================================================
+{c              *{W%{c*              {R  Map of Shire                {c*{W%{c*
+{c              *{W%{c*      {r  Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+  {yGamgee
+ {yResidence
+     {g|
+     {g|
+   {yStoney{g---\
+    {yPath    {g|
+{g            |
+{g/-----------/
+{g|
+{g| {yBedroom{g---{yBag{g------------------------------------------------------{yPantry
+{g|          {y End                                                   {g    |{mD{g|
+{g|           {g |                                                        | |
+{g|           {g |                                                        | |
+{g| {y Chicken   DL  {g                                                     | |
+{g|   {yCoop    {g |    {W** {yDL {x= Delving Lane {W**   {g                          | |
+{g|     |      |                                                        | |
+{g|     |      |                                                        | |
+{g|~
+#1912
+map galaxy~
+a map of Galaxy~
+A map of Galaxy~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map galaxy~
+{c              ==================================================
+{c              *{W%{c*        {R        Map of Galaxy               {c*{W%{c*
+{c              *{W%{c*       {r Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+                                                   {y Draco{g---{yDraco{g------{yDraco
+                                                   {y Back    Wings      Arms
+                                                     {g |                  |
+                                                      {g|                  |
+                                                    {yDraco      Draco{g---{yDraco
+                                                   {y Legs       Head    Neck
+                                                     {g |          |
+                                                      {g|          |
+                                           {yDipper{g-----H--------{yDipper
+                                           {y Path  {g    |   {y    Entrance
+                                            {g |        |          |
+                                            {g |        |          |
+                                         {y Cepheus{g-----H-----{yCassiopeia's
+                                          {yThrone  {g    |     {y   Throne
+                                             {g|        |
+                                             {g|        |
+                                  {yDipper{g---{yDipper   Draco
+                                  {y Path     Path     Path
+                                   {g |                 |
+                                   {g |                 |
+                               {y   Dipper            Draco
+                                 {y  End              Trail
+                                   {g |                 |
+                                   {g |                 |
+                                 {y Polar             On the
+                                 {y Star              Draco
+                                                     {g|{mD{g|
+                                                     {g|{mU{g|
+                                                 {y   End of
+                                                 {y   Chains
+                                                     {g|{mD|
+                                                     {g| |
+                          {y  In{g------{yDry{g----{ySupreme{g---H-H---{yLuxurious
+                          {y Woods   Desert   Court  {g  | |   {y Bedroom
+                                              {g|      / /
+                                              {g|  /====/
+                                              {g| / /
+                                              {g| |{mU{g|
+                         {y Deep{g-----{yAlong{g-----{yMystic{g---{yMountain{g---{yInside
+                       {y  Jungle   Seashore   Chains     Peak    Waterfall
+                                           {g  |{mD{g|  |
+                                            {g | |  \---\
+                                            {g | |      |
+                            {yStudy{g---{yBull{g-----H-H-----{yOn a{g---{yGalatic
+                                 {y   Ring    {g | |   {y  Hill    Clam
+                                            {g | |
+                      {y  Pleiades{g---{yNorthern{g--H-H---{yHercules
+                         {y Home       Side   {g | |   {y Throne
+                          {g |          |      / /      |
+                           {g|          |   /===/       |
+                           {g|          |  / /          |
+                           {g|          |  |{mU{g|          |
+                     {y   Western{g------{yOffering{g------{yEastern
+                       {y  Side        Chamber        Side
+                          {g |          |  |{mD{g|          |
+                          {g |          |  \ \          |
+                          {g |          |   \====\      |
+                          {g |          |       \ \     |
+                          {g |          |       | |     |
+                        {yHunting{g-----{yAncient{g---H-H--{yPerseus
+                        {y Lodge      Temple {g   | |  {yChamber
+                                    {g  |       | |
+                                    {g  |       | |
+   {y  Lost in{g---{yUndeveloped   Throne {g  |   {y Old Thalos
+      {ySpace      Galaxy       Room   {g |     {y Temple
+        {g|           |           |     |
+        {g|           |           |     |
+    {y  Galaxy{g-------{yEnd{g-------{yNebulae{g--H--{yMilky{g-----{yGalaxy
+    {y  Corner     Walkway     Bridge  {g |  {y End       Edge
+       {g |           |                 |    |        | |{mD{g|
+       {g |           |           /-----/    |        | \ \
+        {g|           |           |          |        |  \============\
+    {y  Galaxy{g-----{yGalatic  {g      |  {y      Along{g----{ySmall        {g    \ \
+     {y  Edge      Walkway     {g   |      {y  Milky   Clearing     {g      \ \
+      {g  |           |           |          |                        | |
+       {g |           |           |          |                        | | 
+      {yStar{g--------{yInside{g-------{yStar{g------{yMilky                  {y  Gigantic
+    {y Cluster      Galaxy      Bridge     Start                      Star
+               {g     |
+                  {g  |
+  {W[{YShadow{W]{g---{yInside{g |
+  {W[{YGrove {W]  {y Tavern {g|
+               {g|{mD{g|  |
+               {g| |  |
+               {yInside
+               {y Ball{x
+ 
+~
+#1913
+map dragon tower~
+a map of Dragon Tower~
+A map of Dragon Tower~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map dragon tower~
+{c              ==================================================
+{c              *{W%{c*          {R Map of Dragon Tower v1           {c*{W%{c*
+{c              *{W%{c*       {r Brought to you by: Sembiance        {c*{W%{c*
+{c              ==================================================
+{x
+                                                     {ySecond
+                                                     {yFloor
+                                                     {g|{mD{g| |
+                                                     {g| | \
+                                                     {g| |  -----
+                                                    {g | |       \
+                                                    {g | |       |
+                                                     {g|{mU{g|       |
+                                                   {yEnd of     The{g----{yHall O'
+                                                   {yHallway   Court   Pleasure
+                                                      {g|        |
+                                                      {g|        |
+                                        {y The{g----------H-------{yThe{g------{yThe
+                                       {ySanctum      {g  |     {y Court   Library
+                                                    {g  |        |
+                                                     {g |        |
+                                                     {g |      {yCourt{g----{yPhase
+                                                     {g |      {yEnds    Dragons
+                                                     {g |               {yLair
+                                                     {g |
+              {yWhite Dragons            Storage{g-----{yHallway{g---{yNursery{g---{G1{M***{G1
+                {y  Lair                  Room         {g |
+                   {g|                     |{mD{g|          |
+                   {g|                     |{mU{g|          |
+               {y  Cave                 Guardian's   Hallway       Five Headed
+               {y Opening                  Room   {g      |        {y  Dragon Lair
+               {g    |                      |           |              |
+                {g   |                      |           |              |
+{yStairwell{g---{yCrypt{g--H--{yCrypt{g---{yCrypt{g----{yTreasure     Foyer          Top of
+   {g|{mD{g|     {y Ends   {g|       {y Entrance     Room     {g  | | |        {y Mountain
+   {g| |             |                                | | |           |{mD{g|
+   {g| |             |                                | | |           |{mU{g|
+   {g| |            /                                 | | \       {y   Path
+   {g| |         ---                                  | |  -----  {y Continues
+   {g| |        /                                     | |       \     |D{g|
+   {g|{mU{g|        |                                     |{mU{g|       |     | |
+ {y Wine{g------{yTunnel{g---------------------------------{yTunnel   Tower {g  | |
+{y Cellar                                             End     Gates  {g | |
+                                                    {g |      |       | |
+                                       {W[{YShadow{W]{g------H------/       | |
+                                       {W[{YGrove {W]  {g    |              | |
+{y Dead     Red Dragons                               The  {g          / /
+{y End      {g|{mD{g| {yLair                                 Bridge {g   /======/
+ {g |      / /   |                                     |       | |
+ {g |     / /    |                                     |       |{mU{g|
+  {g|    / /   {yNarrow           Cave{g-------------------H-------{yPath
+ {g |    |{mU{g| {yPassageway        Opening            {g     |       |{mD{g|
+ {yUnderground  {g |                |                 {y Small  {g  / /
+  {y Tunnel     {g |                |                {y Opening {g / /
+             {g  \                |                    |    / /
+             {g   \               |                    |   / /
+             {g    ------         |                    |   |{mU{g|
+                      {g \  {yBlack Dragons             Clearing
+                       {g \     {yLair
+                        {g \
+                         {g|
+{G1{M***{G1{g---{yGreat Hall{g---->{yGreat{g----{yGreat{g-----{yGreen Dragons
+         {yEntrance      Hall   Hall Ends       Lair{x
+~
+#1914
+map ofcol new ofcol~
+a map of Ofcol and New Ofcol~
+A map of Ofcol and New Ofcol~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+E
+map ofcol new ofcol~
+{c              ==================================================
+{c              *{W%{c*   {R      Map of Ofcol and New Ofcol        {c *{W%{c*
+{c              *{W%{c*     {r   Brought to you by: Sembiance       {c *{W%{c*
+{c              ==================================================
+{x
+                             {yBedroom
+                               {g|{mD{g|
+                               {g| |   {yKitchen
+                               {g| |   |  |{mD{g|
+                               {g| |   |  | |
+                               {g| |   |  \=========\
+                               {g| |   |           \ \
+                               {g| |   |           | |
+                               {g|{mU{g|   |        {W[{YFiretop {W]
+                             {y Big House       {W[{YMountain{W]
+                                 {g |
+                                 {g |
+      {y Small   Small   Small    {g  |    {y   Small   Small   Small
+      {y House   House   House    {g  |    {y   House   House   House
+       {g |       |       |       {y Big        |       |       |
+{ySmall{g---{ySW{g------{ySW{g------{ySW{g---{yIntersection{g---{ySW{g------{ySW{g------{ySW{g----{ySmall
+{yHouse   {g|       |       |         |         |       |       |   {y  House
+       {ySmall   Small   Small    {g  |     {y  Small   Small   Small
+       {yHouse   House   House   {g   |       {yHouse   House   House
+                                 {g |
+                          {yHouse{g---{yIW{g---{yHouse      {W ** {ySW{x = Swiftest Way{W **
+                           {g |     |      |
+                         {yBedroom {g |  {y Bedroom
+                                 {g |
+                         {y House{g---{yIW{g---{yHouse      {W ** {yIW {x= Impy Way {W**
+        {y Ofcol             {g |     |      |
+        {y  Inn            Bedroom{g  |   {yBedroom
+          {g |                      |
+{yMixed{g---{yVillage   Kitchen{g---{yBig{g---{yIW{g---{yBig{g---{yKitchen
+{yShop    Square             House  {g|  {y House
+          {g |                      |
+          {g |                      |
+      {y  Village    Small         Big
+      {y  Street{g-----{yAlley{g-----{yIntersection{g---{yRaff{g----{yRaff{g----{yOutside{g---{G1{M***{G1
+           {g|         |            |     {y    Way     Way     Entrance
+       {y Village    Future    {g     |
+       {y Street    Training  {g      |
+          {g |        {yRoom   {g       |
+         {y Main            {g        |
+         {y Gate      Blacksmith{g---{yImpy{g---{yLeather
+           {g|           {y          Way     Shop
+          {g |                      |
+        {W[{YNorth {W]                {g  |
+        {W[{YPlains{W]          {yPawn{g---{yImpy{g---{yMeat
+                          {yShop   Way   Store
+                                {g  |
+                                {g  |
+                        {yNyle's{g---{yImpy{g---{yFarmer's
+                       {y House    Way     Market
+                       {y of Ale   {g |
+                         {g         |
+               {yStill{g-----{yShed {g    |
+               {yRoom      {g |       |
+                        {g  |       |
+              {y Fields{g---{yFields{g---{yImpy{g---{yDirt{g---{ySlaughter
+              {g   |        |      {yWay    Road     House
+                {g |        |              |
+              {y Fields{g---{yFields  {g         |
+                                  {g       |
+                               {y Grass {g   |
+                                {yField  {g  |
+                                 {g |      |
+                          {y Pig{g---{yDirt{g---{yDirt{g---{yBard
+                          {y Sty   Road   Road
+                                  {g|
+                                {yGrass            Dragon
+                               {y Field            Shaft
+                                                 {g |{mD{g|
+                                                  {g|{mU{g|
+                                               {y  Above
+                                               {y Chamber
+                                                 {g |{mD{g|
+                                                 {g | {g|
+                                           {yTop {g   | |
+                                         {yChamber {g | |
+                                        {g |{mD{g|  |   | |
+                                        {g | |  \-\ | |
+                                         {g| |    | |{mU{g|
+                               {yTop{g-------H-H---{yDragon{g-----{yTop
+                            {y Chamber {g    | |   {yChamber  Chamber
+                               {g|{mD{g|       | |     |        |{mD{g|
+                               {g| |       | |     \---\    | |
+                               {g| |       |{mU{g|         |    | |
+                              {g | |      {yUpper       Top {g  | |
+                              {g | |   {y  Chamber    Chamber{g | |
+                               {g| |     |{mD{g|  |       |{mD{g|   | |
+                               {g| |     | |  \-\     | |   | |
+                               {g|{mU{g|     | |    |     | |   |{mU{g|
+                            {y  Upper{g----H-H--{yDragon{g--H-H--{yUpper
+                            {y Chamber   {g| | {y  Hall   {g| | {yChamber
+                               {g|{mD{g|     | |    |     | |   |{mD{g|
+                              {g | |     | |    \---\ | |   | |
+                             {g  | |     | |        | |{mU{g|   | |
+                             {g  | |     | |       {y Upper {g  | |
+                              {g | |     | |      {y Chamber{g  | |
+                              {g | |     | |         |{mD{g|    | |
+                              {g | |     | |         | |    | |
+                  {y Citadel{g-----H-H-----H-H-{yCitadel{g-H-H----H-H-----{yCitadel
+                  {y Hallway  {g   | |     | | {yHallway {g| |    | |     {yHallway
+                    {g  |        | |     | |    |    | |    | |        |
+                     {g |        | |     |{mU{g|    |    | |    | |        |
+                 {y  Citadel    {g | |    {y Anteroom   {g | |    | |     {yCitadel
+                  {y Hallway    {g | |            |    | |    | |     {yHallway
+                    {g  |        | |            |    | |    | |        |
+                     {g |        |{mU{g|            |    | |    |{mU{g|        |
+{G1{M***{G1{g---{yCitadel{g----{yCitadel{g---{yAnteroom{g-------{yOfcol{g--H-H--{yAnteroom{g--{yCitadel
+       {y Entrance   Hallway                  Temple{g | |            {yHallway
+                     {g |                       |    | |               |
+                     {g |                       |    |{mU{g|               |
+              {y     Citadel                    Anteroom            Citadel
+                  {y Hallway        {g            |              {y     Hallway
+                      {g|                       |                      |
+                    {g  |                       |                      |
+                  {y Citadel{g-----------------{yCitadel{g----------------{yCitadel
+                  {y Hallway                 Hallway                Hallway{x
+~
+#1950
+magical candelabra~
+{Mmagical candelabra with 5 candle slots{x~
+{Mmagical candelabra with 5 candle slots{x~
+MAGIC_ENERGY light_source ABGSTY 0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 1000 0 P
+E
+=segment=~
+ifjoinedwith 1951 1952 1953 1954 1955 creates 1956
+You insert all the candles into $p!
+There is an amazing flash of light and a bracelet appears on the floor.
+`
+{W$n {Minserts all 5 candles into {x$p{W!!{x
+{W***** THERE IS A BLINDING FLASH OF LIGHT *****{x
+{BA small bracelet appears on the floor.{x
+`
+~
+#1951
+magical red candle~
+{Ra magical red candle{x~
+{Ra magical red candle{x~
+MAGIC_ENERGY light_source ABGSTY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1950
+You insert $p into $P
+`
+$n inserts $p into $P
+`
+~
+#1952
+magical blue candle~
+{Ba magical blue candle{x~
+{Ba magical blue candle{x~
+MAGIC_ENERGY light_source ABGSTY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1950
+You insert $p into $P
+`
+$n inserts $p into $P
+`
+~
+#1953
+magical yellow candle~
+{Ya magical yellow candle{x~
+{Ya magical yellow candle{x~
+MAGIC_ENERGY light_source ABGSTY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1950
+You insert $p into $P
+`
+$n inserts $p into $P
+`
+~
+#1954
+magical green candle~
+{Ga magical green candle{x~
+{Ga magical green candle{x~
+MAGIC_ENERGY light_source ABGSTY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1950
+You insert $p into $P
+`
+$n inserts $p into $P
+`
+~
+#1955
+magical cyan candle~
+{Ca magical cyan candle{x~
+{Ca magical cyan candle{x~
+MAGIC_ENERGY light_source ABGSTY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1950
+You insert $p into $P
+`
+$n inserts $p into $P
+`
+~
+#1956
+magical gateway bracelet~
+{Ma magical gateway bracelet{x~
+{Ma magical gateway bracelet{x~
+MAGIC_ENERGY key ABGSTY AMO
+0 0 0 0 0
+0 0 0 P
+E
+bracelet~
+{MThis magical bracelet can get you through the magical gateway!{x
+~
+#1960
+bare tootsie~
+a bare tootsie~
+A bare tootsie~
+UNKNOWN food 0 AO
+BD BD 0 0 0
+0 0 0 P
+E
+=segment=~
+joinswith 1961 creates 1963
+You roll a $p with $P and creates a tootsie roll!
+`
+$n rolls a $p with $P and creates a tootsie roll!
+`
+~
+#1961
+tootsie wrapper~
+a tootsie wrapper~
+A tootsie wrapper~
+SELECT_A_MATERIAL trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#1963
+nicely wrapped tootsie roll~
+a nicely wrapped tootsie roll~
+A nicely wrapped tootsie roll~
+SELECT_A_MATERIAL food 0 AO
+ABD ABD 0 0 0
+0 0 0 P
+#1994
+tootsie roll small~
+{Ga LOST TOOTSIE ROLL {W({GSMALL{W){x~
+{Ga LOST TOOTSIE ROLL {W({dSMALL{W){G!{x~
+SELECT_A_MATERIAL treasure RTYc A
+0 0 0 0 0
+5 1 99 P
+#1995
+tootsie roll medium~
+{Ga LOST TOOTSIE ROLL {W({GMEDIUM{W){x~
+{Ga LOST TOOTSIE ROLL {W({dMEDIUM{W){G!{x~
+SELECT_A_MATERIAL treasure RTY A
+0 0 0 0 0
+5 1 99 P
+#1996
+tootsie roll large~
+{Ga LOST TOOTSIE ROLL {W({GLARGE{W){x~
+{Ga LOST TOOTSIE ROLL {W({dLARGE{W){G!{x~
+SELECT_A_MATERIAL treasure RTY A
+0 0 0 0 0
+5 1 99 P
+#1998
+mud playboy issue 1~
+{GMUD Playboy {WIssue #1{x~
+{GMUD Playboy {WIssue #1{x~
+SELECT_A_MATERIAL map S A
+0 0 0 0 0
+3 3 3 P
+E
+page1~
+{x           {y,{Y(())){y,
+{x           {Y(({y/ \{Y))
+{x         {Y ))){B^{y.{B^{Y(((
+{x         {Y (({y\{R 0{y /{Y))
+{x          {Y))){y)-({Y(((
+{x         {y/{Y((     (({y\
+{x       {y / {Y( {R.   . {Y){y \
+{x      {y / /`\{r-' '-{y/`\ \
+{x      {y \ \  ) . (  / /
+{x       {y `\\/     \//`
+{x        {y (/  \{Y#{y/  \)
+{x         {y |   |   |
+{x         {y \   |   /
+{x          {y \_ | _/
+{x          {y / / \ \
+{x         {y  | | | |
+{x          {y |/   \|
+{x         {y / \   / \
+{x         {y `-'   '-`
+~
+E
+page2~
+{G   Silly {RRedheads...
+{x
+{y             ---,_,----
+{y            /    {r.{y     \
+{y           /     |      \
+{y          (      {R@@{y      )
+{y          /   _/----\_   \
+{y         /   '/      \`   \
+{y        /    /   .    \    \
+{y       /    /|        |\    \
+{y       /   / |        | \   \
+{y      /   /`_/{r_      _{y\_'\   \
+{y     /  '/  {r(  {R. {r)({R . {r ) {y \  `\
+{y     <_ ' `--{r`{y___{r'`{y___{r'{y--' ` _>
+{y    /  '     {R@ @{y/ {R={y\{R@ @   {y  `  \
+{y   /  /      {R@@{y(  , ){R@@    {y  \  \
+{y  /  /       {R@@{y| {Go o{y|{R@@   {y    \  \
+{y ' /         {R @@@@@@@@   {y       \ `
+~
+E
+page3~
+{Y    Blonde {WStatue
+{x
+{y     ,/,      {Y   ,.%.,.     {y           |.
+{y   '///_,  {Y    (///)\\)))          {y,  |||/
+{y    \  ,'   {Y  ((({B. {B.{Y  \\\) {y        y-";,-"
+{y     | |    {Y  )){y| {R- {y   @{Y))) {y       | |
+{y     |  \    {Y(((({y\___,"{Y(((( {y      /  |
+{y     |   `---.{Y)))){y|   |{Y()))){y_.---'   |
+{y      `-._       "-_   _ -"       _,-"
+{y          "-.__{r,"         ".{y__.-"
+{y             {r ( {R@ {r  / \ {R  @{r )
+{y               {r`---'   `---'
+{y                |         |
+{y                |    {w. {y   |
+{y               /           \
+{y              /    {Y"-{R.{Y-"{y    \
+{y             /      /{r^{y\      \
+{y            /      /   \      \
+{y           /      /     \      \
+{y          (    ."        ".     \
+{y           \    )          \     \
+{y            \   ".          `.    \
+{y             ".   \            \   \
+{y               `.  `)           \  ".
+{y                 \  (            \  \
+{y                .mno/            |   \
+{y                                  Oonm'{x
+~
+E
+mud playboy issue 1~
+{m/-----------------------\
+{m|      {GMUD Playboy     {m |
+{m|       {WIssue #1      {m  |
+{m|-----------------------|
+{m|{W***{gTable of Contents{W***{m|
+{m|                       |
+{m| {gPage1 - {RSuper {YBlonde  {m|
+{m| {gPage2 - {GSilly {RRedheads{m|
+{m| {gPage3 - {YBlonde {WStatue {m|
+{m\-----------------------/
+~
+#1999
+map drow city~
+a map of Drow City~
+A map of Drow City~
+SELECT_A_MATERIAL map 0 A
+0 0 0 0 0
+1 1 100 P
+#0
+
+
+
+#ROOMS
+#1900
+{MSembiance's Map Store{x~
+{gThis is a high class establishment.  Only the finest maps are sold here. 
+Although Sembiance himself is not here to personally sell you his maps, a
+authorized map dealer is.  Sembiance is probably out mapping some other
+great areas.  A cartographers work is never .  If you would like to see
+a certain area mapped, just write a little note to Sembiance and he will see
+what he can do.  This store has recently undergone a compelete overhaul. 
+All the maps are now in living color, and more are on the way.  To help
+celebrate the grand reopening of Sembiance's Map Store, prices have been
+{Yslashed{g to rock bottom!{x  
+
+~
+0 1032 1
+D4
+~
+~
+0 0 3160
+C 0
+S
+#1950
+{BMagical Gateway Room{x~
+{YThis room is teeming with magical energy.{x
+{YYou see an amazing gateway to the north, but you are unable to enter.{x
+{YWhenever you attempt to enter, a magical force pushes you away.{x
+~
+0 4 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1900 1 1900 1
+G 0 1900 0
+G 0 1901 0
+G 0 1902 0
+G 0 1903 0
+G 0 1904 0
+G 0 1905 0
+G 0 1906 0
+G 0 1907 0
+G 0 1908 0
+G 0 1909 0
+G 0 1910 0
+G 0 1911 0
+G 0 1912 0
+G 0 1913 0
+G 0 1914 0
+O 0 1950 0 1950
+S
+
+
+
+#SHOPS
+1900 28 0 0 0 0 60 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

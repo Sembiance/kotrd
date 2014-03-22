@@ -1,0 +1,416 @@
+#PLAYER
+Name Adio~
+Id   1143921682
+LogO 1144689279
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Golem~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 11062
+Scro 33
+Room 3001
+HMV  142 142 110 110 124 124
+Gold 0
+Silv 43
+Gold_bank 863
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  8748
+PAct  CDETd
+AfBy c
+WName Adio~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 1
+Trai 1
+Save  -32
+Alig  900
+Hit   62
+ACs 65 55 59 75
+Wimp  10
+Attr 25 12 9 9 18
+AMod 0 2 5 1 4
+Pass Ado4/Z1VllkxM~
+Titl  rules all~
+Pnts 54
+TSex 1
+PSize 4
+LLev 2
+HMVP 142 110 124
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'armor'
+Sk 1 'stone skin'
+Sk 76 'sword'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 42 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Affc 'armor'   0 248  80 -20  17          0
+Affc 'bless'   0 247 111 -31  20          0
+Affc 'bless'   0 247 111  62  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 25 0 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 18607
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 192 0 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18607
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18606
+Nest 1
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18615
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 18615
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3355
+Nest 1
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 10009
+Nest 0
+Cond 0
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1524
+Nest 0
+Cond 0
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3358
+Nest 0
+Cond 0
+Wear 8
+Cost 450
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear 5
+Cost 430
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#END

@@ -1,0 +1,405 @@
+#PLAYER
+Name Ilyana~
+Id   1105220950
+LogO 1105329507
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Cambion~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 11
+OldLvl 11
+Sec  0
+Plyd 4947
+Scro 33
+Room 3001
+HMV  62 144 121 121 51 210
+Gold 2285
+Silv 187
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 11
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  20918
+PAct  CDEFGQTd
+AfBy DGNTVe
+WName Ilyana~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 6
+Save  187
+Alig  -1000
+Hit   223
+Dam   102
+ACs -249 -255 -250 -226
+Attr 19 13 14 22 18
+AMod 4 2 2 6 1
+Pass Il8rXbirmRmIo~
+Titl .~
+Pnts 57
+TSex 2
+PSize 3
+LLev 1
+HMVP 144 121 160
+Cnd  0 0 35 18
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'demonfire'
+Sk 1 'curse'
+Sk 75 'dagger'
+Sk 1 'assassinate'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'protection evil'   0 500  22 250  20       8192
+Affc 'giant strength'   0 500 498   4   1          0
+Affc 'stone skin'   0 500 498 -40  17          0
+Affc 'combat mind'   0 498 164 100  19          0
+Affc 'combat mind'   0 499 164 -255  17          0
+Affc 'combat mind'   0 500 164 100  18          0
+Affc 'bless'   0 500 248 -62  20          0
+Affc 'bless'   0 499 248 125  18          0
+Affc 'haste'   0 500 123   4   2    2097152
+Affc 'golden aura'   0 500 109   0   0 1073741824
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 125 0 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 0
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#O
+Vnum 3077
+Nest 0
+Cond 0
+Wear -1
+Cost 420
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4714
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 4713
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 4715
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 3701
+Enchanted
+Nest 0
+ExtF 1048640
+Cond 0
+Wear -1
+Lev  1
+Cost 0
+Affc 'reserved'   1   0  -1   1  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3503
+Nest 0
+Cond 0
+Wear 4
+Cost 310
+End
+
+#O
+Vnum 3504
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 5783
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5793
+Nest 0
+Cond 0
+Wear -1
+Time 1025
+Cost 0
+Spell 1 'curse'
+Spell 2 'blindness'
+Spell 3 'cause critical'
+End
+
+#O
+Vnum 5788
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+Spell 3 'faerie fog'
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear 6
+Cost 450
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear 10
+Cost 450
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear 11
+Cost 810
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear 12
+Cost 380
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear 13
+Cost 450
+End
+
+#O
+Vnum 5241
+Nest 0
+Cond 0
+Wear 18
+Cost 500
+End
+
+#O
+Vnum 5252
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 5237
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5252
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear 16
+Cost 1000
+End
+
+#END

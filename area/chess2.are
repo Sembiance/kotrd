@@ -1,0 +1,2811 @@
+#AREADATA
+Name Chessboard of Midgaard~
+Builders Exxon~
+VNUMs 4200 4299
+Credits 10 -  35~
+Security 8
+Flags F
+LEVELs 10 60
+End
+
+
+
+#MOBILES
+#4200
+black pawn~
+the Pawn of the Black Court~
+{cYou see a pawn standing here waiting for orders.{x
+~
+The Black Pawn looks quite like a small knight without his powerful steed.
+His armor is shiny and black. He stands ready to give his life for the Crown.
+~
+Human~
+ACF D -400 4200
+0
+10 8 4d7+130 1d1+99 2d4+4 beating
+0 0 0 0
+EG A 0 0
+stand stand male 60
+ABHMV ABCDEFGHIJKMV medium unknown
+#4201
+white pawn~
+the Pawn of the White Court~
+{cYou see a pawn standing here waiting for orders.{x
+~
+The White Pawn looks quite like a small knight without his powerful steed.
+His armor is spotless and white. He stands ready to give his life for the 
+Crown.
+~
+Human~
+AC D 400 4201
+0
+10 8 4d7+130 1d1+99 2d4+4 beating
+0 0 0 0
+EG 0 0 0
+stand stand male 55
+AHMV ABCDEFGHIJKMV medium unknown
+#4202
+black rook castle~
+the Black Rook~
+{cIn the corner you see a large, black, stone castle on wheels.{x
+~
+The Black Rook is a very large man-made tomb on wheels.  Just
+from the looks of it, it will probably be YOUR tomb.
+~
+Human~
+AFH 0 -600 0
+0
+27 20 5d10+650 1d1+99 4d4+12 punch
+-8 -8 -8 -8
+CEI A 0 0
+stand stand male 480
+AHMV ABCDEFGHIJKMV medium unknown
+#4203
+white rook castle~
+the White Rook~
+{cIn the corner you see a large, white, stone castle on wheels.{x
+~
+The White Rook is a very large man-made tomb on wheels.  Just
+from the looks of it, it will probably be YOUR tomb.
+~
+Human~
+AH D 600 0
+0
+27 20 5d10+650 1d1+99 4d4+12 punch
+-8 -8 -8 -8
+CEI 0 0 0
+stand stand male 470
+AHMV ABCDEFGHIJKMV medium unknown
+#4204
+black knight~
+the Black Knight~
+{cHere stands a magnificent knight of the dark realm.{x
+~
+The Black Knight is here, riding his ebony black war horse.  His eyes
+flash behind his visor in vengence.
+~
+Human~
+AH 0 -400 0
+0
+18 13 3d9+283 1d1+99 2d7+7 pierce
+-3 -3 -3 -3
+EF A 0 0
+stand stand male 266
+AHMV ABCDEFGHIJKMV medium unknown
+#4205
+white knight~
+the White Knight~
+{cHere stands a magnificent knight of the light realm.{x
+~
+The White Knight is here, riding his ivory white war horse.  His eyes
+gleam behind his visor in joy.
+~
+Human~
+AH 0 400 0
+0
+18 13 3d9+283 1d1+99 2d7+7 pierce
+-3 -3 -3 -3
+EF A 0 0
+stand stand male 256
+AHMV ABCDEFGHIJKMV medium unknown
+#4206
+black bishop priest~
+the Black Bishop~
+{cA dark priest stands here.{x
+~
+The Black Bishop seems willing to help you straight into your grave so
+he can bless you properly.
+~
+Human~
+AH 0 -500 0
+0
+24 16 5d15+500 1d1+239 2d9+9 punch
+-6 -6 -6 -6
+CDEF A 0 0
+stand stand male 540
+AHMV ABCDEFGHIJKMV medium unknown
+#4207
+white bishop priest~
+the White Bishop~
+{cA light priest stands here.{x
+~
+The White Bishop seems willing to help you in any possible so that he can
+attain a higher spirituality.
+~
+Human~
+A DN 500 0
+0
+24 16 5d15+500 1d1+239 2d9+9 punch
+-6 -6 -6 -6
+CDEF A 0 0
+stand stand male 590
+AHMV ABCDEFGHIJKMV medium unknown
+#4208
+black queen~
+the Black Queen~
+{cThe Black Queen stands here.{x
+~
+The Black Queen is a strikingly beautiful woman with pale skin and a mass of
+dark hair that crowns her head like a black cloud.  If looks could kill, you
+would already be dead.
+~
+Human~
+ABFH DFH -750 4210
+0
+32 23 10d10+1000 1d1+319 5d4+15 magic
+-10 -10 -10 -10
+AFJK A 0 0
+stand stand female 856
+AHMV ABCDEFGHIJKMV medium unknown
+#4209
+white queen~
+the White Queen~
+{cThe White Queen stands here.{x
+~
+The White Queen is a stunningly beautiful woman with dark skin and a mass
+of light hair that frames her head like the sun.  This is surely love at
+first sight for you.
+~
+Human~
+ABH DFHN 750 2411
+0
+32 23 10d10+1000 1d1+319 5d4+15 magic
+-10 -10 -10 -10
+AFJK 0 0 0
+stand stand female 854
+AHMV ABCDEFGHIJKMV medium unknown
+#4210
+black king~
+the Black King~
+{cThe Black King stands here.{x
+~
+The Black King is a menacing figure.  You can easily understand why he
+is the king and you are not.
+~
+Human~
+ABH DFHU -999 0
+0
+36 26 10d10+1400 1d35+99 3d9+12 beating
+-12 -12 -12 -12
+BCDEF A 0 0
+stand stand male 984
+AHMV ABCDEFGHIJKMV medium unknown
+#4211
+white king~
+the White King~
+{cThe White King stands here.{x
+~
+The White King is a stately figure.  You can easily understand why he
+is the king and you are not.
+~
+Human~
+ABH DFHNU 999 0
+0
+36 26 10d10+1400 1d1+359 3d9+12 beating
+-12 -12 -12 -12
+BCDEF 0 0 0
+stand stand male 988
+AHMV ABCDEFGHIJKMV medium unknown
+#4212
+caliph omar ghost~
+the Ghost of Caliph Omar~
+{cThe Ghost of Caliph Omar is floating here.{x
+~
+Caliph Omar was person who sanctions chess for islamic people. 
+His ghost is here small, and looks like made from smoke.
+~
+Human~
+AHT BDFHPQTUV 0 0
+0
+60 40 50d10+9500 599d1+1 8d6+30 wrath
+-30 -30 -30 -30
+FGK 0 0 HIJK
+stand stand male 14999
+AHMV ABCDEFGHIJKMV small unknown
+#0
+
+
+
+#OBJECTS
+#4200
+armour black pawn~
+some Black Pawn Armour~
+A pile of black armour is here.~
+SELECT_A_MATERIAL armor J AD
+AC AC AC 0 B
+10 20 600 G
+#4201
+armour white pawn~
+some White Pawn Armour~
+A pile of white armour is here.~
+SELECT_A_MATERIAL armor K AD
+AC AC AC 0 B
+10 20 600 G
+#4202
+axe black pawn~
+a Black Pawn's Axe~
+The axe of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+axe 2 6 chomp 0
+10 20 750 G
+#4203
+axe white pawn~
+a White Pawn's Axe~
+The axe of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+axe 2 6 chomp 0
+10 20 750 G
+#4204
+armour black rook~
+some Black Rook Armour~
+Some armour made from the remains of a black rook lies heaped on the floor.~
+SELECT_A_MATERIAL armor J AD
+D D D 0 AC
+25 30 1250 G
+A
+5 1
+A
+17 2
+#4205
+armour white rook~
+some White Rook Armour~
+Some armour made from the remains of a white rook lies heaped on the floor.~
+SELECT_A_MATERIAL armor K AD
+D D D 0 AC
+25 30 1250 G
+A
+5 1
+A
+17 2
+#4206
+lance black knight~
+the Lance of the Black Knight~
+The Lance of the Black Knight lies here, waiting to rust.~
+SELECT_A_MATERIAL weapon BJ AN
+exotic 5 5 pierce D
+17 50 2250 P
+A
+23 5
+A
+19 2
+#4207
+lance white knight~
+the Lance of the White Knight~
+The Lance of the White Knight lies here, waiting to rust.~
+SELECT_A_MATERIAL weapon BK AN
+exotic 5 5 pierce D
+17 50 2300 P
+A
+23 5
+A
+19 2
+#4208
+staff black bishop~
+the Staff of the Black Bishop~
+The Black Bishop's Staff is lying here.~
+SELECT_A_MATERIAL staff GJL AO
+20 5 5 'energy drain' 0
+23 20 3523 P
+#4209
+staff white bishop~
+the Staff of the White Bishop~
+The White Bishop's Staff is lying here.~
+SELECT_A_MATERIAL staff GKL AO
+20 5 5 'sanctuary' 0
+23 20 3879 P
+#4210
+crown black queen~
+the Crown of the Black Queen~
+The Crown of the Black Queen lies here, looking neglected.~
+SELECT_A_MATERIAL armor AGJL AE
+AD AD AD A A
+32 25 5000 G
+A
+4 1
+A
+3 1
+#4211
+crown white queen~
+the Crown of the White Queen~
+The Crown of the White Queen lies here, looking neglected.~
+SELECT_A_MATERIAL armor AGKL AE
+AD AD AD A A
+32 25 5000 G
+A
+4 1
+A
+3 1
+#4212
+sceptre black king~
+the Black King's Sceptre~
+The Sceptre of the Black King lies here, collecting dust.~
+SELECT_A_MATERIAL treasure JL AO
+0 0 0 0 0
+32 10 7900 P
+A
+18 1
+A
+1 1
+#4213
+sceptre white king~
+the White King's Sceptre~
+The Sceptre of the White King lies here, collecting dust.~
+SELECT_A_MATERIAL treasure KL AO
+0 0 0 0 0
+32 10 7900 P
+A
+18 1
+A
+1 1
+#4214
+key black treasury~
+the Key to the Black Treasury~
+There is a sinister black key lying here.~
+SELECT_A_MATERIAL key FH AO
+0 0 0 0 0
+6 1 1 G
+#4215
+key white treasury~
+the Key to the White Treasury~
+There is a bright white key lying here.~
+SELECT_A_MATERIAL key FH AO
+0 0 0 0 0
+6 1 1 G
+#4216
+coins gold black royal treasure~
+the Black Royal Treasure~
+There are a LOT of coins here.~
+SELECT_A_MATERIAL money 0 A
+EIJKN 0 0 0 0
+0 0 0 P
+#4217
+coins gold white royal treasure~
+the White Royal Treasure~
+There are a LOT of coins here.~
+SELECT_A_MATERIAL money 0 A
+EIJKN 0 0 0 0
+0 0 0 P
+#4218
+flail black pawn~
+a Black Pawn's Flail~
+The flail of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+flail 2 6 thwack 0
+10 50 750 G
+#4219
+flail white pawn~
+a White Pawn's Flail~
+The flail of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+flail 2 6 thwack 0
+10 50 750 G
+#4220
+whip black pawn~
+a Black Pawn's Whip~
+The whip of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+whip 2 6 whip 0
+10 15 750 G
+#4221
+whip white pawn~
+a White Pawn's Whip~
+The whip of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+whip 2 6 whip 0
+10 15 750 G
+#4222
+spear black pawn~
+a Black Pawn's Spear~
+The spear of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+spear 2 6 thrust 0
+10 15 750 G
+#4223
+spear white pawn~
+a White Pawn's Spear~
+The spear of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+spear 2 6 thrust 0
+10 15 750 G
+#4224
+halberd black pawn~
+a Black Pawn's Halberd~
+The halberd of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+polearm 2 6 thwack 0
+10 30 750 G
+#4225
+halberd white pawn~
+a White Pawn's Halberd~
+The halberd of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+polearm 2 6 thwack 0
+10 30 750 G
+#4226
+rapier black pawn~
+a Black Pawn's Rapier~
+The rapier of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+sword 2 6 slash 0
+10 20 750 G
+#4227
+rapier white pawn~
+a White Pawn's Rapier~
+The rapier of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+sword 2 6 slash 0
+10 20 750 G
+#4228
+kris black pawn~
+a Black Pawn's Kris~
+The kris of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+dagger 2 6 pierce 0
+10 10 750 G
+#4229
+kris white pawn~
+a White Pawn's Kris~
+The kris of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+dagger 2 6 pierce 0
+10 10 750 G
+#4230
+crossbow black pawn~
+a Black Pawn's Crossbow~
+The crossbow of a Black Pawn lies here.~
+SELECT_A_MATERIAL weapon J AN
+exotic 2 6 blast 0
+10 30 750 G
+#4231
+crossbow white pawn~
+a White Pawn's Crossbow~
+The crossbow of a White Pawn lies here.~
+SELECT_A_MATERIAL weapon K AN
+exotic 2 6 blast 0
+10 30 750 G
+#4232
+shield black pawn~
+a Black Pawn's Shield ~
+You see a Black Pawn's shield here.~
+SELECT_A_MATERIAL armor J AJ
+D ABC ABC B B
+10 20 1210 P
+#4233
+shield white pawn~
+a White Pawn's Shield ~
+You see a White Pawn's shield here.~
+SELECT_A_MATERIAL armor K AJ
+D ABC ABC B B
+10 20 1210 P
+#4234
+cloak black pawn~
+a Black Pawn's Cloak~
+You see a Black Pawn's cloak here.~
+SELECT_A_MATERIAL armor J AC
+AC ABC ABC A A
+10 10 1510 P
+#4235
+cloak white pawn~
+a White Pawn's Cloak~
+You see a White Pawn's cloak here.~
+SELECT_A_MATERIAL armor K AC
+AC ABC ABC A A
+10 10 1510 P
+#4236
+helmet black pawn~
+a Black Pawn's Helmet~
+You see a Black Pawn's helmet here.~
+SELECT_A_MATERIAL armor J AE
+BC BC ABC A A
+10 20 1150 P
+#4237
+helmet white pawn~
+a White Pawn's Helmet~
+You see a White Pawn's helmet here.~
+SELECT_A_MATERIAL armor K AE
+BC BC ABC A A
+10 20 1150 P
+#4238
+leggings black pawn~
+a pair of Black Pawn's Leggings~
+You see a pair of Black Pawn's leggings here.~
+SELECT_A_MATERIAL armor J AF
+BC BC BC A A
+10 10 1350 P
+#4239
+leggings white pawn~
+a pair of White Pawn's Leggings~
+You see a pair of White Pawn's leggings here.~
+SELECT_A_MATERIAL armor K AF
+BC BC BC A A
+10 10 1350 P
+#4240
+boots black pawn~
+a pair of Black Pawn's Boots~
+You see a pair of Black Pawn's boots here.~
+SELECT_A_MATERIAL armor J AG
+ABC BC ABC A A
+10 15 1450 P
+#4241
+boots white pawn~
+a pair of White Pawn's Boots~
+You see a pair of Black Pawn's boots here.~
+SELECT_A_MATERIAL armor K AG
+ABC BC ABC A A
+10 15 1450 P
+#4242
+gloves black pawn~
+a pair of Black Pawn's Gloves~
+You see a pair of Black Pawn's Gloves here.~
+SELECT_A_MATERIAL armor J AH
+BC BC AC A A
+10 10 950 P
+#4243
+gloves white pawn~
+a pair of White Pawn's Gloves~
+You see a pair of White Pawn's Gloves here.~
+SELECT_A_MATERIAL armor K AH
+BC BC AC A A
+10 10 950 P
+#4244
+sleeves black pawn~
+a pair of Black Pawn's Sleeves~
+You see a pair of Black Pawn's Sleeves here.~
+SELECT_A_MATERIAL armor J AI
+BC AC BC A A
+10 10 1150 P
+#4245
+sleeves white pawn~
+a pair of White Pawn's Sleeves~
+You see a pair of White Pawn's Sleeves here.~
+SELECT_A_MATERIAL armor K AI
+BC AC BC A A
+10 10 1150 P
+#4246
+cape black pawn~
+a Black Pawn's Cape~
+You see a Black Pawn's Cape here.~
+SELECT_A_MATERIAL armor J AK
+ABC AC ABC A A
+10 15 1380 P
+#4247
+cape white pawn~
+a White Pawn's Cape~
+You see a White Pawn's Cape here.~
+SELECT_A_MATERIAL armor K AK
+ABC AC ABC A A
+10 15 1380 P
+#4248
+belt black pawn~
+a Black Pawn's Belt~
+You see a Black Pawn's Belt here.~
+SELECT_A_MATERIAL armor J AL
+C BC BC A A
+10 10 990 P
+#4249
+belt white pawn~
+a White Pawn's Belt~
+You see a White Pawn's Belt here.~
+SELECT_A_MATERIAL armor K AL
+C BC BC A A
+10 10 990 P
+#4250
+bracer black pawn~
+a Black Pawn's Bracer~
+You see a Black Pawn's Bracer here.~
+SELECT_A_MATERIAL armor J AM
+ABC AC AC A 0
+10 5 1390 P
+#4251
+bracer white pawn~
+a White Pawn's Bracer~
+You see a White Pawn's Bracer here.~
+SELECT_A_MATERIAL armor K AM
+ABC AC AC A 0
+10 5 1390 P
+#4260
+small chessboard~
+the Magic Chessboard~
+You see small chessboard floating here.~
+SELECT_A_MATERIAL armor ABFJKM AQ
+AE AE AE AF 0
+51 0 55390 P
+A
+13 95
+E
+=segment=~
+joinswith 11646 creates 23441
+{cYou have discovered a piece of the mystic {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!{x
+`
+
+$n {chas a {rP{gu{bz{yz{bl{ge{rD {clook on their face.{x
+`
+ 
+~
+#4261
+shield black knight~
+a Black Knight's Shield ~
+You see a Black Knight's shield here.~
+SELECT_A_MATERIAL armor J AJ
+D AD AD B B
+18 30 2210 P
+#4262
+shield white knight~
+a White Knight's Shield ~
+You see a White Knight's shield here.~
+SELECT_A_MATERIAL armor K AJ
+D AD AD B B
+18 30 2210 P
+#4263
+cloak black knight~
+a Black Knight's Cloak~
+You see a Black Knight's cloak here.~
+SELECT_A_MATERIAL armor J AC
+BC D ABC A A
+18 10 2610 P
+#4264
+cloak white knight~
+a White Knight's Cloak~
+You see a White Knight's cloak here.~
+SELECT_A_MATERIAL armor K AC
+BC D ABC A A
+18 10 2610 P
+#4265
+helmet black knight~
+a Black Knight's Helmet~
+You see a Black Knight's helmet here.~
+SELECT_A_MATERIAL armor J AE
+ABC ABC D A A
+18 20 1950 P
+#4266
+helmet white knight~
+a White Knight's Helmet~
+You see a White Knight's helmet here.~
+SELECT_A_MATERIAL armor K AE
+ABC ABC D A A
+18 20 1950 P
+#4267
+leggings black knight~
+a pair of Black Knight's Leggings~
+You see a pair of Black Knight's leggings here.~
+SELECT_A_MATERIAL armor J AF
+ABC ABC ABC A A
+18 10 1350 P
+#4268
+leggings white knight~
+a pair of White Knight's Leggings~
+You see a pair of White Knight's leggings here.~
+SELECT_A_MATERIAL armor K AF
+ABC ABC ABC A A
+18 10 1350 P
+#4269
+boots black knight~
+a pair of Black Knight's Boots~
+You see a pair of Black Knight's boots here.~
+SELECT_A_MATERIAL armor J AG
+D ABC ABC A A
+18 20 2850 P
+#4270
+boots white knight~
+a pair of White Knight's Boots~
+You see a pair of Black Knight's boots here.~
+SELECT_A_MATERIAL armor K AG
+D ABC ABC A A
+18 20 2850 P
+#4271
+gloves black knight~
+a pair of Black Knight's Gloves~
+You see a pair of Black Knight's Gloves here.~
+SELECT_A_MATERIAL armor J AH
+BC ABC BC A A
+18 10 2250 P
+#4272
+gloves white knight~
+a pair of White Knight's Gloves~
+You see a pair of White Knight's Gloves here.~
+SELECT_A_MATERIAL armor K AH
+BC ABC BC A A
+18 10 2250 P
+#4273
+sleeves black knight~
+a pair of Black Knight's Sleeves~
+You see a pair of Black Knight's Sleeves here.~
+SELECT_A_MATERIAL armor J AI
+ABC BC ABC A A
+18 10 2150 P
+#4274
+sleeves white knight~
+a pair of White Knight's Sleeves~
+You see a pair of White Knight's Sleeves here.~
+SELECT_A_MATERIAL armor K AI
+ABC BC ABC A A
+18 10 2150 P
+#4275
+cape black knight~
+a Black Knight's Cape~
+You see a Black Knight's Cape here.~
+SELECT_A_MATERIAL armor J AK
+ABC ABC ABC A A
+18 15 1380 P
+#4276
+cape white knight~
+a White Knight's Cape~
+You see a White Knight's Cape here.~
+SELECT_A_MATERIAL armor K AK
+ABC ABC ABC A A
+18 15 1380 P
+#4277
+belt black knight~
+a Black Knight's Belt~
+You see a Black Knight's Belt here.~
+SELECT_A_MATERIAL armor J AL
+BC BC BC A A
+18 10 1990 P
+#4278
+belt white knight~
+a White Knight's Belt~
+You see a White Knight's Belt here.~
+SELECT_A_MATERIAL armor K AL
+BC BC BC A A
+18 10 1990 P
+#4279
+bracer black knight~
+a Black Knight's Bracer~
+You see a Black Knight's Bracer here.~
+SELECT_A_MATERIAL armor J AM
+ABC ABC BC A 0
+18 5 2390 P
+#4280
+bracer white knight~
+a White Knight's Bracer~
+You see a White Knight's Bracer here.~
+SELECT_A_MATERIAL armor K AM
+ABC ABC BC A 0
+18 5 2390 P
+#4281
+ruby shard legend~
+{Da legendary {Rruby {Dshard{x~
+A legendary quest shard lies here.~
+RUBY gem CT AO
+0 0 0 0 0
+19 3 50 P
+E
+pickupmessage~
+You just found your Level {Y19 {xLegendary Shard! You can now advance to Level {Y20{x!
+~
+#0
+
+
+
+#ROOMS
+#4200
+{MThe Great Chessboard Of Midgaard{x~
+You stand in the archway of the Chessboard of Midgaard.  The giant
+wooden gate is rusted open.
+   A narrow dirt path leads eastwards into the thick grass and the
+chessboard opens up to the west.
+     There is a small {c({YGlowing{c) ({BHuming{c){x tablet.
+ 
+~
+0 4 1
+E
+small tablet~
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                  +
++            This area has been converted and adapted by           +
++                              Kane                                +
++                                                                  +
++                               &                                  +
++                                                                  +
++    modified, debugged (?:), strongly enhanced and balanced by    +
++                             jaceks                               +
++                                                          july'96 +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+~
+D3
+~
+~
+0 0 4232
+D4
+~
+~
+0 0 3043
+C 0
+S
+#4201
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the Black Queen's Rook.
+~
+0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 4202
+D2
+A black square lies to the south.
+~
+~
+0 -1 4209
+C 0
+S
+#4202
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the Black Queen's Knight.
+~
+0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 4203
+D2
+A white square lies to the south.
+~
+~
+0 -1 4210
+D3
+A white square lies to the west.
+~
+~
+0 -1 4201
+C 0
+S
+#4203
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the Black Queen's Bishop.
+~
+0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 4204
+D2
+A black square lies to the south.
+~
+~
+0 -1 4211
+D3
+A black square lies to the west.
+~
+~
+0 -1 4202
+C 0
+S
+#4204
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home of
+the Black Queen.  
+~
+0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 4205
+D2
+A white square lies to the south.
+~
+~
+0 -1 4212
+D3
+A white square lies to the west.
+~
+~
+0 -1 4203
+D5
+~
+marble square~
+2 4214 4265
+C 0
+S
+#4205
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the Black King.
+~
+0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 4206
+D2
+A black square lies to the south.
+~
+~
+0 -1 4213
+D3
+A black square lies to the west.
+~
+~
+0 -1 4204
+C 0
+S
+#4206
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the Black King's Bishop.
+~
+0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 4207
+D2
+A white square lies to the south.
+~
+~
+0 -1 4214
+D3
+A white square lies to the west.
+~
+~
+0 -1 4205
+C 0
+S
+#4207
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the Black King's Knight.
+~
+0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 4208
+D2
+A black square lies to the south.
+~
+~
+0 -1 4213
+D3
+A black square lies to the west.
+~
+~
+0 -1 4206
+C 0
+S
+#4208
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the Black King's Rook.
+~
+0 0 1
+D2
+A white square lies to the south.
+~
+~
+0 -1 4216
+D3
+A white square lies to the west.
+~
+~
+0 -1 4207
+C 0
+S
+#4209
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the Black Queen's Pawns.
+~
+0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4201
+D1
+A white square lies to the east.
+~
+~
+0 -1 4210
+D2
+A white square lies to the south.
+~
+~
+0 -1 4217
+C 0
+S
+#4210
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the Black Queen's Pawns.
+~
+0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4202
+D1
+A black square lies to the east.
+~
+~
+0 -1 4211
+D2
+A black square lies to the south.
+~
+~
+0 -1 4218
+D3
+A black square lies to the west.
+~
+~
+0 -1 4209
+C 0
+S
+#4211
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the Black Queen's Pawns.
+~
+0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4203
+D1
+A white square lies to the east.
+~
+~
+0 -1 4212
+D2
+A white square lies to the south.
+~
+~
+0 -1 4219
+D3
+A white square lies to the west.
+~
+~
+0 -1 4210
+C 0
+S
+#4212
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the Black Queen's Pawns.
+~
+0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4204
+D1
+A black square lies to the east.
+~
+~
+0 -1 4213
+D2
+A black square lies to the south.
+~
+~
+0 -1 4220
+D3
+A black square lies to the west.
+~
+~
+0 -1 4211
+C 0
+S
+#4213
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the Black King's Pawns.
+~
+0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4205
+D1
+A white square lies to the east.
+~
+~
+0 -1 4214
+D2
+A white square lies to the south.
+~
+~
+0 -1 4221
+D3
+A white square lies to the west.
+~
+~
+0 -1 4212
+C 0
+S
+#4214
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the Black King's Pawns.
+~
+0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4206
+D1
+A black square lies to the east.
+~
+~
+0 -1 4215
+D2
+A black square lies to the south.
+~
+~
+0 -1 4222
+D3
+A black square lies to the west.
+~
+~
+0 -1 4213
+C 0
+S
+#4215
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the Black King's Pawns.
+~
+0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4207
+D1
+A white square lies to the east.
+~
+~
+0 -1 4216
+D2
+A white square lies to the south.
+~
+~
+0 -1 4223
+D3
+A white square lies to the west.
+~
+~
+0 -1 4214
+C 0
+S
+#4216
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the Black King's Pawns.
+~
+0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4208
+D2
+A black square lies to the south.
+~
+~
+0 -1 4224
+D3
+A black square lies to the west.
+~
+~
+0 -1 4215
+C 0
+S
+#4217
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4209
+D1
+A black square lies to the east.
+~
+~
+0 -1 4218
+D2
+A black square lies to the south.
+~
+~
+0 -1 4225
+C 0
+S
+#4218
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4210
+D1
+A white square lies to the east.
+~
+~
+0 -1 4219
+D2
+A white square lies to the south.
+~
+~
+0 -1 4226
+D3
+A white square lies to the west.
+~
+~
+0 -1 4217
+C 0
+S
+#4219
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4211
+D1
+A black square lies to the east.
+~
+~
+0 -1 4220
+D2
+A black square lies to the south.
+~
+~
+0 -1 4227
+D3
+A black square lies to the west.
+~
+~
+0 -1 4218
+C 0
+S
+#4220
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4212
+D1
+A white square lies to the east.
+~
+~
+0 -1 4221
+D2
+A white square lies to the south.
+~
+~
+0 -1 4228
+D3
+A white square lies to the west.
+~
+~
+0 -1 4219
+C 0
+S
+#4221
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4213
+D1
+A black square lies to the east.
+~
+~
+0 -1 4222
+D2
+A black square lies to the south.
+~
+~
+0 -1 4229
+D3
+A black square lies to the west.
+~
+~
+0 -1 4220
+C 0
+S
+#4222
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4214
+D1
+A white square lies to the east.
+~
+~
+0 -1 4223
+D2
+A white square lies to the south.
+~
+~
+0 -1 4230
+D3
+A white square lies to the west.
+~
+~
+0 -1 4221
+C 0
+S
+#4223
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4215
+D1
+A black square lies to the east.
+~
+~
+0 -1 4224
+D2
+A black square lies to the south.
+~
+~
+0 -1 4231
+D3
+A black square lies to the west.
+~
+~
+0 -1 4222
+C 0
+S
+#4224
+{MA Black Square{x~
+You are standing on a black marble square.  You can see a rusty gate
+to the south.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4216
+D2
+A white square lies to the south.
+~
+~
+0 -1 4232
+D3
+A white square lies to the west.
+~
+~
+0 -1 4223
+C 0
+S
+#4225
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4217
+D1
+A white square lies to the east.
+~
+~
+0 -1 4226
+D2
+A white square lies to the south.
+~
+~
+0 -1 4233
+C 0
+S
+#4226
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4218
+D1
+A black square lies to the east.
+~
+~
+0 -1 4227
+D2
+A black square lies to the south.
+~
+~
+0 -1 4234
+D3
+A black square lies to the west.
+~
+~
+0 -1 4225
+C 0
+S
+#4227
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4219
+D1
+A white square lies to the east.
+~
+~
+0 -1 4228
+D2
+A white square lies to the south.
+~
+~
+0 -1 4235
+D3
+A white square lies to the west.
+~
+~
+0 -1 4226
+C 0
+S
+#4228
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4220
+D1
+A black square lies to the east.
+~
+~
+0 -1 4229
+D2
+A black square lies to the south.
+~
+~
+0 -1 4236
+D3
+A black square lies to the west.
+~
+~
+0 -1 4227
+C 0
+S
+#4229
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4221
+D1
+A white square lies to the east.
+~
+~
+0 -1 4230
+D2
+A white square lies to the south.
+~
+~
+0 -1 4237
+D3
+A white square lies to the west.
+~
+~
+0 -1 4228
+C 0
+S
+#4230
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4222
+D1
+A black square lies to the east.
+~
+~
+0 -1 4231
+D2
+A black square lies to the south.
+~
+~
+0 -1 4238
+D3
+A black square lies to the west.
+~
+~
+0 -1 4229
+C 0
+S
+#4231
+{MA Black Square{x~
+You are standing on a black marble square.  There is a rusty gate
+a short distance to the east.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4223
+D1
+A white square lies to the east.
+~
+~
+0 -1 4232
+D2
+A white square lies to the south.
+~
+~
+0 -1 4239
+D3
+A white square lies to the west.
+~
+~
+0 -1 4230
+C 0
+S
+#4232
+{MA White Square{x~
+You are standing on a white marble square.  There is a large rusty
+gate to the east.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4224
+D1
+~
+~
+0 0 4200
+D2
+A black square lies to the south.
+~
+~
+0 -1 4240
+D3
+A black square lies to the west.
+~
+~
+0 -1 4231
+C 0
+S
+#4233
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4225
+D1
+A black square lies to the east.
+~
+~
+0 -1 4234
+D2
+A black square lies to the south.
+~
+~
+0 -1 4241
+C 0
+S
+#4234
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4226
+D1
+A white square lies to the east.
+~
+~
+0 -1 4235
+D2
+A white square lies to the south.
+~
+~
+0 -1 4242
+D3
+A white square lies to the west.
+~
+~
+0 -1 4233
+C 0
+S
+#4235
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4227
+D1
+A black square lies to the east.
+~
+~
+0 -1 4236
+D2
+A black square lies to the south.
+~
+~
+0 -1 4243
+D3
+A black square lies to the west.
+~
+~
+0 -1 4234
+C 0
+S
+#4236
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4228
+D1
+A white square lies to the east.
+~
+~
+0 -1 4237
+D2
+A white square lies to the south.
+~
+~
+0 -1 4244
+D3
+A white square lies to the west.
+~
+~
+0 -1 4235
+C 0
+S
+#4237
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4229
+D1
+A black square lies to the east.
+~
+~
+0 -1 4238
+D2
+A black square lies to the south.
+~
+~
+0 -1 4245
+D3
+A black square lies to the west.
+~
+~
+0 -1 4236
+C 0
+S
+#4238
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4230
+D1
+A white square lies to the east.
+~
+~
+0 -1 4239
+D2
+A white square lies to the south.
+~
+~
+0 -1 4246
+D3
+A white square lies to the west.
+~
+~
+0 -1 4237
+C 0
+S
+#4239
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4231
+D1
+A black square lies to the east.
+~
+~
+0 -1 4240
+D2
+A black square lies to the south.
+~
+~
+0 -1 4247
+D3
+A black square lies to the west.
+~
+~
+0 -1 4238
+C 0
+S
+#4240
+{MA Black Square{x~
+You are standing on a black marble square.  There is a rusty gate
+to the north.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4232
+D2
+A white square lies to the south.
+~
+~
+0 -1 4248
+D3
+A white square lies to the west.
+~
+~
+0 -1 4239
+C 0
+S
+#4241
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4233
+D1
+A white square lies to the east.
+~
+~
+0 -1 4242
+D2
+A white square lies to the south.
+~
+~
+0 -1 4249
+C 0
+S
+#4242
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4234
+D1
+A black square lies to the east.
+~
+~
+0 -1 4243
+D2
+A black square lies to the south.
+~
+~
+0 -1 4250
+D3
+A black square lies to the west.
+~
+~
+0 -1 4241
+C 0
+S
+#4243
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4235
+D1
+A white square lies to the east.
+~
+~
+0 -1 4244
+D2
+A white square lies to the south.
+~
+~
+0 -1 4251
+D3
+A white square lies to the west.
+~
+~
+0 -1 4242
+C 0
+S
+#4244
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4236
+D1
+A black square lies to the east.
+~
+~
+0 -1 4245
+D2
+A black square lies to the south.
+~
+~
+0 -1 4252
+D3
+A black square lies to the west.
+~
+~
+0 -1 4243
+C 0
+S
+#4245
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4237
+D1
+A white square lies to the east.
+~
+~
+0 -1 4246
+D2
+A white square lies to the south.
+~
+~
+0 -1 4253
+D3
+A white square lies to the west.
+~
+~
+0 -1 4244
+C 0
+S
+#4246
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4238
+D1
+A black square lies to the east.
+~
+~
+0 -1 4247
+D2
+A black square lies to the south.
+~
+~
+0 -1 4254
+D3
+A black square lies to the west.
+~
+~
+0 -1 4245
+C 0
+S
+#4247
+{MA Black Square{x~
+You are standing on a black marble square.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4239
+D1
+A white square lies to the east.
+~
+~
+0 -1 4248
+D2
+A white square lies to the south.
+~
+~
+0 -1 4255
+D3
+A white square lies to the west.
+~
+~
+0 -1 4246
+C 0
+S
+#4248
+{MA White Square{x~
+You are standing on a white marble square.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4240
+D2
+A black square lies to the south.
+~
+~
+0 -1 4256
+D3
+A black square lies to the west.
+~
+~
+0 -1 4247
+C 0
+S
+#4249
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the White Queen's Pawns.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4241
+D1
+A black square lies to the east.
+~
+~
+0 -1 4250
+D2
+A black square lies to the south.
+~
+~
+0 -1 4257
+C 0
+S
+#4250
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the White Queen's Pawns.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4242
+D1
+A white square lies to the east.
+~
+~
+0 -1 4251
+D2
+A white square lies to the south.
+~
+~
+0 -1 4258
+D3
+A white square lies to the west.
+~
+~
+0 -1 4249
+C 0
+S
+#4251
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the White Queen's Pawns.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4243
+D1
+A black square lies to the east.
+~
+~
+0 -1 4252
+D2
+A black square lies to the south.
+~
+~
+0 -1 4259
+D3
+A black square lies to the west.
+~
+~
+0 -1 4250
+C 0
+S
+#4252
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the White Queen's Pawns.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4244
+D1
+A white square lies to the east.
+~
+~
+0 -1 4253
+D2
+A white square lies to the south.
+~
+~
+0 -1 4260
+D3
+A white square lies to the west.
+~
+~
+0 -1 4251
+C 0
+S
+#4253
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the White King's Pawns.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4245
+D1
+A black square lies to the east.
+~
+~
+0 -1 4254
+D2
+A black square lies to the south.
+~
+~
+0 -1 4261
+D3
+A black square lies to the west.
+~
+~
+0 -1 4252
+C 0
+S
+#4254
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the White King's Pawns.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4246
+D1
+A white square lies to the east.
+~
+~
+0 -1 4255
+D2
+A white square lies to the south.
+~
+~
+0 -1 4262
+D3
+A white square lies to the west.
+~
+~
+0 -1 4253
+C 0
+S
+#4255
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of one of the White King's Pawns.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4247
+D1
+A black square lies to the east.
+~
+~
+0 -1 4256
+D2
+A black square lies to the south.
+~
+~
+0 -1 4263
+D3
+A black square lies to the west.
+~
+~
+0 -1 4254
+C 0
+S
+#4256
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of one of the White King's Pawns.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4248
+D2
+A white square lies to the south.
+~
+~
+0 -1 4264
+D3
+A white square lies to the west.
+~
+~
+0 -1 4255
+C 0
+S
+#4257
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the White Queen's Rook.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4249
+D1
+A white square lies to the east.
+~
+~
+0 -1 4258
+C 0
+S
+#4258
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the White Queen's Knight.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4250
+D1
+A black square lies to the east.
+~
+~
+0 -1 4259
+D3
+A black square lies to the west.
+~
+~
+0 -1 4257
+C 0
+S
+#4259
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the White Queen's Bishop.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4251
+D1
+A white square lies to the east.
+~
+~
+0 -1 4260
+D3
+A white square lies to the west.
+~
+~
+0 -1 4258
+C 0
+S
+#4260
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the White Queen.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4252
+D1
+A black square lies to the east.
+~
+~
+0 -1 4261
+D3
+A black square lies to the west.
+~
+~
+0 -1 4259
+D5
+~
+marble square~
+2 4215 4266
+C 0
+S
+#4261
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the White King.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4253
+D1
+A white square lies to the east.
+~
+~
+0 -1 4262
+D3
+A white square lies to the west.
+~
+~
+0 -1 4260
+C 0
+S
+#4262
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the White King's Bishop.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4254
+D1
+A black square lies to the east.
+~
+~
+0 -1 4263
+D3
+A black square lies to the west.
+~
+~
+0 -1 4261
+C 0
+S
+#4263
+{MA Black Square{x~
+You are standing on a black marble square.  This is usually the home
+of the White King's Knight.
+~
+0 8 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 4255
+D1
+A white square lies to the east.
+~
+~
+0 -1 4264
+D3
+A white square lies to the west.
+~
+~
+0 -1 4262
+C 0
+S
+#4264
+{MA White Square{x~
+You are standing on a white marble square.  This is usually the home
+of the White King's Rook.
+~
+0 8 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 4256
+D3
+A black square lies to the west.
+~
+~
+0 -1 4263
+C 0
+S
+#4265
+{MThe Black Treasury{x~
+You are standing in the treasury of the Black Court.  Hopefully no one
+has looted the Crown's treasure.
+~
+0 1 12
+D4
+A small staircase rises above you.
+~
+marble square~
+2 4214 4204
+M 0 H 0
+C 0
+S
+#4266
+{MThe White Treasury{x~
+You are standing in the treasury of the White Court.  Hopefully no one 
+has looted the Crown's treasure.
+~
+0 513 12
+D4
+A small staircase rises above you.
+~
+marble square~
+2 4215 4260
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4204 5 2
+D 0 4260 5 2
+D 0 4265 4 2
+D 0 4266 4 2
+M 0 4202 2 4201 1
+E 0 4204 0 5
+M 0 4204 2 4202 1
+E 0 4206 0 16
+E 0 4261 0 11
+E 0 4263 0 3
+E 0 4265 0 6
+E 0 4267 0 7
+E 0 4269 0 8
+E 0 4271 0 9
+E 0 4273 0 10
+E 0 4275 0 12
+E 0 4277 0 13
+E 0 4279 0 14
+E 0 4279 0 15
+M 0 4206 2 4203 1
+E 0 4208 0 17
+M 0 4208 1 4204 1
+E 0 4210 0 6
+M 0 4210 1 4205 1
+E 0 4212 0 17
+G 0 4214 0
+M 0 4206 2 4206 1
+E 0 4208 0 17
+M 0 4204 2 4207 1
+E 0 4206 0 16
+E 0 4261 0 11
+E 0 4263 0 3
+E 0 4265 0 6
+E 0 4267 0 7
+E 0 4269 0 8
+E 0 4271 0 9
+E 0 4273 0 10
+E 0 4275 0 12
+E 0 4277 0 13
+E 0 4279 0 14
+E 0 4279 0 15
+M 0 4202 2 4208 1
+E 0 4204 0 5
+M 0 4200 8 4209 1
+E 0 4200 0 5
+E 0 4202 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4210 1
+E 0 4200 0 5
+E 0 4230 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4211 1
+E 0 4200 0 5
+E 0 4218 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4212 1
+E 0 4200 0 5
+E 0 4226 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4213 1
+E 0 4200 0 5
+E 0 4220 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4214 1
+E 0 4200 0 5
+E 0 4228 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4215 1
+E 0 4200 0 5
+E 0 4222 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4200 8 4216 1
+E 0 4200 0 5
+E 0 4224 0 16
+E 0 4232 0 11
+E 0 4234 0 3
+E 0 4236 0 6
+E 0 4238 0 7
+E 0 4240 0 8
+E 0 4242 0 9
+E 0 4244 0 10
+E 0 4246 0 12
+E 0 4248 0 13
+E 0 4250 0 14
+E 0 4250 0 15
+M 0 4212 1 4233 1
+E 0 4260 0 18
+M 0 4201 8 4249 1
+E 0 4201 0 5
+E 0 4203 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4250 1
+E 0 4201 0 5
+E 0 4231 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4251 1
+E 0 4201 0 5
+E 0 4227 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4252 1
+E 0 4201 0 5
+E 0 4219 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4253 1
+E 0 4201 0 5
+E 0 4221 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4254 1
+E 0 4201 0 5
+E 0 4229 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4255 1
+E 0 4201 0 5
+E 0 4223 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4201 8 4256 1
+E 0 4201 0 5
+E 0 4225 0 16
+E 0 4233 0 11
+E 0 4235 0 3
+E 0 4237 0 6
+E 0 4239 0 7
+E 0 4241 0 8
+E 0 4243 0 9
+E 0 4245 0 10
+E 0 4247 0 12
+E 0 4249 0 13
+E 0 4251 0 14
+E 0 4251 0 15
+M 0 4203 2 4257 1
+E 0 4205 0 5
+M 0 4205 2 4258 1
+E 0 4207 0 16
+E 0 4262 0 11
+E 0 4264 0 3
+E 0 4266 0 6
+E 0 4268 0 7
+E 0 4270 0 8
+E 0 4272 0 9
+E 0 4274 0 10
+E 0 4276 0 12
+E 0 4278 0 13
+E 0 4280 0 14
+E 0 4280 0 15
+M 0 4207 2 4259 1
+E 0 4209 0 17
+M 0 4209 1 4260 1
+E 0 4211 0 6
+M 0 4211 1 4261 1
+E 0 4213 0 17
+G 0 4215 0
+M 0 4207 2 4262 1
+E 0 4209 0 17
+M 0 4205 2 4263 1
+E 0 4207 0 16
+E 0 4262 0 11
+E 0 4264 0 3
+E 0 4266 0 6
+E 0 4268 0 7
+E 0 4270 0 8
+E 0 4272 0 9
+E 0 4274 0 10
+E 0 4276 0 12
+E 0 4278 0 13
+E 0 4280 0 14
+E 0 4280 0 15
+M 0 4203 2 4264 1
+E 0 4205 0 5
+O 0 4216 0 4265
+O 0 4281 0 4265
+O 0 4217 0 4266
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

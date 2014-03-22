@@ -1,0 +1,965 @@
+#PLAYER
+Name Viktor~
+Id   1156651761
+LogO 1170825336
+Vers 5
+Desc {YThe War Criminal Rises and Speaks...
+~
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Sidhe Elf~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 384815
+Scro 33
+Room 3054
+HMV  10904 12008 5889 5889 8111 8111
+Gold 5028
+Silv 51487
+Gold_bank 1550329
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200372
+QuestPnts 2032
+PAct  CDGHTbd
+AfBy DFHTUV
+WName Viktor~
+Comm FKNO
+RaceChan 0
+Deaf P
+Pos  8
+Prac 291
+Trai 37
+Save  -347
+Alig  -910
+Hit   681
+Dam   664
+ACs -2057 -2057 -2057 -2021
+Attr 17 26 27 18 15
+AMod 43 11 19 26 11
+Pass VirDKfKEjMRz2~
+Titl  {YSKIP BIP!~
+Pnts 40
+TSex 1
+PSize 2
+LLev 49
+HMVP 1107 972 744
+Cnd  0 0 -1 -1
+Boards       4 General 1169145680 Ideas 1158582947 Announce 0 Personal 0 
+Sk 1 'identify'
+Sk 77 'invisibility'
+Sk 86 'teleport'
+Sk 1 'word of recall'
+Sk 98 'apport'
+Sk 86 'combat mind'
+Sk 84 'adrenaline control'
+Sk 87 'enhanced strength'
+Sk 75 'aura sight'
+Sk 75 'awe'
+Sk 1 'thought shield'
+Sk 75 'psychic healing'
+Sk 77 'mental barrier'
+Sk 75 'share strength'
+Sk 1 'levitation'
+Sk 76 'obfuscate'
+Sk 84 'bio fortress'
+Sk 1 'cell adjustment'
+Sk 75 'displacement'
+Sk 77 'ectoplasmic form'
+Sk 75 'lend health'
+Sk 90 'complete healing'
+Sk 1 'energy containment'
+Sk 75 'enhance armor'
+Sk 81 'flesh armor'
+Sk 1 'inertial barrier'
+Sk 82 'domination'
+Sk 75 'disintegrate'
+Sk 75 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 1 'control flames'
+Sk 75 'death field'
+Sk 1 'detonate'
+Sk 1 'ego whip'
+Sk 1 'inflict pain'
+Sk 75 'mind thrust'
+Sk 1 'project force'
+Sk 75 'psionic blast'
+Sk 75 'psychic crush'
+Sk 75 'psychic drain'
+Sk 94 'ultrablast'
+Sk 76 'sword'
+Sk 100 'dagger'
+Sk 100 'assassinate'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 75 'envenom'
+Sk 1 'hide'
+Sk 75 'pick lock'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 1 'metamorph'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'assassin basics'
+Gr 'psionic default'
+Gr 'assassin default'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Gr 'invisibility spell'
+Affc 'ectoplasmic form'   0  97  37   0   0    1048576
+Affc 'enhanced strength'   0 100  -1  15   1          0
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'sanctuary'   0 100  -1   0   0        128
+End
+
+#O
+Vnum 6726
+Nest 0
+ExtF 524291
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 6732
+Nest 0
+ExtF 524547
+Cond 0
+Wear 15
+Cost 55000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6782
+Enchanted
+Nest 0
+Name dodo, wing~
+ShD  {rT{Dhe {wD{go{wD{go{D'{wS {CW{cin{rG{RS {x~
+Desc {rT{Dhe {wD{go{wD{go{D'{wS {CW{cin{rG{RS {x~
+ExtF 285213123
+Wt   45
+Cond 0
+Wear 19
+Lev  0
+Cost 20000000
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'reserved'   1 100  -1 -75  17          0
+Affc 'reserved'   1 100  -1  75  19          0
+Affc 'reserved'   1 100  -1  75  18          0
+Affc 'reserved'   1 100  -1 1000  14          0
+Affc 'reserved'   1 100  -1 1000  12          0
+Affc 'reserved'   1 100  -1 1000  13          0
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 11891
+Nest 0
+ExtF 4718659
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 24100
+Enchanted
+Nest 1
+Name standard draconian dagger Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  43
+Cost 20240
+Val  2 7 10 11 93
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'enchant weapon'   0 125  -1  31  18          0
+Affc 'enchant weapon'   1 125  -1  18  19          0
+Affc 'reserved'   1  42  -1   4  19          0
+Affc 'reserved'   1  42  -1   4  18          0
+End
+
+#O
+Vnum 11848
+Enchanted
+Nest 1
+ExtF 2640
+Cond 0
+Wear -1
+Cost 15000
+Val  2 20 13 11 140
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1 100  -1 200  14          0
+Affc 'reserved'   1 100  -1  15  19          0
+Affc 'reserved'   1 100  -1  35  18          0
+Affc 'reserved'   1 100  -1 -20   1          0
+Affc 'reserved'   1 100  -1  20   2          0
+End
+
+#O
+Vnum 24100
+Enchanted
+Nest 1
+Name standard draconian dagger Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  43
+Cost 20240
+Val  2 7 10 11 93
+Affc 'reserved'   1  42  -1   4  18          0
+Affc 'reserved'   1  42  -1   4  19          0
+Affc 'enchant weapon'   1 125  -1  18  19          0
+Affc 'enchant weapon'   0 125  -1  31  18          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 16033
+Enchanted
+Nest 1
+Name broken bottle dagger Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  10
+Cost 1642
+Val  2 4 5 2 93
+Affc 'reserved'   1   9  -1  -1   2          0
+Affc 'reserved'   1   9  -1   2  19          0
+Affc 'reserved'   1   9  -1  -2  13          0
+Affc 'enchant weapon'   1 125  -1  18  19          0
+Affc 'enchant weapon'   0 125  -1  31  18          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 16033
+Enchanted
+Nest 1
+Name broken bottle dagger Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  10
+Cost 1642
+Val  2 4 5 2 93
+Affc 'reserved'   1   9  -1  -1   2          0
+Affc 'reserved'   1   9  -1   2  19          0
+Affc 'reserved'   1   9  -1  -2  13          0
+Affc 'enchant weapon'   1 125  -1  18  19          0
+Affc 'enchant weapon'   0 125  -1  31  18          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 3034
+Nest 1
+Name stick Stumpy~
+ShD  {cA completely useless {ySTICK{x~
+Desc {cA completely useless {ySTICK {chas been left here.{x~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Enchanted
+Nest 1
+Name carving knife Stumpy~
+ExtF 64
+Cond 0
+Wear -1
+Lev  20
+Cost 3700
+Val  2 5 5 11 94
+Affc 'reserved'   1  19  -1   3  19          0
+Affc 'reserved'   1  19  -1   3  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'pfrost blade'   5   0  -1   0   0          2
+End
+
+#O
+Vnum 11672
+Enchanted
+Nest 1
+Name sliver darkness Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  71
+Cost 6230
+Val  2 10 13 11 93
+Affc 'reserved'   1  70  -1   4  19          0
+Affc 'reserved'   1  70  -1   3  18          0
+Affc 'enchant weapon'   1 125  -1  18  19          0
+Affc 'enchant weapon'   0 125  -1  31  18          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 1
+ExtF 64
+Cond 0
+Wear -1
+Lev  1
+Cost 157
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'reserved'   1  90  -1 -50  17          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+End
+
+#O
+Vnum 1998
+Nest 1
+Cond 0
+Wear -1
+Cost 3
+End
+
+#O
+Vnum 1998
+Nest 1
+Cond 0
+Wear -1
+Cost 3
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 6708
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25421
+Nest 0
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 23451
+Nest 0
+Name rubik cube~
+ShD  {bA {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{x~
+Desc {bA S{Bo{bl{Bv{bed {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!! {x~
+Cond 0
+Wear 18
+Cost 75000
+End
+
+#O
+Vnum 6782
+Enchanted
+Nest 0
+Name swann, way~
+ShD  {GS{ww{wa{wn{wn{Y'{Gs {CW{ya{yy {x~
+Desc {GS{ww{wa{wn{wn{Y'{Gs {CW{ya{yy {x~
+ExtF 285213123
+Cond 0
+Wear 16
+Cost 20000000
+Val  2 21 21 11 222
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'reserved'   1 100  -1 -75  17          0
+Affc 'reserved'   1 100  -1  75  19          0
+Affc 'reserved'   1 100  -1  75  18          0
+Affc 'reserved'   1 100  -1 1000  14          0
+Affc 'reserved'   1 100  -1 1000  12          0
+Affc 'reserved'   1 100  -1 1000  13          0
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 20427
+Nest 0
+Name origin species~
+ShD  {rT{ch{De {GO{wr{wI{Gg{wI{wn {wo{GF {DS{Dp{Dec{ci{re{rS {x~
+Desc {rT{ch{De {GO{wr{wI{Gg{wI{wn {wo{GF {DS{Dp{Dec{ci{re{rS {chas been left here.{x~
+Cond 0
+Wear 20
+Cost 350000
+End
+
+#O
+Vnum 6723
+Nest 1
+Cond 0
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6724
+Nest 1
+ExtF 524291
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6740
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 6748
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6710
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6747
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6704
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6749
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6739
+Nest 1
+ExtF 17301569
+Cond 0
+Wear -1
+Cost 20000
+Val  37 37 37 37 19
+End
+
+#O
+Vnum 6721
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 3155
+Enchanted
+Nest 1
+ExtF 268435522
+Cond 0
+Wear -1
+Lev  91
+Cost 500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1  -5  20          0
+Affc 'reserved'   1  90  -1 -10  17          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1  35  19          0
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6701
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25402
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+Val  200000 199964 25 0 0
+End
+
+#O
+Vnum 6703
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6714
+Nest 1
+ExtF 524289
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6717
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 6728
+Nest 1
+ExtF 524353
+Cond 0
+Wear -1
+Cost 25000
+Val  62 62 62 62 0
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6702
+Nest 1
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 23429
+Nest 0
+Name ring nephilim Luther~
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 23429
+Nest 0
+Name ring nephilim Luther~
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 23431
+Nest 0
+Name clan ring nephilim Luther~
+Cond 0
+Wear 2
+Cost 1
+End
+
+#O
+Vnum 23431
+Nest 0
+Name clan ring nephilim Luther~
+Cond 0
+Wear 1
+Cost 1
+End
+
+#END

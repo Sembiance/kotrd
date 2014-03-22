@@ -1,0 +1,293 @@
+#PLAYER
+Name Mythril~
+Id   1106293664
+LogO 1107361980
+Vers 5
+Prom <%h %m %v %e> ~
+Race Inccubus~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 18862
+Scro 33
+Room 3001
+HMV  256 256 158 158 234 234
+Gold 12
+Silv 18
+Gold_bank 100
+Silv_bank 20000
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  31576
+PAct  DEFGQTd
+AfBy TV
+WName Mythril~
+Comm LMNOZ
+RaceChan 0
+Deaf DP
+Pos  8
+Trai 4
+Alig  -1000
+Hit   5
+Dam   11
+ACs -16 27 23 81
+Wimp  15
+Attr 22 14 11 20 14
+AMod 2 0 0 1 2
+Pass My96zrw6eWQhY~
+Titl  {Dis {wnew {Dhere{~
+Pnts 61
+TSex 1
+PSize 2
+LLev 4
+HMVP 211 128 184
+Cnd  0 0 10 0
+Alias ooc chat~
+Alias word recall~
+Boards       4 General 1107109317 Ideas 1106854028 Announce 1104975611 Personal 0 
+Sk 1 'charm person'
+Sk 15 'cause light'
+Sk 31 'cause serious'
+Sk 1 'protection good'
+Sk 1 'cause critical'
+Sk 1 'dispel good'
+Sk 1 'flamestrike'
+Sk 1 'harm'
+Sk 1 'detect good'
+Sk 1 'giant strength'
+Sk 77 'sword'
+Sk 52 'dagger'
+Sk 1 'backstab'
+Sk 55 'enhanced damage'
+Sk 1 'second attack'
+Sk 50 'recall'
+Sk 1 'forsake'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin spells'
+End
+
+#O
+Vnum 1507
+Nest 0
+Cond 0
+Wear 4
+Cost 480
+End
+
+#O
+Vnum 5813
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 9222
+Nest 0
+Cond 0
+Wear 0
+Cost 250
+Val  0 0 9 0 0
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 10237
+Nest 0
+Cond 0
+Wear 16
+Cost 1000
+End
+
+#O
+Vnum 7806
+Nest 0
+Cond 0
+Wear 2
+Cost 110
+End
+
+#O
+Vnum 7806
+Nest 0
+Cond 0
+Wear 1
+Cost 110
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Time 967
+Cost 0
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Time 967
+Cost 0
+End
+
+#O
+Vnum 8721
+Nest 0
+Cond 0
+Wear -1
+Time 638
+Cost 1820
+Spell 1 'giant strength'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 8721
+Nest 0
+Cond 0
+Wear -1
+Time 916
+Cost 1820
+Spell 1 'giant strength'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25119
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 25118
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#END

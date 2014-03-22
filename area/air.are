@@ -1,0 +1,1329 @@
+#AREADATA
+Name In the Air~
+Builders Og~
+VNUMs 1000 1099
+Credits 5 -  10~
+Security 5
+Flags F
+LEVELs 5 8
+End
+
+
+
+#MOBILES
+#1000
+fairy dragon~
+A fairy dragon~
+{cA fairy dragon is fluttering around here looking for something to do...{x
+~
+It's a cute little multi-colored dragon...about 2 foot long.
+It gracefully dances around your head.
+~
+Human~
+AGR DE 500 0
+0
+5 0 2d7+46 5d9+100 1d5+0 none
+6 6 6 8
+FU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJKMV medium unknown
+#1001
+griffin~
+A griffin~
+{cA large black winged griffin swoops into an attack.{x
+~
+Golden maned and black all over.  It's quite a beautiful creature if not
+for the fact it is hungry and is attacking you!
+~
+Human~
+AFG 0 300 0
+0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#1001
+rose~
+a red rose~
+A red rose is lying on the ground.~
+ORGANIC treasure 0 AE
+BC 0 0 0 0
+0 80 15000 P
+E
+rose~
+It's a beautiful red rose, with a soft and romantic fragrance.
+~
+#0
+
+
+
+#ROOMS
+#1000
+{CImmortal Information Room{x~
+{WThis room is for the various IMMORTAL Rules, Information, Explanation, etc...
+We (the Implementors) will try to keep this room as updated-to-the-minute as we 
+possibly can with any new changes, additions, information, and so on... By doing
+this it should allow you to remain in the 'know' about what is going on in KotRD.
+ 
+This also will allow us to start having some consistency with the various Immortal
+Rules and Mortal Rules within the game, since one of the biggest problems we are
+currently having is none of the KotRD Rules are actually written down anywhere.
+ 
+If you think of something that should be written up in here that currently is not,
+please send a note to IMPLEMENTOR with what your idea is.  Almost anything that is
+important to the Immortals and to the Game will be posted in here.
+~
+0 12 1
+C 0
+S
+#1001
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the ground north of the city.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1006
+D2
+More of the same.
+~
+~
+0 0 1002
+D4
+More of the same.
+~
+~
+0 0 1021
+C 0
+S
+#1002
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above the inside wall of West Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1001
+D1
+More of the same.
+~
+~
+0 0 1007
+D2
+More of the same.
+~
+~
+0 0 1003
+D4
+More of the same.
+~
+~
+0 0 1022
+C 0
+S
+#1003
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above the west gate of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1002
+D1
+More of the same.
+~
+~
+0 0 1008
+D2
+More of the same.
+~
+~
+0 0 1004
+D4
+More of the same.
+~
+~
+0 0 1023
+C 0
+S
+#1004
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Wall Road.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1003
+D1
+More of the same.
+~
+~
+0 0 1009
+D2
+More of the same.
+~
+~
+0 0 1005
+D4
+More of the same.
+~
+~
+0 0 1024
+C 0
+S
+#1005
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Wall Road.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1004
+D1
+More of the same.
+~
+~
+0 0 1010
+D4
+More of the same.
+~
+~
+0 0 1025
+C 0
+S
+#1006
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1011
+D2
+More of the same.
+~
+~
+0 0 1007
+D3
+More of the same.
+~
+~
+0 0 1001
+D4
+More of the same.
+~
+~
+0 0 1026
+C 0
+S
+#1007
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above the magic shop.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1006
+D1
+More of the same.
+~
+~
+0 0 1012
+D2
+More of the same.
+~
+~
+0 0 1008
+D3
+More of the same.
+~
+~
+0 0 1002
+D4
+More of the same.
+~
+~
+0 0 1027
+C 0
+S
+#1008
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Main Street.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1007
+D1
+More of the same.
+~
+~
+0 0 1013
+D2
+More of the same.
+~
+~
+0 0 1009
+D3
+More of the same.
+~
+~
+0 0 1003
+D4
+More of the same.
+~
+~
+0 0 1028
+C 0
+S
+#1009
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above the Mage Guild Hall.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1008
+D1
+More of the same.
+~
+~
+0 0 1014
+D2
+More of the same.
+~
+~
+0 0 1010
+D3
+More of the same.
+~
+~
+0 0 1004
+D4
+More of the same.
+~
+~
+0 0 1029
+C 0
+S
+#1010
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Poor Alley.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1009
+D1
+More of the same.
+~
+~
+0 0 1015
+D3
+More of the same.
+~
+~
+0 0 1005
+D4
+More of the same.
+~
+~
+0 0 1030
+C 0
+S
+#1011
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1016
+D2
+More of the same.
+~
+~
+0 0 1012
+D3
+More of the same.
+~
+~
+0 0 1006
+D4
+More of the same.
+~
+~
+0 0 1031
+C 0
+S
+#1012
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above the bakery.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1011
+D1
+More of the same.
+~
+~
+0 0 1017
+D2
+More of the same.
+~
+~
+0 0 1013
+D3
+More of the same.
+~
+~
+0 0 1007
+D4
+More of the same.
+~
+~
+0 0 1032
+C 0
+S
+#1013
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Main Street.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1012
+D1
+More of the same.
+~
+~
+0 0 1018
+D2
+More of the same.
+~
+~
+0 0 1014
+D3
+More of the same.
+~
+~
+0 0 1008
+D4
+More of the same.
+~
+~
+0 0 1033
+C 0
+S
+#1014
+{MIn the air ...{x~
+You are flying!
+Currently you are about 20 meters above Armoury.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1013
+D1
+More of the same.
+~
+~
+0 0 1019
+D2
+More of the same.
+~
+~
+0 0 1015
+D3
+More of the same.
+~
+~
+0 0 1009
+D4
+More of the same.
+~
+~
+0 0 1034
+C 0
+S
+#1015
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Poor Alley.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1014
+D1
+More of the same.
+~
+~
+0 0 1020
+D3
+More of the same.
+~
+~
+0 0 1010
+D4
+More of the same.
+~
+~
+0 0 1035
+C 0
+S
+#1016
+{MIn the air ...{x~
+You are flying!
+Currently you are about 10 meters above the temple spire of Midgaard
+It seems like you can see forever!
+~
+0 0 10
+D2
+More of the same.
+~
+~
+0 0 1017
+D3
+More of the same.
+~
+~
+0 0 1011
+D4
+More of the same.
+~
+~
+0 0 1036
+C 0
+S
+#1017
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the Temple Square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1016
+D2
+More of the same.
+~
+~
+0 0 1018
+D3
+More of the same.
+~
+~
+0 0 1012
+D4
+More of the same.
+~
+~
+0 0 1037
+D5
+More of the same
+~
+~
+0 0 3057
+C 0
+S
+#1018
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Market Square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1017
+D2
+More of the same.
+~
+~
+0 0 1019
+D3
+More of the same.
+~
+~
+0 0 1013
+D4
+More of the same.
+~
+~
+0 0 1038
+C 0
+S
+#1019
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above Market and Commons.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1018
+D2
+More of the same.
+~
+~
+0 0 1020
+D3
+More of the same.
+~
+~
+0 0 1014
+D4
+More of the same.
+~
+~
+0 0 1039
+C 0
+S
+#1020
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above ground, overlooking the Common Square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1019
+D2
+~
+~
+0 0 5600
+D3
+More of the same.
+~
+~
+0 0 1015
+D4
+More of the same.
+~
+~
+0 0 1040
+C 0
+S
+#1021
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above the ground just north of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1026
+D2
+More of the same.
+~
+~
+0 0 1022
+D5
+More of the same.
+~
+~
+0 0 1001
+C 0
+S
+#1022
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the west gate of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1021
+D1
+More of the same.
+~
+~
+0 0 1027
+D2
+More of the same.
+~
+~
+0 0 1023
+D5
+More of the same.
+~
+~
+0 0 1002
+C 0
+S
+#1023
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above west gate of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1022
+D1
+More of the same.
+~
+~
+0 0 1028
+D2
+More of the same.
+~
+~
+0 0 1024
+D5
+More of the same.
+~
+~
+0 0 1003
+C 0
+S
+#1024
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above wall road.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1023
+D1
+More of the same.
+~
+~
+0 0 1029
+D2
+More of the same.
+~
+~
+0 0 1025
+D5
+More of the same.
+~
+~
+0 0 1004
+C 0
+S
+#1025
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above wall road.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1024
+D1
+More of the same.
+~
+~
+0 0 1030
+D5
+More of the same.
+~
+~
+0 0 1005
+C 0
+S
+#1026
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1031
+D2
+More of the same.
+~
+~
+0 0 1027
+D3
+More of the same.
+~
+~
+0 0 1021
+D5
+More of the same.
+~
+~
+0 0 1006
+C 0
+S
+#1027
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the magic shop.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1026
+D1
+More of the same.
+~
+~
+0 0 1032
+D2
+More of the same.
+~
+~
+0 0 1028
+D3
+More of the same.
+~
+~
+0 0 1022
+D5
+More of the same.
+~
+~
+0 0 1007
+C 0
+S
+#1028
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above main street.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1027
+D1
+More of the same.
+~
+~
+0 0 1033
+D2
+More of the same.
+~
+~
+0 0 1029
+D3
+More of the same.
+~
+~
+0 0 1023
+D5
+More of the same.
+~
+~
+0 0 1008
+C 0
+S
+#1029
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the mage guild.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1028
+D1
+More of the same.
+~
+~
+0 0 1034
+D2
+More of the same.
+~
+~
+0 0 1030
+D3
+More of the same.
+~
+~
+0 0 1024
+D5
+More of the same.
+~
+~
+0 0 1009
+C 0
+S
+#1030
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above poor alley.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1029
+D1
+More of the same.
+~
+~
+0 0 1035
+D3
+More of the same.
+~
+~
+0 0 1025
+D5
+More of the same.
+~
+~
+0 0 1010
+C 0
+S
+#1031
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+0 0 10
+D1
+More of the same.
+~
+~
+0 0 1036
+D2
+More of the same.
+~
+~
+0 0 1032
+D3
+More of the same.
+~
+~
+0 0 1026
+D5
+More of the same.
+~
+~
+0 0 1011
+C 0
+S
+#1032
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above bakery and cleric guild.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1031
+D1
+More of the same.
+~
+~
+0 0 1037
+D2
+More of the same.
+~
+~
+0 0 1033
+D3
+More of the same.
+~
+~
+0 0 1027
+D5
+More of the same.
+~
+~
+0 0 1012
+C 0
+S
+#1033
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above main street.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1032
+D1
+More of the same.
+~
+~
+0 0 1038
+D2
+More of the same.
+~
+~
+0 0 1034
+D3
+More of the same.
+~
+~
+0 0 1028
+D5
+More of the same.
+~
+~
+0 0 1013
+C 0
+S
+#1034
+{MIn the air ...{x~
+You are flying!
+Currently you are about 40 meters above the armoury.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1033
+D1
+More of the same.
+~
+~
+0 0 1039
+D2
+More of the same.
+~
+~
+0 0 1035
+D3
+More of the same.
+~
+~
+0 0 1029
+D5
+More of the same.
+~
+~
+0 0 1014
+C 0
+S
+#1035
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above poor alley.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1034
+D1
+More of the same.
+~
+~
+0 0 1040
+D3
+More of the same.
+~
+~
+0 0 1030
+D5
+More of the same.
+~
+~
+0 0 1015
+C 0
+S
+#1036
+{MIn the air ...{x~
+You are flying!
+Currently you are about 30 meters above the temple spire.
+It seems like you can see forever!
+~
+0 0 10
+D2
+More of the same.
+~
+~
+0 0 1037
+D3
+More of the same.
+~
+~
+0 0 1031
+D5
+More of the same.
+~
+~
+0 0 1016
+C 0
+S
+#1037
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above the temple square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1036
+D2
+More of the same.
+~
+~
+0 0 1038
+D3
+More of the same.
+~
+~
+0 0 1032
+D4
+~
+~
+0 0 7700
+D5
+More of the same.
+~
+~
+0 0 1017
+C 0
+S
+#1038
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above market square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1037
+D2
+More of the same.
+~
+~
+0 0 1039
+D3
+More of the same.
+~
+~
+0 0 1033
+D5
+More of the same.
+~
+~
+0 0 1018
+C 0
+S
+#1039
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above market square and commons square.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1038
+D2
+More of the same.
+~
+~
+0 0 1040
+D3
+More of the same.
+~
+~
+0 0 1034
+D5
+More of the same.
+~
+~
+0 0 1019
+C 0
+S
+#1040
+{MIn the air ...{x~
+You are flying!
+Currently you are about 60 meters above commoners square and the dump.
+It seems like you can see forever!
+~
+0 0 10
+D0
+More of the same.
+~
+~
+0 0 1039
+D3
+More of the same.
+~
+~
+0 0 1035
+D5
+More of the same.
+~
+~
+0 0 1020
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 1000 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 1000 10 1005 4
+M 0 1000 10 1019 4
+M 0 1000 10 1022 4
+M 0 1001 3 1034 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1000
+if isnpc $n
+   chuckle
+   poke $n
+   break
+else
+   if level $n <= 5
+   or isgood $n
+      tell $n I would rather you didnt poke me.
+   else
+      if level $n > 15
+         scream
+         say Ya know $n. I hate being poked!!!
+         if mobhere guard
+            mob force guard kill $n
+         endif
+         kill $n
+         break
+      endif
+      slap $n
+      shout MOMMY!!! $N is poking me.
+   endif
+endif
+~
+#0
+
+#$

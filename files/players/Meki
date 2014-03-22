@@ -1,0 +1,419 @@
+#PLAYER
+Name Meki~
+Id   1096463365
+LogO 1096550708
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  2
+Cla  0
+OCla -1
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 6555
+Not  1094778818 0 0 0
+Scro 33
+Room 18642
+HMV  58 58 130 130 130 130
+Gold 55
+Silv 1936
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  6719
+PAct  QTd
+Empower  0
+WName Meki~
+Comm NO
+Deaf DP
+Pos  8
+Prac 8
+Trai 5
+Save  -32
+Alig  0
+Hit   63
+ACs 61 60 61 78
+Attr 12 19 16 15 12
+AMod 4 0 0 1 0
+Pass MePPi0tf3cLMY~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 2
+PSize 2
+LLev 1
+HMVP 58 130 130
+Cnd  0 0 37 22
+Sk 75 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'identify'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 76 'dagger'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'illusion'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Affc 'bless'   0 235  57 -31  20          0
+Affc 'bless'   0 238  57  62  18          0
+Affc 'armor'   0 240  22 -20  17          0
+Affc 'giant strength'   0  84  44   4   1          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 119 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 104 0 0 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 0
+Wear -1
+Cost 75
+Val  0 0 226 0 0
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#END

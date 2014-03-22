@@ -1,0 +1,102 @@
+#PLAYER
+Name Sirk~
+Id   1093195848
+LogO 1159059312
+Vers 5
+Prom %h-%Hhp %m-%Mm %v-%Vmv %Xtnl %e %ss %gg %K ~
+Race Succubus~
+Clan Shadow~
+Sex  2
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 27582544
+Scro 0
+Room 2523
+HMV  1102 1102 347 347 694 694
+Gold 8166
+Silv 0
+Gold_bank 80276000
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  170000
+QuestPnts 13022
+PAct  CDEFGQTd
+AfBy DFT
+WName Sirk~
+Comm EFNO
+RaceChan 0
+Deaf P
+Pos  8
+Prac 19
+Trai 12
+Save  -62
+Alig  -1000
+Hit   125
+ACs 20 20 20 20
+Wimp  42
+Attr 20 17 17 22 19
+AMod 4 0 0 0 0
+Pass SiuV88J9Ji3zs~
+Titl  {y- {w[{yM{Y.{yD{Y.{yS{w] ~
+Pnts 54
+TSex 2
+PSize 2
+LLev 7660
+HMVP 1102 347 694
+Cnd  0 0 0 0
+Alias / recall~
+Alias id identify~
+Alias ba backstab~
+Boards       4 General 1158931085 Ideas 1158582947 Announce 1114049929 Personal 0 
+Sk 75 'charm person'
+Sk 75 'energy drain'
+Sk 75 'identify'
+Sk 75 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 100 'backstab'
+Sk 100 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 75 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 75 'envenom'
+Sk 75 'fast healing'
+Sk 100 'haggle'
+Sk 75 'hide'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 75 'steal'
+Sk 100 'recall'
+Sk 75 'quicken'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'identify spell'
+Affc 'stone skin'   0 481 372 -40  17          0
+Affc 'bless'   0 476 122 -62  20          0
+Affc 'bless'   0 479 122 125  18          0
+Affc 'giant strength'   0 466 327   4   1          0
+Affc 'stone skin'   0 466 327 -40  17          0
+End
+
+#END

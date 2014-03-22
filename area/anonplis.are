@@ -1,0 +1,4136 @@
+#AREADATA
+Name Anonopolis~
+Builders Yaegar~
+VNUMs 14170 14399
+Credits 3 -  99~
+Security 8
+Flags F
+LEVELs 10 99
+End
+
+
+
+#MOBILES
+#14200
+medtech~
+a medtech~
+{cA medtech is here attending to infirm citizens.{x
+~
+The medtech is using the latest technology to effect cures of the ailments
+of the populace. She is a good sort, for a citizen of Anonopolis.
+~
+Human~
+ABDGQa HNV 1000 0
+0
+99 75 1d199+16000 1d1+9999 1d69+60 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14201
+corporate executive exec~
+a corporate exec~
+{cA corporate exec sits behind an expensive desk here.{x
+~
+This ruthless entrepeneur would sell his own mother if there was a credit
+in it.
+~
+Human~
+ABGH HN 1000 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14202
+tech~
+a tech~
+{cA tech is here, repairing damaged cyberparts.{x
+~
+This tech is a superb technician. He can repair arms and armor of all types,
+for a fee. Part man and part machine, he has gradually transformed himself
+over the years into a cyborg to increase his efficency.
+~
+Human~
+ABG HN 1000 0
+0
+99 16 1d199+9800 1d1+99 1d69+32 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14203
+arms merchant~
+an arms merchant~
+{cAn arms merchant is here, selling a variety of assault weapons and armor.{x
+~
+This weedy-looking fellow sells the latest and greatest armaments that a 
+credit can buy. He is willing to negotiate a price on any weapon or piece
+of armor, regardless of its age or usefulness.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 punch
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14204
+bounty hunter~
+a bounty hunter~
+{cA bounty hunter offers to recruit a merc for you.{x
+~
+This unsavory fellow is an ex-fed who now specialises in recruiting bounty
+hunters, bodyguards and mercs for any client who wishes to acquire their
+services.
+~
+Human~
+ABG HN 1000 0
+0
+99 16 1d199+9800 1d1+99 1d69+32 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14205
+chemtech~
+a chemtech~
+{cA chemtech offers to sell you some "pharmaceuticals".{x
+~
+Ostensibly a pharmacist, this chemtech is actually a dealer in a wide variety
+of illegal performance enhancing drugs and steroids.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 punch
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14206
+scitech~
+a scitech~
+{cA scitech offers to identify your paraphenalia.{x
+~
+This intelligent young woman specialises in ascertaining the nature of all
+sorts of items, ranging from those found in the irradiated wastelands to
+ancient artifacts from long ago.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 punch
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14207
+exotech~
+an exotech~
+{cAn exotech offers to sell you an alien.{x
+~
+While not strictly legal, the trade in Xenobiological lifeforms is a profitable
+and popular source of employment for many retired spacers. This lady has 
+travelled far and wide and acquired a wide range of alien lifeforms which
+she sells to curious collectors.
+~
+Human~
+ABG HN 1000 0
+0
+99 16 1d199+9800 1d1+99 1d69+32 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14208
+spaceport control officer~
+a spaceport control officer~
+{cA spaceport control officer asks how she can help you.{x
+~
+This officer is the administrative head of Anonopolis One, the principal
+spaceport on the main continent.
+~
+Human~
+ABG HN 1000 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14209
+replicator robot~
+a goods replicator robot~
+{cA goods replicator robot asks what he can manufacture for you.{x
+~
+This robot can artifically reproduce basic consumer goods for those few
+citizens who can afford such luxuries.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 shock
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand none 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14210
+food replicator robot~
+a food replicator robot~
+{cA food replicator robot asks what he can manufacture for you.{x
+~
+This robot supplies instantly-generated synthetic foods for the citizens of
+Anonopolis. It may be fake, and taste like crap, but its edible.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 shock
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand none 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14211
+bartender~
+the Bartender~
+{cA surly bartender bashes a customer, then asks what you want.{x
+~
+This sour fellow has a ferocious temper, but his kick is not nearly as bad
+as the one you will get if you partake of the beverages here.
+~
+Human~
+ABG HNV 1000 0
+0
+125 100 1d199+26000 1d1+99 1d69+90 punch
+-56 -56 -56 -51
+CEFI 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14212
+science police captain~
+the Captain of the science police~
+{cThe Captain of the science police politely insists you state your business.{x
+~
+This fellow is the commander of the law enforcement agency of Anonopilis,
+the ruthlessly efficent and well-trained Science Police.
+~
+Human~
+ABG HN 1000 0
+0
+10 1 1d12+119 1d1+99 1d10+2 none
+4 4 4 9
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKMV medium unknown
+#14213
+master rogue~
+the master rogue~
+{cThe master rogue grins slyly at you.{x
+~
+This lean, moustachioed fellow is the head of the Organised Confederation
+of Smugglers, Thieves and Larcenists of Anonopolis. He has enough credits
+in his coffers to ensure that he is not bothered by the law. He may even
+consent to train you in a few skills.
+~
+Inccubus~
+ABCGT DFHPTUV -1000 0
+0
+70 125 1d1+4999 1d1+99 10d10+125 pierce
+-25 -25 -25 -25
+EFIQ ABH LQ CN
+stand stand male 1000
+ABHMV ABCDEFGHIJKMPQUVX medium unknown
+#14214
+corporate corp worker~
+a corp worker~
+{cA corp worker slaves endlessly for his corp.{x
+~
+This fellow is overworked and underpaid.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14215
+spacer~
+a veteran spacer~
+{cA veteran spacer relaxes before his next flight.{x
+~
+This laconic spacer has two things on his mind- his next flight, and how
+much he will get paid for spending 3 months in hyperspace.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14216
+science police admin officer~
+a science police admin officer~
+{cA science police admin officer is here processing arrest warrants.{x
+~
+This harried officer would rather be out bashing in the heads of citizens
+out after curfew.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14217
+smuggler~
+a smuggler~
+{cA smuggler sits here, boasting about the speed of his ship.{x
+~
+This smuggler looks eerily familiar.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14218
+tiny alien xenomorph~
+the tiny xenomorph~
+{cA tiny xenomorph.{x
+~
+This alien looks like a cute, little, fierce fighter.
+~
+Human~
+AI 0 400 0
+0
+4 0 1d12+47 1d1+99 1d6+0 none
+8 8 8 13
+0 0 0 0
+stand stand none 40
+AHMV ABCDEFGHIJKMV medium unknown
+#14219
+spiny alien xenomorph~
+the spiny xenomorph~
+{cA spiny xenomorph growls at you.{x
+~
+This alien looks like a fierce fighter.
+~
+Human~
+AI 0 400 0
+0
+10 1 1d12+119 1d1+99 1d10+2 none
+4 4 4 9
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJKMV medium unknown
+#14220
+winged alien xenomorph~
+the winged xenomorph~
+{cA hairless, winged xenomorph is here.{x
+~
+This alien looks like a fierce fighter.
+~
+Human~
+AI T 400 0
+0
+15 2 1d31+224 1d1+99 1d13+4 none
+0 0 0 5
+0 0 0 0
+stand stand none 150
+AHMV ABCDEFGHIJKMV medium unknown
+#14221
+furry alien xenomorph~
+the furry xenomorph~
+{cA large, furry xenomorph is here.{x
+~
+This alien looks like a strong, fierce fighter.
+~
+Human~
+AI 0 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand none 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14222
+scaly alien xenomorph~
+the scaly xenomorph~
+{cA huge, multi-limbed, scaly xenomorph prepares to rip you limb from limb.{x
+~
+Sure hope his master has him under control.
+~
+Human~
+AI 0 0 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand none 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14223
+enforcer~
+the enforcer~
+{cThe enforcer warns you to keep your nose clean.{x
+~
+This fellow is hard, but fair. He will only get rough if you cause trouble.
+~
+Human~
+ABG HJN 0 0
+0
+99 16 1d199+9800 1d1+99 1d69+32 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJKMV medium unknown
+#14224
+aod dealer~
+Aod the dealer~
+{cAod the dealer stands in the shadows here.{x
+~
+Thie fellow is the great-great-great-great-great-great-great-great-great-great
+grandson of the famous Aod of Anon.
+~
+Human~
+ACG DFJ 0 0
+0
+60 10 1d121+3599 1d1+99 1d43+19 none
+-30 -30 -30 -25
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJKMV medium unknown
+#14225
+psi police chief~
+the chief of the psi police~
+{cThe chief of the psi police greets you.{x
+~
+This dedicated officer is head of the psi police, a branch of the science
+police with mental powers. She is fair, just, hardworking and efficient.
+~
+Human~
+ABG HN 400 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand female 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14226
+wreckball coach~
+the wreckball coach~
+{cThe wreckball coach glares at you.{x
+~
+This rough chap is the coach of the Wreckball team of Anonopolis. He isn't
+happy about you being here.
+~
+Human~
+ABGP HN 0 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14227
+tech academy master~
+the master of Tech Academy~
+{cThe master of tech Academy eyes you suspiciously.{x
+~
+The master is the trainer of the many techs who work in and around the
+city of Anonopolis. He doubts you have the intellect to become students.
+~
+Human~
+ABG HN 1000 0
+0
+30 5 1d61+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14228
+psi policeman~
+a psi policeman~
+{cA psi policeman is here examining 3-D vids of crims.{x
+~
+She is really very busy.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14229
+wreckball player~
+a wreckball player~
+{cA wreckball player smashes a spiked mace into an opponent's skull.{x
+~
+He is very engrossed in his... game. It would not be wise to distract him.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14230
+tech student~
+a tech student~
+{cA tech student busily repairs a repair bot.{x
+~
+She is far too busy to talk to you.
+~
+Human~
+ABG HN 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14231
+admin head~
+the administrative head of Anonopolis~
+{cThe Administrative head of Anonopolis is here.{x
+~
+This fellow's role is ostensibly the determiner of political policy for the
+city, but in fact he holds no real power. The corporations run Anonopolis.
+~
+Human~
+ABG CDHJN 1000 0
+0
+60 10 1d121+3599 1d1+99 1d43+19 none
+-30 -30 -30 -25
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJKMV medium unknown
+#14232
+citizen~
+a citizen~
+{cA citizen of Anonopolis hurries along here.{x
+~
+This citizen looks rather depressed. Then again if you lived in a smelly,
+overcrowded city that hadn't seen the sun for 200 years you would be too.
+~
+Human~
+AG 0 0 0
+0
+5 0 1d12+59 1d1+99 1d7+0 none
+7 7 7 12
+0 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJKMV medium unknown
+#14233
+citizen~
+a citizen~
+{cA citizen of Anonopolis hurries along here.{x
+~
+This citizen looks rather depressed. Then again if you lived in a smelly,
+overcrowded city that hadn't seen the sun for 200 years you would be too.
+~
+Human~
+AG 0 0 0
+0
+5 0 1d12+59 1d1+99 1d7+0 none
+7 7 7 12
+0 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJKMV medium unknown
+#14234
+street kid~
+a street kid~
+{cA street kid asks you for a credit.{x
+~
+Anonopolis is full of unwanted, destitute people- this person is but one of
+them. Its only a matter of time before the local gangs or the science police
+do away with him.
+~
+Human~
+AG 0 0 0
+0
+3 0 1d12+35 1d1+99 1d5+0 none
+8 8 8 13
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJKMV medium unknown
+#14235
+janitor bot~
+the janitor bot~
+{cA janitor bot is moving around, cleaning up.{x
+~
+This robot has lettering painted on its side-
+
+"This sanitary service provided by the city of Anonopolis".
+
+Looking around, you judge that it has its work cut out.
+~
+Human~
+AGH DF 0 0
+0
+6 1 1d12+71 1d1+99 1d7+1 none
+6 6 6 11
+0 0 0 0
+stand stand none 60
+AHMV ABCDEFGHIJKMV medium unknown
+#14236
+crim~
+a crim~
+{cA crim leers at you, appraising your ability to defend yourself.{x
+~
+Crims are not considered much of a threat individually, but in big groups
+they can be dangerous.
+~
+Human~
+ACFGH 0 -500 0
+0
+6 1 1d12+71 1d1+99 1d7+1 none
+6 6 6 11
+0 0 0 0
+stand stand male 60
+AHMV ABCDEFGHIJKMV medium unknown
+#14237
+drunk spacer~
+a drunken spacer~
+{cA drunken spacer staggers past you.{x
+~
+A drunken spacer is living it up before his next flight.
+~
+Human~
+AG 0 400 0
+0
+10 1 1d12+119 1d1+99 1d10+2 none
+4 4 4 9
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKMV medium unknown
+#14238
+beggar~
+a beggar~
+{cA beggar is here, hoping for a cred.{x
+~
+Anonopolis is full of unwanted, destitute people- this person is but one of
+them. Its only a matter of time before the local gangs or the science police
+do away with him.
+~
+Human~
+ABGH 0 400 0
+0
+3 0 1d12+35 1d1+99 1d5+0 none
+8 8 8 13
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJKMV medium unknown
+#14239
+thief~
+a thief~
+{cA thief skulks about looking for easy pickings.{x
+~
+This clever woman has robbed dozens of unsuspecting visitors to Anonopolis.
+~
+Human~
+AGH BPQU 0 0
+0
+10 1 1d12+119 1d1+99 1d10+2 none
+4 4 4 9
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJKMV medium unknown
+#14240
+cyberfido~
+a cyberfido~
+{cThe cyber fido is here patrolling for vagrants.{x
+~
+The science police use these cybernetic fidos to seek out and eliminate
+vagrants.
+~
+Human~
+AGH 0 0 0
+0
+12 2 1d12+143 1d1+99 1d11+3 none
+2 2 2 7
+0 0 0 0
+stand stand none 120
+AHMV ABCDEFGHIJKMV medium unknown
+#14241
+rat~
+a huge sewer rat~
+{cA huge sewer rat glows strangely.{x
+~
+The rats of Anonopolis have been irradiated by all the radioactive waste in
+the sewers.
+~
+Human~
+AGH 0 0 0
+0
+8 1 1d12+95 1d1+99 1d9+1 none
+5 5 5 10
+0 0 0 0
+stand stand none 80
+AHMV ABCDEFGHIJKMV medium unknown
+#14242
+cat~
+a cat~
+{cA stray cat rummages through some trash here.{x
+~
+The cat suddenly emerges, triumphant, with a half-eaten synth steak, and runs 
+off.
+~
+Human~
+AGH 0 0 0
+0
+4 0 1d12+47 1d1+99 1d6+0 none
+8 8 8 13
+0 0 0 0
+stand stand female 40
+AHMV ABCDEFGHIJKMV medium unknown
+#14243
+science police~
+a member of the Science Police~
+{cA Member of the Science Police glares at you from his hoversled.{x
+~
+~
+Human~
+AG CHN -400 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJKMV medium unknown
+#14244
+science police~
+a member of the Science Police~
+{cA Member of the Science Police glares at you from her hoversled.{x
+~
+~
+Human~
+AG CHN -400 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand female 400
+AHMV ABCDEFGHIJKMV medium unknown
+#14245
+science police~
+a member of the Science Police~
+{cA Member of the Science Police glares at you from his hoversled.{x
+~
+~
+Human~
+AG CHN -400 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJKMV medium unknown
+#14246
+clone merc1~
+clone mercen~
+{cA clone merc scowls menacingly at you.{x
+~
+This Merc looks big and tough. Better be careful.
+~
+Human~
+AI FJ 0 0
+0
+15 2 1d31+224 1d1+99 1d13+4 none
+0 0 0 5
+0 0 0 0
+stand stand male 150
+AHMV ABCDEFGHIJKMV medium unknown
+#14247
+ex-trooper trooper merc2~
+ex-trooper merc~
+{cAn ex-trooper merc scowls menacingly at you.{x
+~
+This Merc looks big and tough. Better be careful.
+~
+Human~
+AI DJ 0 0
+0
+20 3 1d41+399 1d1+99 1d17+5 none
+-3 -3 -3 2
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#14248
+bodyguard merc3~
+bodyguard~
+{cA bodyguard scowls menacingly at you.{x
+~
+This Merc looks big and tough. Better be careful.
+~
+Human~
+AI JN 0 0
+0
+25 4 1d51+624 1d1+99 1d20+7 none
+-6 -6 -6 -1
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJKMV medium unknown
+#14249
+cyborg merc4~
+cyborg merc~
+{cA cyborg mercenary scowls menacingly at you.{x
+~
+This Merc looks big and tough. Better be careful.
+~
+Human~
+AI JN 0 0
+0
+30 5 1d1+899 1d1+99 1d23+9 none
+-10 -10 -10 -5
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#14250
+battle merc5~
+battle merc~
+{cA battle merc scowls menacingly at you.{x
+~
+This battle Merc looks big and tough. Better be careful.
+~
+Human~
+AI N 0 0
+0
+35 5 1d71+1224 1d1+99 1d27+10 none
+-13 -13 -13 -8
+0 0 0 0
+stand stand male 350
+AHMV ABCDEFGHIJKMV medium unknown
+#14251
+robot robomerc merc6~
+robomerc~
+{cA robomerc swivels its many weapons toward you.{x
+~
+This robomerc looks big and tough. Better be careful.
+~
+Human~
+AI DFJT 0 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#14200
+card~
+{Ma swipe card{x~
+The swipe card to the City Gates.
+~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+5 1 1 P
+#14201
+barrel beer~
+{ya barrel of slimy beer{x~
+A beer barrel has been left here.
+~
+SELECT_A_MATERIAL drink 0 A
+30 30 'beer' 0 0
+1 60 50 P
+#14202
+bottle beer~
+{ya bottle of flat {Ybeer{x~
+A beer bottle has been left here.~
+SELECT_A_MATERIAL drink 0 A
+4 4 'beer' 0 0
+1 10 25 P
+#14203
+bottle ale~
+{ya bottle of {Galien {yale{x~
+A dark bottle of alien ale has been left here.~
+SELECT_A_MATERIAL drink 0 A
+5 5 'ale' 0 0
+1 10 25 P
+#14204
+bottle flaming ale~
+{Ma bottle of {Rflaming {Male{x~
+A bottle of flaming ale has been left here.~
+SELECT_A_MATERIAL drink Q A
+8 8 'firebreather' 0 0
+1 10 35 P
+#14205
+decanter synth ale~
+{Ba decanter of {gsynth {Bale{x~
+A decanter has been left here.~
+SELECT_A_MATERIAL drink 0 A
+8 8 'local specialty' 0 0
+1 10 40 P
+#14206
+light stick~
+{ya {Wlight {ystick{x~
+A light stick is here.~
+SELECT_A_MATERIAL light_source A AQ
+0 0 DE 0 0
+1 1 35 P
+#14207
+hand torch~
+{Da high power hand {Rtorch{x~
+A high power hand torch has been left here.~
+SELECT_A_MATERIAL light_source 0 AO
+0 0 DGH 0 0
+5 4 100 P
+#14208
+tricorder~
+{Da tricorder{x~
+This tricorder can be use to identify items.~
+SELECT_A_MATERIAL wand B AO
+50 25 25 'identify' 0
+30 1 3000 P
+#14209
+goggles~
+{Ba pair of limited use detector goggles{x~
+A pair of limited use detector goggles lies here.~
+SELECT_A_MATERIAL staff A AO
+50 10 10 'identify' 0
+15 1 3000 P
+E
+goggles~
+To use them, activate them by holding and brandishing them.
+~
+#14210
+water ration~
+{Ba water ration{x~
+A water ration is lying here. It will sate your thirst for a few days.~
+SELECT_A_MATERIAL drink 0 A
+25 25 'water' 0 0
+5 5 50 P
+#14211
+water canister~
+{Ba water canister{x~
+A water canister is here.~
+SELECT_A_MATERIAL drink A A
+60 60 'water' 0 0
+10 0 75 P
+#14212
+billy club mace~
+{ya billy club{x~
+A kevlar billy club lies here.~
+MET_GENERIC weapon 0 AN
+mace 2 8 pound 0
+5 79 200 P
+A
+19 2
+A
+18 1
+#14213
+power stick polearm two handed~
+{Ga power stick{x~
+A power stick lies here.
+~
+WOOD weapon B AN
+polearm 4 10 pound F
+7 70 400 P
+A
+19 8
+A
+18 6
+A
+13 20
+#14214
+electro dagger~
+{Man electro-dagger{x~
+An electro-dagger is here.~
+LIGHT_ELEM weapon A AN
+dagger 3 7 pierce G
+10 15 600 P
+A
+19 3
+A
+18 4
+#14215
+riot gun~
+{Da riot gun{x~
+A riot gun that would serve you better as a club lies here.~
+IRON weapon BG AN
+mace 4 7 blast A
+15 5 1000 P
+A
+18 -10
+A
+19 10
+#14216
+boots trooper~
+{ba pair of Elite Trooper Jumpboots{x~
+A sturdy pair of jumpboots have been left here.~
+STEEL armor ABY AG
+ABCD ABCD ABCD ABCD A
+99 15 50000 P
+A
+13 100
+A
+18 5
+A
+19 5
+A
+2 8
+A
+17 -45
+#14217
+elite trooper combat back pack~
+{bAn Elite Trooper's combat pack{x~
+A trooper's combat pack lies here.~
+HIGH_LEATHER container ABY AR
+10 ACE 0 1000 10
+99 20 55000 P
+A
+13 150
+A
+19 5
+A
+18 5
+A
+17 -35
+#14218
+elite trooper combat helmet~
+{ban Elite Troopers' combat helmet{x~
+A troopers' combat helmet lies here.~
+HIGH_LEATHER armor ABY AE
+ABF ABF ABF ABF A
+99 5 60000 P
+A
+19 8
+A
+18 13
+A
+1 2
+A
+2 10
+A
+14 200
+#14219
+elite trooper kevlar armor~
+{ba suit of Elite Trooper kevlar body armor{x~
+A suit of kevlar body armor is here.~
+HIGH_LEATHER armor ABY AD
+CE CE CE CE A
+99 50 65000 P
+A
+13 350
+A
+19 8
+A
+18 8
+A
+1 5
+A
+5 10
+A
+17 -40
+#14220
+fountain~
+{Wa memorial fountain{x~
+This {Wmemorial {Bfountain{x is kept clean by special purifying chemicals.~
+SELECT_A_MATERIAL fountain 0 0
+10000 10000 'water' 0 0
+1 1000 0 P
+#14221
+ring~
+{ma Psi Masters' ring{x~
+A fancy psi ring is here.
+~
+SELECT_A_MATERIAL armor ABY AB
+BD BD BD BD A
+99 1 50000 P
+A
+17 -20
+A
+12 800
+A
+4 10
+A
+3 10
+#14222
+cake~
+{Ya synth cake{x~
+A synth cake. It looks dry and tasteless.
+~
+SELECT_A_MATERIAL food 0 A
+C C 0 0 0
+3 3 10 P
+#14223
+roll~
+{yan artificial bread roll{x~
+An artificial bread roll. It looks dry and tasteless.
+~
+SELECT_A_MATERIAL food 0 A
+AC AC 0 0 0
+2 5 8 P
+#14224
+sandwich~
+{Wan artificial sandwich{x~
+An artificial sandwich. It looks dry and tasteless.
+~
+SELECT_A_MATERIAL food 0 A
+AC AC 0 0 0
+3 5 12 P
+#14225
+nutrition pill~
+{Ga nutrition pill{x~
+This nutrition pill would fill you up for a while.~
+SELECT_A_MATERIAL food 0 A
+DF DF 0 0 0
+15 5 150 P
+#14226
+cup synth coffee~
+{Wa cup of {Gsynth {ycoffee{x~
+A cup of synth coffee steams away here.~
+SELECT_A_MATERIAL drink 0 AO
+1 1 'coffee' 0 0
+3 1 8 P
+#14227
+liquid narcotic~
+{Ba liquid narcotic{x~
+this narcotic will enhance your abilities.~
+SELECT_A_MATERIAL potion ABG A
+75 'giant strength' 'stone skin' 'haste' ''
+60 2 250 P
+#14228
+corp billboard~
+{ya corporation billboard{x~
+A corporation billboard advertises the latest soft drinks.
+~
+SELECT_A_MATERIAL furniture 0 0
+BD EIJKN E 0 0
+1 1000 0 P
+#14229
+enforcer helmet~
+{Dan Enforcer's Helmet{x~
+The enforcer's helmet is here.~
+STEEL armor 0 AE
+BCDE BCDE BCDE BCDE A
+99 75 4000 P
+A
+2 1
+A
+1 10
+A
+18 -5
+A
+19 15
+A
+13 250
+#14230
+laser sword~
+{Mthe Admin Head's {Glaser {Msword{x~
+The head of admin's laser sword is here.
+~
+MAGIC_ENERGY weapon AB AN
+sword 11 10 slash G
+60 50 15000 P
+A
+17 -20
+A
+18 8
+A
+19 8
+A
+20 -10
+#14231
+metal bar exotic~
+{Da metal bar{x~
+A metal bar lies here.~
+MET_GENERIC weapon 0 AN
+exotic 2 7 pound 0
+6 30 50 P
+#14232
+laser sword~
+{Ca laser sword{x~
+A laser sword is lying here.~
+MAGIC_ENERGY weapon G AN
+sword 8 8 slash G
+40 50 800 P
+A
+18 5
+A
+19 5
+#14233
+police reflec body armor~
+{Ca suit of reflec body armor{x~
+A suit of police reflec armor is lying here.~
+SELECT_A_MATERIAL armor 0 AD
+ABCE ABCE ABCE ABCE A
+40 20 800 P
+A
+17 -10
+A
+5 2
+#14234
+comm bracer~
+{Ca comm bracer{x~
+A sci police comm bracer is lying here.~
+SELECT_A_MATERIAL armor 0 AM
+BE CE BE CE A
+40 15 650 P
+A
+18 6
+A
+3 1
+#14235
+cape~
+{Ca Sci Police cape{x~
+A sci police cape is lying here.
+~
+SELECT_A_MATERIAL armor 0 AC
+ACE CE ACE CE A
+40 10 750 P
+A
+13 75
+A
+17 -10
+#14236
+police helmet~
+{Ca Sci Police helmet{x~
+A sci police helmet lies here.
+~
+SELECT_A_MATERIAL armor 0 AE
+ABE ABE ABE ABE A
+40 10 800 P
+A
+17 -10
+A
+12 75
+A
+4 4
+A
+3 4
+#14237
+sci power shield~
+{Ca power shield{x~
+A power shield lies here.
+~
+SELECT_A_MATERIAL armor J AJ
+ABE ABE ABE ABE A
+40 20 800 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+20 -15
+A
+17 -20
+#14238
+lance electrolance~
+{Can electrolance{x~
+An electro lance lies here.
+~
+SELECT_A_MATERIAL staff AB AO
+40 12 10 'lightning bolt' 0
+40 10 1200 P
+A
+19 5
+A
+18 5
+#14239
+disk diskette~
+{Da blank computer diskette{x~
+A blank diskette is here.
+~
+SELECT_A_MATERIAL scroll 0 AO
+90 'pass door' '' '' ''
+99 1 1000 P
+#14240
+pill~
+{Wa white pill{x~
+A white pill with a cross on it is here.
+~
+SELECT_A_MATERIAL pill 0 AO
+40 'detect magic' 'infravision' 'detect poison' ''
+30 1 300 P
+#14241
+stargate~
+{ba StarGate{x~
+A stargate is here, its shimmering surface beckoning.
+~
+SELECT_A_MATERIAL trash A 0
+0 0 0 0 0
+-2 1 1 P
+#14242
+dagger mono~
+{Ba monofiliment bladed electro-dagger{x~
+A strange looking dagger is lying here, humming softly.~
+LIGHTNING_ELEM weapon BGS AN
+dagger 9 9 pierce DG
+50 20 9000 P
+A
+18 9
+A
+19 9
+A
+2 5
+#0
+
+
+
+#ROOMS
+#14192
+{MA dusty road{x~
+Instead of hardpacked dirt, the road has become a type of glistening
+stone.  The area around the road is barren of vegetation, and no wildlife
+can be seen.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14193
+D3
+~
+~
+0 0 31419
+C 0
+S
+#14193
+{MA dusty road{x~
+The dirt hardpack has returned again, along with the grass to either side
+of the road.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14194
+D3
+~
+~
+0 0 14192
+C 0
+S
+#14194
+{MA dusty road{x~
+This time you definately see motion to either side of you.  Fortunately
+the grasses lighten to the west.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14195
+D3
+~
+~
+0 0 14193
+C 0
+S
+#14195
+{MA dusty road{x~
+From the rustlings coming from either side of the path, it sounds as if
+someone knows you are here.  This might be a good time to speed up your
+travels.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14196
+D3
+~
+~
+0 0 14194
+C 0
+S
+#14196
+{MA dusty road{x~
+The grasses still wave in the wind, and you keep seeing flashes of motion
+out of the corners of your eyes.  Now you can also hear rustlings in the
+grass, and it sounds as if someone, or something, is pacing you.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14197
+D3
+~
+~
+0 0 14195
+C 0
+S
+#14197
+{MA dusty road{x~
+The grasses to either side of the road are now taller than you.  Every so
+often movement tugs at your peripheral vision...  
+~
+0 262144 13
+D1
+~
+~
+0 0 14198
+D3
+~
+~
+0 0 14196
+C 0
+S
+#14198
+{MA dusty road{x~
+The long grasses rise to either side of the road, and you continue on
+your way.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14199
+D3
+~
+~
+0 0 14197
+C 0
+S
+#14199
+{MA dusty road{x~
+The long grasses deginerate into trampled grass, and there appears to be
+some buildings to the east.  
+~
+0 262144 13
+D1
+~
+~
+0 0 14339
+D3
+~
+~
+0 0 14198
+C 0
+S
+#14200
+{MOutside the MedCenter{x~
+You are outside the MedCenter, where MedTechs furiously strive to cure the
+many wounded and dying people dropped off here by the Science Police. If you
+want, you can head inside. Alternatively you can wander about the city.
+~
+0 0 2
+D0
+The Interior of the MedCenter~
+~
+1 0 14201
+D1
+Victory Parade East~
+~
+0 -1 14204
+D2
+~
+~
+0 0 14203
+D3
+Victory Parade West~
+~
+0 -1 14202
+C 0
+S
+#14201
+{MThe Interior of the MedCenter{x~
+The scrubbed white walls and floor of the interior of this plasteel building
+are in stark contrast to the dirty grey streets outside. As you enter, you
+hear a sudden explosion, and minutes later a hoversled arrives, depositing
+the charred remains of several vagrants "accidentally" killed in a shoot out
+between crims and Science Police.
+~
+0 1032 0
+D2
+~
+~
+1 0 14200
+C 0
+S
+#14202
+{MVictory Parade West{x~
+You are walking along Victory Parade West. There is a constant drizzle of
+rain, and you find yourself wet and shivering before long. High overhead,
+huge spacecraft cruise about, some bearing massive advertisements, others
+heading to or from the many worlds now colonised by man, leaving the
+detritus behind.
+~
+0 8 2
+D1
+~
+~
+0 -1 14200
+D3
+Victory Parade West~
+~
+0 -1 14205
+C 0
+S
+#14203
+{MGlory Avenue{x~
+You are strolling along a busy city street, dodging the many citizens, bums,
+spacers and hoodlums that litter the city of Anonopolis. The occasional
+hovercar shoots past, the hordes of people scattering before it, as they
+know from experience that the drivers won't slow down.
+~
+0 8 0
+D0
+~
+~
+0 -1 14200
+D2
+Glory Avenue~
+~
+0 -1 14206
+C 0
+S
+#14204
+{MVictory Parade East{x~
+You continue through the crowded cesspool that is Anonopolis. Overhead you
+hear the now-familiar whine of the engines of Science Police hoversleds,
+and the low hum of the engines of roving robot enforcers- cold, metal gunships
+that are programmed to seek out and eliminate unruly elements in the city 
+streets below. The offices of the mighty corporations also lie up there,
+atop the many plasteel skyscrapers that surround you, their inhabitants
+ignorant of the squalor below.
+~
+0 8 2
+D1
+Victory Parade East~
+~
+0 -1 14207
+D3
+~
+~
+0 -1 14200
+C 0
+S
+#14205
+{MAn Intersection in Victory Parade West{x~
+You are heading through an industrial section of town. A bizarre conglomeration
+of factories and tech shops surround you. You hear the whine of high-powered
+laser tools cutting steel above the general hubbub of the passing citizens.
+Occasionally a cyborg rushes past, laden with heavy equipment for some
+repair shop or another.
+~
+0 8 2
+D0
+Liberty Lane~
+~
+0 -1 14237
+D1
+Victory Parade West~
+~
+0 -1 14202
+D2
+Liberty Lane~
+~
+0 -1 14239
+D3
+Victory Parade West~
+~
+0 -1 14208
+C 0
+S
+#14206
+{MCorner of Valiant Street and Glory Avenue{x~
+You are passing several seedy-looking pleasure houses, the occupants standing
+without clad in little or no clothing, displaying their dubious assets to
+potential customers. The Science Police chatting nearby seem to be ignoring
+these places- you assume that some serious protection money is being paid 
+here.
+~
+0 8 0
+D0
+Glory Avenue~
+~
+0 -1 14203
+D1
+Valiant Street~
+~
+0 -1 14266
+D2
+Glory Avenue~
+~
+0 -1 14209
+D3
+~
+~
+0 0 14264
+C 0
+S
+#14207
+{MCorner of Stalwart Lane and Victory Parade East{x~
+There has been an accident on this corner recently. From what you can
+determine, it seems that a hover car jumped the kerb, plowed into the
+front of a cyberware storage facility, and then exploded, peppering the 
+unfortunates nearby with kilotons of plasteel shrapnel, killing dozens and
+wounding hundreds more. MedTech workers scramble to save those that were
+injured, while a couple of bored Science Police bash any passers-by who
+stop to gawk. You quickly move on.
+~
+0 8 2
+D0
+Liberty Lane~
+~
+0 -1 14241
+D1
+Victory Parade East~
+~
+0 -1 14210
+D2
+Liberty Lane~
+~
+0 -1 14243
+D3
+Victory Parade East~
+~
+0 -1 14204
+C 0
+S
+#14208
+{MVictory Parade West{x~
+You are walking past a line of stores selling designer clothes, drugs and
+jewellery. Rich yuppies wearing expensive cyberwear hurry to and from
+several luxury cars parked nearby, under the watchful eyes of their guard
+bots.
+~
+0 8 2
+D1
+Victory Parade West~
+~
+0 -1 14205
+D3
+Victory Parade West~
+~
+0 -1 14211
+C 0
+S
+#14209
+{MGlory Avenue{x~
+You are heading past a line of rundown buildings from the turn of the century.
+It appears that at one stage they were entertainment houses of some sort,
+providing a product known as Video Games. Cyberwear has of course rendered
+such products obsolete. The entrance to a corporation building lies south
+of here.
+~
+0 8 0
+D0
+Glory Avenue~
+~
+0 -1 14206
+D2
+~
+~
+0 -1 14233
+C 0
+S
+#14210
+{MVictory Parade East{x~
+You head past some large, well-lit restaurants full of yuppies and guarded
+by several large cyborg mercs, who glare threateningly at you as you pass.
+The sight of such excessive wealth in the midst of such squalor makes you
+sick and you continue.
+~
+0 8 2
+D1
+Victory Parade East~
+~
+0 -1 14212
+D3
+Victory Parade East~
+~
+0 -1 14207
+C 0
+S
+#14211
+{MVictory Parade West{x~
+This area at one time served as a city square of sorts, but now it is a home
+to some of the many vagrants of the city. Occasionally the Science Police
+release cyberfidos here, and any hapless vagrants are devoured by the 
+vicious cyborg hounds.
+~
+0 8 2
+D1
+Victory Parade West~
+~
+0 -1 14208
+D3
+Victory Parade West~
+~
+0 -1 14213
+C 0
+S
+#14212
+{MVictory Parade East{x~
+You trudge wearily past what appears to be a school, though it actually
+resembles a prison more than a place of learning. Shouts, screams and gunfire
+echo from behind the heavy iron bars that block the windows and doorways of
+this place, and you are suddenly thankful that you have already matriculated.
+~
+0 8 2
+D1
+Victory Parade East~
+~
+0 -1 14214
+D3
+Victory Parade East~
+~
+0 -1 14210
+C 0
+S
+#14213
+{MApproaching Gate at Victory Parade West{x~
+You are drawing near to the western entrance to the city. A freeway begins
+here, and heads toward the gate, and out into the wastelands beyond, where
+it is encased in a plasteel tube to protect motorists form the harsh
+environment and the locals.
+~
+0 8 2
+D1
+Victory Parade West~
+~
+0 -1 14211
+D3
+The Victory Parade West Gate~
+~
+0 -1 14215
+C 0
+S
+#14214
+{MApproaching Gate at Victory Parade East{x~
+You are drawing near to the eastern entrance to the city. A freeway begins
+here, and heads toward the gate, and out into the wastelands beyond, where
+it is encased in a plasteel tube to protect motorists form the harsh
+environment and the locals.
+~
+0 8 2
+D1
+The Victory Parade East Gate~
+~
+0 -1 14216
+D3
+Victory Parade East~
+~
+0 -1 14212
+C 0
+S
+#14215
+{MInside the Victory Parade West Gate{x~
+You have reached the walls of the city. They rise far above you, huge 
+plasteel constructs over 40 stories high, protecting the city from the 
+irradiated wastelands without (and perhaps vice versa...). The freeway 
+heads past, through a huge pair of plasteel doors, its plasteel surface 
+busy with hundreds of hovercars and trucks, rushing to the nearby cities 
+such as Futzone and MegaCity One.
+~
+0 8 2
+D0
+~
+~
+0 0 31200
+D1
+Victory Parade West~
+~
+0 -1 14213
+D2
+~
+~
+0 0 31201
+C 0
+S
+#14216
+{MInside the Victory Parade East Gate{x~
+You have reached the walls of the city. They rise far above you, huge 
+plasteel constructs over 40 stories high, protecting the city from the 
+irradiated wastelands without (and perhaps vice versa...). The freeway 
+heads past, through a huge pair of plasteel doors, its plasteel surface 
+busy with hundreds of hovercars and trucks, rushing to the nearby cities 
+such as Futzone and MegaCity One.
+~
+0 8 2
+D1
+~
+~
+0 0 14219
+D3
+Victory Parade East~
+~
+0 -1 14214
+C 0
+S
+#14217
+{MOutside the Victory Parade West Gate{x~
+You are standing outside the city. Why? You are in the wastelands now. You
+will not be able to proceed further without adequate protection, for the 
+harsh environment will surely kill you.
+~
+0 4 2
+D2
+~
+~
+0 0 14218
+C 0
+S
+#14218
+{MOutside the Victory Parade East Gate{x~
+You are standing outside the city. Why? You are in the wastelands now. You
+will not be able to proceed further without adequate protection, for the 
+harsh environment will surely kill you. However, you may use a small walkway
+that lines the freeway here to proceed further should you wish to, as it 
+offers protection enough from the extreme temperatures (negative 200 degrees
+at night and 200 plus in the day) and the nasty air (chemicals that are so
+poisonous no-one has identified them yet).
+~
+0 4 2
+D0
+~
+~
+0 0 14217
+D2
+~
+~
+0 0 14219
+C 0
+S
+#14219
+{MThe Circuit Road{x~
+You are travelling along the freeway known as the circuit road, for it
+once formed a connection between the four major cities of Anonopolis, Futzone,
+Megacity One and Shardis. Since the nasty thermonuclear explosion that claimed
+Shardis, it has only linked three, but the name remains.
+~
+0 0 2
+D0
+~
+~
+0 0 14218
+D1
+~
+~
+0 -1 14220
+D3
+~
+~
+0 0 14216
+C 0
+S
+#14220
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  To the north you spy
+a well-forested path.  
+~
+0 0 2
+D0
+~
+~
+0 0 14320
+D1
+The Circuit Road~
+~
+0 -1 14221
+D3
+The Circuit Road~
+~
+0 -1 14219
+C 0
+S
+#14221
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+~
+~
+0 -1 14222
+D3
+~
+~
+0 -1 14220
+C 0
+S
+#14222
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+The Circuit Road~
+~
+0 -1 14223
+D3
+The Circuit Road~
+~
+0 -1 14221
+C 0
+S
+#14223
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  To the south is a
+very overgrown path...  Who knows where it leads?  
+~
+0 0 2
+D1
+~
+~
+0 -1 14224
+D2
+~
+~
+0 0 14311
+D3
+~
+~
+0 -1 14222
+C 0
+S
+#14224
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+~
+~
+0 -1 14225
+D3
+The Circuit Road~
+~
+0 -1 14223
+C 0
+S
+#14225
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+
+To the north lies a road which bends sharply to the east, heading toward 
+a large City.
+~
+0 0 2
+D0
+~
+~
+0 0 14335
+D1
+~
+~
+0 -1 14226
+D3
+~
+~
+0 -1 14224
+C 0
+S
+#14226
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+~
+~
+0 -1 14227
+D3
+~
+~
+0 -1 14225
+C 0
+S
+#14227
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+The Circuit Road~
+~
+0 -1 14228
+D3
+~
+~
+0 -1 14226
+C 0
+S
+#14228
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  
+~
+0 0 2
+D1
+~
+~
+0 -1 14229
+D3
+~
+~
+0 -1 14227
+C 0
+S
+#14229
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road. It links the city of Anonopolis
+to the cities of Futzone and MegaCity One.
+~
+0 0 2
+D1
+The Circuit Road~
+~
+0 -1 14230
+D3
+The Circuit Road~
+~
+0 -1 14228
+C 0
+S
+#14230
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  
+~
+0 0 2
+D1
+~
+~
+0 0 14231
+D3
+~
+~
+0 -1 14229
+C 0
+S
+#14231
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  
+~
+0 0 2
+E
+sign~
+{yNorth to The Funny Farm
+South to Happy Camp
+West to Sesame Street{x
+~
+D1
+The Circuit Road~
+~
+0 -1 14232
+D3
+~
+~
+0 0 14230
+C 0
+S
+#14232
+{MThe Circuit Road{x~
+You are travelling along the Circuit Road.  It links the city of
+Anonopolis to the cities of Futzone and MegaCity One.  
+~
+0 4 2
+D1
+~
+~
+0 0 31418
+D3
+The Circuit Road~
+~
+0 -1 14231
+C 0
+S
+#14233
+{MOutside a Corporation{x~
+You are standing beneath the towering skyscraper that houses Cyberdine Systems,
+a powerful and influential corporation in the city of Anonopolis. You are 
+free to enter, should you so desire, as you are sufficently imposing to
+convince the guards that you have legitimate business here. And if 
+you do eliminate their employers, well, there are many more.
+~
+0 0 1
+D0
+Glory Avenue~
+~
+0 -1 14209
+D2
+~
+~
+1 0 14234
+C 0
+S
+#14234
+{MInside Cyberdine HQ{x~
+You are walking across a spacious lobby filled with expensive furniture, some
+of which looks like it was actually fashioned from real leather. Gleaming
+chrome consoles house a variety of touch screens and terminals, for the use
+of the many customers and staff milling about you. An elevator is on the
+far wall, which you can use to ascend to the top floors.
+~
+0 8 0
+D0
+~
+~
+1 0 14233
+D4
+~
+~
+0 -1 14235
+C 0
+S
+#14235
+{MOffices{x~
+This floor is full of tiny offices crowded with furiously-working employees
+of the Corporation. They look as if they are working for their very lives,
+which in a sense they are, for the unemployed aren't very well taken care of
+in Anonopolis...
+~
+0 8 0
+D4
+~
+~
+0 -1 14236
+D5
+~
+~
+0 -1 14234
+C 0
+S
+#14236
+{MThe Boardroom{x~
+In here the corporate heads meet to discuss how best to rip off the citizens
+...err how to provide them with the products they WANT and NEED. It is a huge
+room, lavishly decorated with original Cezannes, Van Goghs and Renoirs, and
+serviced by several staffbots, who are continuously cleaning and serving
+real coffee. A huge oak table dominates the room, and behind it sit the
+executives who are here round the clock.
+~
+0 8 0
+D5
+~
+~
+0 -1 14235
+C 0
+S
+#14237
+{MOutside City Administration{x~
+You are standing outside City Administration, or CitAdmin, the building
+which houses the nominal heads of Anonopolis, those politicians corrupt and
+greedy enough to co-operate as stooges of the Corporations. Real power rests
+with the credit in Anonopolis, and the Corporations hold all the credits...
+~
+0 0 1
+D0
+Justice Street~
+~
+0 -1 14245
+D2
+Victory Parade~
+~
+0 -1 14205
+D3
+CitAdmin~
+~
+1 0 14238
+C 0
+S
+#14238
+{MCitAdmin{x~
+Various clerks and petty officials run here and there within this building,
+pretending to be busy. An information desk (unstaffed, of course) is 
+situated near an elevator, which is marked "OUT OF ORDER". Nothing like a
+good old representative democracy.
+~
+0 8 0
+D1
+Liberty Lane~
+~
+1 0 14237
+C 0
+S
+#14239
+{MTechMart{x~
+You are walking through an industrial block, which began as suddenly as it
+ends fifty meters away. Blocks in Anonopolis are like that, being located,
+by whatever corporation or individual has enough power and money to 
+establish them, wherever they like. It is in this block that many Techs
+gather to build or repair the technology that powers Anonopolis. Even the
+Corporations have need of their services, and as such many Techs are quite
+wealthy.
+~
+0 0 1
+D0
+Victory Parade~
+~
+0 -1 14205
+D2
+Corner of Liberty Lane and Valiant Street~
+~
+0 -1 14261
+D3
+The TechRoom~
+~
+0 -1 14240
+C 0
+S
+#14240
+{MTechRoom{x~
+You have entered the crowded workroom of one of the more prosperous denizens
+of TechMart. He will repair any damaged items of a non-organic nature that
+you have, for a reasonable fee. He will even accept gold coins in lieu of
+credits (he has many contacts who will pay handsomely for a few pieces of
+real gold).
+~
+0 8 0
+D1
+Liberty Lane~
+~
+0 -1 14239
+C 0
+S
+#14241
+{MTradeMart{x~
+Several businesses have been established along this road in rather haphazard
+order. The majority of them seem to be specializing in armaments...
+~
+0 0 1
+D0
+Corner of Justice Street and Stalwart Lane~
+~
+0 -1 14253
+D1
+An Armory~
+~
+0 -1 14242
+D2
+Victory Parade~
+~
+0 -1 14207
+C 0
+S
+#14242
+{MAn Armory{x~
+You have entered what appears to be a weapons and armor shop of some kind,
+but most of the weapons are unlike any weapon you have ever seen before. Items
+called "Blasters" and "Shotguns" look to you like they would make decent
+clubs, but only if a decent sword or mace wasn't handy. However, there are
+some interesting looking spears and daggers, which glow strangely as if
+enchanted...
+~
+0 8 0
+D3
+Stalwart Lane~
+~
+0 -1 14241
+C 0
+S
+#14243
+{MTradeMart{x~
+Several businesses have been established along this road in rather haphazard
+order. The majority of them seem to be specializing in armaments...
+~
+0 0 1
+D0
+Victory Parade~
+~
+0 -1 14207
+D1
+An Armory~
+~
+0 -1 14244
+D2
+Corner of Stalwart Lane and Valiant Street~
+~
+0 -1 14268
+C 0
+S
+#14244
+{MAn Armory{x~
+You have entered what appears to be a weapons and armor shop of some kind,
+but most of the weapons are unlike any weapon you have ever seen before. Items
+called "Blasters" and "Shotguns" look to you like they would make decent
+clubs, but only if a decent sword or mace wasn't handy. However, there are
+some interesting looking spears and daggers, which glow strangely as if
+enchanted...
+~
+0 8 0
+D3
+Liberty Lane~
+~
+0 -1 14243
+C 0
+S
+#14245
+{MCorner of Liberty Lane and Justice Street{x~
+You are heading through a relatively quiet area of town, quiet for this
+place meaning only three or four hoversleds or assault gunships overhead,
+only one or two APCs or hovercars on the ground and a density of less than
+200 people per square meter...
+~
+0 0 1
+D0
+~
+~
+0 -1 14246
+D1
+Justice Street~
+~
+0 -1 14248
+D2
+Liberty Lane~
+~
+0 -1 14237
+D3
+~
+~
+0 -1 14285
+C 0
+S
+#14246
+{MMercenaries Unlimited{x~
+You have entered a hiring hall for mercenaries, bodyguards, spies, assassins
+and bounty hunters. Several seedy-looking fellows crowd round an antiquated
+flight simulator, egging on the player, who is apparently doing rather well.
+Some of them turn to look at you as you enter, then grunt and return to
+their game.
+~
+0 4104 0
+D2
+Justice Street~
+~
+0 -1 14245
+C 0
+S
+#14247
+{MMerc Store{x~
+You shouldn't be here. Go Away. Or I'll Tell.
+
+
+
+
+
+
+
+NOW!
+~
+0 12 0
+C 0
+S
+#14248
+{MThe Slums on Justice Street{x~
+Street kids on Whipsleds shoot past you as you make your way along this
+narrow street, lined by a variety of dispensaries and medical clinics. The
+occasional addict comes stumbling out after a fresh hit of whatever synth
+drug is now in fashion, eyes ablaze with rage, ready for action. You wonder
+what exactly is IN those red capsules he keeps popping.
+~
+0 0 1
+D0
+~
+~
+0 -1 14249
+D1
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 14250
+D3
+Corner of Justice Street and Liberty Lane~
+~
+0 -1 14245
+C 0
+S
+#14249
+{MA "Pharmacy"{x~
+You have entered one of the places you saw the addicts stumbling out of.
+Instead of encountering the dirty, dingy cesspit you expected, you enter a 
+clean, well-lit, white walled shop with a clean glass counter behind which
+lie a variety of pills, syrups and other concoctions. You are wondering how
+the owner manages to maintain order when you notice the Warbot with the twin
+laser cannons and the nasty blood stain on the inside of the entrance door...
+~
+0 8 0
+D2
+Justice Street~
+~
+0 -1 14248
+C 0
+S
+#14250
+{MCorner of Honor Avenue and Justice Street{x~
+You are walking past a line of stores selling designer clothes, drugs and
+jewellery. Rich yuppies wearing expensive cyberwear hurry to and from
+several luxury cars parked nearby, under the watchful eyes of their guard
+bots.
+~
+0 0 1
+D0
+Honor Avenue~
+~
+0 -1 14256
+D1
+Justice Street~
+~
+0 -1 14251
+D3
+Justice Street~
+~
+0 -1 14248
+C 0
+S
+#14251
+{MJustice Street{x~
+You are walking through the northeastern quarter of town, along Justice
+Street. Techs in dirty overalls and Scientists in white lab coats rush here
+and there, carrying heavy equipment or delicate tools to and from their
+workstations. There is a large building to the north you may want to enter.
+~
+0 0 1
+D0
+~
+~
+0 -1 14252
+D1
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 14253
+D3
+Justice Street~
+~
+0 -1 14250
+C 0
+S
+#14252
+{MSciTech 1{x~
+You have entered the offices of a small corporation known as SciTech 1, which
+specialises in the recovery and identification of relics from the distant 
+past. The techs goggle at you as you enter, for your equipment is a varitable
+gold mine to them, and they rush forward and offer to ascertain ita qualities
+and worth for you, for a price of course (they're not THAT enthusiastic).
+~
+0 12 0
+D2
+Justice Street~
+~
+0 -1 14251
+C 0
+S
+#14253
+{MJustice Street{x~
+You are walking through the northeastern quarter of town, along Justice
+Street. Techs in dirty overalls and Scientists in white lab coats rush here
+and there, carrying heavy equipment or delicate tools to and from their
+workstations. There is a large building to the north you may want to enter.
+~
+0 0 1
+D0
+~
+~
+0 -1 14254
+D1
+Justice Street~
+~
+0 -1 14292
+D2
+Stalwart Lane~
+~
+0 -1 14241
+D3
+Justice Street~
+~
+0 -1 14251
+C 0
+S
+#14254
+{MXenomorpha{x~
+You have entered a lab run by a small corporation known as Xenomorpha, who
+specialise in the capturing and selling of xenobiological life forms to the
+discerning public. You may purchase your very own "bug" if you wish...
+~
+0 4104 0
+D2
+Justice Street~
+~
+0 -1 14253
+C 0
+S
+#14255
+{MPet Store Storage{x~
+You shouldn't be here. Go Away. Or I'll Tell.
+
+
+
+
+
+
+
+NOW!
+~
+0 12 0
+C 0
+S
+#14256
+{MHonor Avenue{x~
+You are strolling along a broad, clean avenue that runs directly north toward
+the Spaceport of Anonopolis. Occasionally a Cruiser or a Corvette launches
+from the grounds of the port, heading toward some distant planet, the light
+and noise almost blinding and deafening you. Only after several minutes can
+you concentrate enough to admire the sleek design of the interstellar craft
+arcing into a geostationary orbit high above, prior to entering hyperspace.
+~
+0 0 1
+D0
+The Spaceport~
+~
+0 -1 14257
+D2
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 14250
+C 0
+S
+#14257
+{MThe Spaceport{x~
+You have entered the grounds of the Spaceport. Most of the area is off-limits
+to non-authorised personell, for both security and safety reasons, but there
+are two buildings nearby that you are permitted to enter.
+~
+0 8 0
+D1
+~
+~
+0 -1 14258
+D2
+Honor Avenue~
+~
+0 -1 14256
+D3
+~
+~
+0 -1 14260
+C 0
+S
+#14258
+{MThe Offices of the Spaceport{x~
+On this level, the various administrative personnel of the Port rush to and
+fro, plotting and clearing flight paths and customs requirements for the
+massive cargo ships barely visible outside. On one of them you can faintly
+make out the name "Red Dwarf"...
+~
+0 8 0
+D3
+~
+~
+0 -1 14257
+D4
+~
+~
+0 -1 14259
+C 0
+S
+#14259
+{MThe Office of the Admin Head{x~
+The head of the Spaceport's offices are here. The head of the Spaceport is
+perhaps one of the most powerful people in the city, as he/she is in direct
+control of the passage and security clearances of the hundreds of craft that
+arrive at and depart from the spaceport every month. The head has a higher
+level of authority than the administrative heads of Anonopolis, and is
+answerable only to the President of Anon herself, or some of the more
+powerful Corporations.
+~
+0 8 0
+D5
+~
+~
+0 -1 14258
+C 0
+S
+#14260
+{MThe Spacer Bar{x~
+Here the grizzled veterans of hundreds of jumps (Hyperspace trips) gather to
+drink, tell tall tales and sing old space academy songs in between their
+trips. They don't mind the occasional visitor, as long as they don't drink
+their booze or stain their furniture.
+~
+0 8 0
+D1
+~
+~
+0 -1 14257
+C 0
+S
+#14261
+{MThe Corner of Liberty Lane and Valiant Street{x~
+You have entered the financial district of the city. Towering Multinational
+banks such as "First Anon" and "Chase Anonpolis" line the broad freeway
+that runs through here, as do the offices of several merchant banks and off- 
+planet investment firms.
+~
+0 0 1
+D0
+Liberty Lane~
+~
+0 -1 14239
+D1
+Valiant Street~
+~
+0 -1 14264
+D2
+The Bank~
+~
+0 -1 14262
+D3
+Valiant Street~
+~
+0 -1 14271
+C 0
+S
+#14262
+{MFirst Anon{x~
+You have entered a building obviously built by someone who is fabulously 
+wealthy. From the gold handles in the doors to the obsidian service counter
+and platinum wall fittings, everything is expensive and luxurious. There is
+a set of stairs leading up to the business area of the bank, where the ATMs
+are located.
+~
+0 8 0
+D0
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 14261
+D4
+The ATM~
+~
+0 -1 14263
+C 0
+S
+#14263
+{MThe ATM{x~
+There is an ATM in the wall directly opposite the stairs as you ascend.
+You see that there is a long queue and curse loudly. A few heads turn to
+stare at you but most people who come here are used to such outbursts. 
+Eventually its your turn. If you don't know what to do, read the instructions
+by looking at the ATM, and thus incur the wrath of the impatient patrons
+behind you :)
+~
+0 8 0
+E
+atm~
+A sign says-
+
+"Hello! Welcome to the First Anon ATM! To activate the machine, you
+ must press one of three buttons-
+
+ 1.To withdraw cash, type WITHDRAW <amount>, and your account will be
+   automatically debited while the money is transferred to you.
+ 2.To deposit cash, type DEPOSIT <amount>, and your account will be
+   automatically credited.
+ 3.To simply check your balance, type BALANCE.
+
+ Thank You and have a GOOD day, citizen! :)"
+
+~
+D5
+The Bank~
+~
+0 -1 14262
+C 0
+S
+#14264
+{MValiant Street{x~
+You are heading through a sector of the city which is filled with automated
+food and goods dispensers, of which you may avail yourself by heading south.
+A bunch of spotty teens suddenly burst out of one such establishment, and
+seconds later there is a loud explosion, and everyone in the street is pelted
+with burnt potato chips.
+~
+0 0 1
+D1
+Corner of Valiant Street and Glory Avenue~
+~
+0 -1 14206
+D2
+~
+~
+0 -1 14265
+D3
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 14261
+C 0
+S
+#14265
+{MAn Automated Shop{x~
+This place of business is staffed by a single Bot, which stands behind a
+reinforced plasteel wall, and politely asks what it is you wish to purchase.
+Several people gather outside, too poor to afford such goods, but curious as
+to exactly WHAT is for sale here...
+~
+0 8 0
+D0
+Valiant Street~
+~
+0 -1 14264
+C 0
+S
+#14266
+{MValiant Street{x~
+You are heading through a sector of the city which is filled with automated
+food and goods dispensers, of which you may avail yourself by heading south.
+Several wealthy businessmen suddenly emerge from a limousine, and march into
+one such place, emerging seconds later with a whining punk, whom they place 
+in the boot of their car before driving off. Wonder what that was all about?
+~
+0 0 1
+D1
+Corner of Stalwart Street and Glory Avenue~
+~
+0 -1 14268
+D2
+~
+~
+0 -1 14267
+D3
+Corner of Valiant Street and Glory Avenue~
+~
+0 -1 14206
+C 0
+S
+#14267
+{MAn Automated Shop{x~
+This place of business is staffed by a single Bot, which stands behind a
+reinforced plasteel wall, and politely asks what it is you wish to purchase.
+An impatient foreginer standing in line behind you demands that you hurry up 
+and choose.
+~
+0 8 0
+D0
+Valiant Street~
+~
+0 -1 14266
+C 0
+S
+#14268
+{MThe Corner of Stalwart Lane and Valiant Street{x~
+You are in a rather dirty (even by Anonopolis standards) area of the city.
+Tired-looking hookers are dragged back and forth by their pimps, who are in
+turn occasionally threatened by some bored-looking Sci cops on hoversleds.
+You keep clear of both parties and continue.
+There is a seedy-looking Bar to the south.
+~
+0 0 1
+D0
+Stalwart Lane~
+~
+0 -1 14243
+D1
+Valiant Street~
+~
+0 -1 14278
+D2
+The Bar~
+~
+0 -1 14269
+D3
+Valiant Street~
+~
+0 -1 14266
+C 0
+S
+#14269
+{MThe Bar{x~
+You have entered the main room of the Bar. A slick-looking Bartender with
+greasy black hair attempts to come on to the female patrons here. Seeing
+you he smiles and offers to make you a drink. A rather ugly crim accompanied
+by a man with a walrus face starts telling you how many systems he is wanted
+in, and you stifle a yawn as you decide what to drink. The bar extends to the
+south, toward a stage where several alien musicians are playing a catchy
+song.
+~
+0 8 0
+D0
+Corner of Valiant Street and Stalwart Lane~
+~
+0 -1 14268
+D2
+~
+~
+0 -1 14270
+C 0
+S
+#14270
+{MPrivate Booths{x~
+This is where the more unsavory customers come to negotiate drug deals,
+slave trading or prostitution. You get a few stares as you enter. Occasionally
+there is a sudden explosion, as one angry patron who has had a few too many
+decides to kill another, but no-one seems to mind. The band doesn't even
+skip a beat. You dodge an ugly green-skinned xenomoprh and a hairy behemoth
+as you look for a table.
+~
+0 9 0
+D0
+The Bar~
+~
+0 -1 14269
+C 0
+S
+#14271
+{MValiant Street{x~
+You are heading toward the military district. The concentration of Science
+Police on their hoversleds is much greater here, and you find yourself
+sweating under the scrutinizing gaze of several of them parked nearby.
+~
+0 0 1
+D1
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 14261
+D3
+Valiant Street~
+~
+0 -1 14272
+C 0
+S
+#14272
+{MValiant Street{x~
+You are heading toward the military district. The concentration of Science
+Police on their hoversleds is much greater here, and you find yourself
+sweating under the scrutinizing gaze of several of them parked nearby.
+~
+0 0 1
+D1
+Valiant Street~
+~
+0 -1 14271
+D3
+A Bend in Valiant Street~
+~
+0 -1 14273
+C 0
+S
+#14273
+{MA Bend in Valiant Street{x~
+The Science Police Headquarters lie due south of here. Few people go in there
+willingly, and even fewer come out again. Even as you watch, you hear the
+sound of blaster fire, and a sudden scream, followed by coarse laughter as
+yet another "suspect" suffers an "accidental death" during "interrogation".
+~
+0 0 1
+D1
+Valiant Street~
+~
+0 -1 14272
+D2
+~
+~
+0 -1 14274
+C 0
+S
+#14274
+{MOutside Science Police HQ{x~
+You are standing directly outside now. You sure you wanna go in there? Mind
+you, tough as you are, the Science Police will probably try and recruit you
+rather than arrest you...
+~
+0 0 1
+D0
+Valiant Street~
+~
+0 -1 14273
+D2
+The Dwarven Guild~
+~
+1 0 14275
+C 0
+S
+#14275
+{MInside Science Police HQ{x~
+Several cops pushing struggling suspected felons along shove their way past
+you as you enter, sparing you but a brief curious glance as they rush to
+get thier bonuses for meeting their weekly arrest quotas. Several men in
+dark suits whom the cops call "Lawyers" attempt to extricate their clients
+from their predicament, succeeding only when several thousand credits is
+exchanged with the arresting officer. You marvel at this city's concept of
+due process..
+~
+0 8 0
+D0
+Valiant Street~
+~
+1 0 14274
+D1
+~
+~
+0 -1 14277
+D2
+~
+~
+0 -1 14276
+C 0
+S
+#14276
+{MThe Captain's Room{x~
+The captain of the Science Police has his office here. He doesn't usually
+like intruders, but you are sufficently unusual to pique his interest. He
+invites you to sit down and share a cigar (synth of course, he's not THAT
+rich...)
+~
+0 8 0
+D0
+~
+~
+0 -1 14275
+C 0
+S
+#14277
+{MThe Officer's Rooms{x~
+In this room the off-duty Science Police congregate to swap stories, trade
+good synth-goods dealers' names, and discuss what they plan to do when they
+"get out". There are several faded WANTED posters on the wall, alongside
+some girly posters that have been partially covered with posters of nude men
+by the female officers. The room looks as if it hasn't really been cleaned
+properly in at least thirty years or more.
+~
+0 8 0
+D3
+~
+~
+0 -1 14275
+C 0
+S
+#14278
+{MValiant Street{x~
+You have entered a rather seedy area of town, the slums that line the eastern
+half of Valiant Street being legendary the world over. A haven for thieves,
+assassins, backstabbers, footpads and murderers of every description, it is
+a place where a quick mind and a quicker blaster will mean the difference
+between life and death.
+~
+0 1 1
+D1
+Valiant Street~
+~
+0 -1 14279
+D3
+Corner of Stalwart Lane and Valiant Street~
+~
+0 -1 14268
+C 0
+S
+#14279
+{MValiant Street{x~
+You have entered a rather seedy area of town, the slums that line the eastern
+half of Valiant Street being legendary the world over. A haven for thieves,
+assassins, backstabbers, footpads and murderers of every description, it is
+a place where a quick mind and a quicker blaster will mean the difference
+between life and death. Legend has it that this area has remained unchanged
+since the middle ages.
+~
+0 1 1
+D1
+A Bend in Valiant Street~
+~
+0 -1 14280
+D3
+Valiant Street~
+~
+0 -1 14278
+D4
+~
+~
+0 0 14330
+C 0
+S
+#14280
+{MA Bend in Valiant Street{x~
+You have entered a rather seedy area of town, the slums that line the eastern
+half of Valiant Street being legendary the world over. A haven for thieves,
+assassins, backstabbers, footpads and murderers of every description, it is
+a place where a quick mind and a quicker blaster will mean the difference
+between life and death. Legend has it that this area has remained unchanged
+since the middle ages.
+~
+0 1 1
+D2
+~
+~
+0 -1 14281
+D3
+Valiant Street~
+~
+0 -1 14279
+C 0
+S
+#14281
+{MOutside Rogues' Haven{x~
+You are standing outside the house of learning for all the rogues of the 
+city previously mentioned. The entrance to this shady establishment is 
+through a curtained archway to the south.
+~
+0 1 1
+D0
+Valiant Street above the Sewer~
+~
+0 -1 14280
+D2
+A Curtained Archway~
+curtain~
+1 0 14282
+C 0
+S
+#14282
+{MInside the Haven{x~
+You are standing inside the Haven, surrounded by whores, pimps, junkies
+crims, muggers and vagrants. What a nice place. The Master's rooms lie to 
+the south, while there is a Bar to the west...
+~
+0 9 0
+D0
+Valiant Street~
+~
+1 0 14281
+D2
+~
+~
+0 -1 14283
+D3
+Bar~
+~
+0 0 14284
+C 0
+S
+#14283
+{MThe Master{x~
+This small cubicle serves as a resting area for the Master of the Haven. He
+prefers small, cramped quarters as he grew up in the sewers, and wide, open
+spaces make him feel decidenly uneasy.
+~
+0 9 0
+D0
+Inside the Haven~
+~
+0 -1 14282
+C 0
+S
+#14284
+{MThe Bar{x~
+You have entered a seedy bar full of low-lifes of the lowest common
+denominator. A greasy bartender serves drinks to the sullen patrons, while
+in the corner a couple of spacers are roughing up a smuggler who refused to 
+pay up upon losing the last hand in poker.
+~
+0 9 0
+D1
+~
+~
+0 -1 14282
+C 0
+S
+#14285
+{MEnd of Justice Street{x~
+You are standing outside Psi Police headquarters, home of that other arm of
+the Law in Anonopolis, the Psi Police. Independant of the Science Police,
+the Psi Police are actually a decent bunch, as they answer to an independant
+body of international law makers that even the Corporations don't dare to
+cross, rather than the many people that the Sci cops are paid off by.
+~
+0 0 1
+D0
+Psi Police HQ~
+~
+0 -1 14289
+D1
+Justice Street~
+~
+0 -1 14245
+D3
+~
+~
+0 0 14299
+C 0
+S
+#14286
+{MThe Wreckball Arena{x~
+You have entered a Wreckball arena, where the most popular and bloody sport
+even known to anyone is played. Wreckball has but one rule- get your ball
+past the opponent's goal line. Absolutely any means are allowed to be used
+to achieve this. To prove this point, you are suddenly forced to duck as a
+head comes sailing past you from the playing pit to the south. Audience
+members, disappointed as missing out on the juicy spectacle, angrily demand
+that you sit down or get out.
+~
+0 8 0
+D0
+~
+~
+0 -1 14287
+D2
+~
+~
+0 -1 14288
+D3
+Justice Street~
+~
+0 -1 14294
+C 0
+S
+#14287
+{MThe Locker Rooms{x~
+Locker rooms are never a pretty sight, and this one is no exception. If you
+are really curious, go to your local gym, look in the locker room, multiply
+the mess and the smell by one thousand or so, and you have a Wreckball
+team's locker room.
+~
+0 8 0
+D2
+~
+~
+0 -1 14286
+C 0
+S
+#14288
+{MThe Pit{x~
+Wreckball is played in a plasteel pit lined with razor blades about half the
+size of your regular football field and about ten meters deep. Players are
+lowered in via hoversleds by the armored RefBots, and then play commences
+thirty seconds after the indestructible titanium ball is dropped in. The
+match lasts exactly one hour- no time-outs, no intervals, no breaks, no
+half-time entertainment. Just one hour of pure, unbridled bloodshed and
+carnage. You force yourself to stop drooling and enjoy the game.
+~
+0 8 0
+D0
+~
+~
+0 -1 14286
+C 0
+S
+#14289
+{MInside Psi Police HQ{x~
+You have entered the neat, orderly offices of Psi Police HQ. Quiet, well-
+dressed staff smile at you as they pass bearing records or discs with info
+on the latest crims or designer drugs.
+~
+0 8 0
+D0
+~
+~
+0 -1 14291
+D2
+Justice Street~
+~
+0 -1 14285
+D3
+~
+~
+0 -1 14290
+C 0
+S
+#14290
+{MOffices{x~
+Clerks and off-duty officers are kept busy here maintaining the huge database
+that the Psi Police maintain on the lowlifes of Anonopolis. Had they the
+manpower, the Psi Police would probably go for the most dangerous and
+ruthless crims they could, i.e, the heads of the Corporations, but as it is
+they are limited to murderers, rapists, thieves and excessively corrupt 
+Science Police.
+~
+0 8 0
+D1
+~
+~
+0 -1 14289
+C 0
+S
+#14291
+{MThe Captain's Office{x~
+The head of the Psi Police resides in this small, spartan office. She is
+quietly perusing the latest arrest records as you enter, but she quickly puts 
+them down and asks how she can be of service.
+~
+0 8 0
+D2
+~
+~
+0 -1 14289
+C 0
+S
+#14292
+{MJustice Street{x~
+You are strolling along a rather typical Anonopolis street- dirty bikers
+crowd their way past meek citizens into seedy diners while bored hookers
+make feeble attempts to seduce passing motorists. Street kids hold their
+hands out for credits, while their older brethren mug and beat up on older
+citizens nearby.
+~
+0 0 1
+D1
+Justice Street~
+~
+0 -1 14293
+D3
+Corner of Justice Street and Stalwart Lane~
+~
+0 -1 14253
+C 0
+S
+#14293
+{MJustice Street{x~
+You are strolling along a rather typical Anonopolis street- dirty bikers
+crowd their way past meek citizens into seedy diners while bored hookers
+make feeble attempts to seduce passing motorists. Street kids hold their
+hands out for credits, while their older brethren mug and beat up on older
+citizens nearby. There is a huge crowd gathered to the east.
+~
+0 0 1
+D1
+Justice Street~
+~
+0 -1 14294
+D3
+Justice Street~
+~
+0 -1 14292
+C 0
+S
+#14294
+{MOutside the Wreckball Arena{x~
+You are outside the Wreckball Arena, where tens of thousands of patrons stand
+both inside and out, in support of their favorite sport. You curse and swear
+as you force your way past the chanting and cheering throng amassed outside,
+who are watching the match within on a huge Vidscreen. Nearing the door, you
+see two rather timid-looking rent-a-cops, who decide you are too mean-looking
+to mess with and agree to let you in for free, if you want to go in.
+~
+0 0 1
+D0
+~
+~
+0 -1 14295
+D1
+~
+~
+0 -1 14286
+D3
+Justice Street~
+~
+0 -1 14293
+C 0
+S
+#14295
+{MOutside Tech Academy{x~
+You are standing outside the building which houses the principal source of
+tertiary education in Anonopolis- the Tech Academy. Well-dressed students
+file past you, too engrossed in technical conversations to pay any attention
+to you.
+~
+0 0 1
+D0
+~
+~
+0 -1 14296
+D2
+~
+~
+0 -1 14294
+C 0
+S
+#14296
+{MInside the Academy{x~
+You have entered the grounds of the Academy. From here you may go up to the
+classrooms, or downstairs to the shop rooms.
+~
+0 8 0
+D2
+~
+~
+0 -1 14295
+D4
+~
+~
+0 -1 14298
+D5
+~
+~
+0 -1 14297
+C 0
+S
+#14297
+{MShop{x~
+This is where the students take shop, and are taught skills such as 
+electronics, mechanics, cybernetics and needlework (seriously- it is 
+thought to greatly improve levels of concentration and manual dexterity).
+~
+0 8 0
+D4
+~
+~
+0 -1 14296
+C 0
+S
+#14298
+{MA Classroom{x~
+The head of the Academy himself is here taking a class in robotics. He won't
+appreciate being disturbed.
+~
+0 8 0
+D5
+~
+~
+0 -1 14296
+C 0
+S
+#14299
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free of
+debris.  Lots of people pass you as you walk along, marvelling at the
+well-kept path.  
+~
+0 0 13
+D0
+~
+~
+0 0 14300
+D1
+~
+~
+0 0 14285
+C 0
+S
+#14300
+{MRoadway{x~
+The clear roadway continues, leading somewhere well-traveled.  People
+here seem friendly, at any rate.  
+~
+0 0 13
+D2
+~
+~
+0 0 14299
+D3
+~
+~
+0 0 14301
+C 0
+S
+#14301
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free of
+debris.  Well-trimmed growth lines the path, and everything seems green and
+taken care of.  
+~
+0 0 13
+D1
+~
+~
+0 0 14300
+D3
+~
+~
+0 0 14302
+C 0
+S
+#14302
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D0
+~
+~
+0 0 14303
+D1
+~
+~
+0 0 14301
+C 0
+S
+#14303
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D0
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14302
+C 0
+S
+#14304
+{MRoadway{X~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D2
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14305
+C 0
+S
+#14305
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D0
+~
+~
+0 0 14306
+D1
+~
+~
+0 0 14304
+C 0
+S
+#14306
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D0
+~
+~
+0 0 14307
+D2
+~
+~
+0 0 14305
+C 0
+S
+#14307
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D0
+~
+~
+0 0 14308
+D2
+~
+~
+0 0 14306
+C 0
+S
+#14308
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D2
+~
+~
+0 0 14307
+D3
+~
+~
+0 0 14309
+C 0
+S
+#14309
+{MRoadway{x~
+This is a very well-traveled path.  The road is smooth, and free
+of;debris.  Well-trimmed growth lines the path, and everything seems green
+and taken care of.  
+~
+0 0 13
+D1
+~
+~
+0 0 14308
+C 0
+S
+#14310
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D0
+~
+~
+0 0 14311
+C 0
+S
+#14311
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D0
+~
+~
+0 0 14223
+D1
+~
+~
+0 0 14312
+D2
+~
+~
+0 0 14310
+C 0
+S
+#14312
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and
+astench of old mold fills the air.  
+~
+0 0 13
+D1
+~
+~
+0 0 14313
+D3
+~
+~
+0 0 14311
+C 0
+S
+#14313
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D1
+~
+~
+0 0 14314
+D3
+~
+~
+0 0 14312
+C 0
+S
+#14314
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D1
+~
+~
+0 0 14315
+D3
+~
+~
+0 0 14313
+C 0
+S
+#14315
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D1
+~
+~
+0 0 14316
+D3
+~
+~
+0 0 14314
+C 0
+S
+#14316
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D0
+~
+~
+0 0 14317
+D3
+~
+~
+0 0 14315
+C 0
+S
+#14317
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D0
+~
+~
+0 0 14318
+D2
+~
+~
+0 0 14316
+C 0
+S
+#14318
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D0
+~
+~
+0 0 14319
+D2
+~
+~
+0 0 14317
+C 0
+S
+#14319
+{MOvergrown Path{x~
+This path seems neglected, like no one ever goes down this way..  Or
+maybe never comes back.  Long trails of discolored ivy cover the path, and a
+stench of old mold fills the air.  
+~
+0 0 13
+D2
+~
+~
+0 0 14318
+C 0
+S
+#14320
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14321
+D2
+~
+~
+0 0 14220
+C 0
+S
+#14321
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D2
+~
+~
+0 0 14320
+D3
+~
+~
+0 0 14322
+C 0
+S
+#14322
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14323
+D1
+~
+~
+0 0 14321
+C 0
+S
+#14323
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14324
+D2
+~
+~
+0 0 14322
+C 0
+S
+#14324
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14325
+D2
+~
+~
+0 0 14323
+C 0
+S
+#14325
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D2
+~
+~
+0 0 14324
+D3
+~
+~
+0 0 14326
+C 0
+S
+#14326
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14327
+D1
+~
+~
+0 0 14325
+C 0
+S
+#14327
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D0
+~
+~
+0 0 14328
+D2
+~
+~
+0 0 14326
+C 0
+S
+#14328
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D1
+~
+~
+0 0 14329
+D2
+~
+~
+0 0 14327
+C 0
+S
+#14329
+{MForested Way{x~
+Tall trees border this path, almost blocking out the sun overhead.  This
+path is pleasant, and well-maintained.  
+~
+0 0 13
+D3
+~
+~
+0 0 14328
+C 0
+S
+#14330
+{MUp, up and away...{x~
+As you soar above the city of Anonopolis, you start wondering where this
+path will take you.  It seems to lead up to the very heavens.  
+~
+0 4 13
+D2
+~
+~
+0 0 14331
+D5
+~
+~
+0 0 14279
+C 0
+S
+#14331
+{MUp, up and away...{x~
+As you soar above the city of Anonopolis, you start wondering where this
+path will take you.  It seems to lead up to the very heavens.  
+~
+0 0 13
+D0
+~
+~
+0 0 14330
+D2
+~
+~
+0 0 14332
+C 0
+S
+#14332
+{MUp, up and away...{x~
+As you soar above the city of Anonopolis, you start wondering where this
+path will take you.  It seems to lead up to the very heavens.  
+~
+0 0 13
+D0
+~
+~
+0 0 14331
+D2
+~
+~
+0 0 14333
+C 0
+S
+#14333
+{MUp, up and away...{x~
+Wow, you have reached the stars!  To the west you spy a whole galaxy,
+just waiting for exploration.  To the east there seems to be a rather large
+moon.  
+~
+0 0 13
+D0
+~
+~
+0 0 14332
+D1
+~
+~
+0 0 14334
+C 0
+S
+#14334
+{MPath to the Moon{x~
+To the north you can see the moon's surface.  South and west lies the
+rest of the galaxy.  
+~
+0 0 13
+D3
+~
+~
+0 0 14333
+C 0
+S
+#14335
+{MPath to Anon{x~
+This is the path to the City of Anon.  Tall trees overshadow the way, and
+a cool breeze dries the sweat on your face.  This long walk had better be
+worth the effort!  
+~
+0 0 13
+D2
+~
+~
+0 0 14225
+D3
+~
+~
+0 0 31481
+C 0
+S
+#14336
+{MStrange Path{x~
+This is a very strange path.  Sounds of lasers crossing echo down the
+path, and was that an Ewok that just went running by?  
+~
+0 4 13
+C 0
+S
+#14337
+{MWildly Forested Path{x~
+The terrain changes abruptly here, and you suddenly feel hot and sticky
+from the humid air.  Wild jungle sounds echo around you and roars seem to
+surround you.  
+~
+0 4 13
+C 0
+S
+#14339
+{MHoney's own path{x~
+This seems to be a happy path.  To the north you spy the entrance to
+Honey's Holodecks, and to the east is Honey's Love Shack.  
+~
+0 0 13
+D3
+~
+~
+0 0 14199
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 14200 spec_cast_adept
+M 14213 spec_thief
+M 14217 spec_thief
+M 14223 spec_executioner
+M 14234 spec_thief
+M 14235 spec_janitor
+M 14236 spec_thief
+M 14239 spec_thief
+M 14240 spec_fido
+M 14241 spec_fido
+M 14243 spec_guard
+M 14244 spec_guard
+M 14245 spec_guard
+S
+
+
+
+#RESETS
+D 0 14281 2 1
+M 0 14223 1 14200 1
+E 0 14229 0 6
+O 0 14228 0 14200
+O 0 14220 0 14200
+M 0 14243 8 14200 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14200 1 14201 1
+O 0 14241 0 14201
+M 0 14242 6 14206 6
+O 0 14220 0 14211
+M 0 14238 3 14211 3
+M 0 14234 3 14212 3
+M 0 14233 3 14213 3
+M 0 14245 8 14215 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14245 8 14216 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14201 1 14236 1
+M 0 14214 1 14236 1
+M 0 14231 1 14238 1
+E 0 14230 0 16
+M 0 14202 1 14240 1
+M 0 14203 1 14242 1
+G 0 14219 0
+G 0 14218 0
+G 0 14217 0
+G 0 14216 0
+G 0 14221 0
+G 0 14215 0
+G 0 14214 0
+G 0 14213 0
+G 0 14212 0
+M 0 14203 1 14244 1
+G 0 14216 0
+G 0 14217 0
+G 0 14218 0
+G 0 14219 0
+G 0 14221 0
+G 0 14212 0
+G 0 14213 0
+G 0 14214 0
+G 0 14215 0
+M 0 14243 8 14245 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14204 1 14246 1
+M 0 14246 1 14247 1
+M 0 14247 1 14247 1
+M 0 14248 1 14247 1
+M 0 14249 1 14247 1
+M 0 14250 1 14247 1
+M 0 14251 1 14247 1
+M 0 14205 1 14249 1
+G 0 14239 0
+G 0 14227 0
+G 0 14240 0
+G 0 14209 0
+G 0 14208 0
+M 0 14240 8 14250 8
+M 0 14206 1 14252 1
+G 0 14208 0
+M 0 14244 8 14253 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14207 1 14254 1
+M 0 14218 1 14255 1
+M 0 14219 1 14255 1
+M 0 14220 1 14255 1
+M 0 14221 1 14255 1
+M 0 14222 1 14255 1
+M 0 14208 1 14259 1
+M 0 14215 1 14260 1
+M 0 14233 3 14264 3
+M 0 14209 1 14265 1
+G 0 14211 0
+G 0 14207 0
+G 0 14210 0
+G 0 14206 0
+M 0 14210 1 14267 1
+G 0 14225 0
+G 0 14224 0
+G 0 14222 0
+G 0 14223 0
+M 0 14243 8 14268 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14211 1 14269 1
+G 0 14226 0
+G 0 14201 0
+G 0 14205 0
+G 0 14204 0
+G 0 14202 0
+G 0 14203 0
+M 0 14237 6 14270 6
+M 0 14235 6 14272 6
+M 0 14232 3 14273 3
+M 0 14244 8 14273 8
+E 0 14232 0 16
+E 0 14233 0 5
+E 0 14234 0 14
+E 0 14234 0 15
+E 0 14235 0 3
+E 0 14236 0 6
+E 0 14237 0 11
+E 0 14238 0 17
+M 0 14212 1 14276 1
+M 0 14216 1 14277 1
+M 0 14224 1 14278 1
+G 0 14227 0
+M 0 14236 8 14279 8
+E 0 14231 0 16
+M 0 14241 6 14280 6
+M 0 14239 2 14281 2
+M 0 14213 1 14283 1
+E 0 14242 0 16
+M 0 14217 1 14284 1
+M 0 14226 1 14287 1
+M 0 14229 1 14288 1
+M 0 14228 1 14290 1
+M 0 14225 1 14291 1
+M 0 14232 3 14293 3
+M 0 14230 1 14297 1
+M 0 14227 1 14298 1
+S
+
+
+
+#SHOPS
+14203 5 9 0 0 0 150 50 0 23
+14204 0 0 0 0 0 150 50 0 23
+14205 2 3 4 10 26 150 50 0 23
+14206 0 0 0 0 0 130 80 1 23
+14207 0 0 0 0 0 150 50 0 23
+14209 15 13 8 1 18 150 50 0 23
+14210 19 0 0 0 0 180 20 0 23
+14211 17 0 0 0 0 180 20 0 23
+14224 5 9 10 15 18 180 20 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,850 @@
+#PLAYER
+Name Trixie~
+Id   1096828367
+LogO 1110688819
+Vers 5
+Prom ::%h/%H %m/%M %v/%V:: %X ~
+Race Elf~
+Sex  2
+Cla  1
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 24
+OldLvl 24
+Sec  0
+Plyd 93914
+Scro 33
+Room 3054
+HMV  265 265 259 259 228 238
+Gold 159
+Silv 3349
+Gold_bank 15500
+Silv_bank 250000
+Shares 0
+Share_level 24
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  33612
+QuestPnts 1513
+PAct  CDGHQTd
+AfBy JTVe
+WName Trixie~
+Comm FNO
+RaceChan 0
+Deaf ADH
+Pos  4
+Prac 7
+Trai 10
+Save  -62
+Alig  1000
+Hit   260
+Dam   117
+ACs -299 -300 -302 -222
+Attr 15 19 21 14 16
+AMod 4 1 2 11 0
+Pass TrUq5UV44OwcI~
+Titl  : Bigger...faster...stronger...TRIXIE-ER!~
+Pnts 48
+TSex 2
+PSize 1
+LLev 26
+HMVP 225 239 238
+Cnd  0 48 48 40
+Alias ser cast 'cure serious'~
+Alias opn open north~
+Alias ops open south~
+Alias ope open east~
+Alias opw open west~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'cure light'
+Sk 1 'cause light'
+Sk 75 'cure blindness'
+Sk 77 'bless'
+Sk 1 'cause serious'
+Sk 78 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 75 'earthquake'
+Sk 1 'cause critical'
+Sk 67 'cure critical'
+Sk 67 'cure disease'
+Sk 1 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'harm'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 75 'armor'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'dispel magic'
+Sk 67 'fly'
+Sk 1 'gate'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'refresh'
+Sk 75 'sanctuary'
+Sk 1 'energy shield'
+Sk 75 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 89 'mace'
+Sk 34 'haggle'
+Sk 1 'hide'
+Sk 48 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'curative'
+Gr 'harmful'
+Gr 'healing'
+Gr 'full protective'
+Gr 'cleric transport'
+Affc 'giant strength'   0 490 462   4   1          0
+Affc 'fly'   0 492 465   0   0     524288
+Affc 'stone skin'   0 490 462 -40  17          0
+Affc 'combat mind'   0 495 128 100  19          0
+Affc 'combat mind'   0 492 128 -255  17          0
+Affc 'combat mind'   0 491 128 100  18          0
+Affc 'bless'   0 493 212 -62  20          0
+Affc 'bless'   0 486 212 125  18          0
+Affc 'haste'   0 489  87   4   2    2097152
+Affc 'golden aura'   0 491  73   0   0 1073741824
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 0
+Wear 9
+Cost 800
+End
+
+#O
+Vnum 4268
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4270
+Nest 0
+Cond 0
+Wear 8
+Cost 2850
+End
+
+#O
+Vnum 4274
+Nest 0
+Cond 0
+Wear 10
+Cost 2150
+End
+
+#O
+Vnum 4278
+Nest 0
+Cond 0
+Wear 13
+Cost 1990
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 7300
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  60 1 0 6 100
+End
+
+#O
+Vnum 2013
+Nest 1
+Cond 0
+Wear -1
+Cost 2200
+Spell 3 'colour spray'
+End
+
+#O
+Vnum 1363
+Nest 1
+Cond 0
+Wear -1
+Time 953
+Cost 1530
+Spell 1 'enchant weapon'
+End
+
+#O
+Vnum 13208
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8804
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 8802
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8803
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 0
+Wear -1
+Cost 3670
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 293
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 1104
+Nest 0
+Cond 0
+Wear -1
+Cost 1320
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 16070
+Nest 0
+Cond 0
+Wear 6
+Cost 3670
+End
+
+#O
+Vnum 8123
+Nest 0
+Cond 0
+Wear 11
+Cost 4240
+End
+
+#O
+Vnum 8140
+Nest 0
+Cond 0
+Wear -1
+Time 917
+Cost 3250
+Spell 1 'heal'
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 8141
+Nest 1
+Cond 0
+Wear -1
+Time 524
+Cost 3250
+Spell 1 'heal'
+End
+
+#O
+Vnum 8141
+Nest 1
+Cond 0
+Wear -1
+Time 714
+Cost 3250
+Spell 1 'heal'
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 1100
+Nest 1
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 16043
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 80
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 81
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'combat mind'
+Spell 2 'bless'
+Spell 3 'armor'
+End
+
+#O
+Vnum 81
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'combat mind'
+Spell 2 'bless'
+Spell 3 'armor'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 16069
+Nest 0
+Cond 0
+Wear 4
+Cost 3299
+End
+
+#O
+Vnum 10209
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 1391
+Nest 0
+Cond 0
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 1392
+Nest 0
+Cond 0
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 1382
+Nest 0
+Cond 0
+Wear -1
+Cost 2900
+End
+
+#O
+Vnum 1384
+Nest 0
+Cond 0
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 1386
+Nest 0
+Cond 0
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 14212
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  6
+Cost 200
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1   5  -1   1  18          0
+Affc 'reserved'   1   5  -1   2  19          0
+End
+
+#END

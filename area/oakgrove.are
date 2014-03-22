@@ -1,0 +1,1034 @@
+#AREADATA
+Name Oak Grove~
+Builders Honey~
+VNUMs 13200 13249
+Credits 5 -  15~
+Security 8
+Flags F
+LEVELs 6 17
+End
+
+
+
+#MOBILES
+#13200
+Mayor Benson~
+Mayor Benson~
+{cMayor Benson is sitting here doing paperwork.{x
+~
+You see the Mayor of Oak Grove sitting here doing paperwork at
+his desk.  He looks up as you enter, obviously displeased at
+the interruption.
+~
+Human~
+ABGT CD 900 0
+0
+17 0 3d9+258 1d10+100 3d4+4 slice
+-3 -3 -3 -1
+FK B 0 0
+stand stand male 1700
+AHMV ABCDEFGHIJKMV medium unknown
+#13201
+Miss Simpson~
+Miss Simpson~
+{cMiss Simpson is sitting here.{x
+~
+You see a small brunette female sitting here.  She is the
+secretary to the mayor of Oak Grove.  She looks up at you
+and smiles as you enter the room.
+~
+Human~
+ABCGT 0 700 0
+0
+13 0 2d10+150 1d10+100 2d5+3 slash
+-1 -1 -1 0
+FI 0 B 0
+stand stand female 1300
+AHMV ABCDEFGHIJKMV medium unknown
+#13202
+Bulldog dog~
+A Bulldog~
+{cA barking Bulldog is here.{x
+~
+You see a medium size bulldog sitting here barking at
+you.  It seems well fed, but still you wonder if it
+might attack you if unhindered.
+~
+dog~
+ACFGH 0 0 0
+0
+6 0 2d8+71 1d10+100 1d7+1 stab
+4 4 4 6
+FHIKR 0 0 0
+stand stand none 600
+AGV ACDEFGHJKUV small unknown
+#13203
+Doberman dog~
+A Doberman~
+{cA large doberman is here.{x
+~
+You see a large doberman here barking along with the
+other dogs.  It seems well fed, however you still wonder
+if it would attack you if unhindered.
+~
+dog~
+ACFGH 0 0 0
+0
+6 0 2d132+71 1d10+100 1d7+1 stab
+4 4 4 6
+FHIKR 0 0 0
+stand stand none 600
+AGV ACDEFGHJKUV small unknown
+#13204
+Alley Cat~
+An Alley Cat~
+{cAn alley cat is yowling here.{x
+~
+You see a medium sized cat here.  It is orange in color
+with spots of brown.  It seems well fed, however you 
+wonder if it would attack you if unhindered.
+~
+cat~
+ACFGH Z 0 0
+0
+6 0 2d8+71 1d10+100 1d7+1 stab
+4 4 4 6
+FHIKR 0 0 0
+stand stand none 600
+AGV ACDEFGHJKQUV small unknown
+#13205
+School Teacher~
+A School Teacher~
+{cA school teacher is here looking over homework.{x
+~
+This elven female is sitting behind her desk correcting
+her student's homework.  She seems young, however
+being an elf it's hard to tell what her age might be.
+Her hair is long and auburn in color.  You can't tell
+the color of her eyes as she is looking down.  Around
+her wrist you can see a silver charm bracelet.
+~
+Elf~
+ABGR FJV 600 0
+0
+10 0 3d7+121 1d10+100 2d4+2 stab
+1 1 1 3
+DEFI 0 BPQ Z
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#13206
+Sleepy Dwarven Student~
+A Sleepy Dwarven Student~
+{cA dwarven student is here falling asleep in class.{x
+~
+This dwarven child must be quite bored with the 
+lessons today, as they're falling asleep in class.
+~
+Dwarf~
+AGT FJ 100 0
+0
+7 0 2d6+85 1d10+100 1d8+1 slash
+4 4 4 6
+CFJP L CLOQ PR
+stand stand none 700
+AHMV ABCDEFGHIJKMV small unknown
+#13207
+Student Teacher's Pet~
+The Teacher's Pet~
+{cThe teacher's pet is here polishing an apple for the teacher.{x
+~
+You can see the smug look on this child's face.  She
+knows that she is the teacher's pet.  She's holding 
+an apple and shining it up to give to the teacher.
+~
+Human~
+AGH 0 0 0
+0
+13 0 2d7+96 1d10+100 1d7+2 slice
+3 3 3 5
+CFHI 0 0 0
+stand stand female 800
+AHMV ABCDEFGHIJKMV small unknown
+#13208
+Bright Student~
+A Bright Student~
+{cA student is intently doing his classwork.{x
+~
+You see a small child sitting at his desk doing his
+schoolwork.  There is nothing really to note of his
+appearance with the exception of a sparkling silver
+ring on his finger.
+~
+Human~
+AGH 0 0 0
+0
+8 0 2d7+96 1d10+100 1d7+2 stab
+3 3 3 5
+FIK 0 E 0
+stand stand male 800
+AHMV ABCDEFGHIJKMV small unknown
+#13209
+Screaming Brat~
+A Screaming Brat~
+{cA screaming brat is running around the playground.{x
+~
+This child is yelling and running around the
+playground after other students.
+~
+unique~
+ACGH 0 0 0
+0
+7 0 2d6+85 1d10+100 1d8+1 slash
+4 4 4 6
+CFJP 0 C 0
+stand stand none 700
+0 0 small unknown
+#13210
+Playground Monitor~
+A Playground Monitor~
+{cA playground monitor is looking after the children here.{x
+~
+This young man is in charge of the children's safety as
+they play in the playground.  He seems quite bored with
+his job, however, and checking the time on his gold watch.
+~
+Human~
+ABG 0 300 0
+0
+10 0 3d7+121 1d10+100 2d4+2 slice
+1 1 1 3
+DFIKP 0 B 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#13211
+Dwarven Citizen~
+A Dwarven Citizen~
+{cA dwarven citizen is here.{x
+~
+This citizen of Oak Grove is cleaning her home as you
+enter.  She seems to be middle aged, for a dwarf at
+least, and sturdily built as well as a tidy housekeeper.
+~
+Dwarf~
+ACG DFJ 300 0
+0
+10 0 3d7+121 1d10+100 2d4+2 slice
+1 1 1 3
+DEFJ L BLOQ PR
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#13212
+Elven Citizen~
+An Elven Citizen~
+{cAn elven citizen is here.{x
+~
+This citizen of Oak Grove is lighting some candles on
+the hearth as you enter.  He eyes you suspiciously as
+you enter his home unannounced.
+~
+Elf~
+ACGH FJ 0 0
+0
+7 0 2d6+85 1d10+100 1d8+1 slash
+4 4 4 6
+CFJP 0 BCPQ Z
+stand stand none 700
+AHMV ABCDEFGHIJKMV small unknown
+#13213
+Barkeeper~
+The Barkeeper~
+{cA dwarven barkeeper stands here.{x
+~
+This sturdily built dwarf is serving drinks here in
+the "Rose and Crown Pub".  You can see he has a short
+sword in a scabbard under his apron, and you wonder if
+there is trouble here often.
+~
+Dwarf~
+ABGT FJ -200 0
+0
+12 0 2d7+121 1d10+100 2d4+2 slice
+0 0 0 2
+CDFJ L BLOQ PR
+stand stand male 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#13214
+Rowdy Patron~
+A Rowdy Patron~
+{cA rowdy patron is here.{x
+~
+This man is quite drunk and causing a commotion in
+the pub.  He's yelling "One more time" at the top
+of his lungs.  You have no idea what he means, nor
+do any of the other patrons in the pub.
+~
+Human~
+ACH I -300 0
+0
+11 0 2d8+134 1d10+100 1d10+2 slice
+1 1 1 3
+CDI 0 0 0
+stand stand male 1100
+AHMV ABCDEFGHIJKMV medium unknown
+#13215
+Pick Pocket man~
+A Pick Pocket~
+{cA man dressed in black hides among the shadows here.{x
+~
+You don't notice him at first, but upon second glance
+you see this small elven man dressed in black staying
+among the shadows.  His eyes shift back and forth
+between all the patrons in the bar, making sure he knows
+what everyone is doing at all times.
+~
+Elf~
+ACGS FJV -300 0
+0
+10 0 3d7+121 1d10+100 2d4+2 stab
+1 1 1 3
+BFHK 0 BPQ Z
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#13216
+Female Elf ~
+A Female Elf~
+{cAn elven female is picnicing here with her family.{x
+~
+This elven female is putting out food for a picnic
+with her family.  She is holding a pitcher of some
+type of liquid, which she is pouring into cups.
+~
+Elf~
+AGH FJV 0 0
+0
+10 0 3d7+121 1d10+100 2d4+2 stab
+1 1 1 3
+DEFI 0 BPQ Z
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#13217
+Male Elf~
+A Male Elf~
+{cA elven male is picnicing here with his family.{x
+~
+This elven male is sitting at a picnic table munching
+on a turkey drumstick.
+~
+Elf~
+AGH FJ 0 0
+0
+12 0 2d7+121 1d10+100 2d4+2 slash
+0 0 0 2
+DFJ 0 BPQ Z
+stand stand male 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#13218
+Elven Child~
+An Elven Child~
+{cAn elven child is here picnicing with her family.{x
+~
+This small elven child is playing with a toy duck
+while waiting for her mother to serve the food for
+her picnic lunch.
+~
+Elf~
+ACGH FJ 0 0
+0
+7 0 2d6+85 1d10+100 1d8+1 slash
+4 4 4 6
+FHK 0 BCPQ Z
+stand stand none 700
+AHMV ABCDEFGHIJKMV small unknown
+#13219
+Shopkeeper~
+A Shopkeeper~
+{cA shopkeeper is here to help you with your toy selection.{x
+~
+This kindly old dwarven shopkeeper stands behind the
+counter, waiting to assist you with your toy selection.
+He is the creator of the carved wooden toys you see on
+the shelves here, and is very proud of his handywork.
+~
+Dwarf~
+ABG CDEFHJ 800 0
+0
+35 1 10d10+1300 1d10+100 4d7+11 slice
+-11 -11 -11 -10
+CDEFJK ABDL LOQ PR
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#13220
+Acolyte~
+An Acolyte of Lan~
+{cAn acolyte of Lan is here to heal you.{x
+~
+This kindly man is an acolyte of Lan.  He has a very
+tiring job of healing all the newbies for free. ;)
+~
+Elf~
+ABQab FHJ 1000 0
+0
+30 1 6d12+853 1d10+500 4d6+8 slash
+-9 -9 -9 -7
+EFHIK ABCD BPQ Z
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#13221
+Sleeping Drunk~
+A Sleeping Drunk~
+{cA drunk is here slumped over the bar, asleep.{x
+~
+This man has had way too much to drink and he is
+passed out over the bar snoring away.
+~
+Human~
+AGH 0 0 0
+0
+7 0 2d6+85 1d10+100 1d8+1 slice
+4 4 4 6
+DEI 0 0 0
+stand stand none 700
+AHMV ABCDEFGHIJKMV small unknown
+#0
+
+
+
+#OBJECTS
+#13200
+City Key~
+A City Key~
+A key to the city of Oak Grove lies here.~
+SELECT_A_MATERIAL treasure AG AO
+0 0 0 0 0
+15 1 500 G
+A
+1 2
+A
+5 1
+#13201
+Calligraphy Pen~
+A Calligraphy Pen~
+A calligraphy pen lies here.~
+SELECT_A_MATERIAL weapon B AN
+dagger 4 5 stab 0
+10 7 1000 G
+#13202
+Charm Bracelet~
+A Charm Bracelet~
+A silver charm bracelet is here.~
+SELECT_A_MATERIAL armor A AM
+C AC AB B 0
+8 3 500 G
+A
+4 1
+#13203
+Shiny Apple~
+A Shiny Apple~
+A shiny apple lies here.~
+SELECT_A_MATERIAL food 0 A
+CD 0 0 0 0
+0 1 100 G
+#13204
+Sparkling Ring~
+A Sparkling Ring~
+A sparkling silver ring is here.~
+SELECT_A_MATERIAL armor A AB
+C AB AC BC 0
+6 1 500 G
+A
+4 1
+#13205
+Gold Watch~
+A Gold Watch~
+A gold watch is ticking softly here.~
+SELECT_A_MATERIAL armor A AM
+AC BC AC AB 0
+8 2 500 G
+A
+12 10
+#13206
+Short Sword~
+A Short Sword~
+A gleaming short sword lies here.~
+IRON weapon A AN
+sword 5 5 slash 0
+10 50 1000 G
+#13207
+Pitcher of Lemonade~
+A Pitcher of Lemonade~
+A pitcher full of lemonade is here.~
+SELECT_A_MATERIAL drink 0 A
+50 50 'lemonade' 0 0
+0 1 250 G
+#13208
+Turkey Drumstick~
+A Turkey Drumstick~
+A turkey drumstick is here.~
+SELECT_A_MATERIAL food 0 A
+CD 0 0 0 0
+0 1 200 G
+#13209
+Toy Duck~
+A Toy Duck~
+A carved wooden toy duck is here.~
+SELECT_A_MATERIAL armor 0 AO
+AB C AC C 0
+1 1 100 G
+A
+2 1
+#13210
+Toy Train~
+A Toy Train~
+A carved wooden toy train is here.~
+SELECT_A_MATERIAL armor 0 AO
+C AB BC B 0
+1 1 125 G
+A
+13 5
+#13211
+Teddy Bear~
+A Teddy Bear~
+A stuffed teddy bear is here.~
+SELECT_A_MATERIAL armor 0 AO
+AC BC C AB 0
+1 1 125 G
+A
+5 1
+#13212
+Porcelin Doll~
+A Porcelin Doll~
+A precious porcelin doll is here.~
+SELECT_A_MATERIAL armor 0 AO
+AB BC C B 0
+1 2 200 G
+A
+1 1
+A
+13 5
+#0
+
+
+
+#ROOMS
+#13200
+{MShady Path{x~
+You are on a shady path which goes east and west.  There are
+several trees on either side of the path.  To your east you
+can see a bend in the road.
+~
+0 0 0
+D1
+~
+~
+0 -1 13201
+D3
+~
+~
+0 0 308
+C 0
+S
+#13201
+{MSunny Path{x~
+You are on a sunny path which leads north or west.  There are
+several trees on either side of the path.  You are at a bend
+in the path.  You can continue on the path to the north or
+go west back towards town.
+~
+0 0 0
+D0
+~
+~
+0 -1 13202
+D3
+~
+~
+0 -1 13200
+C 0
+S
+#13202
+{MSunny Path{x~
+You are on a sunny path leading north and south.  To your north
+you can see a small town.  You see a sign on the side of the 
+path.  You can continue to the north into the town or south back
+on the path.
+~
+0 0 0
+E
+sign~
+The sign reads: Oak Grove - Pop. 50
+~
+D0
+~
+~
+0 -1 13206
+D2
+~
+~
+0 -1 13201
+C 0
+S
+#13203
+{MRoom in Schoolhouse{x~
+You are in a small schoolhouse.  There are several desks which
+are occupied by students.  In the front of the class is the
+teacher of the class.  She is sitting behind a desk grading
+papers.  The only exit is north to the lobby of the school.
+~
+0 8 1
+D0
+~
+~
+0 -1 13210
+C 0
+S
+#13204
+{MInside a small home{x~
+You are inside a home of a citizen of Oak Grove.  This home is
+quite neat.  The furniture is comfortable looking but not shabby
+looking.  There are lighted candles on the hearth.
+~
+0 8 1
+D0
+~
+~
+0 -1 13211
+C 0
+S
+#13205
+{MOak Grove Pound{x~
+You are inside the local pound.  There are several yapping dogs
+and howling cats here.  The noise is almost unbearable.
+~
+0 8 1
+D1
+~
+~
+0 -1 13206
+C 0
+S
+#13206
+{MElm Street{x~
+You are at the entry to Oak Grove.  There is a sign on the gate
+welcoming you to this town.  To your east is the temple of Lan.
+Above the temple is a sign that reads "Free Healings Within".  To
+your west is the Oak Grove Pound.  You can hear the yelping of
+the animals within.  To your north is Main Street, to your south 
+is the path back to Recluce.
+~
+0 0 1
+E
+sign~
+This area designed by Honey 1995 (c)
+~
+D0
+~
+~
+0 -1 13213
+D1
+~
+~
+0 -1 13207
+D2
+~
+~
+0 -1 13202
+D3
+~
+~
+0 -1 13205
+C 0
+S
+#13207
+{MTemple of Lan{x~
+You are inside the Temple of Lan.  The Acolyte here will
+heal you for free.  You may stay here as long as you wish.
+You feel at peace as you rest here.  The only exit is to
+your west.
+~
+0 1032 1
+D3
+~
+~
+0 -1 13206
+C 0
+S
+#13208
+{MOak Grove Toys{x~
+You are inside a small toy store.  There is a smiling dwarven
+shopkeeper behind the counter.  You can see many carved
+wooden toys on the shelves in the store.  There is a sign on
+the wall behind the shopkeepers head.  The only exit is to the
+north.
+~
+0 8 1
+E
+sign~
+The sign reads:
+        Buy     -       Buy something from the shopkeeper.
+        List    -       The shopkeeper will tell you what is for sale.
+        Value   -       The shopkeeper will tell you how much he will
+                        give you for that item.
+        Sell    -       Sell that item to the shopkeeper.
+~
+D0
+~
+~
+0 -1 13215
+C 0
+S
+#13209
+{MMayor Benson's Office{x~
+You are in the office of the Mayor of Oak Grove.  The mayor
+is a very busy man, as you can tell by all the paperwork
+he is going through.  He looks up at you with dismay at your
+interruption.  The only exit is to your north.
+~
+0 8 1
+D0
+~
+~
+1 1 13216
+C 0
+S
+#13210
+{MLobby of the Schoolhouse{x~
+You are in the lobby of a small school house.  You can see a
+classroom to the south and a playground to your north.
+~
+0 8 1
+D0
+~
+~
+0 -1 13217
+D1
+~
+~
+0 -1 13211
+D2
+~
+~
+0 -1 13203
+C 0
+S
+#13211
+{MMain Street{x~
+You are on thE Main Street of Oak Grove.  This is the western  
+end of the street.  To your west is the entry to a small school 
+house.  To your east is the continuation of Main Street.  To your 
+north and south are entrances to private residences.
+~
+0 0 1
+D0
+~
+~
+0 -1 13218
+D1
+~
+~
+0 -1 13212
+D2
+~
+~
+0 -1 13204
+D3
+~
+~
+0 -1 13210
+C 0
+S
+#13212
+{MMain Street{x~
+You are on the Main Street of Oak Grove.  This street runs east
+and west.  To your east and west is continuation of Main Street,
+and to your north is the entry to the "Rose & Crown Pub".
+~
+0 0 1
+D0
+~
+~
+0 -1 13219
+D1
+~
+~
+0 -1 13213
+D3
+~
+~
+0 -1 13211
+C 0
+S
+#13213
+{MMain Street{x~
+You are on the Main Street of Oak Grove.  This street runs east
+and west.  You can also go to the south on Elm Street which 
+leads out of town.
+~
+0 0 1
+D1
+~
+~
+0 -1 13214
+D2
+~
+~
+0 -1 13206
+D3
+~
+~
+0 -1 13212
+C 0
+S
+#13214
+{MMain Street{x~
+You are on the Main Street of Oak Grove.  This street runs east
+and west.  To your north is the entry to a wooden picnic area.
+To your east and west is the continuation of Main Street.
+~
+0 0 1
+D0
+~
+~
+0 -1 13221
+D1
+~
+~
+0 -1 13215
+D3
+~
+~
+0 -1 13213
+C 0
+S
+#13215
+{MMain Street{x~
+You are on the Main Street of Oak Grove.  This is the eastern
+end of Main Street which leads to City Hall.  To your south
+is the "Oak Grove Toy Store", and to the west is the continuation
+of Main Street.
+~
+0 0 1
+D1
+~
+~
+0 -1 13216
+D2
+~
+~
+0 -1 13208
+D3
+~
+~
+0 -1 13214
+C 0
+S
+#13216
+{MCity Hall{x~
+You are in the City Hall of Oak Grove.  In front of you is a
+woman behind a desk.  The name plate on her desk says:  Miss
+G. Simpson.  There is a closed door to the south, and the
+exit to Main Street to your west.
+~
+0 8 1
+D2
+~
+~
+1 1 13209
+D3
+~
+~
+0 -1 13215
+C 0
+S
+#13217
+{MPlayground{x~
+You are in the yard that serves as a playground for the school
+children.  All around you are children running and screaming.
+There are swings and slides and a sandbox in this yard, and 
+there is a yard monitor watching over the children.  The only
+exit is to the south into the school lobby.
+~
+0 0 1
+D2
+~
+~
+0 -1 13210
+C 0
+S
+#13218
+{MInside a small home{x~
+You are inside a home of a citizen of Oak Grove.  This home is
+quite neat.  The furniture is comfortable looking but not shabby
+looking.  The only exit is to the south.
+~
+0 8 1
+D2
+~
+~
+0 -1 13211
+C 0
+S
+#13219
+{M"Rose and Crown Pub"{x~
+You are in a small pub.  You see that several of the patrons
+have had a bit too much to drink and are getting quite loud.
+The pub continues to the east where the bartender is serving
+the drinks.  To your south is the exit to Main Street.
+~
+0 8 1
+D1
+~
+~
+0 -1 13220
+D2
+~
+~
+0 -1 13212
+C 0
+S
+#13220
+{M"Rose and Crown Pub"{x~
+You are in a small pub.  The bartender is serving drinks
+here.  There are several patrons who have had a bit too much
+to drink and are getting quite loud.  The only exit is back
+to your west.
+~
+0 8 1
+D3
+~
+~
+0 -1 13219
+C 0
+S
+#13221
+{MPicnic Grounds{x~
+You are in a small wooded area.  This is the town picnic
+grounds.  There are some wooden tables and benches set up for
+people to come enjoy a picnic with their families.  You can go
+south to Main Street or east towards more tables.
+~
+0 0 1
+D1
+~
+~
+0 -1 13222
+D2
+~
+~
+0 -1 13214
+C 0
+S
+#13222
+{MPicnic Grounds{x~
+You are in a small wooded area.  This is the town picnic 
+grounds.  There are some wooden tables and benches set up for
+people to come enjoy a picnic with their families.  You can go
+east or west here.
+~
+0 0 1
+D1
+~
+~
+0 -1 13223
+D3
+~
+~
+0 -1 13221
+C 0
+S
+#13223
+{MPicnic Grounds{x~
+You are in a small wooded area.  This is the town picnic grounds.  There
+are some wooden tables and benches set up for people to come enjoy a picnic
+with their families.  You can go west, or take the path north through the
+forest.  
+~
+0 0 1
+D0
+~
+~
+0 0 5400
+D3
+~
+~
+0 -1 13222
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 13215 spec_thief
+M 13220 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 13209 0 1
+D 0 13216 2 1
+M 0 13205 1 13203 1
+E 0 13202 0 14
+M 0 13206 2 13203 2
+M 0 13206 2 13203 2
+M 0 13207 -1 13203 -1
+G 0 13203 0
+M 0 13208 2 13203 2
+E 0 13204 0 1
+M 0 13208 2 13203 2
+M 0 13212 1 13204 1
+M 0 13202 3 13205 3
+M 0 13202 3 13205 3
+M 0 13202 3 13205 3
+M 0 13203 3 13205 3
+M 0 13203 3 13205 3
+M 0 13203 3 13205 3
+M 0 13204 3 13205 3
+M 0 13204 3 13205 3
+M 0 13204 3 13205 3
+M 0 13220 1 13207 1
+M 0 13219 1 13208 1
+G 0 13209 0
+G 0 13210 0
+G 0 13211 0
+G 0 13212 0
+M 0 13200 1 13209 1
+G 0 13200 0
+M 0 13215 4 13211 4
+M 0 13215 4 13215 4
+M 0 13201 1 13216 1
+E 0 13201 0 16
+M 0 13209 4 13217 4
+M 0 13209 4 13217 4
+M 0 13209 4 13217 4
+M 0 13209 4 13217 4
+M 0 13210 1 13217 1
+E 0 13205 0 14
+M 0 13211 1 13218 1
+M 0 13214 2 13219 2
+M 0 13215 4 13219 4
+M 0 13213 1 13220 1
+E 0 13206 0 16
+M 0 13214 2 13220 2
+M 0 13215 4 13220 4
+M 0 13221 1 13220 1
+M 0 13216 1 13222 1
+G 0 13207 0
+M 0 13217 1 13222 1
+G 0 13208 0
+M 0 13218 1 13222 1
+G 0 13209 0
+S
+
+
+
+#SHOPS
+13219 0 0 0 0 0 110 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,35 @@
+Wed Jan  5 00:16:34 2005 :: ROM is ready to rock on port 5000.
+Wed Jan  5 00:16:53 2005 :: Sock.sinaddr:  67.141.86.144
+Wed Jan  5 00:16:56 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan  5 00:16:56 2005 :: Sock.sinaddr:  66.222.216.154
+Wed Jan  5 00:16:56 2005 :: Loading Argon.
+Wed Jan  5 00:16:56 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan  5 00:16:56 2005 :: Argon@67.141.86.144 has connected.
+Wed Jan  5 00:16:56 2005 :: Sock.sinaddr:  67.19.185.236
+Wed Jan  5 00:16:57 2005 :: Loading Sembiance.
+Wed Jan  5 00:16:57 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan  5 00:16:57 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Wed Jan  5 00:17:03 2005 :: Loading Ceclar.
+Wed Jan  5 00:17:03 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Jan  5 00:17:05 2005 :: Loading Venus.
+Wed Jan  5 00:17:06 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Wed Jan  5 00:17:06 2005 :: Ceclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan  5 00:17:08 2005 :: Loading Chame.
+Wed Jan  5 00:17:08 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Wed Jan  5 00:17:16 2005 :: Ergo@pcp09766644pcs.albqrq01.nm.comcast.net new player.
+Wed Jan  5 00:17:56 2005 :: Log Argon: snoop ergo
+Wed Jan  5 00:18:44 2005 :: Ergo killed by a glass golem at 21312
+Wed Jan  5 00:20:31 2005 :: Log Argon: snoop self
+Wed Jan  5 00:21:42 2005 :: Ergo killed by the cityguard at 3027
+Wed Jan  5 00:22:05 2005 :: Ergo killed by A statue of the Fallen Red Dragon at 3001
+Wed Jan  5 00:22:14 2005 :: Ergo killed by A statue of the Fallen Red Dragon at 3001
+Wed Jan  5 00:24:26 2005 :: Ergo killed by a statue of {COphelia{x at 3025
+Wed Jan  5 00:24:41 2005 :: Log Sembiance: plzap ergo
+Wed Jan  5 00:24:41 2005 :: Ergo has quit.
+Wed Jan  5 00:24:44 2005 :: Log Sembiance: plzap ceclar
+Wed Jan  5 00:24:44 2005 :: Ceclar has quit.
+Wed Jan  5 00:24:45 2005 :: Closing link to Venus.
+Wed Jan  5 00:24:45 2005 :: Closing link to Sembiance.
+Wed Jan  5 00:24:45 2005 :: Closing link to Chame.
+Wed Jan  5 00:24:45 2005 :: Closing link to Argon.
+Wed Jan  5 00:24:46 2005 :: Normal termination of game.

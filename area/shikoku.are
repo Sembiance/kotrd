@@ -1,0 +1,2271 @@
+#AREADATA
+Name Shikoku~
+Builders Argon~
+VNUMs 7500 7699
+Credits Argon~
+Security 9
+Flags B
+LEVELs 75 100
+End
+
+
+
+#MOBILES
+#7500
+peasant~
+a peasant~
+A peasant is here, wondering who you are.
+~
+~
+Human~
+ACGH 0 1000 0
+0
+85 60 1d1+7999 0d0+0 1d1+79 pound
+0 0 0 0
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#7501
+guard outpost~
+an Outpost Guard~
+An Outpost Guard is here, performing searches.
+~
+~
+Human~
+ABT VZc 1000 0
+0
+100 70 1d1+8999 0d0+0 1d1+89 pound
+0 0 0 0
+0 Q I b
+stand stand male 10000
+ACHMV ABCDEFGHIJKM medium unknown
+#7502
+peasant~
+a peasant~
+A peasant is here, wondering who you are.
+~
+You take a closer look at the mob.
+~
+Human~
+ACG 0 1000 0
+0
+88 70 1d1+9499 0d0+0 1d1+94 pound
+0 0 0 0
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#7503
+peasant~
+a peasant~
+A peasant is here, wondering who you are.
+~
+You take a closer look at the mob.
+~
+Human~
+ACGHY 0 1000 0
+0
+88 0 1d1+9499 0d0+0 1d1+94 pound
+0 0 0 0
+0 0 0 0
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#7504
+peasant~
+a peasant~
+A peasant is here, wondering who you are.
+~
+You take a closer look at the mob.
+~
+Human~
+ACG 0 1000 0
+0
+88 70 1d1+9499 0d0+0 1d1+94 pound
+0 0 0 0
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#7505
+girl slender~
+a slender girl~
+A slender girl is here, attending to your needs.
+~
+~
+Human~
+ABC FHJTZ 1000 0
+0
+78 0 100d10+14750 1d10+870 7d10+38 pound
+-55 -53 -53 -48
+EFHJ 0 BPQ Z
+stand stand female 15560
+AHMV ABCDEFGHIJKM medium unknown
+#7506
+keiki teichou~
+Teichou Keiki~
+Teichou Keiki is here.
+~
+You take a closer look at the mob.
+~
+Human~
+ABCT CDEFGHVZ 1000 0
+0
+122 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 D 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#7507
+tsunayoshi gunsou~
+Gunsou Tsunayoshi~
+Gunsou Tsunayoshi is here.
+~
+You take a closer look at the mob.
+~
+Human~
+ABCT CDEFGHVZ 1000 0
+0
+121 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 D 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#7508
+hatchling griffon~
+a Griffon Hatchling~
+{ca {yGriffon {cHatchling is here.{x
+~
+~
+dragon~
+AGHTZ CDFGJTVZc 1000 0
+0
+100 750 1d1+25000 0d0+0 1d1+150 pound
+-50 -50 -50 -50
+EFHKR HIJQ BCEHJKL OP
+stand stand male 1000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ medium unknown
+#7509
+griffon huge a~
+a Huge Griffon~
+A Huge Griffon floats here, protecting her young.
+~
+The creature has the head and wings of an eagle, the body of a lion and a
+long snake for a tail.  
+~
+wyvern~
+ABCFG DFHNTV 1000 0
+0
+150 65 100d50+18000 2d50+50 4d47+225 claw
+-118 -118 -118 -118
+ACEFHU BLMO FOQ K
+stand stand female 4000
+ABGHMVZ ABCDEFGHIJKMQVX large unknown
+#7510
+matsushita~
+Matsushita~
+Matsushita is here, looking out the window.
+~
+You take a closer look at the mob.
+~
+Human~
+ABT HV -1000 0
+0
+93 70 1d1+12999 0d0+0 1d1+59 pound
+-40 -39 -40 -38
+0 0 0 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#7511
+monk~
+a monk~
+A monk prays here.
+~
+You take a closer look at the mob.
+~
+Human~
+ABCQ HVZc 1000 0
+0
+100 70 1d1+8999 0d0+0 1d1+89 slap
+-20 -20 -20 -10
+0 Q I b
+stand stand male 7000
+ACHMV ABCDEFGHIJKM medium unknown
+#7512
+bandai attendant~
+Bandai Attendant~
+{cThe Bandai attendant is here selling things.{x
+~
+~
+Human~
+ABG CHN 1000 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand female 200000
+AHMV ABCDEFGHIJKMV medium unknown
+#7513
+natsuko~
+Natsuko~
+Natsuko is here, resting.
+~
+You take a closer look at the mob.
+~
+Human~
+ABT HVZ 1000 0
+0
+93 75 1d1+12999 0d0+0 1d1+59 pound
+-30 -30 -30 -25
+0 F 0 0
+rest stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#7514
+shikaya shopkeep~
+Shikaya~
+{cShikaya is here eyeing your merchandise.{x
+~
+~
+Human~
+ABG CDHN 1000 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand female 200000
+AHMV ABCDEFGHIJKMV medium unknown
+#7515
+yamamoto~
+Yamamoto~
+Yamamoto is here, writting spells in caligraphy on parchment.
+~
+~
+Human~
+AB CDHN 1000 0
+0
+40 6 1d81+1599 1d1+99 1d30+12 none
+-16 -16 -16 -11
+0 0 0 0
+stand stand female 200000
+AHMV ABCDEFGHIJKMV medium unknown
+#7516
+shoui ienari~
+Shoui Ienari~
+Shoui Ienari is here.
+~
+You take a closer look at the mob.
+~
+Human~
+ABT CDEFGHVZ 1000 0
+0
+120 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 DF 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#7517
+taisa yoshimune~
+Taisa Yoshimune~
+Taisa Yoshimune is here.
+~
+You take a closer look at the mob.
+~
+Human~
+ABCT CDEFGHVZ 1000 0
+0
+129 110 1d1+19999 0d0+0 1d1+149 pound
+-30 -30 -30 -25
+0 0 D 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#7518
+hatorio hanzo~
+Hatorio Hanzo~
+Hatorio Hanzo is here, with his twins.
+~
+~
+Human~
+ABCTV CDFGVZ 1000 0
+0
+104 100 1d1+16000 0d0+0 1d1+140 pound
+-44 -44 -44 -44
+CDFHIN 0 H 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#7519
+hizen tadayoshi~
+Hizen Tadayoshi~
+Hizen Tadayoshi is here, polishing his armor.
+~
+~
+Human~
+ABCTV CDFGVZ 1000 0
+0
+104 100 1d1+16000 0d0+0 1d1+140 pound
+-44 -44 -44 -44
+CDFHIN 0 H 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#7520
+samurai~
+a samurai~
+A samurai is standing here, practicing.
+~
+~
+Human~
+ABT VZc 1000 0
+0
+100 70 1d1+8999 0d0+0 1d1+89 pound
+0 0 0 0
+0 Q I b
+stand stand male 0
+ACHMV ABCDEFGHIJKMV medium unknown
+#7521
+guard outpost~
+an Outpost Guard~
+An Outpost Guard is here, performing searches.
+~
+~
+Human~
+ABT VZc 1000 0
+0
+100 70 1d1+8999 0d0+0 1d1+89 pound
+0 0 0 0
+0 Q I b
+stand stand male 10000
+ACHMV ABCDEFGHIJKM medium unknown
+#0
+
+
+
+#OBJECTS
+#7500
+bonsai dwarf hinoki cypress~
+{rDwarf Hinoki {yCypress {GBonsai{x~
+{cSomone has dropped their plant here.{x~
+ORGANIC armor 0 AO
+BD BD BD AD 0
+100 9 16725 P
+A
+12 300
+A
+4 6
+A
+20 -5
+A
+17 -10
+#7501
+nest~
+{ya huge nest{x~
+{cA huge nest made of twigs and tiny strands of {Ygold{c is here.{x~
+SELECT_A_MATERIAL container 0 0
+10000 0 0 0 0
+20 30000 0 P
+#7502
+feather griffon~
+{ya Griffons' Feather{x~
+{ca feather has been dropped here.{x~
+ORGANIC armor ABG AQ
+BEF BEF BEF BCDE 0
+100 1 93476 P
+A
+14 200
+A
+12 -500
+A
+1 10
+A
+13 550
+A
+18 30
+A
+19 18
+#7503
+key kado~
+{wthe kado key{x~
+{wthe key to the gates of Shikoku lies here.{x~
+STEEL key 0 A
+0 0 0 0 0
+75 1 5 P
+#7504
+imperial dragon katana~
+{WImperial {DDragon {WKatana{x~
+{can imperial katana has been left here.{x~
+HIGH_STEEL weapon BY AN
+sword 10 11 slice AE
+60 55 25000 P
+A
+13 50
+A
+18 10
+A
+19 10
+A
+17 -10
+A
+1 1
+#7505
+sash white~
+{WA White Sash of {DAkai{x~
+{ca ruffled sash lays here.{x~
+CLOTH armor FI AK
+BDFGHIJKLMNOPQRSTUVWXYZabcdef BDFGHIJKLMNOPQRSTUVWXYZabcdef BDFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+75 10 10000 P
+A
+12 100
+A
+18 10
+A
+19 9
+#7506
+reverse blade katana~
+{WReverse {DBlade {WKatana{x~
+A reverse blade katana has been dropped here.~
+HIGH_STEEL weapon B AN
+sword 11 10 slash BE
+60 50 25000 P
+A
+3 1
+A
+17 -10
+A
+19 10
+A
+18 10
+A
+13 50
+#7507
+temple lantern~
+{WShikoku {DTemple {WLantern{x~
+A lantern is going out here.~
+ROCK_QUARTZ warp_stone 0 AO
+0 0 0 0 0
+50 15 3433 P
+A
+13 50
+A
+4 1
+A
+19 3
+A
+18 3
+#7508
+kimono white star~
+{WWhite {DStar {WKimono{x~
+A kimono has been dropped here.~
+SILK armor 0 AD
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+75 10 12565 P
+A
+13 30
+A
+19 8
+A
+18 11
+#7509
+tatewaku silk purse black~
+{DTatewaku black silk purse{x~
+A purse lies here.~
+SILK armor A AO
+BFGHIJKLMNOPQRSTUVWXYZabcdef BFGHIJKLMNOPQRSTUVWXYZabcdef BFGHIJKLMNOPQRSTUVWXYZabcdef ABCFGHIJKLMNOPQRSTUVWXYZabcdef 0
+65 16 12000 P
+A
+12 200
+A
+13 200
+A
+18 30
+A
+19 30
+#7510
+bar soap potion~
+{Wbar of soap{x~
+Someone dropped the soap here!~
+UNKNOWN potion 0 AO
+65 'haste' 'invisibility' 'fly' 'reserved'
+60 9 24000 P
+#7511
+sode karami ~
+{DSode{W-{Dkarami{x~
+A vicious looking weapon, known as a Sode-karami (sodegarami) lies here, bloody.~
+IRON weapon M AN
+polearm 11 18 thrust FH
+65 170 14567 P
+A
+19 25
+A
+18 30
+#7512
+cran sun new year scroll~
+{WCrane{x-{YSun {Wnew year scroll{x~
+A scroll has been dropped here.~
+PARCHMENT scroll 0 AO
+110 'teleport' 'reserved' 'reserved' 'reserved'
+60 1 17500 P
+#7513
+flask water shikoku~
+{WShikoku {Dwater {Wflask{x~
+A flask lies here.~
+HIGH_LEATHER drink F AO
+1000 1000 'water' 0 0
+60 20 1500 P
+#7514
+pakku backpack shikoku~
+{WShikoku {Dsilk {Wpakku{x~
+A travel pack has been left here.~
+SILK container Y AR
+1200 A 0 1250 25
+60 50 2000 P
+A
+13 100
+A
+12 100
+#7515
+lotus koro bronze~
+{DBronze lotus koro{x~
+A heavy bronze koro incense burner in the shape of a lotus blossom just opening to the morning sun sits here.~
+BRONZE treasure W AO
+0 0 0 0 0
+65 57 20000 P
+#7516
+torch shikoku to chi~
+{WShikoku {Dto{w-{Dchi{x~
+A torch lies here.~
+BRONZE light_source A AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+65 50 18000 P
+A
+17 -5
+A
+18 1
+A
+19 1
+#7517
+empty vial double~
+a double spell vial~
+An empty vial is here.~
+GLASS potion 0 AO
+0 'reserved' 'reserved' '' ''
+30 25 500 P
+#7518
+empty vial triple~
+a triple spell vial~
+An empty vial is here~
+GLASS potion 0 AO
+0 'reserved' 'reserved' 'reserved' ''
+60 25 2000 P
+#7519
+blank scroll parchment double~
+a double spell parchment~
+A piece of parchment has been left here.~
+PARCHMENT scroll 0 AO
+0 'reserved' 'reserved' '' ''
+72 25 2000 P
+#7520
+blank scroll parchment triple~
+a triple spell parchment~
+A piece of parchment has been left here.~
+PARCHMENT scroll 0 AO
+0 'reserved' 'reserved' 'reserved' ''
+90 25 3000 P
+#7521
+sharpened tanto dagger~
+{DSharpened Tanto{x~
+A sharpened short dagger lies here.~
+STEEL weapon A AN
+dagger 10 12 stab D
+75 25 37500 P
+A
+19 2
+A
+18 4
+#7522
+double dragon battle axe two hands~
+{DDouble {WDragon Battle {DAxe{x~
+An axe has been left here.~
+STEEL weapon H AN
+axe 17 19 cleave AF
+85 140 35000 P
+#7523
+helmet splitter mace~
+{WHelmet Splitter{x~
+A mace lies here.~
+HIGH_STEEL weapon B AN
+mace 10 14 crush B
+75 40 2300 P
+A
+19 10
+A
+18 12
+A
+2 -1
+A
+5 3
+A
+12 50
+#7524
+katana red snake skin~
+{RRed {DSnake {WSkin {DKatana{x~
+A katana was dropped here.~
+STEEL weapon B AN
+sword 11 12 slash D
+75 46 16000 P
+A
+13 100
+A
+18 9
+A
+19 13
+A
+3 -3
+#7525
+zori sandals pair~
+{wa pair of zori{x~
+A pair of sandals lay here.~
+CLOTH armor FG AG
+BE BE BE BE A
+60 2 3500 P
+A
+14 200
+A
+2 6
+A
+17 10
+#7526
+traditional armor keikogi~
+{wtraditional samurai keikogi{x~
+A traditional keikogi was dropped here.~
+HIGH_CLOTH armor F AD
+AC AC AC 0 0
+74 79 6000 P
+A
+13 30
+A
+18 5
+A
+19 3
+#7527
+headband sun victory~
+{wvictory with sun headband{x~
+A headband lies here.~
+SILK armor F AE
+B B B 0 0
+74 3 1500 P
+A
+4 4
+A
+13 -10
+A
+18 16
+A
+19 1
+#7528
+traditional hakama pants~
+{wtraditional samurai hakama{x~
+Someone has dropped their pants here.~
+SILK armor F AF
+0 0 0 0 0
+74 10 1200 P
+A
+12 -10
+A
+19 9
+A
+18 2
+A
+2 3
+#7529
+li kweis double axe~
+{DLi kweis double axes{x~
+An axe lays here, missing its twin.~
+STEEL weapon FH AN
+axe 13 13 chop BCD
+80 45 60000 P
+A
+13 150
+A
+18 15
+A
+19 15
+A
+1 4
+#7530
+li kweis double axe~
+{WLi kweis double axes{x~
+An axe lays here, missing its twin.~
+STEEL weapon FH AN
+axe 13 13 cleave ACD
+80 50 60000 P
+A
+13 150
+A
+18 15
+A
+19 15
+A
+1 4
+#7531
+hand protectors pair~
+{wa pair of hand protectors{x~
+Someone dropped their gloves.~
+HIGH_LEATHER armor F AH
+ACDEFGHIJKLMNOPQRSTUVWXYZabcdef ACDEFGHIJKLMNOPQRSTUVWXYZabcdef ACDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+80 57 4500 P
+A
+18 15
+A
+19 13
+A
+2 2
+A
+13 40
+#7532
+fire opal shard legend~
+{Da legendary {Rfire-opal {Dshard{x~
+A legendary quest shard lies here.~
+FIRE_OPAL gem CT AO
+0 0 0 0 0
+74 3 50 P
+E
+pickupmessage~
+You just found your Level {W74 {xLegendary Shard! You can now advance to Level {W75{x!
+~
+#7533
+polearm imperial naginata~
+{wImperial {DDragon {wNaginata{x~
+{can imperial naginata has been left here.{x~
+STEEL weapon 0 AN
+polearm 17 19 thwack DF
+85 150 0 P
+A
+1 2
+A
+19 5
+A
+18 10
+#0
+
+
+
+#ROOMS
+#7500
+{MThe Misty Border{x~
+You stumble across a small path with deep wheel ruts, better watch your
+step.  The path is very hard to see from all the misty fog rolling in off
+the rice fields to the northeast.  Many Matsu trees have grown into a wall
+along each side of the road, making the possibility of seeing what lies to
+the east and west undiscerning.  To the north the misty path continues.  
+~
+0 5 4
+D0
+~
+~
+0 0 7501
+D1
+~
+~
+0 0 9511
+C 0
+S
+#7501
+{MThe Misty Border{x~
+You are on a small path with deep wheel ruts.  The path is very hard to
+see from all the misty fog rolling in off the rice fields to the east.  Many
+Matsu trees have grown into a wall along the west side of the road, making
+the possibility of seeing what lies in that direction undiscerning.  To the
+north the path slims to a trail up Mt.  Naeba, while to the east is a rice
+field.  
+~
+0 4 4
+D0
+~
+~
+0 0 7502
+D1
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7500
+C 0
+S
+#7502
+{MTrail up Mt. Naeba{x~
+You are on a small trail leading up the mountain of Naeba.  The Momiji
+trees grow wildly along the trail here in beautiful rows, the colors are
+exquisite.  The misty fog has lifted here as you ascend up the side of the
+mountain.  To the south the trail widens into a small path where the fog is
+is very dense.  To the north the trail continues.  
+~
+0 0 6
+D0
+~
+~
+0 0 7503
+D2
+~
+~
+0 0 7501
+C 0
+S
+#7503
+{MTrail up Mt. Naeba{x~
+You are on a small trail leading up the mountain of Naeba.  The Momiji
+trees grow wildly along the trail here in beautiful rows, the colors are
+exquisite.  The misty fog has lifted completely as you ascend further up the
+side of the mountain.  
+~
+0 0 6
+D0
+~
+~
+0 0 7504
+D2
+~
+~
+0 0 7502
+C 0
+S
+#7504
+{MBend in the Trail{x~
+The trail takes a sharp turn around a large boulder.  The wind is
+stronger here and the ground is made up of small rocks and sand.  Fallen
+tree branches lie strewn across the path, they have been broken by falling
+rocks.  Around the boulder is the base of a cliff, the trail leads back
+south.  
+~
+0 4 6
+D1
+~
+~
+0 0 7505
+D2
+~
+~
+0 0 7503
+C 0
+S
+#7505
+{MBase of a Cliff{x~
+You stand at the base of a steep cliff.  It towers over you, reaching a
+height of 16ft.  Small holes in the face could be used for climbing.  The
+cliff is made up of igneous rocks, these rocks vary in appearance from ash,
+glass with no granular arrangement to relatively coarse textures with
+crystals.  You may brave the cliff or go back west.  
+~
+0 0 6
+D3
+~
+~
+0 0 7504
+D4
+~
+~
+0 0 7506
+C 0
+S
+#7506
+{MScaling up the Cliff{x~
+You cling to the side of a sandy cliff.  The wind here is strong and
+blows steadily.  This is the halfway point of the cliff and upwards you can
+see a ledge.  Small roots wiggle out from the face of the cliff, helping
+with the climb.  The only way to go is up or back down.  
+~
+0 0 6
+D4
+~
+~
+0 0 7507
+D5
+~
+~
+0 0 7505
+C 0
+S
+#7507
+{MBefore a Large Cave{x~
+You stand before the mouth of a large cave.  A few rare Dwarf Hinoki
+Cypress Bonsai grow to the sides of the entrance.  The fine textured dark
+green foliage gives off a nice evergreen smell that crispens the air.  There
+is a ledge leading down, and to the north lies the cavern.  
+~
+0 0 6
+D0
+~
+~
+0 0 7508
+D5
+~
+~
+0 0 7506
+C 0
+S
+#7508
+{MEntrance to the Cave{x~
+You have entered the mouth of a large cave.  Stalactites cling to the
+cavern roof, dripping a steady stream of watery minerals from their tips. 
+The walls are completely covered with large calcite crystals and therefore
+makes the cave very attractive.  The room is floored with mud containing
+numerous bones.  Any passages which might continue are filled with silt. 
+Total depth of the cave is about 35 ft.  To the south lies the exit to the
+cavern.  
+~
+0 8201 12
+D0
+~
+~
+0 0 7509
+D2
+~
+~
+0 0 7507
+C 0
+S
+#7509
+{MThe Griffons' Roost{x~
+You stand at the end of the cavern, the darkness seems to encompass you. 
+The light just barley trickles in from the mouth of the cave.  A large nest
+made from strands of gold sits in front of you, it gleams dimly off the
+light peeking in the cave.  If you could only grab just a handful of these,
+you would be set for life.  A large bird-like creature blocks your path. 
+The creature has the head and wings of an eagle, the body of a lion and a
+long snake for a tail.  The only exit is the way you came in.  
+~
+0 8201 12
+D2
+~
+~
+0 0 7508
+C 0
+S
+#7510
+{MA Road{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west, the paddy lies on
+the north and south sides of the road.  
+~
+0 0 13
+D0
+~
+~
+0 0 7511
+D1
+~
+~
+0 0 7520
+D2
+~
+~
+0 0 7519
+D3
+~
+~
+0 0 7501
+C 0
+S
+#7511
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the north side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and the road is
+to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7512
+D2
+~
+~
+0 0 7510
+C 0
+S
+#7512
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the north side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and west, the
+road is to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7513
+D2
+~
+~
+0 0 7520
+D3
+~
+~
+0 0 7511
+C 0
+S
+#7513
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the north side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and west, the
+road is to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7514
+D2
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7512
+C 0
+S
+#7514
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the north side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies west, and the road is
+to the south.  
+~
+0 0 3
+D2
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7513
+C 0
+S
+#7515
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west, the paddy lies on
+the north and south sides of the road.  
+~
+0 0 13
+D0
+~
+~
+0 0 7514
+D1
+~
+~
+0 0 7522
+D2
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7521
+C 0
+S
+#7516
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the south side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies west, and the road is
+to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7517
+C 0
+S
+#7517
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the south side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and west, the
+road is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7521
+D1
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7518
+C 0
+S
+#7518
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the water is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the south side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and west, the
+road is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7520
+D1
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7519
+C 0
+S
+#7519
+{MA Rice Paddy Field{x~
+You stand in a rice paddy, the water here is about five inches deep.  The
+ground under the waters is a soft, clayey topsoil.  Eight to twelve inches
+deep, the topsoil is graded so that it slopes downward toward the road. 
+Along the south side is a terrace wall with a small waterfall trickling down
+the front, to keep the paddy filled.  More paddy lies east and the road is
+to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7510
+D1
+~
+~
+0 0 7518
+C 0
+S
+#7520
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west, the paddy lies on
+the north and south sides of the road.  
+~
+0 0 13
+D0
+~
+~
+0 0 7512
+D1
+~
+~
+0 0 7521
+D2
+~
+~
+0 0 7518
+D3
+~
+~
+0 0 7510
+C 0
+S
+#7521
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west, the paddy lies on
+the north and south sides of the road.  
+~
+0 0 13
+D0
+~
+~
+0 0 7513
+D1
+~
+~
+0 0 7515
+D2
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7520
+C 0
+S
+#7522
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west.  
+~
+0 4 13
+D1
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7515
+C 0
+S
+#7523
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west.  
+~
+0 0 13
+D1
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7522
+C 0
+S
+#7524
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues east and west.  
+~
+0 0 13
+D1
+~
+~
+0 0 7525
+D3
+~
+~
+0 0 7523
+C 0
+S
+#7525
+{MShikoku-San  Patrol Outpost{x~
+You have come across a small outpost near the gates of the town.  The
+guards here dont take likley to strangers.  A bell tower has been erected on
+the south side of the road to alert the town of incoming raids.  The only
+traffic is from the peasants going to and from the paddy.  Even they are
+checked every time they pass.  The road continues east and west.  
+~
+0 0 13
+D1
+~
+~
+0 0 7526
+D3
+~
+~
+0 0 7524
+C 0
+S
+#7526
+{MThe Road to Shikoku{x~
+The road here leads to a small military-like town.  The road is covered
+with a fine dirt, ground down almost into a powder.  Most likley from the
+peasants traveling to and from the paddy.  Carrying their loads of rice back
+to town to be refined.  The road continues north to the gates and west
+toward the outpost.  
+~
+0 0 13
+D0
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7525
+C 0
+S
+#7527
+{MThe Stone Gates of Shikoku{x~
+You are at the gate to the military town of Shikoku.  The gates are made
+from pure granite and the motif of the warlord Furuta Oribe is carved
+intricately on each gate.  To the side of the gates are two ikekomi-gata
+style lanterns, which are lit at dusk every day.  A few Creeping Junipers
+grow along the walls of the town, they have long, trailing branches with
+blue-green cast.  The road leads south and the town lies north through the
+gates.  
+~
+0 0 13
+E
+stone~
+{x
+{x                                     {y/){x
+{x                                    {y//{x
+{x                 {D__*_              {y//{x
+{x              {D/-(____)            {y//{x
+{x             {D////{w- -{w|{D\           {y//{x
+{x          {r,____{wo% -,{r___         {y//{x
+{x         {r/  \\   |||   ;       {y//{x
+{x        {r/____\....::./\       {y//{x
+{x       {r_/__/{D#{r\_ _,,_/--\     {y//{x
+{x       {r/___/{D######## {r\/""-{w(\{y//{x
+{x      {r_/__/ {D'#######  {r""^{w(/{y</{x
+{x    {w__/ /   {D,))){W={R:{W={D(,    {y//{w.{x
+{x   {w|,--\   {c/{bQ{c...... /.  {y(/{x
+{x   {w/       {c.{bQ{c....../..\{x
+{x          {c/.{bQ{c ..../...\{x
+{x         {c/......./.....\{x
+{x         {c/...../  \.....\{x
+{x         {c/_.._./   \..._\{x
+{x          {D(` )      (` ){x
+{x          {D| /        \ |{x
+{x          {D'(          )'{x
+{x         {D/{R+{D|          |{R+{D\{x
+{x         {D|,/          \,/ {x
+{x
+~
+E
+gate~
+{x
+{x                                     {y/){x
+{x                                    {y//{x
+{x                 {D__*_              {y//{x
+{x              {D/-(____)            {y//{x
+{x             {D////{w- -{w|{D\           {y//{x
+{x          {r,____{wo% -,{r___         {y//{x
+{x         {r/  \\   |||   ;       {y//{x
+{x        {r/____\....::./\       {y//{x
+{x       {r_/__/{D#{r\_ _,,_/--\     {y//{x
+{x       {r/___/{D######## {r\/""-{w(\{y//{x
+{x      {r_/__/ {D'#######  {r""^{w(/{y</{x
+{x    {w__/ /   {D,))){W={R:{W={D(,    {y//{w.{x
+{x   {w|,--\   {c/{bQ{c...... /.  {y(/{x
+{x   {w/       {c.{bQ{c....../..\{x
+{x          {c/.{bQ{c ..../...\{x
+{x         {c/......./.....\{x
+{x         {c/...../  \.....\{x
+{x         {c/_.._./   \..._\{x
+{x          {D(` )      (` ){x
+{x          {D| /        \ |{x
+{x          {D'(          )'{x
+{x         {D/{R+{D|          |{R+{D\{x
+{x         {D|,/          \,/ {x
+{x
+~
+D0
+~
+kado~
+1 7503 7528
+D2
+~
+~
+0 0 7526
+C 0
+S
+#7528
+{MDragon Street South{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The main gate lies south,
+houses and shops reside on either sides of the road and this street
+continues north.  
+~
+0 0 2
+D0
+~
+~
+0 0 7531
+D1
+~
+~
+0 0 7529
+D2
+~
+~
+1 0 7527
+D3
+~
+~
+0 0 7530
+C 0
+S
+#7529
+{MHouse of Matsushita{x~
+You have enterd a small house.  It has only one large room, some of the
+walls are made of thick rice paper.  On the east side of the house is the
+shoin.  It is where your most important things are kept for people to see. 
+A kimono is hanging on the south wall to dry.  A small breeze blows in the
+bamboo-style window, bringing the smell of the blossoming sakura.  
+~
+0 8 1
+D3
+~
+~
+0 0 7528
+C 0
+S
+#7530
+{MKahiwaya Ryokan Inn{x~
+Kashiwaya Ryokan has three types of outdoor bathes as well as one indoor
+bath, and a private bath for chartered use.  All of our traditional Tatami
+rooms are kept clean, and while staying here you can be served Japanese
+food.  Surrounded by trees and the Shima-gawa river, Kashiwaya Ryokan is the
+perfect place to let your hair down and forget about the stresses of daily
+life.  
+~
+0 8 1
+D1
+~
+~
+0 0 7528
+C 0
+S
+#7531
+{MDragon Street South{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  A Shrine is east of here, to
+the west is a Sento and this street continues north.  
+~
+0 0 2
+D0
+~
+~
+0 0 7534
+D1
+~
+~
+0 0 7532
+D2
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7533
+C 0
+S
+#7532
+{MThe Shinto Shrine{x~
+The Torii gate marks the approach and entrance to the shrine.  The Torii
+is made of wood, and is painted orange and black.  Komainu, a pair of
+guardian lion statures, are found on each side of a shrine's entrance.  You
+may write your wishes on a wooden plate and then leave them at Ema in the
+hope that your wishes come true or worship at the haiden.  The exit is to
+the west.  
+~
+0 8 1
+D3
+~
+~
+0 0 7531
+C 0
+S
+#7533
+{MSento{x~
+The entrance from the outside looks somewhat similar to a temple, with a
+noren across the entrance.  The curtain is deep blue and shows the kanji yu
+(hot water).  Inside, between the entrance and the shoe lockers is the
+bandai, were the attendant sits.  The bathing area is separated from the
+changing area by a sliding door to keep the heat in the bath.  There is a
+small sign resting on the bandai.  
+~
+0 8 1
+E
+sign~
+{x {WSento Etiquette:{x {x {CNEVER EVER GET SOAP IN THE BATHTUB!  {x {x
+While the Japanese are usually very understanding if foreigners make
+cultural mistakes, the public bath is one area where the uninitiated can
+seriously offend the regular customers.  
+{x
+~
+D1
+~
+~
+0 0 7531
+C 0
+S
+#7534
+{MDragon Street{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  Houses and shops reside on
+either sides of the road and this street continues north.  
+~
+0 0 2
+D0
+~
+~
+0 0 7537
+D1
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7531
+D3
+~
+~
+0 0 7536
+C 0
+S
+#7535
+{MHouse of Natsuko{x~
+You have enterd a small house.  It has only one large room, some of the
+walls are made of thick rice paper.  On the east side of the house is the
+shoin.  It is where your most important things are kept for people to see. 
+A kimono is hanging on the south wall to dry.  A small breeze blows in the
+bamboo-style window, bringing the smell of the blossoming sakura.  
+~
+0 8 1
+D3
+~
+~
+0 0 7534
+C 0
+S
+#7536
+{MA Peasant Hovel{x~
+A very small and dark room, there is nothing here but the necessities
+needed to complete the days work and a cot for sleeping.  The exit is to the
+east.  
+~
+0 8 1
+D1
+~
+~
+0 0 7534
+C 0
+S
+#7537
+{MDragon Street{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  To the west lies Shikaya, a
+various crafts shop, and to the east is the Apothecary.  
+~
+0 0 2
+D0
+~
+~
+0 0 7540
+D1
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7539
+C 0
+S
+#7538
+{MHaiku's Apothecary{x~
+This shop is cram-packed with magical artifacts, items and spell
+components of every type imaginable (and several unimaginable).  Forcing
+your way through the clutter, you eventually find an assistant, a
+raven-haired mage who smiles sweetly and welcomes you to her shop.  If you
+don't know what to do here, look at the sign on the wall.  
+~
+0 8 1
+E
+sign~
+{x
+The note reads:
+{x
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D3
+~
+~
+0 0 7537
+C 0
+S
+#7539
+{MShikaya's General Shop{x~
+You are inside the general store.  All sorts of items are stacked on
+shelves behind the counter, safely out of your reach.  A small note hangs on
+the wall.  
+~
+0 8 1
+E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D1
+~
+~
+0 0 7537
+C 0
+S
+#7540
+{MThe Intersection of Dragon and Falcon Streets{x~
+This is the center of Shikoku.  A divine four-tier millstone fountain
+sits in the center of the intersection, salt and pepper colored.  Four
+curved benchs with fluted legs in a beautiful, soft pink granite surround
+the fountain.  At the end of each bench is a Miyoshi lantern, giving a soft
+dusky glow to the scene.  The exits lead in all directions.  
+~
+0 0 2
+D0
+~
+~
+0 0 7562
+D1
+~
+~
+0 0 7541
+D2
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7549
+C 0
+S
+#7541
+{MFalcon Street East{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  To the west is the center of
+town and this road continues east.  
+~
+0 0 2
+D1
+~
+~
+0 0 7542
+D3
+~
+~
+0 0 7540
+C 0
+S
+#7542
+{MFalcon Street East{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road continues east and
+west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7544
+D1
+~
+~
+0 0 7545
+D2
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 7541
+C 0
+S
+#7543
+{MTaisa(Colenel) Yoshimune's Quarters{x~
+Many flags lay about the room, bearing Yoshimune's family crest, the
+Akamatsu.  A small wooden table sits in the center of the room, with one
+chair.  An empty glass sits upon the table next to a saki jar.
+{x
+~
+0 12 1
+D0
+~
+~
+0 0 7542
+C 0
+S
+#7544
+{MShoui(Lieutenant) Ienari's Quarters{x~
+Many flags lay about the room, bearing Ienari's family crest, the
+Akamatsu.  A small wooden table sits in the center of the room, with one
+chair.  An empty glass sits upon the table next to a saki jar.  
+~
+0 12 1
+D2
+~
+~
+0 0 7542
+C 0
+S
+#7545
+{MFalcon Street East{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road continues east and
+west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7546
+D3
+~
+~
+0 0 7542
+C 0
+S
+#7546
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D0
+~
+~
+0 0 7545
+C 0
+S
+#7547
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D2
+~
+~
+0 0 7545
+C 0
+S
+#7548
+{MFalcon Street Dead End{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road ends here.  
+~
+0 0 2
+D3
+~
+~
+0 0 7545
+C 0
+S
+#7549
+{MFalcon Street West{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  To the east is the center of
+town and this road continues west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7551
+D1
+~
+~
+0 0 7540
+D2
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7553
+C 0
+S
+#7550
+{MGunsou(Sergant) Tsunayoshi's Quarters{x~
+Many flags lay about the room, bearing Tsunayoshis' family crest, the
+Akai.  A small wooden table sits in the center of the room, with one chair. 
+An empty glass sits upon the table next to a saki jar.  
+~
+0 12 1
+D0
+~
+~
+0 0 7549
+C 0
+S
+#7551
+{MTeichou(Captain) Keiki's Quarters{x~
+Many flags lay about the room, bearing Keikis' family crest, the
+Akamatsu.  A small wooden table sits in the center of the room, with one
+chair.  An empty glass sits upon the table next to a saki jar.  
+~
+0 12 1
+D2
+~
+~
+0 0 7549
+C 0
+S
+#7553
+{MFalcon Street West{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  To the east is the center of
+town and this road continues west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7554
+D1
+~
+~
+0 0 7549
+D2
+~
+~
+0 0 7555
+D3
+~
+~
+0 0 7556
+C 0
+S
+#7554
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D2
+~
+~
+0 0 7553
+C 0
+S
+#7555
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D0
+~
+~
+0 0 7553
+C 0
+S
+#7556
+{MFalcon Street West{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road continues east and
+west.  
+~
+0 0 2
+D0
+~
+~
+0 0 7558
+D1
+~
+~
+0 0 7553
+D2
+~
+~
+0 0 7557
+D3
+~
+~
+0 0 7559
+C 0
+S
+#7557
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D0
+~
+~
+0 0 7556
+C 0
+S
+#7558
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 4 3
+D2
+~
+~
+0 0 7556
+C 0
+S
+#7559
+{MFalcon Street Dead End{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road ends here.  
+~
+0 0 0
+D1
+~
+~
+0 0 7556
+C 0
+S
+#7562
+{MDragon Street North{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the road.  To the west lies the
+swordsmith of Hizen Tadahiro, and to the east is his cousin, Hizen
+Tadayoshi, armoury.  
+~
+0 0 2
+D0
+~
+~
+0 0 7565
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7540
+D3
+~
+~
+0 0 7564
+C 0
+S
+#7563
+{MHizen Tadayoshi's Armoury{x~
+An acrid smell fills this large room.  Along the walls are numerous
+shelves containing all sorts of animal hide and in the crackling fireplace
+hangs a big iron pot with boiling water.  In the middle of the room is a
+large oak table.  A wooden sign is hanging above the fireplace.  
+~
+0 8 1
+E
+sign~
+The wooden sign says :-
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the leather worker evaluate an item.
+~
+D3
+~
+~
+0 0 7562
+C 0
+S
+#7564
+{MSwordsmith of Hatorio Hanzo{x~
+You have entered the master enchanter's chamber.  Upon all the walls here
+are racks of finely crafted weapons.  A huge chest with a glowing lock is
+set to one side.  Several unfinished looking blades rest atop a small work
+table.  
+~
+0 8 1
+D1
+~
+~
+0 0 7562
+C 0
+S
+#7565
+{MDragon Street North{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  Houses and shops reside on
+either sides of the road and this street continues north.  
+~
+0 0 2
+D0
+~
+~
+0 0 7568
+D1
+~
+~
+0 0 7566
+D2
+~
+~
+0 0 7562
+D3
+~
+~
+0 0 7567
+C 0
+S
+#7566
+{MPractice Field{x~
+You have entered the training grounds of the Samurai.  Here armour-clad
+warriors practice with Kendo Bamboo Shinai Practice Swords.  The soft grass
+here on the grounds makes it easier on the barefoot shogun.  
+~
+0 0 3
+D3
+~
+~
+0 0 7565
+C 0
+S
+#7567
+{MA Peasant Hovel{x~
+A very small and dark room, there is nothing here but the necessities
+needed to complete the days work and a cot for sleeping.  The exit is to the
+east.  
+~
+0 8 1
+D1
+~
+~
+0 0 7565
+C 0
+S
+#7568
+{MDraong Street Dead End{x~
+The streets here are cobblestone and wider than average.  These beautiful
+cobbles are greys, browns, blues, salt and pepper colored with amazing
+rounded tops from being walked upon for so long.  The cobblestones are
+randomly sized, perfectly fit together and smooth to the touch from
+centuries of passing peasants.  A nice shade shadows the street from the
+rows of blooming sakura along-side the roads.  The road ends here.  
+~
+0 0 2
+D2
+~
+~
+0 0 7565
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 7501 spec_guard
+M 7509 spec_breath_fire
+M 7511 spec_cast_cleric
+M 7512 spec_guard
+M 7514 spec_guard
+M 7515 spec_guard
+M 7521 spec_guard
+S
+
+
+
+#RESETS
+D 0 7527 0 2
+D 0 7528 2 2
+O 0 7500 0 7507
+M 0 7509 1 7509 1
+O 0 7501 0 7509
+P 0 7502 1 7501 1
+M 0 7508 10 7509 1
+M 0 7508 10 7509 1
+M 0 7500 20 7511 1
+M 0 7500 20 7512 1
+M 0 7500 20 7513 1
+M 0 7500 20 7516 1
+M 0 7500 20 7517 1
+M 0 7500 20 7518 1
+M 0 7501 2 7525 2
+G 0 7503 0
+E 0 7504 0 16
+M 0 7502 10 7528 1
+M 0 7521 1 7528 1
+E 0 7533 0 16
+M 0 7510 1 7529 1
+E 0 7506 0 16
+M 0 7505 1 7530 1
+E 0 7505 0 12
+M 0 7511 1 7532 1
+E 0 7507 0 17
+M 0 7512 1 7533 1
+G 0 7508 0
+G 0 7509 0
+G 0 7510 0
+M 0 7502 10 7534 1
+M 0 7513 1 7535 1
+E 0 7511 0 16
+M 0 7503 5 7536 1
+M 0 7502 10 7537 1
+M 0 7515 1 7538 1
+G 0 7520 0
+G 0 7519 0
+G 0 7518 0
+G 0 7517 0
+M 0 7514 1 7539 1
+G 0 7515 0
+G 0 7516 0
+G 0 7512 0
+G 0 7514 0
+G 0 7513 0
+M 0 7502 10 7541 1
+M 0 7517 1 7543 1
+G 0 7524 0
+E 0 7525 0 8
+E 0 7526 0 5
+E 0 7527 0 6
+E 0 7528 0 7
+M 0 7516 1 7544 1
+G 0 7523 0
+E 0 7525 0 8
+E 0 7526 0 5
+E 0 7527 0 6
+E 0 7528 0 7
+M 0 7502 10 7545 1
+M 0 7520 14 7546 1
+M 0 7520 14 7547 1
+M 0 7507 1 7550 1
+G 0 7522 0
+E 0 7525 0 8
+E 0 7526 0 5
+E 0 7527 0 6
+E 0 7528 0 7
+M 0 7506 1 7551 1
+E 0 7521 0 16
+E 0 7525 0 8
+E 0 7526 0 5
+E 0 7527 0 6
+E 0 7528 0 7
+M 0 7502 10 7553 1
+M 0 7520 14 7554 1
+M 0 7520 14 7555 1
+M 0 7520 14 7557 1
+M 0 7520 14 7558 1
+M 0 7519 1 7563 1
+E 0 7531 0 9
+M 0 7518 1 7564 1
+E 0 7530 0 16
+E 0 7529 0 19
+O 0 7532 0 7564
+M 0 7520 14 7566 1
+M 0 7504 5 7567 1
+S
+
+
+
+#SHOPS
+7512 26 9 10 1 10 50 50 0 23
+7514 1 8 15 17 2 100 100 0 23
+7515 2 3 4 10 0 105 15 0 23
+0
+
+
+
+#MOBPROGS
+#7500
+~
+#0
+
+#$

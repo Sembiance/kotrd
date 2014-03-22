@@ -1,0 +1,207 @@
+#PLAYER
+Name Lydia~
+Id   1099099321
+LogO 1174610861
+Vers 5
+Desc {x
+~
+Prom {c[{y%R{c] {c[{y%z{c] %c{W::{x ~
+Race Seraph~
+CTImp Valor~
+Sex  2
+Cla  5
+AlertMe  1
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 500
+OldLvl 500
+Sec  1
+Plyd 1295814
+Scro 78
+Room 3001
+HMV  25547 25547 9188 9188 7693 7693
+Gold 3643711
+Silv 1119271
+Gold_bank 96000000
+Silv_bank 0
+Shares 0
+Share_level 500
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  18400000
+QuestPnts 97000
+PAct  CDENQTd
+AfBy FT
+WName Lydia~
+Comm MNOY
+RaceChan 0
+Deaf 0
+Invi 500
+Pos  8
+Prac 3490
+Trai 349
+Save  -10
+Alig  380
+Hit   30
+Dam   32
+ACs -5 -5 -5 -5
+Attr 40 40 40 40 40
+AMod 4 0 0 4 3
+Pass LyLu4T/pQzGX.~
+Bin  {RO{GM{BG{Y!{M! {GO{RM{YG{B!{M! {Y-->{RL{YY{MD{GI{BA{Y<-- {RI{GS {RH{ME{BR{YE{M!{G!~
+Bout {WYou {D{^Blink{w. {WWhere'd She Go?{x~
+Titl  {x~
+Job {YM{RI{BS{GS {RF{GL{BU{YF{MF{CY~
+Pnts 143
+TSex 2
+PSize 2
+LLev 245
+HMVP 24497 8138 6743
+Cnd  0 0 2 0
+Boards       4 General 1174263672 Ideas 1173698657 Announce 1104975611 Personal 1173059791 
+Sk 1 'lightning bolt'
+Sk 1 'cure light'
+Sk 75 'change sex'
+Sk 1 'cause light'
+Sk 75 'cure blindness'
+Sk 75 'bless'
+Sk 1 'cause serious'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cause critical'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 78 'heal'
+Sk 1 'harm'
+Sk 76 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 75 'holy word'
+Sk 1 'mass healing'
+Sk 76 'golden aura'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 75 'armor'
+Sk 1 'blindness'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 75 'continual light'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'floating disc'
+Sk 75 'gate'
+Sk 83 'identify'
+Sk 1 'infravision'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 76 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 75 'stone skin'
+Sk 75 'summon'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'spear'
+Sk 76 'mace'
+Sk 100 'flail'
+Sk 75 'polearm'
+Sk 1 'enhanced damage'
+Sk 4 'hand to hand'
+Sk 79 'dodge'
+Sk 82 'second attack'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 75 'spellcraft'
+Sk 1 'create zombie'
+Sk 78 'divine wrath'
+Sk 75 'scribe'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'cleric transport'
+Gr 'weather'
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 21599
+Nest 0
+Name dagger dirk sliver light Lydia~
+Cond 0
+Wear 16
+Cost 100000
+End
+
+#O
+Vnum 89
+Nest 0
+Name quest box Lydia~
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 23235
+Nest 0
+Name happiness Lydia~
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#END

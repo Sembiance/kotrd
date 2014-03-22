@@ -1,0 +1,269 @@
+#PLAYER
+Name Qinadin~
+Id   1091135392
+LogO 1093364045
+Vers 5
+Prom %hHP %mMA %vMV %XEXP %gGold %sSil %e %K ~
+Race Human~
+Sex  1
+Cla  1
+OCla -1
+Levl 29
+OldLvl 29
+Sec  0
+Plyd 105054
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  280 280 245 245 268 268
+Gold 1150
+Silv 614
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 29
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  29009
+QuestPnts 50
+PAct  DEHQTd
+Empower  0
+WName Qinadin~
+Comm NOQ
+Deaf 0
+Pos  8
+Prac 8
+Trai 4
+Save  -2
+Alig  0
+ACs -25 -29 -28 76
+Wimp  15
+Attr 18 18 21 15 16
+AMod 0 0 0 0 0
+Pass QiPh0J95RSphQ~
+Titl  {CO{Bs{bi{cr{wi{Ws~
+Pnts 40
+TSex 1
+PSize 2
+LLev 28
+HMVP 280 245 268
+Cnd  0 0 0 0
+Ignore ram~
+Ignore robby~
+Sk 54 'cure light'
+Sk 1 'change sex'
+Sk 1 'bless'
+Sk 85 'cure serious'
+Sk 76 'protection evil'
+Sk 1 'protection good'
+Sk 76 'earthquake'
+Sk 91 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 75 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 76 'armor'
+Sk 75 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 76 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 75 'stone skin'
+Sk 1 'weaken'
+Sk 84 'mace'
+Sk 61 'dodge'
+Sk 80 'meditation'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear 2
+Cost 1280
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear 1
+Cost 1280
+End
+
+#O
+Vnum 4261
+Nest 0
+Cond 0
+Wear 11
+Cost 2210
+End
+
+#O
+Vnum 4263
+Nest 0
+Cond 0
+Wear 3
+Cost 2610
+End
+
+#O
+Vnum 4265
+Nest 0
+Cond 0
+Wear 6
+Cost 1950
+End
+
+#O
+Vnum 4267
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4269
+Nest 0
+Cond 0
+Wear 8
+Cost 2850
+End
+
+#O
+Vnum 4271
+Nest 0
+Cond 0
+Wear 9
+Cost 2250
+End
+
+#O
+Vnum 4273
+Nest 0
+Cond 0
+Wear 10
+Cost 2150
+End
+
+#O
+Vnum 4275
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4277
+Nest 0
+Cond 0
+Wear 13
+Cost 1990
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 0
+Wear 15
+Cost 2390
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 136 0 0 0
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 0
+Wear 14
+Cost 2390
+End
+
+#O
+Vnum 16002
+Nest 0
+Cond 0
+Wear 17
+Cost 2399
+Spell 3 'flamestrike'
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#END

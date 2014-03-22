@@ -1,0 +1,112 @@
+#PLAYER
+Name Melieze~
+Id   1093470455
+LogO 1093471367
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Darkelf~
+Sex  2
+Cla  1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 912
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1450
+PAct  QTd
+AfBy F
+Empower  0
+WName Melieze~
+Comm NO
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 80 80 80 80
+Attr 14 16 17 16 11
+AMod 0 0 0 0 0
+Pass Me2pOhJjgxfL2~
+Titl  Im a noob ~
+Pnts 49
+TSex 2
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 38 43 43
+Sk 1 'cure light'
+Sk 1 'change sex'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 1 'detect hidden'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'weaken'
+Sk 40 'mace'
+Sk 1 'sneak'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Affc 'armor'   0 249  89 -20  17          0
+End
+
+#END

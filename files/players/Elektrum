@@ -1,0 +1,508 @@
+#PLAYER
+Name Elektrum~
+Id   1150322992
+LogO 1169611432
+Vers 5
+Prom <%hhp/%Hhp %mmp/%Mmp %vmv/%Vmv %K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 153712
+Scro 33
+Room 3054
+HMV  5524 5524 2418 2418 2742 2744
+Gold 129
+Silv 341
+Gold_bank 655985
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200261
+QuestPnts 47
+PAct  CDEGQTbd
+AfBy DFHTUV
+WName Elektrum~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Trai 2
+Save  -110
+Alig  -1000
+Hit   445
+Dam   370
+ACs -702 -701 -704 -673
+Attr 18 27 27 22 18
+AMod 30 8 16 15 0
+Pass ElyEEhFGhVf6w~
+Titl  {Gis thankful for {BFluFFy {GImmortals.~
+Pnts 40
+TSex 1
+PSize 3
+LLev 41
+HMVP 1400 898 744
+Cnd  0 0 -1 -1
+Boards       4 General 1169145680 Ideas 1158582947 Announce 0 Personal 0 
+Sk 1 'identify'
+Sk 75 'invisibility'
+Sk 76 'teleport'
+Sk 76 'word of recall'
+Sk 93 'apport'
+Sk 80 'combat mind'
+Sk 53 'adrenaline control'
+Sk 77 'enhanced strength'
+Sk 46 'aura sight'
+Sk 77 'awe'
+Sk 76 'thought shield'
+Sk 88 'psychic healing'
+Sk 76 'mental barrier'
+Sk 76 'share strength'
+Sk 47 'levitation'
+Sk 75 'obfuscate'
+Sk 89 'bio fortress'
+Sk 75 'cell adjustment'
+Sk 75 'displacement'
+Sk 75 'ectoplasmic form'
+Sk 84 'lend health'
+Sk 75 'complete healing'
+Sk 75 'energy containment'
+Sk 76 'enhance armor'
+Sk 76 'flesh armor'
+Sk 81 'inertial barrier'
+Sk 99 'domination'
+Sk 79 'disintegrate'
+Sk 75 'essence drain'
+Sk 77 'agitation'
+Sk 77 'ballistic attack'
+Sk 48 'control flames'
+Sk 80 'death field'
+Sk 75 'detonate'
+Sk 75 'ego whip'
+Sk 83 'inflict pain'
+Sk 75 'mind thrust'
+Sk 75 'project force'
+Sk 75 'psionic blast'
+Sk 77 'psychic crush'
+Sk 75 'psychic drain'
+Sk 79 'ultrablast'
+Sk 100 'bfire'
+Sk 94 'sword'
+Sk 100 'dagger'
+Sk 77 'spear'
+Sk 75 'mace'
+Sk 48 'axe'
+Sk 75 'whip'
+Sk 100 'assassinate'
+Sk 1 'bash'
+Sk 19 'dirt kicking'
+Sk 79 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 21 'hand to hand'
+Sk 48 'kick'
+Sk 100 'dodge'
+Sk 97 'parry'
+Sk 25 'shield block'
+Sk 24 'trip'
+Sk 100 'second attack'
+Sk 91 'third attack'
+Sk 37 'envenom'
+Sk 49 'fast healing'
+Sk 15 'haggle'
+Sk 28 'hide'
+Sk 80 'meditation'
+Sk 78 'pick lock'
+Sk 46 'sneak'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 75 'heighten senses'
+Sk 75 'chameleon power'
+Sk 1 'metamorph'
+Sk 76 'shadow form'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'assassin basics'
+Gr 'psionic default'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Gr 'invisibility spell'
+Affc 'displacement'   0 100  -1 -96  17          0
+Affc 'displacement'   0 100  -1  12   2          0
+Affc 'displacement'   0 100  -1   0   0    1048576
+Affc 'enhanced strength'   0 100  -1  15   1          0
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'bio fortress'   0 100  30   0   0        128
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8433
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 7514
+Nest 0
+Cond 0
+Wear 20
+Cost 2000
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 1
+Name dagger fiery Stumpy~
+ExtF 65
+Cond 0
+Wear -1
+Lev  30
+Cost 2800
+Val  2 8 5 11 93
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 1800
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+End
+
+#O
+Vnum 8449
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8447
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8441
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8439
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8444
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11859
+Nest 0
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11864
+Nest 0
+Cond 0
+Wear 13
+Cost 7900
+End
+
+#O
+Vnum 11858
+Nest 0
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#O
+Vnum 8445
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 8459
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3036
+Nest 0
+Name direction map book spatula Stumpy~
+ShD  {rS{gp{ba{yT{bu{gL{ra{g'{ys {mBook of directions.{x~
+Desc {rS{gp{ba{yT{bu{gL{ra{g'{ys {mBook of directions has been left here.{x~
+Cond 0
+Wear -1
+Cost 45000
+End
+
+#O
+Vnum 3155
+Nest 0
+Cond 0
+Wear 19
+Cost 500
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 8458
+Nest 0
+Name light flame stalkers~
+ShD  {cthe secret {rF{RlAm{rE {cof the Stalkers{x~
+Desc {cthe secret {rF{RlAm{rE {cof the Stalkers had been left here.{x~
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 11889
+Nest 0
+Cond 0
+Wear 5
+Cost 50000
+End
+
+#O
+Vnum 11708
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 2
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 11905
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 23438
+Nest 0
+Name green cube face~
+ShD  {ba {gGreen {RC{Gu{Bb{RE {bface{X~
+Desc {bA {gGreen {RC{Gu{Bb{RE {bFace lies forgotten in the dust.{x~
+Cond 0
+Wear 18
+Cost 3294
+End
+
+#O
+Vnum 11903
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 1
+Cost 3868
+End
+
+#O
+Vnum 3169
+Nest 0
+Name wrath dagger argon Crovax~
+Cond 0
+Wear 16
+Cost 100000
+Val  2 35 20 2 221
+Affc 'pshocking blade'   5   0  -1   0   0         64
+End
+
+#END

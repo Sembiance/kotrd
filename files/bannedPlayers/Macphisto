@@ -1,0 +1,544 @@
+#PLAYER
+Name Macphisto~
+Id   1156650197
+LogO 1171229325
+Vers 5
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Sidhe Elf~
+Sex  0
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 5
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 178736
+Scro 33
+Room 6728
+HMV  58560 58560 13169 13169 14094 14094
+Gold 1011
+Silv 2945
+Gold_bank 7800
+Silv_bank 1553407
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200336
+QuestPnts 100
+PAct  CDGHTbd
+AfBy DFHV
+WName Macphisto~
+Comm FKNO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 268
+Trai 24
+Save  -129
+Alig  -949
+Hit   5464
+Dam   5437
+ACs -981 -981 -981 -968
+Attr 14 27 23 16 17
+AMod 23 19 19 11 20
+Pass MajQHBZRDtTPw~
+Titl  {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 46
+HMVP 843 919 744
+Cnd  0 0 -1 -1
+Alias x multi 'torm' 'torm' 'torm'~
+Boards       4 General 1169145680 Ideas 1158582947 Announce 0 Personal 0 
+Sk 1 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 75 'fireball'
+Sk 75 'acid blast'
+Sk 1 'spellfire'
+Sk 61 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 61 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 75 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'recharge'
+Sk 1 'sleep'
+Sk 75 'enchant armor'
+Sk 75 'enchant weapon'
+Sk 75 'charm person'
+Sk 75 'haste'
+Sk 76 'pass door'
+Sk 61 'portal'
+Sk 1 'nexus'
+Sk 75 'lightning bolt'
+Sk 1 'change sex'
+Sk 75 'detect evil'
+Sk 75 'detect good'
+Sk 1 'detect hidden'
+Sk 75 'armor'
+Sk 75 'blindness'
+Sk 1 'call lightning'
+Sk 75 'calm'
+Sk 75 'cancellation'
+Sk 1 'control weather'
+Sk 75 'curse'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 4 'fly'
+Sk 76 'gate'
+Sk 97 'giant strength'
+Sk 75 'identify'
+Sk 1 'infravision'
+Sk 75 'invisibility'
+Sk 1 'know alignment'
+Sk 75 'locate object'
+Sk 75 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 75 'refresh'
+Sk 76 'sanctuary'
+Sk 1 'energy shield'
+Sk 75 'slow'
+Sk 75 'stone skin'
+Sk 75 'summon'
+Sk 75 'teleport'
+Sk 75 'weaken'
+Sk 75 'word of recall'
+Sk 99 'sword'
+Sk 100 'dagger'
+Sk 82 'spear'
+Sk 89 'mace'
+Sk 82 'axe'
+Sk 80 'flail'
+Sk 75 'exotic'
+Sk 80 'bash'
+Sk 75 'berserk'
+Sk 76 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 77 'hand to hand'
+Sk 75 'kick'
+Sk 93 'dodge'
+Sk 99 'parry'
+Sk 76 'shield block'
+Sk 93 'trip'
+Sk 100 'second attack'
+Sk 97 'third attack'
+Sk 96 'fourth attack'
+Sk 88 'fast healing'
+Sk 90 'haggle'
+Sk 76 'meditation'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 75 'spellcraft'
+Sk 1 'metamorph'
+Sk 76 'multiburst'
+Sk 1 'divine wrath'
+Sk 75 'brew'
+Sk 75 'sharp blade'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'warrior basics'
+Gr 'mage default'
+Gr 'warrior default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Gr 'warrior spells'
+Affc 'sanctuary'   0  98  12   0   0        128
+Affc 'enhanced strength'   0 100  -1  15   1          0
+Affc 'change sex'   0 103 192  -1   6          0
+End
+
+#O
+Vnum 3099
+Nest 0
+Name oath vengeance band adamantite ruby Luther~
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Name oath vengeance band adamantite ruby Luther~
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 6702
+Nest 0
+Name dragonscale breastplate breast Luther~
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 6796
+Nest 0
+Name backpack spider Luther~
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 6759
+Nest 1
+Name talon phoenix flaming Luther~
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6703
+Nest 1
+Name claws Luther~
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6716
+Nest 1
+Name silver dragonscale chain Luther~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Name silver dragonscale chain Luther~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 19208
+Nest 1
+Name Demon Cloud Luther~
+Cond 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 6754
+Nest 1
+Name Faerie Dragon Spirit Luther~
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Luther~
+Cond 0
+Wear 19
+Cost 20000000
+End
+
+#O
+Vnum 6724
+Nest 0
+Name brass draogn girth Luther~
+Cond 0
+Wear 13
+Cost 22500
+End
+
+#O
+Vnum 6726
+Nest 0
+Name amethyst dragonscale scale cloak Luther~
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6799
+Nest 0
+Name blue dragonscale armband Luther~
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6701
+Nest 0
+Name leg legplates Luther~
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6758
+Nest 0
+Name eyes phoenix flaming Luther~
+Cond 0
+Wear 0
+Cost 50050
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 6732
+Nest 0
+Name ID tag Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 0
+Name ID tag Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 23451
+Nest 0
+Name rubik cube Luther~
+ShD  {bA {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{x~
+Desc {bA S{Bo{bl{Bv{bed {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!! {x~
+Cond 0
+Wear 18
+Cost 75000
+End
+
+#O
+Vnum 6780
+Nest 0
+Name sword dragon slayers Luther~
+Cond 0
+Wear 16
+Cost 20000000
+End
+
+#O
+Vnum 53
+Nest 0
+Name crown thorn rose Luther~
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 23410
+Nest 0
+Name boots plate Luther~
+Cond 0
+Wear 8
+Cost 100000
+End
+
+#O
+Vnum 29901
+Nest 0
+Name breastplate Luther~
+ShD  a breastplate~
+Desc A breastplate is here~
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 3080
+Nest 0
+Name potion heal healing Luther~
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'bless'
+End
+
+#O
+Vnum 29909
+Nest 0
+Name wristband Luther~
+ShD  a wristband~
+Desc A wristband lays here~
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 29909
+Nest 0
+Name wristband Luther~
+ShD  a wristband~
+Desc A wristband lays here~
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 6712
+Nest 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6705
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 29905
+Nest 0
+Name blanket Luther~
+ShD  a blanket~
+Desc A blanket is here!!~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

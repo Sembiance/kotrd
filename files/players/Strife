@@ -1,0 +1,206 @@
+#PLAYER
+Name Strife~
+Id   1092330772
+LogO 1108007882
+Vers 5
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Human~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 17
+OldLvl 17
+Sec  0
+Plyd 26043
+Scro 33
+Room 3054
+HMV  192 192 139 139 89 196
+Gold 705
+Silv 47
+Gold_bank 74369000
+Silv_bank 0
+Shares 0
+Share_level 17
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  17580
+PAct  CDEFGHQTd
+AfBy DEFT
+WName Strife~
+Comm FKNOQ
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 25
+Trai 7
+Alig  -1000
+Hit   9
+ACs 49 48 48 73
+Wimp  30
+Attr 16 17 15 18 14
+AMod 5 1 2 5 1
+Pass Str7tzTcFRA0Y~
+Titl  {y- a legend soon to be born{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 4
+HMVP 188 139 196
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 82 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'detect magic'   0  10   7   0   0         16
+Affc 'detect hidden'   0  10   7   0   0         32
+Affc 'detect invis'   0   9   7   0   0          8
+Affc 'giant strength'   0 447 236   4   1          0
+Affc 'fly'   0 436 239   0   0     524288
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 10287
+Nest 0
+Cond 0
+Wear 4
+Cost 500
+End
+
+#O
+Vnum 10289
+Nest 0
+Cond 0
+Wear 5
+Cost 500
+End
+
+#O
+Vnum 10290
+Nest 0
+Cond 0
+Wear 11
+Cost 500
+End
+
+#O
+Vnum 6515
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#END

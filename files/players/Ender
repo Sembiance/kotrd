@@ -1,0 +1,470 @@
+#PLAYER
+Name Ender~
+Id   1095865243
+LogO 1165584776
+Vers 5
+Desc {GEnd{ger{Y
+~
+Prom <%hhp %mm %vmv {G%X{wtnl><%K> ~
+Race Sidhe Elf~
+Clan Elite~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 686647
+Scro 33
+Room 3269
+HMV  10059 10059 5599 5599 5911 5911
+Gold 0
+Silv 1654
+Gold_bank 216392
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200034
+QuestPnts 21908
+PAct  DGJQTbcde
+AfBy DFTV
+WName Ender~
+Comm EFKNO
+RaceChan 0
+Deaf 0
+Pos  8
+Save  -167
+Alig  -448
+Hit   606
+Dam   592
+ACs -1572 -1572 -1572 -1536
+Wimp  4000
+Attr 18 27 24 18 14
+AMod 39 13 15 18 6
+Pass Eno04ku1a6tfM~
+Titl  - {gAre you {w[{BE{glit{Be{w]{g?{}~
+Pnts 40
+TSex 1
+PSize 3
+LLev 47
+HMVP 1558 882 744
+Cnd  0 0 -1 -1
+Alias t tell~
+Alias 1 ord all res end~
+Alias 2 cast tele end~
+Alias wa wake~
+Alias 3 push 2.hatch~
+Boards       4 General 1165366601 Ideas 1158582947 Announce 1114049929 Personal 1102692940 
+Sk 100 'gate'
+Sk 1 'identify'
+Sk 100 'teleport'
+Sk 97 'word of recall'
+Sk 100 'apport'
+Sk 85 'combat mind'
+Sk 76 'adrenaline control'
+Sk 76 'enhanced strength'
+Sk 1 'aura sight'
+Sk 75 'awe'
+Sk 76 'thought shield'
+Sk 75 'psychic healing'
+Sk 78 'mental barrier'
+Sk 1 'share strength'
+Sk 77 'levitation'
+Sk 75 'obfuscate'
+Sk 96 'bio fortress'
+Sk 84 'cell adjustment'
+Sk 78 'displacement'
+Sk 91 'ectoplasmic form'
+Sk 1 'lend health'
+Sk 89 'complete healing'
+Sk 78 'energy containment'
+Sk 79 'enhance armor'
+Sk 76 'flesh armor'
+Sk 77 'inertial barrier'
+Sk 92 'domination'
+Sk 84 'disintegrate'
+Sk 1 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 75 'control flames'
+Sk 82 'death field'
+Sk 1 'detonate'
+Sk 75 'ego whip'
+Sk 1 'inflict pain'
+Sk 1 'mind thrust'
+Sk 100 'project force'
+Sk 1 'psionic blast'
+Sk 1 'psychic crush'
+Sk 1 'psychic drain'
+Sk 87 'ultrablast'
+Sk 100 'blightning'
+Sk 75 'sword'
+Sk 100 'dagger'
+Sk 99 'mace'
+Sk 100 'assassinate'
+Sk 1 'bash'
+Sk 76 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 85 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 76 'shield block'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 95 'fast healing'
+Sk 90 'haggle'
+Sk 100 'meditation'
+Sk 75 'pick lock'
+Sk 76 'sneak'
+Sk 75 'scrolls'
+Sk 75 'wands'
+Sk 65 'recall'
+Sk 1 'spellcraft'
+Sk 75 'heighten senses'
+Sk 1 'metamorph'
+Sk 55 'shadow form'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'assassin basics'
+Gr 'psionic default'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'enhanced strength'   0 100  -1  15   1          0
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 2584
+Nest 0
+ShD  {GEnd{ger's {w[{BE{glit{Be{w] {BBackpack{x~
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 6704
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6744
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6747
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6749
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6710
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6756
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6757
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6782
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+Val  2 21 21 11 222
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 21097
+Nest 0
+Cond 0
+Wear -1
+Cost 5000
+Val  100 25 17 29 0
+Spell 3 'lightning breath'
+End
+
+#O
+Vnum 11905
+Enchanted
+Nest 0
+ShD  {GEnd{ger's {YX{yenocide{R B{rlade{x~
+Desc {GEnd{ger's {YX{yenocide{R B{rlade{x~
+ExtF 302514370
+Wt   1
+Cond 0
+Wear 19
+Cost 55000
+Val  2 17 18 3 221
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'reserved'   1 100  -1 -400  14          0
+Affc 'reserved'   1 100  -1 -500  13          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1  60  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25323
+Nest 0
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25323
+Nest 0
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 25302
+Nest 0
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 25301
+Nest 0
+Cond 0
+Wear -1
+Cost 120000
+End
+
+#O
+Vnum 25301
+Nest 0
+Cond 0
+Wear -1
+Cost 120000
+End
+
+#END

@@ -1,0 +1,236 @@
+#PLAYER
+Name Steroids~
+Id   1159934350
+LogO 1159938640
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Minotaur~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 4290
+Scro 33
+Room 20010
+HMV  39 39 102 102 106 106
+Gold 161
+Silv 3
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3248
+PAct  DQTd
+AfBy a
+WName Steroids~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  6
+Prac 5
+Trai 4
+Save  -32
+Alig  -1000
+Hit   64
+Dam   1
+ACs 65 65 65 69
+Attr 21 11 9 17 18
+AMod 4 0 0 4 4
+Pass StReH/tr.OhIE~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 49
+TSex 1
+PSize 4
+LLev 0
+HMVP 39 102 106
+Cnd  0 0 0 0
+Boards       4 General 1158931085 Ideas 0 Announce 0 Personal 0 
+Sk 1 'frenzy'
+Sk 1 'giant strength'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'flesh armor'   3  89  44   0   0         64
+Affc 'flesh armor'   3  90  44   0   0         32
+Affc 'flesh armor'   0  88  44 -20  17          0
+Affc 'enhanced strength'   0  93  44  15   1          0
+Affc 'adrenaline control'   3  94  39   0   0         16
+Affc 'adrenaline control'   0  96  39  12   5          0
+Affc 'adrenaline control'   0  87  39  12   2          0
+Affc 'bless'   0 230  59 -31  20          0
+Affc 'bless'   0 237  59  62  18          0
+Affc 'armor'   0 233  23 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 130 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#END

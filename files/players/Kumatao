@@ -1,0 +1,292 @@
+#PLAYER
+Name Kumatao~
+Id   1088109453
+LogO 1092666652
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Seraph~
+Sex  1
+Cla  6
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 111561
+Not  1092500052 1092534010 1091759724 0
+Scro 33
+Room 3054
+HMV  219 219 138 138 86 184
+Gold 4
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  85089
+QuestPnts 30
+PAct  CDEFGQTd
+AfBy FT
+Empower  0
+WName Kumatao~
+Comm INO
+Deaf 0
+Pos  8
+Alig  1000
+Hit   1
+Dam   1
+ACs 0 4 -3 86
+Wimp  41
+Attr 21 19 20 12 20
+AMod 1 0 0 0 0
+Pass Ku2RdtL1BlDl6~
+Titl  Crimson Knight~
+Pnts 88
+TSex 1
+PSize 2
+LLev 24
+HMVP 215 138 184
+Cnd  0 0 1 0
+Sk 85 'cure light'
+Sk 1 'bless'
+Sk 67 'cure serious'
+Sk 75 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 82 'sword'
+Sk 1 'disarm'
+Sk 38 'enhanced damage'
+Sk 86 'kick'
+Sk 16 'dodge'
+Sk 1 'parry'
+Sk 76 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 79 'meditation'
+Sk 50 'recall'
+Sk 1 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Gr 'paladin spells'
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4237
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4243
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 1604
+Nest 0
+Cond 0
+Wear 16
+Cost 910
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 5735
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5735
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5737
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5735
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5737
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5735
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5737
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5801
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+End
+
+#O
+Vnum 5802
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+End
+
+#END

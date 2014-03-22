@@ -1,0 +1,579 @@
+#PLAYER
+Name Selcar~
+Id   1108107566
+LogO 1113044194
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Sidhe Elf~
+Clan Shadow~
+Sex  1
+Cla  8
+AlertMe  1
+Hardcore  1
+CasterScore   0
+PrevHCLevel  33
+Legend -1
+OCla 4
+Levl 37
+OldLvl 37
+Sec  0
+Plyd 260657
+Scro 33
+Room 6
+HMV  448 782 348 371 307 916
+Gold 4810
+Silv 82124
+Gold_bank 60588
+Silv_bank 984305
+Shares 0
+Share_level 37
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  79409
+QuestPnts 143
+PAct  DGHTbcd
+AfBy DFNTVe
+WName Selcar~
+Comm EKNO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 21
+Trai 1
+Save  188
+Alig  -1000
+Hit   359
+Dam   182
+ACs -387 -383 -383 -338
+Wimp  20
+Attr 16 24 24 17 17
+AMod 10 2 2 5 3
+Pass SeZ4nLVQwDXRo~
+Titl  needs 2 clan members to join a clan?~
+Pnts 41
+TSex 1
+PSize 2
+LLev 71
+HMVP 517 271 366
+Cnd  0 8 -1 -1
+Alias kk kick~
+Alias dw drink water~
+Alias ss say sanc please~
+Alias hh say heal please~
+Alias pp say pass please~
+Alias tt trip~
+Alias bb beep 25.peasant~
+Boards       4 General 1111729110 Ideas 1112182558 Announce 1104975611 Personal 1110657078 
+Sk 46 'cure serious'
+Sk 46 'protection evil'
+Sk 46 'cure poison'
+Sk 1 'dispel evil'
+Sk 23 'remove curse'
+Sk 100 'golden aura'
+Sk 46 'detect evil'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'farsight'
+Sk 1 'infravision'
+Sk 100 'invisibility'
+Sk 77 'word of recall'
+Sk 14 'sword'
+Sk 100 'dagger'
+Sk 15 'spear'
+Sk 76 'mace'
+Sk 21 'axe'
+Sk 100 'assassinate'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 78 'hand to hand'
+Sk 100 'kick'
+Sk 92 'dodge'
+Sk 95 'parry'
+Sk 31 'shield block'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 88 'third attack'
+Sk 75 'envenom'
+Sk 85 'fast healing'
+Sk 76 'haggle'
+Sk 21 'hide'
+Sk 75 'pick lock'
+Sk 65 'sneak'
+Sk 72 'recall'
+Sk 1 'spellcraft'
+Sk 55 'companion'
+Sk 70 'track'
+Sk 1 'metamorph'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'ranger basics'
+Gr 'assassin default'
+Gr 'ranger default'
+Gr 'invisibility spell'
+Gr 'ranger spells'
+Affc 'protection evil'   0 499  16 250  20       8192
+Affc 'stone skin'   0 499 492 -40  17          0
+Affc 'bless'   0 499 242 -62  20          0
+Affc 'bless'   0 498 242 125  18          0
+Affc 'golden aura'   0 496 103   0   0 1073741824
+Affc 'giant strength'   0 442 191   4   1          0
+Affc 'fly'   0 434 194   0   0     524288
+Affc 'stone skin'   0 444 191 -40  17          0
+Affc 'combat mind'   0 478  28 100  18          0
+Affc 'combat mind'   0 470  28 -255  17          0
+Affc 'combat mind'   0 476  28 100  19          0
+Affc 'stone skin'   0 471 362 -40  17          0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 13207
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Val  50 26 6 0 0
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 4707
+Nest 0
+Cond 0
+Wear 5
+Cost 3000
+End
+
+#O
+Vnum 9001
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  25
+Cost 1630
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'reserved'   1  24  -1  -1   1          0
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  30
+Cost 2800
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25500
+Nest 0
+Cond 0
+Wear -1
+Cost 7142
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 19
+Lev  25
+Cost 1630
+Affc 'enchant weapon'   0 500  -1  75  18          0
+Affc 'enchant weapon'   1 500  -1  37  19          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'reserved'   1  24  -1  -1   1          0
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  30
+Cost 2800
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 15165
+Nest 0
+Cond 0
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 2
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 1
+Cost 2000
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  1
+Cost 157
+Val  2 1 4 2 140
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'enchant weapon'   0 500  -1  30  18          0
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 2522
+Nest 0
+Name torch shadow Stumpy~
+Cond 0
+Wear 0
+Cost 10000
+End
+
+#O
+Vnum 2523
+Nest 0
+Name vial flask shadow clan Stumpy~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Cost 284
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 5405
+Nest 0
+Cond 0
+Wear 10
+Cost 720
+End
+
+#O
+Vnum 15405
+Nest 0
+Cond 0
+Wear 12
+Cost 11845
+End
+
+#O
+Vnum 10300
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 25023
+Nest 0
+Cond 0
+Wear -1
+Cost 10404
+End
+
+#O
+Vnum 16089
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 10299
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 21255
+Nest 0
+Cond 0
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 21255
+Nest 0
+Cond 0
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10428
+Nest 0
+Cond 0
+Wear -1
+Cost 2900
+End
+
+#O
+Vnum 10428
+Nest 0
+Cond 0
+Wear -1
+Cost 2900
+End
+
+#O
+Vnum 2275
+Nest 0
+Cond 0
+Wear 6
+Cost 4100
+End
+
+#O
+Vnum 15410
+Nest 0
+Cond 0
+Wear 14
+Cost 6700
+End
+
+#O
+Vnum 15410
+Nest 0
+Cond 0
+Wear 15
+Cost 6700
+End
+
+#END

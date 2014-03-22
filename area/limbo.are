@@ -1,0 +1,1404 @@
+#AREADATA
+Name Limbo~
+Builders Argon Venus~
+VNUMs 1 99
+Credits N/A   ~
+Security 9
+Flags FG
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#1
+kitten cat pet~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+cat~
+ABU Z 400 0
+0
+1 2 2d6+11 1d1+99 1d4+0 scratch
+8 8 8 10
+FH AZ C 0
+stand stand either 0
+AGV ACDEFGHJKQUV tiny unknown
+#2
+questmaster~
+the Questmaster~
+The Questmaster
+~
+~
+Human~
+AB 0 10 0
+0
+5 5 1d6+6 1d6+6 1d6+6 none
+-9 -9 -9 -9
+0 0 0 0
+stand stand none 6000
+AHMV ABCDEFGHIJKMV medium unknown
+#3
+shopkeeper~
+a humble shopkeeper is here~
+A humble shopkeeper is here
+~
+~
+Human~
+ABGd 0 20 0
+0
+5 20 10d6+20 5d4+4 10d6+10 slash
+-9 -9 -9 -9
+0 0 0 0
+stand stand none 15000
+AHMV ABCDEFGHIJKMV small unknown
+#4
+weapon forger~
+a weapons forger~
+A weapons forger
+~
+You see a big fat man. He is the weapons forger.
+~
+Human~
+ABEd 0 45 0
+0
+20 20 10d6+50 5d5+5 20d6+100 pierce
+-20 -20 -20 -20
+0 0 0 0
+stand stand none 9700
+AHMV ABCDEFGHIJKMV medium unknown
+#5
+zombie~
+a zombie~
+A zombie is here, slaving away for its master.
+~
+This zombie has a blank look on its face.  Rest assured, it wouldn't stir if
+you help a knife to its throat.
+~
+Human~
+A DFJZac 0 0
+0
+2 8 0d0+0 0d0+0 8d8+20 punch
+10 10 10 10
+D ALQ GIS E
+stand stand none 0
+AEHJMVc ABCDEFGHIJKMV medium unknown
+#9
+polar bear~
+{RBIG polar bear{x~
+{RBIG polar bear{x
+~
+~
+bear~
+AB 0 0 0
+0
+2 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFGHJKUV medium unknown
+M ACT 1000 pokes you in the ribs~
+#10
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV BCDEFGIJKMV medium unknown
+F par AH
+#52
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#99
+kezzerdrix~
+{RK{rezzerdrix{x~
+Kezzerdrix, King of Dragonkind, paces endlessly.
+~
+~
+dragon~
+ART JT -1000 0
+0
+500 1000 100d1000+50000 100d1000+10000 100d500+1000 flbite
+0 0 0 0
+CDEFGHIKMNO ACELQ BCEHPVace 0
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+M GREET 99 100~
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+SELECT_A_MATERIAL money 0 A
+A 0 0 0 0
+0 10 0 P
+#2
+coin gold cash~
+a gold coin~
+One valuable gold coin.~
+SELECT_A_MATERIAL money 0 A
+0 A 0 0 0
+0 0 10 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+GOLD money 0 A
+0 0 0 0 0
+0 10 0 P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+SILVER money 0 A
+0 0 0 0 0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+SELECT_A_MATERIAL money 0 A
+0 0 0 0 0
+0 10 0 P
+#9
+trash~
+a piece of trash~
+A piece of trash is here~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+0 0 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+ORGANIC npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse %s~
+the corpse of %s~
+The corpse of %s is lying here.~
+ORGANIC pc_corpse O A
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+0 50 0 P
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+SELECT_A_MATERIAL food 0 A
+E E 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+SELECT_A_MATERIAL food 0 A
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+SELECT_A_MATERIAL food 0 A
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+SELECT_A_MATERIAL food 0 A
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+0 20 0 D
+#20
+bread loaf~
+a small loaf of {wbread{x~
+A small loaf of {wbread{x looks as if it has just been baked.~
+SELECT_A_MATERIAL food 0 A
+CE CE 0 0 0
+0 10 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+SELECT_A_MATERIAL light_source A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#22
+spring pool water~
+{Wa {Cmag{cica{Wl {cspr{Cing{x~
+{WA {Cmag{cica{Wl {cspr{Cing{W is here.{x~
+SELECT_A_MATERIAL fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+SELECT_A_MATERIAL container GMPUYZ AQ
+1000 E 0 100 50
+0 0 0 P
+#24
+bag~
+a bag~
+A bag~
+SELECT_A_MATERIAL container 0 AO
+9999 A 0 99 0
+5 5 20 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+SELECT_A_MATERIAL portal GOT 0
+0 0 0 0 0
+0 0 0 P
+#34
+certificate spellup~
+{WA Certificate of Immortal {RSpellup{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+certificate~
+{WThis Certificate is worth 3 Immortal spells.{x
+ 
+{MYou may have {G1{M of the {G3{M major spells:{x
+ 
+{M(1  {YGolden Aura{x
+{M(2  {BCombat Mind{x
+{M(3  {RFrenzy{x
+ 
+{MThe other {G2{M spells may be of any choice.{x
+ 
+~
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+#35
+certificate restring~
+{WA Certificate of {MRestring{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+E
+certificate~
+{WThis Certificate is worth {G1{W EQ Restring.{x
+{wrestring: rename a piece of eq{x
+{YThe restring must be approved by an {WImmortal!{x
+~
+#36
+certificate gold~
+{WA Certificate for {YGold{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+E
+certificate~
+{WThis Certificate is good for {Y5k gold!{x
+~
+#37
+certificate exp~
+{WA Certificate for {GBonus Experience{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+certificate~
+{WThis Certificate is worth {G200 {Wexperience points!{x
+~
+#38
+certificate forge~
+{WA Certificate of {DForge{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+certificate~
+{WThis Certificate is worth {G1 {WWeapon Forge!{x
+~
+#39
+certificate enchant~
+{WA Certificate of Immortal {BEnchant{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+certificate~
+{WThis certificate is worth {G1{W Immortal Weapon or Armor Enchant!{x
+~
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+#40
+certificate qp~
+{WA Certificate for {GBonus QPs{x~
+A piece of paper has been left lying here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 50000 P
+E
+pickupmessage~
+{RYES!!{x
+{YHi! Im a magic {WCertificate!{x
+{YType look certificate to see what I do.{x
+{YThen give me to an {WImmortal {Yto claim your prize!{x
+~
+E
+dropmessage~
+{ROH NO!!!{x
+{YI cant believe you just dropped me!!{x
+{YYou better pick me up before someone else get me!!!{x
+~
+E
+certificate~
+{WThis Certificate is worth {G200 {Wquest points!{x
+~
+#41
+chocolate bar~
+a bar of chocolate.~
+A bar of chocolate.~
+SELECT_A_MATERIAL segment 0 AO
+ABDF BDF 0 0 0
+0 0 0 P
+E
+joinmsg~
+You got your peanut butter on my chocolate!!
+~
+#42
+peanut butter~
+peanut Butter~
+A jar of peanut butter~
+SELECT_A_MATERIAL segment 0 AO
+ABDF ADF 0 0 0
+0 0 0 P
+E
+joinmsg~
+You got your chocolate in my peanut butter!!
+~
+#43
+reeses peanut butter cup~
+a Reese's Peanut Butter Cup!~
+A Reese's Peanut Butter Cup!~
+SELECT_A_MATERIAL boat A AO
+0 0 0 0 0
+0 0 0 P
+E
+mademsg~
+Yaay!! A Reeses peanut butter cup!!
+~
+#53
+crown thorn rose~
+{ya crown of {R@{G}-->-->---{x~
+{cSomeone has drop a crown of thorns here.{x~
+STAR_ROSE armor AOTY AE
+CFG CFG CFG CFG 0
+99 0 100000 P
+A
+19 40
+A
+18 50
+A
+12 200
+A
+13 200
+A
+4 5
+#54
+bellybutton~
+{RS{Yem{CB{GI{ran{McE{x's {WMIGHTY{x bellybutton~
+{RS{Yem{CB{GI{ran{McE{x's {WMIGHTY{x bellybutton~
+ORGANIC armor B A
+0 0 0 0 0
+500 0 0 P
+#65
+stone dice~
+some stone dice~
+Some stone dice ~
+SELECT_A_MATERIAL treasure d A
+0 0 0 0 0
+0 0 0 P
+#77
+x~
+{WA bright shiny {Ra{rp{Rp{rl{Re{x~
+{WOh my gosh! What a delicious-looking {RA{rp{Rp{rl{Re{x{W!!!{X~
+ORGANIC treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#80
+pumpkin halloween 2004~
+{wa {yH{Ra{rl{Wl{Po{yw{Re{re{Wn {PP{yu{Rm{rp{Wk{Pi{yn{R!{r!{W!{P!{x~
+A hollow pumpkin crammed with goodies sits here, forgotten.~
+ORGANIC container AOT AO
+300 0 0 3000 0
+1 2 0 P
+#81
+wax teeth candy halloween 2004~
+{wa set of {Rw{Wax teet{Rh{x~
+A scary set of fangs sits on the floor, dripping fake blood.~
+SELECT_A_MATERIAL pill GT A
+105 'combat mind' 'bless' 'armor' 'stone skin'
+1 4 0 P
+#82
+fun size candy bar 2004~
+{wa {cf{Bu{Gn{y-{cs{Bi{Gz{ye{cd {Bc{Ga{yn{cd{By{Gb{ya{cr{x~
+A piece of melting chocolate is here, inedible!~
+SELECT_A_MATERIAL pill TU A
+105 'heal' 'heal' 'heal' 'heal'
+1 5 0 P
+#83
+pixie stix 2004~
+{Pp{Ri{Yx{Wi{Ce{P-{Rs{Yt{Wi{Cx{P!{x~
+A strange colorful tube has been left here.~
+SELECT_A_MATERIAL potion BT A
+105 'sanctuary' 'change sex' 'fly' 'haste'
+1 0 0 P
+#89
+quest box~
+{WA {Bm{Ca{Bg{Ci{Bc{Ca{Bl{x {Wquest box!!!!!!!!{X~
+{WA {Bm{Ca{Bg{Ci{Bc{Ca{Bl{x {Wquest box!!!!!!!!{X~
+WOOD container GTY AOP
+1000 0 0 300 10
+1 0 0 P
+#98
+obsidian dagger~
+{ban{D Obsidian{b dagger{x~
+{bYavi's obsidian dagger lays here.  Return it.{x~
+UNKNOWN weapon BHY AN
+dagger 100 1000 slice 0
+0 10 0 P
+#99
+throne yavi~
+{GYavi's Throne of {WLight{x~
+{WA brilliant throne fashioned from pure light radiates from atop a dias.{x~
+SELECT_A_MATERIAL furniture 0 P
+BD 0 EHK EIJKN EIJKN
+500 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+{RM{Yy{Gs{Ce{Br{mi{Me{R'{Ws {DRoom{x~
+{DIf{W MUD{G({WCH{D->{Wanything within the mud{G){W is {Y"{Wbroken{Y"
+                               {Dthen
+             {G({MBeep {RM{Yy{Gs{Ce{Br{mi{Me {Wto fix it{G)
+                              {Delse
+{DDO{W_{DFUNCTION {Y"{WMUD will fall apart{Y"{D 
+END IF{x
+~
+0 12 1
+C 0
+S
+#3
+Humble Shop~
+You are in a small and humble shop.
+Many different items are available for sale.
+~
+0 32780 0
+C 0
+S
+#4
+{cImmortal Information Room{x~
+{WThis room is for the various IMMORTAL Rules, Information, Explanation, etc...
+We (the Implementors) will try to keep this room as updated-to-the-minute as we 
+possibly can with any new changes, additions, information, and so on... By doing
+this it should allow you to remain in the 'know' about what is going on in KotRD.
+ 
+This also will allow us to start having some consistency with the various Immortal
+Rules and Mortal Rules within the game, since one of the biggest problems we are
+currently having is none of the KotRD Rules are actually written down anywhere.
+ 
+If you think of something that should be written up in here that currently is not,
+please send a note to IMPLEMENTOR with what your idea is.  Almost anything that is
+important to the Immortals and to the Game will be posted in here.
+ 
+ 
+{CMULTI{xkilling{x
+~
+0 32780 1
+E
+multi~
+MULTIKILL - Recently there has been some problems with MULTIKILLing.  Well, I know
+    some of you are not going to like this, but there is no, and will be no MULTIKILL
+    rues made...  What I am saying is MULTIKILLING is COMPLETELY LEGAL...  Before
+    some of you start getting ready to write nasty notes, please keep reading and you
+    will see the reasoning behind this:
+ 
+    a) When you die you are transported back to a SAFE room in MIDGAARD, not only
+       is this room safe, but it also HEALs you faster if you rest in it.  Because
+       of this, if you decide to Immediately jump up with only 10 HP and go running
+       back to the room where the other player just killed you, that is YOUR choice!
+       No one is forcing you to do this...  The room you appear in after death is
+       there to PROTECT you, if you leave this protection before you are healed, you
+       do so at your own risk.
+ 
+b) The most common response to the above is the need for you to recover your 
+       corpse...  Well, lets go with that line of reasoning..  A good PKiller will
+       1) hang around your corpse for a little while to see if you really are that
+          silly to go running back to it before you have fully recovered... 
+       2) Even if they aren't there waiting for you, they are probably still going
+          thru your pockets too see what you had of value they can now loot, so it
+          is in your best interrest to waita little while before returning.  After
+          all, you were just killed, this is not a pleasant thing and yes, they are
+          probably going to loot your corpse for whatever is the best on it, all you
+          can really do is bite the bullet and accept that you have been PKilled and
+          that you will be losing some things that you considered valuable. 
+          Plus, if the PKiller is truly a dyed-in-the-wool-killer and is smart, they
+          are going to do everything they possibly can to prevent you from recovering
+          ANY of your EQ, if you think about it, Why would I want you to get all 
+          your EQ back immediately when I just killed you?  So that you can come after
+          me right then?  I would rathr keep you from it so it will take you a few
+          hours to RE-EQ, allowing me to get ready for your revenge ;)
+       3) Lastly,  Every piece of EQ in this game is UNLIMITED LOAD.  THis means that
+          whatever you lost can be recovered from the MOB you got it from originally.
+          Yes it is going to be a pain and time consuming, but you were killed, it
+          happens.  If you do not know where your EQ is comes from 1) that is sad
+          that you have not explored here to discover all the things the MUD has
+          to offer, and 2) Now is a good time to start learning abut the MUD ;)
+~
+C 0
+S
+#5
+{cBuilder Info/Guide Room{x~
+You will find INFO on BUILDing, Explanation of OLC Commands & Flags, Charts for Base
+MOB & OBJ Stats and much more...  Before you start sending off notes with questions
+about BUILDing & such, try reading the INFO posted here to see if your question has
+already been answered here.  If there is something you do not see posted here but you
+feel it should be, or if something posted here is not very clear, please note IMP &
+we will see what can be done to fix the situation...
+ 
+{cType {WLOOK {c<{WKEYWORD{c> to view your selection.
+Below are the AVAILABLE {WKEYWORDs {cto date.{x
+ 
+{CMINDEX {c- {WMOB INFO Index         {COINDEX {c- {WOBJ INFO Index{x
+~
+0 32780 1
+E
+obj03~
+{x
+{x       {C- Armor Class Values Based on Level.{x
+{x
+{c     | {WLevel {c| | {RBash {c| |{BPierce{c| | {DSlash{c| | {MExotic{c|{x
+{c     |  {W0-9  {c| |   {R1  {c| |   {B1  {c| |   {D1  {c| |   {M1   {c|{x
+{c     | {W10-14 {c| |   {R2  {c| |   {B2  {c| |   {D2  {c| |   {M2   {c|{x
+{c     | {W15-19 {c| |   {R4  {c| |   {B4  {c| |   {D4  {c| |   {M3   {c|{x
+{c     | {W20-24 {c| |   {R6  {c| |   {B6  {c| |   {D6  {c| |   {M4   {c|{x
+{c     | {W25-29 {c| |   {R8  {c| |   {B8  {c| |   {D8  {c| |   {M5   {c|{x
+{c     | {W30-34 {c| |  {R10  {c| |  {B10  {c| |  {D10  {c| |   {M6   {c|{x
+{c     | {W35-39 {c| |  {R12  {c| |  {B12  {c| |  {D12  {c| |   {M7   {c|{x
+{c     | {W40-44 {c| |  {R14  {c| |  {B14  {c| |  {D14  {c| |   {M8   {c|{x
+{c     | {W45-49 {c| |  {R16  {c| |  {B16  {c| |  {D16  {c| |   {M9   {c|{x
+{c     | {W50-59 {c| |  {R18  {c| |  {B18  {c| |  {D18  {c| |  {M10   {c|{x
+{c     | {W60-69 {c| |  {R20  {c| |  {B20  {c| |  {D20  {c| |  {M11   {c|{x
+{c     | {W70-79 {c| |  {R22  {c| |  {B22  {c| |  {D22  {c| |  {M12   {c|{x
+{c     | {W80-89 {c| |  {R24  {c| |  {B24  {c| |  {D24  {c| |  {M13   {c|{x
+{c     | {W90-99 {c| |  {R26  {c| |  {B26  {c| |  {D26  {c| |  {M14   {c|{x
+{c     |  {W100  {c| |  {R28  {c| |  {B28  {c| |  {D28  {c| |  {M15   {c|{x
+{x
+{wNOTE: These are the max alloable ac per lvl, it canbe less...{x
+{x
+~
+E
+obj02~
+{x
+{G**{WAttributes: {CCannot exceed {M1/20 {Cof the object level {w(LVL divided by 20){C.{x
+{x              {WExample: {CA level 100 object can have no more than {M5 {Cpoints of each{x
+{x              {Cattribute{Cadded to it. For most cases you will get a decimal number, just{x
+{x              {Cround the decimal to the closer value. If the value is lower than 1 then{x
+{x              {Cround it to 1.{x
+{x
+{G**{WAffects:    {RHP{C, {MMANA{C, and {gMOVE {Ccannot exceed object level multiplied by {M1.5{C.{x 
+{x              {WExample: {CA level 50 object cannot have Hp, Mana, or Move over 75{x
+{x              {w(50*1.5=75){x
+{x
+{G**{WHR/DR:     {CStill being reviewed, mostly Hitroll is a touchy subject. For now, the{x
+{x             {Cway it works is like so. Hitroll cannot be more than {M1/2 {Cof the level.{x
+{x             {CRound up if value is less than 1. Damroll cannot be more than {M1/3 {Cof the{x
+{x             {Clevel. Like hitroll, round up if value is less than 1.{x
+{x
+{G**{WAverage:   {CFor weapons, damage is calculated as a roll of dice {w(like 4d6){x
+{x             {CIf you set a damage of XdY, you can calculate the following:{x
+{x
+{x             {WMinimum damage= {GX{x
+{x             {cMaximum damage= {GX * Y{x
+{x             {WAverage damage= {G((X * Y) + X)/2  NOT (X*Y)/2, be careful!{x
+{x
+{x             {CAverage Damage {RWILL NOT {Cexceed the level of the weapon multiplied by {M1.3 {COR{x
+{x             {M1.7 {Cfor two-handed weapons only.{x
+{x
+{wNote: These are the max allowed, they can be less.{x
+{x      {wAlso you can have more than max IF you have some penalties, like -2 STR for example.{x
+{x      {wGo easy on the speacial flags like shocking, vamp ect. No weapon{x
+{x      {wshould have more than 3 forges and cannot have frost and flame both.{x
+{x      {wOne more thing, vorpal is for slash/slice type weapons, and sharp is for pierce stab weapons.{x
+~
+E
+mob01~
+{CMOBILE ONLINE EDITOR EXPLANATIONs {c& {CINFO{x
+{cSome of the MOB ONLINE EDITOR VALUEs are somewhat explained here.  This is
+mostly just to give you an IDEA of what the VALUE is used for & what we {D({WThe
+IMPs{D){c would like to see taken into consideration when assigning these VALUEs.
+
+
+{CDAMTYPE{x
+{cThis should be as close as possible to what the MOB you are creating would
+or should do as an ATTACK.  Meaning, if you make a MOB that is of the RACE
+LIZARDMAN, it would NOT have the DAMTYPE of DIVINE.  DAMTYPE is the type of
+ATTACK and DAMAGE that the MOB does when UNARMED!!  If you have your MOB load
+wielding a weapon, the MOB use the DAMTYPE of the wielded weapon.
+
+{CHITDICE{c/{CDAMDICE{c/{CMANADICE{x
+{cWhen you INPUT these, use the MOB CHARTs for the BASE values.  The BASE 
+value on the CHART is used as the + to the DIE ROLL.  For the DIE ROLL just
+INPUT 1d1 then for the +, use the values on the CHART or as close to them 
+as possible while still keeping a variance to your MOBs.
+
+{Gi{g.{Ge{g. {WIf you were making an 85th Lvl MOB you would type this for
+     its HITDICE, DAMDICE, MANADICE{w:
+{C     HITDICE 1d1 + 16559{c, {CDAMDICE 1d1 + 230{c, {CMANADICE 1d1 + 10000
+
+{cMANADICE means little if the MOB is not a CASTER.  You see above that I
+used the MOB CHARTs to get the BASE pluses, but I also added a little to
+DAMDICE {D({WMy add didn't put it over the NEXT LEVELs BASE DAMDICE{D){c and I picked
+{ca value for HITDICE between the RANGE shown on the MOB CHART {D({Wsince this MOB
+{Wis going to be one of my tougher MOBs, I put its HD almost at the MAX, I
+{Wam going to use the MAX HD for the MAIN MOB in the area{D){c.{x
+ 
+{r*** {RType {WLOOK MOB02 {Rfor more INFO {r***{x
+ 
+~
+E
+mindex~
+{cType {WLOOK {c<{WKEYWORD{c> to view the INFO you want to learn about...
+ 
+{RMOB01 {c- {CA Basic Explanation of some of the VALUEs in the MOB OnLine Editor {cpt 1
+{RMOB02 {c- {CA Basic Explanation of some of the VALUEs in the MOB OnLine Editor {cpt 2
+{RMOB03 {c- {CA Basic Explanation of some of the VALUEs in the MOB OnLine Editor {cpt 3
+ 
+{RMOB04 {c- {CThe MOB base statistics CHARTs {cpt 1
+{RMOB05 {c- {CThe MOB base statistics CHARTs {cpt 2
+~
+E
+mob02~
+{cMOB INFO/EXPLANATIONs part 2{x
+ 
+{CWEALTH{c/{CARMOR CLASS{x
+{cWealth should be almost right on the MOB CHART, the value on the CHART
+represents a MULTIPLIER to the MOBs level, from which you can ADD or SUB
+some to give a variance.  The ARMOR values should also be used as close
+as possible to the ones listed.  Remember, you can ADD or SUB to the MOB
+CHARTs values, just don't roll the VALUE you are MODIFYing to where it 
+drops to a lower MOBs level or raises to a higher MOBs value.
+
+{CIMMUNITIES{c/{CRESISTANCES{c/{CVULNERABILITIES{x
+{cPlease watch how you apply these to your MOBs and try to have/think of a 
+good reason WHY a particular MOB would have one or more of these.  Do NOT
+just give the MOBs IMMUNITY to MAGIC just because it sounds kewl.  Also, 
+MOBs of low level {D({WUnder 35ish{D){c probably would have FEW if ANY of the listed
+IMMUNITIES but mostly they would have 1 {D({Wmaybe 2{D){c RESISTANCES and 1 {D({Wmaybe 2{D)
+{cVULNERABILITIES.  As the MOB gets higher and higher level, then the more
+{cpowerful IMMS/RES/VULN would start showing up.
+ 
+{COFFENSIVE FLAGS{x
+{cAs above, try to limit these based on the MOBs level.  Every MOB would 
+NOT have PARRY and/or DODGE, or even BERSERK.  If the MOB does not wield
+any weapons, or is not some sort of FIGHTER-type {D({WACT Warrior{d){c it probably
+would NOT have PARRY, DISARM, DIRT KICK, TRIP, etc...  If you make a MAGE MOB,
+give it MAGE like FLAGs, i.e. DODGE, FADE, TRIP, SPEC_PROC CAST_ADEPT, etc...
+ 
+ 
+{r*** {RType {WLOOK MOB03 {Rfor more INFO {r***{x
+ 
+~
+E
+mob03~
+{cMOB INFO/EXPLANATIONs part 3{x
+ 
+{CACT FLAGS{x
+{cThese should be APPLIED with thought of what kind of MOB you are wanting to
+create/populate your Area.  ACT Flags are what basically DEFINEs your MOBs 
+personality.  Flagging the MOB WARRIOR, AGGRESSIVE, SCAVENGER would be a MOB
+that Attacks ANYTHING that comes into its room, Fights like a Warrior of the
+MOBs level and LOOTs the corpse of its victims, in other words, A Pissed Off
+Ass-Kicking Guy that UpGrades its EQ when it gets the chance!!
+
+{CAFFECT FLAGS{x
+{cAs always, becareful with these and try to have an idea/reason as to WHY that
+MOB has which AFF FLAG.  The more powerful FLAGs should be reserved for SPECIAL
+or HIGH LEVEL MOBs, while low level MOBs should have fewer and fewer AFF FLAGs
+as they get lower and lower level.
+
+{CFORM{c/{CPARTs FLAGs{x
+{cJust use common sense here, if you make a MOB that has a RACE of HUMAN, it
+probably won't have the FORM REPTILE or the PARTs HORNs, CLAWs, etc...
+ 
+{CSPECIAL PROCEDUREs {D({WSPEC_PROC{D){x
+{cOnly use these, as with ANY FLAG/TOGGLE, if you KNOW what it does, or AFTER
+you have read its EXPLANATION and THEN know EXACTLY what it does.  If you are
+unclear about the one you POSSIBLY {D({WI say POSSIBLY because these should be used
+RARELY and only in VERY SPECIAL Circumstances{D){c want to use, ask an IMP, ASST IMP
+or even another BUILDER to help clarify what you are unsure of.
+ 
+ 
+{r*** {RRemember, if you are UNCLEAR or CONFUSED about what a FLAG, TOGGLE,
+SPEC_PROC, etc... does, or how any VALUEs from the MOB CHART should be used,
+PLEASE ask for help from a higher level IMM or IMP, and if they are also not
+sure, they will/should try and find out for you {D({Wsince they should know the 
+answer, the IMPs are expecting them to find it out for both you and for themself{D){R.
+If there is no one on that can help you, send a NOTE to IMP and we will try and 
+get back to you ASAP.{x
+~
+E
+mob04~
+{CMOBILE BASE STATISTICs CHART{c
+This is basically a guideline, all of your MOBs do not have to be the same in
+regards to the below CHART but, based on their level, they should be fairly
+close as this will insure a more balanced MUD making it so PCs will start
+being able to go to ANY Area within their level range and get Good EXP, etc...
+ 
+{gLEVEL  HitRoll  HitDice  DamDice  Wealth  ArmorCl
+{G 200    +1000    +100k    +800    x1000    -2000    
+ 150    +800     +85k     +650    x1000    -1750  
+ 145    +700     +75k     +600    x750     -1600
+ 140    +650     +65k     +550    x750     -1500
+ 130    +600     +55k     +500    x750     -1400
+ 120    +550     +45k     +450    x500     -1300
+ 110    +525     +35k     +400    x300     -1200
+ 100    +500     +30k     +350    x200     -1100
+  95    +450     +25k     +300    x200     -1000
+  90    +400     +20k     +250    x150     -875
+  85    +350     +17k     +225    x100     -750
+  80    +300     +14k     +200    x100     -600
+  75    +275     +12.5k   +175    x100     -500
+  70    +250     +9.5k    +150    x75      -400
+  65    +200     +8.5k    +125    x75      -300
+  60    +175     +7.5k    +100    x50      -200
+  55    +150     +6.5k    +90     x50      -100
+  50    +125     +5k      +80     x50      -90
+  45    +100     +3.5k    +70     x50      -80
+  40    +80      +2.5k    +60     x30      -70
+  35    +70      +1.75k   +50     x30      -50
+  30    +60      +1.25k   +40     x30        0
+  25    +50      +900     +30     x20       20
+  20    +40      +700     +20     x20       35
+  15    +30      +450     +15     x10       45
+  10    +20      +300     +10     x7        55
+   5    +10      +150     +5      x5        65
+   1    +5       +40      +3      x2        75
+ 
+ 
+{r*** {RType {WLOOK MOB05 {Rfor more INFO on the MOBILE BASE CHARTs {r***{x
+~
+E
+mob05~
+{CMOBILE BASE STATISTICs CHART {cpt 2{x
+ 
+{cWhen you INPUT something that calls for a DIE, type in the follwoing{w:
+
+  {C1d1 + {C<{WLEVEL AMOUNT for VALUE{c> ...
+  
+  {Gi{g.{Ge{g. {WTo INPUT the HITDICE for a 90th Lvl MOB you should type it
+       as such{w:  {CHITDICE 1 d 1 + 20000{W.
+      
+{cIf you use the above SYNTAX for your different VALUEs that require a DIE
+amount, you will end up with MOBs that have a steady number of HitPoints and
+that do Solid Amount of Consistant Damage.  Also, keep in mind that you can 
+fluxuate the above AMOUNTs, just try and keep within the spirit of the CHART
+so that we can try and maintain some simbilance of BALANCE between the MOBs
+and the PLAYERs.  
+
+{r*** {RIf you do ADD or SUB to the above AMOUNTs that is fine, just be sure
+    that your AMOUNTs do not roll DOWN or UP to AMOUNTs set for the LEVEL
+    below and above the LEVEL of the MOB you are building.
+
+    {Gi{g.{Ge{g. {cIf you are making a 50th LvL MOB, its HITDICE AMOUNT should NOT
+         be MODIFIED above +6500 {D({CThe AMOUNT for a 55th LvL MOB{D){c or below
+         +3500 {D({CThe AMOUNT for a 45th LvL MOB{D){c.{x
+ 
+~
+E
+oindex~
+{GAll Builders will follow these guidlinges or your zone/area will not pass inspection!{x
+{x
+{wLook at the keywords in {Rred{w.{x
+{x
+{ROBJ01 {C- Standard weights for weapons based on WClass.{x
+{ROBJ02 {C- Add affect guidlines for ALL object types.{x
+{ROBJ03 {C- Armor class values for ALL object types.{x
+~
+E
+obj01~
+{c-------------------{CSTANDARD WEIGHTS FOR WEAPONS{c-------------------{x
+{x
+{x
+          {WCLASS               {wMINIMUM  {c|    {WMAXIMUM{x
+                                       {c|{x
+          {RDAGGERS                {w5     {c|       {W50{x
+                                       {c|{x
+          {RSWORDS                {w50     {c|      {W180{x
+          {wTwo-handed           {w150     {c|      {W195{x
+                                       {c|{x
+          {RMACES                 {w60     {c|      {W100{x
+          {wTwo-handed            {w70     {c|      {W160{x
+                                       {c|{x
+          {RAXES                   {w5     {c|      {W100{x
+          {wTwo-handed            {w70     {c|      {W150{x
+                                       {c|{x
+          {RPOLEARMS             {w100     {c|      {W200{x
+          {G*{wMOST are two-handed         {c|{x
+                                       {c|{x
+          {RSPEARS                {w50     {c|      {W150{x
+          {G*{wMOST are two-handed         {c|{x
+                                       {c|{x
+          {RWHIPS                 {w10     {c|       {W30{x
+                                       {c|{x
+          {RFLAILS                {w60     {c|      {W160{x
+{x
+{G**{WNOTE: {CAll weights are in tenths. i.e. A weight of 40 is 4lbs.{x
+        {CJust divide by 10 to get the actual weight of the weapon.{x
+{G**{WNOTE: {CIf it says most are two-handed, dont make alot of one-handed.{x
+{x
+{x
+{c-------------------{CSTANDARD WEIGHTS FOR WEAPONS{c-------------------{x
+ 
+~
+C 0
+S
+#6
+{WAr{bg{Don{w's {wThrone Room{x~
+{x
+                                   {W,__--xxxxxx--__{x
+                                 {W,xxxxxxvvvvvvxxxxx.{x
+                               {W.cxxxxxxxxxxxxxxxxxxxo{x
+                               {WcxXXxxx xxxXXXxxxxxxxXvvb{x
+                              {WdnXXXc       X         xXXb{x
+                             {WxdPdP                   9b9bx{x
+                            {WxXbdX          |          .xbXXx{x
+                          {WdXXXXbo.                   .odXXXXb{x
+                         {W(XVXXXXXXOo.      _      .oOXXXXXXXX){x
+                         {WXXXXX'     `OOO8boood8OOO'     `XXXX{x
+                         {W`9XX'   {R{^O{x     {W'\p98v8p/'    {R{^O{x   {W`XXP{x
+                           {W9X.        oOOdb|dbObo        .Xp{x
+                             {W)b.  .dBO.dP'`V'`9b.db.   .dX({x
+                           {W,dXXXXXXXXXXXb      dXXXXXXXXXXXb.{x
+                          {WdXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb{x
+                         {WdXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb{x
+                         {W9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP{x
+                          {W`'      9XXXXXX(   )XXXXXXP      `'{x
+                                   {WXXXX X.`v'.X XXXX{x
+                                   {WXP^X'`b   d'`X^XX{x
+                                  {W(X. ii v=V=v= iiP ){x
+                                   {W`v  `       '  v'{x
+{x
+~
+0 8 1
+D4
+~
+~
+0 0 2522
+M 10000 H 10000
+C 0
+S
+#7
+{CAn {WIcy {Cabode{x~
+You have entered an icy cold realm.  You try to look around but you are
+blinded by the snow that swirls from the frigid north wind that is blowing.
+You think you see a pair of glowing eyes as you sense danger.  The sub-zero
+temperature invades your body as you think you better leave while you still
+ 
+{w
+    .----------------.__.00_
+   d                        o\
+  :       .                   -o
+  :       |         '   ._'---'
+  9      l          l    j
+  )     j            \   Y
+  |   _/--T-...----" -.  \
+  |  / \  |      |  /  \  \
+  \_;,, \_;,,    \_;,,  "-,;,
+~
+0 16908 0
+C 0
+S
+#8
+{WOphelia's Porch{x~
+{CThis is Ophelia's porch.  Go away.  {x 
+~
+0 16396 1
+D1
+~
+~
+1 0 9
+C 0
+S
+#9
+{WOphelia's Salon{x~
+{x                                  {Ghhhhhhh{x
+                                    {Gh{C:::::{Gh{x
+                                    {Gh{C:::::{Gh{x
+                                    {Gh{C:::::{Gh{x
+   {Gooooooooooo   ppppp   ppppppppp   h{C::::{Gh hhhhh           eeeeeeeeeeee{x 
+ {Goo{C:::::::::::{Goo p{C::::{Gppp{C:::::::::{Gp  h{C::::{Ghh{C:::::{Ghhh      ee{C::::::::::::{Gee{x
+{Go{C:::::::::::::::{Gop{C:::::::::::::::::{Gp h{C::::::::::::::{Ghh   e{C::::::{Geeeee{C:::::{Gee{x
+{Go{C:::::{Gooooo{C:::::{Gopp{C::::::{Gppppp{C::::::{Gph{C:::::::{Ghhh{C::::::{Gh e{C::::::{Ge     e{C:::::{Ge{x
+{Go{C::::{Go     o{C::::{Go p{C:::::{Gp     p{C:::::{Gph{C::::::{Gh   h{C::::::{Ghe{C:::::::{Geeeee{C::::::{Ge{x
+{Go{C::::{Go     o{C::::{Go p{C:::::{Gp     p{C:::::{Gph{C:::::{Gh     h{C:::::{Ghe{C:::::::::::::::::{Ge{x
+{Go{C::::{Go     o{C::::{Go p{C:::::{Gp     p{C:::::{Gph{C:::::{Gh     h{C:::::{Ghe{C::::::{Geeeeeeeeeee{x
+{Go{C::::{Go     o{C::::{Go p{C:::::{Gp    p{C::::::{Gph{C:::::{Gh     h{C:::::{Ghe{C:::::::{Ge{x
+{Go{C:::::{Gooooo{C:::::{Go p{C:::::{Gppppp{C:::::::{Gph{C:::::{Gh     h{C:::::{Ghe{C::::::::{Ge{x
+{Go{C:::::::::::::::{Go p{C::::::::::::::::{Gp h{C:::::{Gh     h{C:::::{Gh e{C::::::::{Geeeeeeee{x
+ {Goo{C:::::::::::{Goo  p{C::::::::::::::{Gpp  h{C:::::{Gh     h{C:::::{Gh  ee{C:::::::::::::{Ge{x
+   {Gooooooooooo    p{C::::::{Gpppppppp    hhhhhhh     hhhhhhh    eeeeeeeeeeeeee{x
+                  {Gp{C:::::{Gp{x
+                  {Gp{C:::::{Gp{x
+                 {Gp{C:::::::{Gp{x
+                 {Gp{C:::::::{Gp{x
+                 {Gp{C:::::::{Gp{x
+                 {Gppppppppp{x
+~
+0 24584 1
+E
+arrow~
+____________________
+         /
+        /
+       /
+       \
+        \
+         \
+          --------------------
+~
+D3
+~
+twinkie~
+1 0 8
+C 0
+S
+#10
+Score Samples~
+{x
+{W                                   Argon        {cClan{w: {CShadow                     .{x
+{w          _____{c________________________________________________________________ (@){x
+{w        .'{B* {W*{w./ {cHRs{w:{C3930  {cLevel {w: {C500      {c| STR {w: {W40  {C(30) {c| Trains    {w:   {C10 {c\| |{x
+{w     __/_{W*{w_{B*{w(_  {cAge{w: {C213  {cRace  {w: {CNephilim {c| INT {w: {W24  {C(14) {c| Practices {w:    {C0  {c|{w-{c|{x
+{w    / _______ \           {cSex   {w: {CMALE     {c| WIS {w: {W28  {C(13) {c| Experience{w: {C1500  {c| |{x
+{r   _{w\{r_{w){y/___\({r_{w/{r_          {cClass {w: {CMage     {c| DEX {w: {W40  {C(23) {c| {RExp to Lvl{w: {C1855  {c| |{x
+{r  / _{W(({y\- -/{W)){r_ \         {cAlign {w: {CEVIL     {c| CON {w: {W17  {C(12) {c|                   {c| |{x
+{r  \ \{W())({y-{W)((){r/ /{c---------------------------------------------------------------|{w-{c|{x
+{r   ' \{W(((())){r/ '          {cHitPt {w: {W90493{C(90493) {c|   {GPKills{w: {CAbove your lvl{w:  {G0   {c| |{x
+{r  / ' \{W)).)){r/ ' \         {cMana  {w: {W13333{C(13333) {c|           {cBelow your lvl{w:  {G0   {c| |{x
+{r / _ \ - | - /_  \        {cMove  {w: {W23940{C(23940) {c|   {RPDeths{w: {CAbove your lvl{w:  {R0   {c| |{x
+{r(   ( {W.;''';. {r.'  )       {cWimp  {w: 357          {c|           {cBelow your lvl{w:  {R0   {c| |{x
+{W_{r\"{W__ /    )\ {W__{r"/{W_ {c------------------------------------------------------------|{w-{c|{x
+{r  \/  {W\   ' {W/  {r\/         {cHITroll{w: {C438         {c|         Items {w:   {C69 {cof  {C1000  {c| |{x
+{r   .'  {W'...' {r' )          {cDAMroll{w: {C451         {c|         Weight{c: {C6502 {cof {C36125  {c| |{x
+{r    / /  |  \ \{c-----------------------------------------------------------------|{w-{c|{x
+{r   / .   .   . \    {cTotal mobs killed    {w:  {W638/2069  {C30%  {c|    Pierce {w: {C-1829  {c| |{x
+{r  /   .     .   \   {cTotal rooms explored {w: {W4616/7386  {C62%  {c|    Bash   {w: {C-1829  {c| |{x
+{r /   /   |   \   \  {cTotal objects found  {w:  {W656/2422  {C27%  {c|    Slash  {w: {C-1829  {c| |{x
+{r'   /    {Db    {r'.  '.{c---------------------------------------|    {cMagic  {w: {C-1814  {c| |{x
+{r   /     {DBb     {r'-. {cYour BeltPouch{w:    {cDeposited/Bank{w:     {c+--------------------|{w-{c|{x
+{r  |      {DBBb       {r'-. {YGold   {w: {Y924558    Gold   {w: {Y567518    {cQuest Pnts{w: {C49029  {c| |{x
+{r__\____{D.dBBBb{r.________){WSilver {w:  {W11283    {WSilver {w:    {W449    {cQuest Time{w:     {C0  {c| |{x
+{c             \________________________________________________________________  | |{x
+{B                    You are not affected by any spells.                       {c`\|{w-{c|{x
+{c                                                                                (@){x
+{c                                                                                 '{x
+{x
+{c                                    {WArgon        {cClan{w: {CShadow                     .{x
+{W      _,.  {c_____________________________________________________________________ (@){x
+{W    ,` -.){c/  {cHours{w:{C3930    {cLevel {w: {C500      {c| {cSTR {w: {W40  {C(30) {c| {cTrains    {w:   {C10 {c\| |{x
+{W   ( {W_{W/{D-{W\\{D-._  {cAge{w: {C213    {cRace  {w: {CNephilim {c| {cINT {w: {W24  {C(14) {c| {cPractices {w:    {C0  {c|{w-{c|{x
+{W  /,{D|`--._,-^|             {cSex   {w: {CMALE     {c| {cWIS {w: {W28  {C(13) {c| {cExperience{w: {C1500  {c| |{x
+{W  \_{D| |`-.,/||           {y,;{cClass {w: {CMage     {c| {cDEX {w: {W40  {C(23) {c| {RExp to Lvl{w: {C1855  {c| |{x
+{D    |  `-. .'|          {y/{w,{y;{cAlign {w: {CEVIL     {c| {cCON {w: {W17  {C(12) {c|                   | |{x
+{D    |     || |         {y/{w.{y/{c-------------------------------------------------------|{w-{c|{x
+{D     {D`r-._||/   __    {y/{w.{y/  {cHitPt {w: {W90493{C(90493) {c|   {GPKills{w: {CAbove your lvl{w:  {G0   {c| |{x
+{D __,-<_     )`-/  `. {y/{w.{y/   {cMana  {w: {W13333{C(13333) {c|           {cBelow your lvl{w:  {G0   {c| |{x
+{D'  \   `---'   \   |{y/{w.{y/    {cMove  {w: {W23940{C(23940) {c|   {RPDeths{w: {CAbove your lvl{w:  {R0   {c| |{x
+{D    |           |._{y/{w.{y/     {cWimp  {w: {C357          {c|           {cBelow your lvl{w:  {R0   {c| |{x
+{D    /   {rRot{RR{rD   {D/ {y/{w.{y/{c------------------------------------------------------------|{w-{c|{x
+{D\_/' \         | {y/ /       {cHITroll{w: {C438         {c|         {cItems {w:   {C69 {cof  {C1000  {c| |{x
+{D |    |  __/\-. {y/ /        {cDAMroll{w: {C451         {c|         {cWeight{w: {C6502 {cof {C36125  {c| |{x
+{D |    ,`'    {w. {y/ /{w.{c--------------------------------------------------------------|{w-{c|{x
+{D  \,.->._    {y\-{Dx{y-/   {cTotal mobs killed    {w:  {W638/2069  {C30%  {c|    {cPierce {w: {C-1829  {c| |{x
+{D  (  /   `-._{y//      {cTotal rooms explored {w: {W4616/7386  {C62%  {c|    {cBash   {w: {C-1829  {c| |{x
+{D   `Y-.____(__;      {cTotal objects found  {w:  {W656/2422  {C27%  {c|    {cSlash  {w: {C-1829  {c| |{x
+{D    |     {D(_){c-----------------------------------------------|    {cMagic  {w: {C-1814  {c| |{x
+{D    \_____{y()         {cYour BeltPouch{w:    {cDeposited{C/{cBank{w:     {c+--------------------|{w-{c|{x
+{c       \             {YGold   {w: {Y924558    Gold   {w: {Y567518       {cQuest Pnts{w: {C49029  {c| |{x
+{c        \            {WSilver {w:  {W11283    Silver {w:    {W449       {cQuest Time{w:     {C0  {c| |{x
+{c         \_____________________________________________________________________  | |{x
+                     {BYou are not affected by any spells.                       {c`\|{w-{c|{x
+                                                                                 {c(@){x
+                                                                                  {c'{x
+{x
+~
+0 8 1
+D3
+~
+~
+0 0 11
+C 0
+S
+#11
+{CASCii art{x~
+{x
+                              {R_                      _{x
+                            {R,/                        \,{x
+                  {R_________((                          ))_________{x
+                 {R/.-------./\\                        //\.-------.\{x
+                {R//{D@@@@@@@{R//{D@@{R\\  )                (  //{D@@{R\\{D@@@@@@@{R\\{x
+               {R//{D@@@@@@@{R//{D@@@@{R>>/                  \<<{D@@@@{R\\{D@@@@@@@{R\\{x
+              {R//{DO@O@O@O{R//{D@O@O{R//                      \\{DO@O@{R\\{DO@O@O@O{R\\{x
+            {R//{DOOOOOOOO{R//{DOOOO{R||          {D\  /          {R||{DOOOO{{R\\{DOOOOOOOO{R\\{x
+           {R//{DO%O%O%O%{R//{DO%O%O%{R\\         {D))((         {R//{D%O%O%O{R\\{D%O%O%O%O{R\\{x
+          {R||{D%%%%%%%%{R//{D'  `%%%%{R\\       {D//  \\       {R//{D%%%%'   {R`\\{D%%%%%%%{R||{x
+          {R(({D%%%%%%%{R((      {D%%%%%{R\\    {D((    ))    {R//{D%%%%%       {R)){D%%%%%%{R)){x
+           {R\{D:::' `::{R\\      {D`:::::{R\\   {D\){r--{D(/    {R//{D:::::'      {R//{D::' `:::{R/{x
+            {R){D'     `;{R)'      ({D`  ` {R\\ `{r<{W@  @{r>' {R/ / {D'  '{R)      `{R({D;'     `{R({x
+                    {R(               \`\ {r){R^^{r( {R/  /               {R){x
+                  {w_                  {R) \{r\{Doo{r/   {R({x
+                 {w({R@{w)                  {R\  `'   /                      {w_{x
+                 {w|{R-{w|\__________________{R\{w__{R^{w__{R<{w________{RoOo{w__________ ({R@{w){x
+                 {w| |                                  {DVVV          {w\|{R-{w|{x
+                 {w|{R-{w|       {WPhoenix{w: {rRebirth of the {RRed {rDragon       {w|{R-{w|{x
+                 {w|{R_{w|\_____________________________________________  | |{x
+                 {w({R@{w)                 {R/ ,/ \_____/ \\ {D'{R\/{D'         {w`\|{R-{w|{x
+                  {w'             {R___//^-      \____/\\               {w({R@{w){x
+                               {D<<<  \     {R__  <____/||               {w'{x
+                                         {R<   \ <___/||{x
+                                            {R|| <___//{x
+                                            {R\ \/__//{x
+                                             {R'----'{x
+{x
+~
+0 8 1
+D1
+~
+~
+0 0 10
+D3
+~
+~
+0 0 16
+C 0
+S
+#14
+{GVenus Fly Trap{x~
+{x
+              {R____             {r_   _       {W_  _{x
+             {R|  _ \  {r___  __ _| |_| |__   {W| |/ {D(_)___ ___{x
+             {R| | | |{r/ _ \/ _  | __| '_ \  {W| ' /{D| / __/ __|{x
+             {R| |_| |{r  __/ (_| | |_| | | | {W| . \{D| \__ \__ \{x
+             {R|____/ {r\___|\__,_|\__|_| |_| {W|_|\_\{D_|___/___/{x
+{x
+                                                         {G/\   __{x
+           {G__                                            \\| /_/{x
+      {G_   /  |                     {D/-\'=--.               {G\/{x
+     {G| \  \/_/                    {D(((-)\   \{g(______,_____,__{G\{g__,____{x
+     {G\_\| / __                    {D((-(( '-'/{g,---,-----,--.--,-----,-{x
+        {G\/_/__\           {D.--='/-\ \(/.=--'       {G______/{x
+ {g____,__{G/{g__,_____,______){D/   /(-)))               {G\__/ /\__{x
+ {g-,-----,--.--,-----,---,{D\'-' ((-))                 {G__/ |\ \{x
+         {G__/\_            {D'--=.\)/                 {G/ /\  \_|{x
+        {G/_/ |\\                                    {G|__/{x
+             {G\/{x
+{x
+~
+0 8204 1
+C 0
+S
+#16
+{cSample {CASCii{x~
+{x
+                        {w/\{x
+                        {w||{x
+                        {w||{x
+                        {w||{x
+                        {w||                                               {R,-----,{x
+                        {w||                                            {R/{r,,,--  ---,,{R,{x
+                        {w||                   {W;'                 {R/{r',/- --   -    ---,,{R,{x
+                        {w||                {W(/ ('              {R/{r'----        ,,,_  --(  {R'{x
+                        {w||             {W' / ;'             {R/{r'----               \__{R-{x
+     {R'                {w({Y*{y--{Y*{w)          {W'('             {R,{r-,'      ----        ,,,--\{R'{x
+     {R\\                {D(c{y_{D\_        {D.i.             {R/{r'--    ,,,--   -,     (     {R'{x
+      {R`\               {D(}{y| {D/       {D/ : \           {R/ {r,,------,     --\   {R({x
+      {R\ '               {y||{D/ \      {D|{w==={D|          {R/{r'/             --- \ \{R({x
+      {R`{r`'{R\              {y=={D\  )/.\_ >._.< _/-\     {R|{r`_          ,,-'     ){R\{x
+       {R'{r-{R'                 {D(  /  ) \___/ (   \   {R|{r` ` _       --         {R'{x
+       {R\ {r-'{R\                {D-<__/  -   -  L- -;   {R\{r\    \ _ _{R/{x
+       {R`{r` ''={R\                  {D(    :    )\ ,\    {R|{r|   _ :{R({x
+        {R\  {r''={R\__                {D\ _/ \_ /  )  ) {R_{r//   ( `|{R'{x
+        {R`{r`    , ,\--,={R\           {D\     /  / _/ {R/ {r'    (   {R'{x
+         {R\{r`    } , -- --={R\   _-_  {D/ \ / \ )^ ( {R/{r/ :_  / {R'{x
+         {R|    {r,          _--'   '--__{D-{r_  {D/ - |{R/     {r\ {R({x
+          {R\  ,_{r--{R_     {r_/              \_{D'---', {r-= .   {R\{x
+           {R)/      {R/\ / {R/\   {r,-,         \{D__ _}     {r\_  ",{R_{x
+           {R,      {R( ( _ {R)'}{r - - \_    '\  {D(-:-)       {r"\   {R,{x
+                  {R/{r'' ''  {R)- \{r-_ {r-\   )->  {D\ :|    {r_,       {R"{x 
+                 {w(\  {r_{w/){r''{R} {D| {R\{r-_ -  /-(   {D| :)   {r/          {R){x
+                {R<``  >;,,/  {D)= {R\{r-__ {D/// '  {D\ =(  {r,   ,       {R;{x
+               {R({Do_o {R}_/     {D|v  {r'-__  _    {D)-v|  {r"  :       ,{R"{x
+               {R(/"\_)       {D(_/'  {R\{r-__ -\_ {D\\_} {r'  (        /'{R\{x
+               {r,/!          {D'_/    {R'{r-{R__ _{r-- {D\_' {r:  '      ,"  {R;{x
+              {y({Y'{R'{r`                  {R/,'{R-{r___-    | /     {R,"  \ {r-{R'{x
+             {r'{R/{y, {r)                 {R(-)  {R'{r-____-";     {R,"     {R,{r-{R}{x
+           {y/{R,{Y'{r)                    {R/ \         /  {R,--"       {R'{r-{R'{x
+       {y(  {R'{Y'{R/                     {R/ ( '       /  {R/          {R'{r-{R'{x
+    {Y-{y'{Y-  {r,{R, {y/{R) {r,                 {R(/( \)      ( -)          {R/{r-{R'{x
+  {R(  '{y' {Y){r`  {R'}                   {D'  {R\){D'     {R\_/ /           {R-'{x
+ {Y( {y|) {R/`,{r--{Y.(  {y}'                    {D'     {R(  /          {R/{r-{R'{x
+{r(` {Y- {r( {Yc|{r-| `{Y}  {R)                          {R'/:\         {R,'{x
+ {r- {R)/{r``{y) ){Y) '{r|){Y,                          {R(/ | \){x      
+  {y(` {r(-'{y(( {y`'`{R' )                         {D' {R(/ {D'{x
+   {Y`-{Y'    {R){r'{Y`{r'{R)                              {D'{x
+     {R` {r`{R`{x
+{x
+~
+0 0 0
+D1
+~
+~
+0 0 11
+C 0
+S
+#17
+{GSembiance's Room{x~
+101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1011010001010101010101011010100101101010101010110101001000101011001010101-
+100101011001010101010101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1010110100010101010101010110101001011010101010101101010010001010110010101-
+101001010110{RP{Yi{Rz{Yz{Ra{Y!  {x 101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1011010001010101010101011010100101101010101010110101001000101011001010101-
+100101011001010101010101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1010110100010101010101010110101001011010101010101101010010001010110010101-
+101001010110{RP{Yi{Rz{Yz{Ra{Y!  {x 101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1011010001010101010101011010100101101010101010110101001000101011001010101-
+100101011001010101010101010{RP{Yi{Rz{Yz{Ra{Y! 
+{x1010110100010101010101010110101001011010101010101101010010001010110010101-
+101001010110{RP{Yi{Rz{Yz{Ra{Y!  {x 
+~
+0 4 0
+C 0
+S
+#21
+{WUnknown{x~
+{x
+{W             ,       ,
+            /(       )`
+            \ \__   / |
+            /- _ `-/  '
+           (/\/ \ \   /\ 
+           / /   | `    \ 
+           O O   )      |  
+           `-^--'`<     '  
+          (_.)  _ )    /  
+           `.___/`    /   
+             `-----' /
+<----.     __ / __   \   
+<----|====O)))==) \) /=============
+<----'    `--' `.__,' \
+             |         |
+              \       /  
+          ____( (_   / \__
+        ,'  ,----'  |     \    
+        `--_________)       \/{x
+{x
+~
+0 8204 0
+D4
+~
+~
+0 0 2551
+C 0
+S
+#77
+{CAn {WIcy {Cabode{x~
+You have entered an icy cold realm.  You try to look around but you are
+blinded by the snow that swirls from the frigid north wind that is blowing.
+You think you see a pair of glowing eyes as you sense danger.  The sub-zero
+temperature invades your body as you think you better leave while you still
+ 
+{w
+    .----------------.__.00_
+   d                        o\
+  :       .                   -o
+  :       |         '   ._'---'
+  9      l          l    j
+  )     j            \   Y
+  |   _/--T-...----" -.  \
+  |  / \  |      |  /  \  \
+  \_;,, \_;,,    \_;,,  "-,;,
+~
+0 16908 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 2 spec_questmaster
+S
+
+
+
+#RESETS
+M 0 3 1 3 1
+O 0 99 0 21
+M 0 99 1 21 1
+S
+
+
+
+#SHOPS
+3 28 13 0 0 8 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#1
+~
+#2
+~
+#3
+~
+#4
+~
+#5
+~
+#6
+~
+#7
+~
+#99
+if isimmort $n
+bow $n
+say Greetings, master $n
+else
+emote roars loudly.
+endif
+~
+#0
+
+#$

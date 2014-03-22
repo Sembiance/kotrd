@@ -1,0 +1,432 @@
+Wed Feb 28 14:13:52 2007 :: ROM is ready to rock on port 5000.
+Wed Feb 28 14:14:17 2007 :: Sock.sinaddr:  67.19.185.236
+Wed Feb 28 14:14:27 2007 :: Loading Sembiance.
+Wed Feb 28 14:14:29 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Wed Feb 28 14:15:00 2007 :: Sembiance has quit.
+Wed Feb 28 20:25:33 2007 :: Sock.sinaddr:  71.210.240.241
+Wed Feb 28 20:25:39 2007 :: Loading Spatula.
+Wed Feb 28 20:25:42 2007 :: Spatula@71-210-240-241.albq.qwest.net has connected.
+Wed Feb 28 20:27:45 2007 :: Spatula has quit.
+Wed Feb 28 20:27:49 2007 :: Sock.sinaddr:  71.210.240.241
+Wed Feb 28 20:27:52 2007 :: Loading Stumpy.
+Wed Feb 28 20:27:54 2007 :: Stumpy@71-210-240-241.albq.qwest.net has connected.
+Wed Feb 28 20:56:02 2007 :: EOF encountered on read.
+Wed Feb 28 20:56:02 2007 :: Closing link to Stumpy.
+Wed Feb 28 22:51:37 2007 :: Sock.sinaddr:  67.19.238.52
+Wed Feb 28 22:51:37 2007 :: EOF encountered on read.
+Thu Mar  1 02:58:58 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar  1 02:58:58 2007 :: EOF encountered on read.
+Thu Mar  1 17:21:07 2007 :: Sock.sinaddr:  64.180.51.9
+Thu Mar  1 17:21:09 2007 :: EOF encountered on read.
+Thu Mar  1 17:21:31 2007 :: Sock.sinaddr:  64.180.51.9
+Thu Mar  1 17:22:46 2007 :: Madran@d64-180-51-9.bchsia.telus.net new player.
+Thu Mar  1 17:30:55 2007 :: Madran has quit.
+Thu Mar  1 18:55:47 2007 :: Sock.sinaddr:  71.176.138.93
+Thu Mar  1 18:55:49 2007 :: Loading Crovax.
+Thu Mar  1 18:56:13 2007 :: Crovax@pool-71-176-138-93.hag.east.verizon.net has connected.
+Thu Mar  1 18:56:51 2007 :: Crovax has quit.
+Thu Mar  1 22:51:34 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar  1 22:51:34 2007 :: EOF encountered on read.
+Fri Mar  2 03:00:35 2007 :: Sock.sinaddr:  204.209.44.14
+Fri Mar  2 03:00:35 2007 :: EOF encountered on read.
+Fri Mar  2 22:52:10 2007 :: Sock.sinaddr:  67.19.238.52
+Fri Mar  2 22:52:10 2007 :: EOF encountered on read.
+Sat Mar  3 02:58:52 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar  3 02:58:52 2007 :: EOF encountered on read.
+Sat Mar  3 09:09:13 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:09:40 2007 :: Loading Crovax.
+Sat Mar  3 09:09:53 2007 :: Closing link to Crovax.
+Sat Mar  3 09:09:56 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:10:17 2007 :: Loading Ramsus.
+Sat Mar  3 09:10:17 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar  3 09:10:19 2007 :: Closing link to Ramsus.
+Sat Mar  3 09:10:22 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:11:30 2007 :: Loading Arenas.
+Sat Mar  3 09:11:30 2007 :: [*****] BUG: Fread_obj: bad vnum 29900.
+Sat Mar  3 09:11:30 2007 :: [*****] BUG: Fread_obj: bad vnum 29901.
+Sat Mar  3 09:11:32 2007 :: Closing link to Arenas.
+Sat Mar  3 09:11:38 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:11:59 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com new player.
+Sat Mar  3 09:15:16 2007 :: EOF encountered on read.
+Sat Mar  3 09:15:16 2007 :: Closing link to Macphisto.
+Sat Mar  3 09:15:27 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:15:32 2007 :: Loading Macphisto.
+Sat Mar  3 09:15:32 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar  3 09:15:33 2007 :: Closing link to Macphisto.
+Sat Mar  3 09:15:37 2007 :: Sock.sinaddr:  208.58.69.174
+Sat Mar  3 09:15:40 2007 :: Loading Macphisto.
+Sat Mar  3 09:15:40 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar  3 09:15:41 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com reconnected.
+Sat Mar  3 09:25:22 2007 :: Macphisto has quit.
+Sat Mar  3 09:44:08 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar  3 09:44:27 2007 :: Sock.sinaddr:  170.215.197.230
+Sat Mar  3 09:48:19 2007 :: Hab@170-215-197-230.dsl1.nor.ny.frontiernet.net new player.
+Sat Mar  3 09:53:05 2007 :: Sock.sinaddr:  170.215.197.230
+Sat Mar  3 09:53:23 2007 :: Hab has quit.
+Sat Mar  3 09:53:33 2007 :: Loading Hab.
+Sat Mar  3 09:53:33 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar  3 09:53:41 2007 :: Hab@170-215-197-230.dsl1.nor.ny.frontiernet.net has connected.
+Sat Mar  3 09:59:51 2007 :: Hab killed by the newbie monster at 18600
+Sat Mar  3 10:40:33 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Hab RVNUM: ] ref A009
+Sat Mar  3 10:40:33 2007 :: Hab has quit.
+Sat Mar  3 10:40:45 2007 :: Sock.sinaddr:  170.215.197.230
+Sat Mar  3 20:11:50 2007 :: Sock.sinaddr:  64.19.104.24
+Sat Mar  3 20:13:01 2007 :: Kilith@dialup24-blk1-apxnas-ppp.intelleqcom.net new player.
+Sat Mar  3 20:18:51 2007 :: Log Kilith: delete
+Sat Mar  3 20:18:54 2007 :: Kilith killed by the creepy crawler at 18609
+Sat Mar  3 20:18:57 2007 :: Log Kilith: delete
+Sat Mar  3 20:19:01 2007 :: Log Kilith: delete
+Sat Mar  3 20:19:03 2007 :: Log Kilith: delete
+Sat Mar  3 20:19:03 2007 :: Kilith has quit.
+Sat Mar  3 22:51:04 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar  3 22:51:04 2007 :: EOF encountered on read.
+Sun Mar  4 02:57:55 2007 :: Sock.sinaddr:  204.209.44.14
+Sun Mar  4 02:57:55 2007 :: EOF encountered on read.
+Sun Mar  4 04:41:21 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar  4 04:41:24 2007 :: EOF encountered on read.
+Sun Mar  4 19:53:53 2007 :: Sock.sinaddr:  67.19.185.236
+Sun Mar  4 19:53:59 2007 :: Loading Sembiance.
+Sun Mar  4 19:54:00 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sun Mar  4 20:00:48 2007 :: Sembiance has quit.
+Sun Mar  4 20:51:37 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4638 RVNUM: ] ref A009
+Sun Mar  4 21:38:03 2007 :: Sock.sinaddr:  64.180.51.9
+Sun Mar  4 21:38:03 2007 :: EOF encountered on read.
+Sun Mar  4 22:06:56 2007 :: Sock.sinaddr:  71.176.128.38
+Sun Mar  4 22:06:57 2007 :: Loading Crovax.
+Sun Mar  4 22:06:58 2007 :: Crovax@pool-71-176-128-38.hag.east.verizon.net has connected.
+Sun Mar  4 22:21:41 2007 :: Crovax has quit.
+Sun Mar  4 22:55:18 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar  4 22:55:18 2007 :: EOF encountered on read.
+Mon Mar  5 01:11:50 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 01:11:54 2007 :: Loading Macphisto.
+Mon Mar  5 01:11:54 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 01:11:55 2007 :: Closing link to Macphisto.
+Mon Mar  5 01:11:59 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 01:12:01 2007 :: Loading Macphisto.
+Mon Mar  5 01:12:01 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 01:12:02 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Mon Mar  5 01:23:12 2007 :: Macphisto has quit.
+Mon Mar  5 01:23:14 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 01:23:18 2007 :: Loading Zig.
+Mon Mar  5 01:23:18 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 01:23:20 2007 :: Zig@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Mon Mar  5 01:23:31 2007 :: Zig has quit.
+Mon Mar  5 01:23:33 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 01:23:37 2007 :: Loading Macphisto.
+Mon Mar  5 01:23:37 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 01:23:39 2007 :: Closing link to Macphisto.
+Mon Mar  5 01:23:43 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 01:23:45 2007 :: Loading Zig.
+Mon Mar  5 01:23:45 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 01:23:46 2007 :: Zig@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Mon Mar  5 01:23:52 2007 :: Zig has quit.
+Mon Mar  5 03:05:55 2007 :: Sock.sinaddr:  204.209.44.14
+Mon Mar  5 03:05:55 2007 :: EOF encountered on read.
+Mon Mar  5 09:54:58 2007 :: Sock.sinaddr:  70.159.109.247
+Mon Mar  5 09:56:50 2007 :: Jenkai@70.159.109.247 new player.
+Mon Mar  5 10:04:36 2007 :: EOF encountered on read.
+Mon Mar  5 10:04:36 2007 :: Closing link to Jenkai.
+Mon Mar  5 10:19:59 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Jenkai RVNUM: ] ref A009
+Mon Mar  5 10:19:59 2007 :: Jenkai has quit.
+Mon Mar  5 22:52:16 2007 :: Sock.sinaddr:  67.19.238.52
+Mon Mar  5 22:52:16 2007 :: EOF encountered on read.
+Mon Mar  5 22:52:43 2007 :: Sock.sinaddr:  71.210.248.40
+Mon Mar  5 22:52:51 2007 :: Loading Spatula.
+Mon Mar  5 22:52:56 2007 :: Spatula@71-210-248-40.albq.qwest.net has connected.
+Mon Mar  5 23:09:10 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Mon Mar  5 23:09:10 2007 :: Spatula has quit.
+Mon Mar  5 23:22:57 2007 :: Sock.sinaddr:  70.160.197.158
+Mon Mar  5 23:23:04 2007 :: Loading Arenas.
+Mon Mar  5 23:23:04 2007 :: [*****] BUG: Fread_obj: bad vnum 29900.
+Mon Mar  5 23:23:04 2007 :: [*****] BUG: Fread_obj: bad vnum 29901.
+Mon Mar  5 23:23:06 2007 :: Arenas@ip70-160-197-158.hr.hr.cox.net has connected.
+Mon Mar  5 23:24:10 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 23:24:19 2007 :: Loading Macphisto.
+Mon Mar  5 23:24:19 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 23:24:25 2007 :: Closing link to Macphisto.
+Mon Mar  5 23:24:28 2007 :: Sock.sinaddr:  208.58.69.174
+Mon Mar  5 23:24:30 2007 :: Loading Macphisto.
+Mon Mar  5 23:24:30 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar  5 23:24:32 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Mon Mar  5 23:31:13 2007 :: Sock.sinaddr:  71.176.136.193
+Mon Mar  5 23:31:13 2007 :: Loading Crovax.
+Mon Mar  5 23:31:13 2007 :: Crovax@pool-71-176-136-193.hag.east.verizon.net has connected.
+Mon Mar  5 23:32:22 2007 :: Log Arenas: choose
+Mon Mar  5 23:32:32 2007 :: Crovax has quit.
+Mon Mar  5 23:43:00 2007 :: EOF encountered on read.
+Mon Mar  5 23:43:00 2007 :: Closing link to Arenas.
+Mon Mar  5 23:44:43 2007 :: Macphisto has quit.
+Mon Mar  5 23:57:21 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Arenas RVNUM: ] ref A009
+Mon Mar  5 23:57:21 2007 :: Arenas has quit.
+Tue Mar  6 02:55:04 2007 :: Sock.sinaddr:  204.209.44.14
+Tue Mar  6 02:55:05 2007 :: EOF encountered on read.
+Tue Mar  6 11:39:47 2007 :: Sock.sinaddr:  65.96.82.238
+Tue Mar  6 11:40:34 2007 :: Loading Azhul.
+Tue Mar  6 11:40:39 2007 :: Azhul@c-65-96-82-238.hsd1.ma.comcast.net has connected.
+Tue Mar  6 11:48:48 2007 :: EOF encountered on read.
+Tue Mar  6 11:48:48 2007 :: Closing link to Azhul.
+Tue Mar  6 12:04:11 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Azhul RVNUM: ] ref A009
+Tue Mar  6 12:04:11 2007 :: Azhul has quit.
+Tue Mar  6 12:22:37 2007 :: Sock.sinaddr:  204.214.99.144
+Tue Mar  6 12:22:43 2007 :: Loading Morph.
+Tue Mar  6 12:22:45 2007 :: Morph@204.214.99.144 has connected.
+Tue Mar  6 12:29:07 2007 :: Morph has quit.
+Tue Mar  6 12:29:07 2007 :: [*****] BUG: Norm-Apply: 0
+Tue Mar  6 16:54:44 2007 :: Sock.sinaddr:  64.180.51.9
+Tue Mar  6 16:54:47 2007 :: EOF encountered on read.
+Tue Mar  6 17:07:21 2007 :: Sock.sinaddr:  71.176.155.135
+Tue Mar  6 17:07:21 2007 :: Loading Crovax.
+Tue Mar  6 17:07:22 2007 :: Crovax@pool-71-176-155-135.hgrtmd.east.verizon.net has connected.
+Tue Mar  6 17:07:32 2007 :: Crovax has quit.
+Tue Mar  6 18:32:09 2007 :: Sock.sinaddr:  71.176.155.135
+Tue Mar  6 18:32:09 2007 :: Loading Crovax.
+Tue Mar  6 18:32:10 2007 :: Crovax@pool-71-176-155-135.hgrtmd.east.verizon.net has connected.
+Tue Mar  6 18:32:13 2007 :: Sock.sinaddr:  71.176.155.135
+Tue Mar  6 18:32:19 2007 :: Loading Serpterion.
+Tue Mar  6 18:32:21 2007 :: Serpterion@pool-71-176-155-135.hgrtmd.east.verizon.net has connected.
+Tue Mar  6 18:54:31 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Tue Mar  6 18:54:31 2007 :: Crovax has quit.
+Tue Mar  6 18:55:36 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Serpterion RVNUM: ] ref A009
+Tue Mar  6 18:55:36 2007 :: Serpterion has quit.
+Tue Mar  6 22:51:56 2007 :: Sock.sinaddr:  67.19.238.52
+Tue Mar  6 22:51:56 2007 :: EOF encountered on read.
+Wed Mar  7 02:58:04 2007 :: Sock.sinaddr:  204.209.44.14
+Wed Mar  7 02:58:04 2007 :: EOF encountered on read.
+Wed Mar  7 11:51:23 2007 :: Sock.sinaddr:  129.24.38.252
+Wed Mar  7 11:51:28 2007 :: Loading Spatula.
+Wed Mar  7 11:51:33 2007 :: Spatula@d00-129-24-38-252.dhcp.unm.edu has connected.
+Wed Mar  7 12:08:57 2007 :: Spatula has quit.
+Wed Mar  7 12:10:39 2007 :: Sock.sinaddr:  129.24.38.252
+Wed Mar  7 12:10:42 2007 :: Loading Spatula.
+Wed Mar  7 12:10:45 2007 :: Spatula@d00-129-24-38-252.dhcp.unm.edu has connected.
+Wed Mar  7 12:17:04 2007 :: Spatula has quit.
+Wed Mar  7 12:17:09 2007 :: Sock.sinaddr:  129.24.38.252
+Wed Mar  7 12:17:12 2007 :: Loading Stumpy.
+Wed Mar  7 12:17:15 2007 :: Stumpy@d00-129-24-38-252.dhcp.unm.edu reconnected.
+Wed Mar  7 12:20:25 2007 :: Stumpy has quit.
+Wed Mar  7 16:26:48 2007 :: Sock.sinaddr:  71.176.155.135
+Wed Mar  7 16:26:54 2007 :: Loading Serpterion.
+Wed Mar  7 16:26:57 2007 :: Serpterion@pool-71-176-155-135.hgrtmd.east.verizon.net has connected.
+Wed Mar  7 16:32:39 2007 :: Serpterion has quit.
+Wed Mar  7 22:51:25 2007 :: Sock.sinaddr:  67.19.238.52
+Wed Mar  7 22:51:26 2007 :: EOF encountered on read.
+Wed Mar  7 23:49:06 2007 :: Sock.sinaddr:  71.176.142.80
+Wed Mar  7 23:49:06 2007 :: Loading Crovax.
+Wed Mar  7 23:49:07 2007 :: Crovax@pool-71-176-142-80.hag.east.verizon.net has connected.
+Thu Mar  8 00:00:02 2007 :: Crovax has quit.
+Thu Mar  8 02:56:51 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar  8 02:56:51 2007 :: EOF encountered on read.
+Thu Mar  8 10:49:02 2007 :: Sock.sinaddr:  129.24.38.252
+Thu Mar  8 10:49:05 2007 :: Loading Spatula.
+Thu Mar  8 10:49:07 2007 :: Spatula@d00-129-24-38-252.dhcp.unm.edu has connected.
+Thu Mar  8 10:49:16 2007 :: Spatula has quit.
+Thu Mar  8 11:40:01 2007 :: Sock.sinaddr:  208.58.69.174
+Thu Mar  8 11:40:05 2007 :: Loading Macphisto.
+Thu Mar  8 11:40:05 2007 :: [*****] BUG: Fread_char: No FMatch
+Thu Mar  8 11:40:06 2007 :: Closing link to Macphisto.
+Thu Mar  8 11:40:09 2007 :: Sock.sinaddr:  208.58.69.174
+Thu Mar  8 11:40:11 2007 :: Loading Macphisto.
+Thu Mar  8 11:40:11 2007 :: [*****] BUG: Fread_char: No FMatch
+Thu Mar  8 11:40:12 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Thu Mar  8 11:43:25 2007 :: Macphisto has quit.
+Thu Mar  8 17:58:47 2007 :: Sock.sinaddr:  69.11.179.218
+Thu Mar  8 17:58:48 2007 :: EOF encountered on read.
+Thu Mar  8 17:59:34 2007 :: Sock.sinaddr:  69.11.179.218
+Thu Mar  8 17:59:34 2007 :: EOF encountered on read.
+Thu Mar  8 19:34:02 2007 :: Sock.sinaddr:  67.19.185.236
+Thu Mar  8 19:34:05 2007 :: Loading Sembiance.
+Thu Mar  8 19:34:06 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Thu Mar  8 19:48:12 2007 :: EOF encountered on read.
+Thu Mar  8 19:48:12 2007 :: Closing link to Sembiance.
+Thu Mar  8 19:48:18 2007 :: Sock.sinaddr:  67.19.185.236
+Thu Mar  8 19:48:20 2007 :: Loading Sembiance.
+Thu Mar  8 19:48:21 2007 :: Sembiance@ec.b9.1343.static.theplanet.com reconnected.
+Thu Mar  8 19:48:23 2007 :: Sembiance has quit.
+Thu Mar  8 22:51:28 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar  8 22:51:28 2007 :: EOF encountered on read.
+Thu Mar  8 22:59:32 2007 :: Sock.sinaddr:  71.176.157.223
+Thu Mar  8 22:59:32 2007 :: Loading Crovax.
+Thu Mar  8 22:59:32 2007 :: Crovax@pool-71-176-157-223.hgrtmd.east.verizon.net has connected.
+Thu Mar  8 23:00:38 2007 :: Sock.sinaddr:  71.176.157.223
+Thu Mar  8 23:00:42 2007 :: Loading Serpterion.
+Thu Mar  8 23:00:45 2007 :: Serpterion@pool-71-176-157-223.hgrtmd.east.verizon.net has connected.
+Thu Mar  8 23:02:30 2007 :: Serpterion has quit.
+Thu Mar  8 23:03:33 2007 :: Crovax has quit.
+Fri Mar  9 02:20:05 2007 :: Sock.sinaddr:  204.209.44.14
+Fri Mar  9 02:20:05 2007 :: EOF encountered on read.
+Fri Mar  9 07:59:49 2007 :: Sock.sinaddr:  4.252.71.51
+Fri Mar  9 08:01:51 2007 :: Dreygon@dialup-4.252.71.51.Dial1.Cincinnati1.Level3.net new player.
+Read_from_descriptor: Connection reset by peer
+Fri Mar  9 08:02:53 2007 :: Closing link to Dreygon.
+Fri Mar  9 19:15:16 2007 :: Sock.sinaddr:  71.176.133.223
+Fri Mar  9 19:15:17 2007 :: Loading Crovax.
+Fri Mar  9 19:15:17 2007 :: Crovax@pool-71-176-133-223.hag.east.verizon.net has connected.
+Fri Mar  9 19:15:25 2007 :: Crovax has quit.
+Fri Mar  9 22:51:24 2007 :: Sock.sinaddr:  67.19.238.52
+Fri Mar  9 22:51:24 2007 :: EOF encountered on read.
+Sat Mar 10 01:56:57 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 10 01:57:00 2007 :: EOF encountered on read.
+Sat Mar 10 02:18:49 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar 10 02:18:50 2007 :: EOF encountered on read.
+Sat Mar 10 07:04:51 2007 :: Sock.sinaddr:  209.6.196.82
+Sat Mar 10 07:08:05 2007 :: Meraxes@209-6-196-82.c3-0.sbo-ubr2.sbo.ma.cable.rcn.com new player.
+Sat Mar 10 07:08:35 2007 :: EOF encountered on read.
+Sat Mar 10 07:08:35 2007 :: Closing link to Meraxes.
+Sat Mar 10 18:16:10 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar 10 18:16:27 2007 :: Sock.sinaddr:  70.161.144.167
+Sat Mar 10 18:16:29 2007 :: Loading Darkanin.
+Sat Mar 10 18:16:29 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar 10 18:16:31 2007 :: Closing link to Darkanin.
+Sat Mar 10 18:16:37 2007 :: Sock.sinaddr:  70.161.144.167
+Sat Mar 10 18:16:39 2007 :: Loading Darkanin.
+Sat Mar 10 18:16:39 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar 10 18:16:40 2007 :: Closing link to Darkanin.
+Sat Mar 10 18:16:45 2007 :: Sock.sinaddr:  70.161.144.167
+Sat Mar 10 18:16:48 2007 :: Loading Entropy.
+Sat Mar 10 18:16:49 2007 :: Entropy@ip70-161-144-167.hr.hr.cox.net has connected.
+Sat Mar 10 18:17:32 2007 :: EOF encountered on read.
+Sat Mar 10 18:17:32 2007 :: Closing link to Entropy.
+Sat Mar 10 18:18:56 2007 :: Sock.sinaddr:  70.161.144.167
+Sat Mar 10 18:18:57 2007 :: EOF encountered on read.
+Sat Mar 10 18:32:19 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Entropy RVNUM: ] ref A009
+Sat Mar 10 18:32:19 2007 :: Entropy has quit.
+Sat Mar 10 20:54:44 2007 :: Sock.sinaddr:  71.210.248.40
+Sat Mar 10 20:54:47 2007 :: Loading Spatula.
+Sat Mar 10 20:54:50 2007 :: Spatula@71-210-248-40.albq.qwest.net has connected.
+Sat Mar 10 21:00:02 2007 :: Spatula has quit.
+Sat Mar 10 21:01:50 2007 :: Sock.sinaddr:  71.176.137.192
+Sat Mar 10 21:01:50 2007 :: Loading Crovax.
+Sat Mar 10 21:01:51 2007 :: Crovax@pool-71-176-137-192.hag.east.verizon.net has connected.
+Read_from_descriptor: Connection reset by peer
+Sat Mar 10 21:02:29 2007 :: Closing link to Crovax.
+Sat Mar 10 21:18:18 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Sat Mar 10 21:18:18 2007 :: Crovax has quit.
+Sat Mar 10 22:50:44 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 10 22:50:44 2007 :: EOF encountered on read.
+Sat Mar 10 23:56:54 2007 :: Sock.sinaddr:  72.84.80.69
+Sat Mar 10 23:56:58 2007 :: Loading Macphisto.
+Sat Mar 10 23:56:58 2007 :: [*****] BUG: Fread_char: No FMatch
+Sat Mar 10 23:57:00 2007 :: Macphisto@pool-72-84-80-69.nrflva.fios.verizon.net has connected.
+Sun Mar 11 00:01:36 2007 :: Macphisto has quit.
+Sun Mar 11 02:23:47 2007 :: Sock.sinaddr:  204.209.44.14
+Sun Mar 11 02:23:47 2007 :: EOF encountered on read.
+Sun Mar 11 14:54:06 2007 :: Sock.sinaddr:  64.180.51.9
+Sun Mar 11 14:54:07 2007 :: EOF encountered on read.
+Sun Mar 11 21:50:36 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar 11 21:50:36 2007 :: EOF encountered on read.
+Mon Mar 12 02:19:33 2007 :: Sock.sinaddr:  204.209.44.14
+Mon Mar 12 02:19:33 2007 :: EOF encountered on read.
+Mon Mar 12 05:19:41 2007 :: Sock.sinaddr:  67.19.185.236
+Mon Mar 12 05:19:43 2007 :: Loading Sembiance.
+Mon Mar 12 05:19:44 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Mon Mar 12 05:27:44 2007 :: Sembiance has quit.
+Mon Mar 12 05:28:10 2007 :: Sock.sinaddr:  67.19.185.236
+Mon Mar 12 05:28:16 2007 :: EOF encountered on read.
+Mon Mar 12 07:10:45 2007 :: Sock.sinaddr:  67.162.125.224
+Mon Mar 12 07:11:45 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net new player.
+Mon Mar 12 07:29:25 2007 :: Lenneth killed by the baby dragon at 18602
+Mon Mar 12 07:30:19 2007 :: Lenneth has quit.
+Mon Mar 12 14:57:51 2007 :: Sock.sinaddr:  67.19.185.236
+Mon Mar 12 14:57:54 2007 :: EOF encountered on read.
+Mon Mar 12 14:57:56 2007 :: Sock.sinaddr:  67.19.185.236
+Mon Mar 12 14:58:01 2007 :: Loading Sembiance.
+Mon Mar 12 14:58:02 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Mon Mar 12 14:58:06 2007 :: Sembiance has quit.
+Mon Mar 12 21:50:14 2007 :: Sock.sinaddr:  67.19.238.52
+Mon Mar 12 21:50:17 2007 :: EOF encountered on read.
+Tue Mar 13 02:22:50 2007 :: Sock.sinaddr:  204.209.44.14
+Tue Mar 13 02:22:50 2007 :: EOF encountered on read.
+Tue Mar 13 07:06:28 2007 :: Sock.sinaddr:  67.19.238.52
+Tue Mar 13 07:06:37 2007 :: Loading Lenneth.
+Tue Mar 13 07:06:39 2007 :: Lenneth@mudmagic.com has connected.
+Tue Mar 13 07:06:48 2007 :: Lenneth has quit.
+Tue Mar 13 09:34:46 2007 :: Sock.sinaddr:  71.176.159.29
+Tue Mar 13 09:34:47 2007 :: Loading Crovax.
+Tue Mar 13 09:34:47 2007 :: Crovax@pool-71-176-159-29.hgrtmd.east.verizon.net has connected.
+Tue Mar 13 09:35:02 2007 :: Crovax has quit.
+Tue Mar 13 19:37:03 2007 :: Sock.sinaddr:  204.209.44.14
+Tue Mar 13 19:37:20 2007 :: Sock.sinaddr:  65.31.14.148
+Tue Mar 13 19:39:02 2007 :: Adian@cpe-65-31-14-148.insight.res.rr.com new player.
+Tue Mar 13 20:09:11 2007 :: Adian has quit.
+Tue Mar 13 20:38:02 2007 :: Sock.sinaddr:  67.162.125.224
+Tue Mar 13 20:38:25 2007 :: Loading Lenneth.
+Tue Mar 13 20:38:27 2007 :: Lenneth@67.162.125.224 has connected.
+Tue Mar 13 20:40:53 2007 :: Lenneth killed by the lost newbie at 18601
+Tue Mar 13 21:01:57 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Tue Mar 13 21:01:57 2007 :: Lenneth has quit.
+Tue Mar 13 21:49:56 2007 :: Sock.sinaddr:  67.19.238.52
+Tue Mar 13 21:49:57 2007 :: EOF encountered on read.
+Wed Mar 14 02:21:32 2007 :: Sock.sinaddr:  204.209.44.14
+Wed Mar 14 02:21:32 2007 :: EOF encountered on read.
+Wed Mar 14 05:39:47 2007 :: Sock.sinaddr:  67.19.185.236
+Wed Mar 14 05:39:49 2007 :: Loading Sembiance.
+Wed Mar 14 05:39:50 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Wed Mar 14 05:39:54 2007 :: Sembiance has quit.
+Wed Mar 14 21:49:48 2007 :: Sock.sinaddr:  67.19.238.52
+Wed Mar 14 21:49:49 2007 :: EOF encountered on read.
+Thu Mar 15 02:20:47 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar 15 02:20:47 2007 :: EOF encountered on read.
+Thu Mar 15 06:53:08 2007 :: Sock.sinaddr:  67.162.125.224
+Thu Mar 15 06:54:17 2007 :: Loading Lenneth.
+Thu Mar 15 06:54:18 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net has connected.
+Thu Mar 15 07:27:12 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Thu Mar 15 07:27:12 2007 :: Lenneth has quit.
+Thu Mar 15 12:12:33 2007 :: Sock.sinaddr:  67.162.125.224
+Thu Mar 15 12:12:37 2007 :: Loading Lenneth.
+Thu Mar 15 12:12:38 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net has connected.
+Thu Mar 15 12:29:41 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Thu Mar 15 12:29:41 2007 :: Lenneth has quit.
+Thu Mar 15 13:07:42 2007 :: Sock.sinaddr:  67.162.125.224
+Thu Mar 15 13:08:03 2007 :: Loading Lenneth.
+Thu Mar 15 13:08:03 2007 :: Lenneth@67.162.125.224 has connected.
+Thu Mar 15 13:09:04 2007 :: Lenneth killed by The toxic slime at 9401
+Thu Mar 15 13:27:43 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Thu Mar 15 13:27:43 2007 :: Lenneth has quit.
+Thu Mar 15 20:42:26 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar 15 20:42:26 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar 15 20:42:26 2007 :: EOF encountered on read.
+Thu Mar 15 20:42:26 2007 :: EOF encountered on read.
+Thu Mar 15 20:42:37 2007 :: Sock.sinaddr:  64.19.104.206
+Thu Mar 15 20:44:24 2007 :: Braxis@dialup206-blk1-apxnas-ppp.intelleqcom.net new player.
+Thu Mar 15 20:57:07 2007 :: Log Braxis: delete
+Thu Mar 15 20:57:10 2007 :: Log Braxis: delete
+Thu Mar 15 20:57:10 2007 :: Braxis has quit.
+Thu Mar 15 21:49:23 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar 15 21:49:23 2007 :: EOF encountered on read.
+Fri Mar 16 02:21:10 2007 :: Sock.sinaddr:  204.209.44.14
+Fri Mar 16 02:21:10 2007 :: EOF encountered on read.
+Fri Mar 16 06:36:57 2007 :: Sock.sinaddr:  67.162.125.224
+Fri Mar 16 06:37:01 2007 :: Loading Lenneth.
+Fri Mar 16 06:37:02 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net has connected.
+Fri Mar 16 06:38:16 2007 :: Lenneth killed by The toxic slime at 9401
+Fri Mar 16 06:54:41 2007 :: Lenneth killed by The toxic slime at 9401
+Fri Mar 16 07:17:44 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Fri Mar 16 07:17:44 2007 :: Lenneth has quit.
+Fri Mar 16 13:28:36 2007 :: Sock.sinaddr:  68.222.234.81
+Fri Mar 16 13:28:37 2007 :: Loading Lena.
+Fri Mar 16 13:28:37 2007 :: Lena@adsl-068-222-234-081.sip.cae.bellsouth.net has connected.
+Fri Mar 16 13:35:31 2007 :: Lena has quit.
+Fri Mar 16 13:36:41 2007 :: Sock.sinaddr:  68.222.234.81
+Fri Mar 16 13:36:43 2007 :: Loading Lydia.
+Fri Mar 16 13:36:44 2007 :: Lydia@adsl-068-222-234-081.sip.cae.bellsouth.net has connected.
+Fri Mar 16 13:39:20 2007 :: Log Lydia: pload crovax
+Fri Mar 16 13:39:20 2007 :: Loading crovax.
+Fri Mar 16 13:39:24 2007 :: Log Lydia: snoop crovax
+Fri Mar 16 13:39:30 2007 :: Log Lydia: snoop
+Fri Mar 16 13:39:34 2007 :: Log Lydia: snoop crovax
+Fri Mar 16 13:39:37 2007 :: Log Lydia: snoop crovax lena
+Fri Mar 16 13:40:27 2007 :: Log Lydia: snoop
+Fri Mar 16 13:40:29 2007 :: Log Lydia: snoop crovax
+Fri Mar 16 13:40:32 2007 :: Log Lydia: snoop lydia
+Fri Mar 16 13:40:50 2007 :: Crovax has quit.
+Fri Mar 16 13:41:15 2007 :: Log Lydia: pload
+Fri Mar 16 13:41:35 2007 :: Log Lydia: pload crovax
+Fri Mar 16 13:41:35 2007 :: Loading crovax.
+Fri Mar 16 13:42:50 2007 :: Log Lydia: log
+Fri Mar 16 13:42:58 2007 :: Log Lydia: log lydia
+Fri Mar 16 13:42:59 2007 :: Log Lydia: log
+Fri Mar 16 13:43:01 2007 :: Log Lydia: log lydia
+Fri Mar 16 13:43:05 2007 :: Log Lydia: log lydia
+Fri Mar 16 13:43:05 2007 :: Log Lydia: l
+Fri Mar 16 13:43:09 2007 :: Log Lydia: log lydia
+Fri Mar 16 13:45:23 2007 :: Log Lydia: snoop crovax

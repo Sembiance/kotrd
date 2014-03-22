@@ -1,0 +1,376 @@
+#PLAYER
+Name Dorrudin~
+Id   1130883352
+LogO 1140141126
+Vers 5
+Prom {c< %h{chp %m{cm %v{cmv {c%gg {c%ss {c%Xxp %K>{x ~
+Race Human~
+Sex  2
+Cla  6
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 5767
+Scro 33
+Room 3001
+HMV  48 48 105 105 112 112
+Gold 103
+Silv 516
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  5968
+PAct  CDEFGHQTd
+WName Dorrudin~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 2
+Trai 1
+Save  -1
+Alig  1000
+Hit   1
+ACs 63 61 61 79
+Attr 18 14 18 13 15
+AMod 0 0 1 0 1
+Pass DomfuI5dzgcf6~
+Titl  The Paladin in Training~
+Pnts 59
+TSex 2
+PSize 2
+LLev 1
+HMVP 48 105 112
+Cnd  0 0 18 18
+Alias lib look in bag~
+Alias li2b look in 2.bag~
+Boards       4 General 1130386610 Ideas 1126580477 Announce 1104975611 Personal 0 
+Sk 43 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 75 'sword'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Gr 'paladin spells'
+Affc 'armor'   0  28   5 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 116 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 0 0 0 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

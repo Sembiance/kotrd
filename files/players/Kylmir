@@ -1,0 +1,300 @@
+#PLAYER
+Name Kylmir~
+Id   1091289455
+LogO 1091801842
+Vers 5
+Prom %hhp %mmn %vmv %ggp %ssp %e %Xexp %K ~
+Race Draconian~
+Sex  1
+Cla  5
+OCla -1
+Levl 14
+OldLvl 14
+Sec  0
+Plyd 23912
+Not  1090822687 0 0 0
+Scro 33
+Room 3054
+HMV  216 216 131 131 178 178
+Gold 433
+Silv 5219
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 14
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  25854
+PAct  CEFGHQTd
+AfBy JT
+Empower  0
+WName Kylmir~
+Comm NO
+Deaf D
+Pos  4
+Prac 5
+Trai 1
+Save  -2
+Alig  -1000
+ACs -12 -7 -14 80
+Wimp  43
+Attr 22 17 17 11 19
+AMod 0 0 0 0 0
+Pass KyEK6W8BwMvtY~
+Titl  loves unrighteous fury~
+Pnts 56
+TSex 1
+PSize 3
+LLev 4
+HMVP 226 131 178
+Cnd  0 0 0 0
+Sk 100 'blightning'
+Sk 1 'sword'
+Sk 75 'dagger'
+Sk 77 'bash'
+Sk 75 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 79 'enhanced damage'
+Sk 76 'hand to hand'
+Sk 76 'kick'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 75 'shield block'
+Sk 75 'rescue'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+End
+
+#O
+Vnum 7705
+Nest 0
+Cond 0
+Wear 17
+Cost 5300
+Spell 3 'flamestrike'
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear -1
+Cost 1050
+End
+
+#O
+Vnum 16013
+Nest 0
+Cond 0
+Wear 7
+Cost 2380
+End
+
+#O
+Vnum 3020
+Nest 0
+Cond 0
+Wear 16
+Cost 157
+End
+
+#O
+Vnum 3043
+Nest 0
+Cond 0
+Wear 2
+Cost 640
+End
+
+#O
+Vnum 3043
+Nest 0
+Cond 0
+Wear 1
+Cost 640
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 168 0 0 0
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#END

@@ -1,0 +1,229 @@
+#PLAYER
+Name TaWreos~
+Id   1100819626
+LogO 1102284583
+Vers 5
+Prom %h{rhp %m{cmn %v{ymv {ctnl:{B%X %K {} ~
+Race Dwarf~
+Sex  1
+Cla  1
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 18596
+Scro 33
+Room 3373
+HMV  1 161 29 206 81 184
+Gold 1
+Silv 47
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  28574
+QuestPnts 25
+PAct  DEGQTd
+AfBy F
+WName TaWreos~
+Comm FNO
+Deaf DP
+Pos  4
+Trai 1
+Alig  1000
+Dam   1
+ACs -3 4 -3 85
+Attr 19 13 20 13 21
+AMod 0 0 0 0 0
+Pass TaP3cKnDD28M6~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 58
+TSex 1
+PSize 2
+LLev 2
+HMVP 161 206 184
+Cnd  0 0 1 11
+Boards       4 General 1101695299 Ideas 1101961480 Announce 1102119460 Personal 0 
+Sk 85 'cure light'
+Sk 1 'change sex'
+Sk 25 'cure blindness'
+Sk 75 'bless'
+Sk 76 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 75 'armor'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 73 'weaken'
+Sk 77 'mace'
+Sk 1 'berserk'
+Sk 1 'dodge'
+Sk 1 'second attack'
+Sk 75 'meditation'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 0
+Wear 16
+Cost 390
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4237
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4243
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#END

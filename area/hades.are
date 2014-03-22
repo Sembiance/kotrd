@@ -1,0 +1,52 @@
+#AREADATA
+Name Hades~
+Builders Argon~
+VNUMs 800 899
+Credits Argon~
+Security 9
+Flags BE
+LEVELs 105 150
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#800
+~
+~
+0 4 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

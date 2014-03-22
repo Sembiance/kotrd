@@ -1,0 +1,696 @@
+#PLAYER
+Name Golddragon~
+Id   1087479604
+LogO 1141196806
+Vers 5
+Desc {Y|\        |{R@{Y\{W____________{r________
+{Y||{b--------{Y|{G@{Y|{W____________{r________\
+{Y||{b--------{Y|{M@{Y|{W____________{r________/
+{Y|/        {Y|{B@{Y/{RCr{rims{Ron {RKn{righ{Rts {RB{rl{Ra{rd{Re {RO{rf {RF{ru{Rr{ry
+~
+Prom <%h/{B%HHit %m/{R%MMana %v/{M%VMove {G%X:{gTnl%K{W ~
+Race Sidhe Elf~
+Clan Crimson Knights~
+Sex  1
+Cla  2
+AlertMe  1
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 6
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 1411726
+Scro 33
+Room 3001
+HMV  9581 9581 6084 6084 6711 6711
+Gold 1070
+Silv 33386
+Gold_bank 197210
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200043
+QuestPnts 4546
+PAct  DEFGHQTbcde
+AfBy DFHUV
+WName Golddragon~
+Comm EFKLNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 63
+Trai 14
+Save  -172
+Alig  -1000
+Hit   631
+Dam   596
+ACs -1644 -1644 -1644 -1634
+Attr 18 27 27 22 18
+AMod 34 6 10 38 6
+Pass Go3imZLlKXMkg~
+Titl  {B[{RCr{rims{Ron{B]{c.{C,{Y:{B'{G`{m-{M={R*{M={m-{G`{B'{Y:{C,{c.{B[{RKn{righ{Rts{B]~
+Pnts 40
+TSex 1
+PSize 2
+LLev 105
+HMVP 964 817 744
+Cnd  0 0 -1 -1
+Alias cm ca 'combat mind'~
+Alias bless ca 'bless'~
+Alias pro ca 'prot'~
+Alias bi ca 'bio'~
+Alias de ca 'detect evil'~
+Alias c critical~
+Alias dis ca 'disin'~
+Alias ar ca 'enhance armor'~
+Alias sum ca 'apport'~
+Alias str ca 'enhanced strength'~
+Alias adr ca 'adre'~
+Alias cell ca 'cell'~
+Alias fly ca 'levi'~
+Alias tele ca 'teleport'~
+Alias ob ca 'ob'~
+Alias dom ca 'dom'~
+Alias flesh ca 'flesh'~
+Alias men ca 'men'~
+Alias ul ca 'ultrablast'~
+Alias ch ca 'compl'~
+Boards       4 General 1141170473 Ideas 1126580477 Announce 1114049929 Personal 0 
+Sk 77 'cure light'
+Sk 82 'bless'
+Sk 79 'cure serious'
+Sk 79 'protection evil'
+Sk 86 'cure critical'
+Sk 76 'cure disease'
+Sk 75 'dispel evil'
+Sk 100 'heal'
+Sk 75 'detect evil'
+Sk 1 'identify'
+Sk 80 'sanctuary'
+Sk 87 'teleport'
+Sk 76 'word of recall'
+Sk 100 'apport'
+Sk 100 'combat mind'
+Sk 84 'adrenaline control'
+Sk 82 'enhanced strength'
+Sk 75 'aura sight'
+Sk 1 'awe'
+Sk 75 'thought shield'
+Sk 1 'psychic healing'
+Sk 84 'mental barrier'
+Sk 75 'share strength'
+Sk 88 'levitation'
+Sk 81 'obfuscate'
+Sk 100 'bio fortress'
+Sk 86 'cell adjustment'
+Sk 82 'displacement'
+Sk 83 'ectoplasmic form'
+Sk 1 'lend health'
+Sk 100 'complete healing'
+Sk 89 'energy containment'
+Sk 75 'enhance armor'
+Sk 77 'flesh armor'
+Sk 81 'inertial barrier'
+Sk 93 'domination'
+Sk 89 'disintegrate'
+Sk 1 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 1 'control flames'
+Sk 75 'death field'
+Sk 75 'detonate'
+Sk 75 'ego whip'
+Sk 1 'inflict pain'
+Sk 1 'mind thrust'
+Sk 85 'project force'
+Sk 1 'psionic blast'
+Sk 1 'psychic crush'
+Sk 1 'psychic drain'
+Sk 84 'ultrablast'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 90 'spear'
+Sk 93 'mace'
+Sk 90 'axe'
+Sk 91 'flail'
+Sk 67 'whip'
+Sk 90 'polearm'
+Sk 96 'exotic'
+Sk 21 'bash'
+Sk 1 'dirt kicking'
+Sk 76 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 99 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 6 'shield block'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fast healing'
+Sk 98 'haggle'
+Sk 100 'meditation'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 75 'heighten senses'
+Sk 73 'chameleon power'
+Sk 1 'metamorph'
+Sk 75 'shadow form'
+Sk 100 'critical strike'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'paladin basics'
+Gr 'weaponsmaster'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Gr 'paladin spells'
+Affc 'sanctuary'   0 100  -1   0   0        128
+Affc 'displacement'   0  98  -1   0   0    1048576
+Affc 'displacement'   0  98  -1  12   2          0
+Affc 'displacement'   0  98  -1 -96  17          0
+End
+
+#O
+Vnum 2561
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 31501
+Nest 1
+Cond 0
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 97 33 84 22
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 97 33 84 22
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 97 33 84 22
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 97 33 84 22
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 906
+Nest 1
+Cond 0
+Wear -1
+Cost 5700
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 903
+Nest 1
+MatR 0
+Cond 0
+Wear -1
+Cost 7000
+Val  3 23 7 34 128
+End
+
+#O
+Vnum 6752
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6752
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 11851
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3155
+Enchanted
+Nest 1
+ExtF 268435522
+Cond 0
+Wear -1
+Lev  96
+Cost 500
+Val  2 16 15 11 133
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'ppoison blade'   5   0  -1   0   0        128
+Affc 'reserved'   1  95  -1  40  18          0
+Affc 'reserved'   1  95  -1  37  19          0
+Affc 'reserved'   1  95  -1 100  13          0
+Affc 'reserved'   1  95  -1  -5  20          0
+Affc 'reserved'   1  95  -1 -10  17          0
+Affc 'reserved'   1  95  -1   2   1          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 7502
+Nest 1
+Cond 0
+Wear -1
+Cost 93476
+End
+
+#O
+Vnum 7524
+Nest 1
+Cond 0
+Wear -1
+Cost 16000
+End
+
+#O
+Vnum 7506
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 8917
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 8919
+Nest 1
+Cond 0
+Wear -1
+Cost 430
+Spell 2 'cure poison'
+Spell 3 'poison'
+End
+
+#O
+Vnum 5313
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 3 'bless'
+End
+
+#O
+Vnum 11710
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 11710
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 11711
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 3035
+Nest 1
+Cond 0
+Wear -1
+Cost 22342
+End
+
+#O
+Vnum 15135
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15163
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 25421
+Nest 1
+ExtF 285212739
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6739
+Nest 0
+Cond 0
+Wear 9
+Cost 20000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6736
+Nest 0
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 1
+Cost 3868
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 11905
+Enchanted
+Nest 0
+Name golddragon crimson shortsword~
+ShD  {yGolddragon's {RC{rr{Ri{rm{Rs{ro{Rn {cS{Wh{co{Wr{ct{Ws{cw{Wo{cr{Wd{x~
+Desc {yGolddragon's {RC{rr{Ri{rm{Rs{ro{Rn {cS{Wh{co{Wr{ct{Ws{cw{Wo{cr{Wd{x is just lying on the floor.~
+ExtF 302514371
+Cond 0
+Wear 19
+Cost 55000
+Val  1 17 18 3 221
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'enchant weapon'   0 500  -1  75  18          0
+Affc 'enchant weapon'   1 500  -1  37  19          0
+Affc 'reserved'   1 100  -1 -400  14          0
+Affc 'reserved'   1 100  -1 -500  13          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1  60  18          0
+End
+
+#O
+Vnum 21347
+Enchanted
+Nest 0
+ExtF 16777411
+Cond 0
+Wear -1
+Cost 1
+Affc 'reserved'   1 100  -1  30  18          0
+Affc 'reserved'   1 100  -1  30  19          0
+Affc 'reserved'   1 100  -1 350  13          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 6780
+Enchanted
+Nest 0
+ExtF 285213123
+Cond 0
+Wear 16
+Cost 0
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'reserved'   1 100  -1 1000  13          0
+Affc 'reserved'   1 100  -1 1000  14          0
+Affc 'reserved'   1 100  -1 1000  12          0
+Affc 'reserved'   1 100  -1  75  18          0
+Affc 'reserved'   1 100  -1  75  19          0
+Affc 'reserved'   1 100  -1 -75  17          0
+End
+
+#END

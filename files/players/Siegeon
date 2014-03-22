@@ -1,0 +1,84 @@
+#PLAYER
+Name Siegeon~
+Id   1116401334
+LogO 1116403526
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Kender~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 2192
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  4856
+PAct  CDEFGHQTd
+AfBy FV
+WName Siegeon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Save  -31
+Alig  -1000
+Hit   62
+ACs 100 100 100 100
+Attr 12 15 17 23 13
+AMod 0 0 0 0 0
+Pass Si7.8LFWUFfZ6~
+Titl  floating here~
+Pnts 82
+TSex 1
+PSize 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 16 16
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'invisibility'
+Sk 1 'sword'
+Sk 40 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Gr 'invisibility spell'
+Affc 'bless'   0 248 111 -31  20          0
+Affc 'bless'   0 247 111  62  18          0
+End
+
+#END

@@ -1,0 +1,1721 @@
+#AREADATA
+Name The Crux~
+Builders Crovax~
+VNUMs 25700 25799
+Credits Crovax~
+Security 5
+Flags B
+LEVELs 100 200
+End
+
+
+
+#MOBILES
+#25701
+guardian of crux~
+Guardian of Crux~
+The Guardian of Crux stands here.
+~
+~
+Nephilim~
+ABe DFVe -1000 0
+0
+200 500 1000d100+0 100d100+100 100d100+100 slash
+-100 -100 -100 -100
+IKN ELMNOP CFHJK FG
+stand stand none 0
+CHMc ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#25700
+portal water aqua~
+{BThe Water Portal{x~
+{WA shimmering portal of the sea levitates here.{x~
+DIVINE_ELEM portal ABHT P
+700 L L 25745 0
+200 0 0 P
+#25701
+fire cinder blaze~
+{RThe Fire Portal{x~
+{WA shimmering portal of flame levitates here.{x~
+DIVINE_ELEM portal AB P
+700 L L 25754 0
+200 0 0 P
+#25702
+earth dirt mud~
+{yThe Earth Portal{x~
+{WA shimmering portal of rock levitates here.{x~
+DIVINE_ELEM portal AB P
+700 L L 25763 0
+200 0 0 P
+#25703
+wind air breeze~
+{CThe Air Portal{x~
+{WA shimmering portal of cloud levitates here.{x~
+DIVINE_ELEM portal AB 0
+700 L L 25772 0
+200 0 0 P
+#25704
+dark doom enigma~
+{WPortal of {DD{Warkness{x~
+{DA dim portal hovers here awaiting entry.{x~
+DIVINE_ELEM portal AB P
+700 L L 25781 0
+200 0 0 P
+#25705
+easter egg golden sparkle~
+{WA {YG{yo{Yl{yd{Ye{yn {CE{Wa{Cs{Wt{Ce{Wr {CE{Wg{Cg{x~
+An easter egg has been forgotten here.~
+MAGIC_ENERGY armor AY AO
+0 0 0 0 0
+0 0 0 P
+#25706
+heal potion~
+{MPotion of Darkened {MS{Douls{x~
+A poiton of swirling darkness lays here. ~
+GLASS potion ABY AO
+500 'complete healing' '' '' ''
+20 0 0 P
+#25707
+.~
+.~
+.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+1 0 0 P
+#25708
+portal spectral hero~
+spectral Portal~
+The portal to the spectral realm hovers here.~
+MAGIC_ENERGY portal AB A
+1 0 0 6783 0
+110 0 0 P
+#25710
+sword hurt pain long~
+the sword of pain~
+A very sharp sword lays on the ground.~
+SELECT_A_MATERIAL weapon AY AN
+sword 30 50 slice BCDEH
+20 0 0 P
+A
+18 300
+A
+13 3000
+A
+19 300
+#25715
+essence of the guardian~
+{bEssence of the Guardian{x~
+{b A ball of glowing energy sits here on the ground.{x~
+MAGIC_ENERGY pill AB AO
+200 'sanctuary' 'combat mind' 'stone skin' 'armor'
+50 0 0 P
+#0
+
+
+
+#ROOMS
+#25700
+{WOn a cobblestone road{x~
+Stepping onto the stones, they move little due to years of pounding from
+heavy travel.  The stones appear to be made of a granite and obsidian
+mixture, creating a shine although aged for years.  To the south lies a
+guarded gate with military horse stables.  
+~
+0 0 0
+D2
+~
+~
+0 0 25701
+C 0
+S
+#25701
+{WOn a cobblestone road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25700
+D1
+~
+~
+0 0 25702
+D2
+~
+~
+0 0 25704
+D3
+~
+~
+0 0 25703
+C 0
+S
+#25702
+{WA precarious wooden stable{x~
+~
+0 0 0
+D3
+~
+~
+0 0 25701
+C 0
+S
+#25703
+{WA precarious wooden stable{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25701
+C 0
+S
+#25704
+{WNorth Drawbridge{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25701
+D2
+~
+~
+0 0 25705
+C 0
+S
+#25705
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25704
+D1
+~
+~
+0 0 25710
+D2
+~
+~
+0 0 25708
+D3
+~
+~
+0 0 25706
+C 0
+S
+#25706
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25705
+D2
+~
+~
+0 0 25707
+C 0
+S
+#25707
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25706
+D1
+~
+~
+0 0 25708
+C 0
+S
+#25708
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25705
+D1
+~
+~
+0 0 25709
+D2
+~
+~
+0 0 25711
+D3
+~
+~
+0 0 25707
+C 0
+S
+#25709
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25710
+D3
+~
+~
+0 0 25708
+C 0
+S
+#25710
+{WNorthern Courtyard of Venality{x~
+~
+0 0 0
+D2
+~
+~
+0 0 25709
+D3
+~
+~
+0 0 25705
+C 0
+S
+#25711
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25708
+D1
+~
+~
+0 0 25712
+D2
+~
+~
+0 0 25714
+D3
+~
+~
+0 0 25713
+C 0
+S
+#25712
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25735
+D2
+~
+~
+0 0 25715
+D3
+~
+~
+0 0 25711
+C 0
+S
+#25713
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25711
+D2
+~
+~
+0 0 25716
+D3
+~
+~
+0 0 25729
+C 0
+S
+#25714
+{YT{yemple {Yo{yf {YC{yruzila{x~
+The sight of a cruel female representation stands taller than the largest
+giant.  The idol is covered in blood and is gilded in silver.  In the center
+of the womans palm is a crystal orb that seems to project a portal in the
+middle of the temple.  The portal seems to lead into the depths of the
+unknown.  
+~
+0 0 0
+D0
+~
+~
+0 0 25711
+D1
+~
+~
+0 0 25715
+D2
+~
+~
+0 0 25717
+D3
+~
+~
+0 0 25716
+C 0
+S
+#25715
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25712
+D1
+~
+~
+0 0 25734
+D2
+~
+~
+0 0 25718
+D3
+~
+~
+0 0 25714
+C 0
+S
+#25716
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25713
+D1
+~
+~
+0 0 25714
+D2
+~
+~
+0 0 25719
+D3
+~
+~
+0 0 25730
+C 0
+S
+#25717
+{DTemple of the {CE{clements{x~
+Here the statues of the four elemental goddesses can be seen at the four
+edges of the temple.  Each one of the statues hold up their mark in honor to
+the greater goddess.  As light passes through the mark, the power of the
+element creates a magical portal to each concentration of power.  
+~
+0 0 0
+D0
+~
+~
+0 0 25714
+D1
+~
+~
+0 0 25718
+D2
+~
+~
+0 0 25720
+D3
+~
+~
+0 0 25719
+C 0
+S
+#25718
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25715
+D1
+~
+~
+0 0 25733
+D2
+~
+~
+0 0 25721
+D3
+~
+~
+0 0 25717
+C 0
+S
+#25719
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25716
+D1
+~
+~
+0 0 25717
+D2
+~
+~
+0 0 25722
+D3
+~
+~
+0 0 25731
+C 0
+S
+#25720
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25717
+D1
+~
+~
+0 0 25721
+D2
+~
+~
+0 0 25740
+D3
+~
+~
+0 0 25722
+C 0
+S
+#25721
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25718
+D1
+~
+~
+0 0 25728
+D3
+~
+~
+0 0 25720
+C 0
+S
+#25722
+{gCentral Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25719
+D1
+~
+~
+0 0 25720
+D3
+~
+~
+0 0 25723
+C 0
+S
+#25723
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25731
+D1
+~
+~
+0 0 25722
+D3
+~
+~
+0 0 25724
+C 0
+S
+#25724
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25725
+D1
+~
+~
+0 0 25723
+C 0
+S
+#25725
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25726
+D1
+~
+~
+0 0 25731
+D2
+~
+~
+0 0 25724
+C 0
+S
+#25726
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25727
+D1
+~
+~
+0 0 25730
+D2
+~
+~
+0 0 25725
+C 0
+S
+#25727
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25729
+D2
+~
+~
+0 0 25726
+C 0
+S
+#25728
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25733
+D1
+~
+~
+0 0 25739
+D3
+~
+~
+0 0 25721
+C 0
+S
+#25729
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25713
+D2
+~
+~
+0 0 25730
+D3
+~
+~
+0 0 25727
+C 0
+S
+#25730
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25729
+D1
+~
+~
+0 0 25716
+D2
+~
+~
+0 0 25731
+D3
+~
+~
+0 0 25726
+C 0
+S
+#25731
+{mWestern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25730
+D1
+~
+~
+0 0 25719
+D2
+~
+~
+0 0 25723
+D3
+~
+~
+0 0 25725
+C 0
+S
+#25732
+~
+~
+0 4 0
+C 0
+S
+#25733
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25734
+D2
+~
+~
+0 0 25728
+D3
+~
+~
+0 0 25718
+C 0
+S
+#25734
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25735
+D2
+~
+~
+0 0 25733
+D3
+~
+~
+0 0 25715
+C 0
+S
+#25735
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25736
+D2
+~
+~
+0 0 25734
+D3
+~
+~
+0 0 25712
+C 0
+S
+#25736
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D2
+~
+~
+0 0 25737
+D3
+~
+~
+0 0 25735
+C 0
+S
+#25737
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25736
+D2
+~
+~
+0 0 25738
+C 0
+S
+#25738
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25737
+D2
+~
+~
+0 0 25739
+C 0
+S
+#25739
+{cEastern Courtyard of Venality{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25738
+D3
+~
+~
+0 0 25728
+C 0
+S
+#25740
+{WSouth Drawbridge{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25720
+D2
+~
+~
+0 0 25741
+C 0
+S
+#25741
+{WOn a cobblestone road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25740
+D1
+~
+~
+0 0 25743
+D2
+~
+~
+0 0 25742
+D3
+~
+~
+0 0 25744
+C 0
+S
+#25742
+{WOn a cobblestone road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25741
+C 0
+S
+#25743
+{WA precarious wooden stable{x~
+~
+0 0 0
+D3
+~
+~
+0 0 25741
+C 0
+S
+#25744
+{WA precarious wooden stable{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25741
+C 0
+S
+#25745
+{BWater Portal Room~
+~
+0 0 0
+D0
+~
+~
+0 0 25746
+D1
+~
+~
+0 0 25752
+D2
+~
+~
+0 0 25750
+D3
+~
+~
+0 0 25748
+C 0
+S
+#25746
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25753
+D2
+~
+~
+0 0 25745
+D3
+~
+~
+0 0 25747
+C 0
+S
+#25747
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25746
+D2
+~
+~
+0 0 25748
+C 0
+S
+#25748
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25747
+D1
+~
+~
+0 0 25745
+D2
+~
+~
+0 0 25749
+C 0
+S
+#25749
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25748
+D1
+~
+~
+0 0 25750
+C 0
+S
+#25750
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25745
+D1
+~
+~
+0 0 25751
+D3
+~
+~
+0 0 25749
+C 0
+S
+#25751
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25752
+D3
+~
+~
+0 0 25750
+C 0
+S
+#25752
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25753
+D2
+~
+~
+0 0 25751
+D3
+~
+~
+0 0 25745
+C 0
+S
+#25753
+~
+~
+0 0 0
+D2
+~
+~
+0 0 25752
+D3
+~
+~
+0 0 25746
+C 0
+S
+#25754
+{RFire Portal Room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25755
+D1
+~
+~
+0 0 25757
+D2
+~
+~
+0 0 25756
+D3
+~
+~
+0 0 25758
+C 0
+S
+#25755
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25762
+D2
+~
+~
+0 0 25754
+D3
+~
+~
+0 0 25759
+C 0
+S
+#25756
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25754
+D1
+~
+~
+0 0 25761
+D3
+~
+~
+0 0 25760
+C 0
+S
+#25757
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25762
+D2
+~
+~
+0 0 25761
+D3
+~
+~
+0 0 25754
+C 0
+S
+#25758
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25759
+D1
+~
+~
+0 0 25754
+D2
+~
+~
+0 0 25760
+C 0
+S
+#25759
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25755
+D2
+~
+~
+0 0 25758
+C 0
+S
+#25760
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25758
+D1
+~
+~
+0 0 25756
+C 0
+S
+#25761
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25757
+D3
+~
+~
+0 0 25756
+C 0
+S
+#25762
+~
+~
+0 0 0
+D2
+~
+~
+0 0 25757
+D3
+~
+~
+0 0 25755
+C 0
+S
+#25763
+{yEarth Portal Room~
+~
+0 0 0
+D0
+~
+~
+0 0 25764
+D1
+~
+~
+0 0 25766
+D2
+~
+~
+0 0 25765
+D3
+~
+~
+0 0 25767
+C 0
+S
+#25764
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25769
+D2
+~
+~
+0 0 25763
+D3
+~
+~
+0 0 25768
+C 0
+S
+#25765
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25763
+D1
+~
+~
+0 0 25770
+D3
+~
+~
+0 0 25771
+C 0
+S
+#25766
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25769
+D2
+~
+~
+0 0 25770
+D3
+~
+~
+0 0 25763
+C 0
+S
+#25767
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25768
+D1
+~
+~
+0 0 25763
+D2
+~
+~
+0 0 25771
+C 0
+S
+#25768
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25764
+D2
+~
+~
+0 0 25767
+C 0
+S
+#25769
+~
+~
+0 0 0
+D2
+~
+~
+0 0 25766
+D3
+~
+~
+0 0 25764
+C 0
+S
+#25770
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25766
+D3
+~
+~
+0 0 25765
+C 0
+S
+#25771
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25767
+D1
+~
+~
+0 0 25765
+C 0
+S
+#25772
+{CWind Portal Room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 25773
+D1
+~
+~
+0 0 25775
+D2
+~
+~
+0 0 25774
+D3
+~
+~
+0 0 25776
+C 0
+S
+#25773
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25780
+D2
+~
+~
+0 0 25772
+D3
+~
+~
+0 0 25777
+C 0
+S
+#25774
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25772
+D1
+~
+~
+0 0 25779
+D3
+~
+~
+0 0 25778
+C 0
+S
+#25775
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25780
+D2
+~
+~
+0 0 25779
+D3
+~
+~
+0 0 25772
+C 0
+S
+#25776
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25777
+D1
+~
+~
+0 0 25772
+D2
+~
+~
+0 0 25778
+C 0
+S
+#25777
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25773
+D2
+~
+~
+0 0 25776
+C 0
+S
+#25778
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25776
+D1
+~
+~
+0 0 25774
+C 0
+S
+#25779
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25775
+D3
+~
+~
+0 0 25774
+C 0
+S
+#25780
+~
+~
+0 0 0
+D2
+~
+~
+0 0 25775
+D3
+~
+~
+0 0 25773
+C 0
+S
+#25781
+{DEnigma of Venality{x~
+~
+0 0 0
+D1
+~
+~
+0 0 25782
+C 0
+S
+#25782
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25783
+D3
+~
+~
+0 0 25781
+C 0
+S
+#25783
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25784
+D3
+~
+~
+0 0 25782
+C 0
+S
+#25784
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25785
+D3
+~
+~
+0 0 25783
+C 0
+S
+#25785
+~
+~
+0 0 0
+D2
+~
+~
+0 0 25786
+D3
+~
+~
+0 0 25784
+C 0
+S
+#25786
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25785
+D2
+~
+~
+0 0 25787
+C 0
+S
+#25787
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25786
+D3
+~
+~
+0 0 25788
+C 0
+S
+#25788
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25787
+D3
+~
+~
+0 0 25789
+C 0
+S
+#25789
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25788
+D3
+~
+~
+0 0 25790
+C 0
+S
+#25790
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25789
+D3
+~
+~
+0 0 25791
+C 0
+S
+#25791
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25790
+D2
+~
+~
+0 0 25792
+C 0
+S
+#25792
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25791
+D2
+~
+~
+0 0 25793
+C 0
+S
+#25793
+~
+~
+0 0 0
+D0
+~
+~
+0 0 25792
+D1
+~
+~
+0 0 25794
+C 0
+S
+#25794
+~
+~
+0 0 0
+D1
+~
+~
+0 0 25795
+D3
+~
+~
+0 0 25793
+C 0
+S
+#25795
+~
+~
+0 0 0
+D3
+~
+~
+0 0 25794
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 25704 0 25714
+O 0 25700 0 25717
+O 0 25701 0 25717
+O 0 25702 0 25717
+O 0 25703 0 25717
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

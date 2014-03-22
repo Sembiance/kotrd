@@ -1,0 +1,500 @@
+#PLAYER
+Name Dorian~
+Id   1099185633
+LogO 1116043738
+Vers 5
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Human~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 32
+OldLvl 32
+Sec  0
+Plyd 507620
+Scro 33
+Room 3054
+HMV  345 345 269 269 286 286
+Gold 659
+Silv 53657
+Gold_bank 700000
+Silv_bank 0
+Shares 0
+Share_level 32
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  32053
+PAct  DEFGQTd
+AfBy NTVe
+WName Dorian~
+Comm KNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 16
+Trai 13
+Save  188
+Alig  -1000
+Hit   237
+Dam   103
+ACs -291 -291 -294 -259
+Attr 15 17 13 18 12
+AMod 6 0 2 11 1
+Pass Do2CQs3ajVJDY~
+Titl  {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 138
+HMVP 287 169 286
+Cnd  0 0 0 0
+Boards       4 General 1115408820 Ideas 1115517046 Announce 1114049929 Personal 1112880029 
+Sk 78 'dagger'
+Sk 75 'backstab'
+Sk 75 'circle'
+Sk 75 'dodge'
+Sk 1 'trip'
+Sk 78 'second attack'
+Sk 1 'hide'
+Sk 75 'peek'
+Sk 1 'pick lock'
+Sk 75 'sneak'
+Sk 50 'recall'
+Sk 1 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'protection evil'   0 497  19 250  20       8192
+Affc 'stone skin'   0 498 495 -40  17          0
+Affc 'combat mind'   0 499 161 100  19          0
+Affc 'combat mind'   0 499 161 -255  17          0
+Affc 'combat mind'   0 498 161 100  18          0
+Affc 'bless'   0 500 245 -62  20          0
+Affc 'bless'   0 498 245 125  18          0
+Affc 'haste'   0 497 120   4   2    2097152
+Affc 'golden aura'   0 500 106   0   0 1073741824
+Affc 'fly'   0 436 212   0   0     524288
+Affc 'giant strength'   0 450 209   4   1          0
+Affc 'stone skin'   0 447 210 -40  17          0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 10282
+Nest 0
+Cond 0
+Wear 12
+Cost 400
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 16038
+Nest 0
+Cond 0
+Wear -1
+Cost 4005
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear 16
+Cost 600
+Val  2 3 7 11 85
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 0
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

@@ -1,0 +1,37 @@
+Sat Jan  8 15:10:36 2005 :: ROM is ready to rock on port 5000.
+Sat Jan  8 15:10:59 2005 :: Sock.sinaddr:  67.170.53.94
+Sat Jan  8 15:11:03 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan  8 15:11:03 2005 :: Sock.sinaddr:  67.141.86.144
+Sat Jan  8 15:11:03 2005 :: Sock.sinaddr:  67.19.185.236
+Sat Jan  8 15:11:03 2005 :: Loading Argon.
+Sat Jan  8 15:11:04 2005 :: Loading Sembiance.
+Sat Jan  8 15:11:04 2005 :: Argon@67.141.86.144 has connected.
+Sat Jan  8 15:11:04 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Sat Jan  8 15:11:14 2005 :: Loading Venus.
+Sat Jan  8 15:11:14 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Sat Jan  8 15:17:57 2005 :: Loading Seclar.
+Sat Jan  8 15:17:58 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan  8 15:25:37 2005 :: Seclar has quit.
+Sat Jan  8 15:25:39 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan  8 15:25:41 2005 :: Loading Enzio.
+Sat Jan  8 15:25:42 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan  8 15:35:50 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan  8 15:36:11 2005 :: Loading Lars.
+Sat Jan  8 15:36:11 2005 :: Closing link to Lars.
+Sat Jan  8 15:36:14 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan  8 15:37:46 2005 :: Gecco@dsl093-033-134.snd1.dsl.speakeasy.net new player.
+Sat Jan  8 15:38:47 2005 :: Log Argon: advance gecco 500
+Sat Jan  8 15:39:15 2005 :: Log Argon: mset gecco job HELPER IMM
+Sat Jan  8 15:47:23 2005 :: Enzio has quit.
+Sat Jan  8 15:49:03 2005 :: Sock.sinaddr:  68.82.87.117
+Sat Jan  8 15:50:14 2005 :: Ilyana@pcp02510181pcs.elztwn01.pa.comcast.net new player.
+Sat Jan  8 15:51:08 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan  8 15:51:11 2005 :: Loading Seclar.
+Sat Jan  8 15:51:11 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan  8 16:08:09 2005 :: Closing link to Seclar.
+Sat Jan  8 16:08:09 2005 :: Closing link to Ilyana.
+Sat Jan  8 16:08:09 2005 :: Closing link to Gecco.
+Sat Jan  8 16:08:09 2005 :: Closing link to Sembiance.
+Sat Jan  8 16:08:09 2005 :: Closing link to Argon.
+Sat Jan  8 16:08:09 2005 :: Closing link to Venus.
+Sat Jan  8 16:08:09 2005 :: Normal termination of game.

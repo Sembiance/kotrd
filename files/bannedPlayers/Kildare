@@ -1,0 +1,649 @@
+#PLAYER
+Name Kildare~
+Id   1159453977
+LogO 1171233355
+Vers 5
+Desc {x
+~
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Myrddraal~
+Sex  0
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 1
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 54526
+Scro 33
+Room 3260
+HMV  12853 13762 5732 6974 3822 8604
+Gold 5054
+Silv 25487
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200021
+QuestPnts 291
+QuestNext 1
+PAct  CDGHQRTbd
+AfBy DFTUVce
+WName Kildare~
+Comm KNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 7
+Trai 31
+Save  -174
+Alig  -1000
+Hit   491
+Dam   549
+ACs -1503 -1503 -1503 -1503
+Attr 22 13 14 24 21
+AMod 31 9 3 23 8
+Pass Kii28KeaWvaqg~
+Titl  {x~
+Pnts 40
+TSex 0
+PSize 2
+LLev 11
+HMVP 1612 374 754
+Cnd  0 0 -1 -1
+Boards       4 General 1169145680 Ideas 1158582947 Announce 0 Personal 0 
+Sk 1 'portal'
+Sk 75 'lightning bolt'
+Sk 1 'gas breath'
+Sk 75 'cure light'
+Sk 75 'change sex'
+Sk 1 'cause light'
+Sk 75 'cure blindness'
+Sk 75 'bless'
+Sk 1 'cause serious'
+Sk 75 'cure serious'
+Sk 75 'protection evil'
+Sk 75 'protection good'
+Sk 75 'earthquake'
+Sk 1 'cause critical'
+Sk 75 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure poison'
+Sk 75 'dispel evil'
+Sk 75 'dispel good'
+Sk 75 'heat metal'
+Sk 75 'remove curse'
+Sk 75 'flamestrike'
+Sk 82 'heal'
+Sk 75 'harm'
+Sk 75 'frenzy'
+Sk 75 'demonfire'
+Sk 75 'ray of truth'
+Sk 75 'holy word'
+Sk 75 'mass healing'
+Sk 92 'golden aura'
+Sk 75 'detect evil'
+Sk 75 'detect good'
+Sk 75 'detect hidden'
+Sk 75 'armor'
+Sk 75 'blindness'
+Sk 1 'call lightning'
+Sk 75 'calm'
+Sk 86 'cancellation'
+Sk 75 'continual light'
+Sk 1 'control weather'
+Sk 75 'create food'
+Sk 75 'create rose'
+Sk 75 'create spring'
+Sk 75 'create water'
+Sk 75 'curse'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 75 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 75 'fly'
+Sk 75 'floating disc'
+Sk 86 'gate'
+Sk 75 'identify'
+Sk 75 'infravision'
+Sk 75 'know alignment'
+Sk 78 'locate object'
+Sk 75 'mass invis'
+Sk 75 'plague'
+Sk 75 'poison'
+Sk 77 'refresh'
+Sk 77 'sanctuary'
+Sk 75 'energy shield'
+Sk 75 'slow'
+Sk 75 'stone skin'
+Sk 82 'summon'
+Sk 75 'teleport'
+Sk 75 'weaken'
+Sk 75 'word of recall'
+Sk 78 'sword'
+Sk 77 'dagger'
+Sk 1 'spear'
+Sk 92 'mace'
+Sk 1 'assassinate'
+Sk 1 'backstab'
+Sk 77 'circle'
+Sk 82 'dual wield'
+Sk 76 'hand to hand'
+Sk 78 'dodge'
+Sk 5 'trip'
+Sk 79 'second attack'
+Sk 78 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 85 'meditation'
+Sk 75 'peek'
+Sk 1 'pick lock'
+Sk 73 'sneak'
+Sk 1 'scrolls'
+Sk 75 'staves'
+Sk 50 'recall'
+Sk 75 'spellcraft'
+Sk 75 'create zombie'
+Sk 75 'divine wrath'
+Sk 75 'scribe'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'thief basics'
+Gr 'cleric default'
+Gr 'thief default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'cleric transport'
+Gr 'weather'
+Affc 'golden aura'   0  75  11   0   0 1073741824
+End
+
+#O
+Vnum 6758
+Nest 0
+Name eyes phoenix flaming Luther~
+Cond 0
+Wear 0
+Cost 50050
+End
+
+#O
+Vnum 6701
+Nest 0
+Name leg legplates Luther~
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 0
+Name dragonscale breastplate breast Luther~
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 6732
+Nest 0
+Name ID tag Luther~
+Cond 0
+Wear 15
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 0
+Name ID tag Luther~
+Cond 0
+Wear 14
+Cost 55000
+End
+
+#O
+Vnum 3099
+Nest 0
+Name oath vengeance band adamantite ruby Luther~
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Name oath vengeance band adamantite ruby Luther~
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 6714
+Nest 0
+Name horn horns Luther~
+Cond 0
+Wear 6
+Cost 50000
+End
+
+#O
+Vnum 6799
+Nest 0
+Name blue dragonscale armband Luther~
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6708
+Nest 0
+Name golden cloud Luther~
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 6796
+Nest 0
+Name backpack spider Luther~
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 6701
+Nest 1
+Name leg legplates Luther~
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 1
+Name dragonscale breastplate breast Luther~
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 6732
+Nest 1
+Name ID tag Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 1
+Name ID tag Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6799
+Nest 1
+Name blue dragonscale armband Luther~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Name silver dragonscale chain Luther~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Name silver dragonscale chain Luther~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6738
+Nest 1
+Name shield rainbow dragon Luther~
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6730
+Nest 1
+Name emerald dragon ring Luther~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 1
+Name emerald dragon ring Luther~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6724
+Nest 1
+Name brass draogn girth Luther~
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 25080
+Nest 1
+Name girth hero heroism Luther~
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 6736
+Nest 1
+Name green dragon skin boots Luther~
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6708
+Nest 1
+Name golden cloud Luther~
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6708
+Nest 1
+Name golden cloud Luther~
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6730
+Nest 1
+Name emerald dragon ring Luther~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 1
+Name emerald dragon ring Luther~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 1
+Name amethyst dragonscale scale cloak Luther~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 0
+Name amethyst dragonscale scale cloak Luther~
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6736
+Nest 0
+Name green dragon skin boots Luther~
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 6728
+Nest 0
+Name sapphire dragon ring Luther~
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 0
+Name sapphire dragon ring Luther~
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 6724
+Nest 0
+Name brass draogn girth Luther~
+Cond 0
+Wear 13
+Cost 22500
+End
+
+#O
+Vnum 16012
+Nest 0
+Name holy symbol xevior Luther~
+Cond 0
+Wear -1
+Cost 17559
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Luther~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Luther~
+Cond 0
+Wear 19
+Cost 20000000
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Luther~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Luther~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 6780
+Nest 0
+Name sword dragon slayers Luther~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 11905
+Nest 0
+Name honed shortsword zedraikis Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 11905
+Nest 0
+Name honed shortsword zedraikis Luther~
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 21012
+Nest 0
+Name ice dagger malicar Luther~
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 23411
+Nest 0
+Name gauntlets Luther~
+Cond 0
+Wear 9
+Cost 100000
+End
+
+#O
+Vnum 29905
+Nest 0
+Name blanket Luther~
+ShD  a blanket~
+Desc A blanket is here!!~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 23423
+Nest 0
+Name map book Luther~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 928
+Nest 0
+Name map olympus secret Luther~
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 21254
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 11728
+Nest 0
+Name adamantite throwing knife blue black Luther~
+Cond 0
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 4505
+Nest 0
+Name throwing knife Luther~
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11848
+Nest 0
+Name tempered silver throwing dagger Luther~
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6780
+Nest 0
+Name sword dragon slayers Luther~
+Cond 0
+Wear 16
+Cost 20000000
+End
+
+#END

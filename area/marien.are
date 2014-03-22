@@ -1,0 +1,5177 @@
+#AREADATA
+Name Marienburg~
+Builders Mephiston~
+VNUMs 8400 8599
+Credits 60 -  91~
+Security 8
+Flags F
+LEVELs 75 100
+End
+
+
+
+#MOBILES
+#8400
+Mir the Stalker~
+Mir~
+{cMir is here, protecting the world from chaos.{x
+~
+You see a human in his mid twenties. He is average in height and appearance,
+though he has an air of fanaticism to him. That's when you notice his ring,
+showing him to be a member of the fanatical cult devoted to riding the world of
+chaos, the Stalkers.
+~
+Human~
+ABFGT DFHNV 750 1
+0
+100 40 10d10+14500 70d5+350 10d10+39 acbite
+-57 -55 -55 -65
+CEFJK AHIJK LO M
+stand stand male 80000
+AHMV ABCDEFGHIJKMV medium unknown
+#8401
+Marius D'Avent~
+Marius~
+{cMarius D'Avent is practicing the deadly art of the sword dance.{x
+~
+Marius is obviously a veteran warrior. The elf has scars all over his body. He
+also appears to be peak physical shape. His mastery of the deadly art of the
+sword dance would make him a deadly opponent indeed.
+~
+Elf~
+ABGT FJZ 0 2
+0
+100 40 70d13+14700 25d10+450 10d10+39 cleave
+-50 -50 -50 -52
+ACEFK B ABHJKPQ Z
+stand stand male 30000
+AHMV ABCDEFGHIJKMV medium unknown
+#8402
+Amanda~
+Amanda~
+{cAmanda sits here, furiously typing out paperwork.{x
+~
+It is hard to get a good look at Amanda. She moves around the room at
+unbelievable speeds. The only thing you know for sure is that she is a female
+
+dwarf.
+~
+Dwarf~
+ABCGT FJUVZ 500 3
+0
+93 35 45d11+8000 5d50+250 8d8+30 punch
+-40 -42 -39 -40
+CEFHIJK IJL EGLOQ PR
+stand stand female 30000
+AHMV ABCDEFGHIJKMV medium unknown
+#8403
+Franz Khol~
+Franz~
+{cFranz is here, summoning demons of Law.{x
+~
+You see before you a frail, weak looking human. He seems to have no physical
+prowess what so ever, yet an aura of great power surrounds him. Though he looks
+like an easy kill, your instincts tell you that this may not be the case.
+~
+Human~
+ABCGHR CDEFGHU 500 4
+0
+100 25 45d11+8000 5d100+900 10d8+35 magic
+-48 -46 -47 -48
+FG ABOP 0 0
+stand stand male 80000
+AHMV ABCDEFGHIJKMV medium unknown
+#8404
+Sylvester~
+Sylvester~
+{cSylvester sits here watching his spore bombs grow.{x
+~
+Sylvester is a short green skinned creature, with pointy ears and teeth. He
+seems to be covered in mucus and have absolutely no physical prowess. In short
+he seems to be the most pathetic goblinoid you have ever seen.
+~
+unique~
+ACGHSW IUZ 0 5
+0
+90 15 55d12+9250 6d50+250 12d6+35 slime
+-35 -35 -35 -38
+FJN ABKLQ FN R
+stand stand male 60000
+ABHMV ABCDEFGHIJK small unknown
+#8405
+Law Imp~
+Law Imp~
+{cA Law Imp Familiar hides in the shadows watching your every move.{x
+~
+The Imp Is pure white, and has an aura of godliness about it. But then
+this IS a servant of the gods of Law. It stares at you, and its gaze seems to pierce your
+very soul.....
+~
+unique~
+ABGT BCDEFGHJNPQTZ 1000 6
+0
+95 25 65d15+14000 6d50+250 8d8+35 wrath
+-45 -45 -45 -40
+CDEFKMN ABHNP FM K
+stand stand either 70000
+ACHM ABCDEFGHIJKQUV medium unknown
+#8406
+The Bandit~
+The Bandit~
+{cThe Bandit is slacking off from his job, protecting Franz Khol.{x
+~
+Before you is a rather scruffy human. He has brown hair and eyes, and seems to
+be in need of a bath. His eyes constantly rove the room. He is either a very
+well trained soldier, or a man who has been on the run for a long time.
+~
+Human~
+ABGHS 0 0 4
+0
+100 0 65d15+17000 5d50+250 10d10+35 stab
+-47 -47 -45 -45
+BEFJKLNR A BOR 0
+stand stand male 80000
+AHMV ABCDEFGHIJKMV medium unknown
+#8407
+Ambrose~
+Ambrose~
+{cAmbrose kneels here, praying to his god.{x
+~
+Ambrose is a huge hulking beast of a man. Standing six foot tall and every inch
+of it muscle, he is a very imposing figure. Dressed in the pelts of wolves, he
+looks sort of barbaric. Judging by the sharp axe at his side you probably
+do not want to tell him the advantages of civility.
+~
+Human~
+ABGQT CHN 500 7
+0
+100 30 70d13+14000 5d50+250 10d10+39 chill
+-50 -45 -48 -48
+CDEFIKO ABEHIN L J
+stand stand male 80000
+AHMV ABCDEFGHIJKMV medium unknown
+#8408
+A Seeker~
+A Seeker~
+{cA Seeker is throwing rocks at an innocent chaos mutant.{x
+~
+One of the biggest problems of Marienburg, The Seekers try to
+bully all who they think are evil. Wearing big leather jackets
+and holding a rock in one hand, they are your average gang thugs.
+~
+Human~
+ABCGHST 0 0 8
+0
+100 25 50d9+11000 5d50+25 6d8+45 pound
+-60 -60 -60 -60
+BCFIJNU BEFHIJKLMN PQR GO
+stand stand either 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#8409
+A Seeker~
+A Seeker~
+{cA Seeker is throwing rocks at an innocent chaos mutant.{x
+~
+One of the biggest problems of Marienburg, The Seekers try to bully all
+who they think are evil. Wearing big leather jackets and holding a rock in
+ one hand, they are your average gang thug.
+~
+Human~
+ABCGHST 0 0 8
+0
+100 25 50d9+11000 5d50+250 6d8+45 pound
+-60 -60 -60 -60
+BCFIJNU BEGHIJKLM PQR FNO
+stand stand either 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#8410
+A Seeker~
+A Seeker~
+{cA Seeker is throwing rocks at an innocent chaos mutant.{x
+~
+One of the biggest problems of Marienburg, The Seekers try to bully all
+who theythink are evil. Wearing big leather jackets and holding a rock in
+one hand, they are your average gang thug.
+~
+Human~
+ABCGHST 0 0 8
+0
+100 25 50d9+11000 5d50+250 6d8+45 pound
+-60 -60 -60 -60
+BCFIJNU BEGHJLM FOPQR IKN
+stand stand either 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#8411
+Salty Willy~
+Salty Willy~
+{cSalty Willy lays on his bed in a drunken stupor.{x
+~
+Salty Willy is tall human with jet black hair and a brown eyes. He is wearing
+baggy pantaloons and a white shirt. Judging by reek of alcohol that permeates
+his body, his a lover of spirits as well as a renowned seafarer.
+~
+Human~
+ABGT 0 250 9
+0
+100 30 70d13+14000 5d50+50 10d10+39 thwack
+-45 -45 -45 -40
+CEFIJK ABEFQRS IJ 0
+stand stand male 40000
+AHMV ABCDEFGHIJKMV medium unknown
+#8412
+Faalor~
+Faalor~
+{cFaalor is helping summon law demons by singing backup enchantments.{x
+~
+A tall and imposing figure, Faalor does not seem to be a normal mage.
+Dressed in full red scale armor from head to toe, you can hear his voice
+echoing out fromhis helmet. It is hard to reconcile that this elf is a mage
+of the spheres notsome addled warrior who has been hit in the head one
+too many times. After a fewminutes, you figure it must be something to
+do with the armor, it just radiates magic off the scales.
+~
+Elf~
+ABGRT FHJ 250 4
+0
+100 30 70d13+14000 5d100+900 10d10+39 magic
+-40 -40 -40 -40
+CDEFIJK ABHKP BPQ Z
+stand stand male 40000
+AHMV ABCDEFGHIJKMV medium unknown
+#8413
+The Fabulously Wealthy Baronet Von Bruinwald~
+The Fabulously Wealthy Baronet Von Bruinwald~
+{cThe Fabulously Wealthy Baronet Von Bruinwald is wasting his father's 
+money.{x
+~
+The baronet is a flamboyant figure. Everything about him screams of wealth and
+luxury. Even his sword seams to be worth more as an ornament than as a weapon.
+All in all if  it wasn't for the two people accompanying him you would guess
+that he would be an easy mark.
+~
+Human~
+ABCGT 0 0 10
+0
+95 20 50d13+11000 5d50+250 8d8+30 slap
+-40 -40 -40 -40
+FI ABRST LMN 0
+stand stand male 70000
+AHMV ABCDEFGHIJKMV medium unknown
+#8414
+Sella the assassin~
+Sella the assassin~
+{cSella the assassin watches over the Baronet keeping him out of
+trouble.{x
+~
+Standing before you is a human female. She is dressed in dark leather, and a
+black cloak. Between the two it is almost impossible to find out any more
+specifics about her features. From what you can see she is a beautiful woman,
+but her demeanor is cold and dispassionate. She does not seem to have a single
+emotion or care other than keeping the Baronet alive.
+~
+Human~
+ABGST NOV 0 10
+0
+100 45 70d13+14000 5d50+250 10d10+39 acbite
+-45 -45 -45 -45
+CEFGHIJKLNQ ABEFIJM PQR H
+stand stand female 30000
+AHMV ABCDEFGHIJKMV medium unknown
+#8415
+The Old Weapons Master~
+The Old Weapons Master~
+{cThe Old Weapons Master is telling the Baronet all about the good old
+days.{x
+~
+This old coot seams to be here for only one reason: the Baronet cannot
+think of a way to get rid of him. His right leg is busted and he walks
+with an obvious limp. All his clothes are out dated and show him to be
+totally clue less about today's world.
+~
+Human~
+ABT I 0 10
+0
+100 20 50d13+14000 5d50+1 10d10+35 cleave
+-40 -40 -40 -40
+FKQ ABN HI 0
+stand stand male 20000
+AHMV ABCDEFGHIJKMV medium unknown
+#8416
+Shalyan Healer~
+Shalyan Healer~
+{cA Shalyan Healer wanders this room tending to the wounded.{x
+~
+This young woman seems unable to hurt a fly. Judging by her robes and holy
+symbol this would make sense. Priests and priestesses of the goddess, Shayla,
+take an oath to heal all who ask no questions asked and to never harm another
+living life form.
+~
+Human~
+ABGVa DFJZ 1000 11
+0
+100 0 1d1+15000 1d1+12000 10d10+40 wrath
+-40 -40 -40 -40
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKMV medium unknown
+#8417
+Nermal~
+Nermal~
+{cNermal, the High Priest of Mephiston kneels at the altar leading the
+services.{x
+~
+Before you must be the oldest living human in the world. Rumored to be
+over five thousand years old, it is said that the gods refuse to let him die
+cause they can channel their essence through him. His skin is so wrinkled
+that he looks like a human sized raisin. Although he appears to lack any
+physical prowess, he still has an obvious aura of power.
+~
+Human~
+ABGQVa DF 0 12
+0
+100 0 1d1+15000 1d1+12000 10d10+40 wrath
+40 40 40 40
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#8418
+White Pawn~
+A White Pawn~
+{cA peasant dressed in the garb of a white pawn stands here.{x
+~
+A dirty human peasant. Dressed in a white cotton tunic, and leather breeches.
+Nervously they look back and forth expecting to be attacked at any moment.
+~
+Human~
+ACGHTY 0 750 13
+0
+75 10 55d12+10000 5d50+100 8d6+30 punch
+35 35 35 20
+CFIJQ RS N M
+stand stand either 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#8419
+Black Pawn~
+A Black Pawn~
+{cA peasant dressed in the garb of a black pawn stands here.{x
+~
+A dirty human peasant. Dressed in a black cotton tunic, and leather breeches.
+Nervously they look back and forth expecting to be attacked at any moment.
+~
+Human~
+ACGHTY 0 -750 14
+0
+75 10 55d12+10000 5d50+100 8d6+30 punch
+35 35 35 20
+CFIJQ RS N 0
+stand stand either 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#8420
+White Rook Golem~
+A White Rook~
+{cA golem made of iron stands waiting for a command.{x
+~
+Vaguely human in shape, but twice as tall this golem is made of iron.
+Seeming to ignore your presence it stands here staring at the white
+player. At first you think he is oblivious to all, but then as you approach
+he turns his icy stare to you, waiting for you to make a move.
+~
+unique~
+AGTU c 750 13
+0
+80 15 60d12+12000 5d50+150 10d6+35 crush
+37 37 37 25
+COQ ABHJM LXYZ I
+stand stand none 2000
+EJM ABCGHIK large unknown
+#8421
+Black Rook Golem~
+A Black Rook~
+{cA golem made of iron stands waiting for a command.{x
+~
+Vaguely human in shape, but twice as tall this golem is made of iron.
+Seeming to ignore your presence it stands here staring at the black
+player. At first you think he is oblivious to all, but then as you
+approach he turns his icy stare to you, waiting for you to make a move.
+~
+unique~
+AGTU c -750 14
+0
+80 15 60d12+12000 5d50+150 10d6+35 crush
+37 37 37 25
+COQ ABHJM LXYZ I
+stand stand none 2000
+EJM ABCGHIK large unknown
+#8422
+White Knight~
+A White Knight~
+{cA Knight in shining armor stands at attention.{x
+~
+A human dressed in full plate standing rigidly at attention. Emblazoned on the
+breastplate is a raven, marking them a member of the Order of the Raven, a
+group that stands for truth honor and justice.
+~
+Human~
+AGT V 750 13
+0
+80 15 60d12+12000 5d50+150 10d6+35 thrust
+38 37 36 27
+CIKQ ABH IK 0
+stand stand either 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#8423
+Black Knight Chaos~
+A Knight of Chaos~
+{cA Knight of Chaos looks around for an enemy to fight.{x
+~
+A human wearing black full plate. Emblazoned on the breastplate is the
+symbol of the Knights of Chaos, a group that stands for death, evil, and
+chaos.
+~
+Human~
+AGT V -750 14
+0
+80 15 60d12+12000 5d50+150 10d6+35 thrust
+38 37 36 27
+CIKQ ABH IK 0
+stand stand either 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#8424
+White Bishop Verena Cleric~
+A Cleric of Verena~
+{cA cleric dressed in the robes of the goddess Verena, is praying for a
+fair game.{x
+~
+A human dressed in the formal robes of the goddess of justice and learning,
+Verena.  You assume that this cleric volunteered to play in this game, to learn
+more of the intricacies, and special moves for the temple's records.
+~
+Human~
+AGQ CN 750 13
+0
+80 12 58d11+12000 5d50+800 10d6+30 divine
+35 35 38 29
+FQ ABNP S 0
+stand stand either 4000
+AHMV ABCDEFGHIJKMV medium unknown
+#8425
+Black Bishop Khaine Cleric~
+A Cleric of Khaine~
+{cA cleric dressed in the robes of Khaine, is looking for someone to
+kill.{x
+~
+A human dressed in the formal robes of the god of murder, Khaine.
+You figure that the only reason they are here in the first place
+is that they think that there might be some chance that blood
+might be spilled.
+~
+Human~
+AGQ CN -750 14
+0
+80 12 58d11+12000 5d50+800 10d6+30 wrath
+35 35 38 29
+FQ ABMP R 0
+stand stand either 4000
+AHMV ABCDEFGHIJKMV medium unknown
+#8426
+White Queen Duchess Paravon~
+The Duchess of Paravon~
+{cThe Duchess of Paravon is trying to protect the King.{x
+~
+Dressed in a frilly long white gown, the Duchess of Paravon does not appear to
+be ready to engage in any kind of physical combat. Then after recieving an
+order from the white player, she raises a hand aims it at a pawn on the other side
+of the board and bolts of magical force fly from her finger tips and strike
+them in the chest.
+~
+Human~
+AGR EU 750 13
+0
+88 15 60d12+13000 5d50+650 6d8+30 magic
+39 38 39 30
+FQ ABO RST Q
+stand stand female 6000
+AHMV ABCDEFGHIJKMV medium unknown
+#8427
+Black Queen Duchess Brionne~
+The Duchess of Brionne~
+{cThe Duchess of Brionne is  trying to protect the King.{x
+~
+A woman dressed in black leather, she does not resemble a noble or minor
+royalty in any way. Many whips chains, and a few unmistakable objects
+used for torture, line her belt. You get the feeling that this is not a very nice
+lady.
+~
+Human~
+AGT V -750 14
+0
+88 15 60d12+13000 5d50+650 6d8+30 grep
+39 38 39 30
+CFGIJNQ ABO RST SX
+stand stand female 6000
+AHMV ABCDEFGHIJKMV medium unknown
+#8428
+White King Baron Bruinwald~
+The Fabulously Wealthy Baron Von Bruinwald~
+{cBaron Von Bruinwald is keeping out of harm's way.{x
+~
+The Baron Von Bruinwald looks like an older version of his son.
+Other than looks they seem totally different. Where the baronet
+seemed haughty, the baron seems cool and calculating. Their dress
+is totally different, even for someone portraying a king, he is
+moderately dressed. Other than the gold crown he wears, he looks
+like a well off merchant.
+~
+Human~
+AGST V 750 13
+0
+88 10 60d12+13000 5d50+250 6d8+30 pierce
+39 38 39 30
+EFIJKNQ ABHLPQ RS 0
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#8429
+Black King Dark Opal~
+Dark Opal~
+{cA man dressed in black robes throws globes of blackness at enemy
+pieces.{x
+~
+A tall human in his late thirties, Dark Opal is average in appearance
+except for one thing. Attached to the center of his forehead is a large
+black gem. The gem radiates evil magic of the strongest level. According
+to rumor the gem is one of the anicent artifacts created by the slann, it is said
+that these gems hold the souls of thousands of dead slann. After being
+bonded to the gem, the souls take over control of the host body, and use it
+to their own ends. This makes you wonder why they are here playing a
+chess game....
+~
+Human~
+AGR OU -750 14
+0
+88 10 60d12+13000 5d50+250 6d8+30 pierce
+39 38 39 30
+EFIJKNQ ABHLPQ RS 0
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#8430
+Weaver's Guild Woman~
+The Weaver's Guild Master~
+{cA  beautiful woman is weaving a tapestry.{x
+~
+Wearing robes of sky blue and a smile that never seems to fade, the guild
+master appears to be one of the most beautiful and kind elven females you
+have ever met. After a minute you turn your attention to the tapestry she is
+holding. At first glance it appears to be nothing more than an ordinary
+tapestry, but after a moment you notice it shimmer and change. You start
+to feel a evil presence fill the room, and you wonder if the guild master is
+what she appears to be.
+~
+Elf~
+ABGR FJ -500 15
+0
+80 15 55d12+10000 5d50+750 8d6+30 chill
+34 34 34 20
+G AXY BPQS Z
+stand stand female 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#8431
+Stonemason's Guild Giant~
+The Stonemason's Guild Master~
+{cA giant stands here giving orders to the guild members.{x
+~
+The guild master seems to be a rather large fellow with every inch of his body
+covered in muscle. His features seam weathered and bland, probably because of
+his mountain giant heritage. Noticing a sparkle in his eye, you deduce that he
+must not be all brawn and no brains.
+~
+Giant~
+ABGT J 0 16
+0
+80 15 60d12+12000 5d50+250 10d6+30 crush
+35 35 35 20
+CDIK ABH EGHI JP
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#8432
+Halfling Brewer's Guild Master~
+The Brewer's Guild Master~
+{cA halfling stands here directing guild masters in a bawdy tavern song.{x
+~
+A short, stout humanoid with a face that wears a ever present smile.
+He also carries a large tankard that even though drinks from it quite often,
+never seems to empty in his hand.
+~
+unique~
+ABGST JU 0 17
+0
+80 15 60d12+12000 5d50+250 10d6+30 pierce
+35 35 35 20
+BEFJN ABL KO 0
+stand stand male 10000
+AHMV ABCDEFGHIJK small unknown
+#8433
+Gunsmith Dwarf~
+The gunsmith~
+{cA dwarf stares icily, waiting for you to make a purchase.{x
+~
+Short, rotund, with a dour demeanor. In short, your average dwarf.
+~
+Dwarf~
+ABGT FJ 0 18
+0
+100 10 10d10+10 10d10+10 10d10+10 pound
+35 35 35 35
+0 L LOQ PR
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#8434
+Belinda Waitress~
+Belinda the Waitress~
+{cA human waitress runs here and there with platters of food.{x
+~
+A gorgeous human woman. Not only the waitress of the Bread and Butter Eatery,
+but the proprietor as well. From the emerald necklace she wears you guess that
+the business is booming.
+~
+Human~
+ABGT 0 0 18
+0
+100 10 10d10+10 10d10+10 10d10+10 pound
+35 35 35 35
+0 0 0 0
+stand stand female 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#8435
+Grommit~
+Grommit the apothecary~
+{cAn orc is trying to sell his wares.{x
+~
+A burly orc with what appears to be the brains of a rock. You wonder how he got
+all this stuff, because you know without a shadow of a doubt he did not make
+them himself.
+~
+orc~
+ABGT J 0 18
+0
+100 10 10d10+10 10d10+10 10d10+10 pound
+35 35 35 35
+0 0 Q S
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#8400
+sword stalkers~
+The Sword of the Stalkers~
+A sword of pure Law lays here.~
+IRON weapon ABKM AN
+sword 40 4 slash E
+91 75 25000 G
+A
+13 200
+A
+12 -50
+A
+18 5
+A
+19 5
+A
+20 -5
+E
+=segment=~
+joinswith 8413 creates 8439
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8401
+sword inflamrailem~
+Inflamrailem~
+A sword that glows bright red sits here.~
+IRON weapon ABJ AN
+sword 40 3 slash A
+81 50 15000 G
+A
+18 10
+A
+19 6
+A
+2 3
+A
+5 2
+A
+12 100
+A
+13 100
+A
+17 -10
+E
+=segment=~
+joinswith 8418 creates 8444
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8402
+pen secratary~
+Secretary's Pen~
+A small pen lays here.~
+SELECT_A_MATERIAL weapon H AN
+dagger 15 6 pierce G
+43 2 300 G
+A
+3 3
+A
+18 4
+A
+19 4
+#8403
+sword vorpal elven~
+Elven Vorpal Long Sword~
+A blade of elvish steel lays here.~
+ELF_STEEL weapon AB AN
+sword 36 4 slice BE
+85 50 50000 G
+A
+12 200
+A
+18 15
+A
+19 15
+#8404
+axe ulric~
+Axe of Ulric~
+You see an axe of godly might here.~
+SELECT_A_MATERIAL weapon ABI AN
+axe 11 15 cleave DG
+88 20 15000 G
+A
+18 5
+A
+19 5
+A
+13 100
+E
+=segment=~
+joinswith 8412 creates 8445
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8405
+daggers franz's homing~
+Franz's Daggers of Homing~
+An assortment of daggers are here.~
+MET_GENERIC weapon ABHM AN
+dagger 40 3 magic 0
+79 15 15000 G
+A
+18 20
+A
+19 15
+A
+12 100
+A
+13 100
+#8406
+mace fabously cane striking ~
+The Fabuously Wealthy Baronet Von Bruinwald's Cane of Striking~
+A walking stick lays in the dirt.~
+STEEL weapon G AN
+mace 10 15 pound 0
+80 35 25000 G
+A
+14 100
+A
+18 1
+A
+19 9
+#8407
+whip bandit cheesey~
+The Bandit's Cheesey Whip~
+A rope lasso of dubious quality lays here.~
+SELECT_A_MATERIAL weapon MN AN
+whip 15 6 whip 0
+75 1 300 G
+A
+2 5
+A
+18 6
+A
+19 4
+#8408
+sword weaponmaster's rusty blade~
+The Weaponmaster's Rusty Blade~
+A old rusty and worthless looking blade rests here.~
+IRON weapon BH AN
+sword 36 4 slice 0
+85 70 5000 G
+A
+18 4
+A
+19 5
+A
+20 -2
+A
+13 150
+#8409
+dagger assassin's blade~
+Assassin's Blade~
+A dagger with  a green liquid covering the tip.~
+MET_GENERIC weapon ABDEJ AN
+dagger 40 3 pierce DH
+82 20 20000 G
+A
+2 5
+A
+12 100
+A
+13 100
+A
+18 6
+A
+19 4
+#8410
+robes~
+Robes of the Archmagi~
+A pile of mystical robes.~
+SELECT_A_MATERIAL armor BG AD
+BE BE BE CE 0
+91 5 50000 G
+A
+3 6
+A
+4 4
+A
+12 250
+A
+13 -50
+A
+17 -10
+A
+18 10
+A
+20 -10
+E
+=segment=~
+joinswith 8405 creates 8449
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8411
+helm zoanthropic~
+Zoanthropic Helmet~
+A helm of red dragon scales lies in the dust.~
+SELECT_A_MATERIAL armor AFG AE
+ABE ABE ABE ABE B
+91 10 90000 G
+A
+1 2
+A
+3 2
+A
+12 150
+A
+13 50
+A
+17 -5
+A
+18 5
+A
+19 5
+A
+20 -5
+E
+=segment=~
+joinswith 8403 creates 8441
+{D With an {Bincantation {Dyou merge $P with $p creating a cloud of smoke! {x
+`
+ 
+{D A cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8412
+furs holy vestments ulric~
+Holy Vestments of Ulric~
+A Pile of furs lay here.~
+SELECT_A_MATERIAL armor ABHIM AK
+ABE ABE ABE ABE 0
+91 10 5000 G
+A
+6 5
+A
+13 200
+A
+18 4
+A
+19 6
+A
+20 -5
+#8413
+ring secret stalkers~
+Secret Ring of the Stalkers~
+A ring that proves membership to secret order of the Stalkers.~
+SELECT_A_MATERIAL armor ABHM AB
+BE ABE ABE CE 0
+91 5 90000 G
+A
+1 5
+A
+13 200
+A
+17 -5
+A
+18 2
+A
+19 8
+A
+20 -10
+A
+24 -10
+#8414
+cloak unseen~
+Cloak of the Unseen~
+A cloak that seems to shift in and out of reality.~
+SELECT_A_MATERIAL armor ABEFHM AC
+BE BE BE CE 0
+91 5 90000 G
+A
+2 4
+A
+12 50
+A
+13 150
+A
+17 -10
+A
+18 7
+A
+19 3
+#8415
+glasses dwarven old~
+Old Dwarven Glasses~
+Glasses filled with entity of an evil dwarf.~
+SELECT_A_MATERIAL armor DEG AE
+ABE ABE ABE ABE 0
+91 5 90000 G
+A
+3 3
+A
+4 3
+A
+12 220
+A
+13 -20
+A
+17 -5
+A
+19 10
+A
+20 -10
+#8416
+tapestry souls~
+Tapestry of Souls~
+A tapastery with shifting colors made from tormented souls.~
+SELECT_A_MATERIAL armor ABEJ AK
+ABCD ABCD ABCD ABCD 0
+80 10 20000 G
+A
+5 3
+A
+12 150
+A
+17 -10
+A
+18 4
+A
+19 4
+#8417
+chisel accuracy~
+Chisel of Accuracy~
+A plain stone chisel.~
+SELECT_A_MATERIAL weapon 0 AN
+axe 15 10 cleave D
+80 3 10000 P
+A
+18 50
+A
+2 5
+#8418
+sword storm bringer~
+Storm Bringer~
+Here lies a sword with lightning arcing up and down its blade.~
+HIGH_STEEL weapon ABGHM AN
+sword 11 16 slice CG
+82 65 90000 G
+A
+1 3
+A
+12 200
+A
+18 3
+A
+19 7
+#8420
+sword chaos~
+Sword of Chaos~
+A sword made of choas.~
+FIRE_OPAL weapon ABEHJLM AN
+sword 41 4 slash CE
+85 90 90000 G
+A
+19 6
+A
+18 8
+A
+1 3
+A
+5 3
+A
+12 -50
+A
+13 250
+A
+20 -5
+E
+=segment=~
+joinswith 8415 creates 8447
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8421
+gold coins~
+Some gold coins~
+A pile of gold coins.~
+SELECT_A_MATERIAL money 0 A
+0 EGHIJK 0 0 0
+0 0 0 P
+#8422
+pistol small firearm~
+A pistol~
+a small firearm.~
+SELECT_A_MATERIAL weapon 0 AN
+exotic 15 6 blast 0
+70 5 2000 P
+#8423
+flint lock rifle~
+Flint lock rifle~
+A large rifle.~
+SELECT_A_MATERIAL weapon 0 AN
+exotic 15 6 pierce 0
+75 15 5000 P
+#8424
+leather jacket dirty~
+A dirty leather jacket~
+A dirty leather jacket that has seen plenty of use.~
+SELECT_A_MATERIAL armor 0 AD
+BD BD BD D A
+75 10 50 G
+#8425
+rock~
+A rock~
+An average looking rock.~
+SELECT_A_MATERIAL armor 0 AO
+D D D D 0
+65 1 0 G
+#8426
+venison~
+A piece of venison~
+A delicious piece of venison.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+0 5 10 P
+#8427
+large salad~
+A large salad~
+A large lettuce salad lays here.~
+SELECT_A_MATERIAL food 0 A
+C B 0 0 0
+0 2 2 P
+#8428
+beef stew~
+A beef stew~
+A hearty beef stew.~
+SELECT_A_MATERIAL food 0 A
+AD AD 0 0 0
+0 4 5 P
+#8429
+pill strength~
+A pill of strength~
+A large pill.~
+SELECT_A_MATERIAL pill BG A
+70 'giant strength' '' '' ''
+50 2 300 P
+#8430
+pill sight~
+A pill of sight~
+A small pill.~
+SELECT_A_MATERIAL pill BG A
+70 'cure blindness' '' '' ''
+50 1 300 P
+#8431
+pill speed~
+A pill of speed~
+A red pill~
+SELECT_A_MATERIAL pill BG A
+70 'haste' '' '' ''
+50 1 300 P
+#8432
+pill detection~
+A pill of detection~
+A multicolored pill.~
+SELECT_A_MATERIAL pill BG A
+70 'detect magic' '' '' ''
+50 1 500 P
+#8433
+pill defense~
+A pill of defense~
+A black pill.~
+SELECT_A_MATERIAL pill BG A
+70 'armor' 'sanctuary' 'energy shield' 'sanctuary'
+50 1 500 P
+#8434
+tankard bottomless~
+The Bottomless Tankard~
+A beautifuly crafted pewter tankard~
+SELECT_A_MATERIAL drink 0 A
+200 200 'brandy' 0 0
+20 5 1000 G
+#8435
+key emerald~
+Emerald key~
+An emerald chiseled into the shape of a key.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+75 2 100 P
+#8436
+key chaos~
+Key of Chaos~
+A solid metal key painted red.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+75 2 100 P
+#8437
+staff roenwood~
+A roenwood staff~
+A large wooden staff.~
+SELECT_A_MATERIAL staff G BD
+95 5 5 'remove curse' 0
+88 5 1000 P
+#8438
+fungus~
+a fungus~
+A small pill-shaped fungus lies here.~
+SELECT_A_MATERIAL pill 0 A
+100 'sanctuary' 'shield block' 'bless' 'poison'
+85 5 1000 P
+#8439
+Breastplate Dread~
+Breastplate of Dread~
+A dark metal breastplate decorated with skulls.~
+SELECT_A_MATERIAL armor BEG AD
+ADE ADE ADE ADE AC
+75 20 0 G
+A
+13 150
+A
+19 10
+A
+1 5
+A
+2 5
+A
+17 -10
+A
+18 10
+E
+=segment=~
+joinswith 8447 creates 8443
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8440
+Red Grail~
+Red Grail~
+A large golden chalice filled with blood.~
+SELECT_A_MATERIAL armor BG AO
+ADE ADE ADE ADE 0
+99 5 0 G
+A
+12 300
+A
+13 300
+A
+18 10
+A
+19 10
+#8441
+Boots Stealth~
+Boots of Stealth~
+A pair of supple black leather boots.~
+SELECT_A_MATERIAL armor G AG
+ADE ADE ADE ADE A
+75 5 0 G
+A
+19 9
+A
+13 200
+A
+2 10
+A
+14 300
+A
+18 30
+#8442
+Ring Truth~
+The Ring of Truth~
+A white metal band radiating a holy light.~
+SELECT_A_MATERIAL armor GI AB
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+12 200
+A
+13 200
+A
+18 15
+A
+19 15
+#8443
+Ring Lies~
+The Ring of Lies~
+A black metal band radiating an evil aura.~
+SELECT_A_MATERIAL armor EG AB
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+17 -10
+A
+18 20
+A
+19 10
+A
+20 -5
+E
+=segment=~
+joinswith 8442 creates 8458
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8444
+Vambraces Etherealness~
+Vambraces of Etherealness~
+Vambraces formed from the ether.~
+SELECT_A_MATERIAL armor G AI
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+18 10
+A
+19 10
+A
+17 -10
+#8445
+Leggings Prosperity~
+Leggings of Prosperity~
+Leggings of exquisite craftsmanship.~
+SELECT_A_MATERIAL armor 0 AF
+ADE ADE ADE ADE AB
+75 10 0 G
+A
+17 -25
+A
+18 20
+A
+19 10
+E
+=segment=~
+joinswith 8444 creates 8442
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8446
+Force Field~
+Force Field~
+A shimmering field of force.~
+SELECT_A_MATERIAL armor G AK
+ADE ADE ADE ADE 0
+99 1 0 G
+A
+17 -25
+A
+18 10
+A
+19 20
+#8447
+Amulet Avarice~
+Amulet of Avarice~
+A jewel encrusted amulet just calling out to you to take it.~
+SELECT_A_MATERIAL armor E AC
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+12 300
+A
+13 300
+A
+18 15
+A
+19 15
+#8448
+Pendant Appraising~
+Pendant of Appraising~
+A golden pendant.~
+SELECT_A_MATERIAL armor I AC
+ADE ADE ADE ADE 0
+99 5 0 G
+A
+12 300
+A
+13 300
+A
+4 10
+A
+17 -5
+A
+18 5
+A
+19 25
+#8449
+Gauntlets Thievery~
+Gauntlets of Thievery~
+Gauntlets of soft leather.~
+SELECT_A_MATERIAL armor G AH
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+19 11
+A
+2 5
+A
+17 -5
+A
+18 30
+A
+13 200
+A
+12 200
+E
+=segment=~
+joinswith 8441 creates 8459
+ {DWith an {Bincantation {Dyou merge $P with $p creating a cloud of smoke!{x 
+`
+ 
+ {DA cloud of smoke emits from $n after a powerful {Bencantation!{x
+`
+ 
+~
+#8450
+Shield Ages~
+Shield of the Ages~
+An ancient shield.~
+SELECT_A_MATERIAL armor ABG AJ
+ADE ADE ADE ADE B
+99 15 0 G
+A
+1 5
+A
+5 5
+A
+17 -5
+A
+19 30
+#8451
+Belt Non-detection~
+Belt of Non-detection~
+A belt that phases in and out of reality.~
+SELECT_A_MATERIAL armor FG AL
+ADE ADE ADE ADE 0
+99 10 5 G
+A
+3 5
+A
+4 5
+A
+12 200
+A
+13 200
+A
+17 -5
+A
+18 15
+A
+19 15
+#8452
+Bracer Chaos~
+Bracer of Chaos~
+A bracer made of red steel.~
+SELECT_A_MATERIAL armor E AM
+ADE ADE ADE ADE 0
+99 10 0 G
+A
+1 5
+A
+13 400
+A
+18 10
+A
+19 20
+#8453
+Bracer Tranquility~
+Bracer of Tranquility~
+A bracer of whiTe steel.~
+SELECT_A_MATERIAL armor I AM
+ADE ADE ADE ADE 0
+99 10 0 G
+A
+12 400
+A
+18 20
+A
+19 10
+#8454
+Aura Madness~
+Aura of Madness~
+A shimmering malignant aura.~
+SELECT_A_MATERIAL trash E AQ
+ADE ADE ADE ADE 0
+99 5 0 G
+A
+17 -10
+A
+18 12
+A
+19 13
+#8455
+Shard Shadow~
+Shard of Shadow~
+An insubstantial dagger.~
+SELECT_A_MATERIAL weapon FH AN
+dagger 350 1 pierce BE
+99 5 0 G
+A
+18 15
+A
+19 15
+#8456
+Transfixing Glare Mephiston's~
+Mephiston's Transfixing Glare~
+Mephiston's Piercing Stare.~
+SELECT_A_MATERIAL weapon H AN
+exotic 400 2 pierce CDG
+99 1 0 G
+A
+18 3
+A
+19 27
+#8457
+Master Crafted Plasma Pistol~
+Master Crafted Plasma Pistol~
+A pistol created by a master armorer.~
+SELECT_A_MATERIAL weapon H AN
+exotic 250 3 flame A
+99 15 0 G
+A
+18 27
+A
+19 3
+#8458
+light flame stalkers~
+{cthe secret {rF{RlAm{rE {cof the Stalkers{x~
+{cthe secret {rF{RlAm{rE {cof the Stalkers had been left here.{x~
+SELECT_A_MATERIAL light_source AGT AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 5 0 P
+A
+19 13
+A
+18 13
+A
+12 300
+A
+13 300
+#8459
+Psychic Hood~
+Psychich Hood~
+A high collar made up of fine wires and crystals.~
+SELECT_A_MATERIAL armor BG AE
+ADE ADE ADE ADE 0
+75 5 0 G
+A
+19 12
+A
+18 12
+A
+3 5
+A
+4 5
+A
+17 -10
+A
+20 -10
+#0
+
+
+
+#ROOMS
+#8400
+{MBefore the office of PRIDE.{x~
+You stand on a narrow street. Before you is the massive office building
+of the paranormal investigation agency known as P.R.I.D.E. The street
+runs east and west.
+~
+0 1028 1
+D0
+Front Room of Pride
+
+~
+~
+0 -1 8401
+D1
+Street
+
+~
+~
+0 -1 8402
+D2
+~
+~
+0 0 3084
+D3
+Street
+
+~
+~
+0 -1 8403
+C 0
+S
+#8401
+{MFront Room of Pride{x~
+This is the front room of the Pride office building. Filing cabinets
+line the walls and in the center of the room is a desk. On top of the desk
+is a  typewriter surrounded by mounds of papers. Behind the desk is a
+dwarven female typing furiously. There is a stairwell in one corner
+leading up and down, there is also a set of double doors leading out
+of room to the east. You can leave the building by going south.
+~
+0 8 1
+D1
+Conference Room
+
+~
+~
+1 53 8406
+D2
+Before Office of P.R.I.D.E.
+
+~
+~
+0 -1 8400
+D4
+You see the Second Floor Landing
+
+~
+~
+0 -1 8404
+D5
+Basement
+
+~
+~
+0 -1 8405
+C 0
+S
+#8402
+{MStreet{x~
+A busy street in the city of Marienburg. The road continues east or you
+can take a small path south to a park.
+~
+0 0 2
+D2
+Park of Marienburg
+
+~
+~
+0 53 8598
+D3
+Before the Office of P.R.I.D.E.
+
+~
+~
+0 53 8400
+C 0
+S
+#8403
+{MStreet{x~
+This street runs through the residential district of Marienburg. It
+continues to the east and west.
+~
+0 8192 2
+D1
+Before the Office of P.R.I.D.E.
+
+~
+0 8400 0
+
+D3
+
+Street
+
+~
+0 53 8400
+D3
+Street
+
+~
+~
+0 53 8424
+C 0
+S
+#8404
+{MSecond Floor Landing{x~
+You emerge into a common room for the employees of Pride. A small table  with
+benches on both sides sits in the center of the room. A well supplied and
+apparently well used sits out of the way along one wall. Doors leading to some
+of the employees' bed chambers lead north, south , east and west. The staircase
+continues up and down.
+~
+0 8 1
+D0
+Salty Willy's Room
+
+~
+~
+1 53 8408
+D1
+Marius's Room
+
+~
+~
+1 53 8409
+D2
+Franz's Room
+
+~
+~
+1 53 8410
+D3
+Ambrose's Room
+
+~
+~
+1 53 8411
+D4
+Third Floor Landing
+
+~
+~
+0 53 8407
+D5
+Front Room of Pride
+
+~
+~
+0 53 8401
+C 0
+S
+#8405
+{MBasement{x~
+The prominent feature of this room is on the north wall. A giant red machine
+which does not appear to serve any use covers the entire wall. The room itself
+is full of boxes that are covered in dust, and do not seem to have been
+moved in years. As you wander to one corner you notice that an area
+has been cleared away. In its place is a huge pile of fungus. A short green
+creature stands on it holding a hoe. You realize that this must be a garden,
+but a garden of what you haven't the faintest idea. The only exit from this room
+is back up the stairs.
+~
+0 9 1
+D4
+Front Room of Pride
+
+~
+~
+0 53 8401
+C 0
+S
+#8406
+{MConference Room{x~
+A massive table is the prominent feature of this room. This is where the
+employees of Pride gather to discuss cases and to meet with clients. The only
+exit leads back east to the front room.
+~
+0 8 1
+D3
+Front Room of Pride
+
+~
+~
+1 53 8401
+C 0
+S
+#8407
+{MThird Floor Landing{x~
+You stand in a Common room for the employees of Pride. This room is the exact
+duplicate of the second floor common room. There are doors to the employees' be
+chambers north, south, east, and west. The staircase continues up and down.
+~
+0 8 1
+D0
+Faalor's Room
+
+~
+~
+1 53 8413
+D1
+Mir's Room
+
+~
+~
+1 53 8414
+D2
+Von BruinWald's Room
+
+~
+~
+1 53 8415
+D3
+Amanda's Room
+
+~
+~
+1 53 8416
+D4
+Fourth Floor Landing
+
+~
+~
+0 53 8412
+D5
+Second Floor Landing
+
+~
+~
+0 53 8404
+C 0
+S
+#8408
+{MSalty Willy's Room{x~
+You stand in a room dedicated to the sea and sailing. William Mann, better
+known as Salty Willy, appears to have a thing for alcohol as well as the sea.
+A large liquor cabinet sits in one corner of the room, half empty. Willy
+himself lies sprawled on his bed in a drunken stupor, occasionally muttering
+something out loud. The only exit is leads south back to the landing.
+~
+0 8 0
+D2
+Second Floor Landing
+
+~
+~
+1 53 8404
+C 0
+S
+#8409
+{MMarius's Room{x~
+This is the room of the world renowned pit fighter, Marius D'Avent. This
+room is devoted to his glories in the pit and other places. Medals and
+certificates adorn all surfaces in the room. The only exit leads  west
+back to the landing.
+~
+0 8 0
+D3
+Second Floor Landing
+
+~
+~
+1 53 8404
+C 0
+S
+#8410
+{MFranz's Room{x~
+Franz's room looks like a miniature library. Dusty tomes fill a bookcase and
+even more are heaped on the desk, bed, and every other available surface.
+As you wander around the room you feel as if you are being watched...
+The only exit leads north back to the landing.
+~
+0 8 1
+D0
+Second Floor Landing
+
+~
+~
+1 53 8404
+D3
+Secret Passageway
+
+~
+passage~
+1 53 8422
+C 0
+S
+#8411
+{MAmbros's Room{x~
+You feel a righteous rage as you enter this room. After looking around you
+understand why. This is the room of Ambrose the Right Hand of Ulric, God of
+Battle, Wolves, and Winter. This room is kept magically cool to remind him of
+his homeland the, Northern Wastes. The only exit is east leading back to the
+landing.
+~
+0 8 1
+D1
+Second Floor Landing
+
+~
+~
+1 53 8404
+C 0
+S
+#8412
+{MFourth Floor Landing{x~
+The fourth floor landing clear of furniture of any kind. You can here the clash
+of steel coming from a door on to the east and chanting from a door to the
+west. Another door stands on the north wall with a big sign attached to it.
+~
+0 8 1
+E
+sign~
+Chaos Vault, employees only. Consider yourself warned.
+
+~
+D0
+Chaos Vault Antechamber
+
+~
+~
+1 53 8417
+D1
+Practice Room
+
+~
+~
+1 53 8419
+D3
+Summoning Chamber
+
+~
+~
+1 53 8418
+D5
+Third Floor Landing
+
+~
+~
+0 53 8407
+C 0
+S
+#8413
+{MFaalor's Room{x~
+Faalor seems to like his living area very neat and tidy. The aura of some long
+forgotten magic lingers in the air. After careful investigation of the room you
+determine that Faalor, must be a mage of some power, because from some
+notes you found he seems to be starting to learn the Music of Spheres,
+more formally known as Sonomancy. The only exit is south to the landing.
+~
+0 8 1
+D2
+Third Floor Landing
+
+~
+~
+1 53 8407
+C 0
+S
+#8414
+{MMir's Room{x~
+A definite theme is in this room, it is best described by a poster on the wall.
+The poster reads, "Down with Chaos. Up with Law!". The rooms occupant must be a
+fanatic devoted to ridding the world of all that is evil, or at least all he
+determines evil. Only exit is west back to the landing.
+~
+0 8 1
+D3
+Third Floor Landing
+
+~
+~
+1 53 8407
+C 0
+S
+#8415
+{MVon Bruinwald's Room{x~
+One word sums up this room: wealth. Everywhere you look you see blatant
+displays of wealth. A painting of the room's owner is placed over the head of the
+bed. It displays the Fabulously wealth Baronet Von Bruinwald in all the splendor
+money can buy. Only exit is north back to the landing.
+~
+0 8 1
+D0
+Third Floor Landing
+
+~
+~
+1 53 8407
+C 0
+S
+#8416
+{MAmanda's Room{x~
+Amanda's room looks much like the office downstairs. Stacks of paper seeming to
+be placed in no particular order all over the room. You wonder how much
+paperwork is involved in running a paranormal investigation agency and how much
+is dumped on the secretary. The only exit leads east back to the landing.
+~
+0 8 1
+D1
+Third Floor Landing
+
+~
+~
+1 53 8407
+C 0
+S
+#8417
+{MChaos Vault Antechamber{x~
+You stand in a small room. On the north wall stands two huge metal doors. A
+large sign on the door reads 'Chaos Vault, Do Not Enter'.
+~
+0 8 1
+D0
+Chaos Vault
+
+~
+~
+2 53 8420
+D2
+Fourth Floor Landing
+
+~
+~
+1 53 8412
+C 0
+S
+#8418
+{MSummoning Chamber{x~
+This summoning chamber is virtually empty.  In the Center of room, runes have
+been carved into the floor to create a circle. Inside the circle stand two
+figures chanting. The taller is encased in red armor which appears to be
+made of scales of some sort, by the melodious sound of his voice you
+guess he is an elf. The smaller is a frail looking human male wearing the
+robes of a demonologist, mages who specialize in summoning denizens of the
+Abyss. As you finish your inspection, the two men   finish chanting and there
+is a bright flash of light. When your eyes clear, standing on the other side of the
+circle A large white demon, realize with amazement that this is no regular demon
+this is a demon of
+
+Law.
+~
+0 8 1
+D1
+Fourth Floor Landing
+
+~
+~
+1 53 8412
+C 0
+S
+#8419
+{MPractice Room{x~
+You stand in a room dedicated to the practicing of the art of war. The walls of
+the room are lined with racks of weaponry of all shapes and sizes. The rest of
+the room is clear so that people practicing will not trip over anything and
+accidentally impale someone. In the middle is a man holding two swords bobbing,
+weaving, and twirling about. His movements have a deadly grace to them, and
+after a while you realize what he is doing. He is practicing the deadly art of
+sword dancing. There are two doors in the room, one on the east wall leading
+back to the fourth floor landing and one on the west wall with a big red cross
+
+on it.
+~
+0 8 1
+D1
+Healer's Office
+
+~
+~
+0 53 8421
+D3
+Fourth Floor Landing
+
+~
+~
+1 53 8412
+C 0
+S
+#8420
+{MChaos Vault{x~
+A lingering  faint feeling of malice and dread fill the room. Hundreds of items
+glow with a dark and forbidding magic. After sorting through them awhile, you
+find a few which seem to be of superior quality, and might be worth something.
+The only exit is back the way you came.
+~
+0 8 1
+D2
+Chaos Vault Antechamber
+
+~
+~
+1 53 8417
+C 0
+S
+#8421
+{MHealer's Office{x~
+This room appears to be totally dedicated to healing and life.  The room
+seems to have a calming affect on you as you enter, and all thoughts of
+aggression flee your mind.  A young robes approaches you as you enter and
+starts inspecting your wounds.  You realize that this lady is a priestess of
+the goddess Shallya, a deity dedicated to healing, mercy, and compassion.  
+~
+0 1032 1
+D3
+Practice room
+
+~
+~
+0 53 8419
+C 0
+S
+#8422
+{MSecret Passageway{x~
+This is a very narrow and short corridor. In the darkness it is hard to
+tell how far you walk before you suddenly bump into a solid wall.
+~
+0 9 1
+D1
+Franz's Room
+
+~
+~
+1 53 8410
+D3
+Secret Vault
+
+~
+passage~
+1 53 8423
+C 0
+S
+#8423
+{MSecret Vault{x~
+In this room are all of the documents that Pride has termed confidential and
+that should not fall into the wrong hands. After pushing aside a few scrolls,
+you find a dusty old chest.
+~
+0 1033 1
+D1
+Secret Passageway
+
+~
+~
+1 53 8422
+C 0
+S
+#8424
+{MStreet{x~
+This street runs through the residential district of Marienburg. It
+continues to the east and west, and intersects with another road
+leading north and south.
+~
+0 8192 1
+D0
+Temple District
+
+~
+0 8445 0
+
+D1
+
+Street
+
+~
+0 53 8445
+D1
+Street
+
+~
+~
+0 53 8403
+D2
+Street
+
+~
+0 8452 0
+
+D3
+
+Entrance to Marketplace
+
+~
+0 53 8452
+D3
+Street
+
+~
+~
+0 53 8425
+C 0
+S
+#8425
+{MEntrance to Marketplace{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8426
+D1
+Street
+
+~
+~
+0 53 8424
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8428
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8427
+C 0
+S
+#8426
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8430
+D2
+Entrance to Marketplace
+
+~
+~
+0 53 8425
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8429
+C 0
+S
+#8427
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8429
+D1
+Entrance to Marketplace
+
+~
+~
+0 53 8425
+D2
+Marketplace of MarIenburg
+
+~
+~
+0 8435 8435
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8434
+C 0
+S
+#8428
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D2
+Marketplace of marienburg
+
+~
+~
+0 8436 8436
+D3
+Marketplace of Marienburg
+
+~
+~
+0 8435 8435
+C 0
+S
+#8429
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8431
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8426
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8427
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8433
+C 0
+S
+#8430
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Gunsmith
+
+~
+~
+0 53 8559
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8426
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8431
+C 0
+S
+#8431
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Bread and Butter Eatery
+
+~
+~
+0 53 8560
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8430
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8429
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8432
+C 0
+S
+#8432
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Pilz R Us
+
+~
+~
+0 53 8561
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8431
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8433
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8440
+C 0
+S
+#8433
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8432
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8429
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8434
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8441
+C 0
+S
+#8434
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8433
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8427
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8439
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8442
+C 0
+S
+#8435
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8427
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8428
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8437
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8439
+C 0
+S
+#8436
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8428
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8437
+C 0
+S
+#8437
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 8435 8435
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8438
+C 0
+S
+#8438
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8439
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8438
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8444
+C 0
+S
+#8439
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8434
+D1
+Marketplace of Marienburg
+
+~
+~
+0 8435 8435
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8438
+D3
+Marketplace of Marienburg
+
+~
+~
+0 53 8443
+C 0
+S
+#8440
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8432
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8441
+C 0
+S
+#8441
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8440
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8433
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8442
+C 0
+S
+#8442
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8441
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8434
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8443
+C 0
+S
+#8443
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8442
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8439
+D2
+Marketplace of Marienburg
+
+~
+~
+0 53 8444
+C 0
+S
+#8444
+{MMarketplace of Marienburg{x~
+Marienburg's marketplace is full of people rushing here and there. People seem
+to give you plenty of space. They all stare at you suspiciously, it does not
+look like the citizens of this town like outsiders very much.
+~
+0 0 2
+D0
+Marketplace of Marienburg
+
+~
+~
+0 53 8443
+D1
+Marketplace of Marienburg
+
+~
+~
+0 53 8438
+C 0
+S
+#8445
+{MTemple District{x~
+You stand on a street dedicated to gods and goddesses of all description. All
+pale in comparison to the temple at the far end of the street.
+~
+0 0 2
+D0
+Before the Temple of Mephiston
+
+~
+~
+0 53 8446
+D2
+Street
+
+~
+~
+0 53 8424
+C 0
+S
+#8446
+{MBefore the Temple of Mephiston{x~
+The front of the temple is exquisite. Everything seems to made of the best
+quality material. Even more surprising is it appears that it was only c
+onstructed yesterday, though you know it has been here since the city
+itself was built.
+~
+0 8192 1
+D0
+Temple of Mephiston
+
+~
+0 8447 0
+
+D2
+
+Temple District
+
+~
+0 53 8447
+D2
+Before the Temple of Mephiston
+
+~
+~
+0 53 8445
+C 0
+S
+#8447
+{MTemple of Mephiston{x~
+Inside the temple is even more amazing than the outside. The ceiling is full of
+paintings of all sorts, but they all have one common theme. Either they have
+gold and jewels or they show a scene of someone who is dressed in very fine
+clothes. You realize why there are so many obvious displays of riches in this
+temple. Mephiston is the god of wealth and prosperity. It seems fitting
+that his temple would reflect this. You can go north to the altar, east or
+west to what appear to be alcoves with statues and paintings, or you can
+go south out of the temple.
+~
+0 8200 1
+D0
+Altar of Mephiston
+
+~
+0 8448 0
+
+D1
+
+Alcoves of Temple
+
+~
+0 53 8448
+D1
+Temple of Mephiston
+
+~
+~
+0 53 8449
+D2
+Before Temple of Mephiston
+
+~
+0 8446 0
+
+D3
+
+Alcoves of  Temple
+
+~
+0 53 8446
+D3
+Temple of Mephiston
+
+~
+~
+0 53 8450
+C 0
+S
+#8448
+{MAltar of Mephiston{x~
+After passing many pews you make your way to the front of the temple. The altar
+is amazing. Made from diamonds, emeralds, and gold, it must be worth as much as
+the nation treasury. Standing at the altar is a decrepit old human, presiding
+over the service. You can go south towards the exit of the temple, and east or
+west will take you into the alcoves of the temple.
+~
+0 9224 1
+D1
+Alcoves of Temple
+
+~
+~
+0 53 8451
+D2
+Temple of Mephiston
+
+~
+~
+0 53 8447
+D3
+Alcoves of Temple
+
+~
+~
+0 53 8599
+C 0
+S
+#8449
+{MAlcoves of Temple{x~
+These alcoves are dedicated to merchants that have caught the eye of the
+temple. One painting depicts a human  in some distant land trading for
+valuable herbs and spices. Another shows an elf at a an auction buying
+some ancient artifact for a pittance. From here you can go north to more
+alcoves or west back into main part of temple.
+~
+0 8200 1
+D0
+Alcoves of Temple
+
+~
+~
+0 53 8451
+D3
+Temple of Mephiston
+
+~
+~
+0 53 8447
+C 0
+S
+#8450
+{MAlcoves of Temple{x~
+These alcoves are dedicated to nobles who have caught the eye of the temple. A
+statue here with a plaque tells of a human duke who was so good at selling
+things he made double his money on every business venture. From here you can go
+north to more alcoves or east back into the temple.
+~
+0 8200 1
+D0
+Alcoves of Temple
+
+~
+~
+0 53 8599
+D1
+Temple of Mephiston
+
+~
+~
+0 53 8447
+C 0
+S
+#8451
+{MAlcoves of Temple{x~
+These alcoves are dedicated to thieves who have caught the eye of the temple.
+One painting here depicts a halfling thief stealing the most prized possession
+of some long dead king. god's. From here you can go south to more alcoves or
+west to the altar.
+~
+0 8200 1
+D2
+Alcoves of Temple
+
+~
+~
+0 53 8449
+D3
+Altar of Mephiston
+
+~
+~
+0 53 8448
+C 0
+S
+#8452
+{MStreet{x~
+A busy street in Marienburg. The street goes north and curves east here.
+~
+0 0 2
+D0
+Street
+
+~
+~
+0 53 8424
+D1
+Guild District
+
+~
+~
+0 53 8453
+C 0
+S
+#8453
+{MGuild District{x~
+This sector of town is filled with the guildhalls of all the different kinds of
+tradesmen of the city. To the north is the Weavers Guild, east is the
+Stonemasons Guild, south is the Brewers Guild, west is exit from the guild
+district.
+~
+0 0 2
+D0
+Weavers Guild
+
+~
+~
+0 53 8454
+D1
+Stonemasons Guild
+
+~
+~
+0 53 8455
+D2
+Brewers Guild
+
+~
+~
+0 53 8456
+D3
+Street
+
+~
+~
+0 53 8452
+C 0
+S
+#8454
+{MWeavers Guild{x~
+The Weavers Guild of Marienburg is a plain building. Devices of all sorts and
+sizes used for creating fabric, fill the buildings main room. After
+inspecting a pile of cloth, you determine that this city definitely has weavers of
+exceptional skill. The only exit is north back into the streets of the guild
+district.
+~
+0 8 1
+D2
+Guild District
+
+~
+~
+0 53 8453
+C 0
+S
+#8455
+{MStonemasons Guild{x~
+The Stonemasons Guild is made entirely out of the finest marble. Tall burly men
+wander in and out of the guild hall on business of one kind or another. After a
+few moments you notice a giant wandering around greeting people and answering
+questions. You notice a badge pinned to his shirt and realize he must be the
+head of the guild. The only exit is back west on to the streets of the guild
+district.
+~
+0 8 1
+D3
+Guild District
+
+~
+~
+0 53 8453
+C 0
+S
+#8456
+{MBrewers Guild{x~
+This guild more resembles a tavern than a guildhall. Everyone here seems to be
+holding a drink of some sort or other. A rotund halfling stands on a table near
+the back of the room leading a few of the guild members in a drinking song. The
+only exit is north back to the streets of the guild district.
+~
+0 8 1
+D0
+Guild District
+
+~
+~
+0 53 8453
+C 0
+S
+#8457
+{MGates of Marienburg{x~
+Here stand the large cast iron gates of the city of Marienburg.  Many
+guards stand here questioning anyone entering and leaving the city.  From
+here you can go west into the city or east to a large road leading out of
+Marienburg and to the countryside.  You can also go up the hill.  
+~
+0 9220 1
+C 0
+S
+#8458
+{MChessboard{x~
+You stand on a black square in the white player's eighth rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8466
+D1
+Chessboard
+
+~
+~
+0 53 8459
+C 0
+S
+#8459
+{MChessboard{x~
+You are standing on a white square in the white player's eighth rank, king's
+
+bishop's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8467
+D1
+Chessboard
+
+~
+~
+0 53 8460
+D3
+Chessboard
+
+~
+~
+0 53 8458
+C 0
+S
+#8460
+{MChessboard{x~
+You are on a black square in the white player's eighth rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8468
+D1
+Chessboard
+
+~
+~
+0 53 8461
+D3
+Chessboard
+
+~
+~
+0 53 8459
+C 0
+S
+#8461
+{MChessboard{x~
+You stand on a white square in the white player's eighth rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8469
+D1
+Chessboard
+
+~
+~
+0 53 8462
+D3
+Chessboard
+
+~
+~
+0 53 8460
+C 0
+S
+#8462
+{MChessboard{x~
+You are standing on a black square in the white player's eighth rank, queen's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8470
+D1
+Chessboard
+
+~
+~
+0 53 8463
+D3
+Chessboard
+
+~
+~
+0 53 8461
+C 0
+S
+#8463
+{MChessboard{x~
+You are on a white square in the white player's eighth rank, queen's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8471
+D1
+Chessboard
+
+~
+~
+0 53 8464
+D3
+Chessboard
+
+~
+~
+0 53 8462
+C 0
+S
+#8464
+{MChessboard{x~
+You are standing on a black square in the white player's eighth rank, queen's
+
+bishop's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8472
+D1
+Chessboard
+
+~
+~
+0 53 8465
+D3
+Chessboard
+
+~
+~
+0 53 8463
+C 0
+S
+#8465
+{MChessboard{x~
+You are standing on a white square in the white player's eighth rank, queen's
+
+rook's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8473
+D3
+Chessboard
+
+~
+~
+0 53 8464
+C 0
+S
+#8466
+{MChessboard{x~
+You stand on a white square in the white player's seventh rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8474
+D1
+Chessboard
+
+~
+~
+0 53 8467
+D2
+Chessboard
+
+~
+~
+0 53 8458
+C 0
+S
+#8467
+{MChessboard{x~
+You stand on a black square in the white player's seventh rank, king's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8475
+D1
+Chessboard
+
+~
+~
+0 53 8468
+D2
+Chessboard
+
+~
+~
+0 53 8459
+D3
+Chessboard
+
+~
+~
+0 53 8466
+C 0
+S
+#8468
+{MChessboard{x~
+You stand on a white square in the white player's seventh rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8476
+D1
+Chessboard
+
+~
+~
+0 53 8469
+D2
+Chessboard
+
+~
+~
+0 53 8460
+D3
+Chessboard
+
+~
+~
+0 53 8467
+C 0
+S
+#8469
+{MChessboard{x~
+You stand on a black square in the white player's seventh rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8477
+D1
+Chessboard
+
+~
+~
+0 53 8470
+D2
+Chessboard
+
+~
+~
+0 53 8461
+D3
+Chessboard
+
+~
+~
+0 53 8468
+C 0
+S
+#8470
+{MChessboard{x~
+You stand on a white square in the white player's seventh rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8478
+D1
+Chessboard
+
+~
+~
+0 53 8471
+D2
+Chessboard
+
+~
+~
+0 53 8462
+D3
+Chessboard
+
+~
+~
+0 53 8469
+C 0
+S
+#8471
+{MChessboard{x~
+You stand on a black square in the white player's seventh rank, queen's
+
+knight's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8479
+D1
+Chessboard
+
+~
+~
+0 53 8472
+D2
+Chessboard
+
+~
+~
+0 53 8463
+D3
+Chessboard
+
+~
+~
+0 53 8470
+C 0
+S
+#8472
+{MChessboard{x~
+You are standing on a white square in the white player's seventh rank, queen's
+
+bishop's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8480
+D1
+Chessboard
+
+~
+~
+0 53 8473
+D2
+Chessboard
+
+~
+~
+0 53 8464
+D3
+Chessboard
+
+~
+~
+0 53 8471
+C 0
+S
+#8473
+{MChessboard{x~
+You are standing on a black square in the white player's seventh rank, queen's
+
+rook's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8481
+D2
+Chessboard
+
+~
+~
+0 53 8465
+D3
+Chessboard
+
+~
+~
+0 53 8472
+C 0
+S
+#8474
+{MChessboard{x~
+You stand on a black square in the white player's sixth rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8482
+D1
+Chessboard
+
+~
+~
+0 53 8475
+D2
+Chessboard
+
+~
+~
+0 53 8466
+C 0
+S
+#8475
+{MChessboard{x~
+You stand on a white square in the white player's sixth rank, king's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8483
+D1
+Chessboard
+
+~
+~
+0 53 8476
+D2
+Chessboard
+
+~
+~
+0 53 8467
+D3
+Chessboard
+
+~
+~
+0 53 8474
+C 0
+S
+#8476
+{MChessboard{x~
+You stand on a black square in the white player's sixth rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8484
+D1
+Chessboard
+
+~
+~
+0 53 8477
+D2
+Chessboard
+
+~
+~
+0 53 8468
+D3
+Chessboard
+
+~
+~
+0 53 8475
+C 0
+S
+#8477
+{MChessboard{x~
+You are standing on a white square in the white player's sixth rank, king's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8485
+D1
+Chessboard
+
+~
+~
+0 53 8478
+D2
+Chessboard
+
+~
+~
+0 53 8469
+D3
+Chessboard
+
+~
+~
+0 53 8476
+C 0
+S
+#8478
+{MChessboard{x~
+You stand on a black square in the white player's sixth rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8486
+D1
+Chessboard
+
+~
+~
+0 53 8479
+D2
+Chessboard
+
+~
+~
+0 53 8470
+D3
+Chessboard
+
+~
+~
+0 53 8477
+C 0
+S
+#8479
+{MChessboard{x~
+You stand on a white square in the white player's sixth rank, queen's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8487
+D1
+Chessboard
+
+~
+~
+0 53 8480
+D2
+Chessboard
+
+~
+~
+0 53 8471
+D3
+Chessboard
+
+~
+~
+0 53 8478
+C 0
+S
+#8480
+{MChessboard{x~
+You stand on a black square in the white player's sixth rank, queen's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8488
+D1
+Chessboard
+
+~
+~
+0 53 8481
+D2
+Chessboard
+
+~
+~
+0 53 8472
+D3
+Chessboard
+
+~
+~
+0 53 8479
+C 0
+S
+#8481
+{MChessboard{x~
+You stand on a white square in the white player's sixth rank, queen's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8489
+D2
+Chessboard
+
+~
+~
+0 53 8473
+D3
+Chessboard
+
+~
+~
+0 53 8480
+C 0
+S
+#8482
+{MChessboard{x~
+You stand on a white square in the white player's fifth rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8490
+D1
+Chessboard
+
+~
+~
+0 53 8483
+D2
+Chessboard
+
+~
+~
+0 53 8474
+C 0
+S
+#8483
+{MChessboard{x~
+You stand on a black square in the white player's fifth rank, king's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8491
+D1
+Chessboard
+
+~
+~
+0 53 8484
+D2
+Chessboard
+
+~
+~
+0 53 8475
+D3
+Chessboard
+
+~
+~
+0 53 8482
+C 0
+S
+#8484
+{MChessboard{x~
+You stand on a white square in the white player's fifth rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8492
+D1
+Chessboard
+
+~
+~
+0 53 8485
+D2
+Chessboard
+
+~
+~
+0 53 8476
+D3
+Chessboard
+
+~
+~
+0 53 8483
+C 0
+S
+#8485
+{MChessboard{x~
+You stand on a black square in the white player's fifth rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8493
+D1
+Chessboard
+
+~
+~
+0 53 8486
+D2
+Chessboard
+
+~
+~
+0 53 8477
+D3
+Chessboard
+
+~
+~
+0 53 8484
+C 0
+S
+#8486
+{MChessboard{x~
+You stand on a white square in the white player's fifth rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8494
+D1
+Chessboard
+
+~
+~
+0 53 8487
+D2
+Chessboard
+
+~
+~
+0 53 8478
+D3
+Chessboard
+
+~
+~
+0 53 8485
+C 0
+S
+#8487
+{MChessboard{x~
+You stand on a black square in the white player's fifth rank, queen's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8495
+D1
+Chessboard
+
+~
+~
+0 53 8488
+D2
+Chessboard
+
+~
+~
+0 53 8479
+D3
+Chessboard
+
+~
+~
+0 53 8486
+C 0
+S
+#8488
+{MChessboard{x~
+You stand on a white square in the white player's fifth rank, queen's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8496
+D1
+Chessboard
+
+~
+~
+0 53 8489
+D2
+Chessboard
+
+~
+~
+0 53 8480
+D3
+Chessboard
+
+~
+~
+0 53 8487
+C 0
+S
+#8489
+{MChessboard{x~
+You stand on a black square in the white player's fifth rank, queen's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8497
+D2
+Chessboard
+
+~
+~
+0 53 8481
+D3
+Chessboard
+
+~
+~
+0 53 8488
+C 0
+S
+#8490
+{MChessboard{x~
+You stand on a black square in the white player's fourth rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8498
+D1
+Chessboard
+
+~
+~
+0 53 8491
+D2
+Chessboard
+
+~
+~
+0 53 8482
+C 0
+S
+#8491
+{MChessboard{x~
+You are standing on a white square in the white player's fourth rank, king's
+
+bishop's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8499
+D1
+Chessboard
+
+~
+~
+0 53 8492
+D2
+Chessboard
+
+~
+~
+0 53 8483
+D3
+Chessboard
+
+~
+~
+0 53 8490
+C 0
+S
+#8492
+{MChessboard{x~
+You are standing on a black square in the white player's fourth rank, king's
+
+knight's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8500
+D1
+Chessboard
+
+~
+~
+0 53 8493
+D2
+Chessboard
+
+~
+~
+0 53 8484
+D3
+Chessboard
+
+~
+~
+0 53 8491
+C 0
+S
+#8493
+{MChessboard{x~
+You stand on a white square in the white player's fourth rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8501
+D1
+Chessboard
+
+~
+~
+0 53 8494
+D2
+Chessboard
+
+~
+~
+0 53 8485
+D3
+Chessboard
+
+~
+~
+0 53 8492
+C 0
+S
+#8494
+{MChessboard{x~
+You stand on a black square in the white player's fourth rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8502
+D1
+Chessboard
+
+~
+~
+0 53 8495
+D2
+Chessboard
+
+~
+~
+0 53 8486
+D3
+Chessboard
+
+~
+~
+0 53 8493
+C 0
+S
+#8495
+{MChessboard{x~
+You stand on a white square in the white player's fourth rank, queen's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8503
+D1
+Chessboard
+
+~
+~
+0 53 8496
+D2
+Chessboard
+
+~
+~
+0 53 8487
+D3
+Chessboard
+
+~
+~
+0 53 8494
+C 0
+S
+#8496
+{MChessboard{x~
+You stand on a black square in the white player's fourth rank, queen's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8504
+D1
+Chessboard
+
+~
+~
+0 53 8497
+D2
+Chessboard
+
+~
+~
+0 53 8488
+D3
+Chessboard
+
+~
+~
+0 53 8495
+C 0
+S
+#8497
+{MChessboard{x~
+You stand on a white square in the white player's first rank, queen's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8505
+D2
+Chessboard
+
+~
+~
+0 53 8489
+D3
+Chessboard
+
+~
+~
+0 53 8496
+C 0
+S
+#8498
+{MChessboard{x~
+You are standing on a white square in the white player's third rank, king's
+
+rook's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8506
+D1
+Chessboard
+
+~
+~
+0 53 8499
+D2
+Chessboard
+
+~
+~
+0 53 8490
+C 0
+S
+#8499
+{MChessboard{x~
+You are on a black square in the white player's third rank, king's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8507
+D1
+Chessboard
+
+~
+~
+0 53 8500
+D2
+Chessboard
+
+~
+~
+0 53 8491
+D3
+Chessboard
+
+~
+~
+0 53 8498
+C 0
+S
+#8500
+{MChessboard{x~
+You are on a white square in the white player's third rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8508
+D1
+Chessboard
+
+~
+~
+0 53 8501
+D2
+Chessboard
+
+~
+~
+0 53 8492
+D3
+Chessboard
+
+~
+~
+0 53 8499
+C 0
+S
+#8501
+{MChessboard{x~
+You are on a black square in the white player's third rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8509
+D1
+Chessboard
+
+~
+~
+0 53 8502
+D2
+Chessboard
+
+~
+~
+0 53 8493
+D3
+Chessboard
+
+~
+~
+0 53 8500
+C 0
+S
+#8502
+{MChessboard{x~
+You are on a white square in the white player's third rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8510
+D1
+Chessboard
+
+~
+~
+0 53 8503
+D2
+Chessboard
+
+~
+~
+0 53 8494
+D3
+Chessboard
+
+~
+~
+0 53 8501
+C 0
+S
+#8503
+{MChessboard{x~
+You are on a black square in the white player's third rank. Queen's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8511
+D1
+Chessboard
+
+~
+~
+0 53 8504
+D2
+Chessboard
+
+~
+~
+0 53 8495
+D3
+Chessboard
+
+~
+~
+0 53 8502
+C 0
+S
+#8504
+{MChessboard{x~
+You stand on a white square in the white player's third rank, queen's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8512
+D1
+Chessboard
+
+~
+~
+0 53 8505
+D2
+Chessboard
+
+~
+~
+0 53 8496
+D3
+Chessboard
+
+~
+~
+0 53 8503
+C 0
+S
+#8505
+{MChessboard{x~
+You stand on a black square in the white player's third rank, queen's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8513
+D2
+Chessboard
+
+~
+~
+0 53 8497
+D3
+Chessboard
+
+~
+~
+0 53 8504
+C 0
+S
+#8506
+{MChessboard{x~
+You stand on a black square in the white player's second rank, king's rook's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8514
+D1
+Chessboard
+
+~
+~
+0 53 8507
+D2
+Chessboard
+
+~
+~
+0 53 8498
+C 0
+S
+#8507
+{MChessboard{x~
+You stand on a white square in the white player's second rank, king's bishop's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8515
+D1
+Chessboard
+
+~
+~
+0 53 8508
+D2
+Chessboard
+
+~
+~
+0 53 8499
+D3
+Chessboard
+
+~
+~
+0 53 8506
+C 0
+S
+#8508
+{MChessboard{x~
+You stand on a black square in the white player's second rank, king's knight's
+
+file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8516
+D1
+Chessboard
+
+~
+~
+0 53 8509
+D2
+Chessboard
+
+~
+~
+0 53 8500
+D3
+Chessboard
+
+~
+~
+0 53 8507
+C 0
+S
+#8509
+{MChessboard{x~
+You stand on a white square in the white player's second rank, king's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8517
+D1
+Chessboard
+
+~
+~
+0 53 8510
+D2
+Chessboard
+
+~
+~
+0 53 8501
+D3
+Chessboard
+
+~
+~
+0 53 8508
+C 0
+S
+#8510
+{MChessboard{x~
+You stand on a black square in the white player's second rank, queen's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8518
+D1
+Chessboard
+
+~
+~
+0 53 8511
+D2
+Chessboard
+
+~
+~
+0 53 8502
+D3
+Chessboard
+
+~
+~
+0 53 8509
+C 0
+S
+#8511
+{MChessboard{x~
+You are standing on a white square on the white player's second rank, queen's
+
+knight's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8519
+D1
+Chessboard
+
+~
+~
+0 53 8512
+D2
+Chessboard
+
+~
+~
+0 53 8503
+D3
+Chessboard
+
+~
+~
+0 53 8510
+C 0
+S
+#8512
+{MChessboard{x~
+You are standing on a black square in the white player's second rank, queen's
+
+bishop's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8520
+D1
+Chessboard
+
+~
+~
+0 53 8513
+D2
+Chessboard
+
+~
+~
+0 53 8504
+D3
+Chessboard
+
+~
+~
+0 53 8511
+C 0
+S
+#8513
+{MChessboard{x~
+You are standing on a white square in the white player's second rank, queen's
+
+rook's file.
+~
+0 8192 1
+D0
+Chessboard
+
+~
+~
+0 53 8521
+D2
+Chessboard
+
+~
+~
+0 53 8505
+D3
+Chessboard
+
+~
+~
+0 53 8512
+C 0
+S
+#8514
+{MChessboard{x~
+You are on a white square in the white player's first rank, king's rook's file.
+~
+0 8192 1
+D0
+Park of Marienburg
+
+~
+~
+0 53 8598
+D1
+Chessboard
+
+~
+~
+0 53 8515
+D2
+~
+~
+0 53 8506
+C 0
+S
+#8515
+{MChessboard{x~
+You stand on a black square in white players first rank, king's bishop's file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8516
+D2
+Chessboard
+
+~
+~
+0 53 8507
+D3
+Chessboard
+
+~
+~
+0 53 8514
+C 0
+S
+#8516
+{MChessboard{x~
+You stand on a white square in the white player's first rank, king's knight's
+
+file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8517
+D2
+Chessboard
+
+~
+~
+0 53 8508
+D3
+Chessboard
+
+~
+~
+0 53 8515
+C 0
+S
+#8517
+{MChessboard{x~
+You stand on a black square in white player's first rank, king's file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8518
+D2
+Chessboard
+
+~
+~
+0 53 8509
+D3
+Chessboard
+
+~
+~
+0 53 8516
+C 0
+S
+#8518
+{MChessboard{x~
+You stand on a white square in white player's first rank, queen's file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8519
+D2
+Chessboard
+
+~
+~
+0 53 8510
+D3
+Chessboard
+
+~
+~
+0 53 8517
+C 0
+S
+#8519
+{MChessboard{x~
+You stand on a black square in the white player's first rank, queen's knight's
+
+file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8520
+D2
+Chessboard
+
+~
+~
+0 53 8511
+D3
+Chessboard
+
+~
+~
+0 53 8518
+C 0
+S
+#8520
+{MChessboard{x~
+You stand on a white square in the white player's first rank, queen's bishop's
+
+file.
+~
+0 8192 1
+D1
+Chessboard
+
+~
+~
+0 53 8521
+D2
+Chessboard
+
+~
+~
+0 53 8512
+D3
+Chessboard
+
+~
+~
+0 53 8519
+C 0
+S
+#8521
+{MChessboard{x~
+You stand on a black square in white player's first rank, queen's rook's file.
+~
+0 8192 1
+D2
+Chessboard
+
+~
+~
+0 53 8513
+D3
+Chessboard
+
+~
+~
+0 53 8520
+C 0
+S
+#8559
+{MMarienburg Firearms{x~
+The inside of Marienburg Firearms is hazy and smells strongly of gunpowder. Set
+in racks along the walls are firearms of all types and description. Behind a
+counter along the back wall stands a dwarf watching your every move. The only
+exit is south back into the marketplace.
+~
+0 9224 1
+D2
+Marketplace
+
+~
+~
+0 53 8430
+C 0
+S
+#8560
+{MThe Bread and Butter Eatery{x~
+This establishment is light and cheery. It is one of the most popular re
+staurants in all of Marienburg.  Know for its tolerance of all types, no group
+is denied access to their culenary delights. The only exit is south back into
+the marketplace.
+~
+0 9224 1
+D2
+Marketplace
+
+~
+~
+0 53 8431
+C 0
+S
+#8561
+{MPilz R Us{x~
+This shop is shoddy and in poor condition. The merchandise seems of decent
+enough quality, but you got to wonder where a shopkeeper who appears to have no
+concern with the appearance of his shop, would get it. The only exit is south
+into the marketplace.
+~
+0 9224 1
+D2
+Marketplace
+
+~
+~
+0 53 8432
+C 0
+S
+#8598
+{MPark of Marienburg{x~
+This park is a large wooded area, where nature was left to run its coarse.
+Small stone paths lead through this peaceful area. After a few moments of
+wandering you here someone shout, 'Pawn to rook four!'. After continuing a
+little farther you see two titans standing here yelling at humans dressed as
+chess pieces standing on a huge chess board. South leads onto the chessboard
+itself, north leads out of the park and back onto the busy streets of
+
+Marienburg.
+~
+0 4 3
+D0
+Street
+
+~
+~
+0 53 8402
+D2
+Chessboard
+
+~
+~
+0 53 8514
+C 0
+S
+#8599
+{MAlcoves of Temple{x~
+These alcoves are dedicated to assassins that have caught the eye of the
+temple. A statue with a plaque here tells of an elven assassin that murdered a
+king then usurped his crown. From here you can go south to more alcoves or east
+to the altar.
+~
+0 8200 1
+D1
+Alter of Mephiston
+
+~
+0 8448 0
+
+D2
+
+Alcoves of Temple
+
+~
+0 53 8448
+D2
+Temple of Mephiston
+
+~
+~
+0 53 8450
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 8401 1 1
+D 0 8404 0 1
+D 0 8404 1 1
+D 0 8404 2 1
+D 0 8404 3 1
+D 0 8407 0 1
+D 0 8407 1 1
+D 0 8407 2 1
+D 0 8407 3 1
+D 0 8412 0 1
+D 0 8412 1 1
+D 0 8412 3 1
+D 0 8413 2 1
+D 0 8417 0 1
+D 0 8417 2 1
+D 0 8418 1 1
+D 0 8419 3 1
+M 0 8402 1 8401 1
+G 0 8402 0
+M 0 8404 1 8405 1
+G 0 8438 0
+M 0 8411 1 8408 1
+E 0 8418 0 16
+M 0 8405 1 8410 1
+G 0 8436 0
+M 0 8407 1 8411 1
+E 0 8404 0 16
+E 0 8412 0 12
+M 0 8406 1 8412 1
+E 0 8407 0 16
+M 0 8400 1 8417 1
+E 0 8400 0 16
+E 0 8413 0 2
+M 0 8403 1 8418 1
+E 0 8405 0 16
+E 0 8410 0 5
+M 0 8412 1 8418 1
+E 0 8403 0 16
+E 0 8411 0 6
+M 0 8401 1 8419 1
+E 0 8401 0 16
+O 0 8415 0 8420
+O 0 8420 0 8420
+M 0 8416 1 8421 1
+M 0 8409 6 8426 1
+M 0 8409 6 8427 1
+E 0 8425 0 17
+M 0 8410 7 8428 1
+E 0 8424 0 5
+M 0 8410 7 8429 1
+E 0 8425 0 17
+E 0 8424 0 5
+M 0 8408 8 8430 1
+E 0 8424 0 5
+M 0 8409 6 8431 1
+E 0 8425 0 17
+E 0 8424 0 5
+M 0 8409 6 8432 1
+E 0 8424 0 5
+M 0 8408 8 8433 1
+M 0 8408 8 8434 1
+E 0 8424 0 5
+M 0 8408 8 8435 1
+E 0 8425 0 17
+E 0 8424 0 5
+M 0 8410 7 8435 1
+M 0 8408 8 8436 1
+E 0 8425 0 17
+M 0 8410 7 8437 1
+E 0 8425 0 17
+E 0 8424 0 5
+M 0 8410 7 8438 1
+E 0 8425 0 17
+M 0 8409 6 8439 1
+E 0 8425 0 17
+M 0 8410 7 8440 1
+E 0 8424 0 5
+M 0 8408 8 8441 1
+E 0 8425 0 17
+M 0 8409 6 8441 1
+M 0 8413 1 8442 1
+E 0 8406 0 16
+M 0 8414 1 8442 1
+E 0 8409 0 16
+E 0 8414 0 3
+M 0 8415 1 8442 1
+E 0 8408 0 16
+M 0 8410 7 8443 1
+M 0 8417 1 8448 1
+M 0 8430 1 8454 1
+E 0 8416 0 12
+M 0 8431 1 8455 1
+E 0 8417 0 16
+M 0 8432 1 8456 1
+G 0 8434 0
+M 0 8421 2 8458 1
+M 0 8423 2 8460 1
+M 0 8429 1 8461 1
+M 0 8423 2 8463 1
+M 0 8421 2 8465 1
+M 0 8419 8 8466 1
+M 0 8419 8 8467 1
+M 0 8419 8 8468 1
+M 0 8419 8 8469 1
+M 0 8419 8 8470 1
+M 0 8419 8 8471 1
+M 0 8419 8 8472 1
+M 0 8419 8 8473 1
+M 0 8418 8 8506 1
+M 0 8418 8 8507 1
+M 0 8418 8 8508 1
+M 0 8418 8 8509 1
+M 0 8418 8 8510 1
+M 0 8418 8 8511 1
+M 0 8418 8 8512 1
+M 0 8418 8 8513 1
+M 0 8420 2 8514 1
+M 0 8424 2 8515 1
+M 0 8422 2 8516 1
+M 0 8428 1 8517 1
+M 0 8426 1 8518 1
+M 0 8422 2 8519 1
+M 0 8424 2 8520 1
+M 0 8420 2 8521 1
+M 0 8425 2 8559 1
+M 0 8433 1 8559 1
+G 0 8422 0
+G 0 8423 0
+M 0 8434 1 8560 1
+G 0 8426 0
+G 0 8427 0
+G 0 8428 0
+M 0 8435 1 8561 1
+G 0 8429 0
+G 0 8430 0
+G 0 8431 0
+G 0 8432 0
+G 0 8433 0
+S
+
+
+
+#SHOPS
+8433 5 0 0 0 0 125 25 6 20
+8434 19 0 0 0 0 1 1 0 23
+8435 8 10 26 32 33 125 25 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

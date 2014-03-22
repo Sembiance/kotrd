@@ -1,0 +1,148 @@
+#PLAYER
+Name Natas~
+Id   1143437680
+LogO 1144784295
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Minotaur~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 7012
+Scro 33
+Room 3001
+HMV  88 88 108 108 70 124
+Gold 37
+Silv 657
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  8344
+PAct  DETd
+AfBy Ta
+WName Natas~
+Comm NO
+RaceChan 0
+Deaf CDP
+Pos  8
+Prac 8
+Trai 4
+Save  -31
+Alig  271
+Hit   83
+Dam   11
+ACs 110 110 110 110
+Attr 23 11 10 15 15
+AMod 0 0 0 0 0
+Pass Naw6ujWDYClxI~
+Titl  The Unholy One~
+Pnts 49
+TSex 1
+PSize 4
+LLev 1
+HMVP 88 108 124
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'frenzy'
+Sk 1 'giant strength'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'bless'   0 237  37 -31  20          0
+Affc 'bless'   0 230  37  62  18          0
+Affc 'fly'   0  70  53   0   0     524288
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 190
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

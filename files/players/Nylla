@@ -1,0 +1,787 @@
+#PLAYER
+Name Nylla~
+Id   1087257686
+LogO 1114815734
+Vers 5
+Prom {c::{x%h/%H %m/%M %v/%V{c::{x {w%X{x %K ~
+Race Human~
+Sex  2
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 27
+OldLvl 27
+Sec  0
+Plyd 123220
+Scro 33
+Room 3001
+HMV  408 408 353 353 626 626
+Gold 584
+Silv 5437
+Gold_bank 15500
+Silv_bank 300000
+Shares 0
+Share_level 27
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  31354
+QuestPnts 1243
+PAct  CDGHQTd
+AfBy TVe
+WName Nylla~
+Comm FNO
+RaceChan 0
+Deaf DHP
+Pos  4
+Prac 16
+Trai 12
+Save  -62
+Alig  1000
+Hit   270
+Dam   144
+ACs -341 -341 -341 -299
+Attr 18 21 18 17 18
+AMod 10 0 0 10 1
+Pass Ny4LSelY938gg~
+Titl  tries to get a quest she can actually do~
+Pnts 43
+TSex 2
+PSize 2
+LLev 34
+HMVP 243 233 256
+Cnd  0 22 45 29
+Alias plaugh emote pity-laughs at that pathetic joke.~
+Alias nl note list~
+Alias nr note read~
+Alias il idea list~
+Alias ir idea read~
+Alias opn open north~
+Alias ops open south~
+Alias ope open east~
+Alias opw open west~
+Alias cln close north~
+Alias cls close south~
+Alias cle close east~
+Alias clw close west~
+Alias pix get piec cor~
+Boards       4 General 1114756904 Ideas 1114570925 Announce 1114049929 Personal 0 
+Sk 1 'magic missile'
+Sk 79 'chill touch'
+Sk 81 'burning hands'
+Sk 83 'shocking grasp'
+Sk 77 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 76 'armor'
+Sk 1 'cancellation'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 77 'identify'
+Sk 78 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 75 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 89 'dagger'
+Sk 50 'recall'
+Sk 76 'spellcraft'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'detection'
+Gr 'illusion'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Affc 'giant strength'   0 492 457   4   1          0
+Affc 'fly'   0 496 460   0   0     524288
+Affc 'stone skin'   0 491 457 -40  17          0
+Affc 'combat mind'   0 489 123 100  19          0
+Affc 'combat mind'   0 491 123 -255  17          0
+Affc 'combat mind'   0 492 123 100  18          0
+Affc 'bless'   0 492 207 -62  20          0
+Affc 'bless'   0 490 207 125  18          0
+Affc 'haste'   0 491  82   4   2    2097152
+Affc 'golden aura'   0 494  68   0   0 1073741824
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 8803
+Nest 0
+Cond 0
+Wear 8
+Cost 400
+End
+
+#O
+Vnum 10293
+Nest 0
+Cond 0
+Wear 12
+Cost 500
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear 14
+Cost 10
+End
+
+#O
+Vnum 10212
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 8124
+Nest 1
+Cond 0
+Wear -1
+Cost 3240
+End
+
+#O
+Vnum 8121
+Nest 1
+Cond 0
+Wear -1
+Cost 3240
+End
+
+#O
+Vnum 16008
+Nest 1
+Cond 0
+Wear -1
+Cost 3840
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 16084
+Nest 1
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1621
+Nest 1
+Cond 0
+Wear -1
+Time 230
+Cost 320
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 16042
+Nest 1
+Cond 0
+Wear -1
+Cost 7333
+End
+
+#O
+Vnum 4705
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+Affc 'reserved'   1  10  -1   3  19          0
+End
+
+#O
+Vnum 16084
+Nest 1
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16018
+Nest 1
+Cond 0
+Wear -1
+Cost 4666
+End
+
+#O
+Vnum 16045
+Nest 1
+Cond 0
+Wear -1
+Cost 3400
+End
+
+#O
+Vnum 10292
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 3 'acid breath'
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 10703
+Nest 1
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 0
+Wear -1
+Cost 3670
+End
+
+#O
+Vnum 4450
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  20
+Cost 3700
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  19  -1   3  19          0
+Affc 'reserved'   1  19  -1   3  18          0
+End
+
+#O
+Vnum 7300
+Nest 0
+Cond 0
+Wear 20
+Cost 0
+Val  60 1 0 6 100
+End
+
+#O
+Vnum 8804
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 80
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 83
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 81
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'combat mind'
+Spell 2 'bless'
+Spell 3 'armor'
+End
+
+#O
+Vnum 6304
+Nest 0
+ExtF 21497952
+Cond 0
+Wear 6
+Cost 1500
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 1
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 2
+Cost 2000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 10294
+Nest 0
+Cond 0
+Wear 5
+Cost 700
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  25
+Cost 1630
+Affc 'reserved'   1  24  -1  -1   1          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 1105
+Nest 0
+Cond 0
+Wear -1
+Cost 1660
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 5311
+Nest 0
+Cond 0
+Wear -1
+Cost 3900
+Spell 3 'charm person'
+End
+
+#O
+Vnum 1383
+Nest 0
+Cond 0
+Wear -1
+Cost 3300
+End
+
+#O
+Vnum 1385
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 1386
+Nest 0
+Cond 0
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 2418
+Nest 0
+Cond 0
+Wear 0
+Cost 2300
+Val  0 0 482 0 0
+End
+
+#O
+Vnum 18012
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 18011
+Nest 0
+Cond 0
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 18010
+Nest 0
+Cond 0
+Wear -1
+Cost 4350
+End
+
+#O
+Vnum 18060
+Nest 0
+Cond 0
+Wear -1
+Cost 4700
+End
+
+#END

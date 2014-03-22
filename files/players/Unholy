@@ -1,0 +1,281 @@
+#PLAYER
+Name Unholy~
+Id   1144214954
+LogO 1146159451
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Golem~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 13
+OldLvl 13
+Sec  0
+Plyd 21924
+Scro 33
+Room 3001
+HMV  382 382 125 125 222 222
+Gold 2
+Silv 366
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 13
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  22818
+PAct  CDETd
+AfBy HNTc
+WName Unholy~
+Comm BFNO
+RaceChan 0
+Deaf DP
+Pos  8
+Save  27
+Alig  852
+Hit   50
+Dam   30
+ACs 103 107 103 140
+Attr 27 10 11 9 18
+AMod 0 0 5 4 3
+Pass Un4bYMsWp79T.~
+Titl  {rT{Dhe {rU{Dnholyest {rO{Dne~
+Pnts 54
+TSex 1
+PSize 4
+LLev 3
+HMVP 362 125 172
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 41 'armor'
+Sk 1 'stone skin'
+Sk 78 'sword'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 73 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 59 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Affc 'fly'   0  73  76   0   0     524288
+Affc 'protection evil'   0  73  24  36  20       8192
+Affc 'frenzy'   0  73  24  60  17          0
+Affc 'frenzy'   0  73  24  12  19          0
+Affc 'frenzy'   0  73  24  12  18          0
+Affc 'bless'   0  73  36  -9  20          0
+Affc 'bless'   0  73  36  18  18          0
+Affc 'sanctuary'   0  73  12   0   0        128
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 18602
+Nest 0
+ExtF 64
+Cond 0
+Wear 5
+Cost 250
+Val  3 3 5 0 3
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 250
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 16031
+Nest 0
+Cond 0
+Wear 2
+Cost 1099
+End
+
+#O
+Vnum 16029
+Nest 0
+Cond 0
+Wear 12
+Cost 899
+End
+
+#O
+Vnum 16031
+Nest 0
+Cond 0
+Wear 1
+Cost 1099
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear 13
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear -1
+Cost 380
+End
+
+#END

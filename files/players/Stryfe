@@ -1,0 +1,367 @@
+#PLAYER
+Name Stryfe~
+Id   1107497089
+LogO 1107756277
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Seraph~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 12
+OldLvl 12
+Sec  0
+Plyd 4641
+Scro 33
+Room 3054
+HMV  184 298 133 133 134 181
+Gold 1638
+Silv 1317
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 12
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  22906
+PAct  DFGQTd
+AfBy FHNTV
+WName Stryfe~
+Comm NO
+RaceChan N
+Deaf DP
+Pos  5
+Prac 10
+Trai 5
+Save  38
+Alig  949
+Hit   59
+Dam   36
+ACs 60 62 64 72
+Attr 19 16 18 10 17
+AMod 6 0 1 4 0
+Pass Stsq0aAUJkdkA~
+Titl  The Angel Of Justice~
+Pnts 57
+TSex 1
+PSize 2
+LLev 1
+HMVP 238 133 166
+Cnd  0 8 27 20
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 76 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'dual wield'
+Sk 34 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 11 'dodge'
+Sk 1 'parry'
+Sk 75 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'bless'   0  97  37 -12  20          0
+Affc 'bless'   0  99  37  25  18          0
+Affc 'giant strength'   0  98  87   4   1          0
+Affc 'protection evil'   0 100  11  50  20       8192
+Affc 'haste'   0  95  12   4   2    2097152
+Affc 'sanctuary'   0  98   3   0   0        128
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 1508
+Nest 0
+Cond 0
+Wear 1
+Cost 270
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 6515
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3022
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  8
+Cost 610
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 1115
+Nest 0
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 13206
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 1000
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+End
+
+#END

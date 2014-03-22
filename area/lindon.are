@@ -1,0 +1,1859 @@
+#AREADATA
+Name Lindon~
+Builders Blade~
+VNUMs 5400 5499
+Credits 40 - 45 Blade~
+Security 9
+Flags 0
+LEVELs 40 45
+End
+
+
+
+#MOBILES
+#5400
+elladian~
+an elven minstrel~
+Elladian an singer stands here. 
+~
+{y A tall elf, his hair like burnished gold, with eyes of clearest grey.
+Wisdom lights his eyes, as he sings the Lay of Lindon. {x 
+~
+Elf~
+AB J 1000 0
+0
+37 100 1d1+3500 37d11+95 1d1+70 chop
+-8 -8 -8 -4
+0 0 BPQ Z
+stand stand none 1850
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5400 100~
+#5401
+protector ~
+an elven protector~
+A protector of Lindon stands here. 
+~
+An elven hunter, garbed in forest camoflauge, he watches you with wary
+eyes. 
+~
+Elf~
+AGTW J 1000 0
+0
+35 35 73d12+354 35d11+95 12d2+30 slash
+-15 -15 -15 -8
+FJKR 0 BPQ Z
+stand stand either 3
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5402 100~
+#5402
+elven archer~
+an elven archer~
+An Elven archer stands here. 
+~
+~
+Elf~
+AG J 1000 0
+0
+36 80 1d1+2500 36d11+95 1d1+60 crush
+-16 -16 -16 -9
+0 0 BPQ Z
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5402 100~
+#5403
+deer~
+a small deer~
+A shy deer grazes here, 
+~
+~
+Human~
+AG 0 1000 0
+0
+35 70 1d1+1750 35d11+95 1d1+50 none
+-15 -15 -15 -8
+0 0 0 0
+stand stand none 3
+AHMV ACDEFHJKW medium unknown
+F par BGI
+#5404
+hart stag~
+{Wa white hart{x~
+{WA large white stag stands here. {x 
+~
+{WA stag of pure snowy white, whose horns are pure {ygold{W, gleaming in
+the light. {x 
+~
+cat~
+AG LZc 1000 1000
+0
+45 125 1d1+5000 45d11+95 1d1+80 none
+-23 -23 -23 -14
+CFH 0 0 0
+stand stand male 2200
+AGV ACDEFJKQW medium unknown
+F par HUV
+#5405
+elven ranger~
+{yan elven ranger{x~
+{yA tall elven ranger stands here. {x 
+~
+{yA tall elven ranger, his golden hair flows past his shoulders,
+disappearing behind the armor of elven chain which he wears. {x 
+~
+Elf~
+ABT J 1000 0
+0
+38 80 1d1+2500 38d11+95 1d1+60 punch
+-18 -18 -18 -10
+FKN 0 BPQ Z
+stand stand male 1900
+AHMV ABCDEFGHIJK medium unknown
+#5406
+Elven Guardian~
+{yan elven guardian{x~
+{yAn elven guard stands here. {x 
+~
+~
+Elf~
+AB J 1000 0
+0
+28 60 1d1+1250 28d11+95 1d1+40 punch
+-10 -10 -10 -5
+0 0 BPQ Z
+stand stand either 1400
+AHMV ABCDEFGHIJK medium unknown
+#5407
+Thurangur~
+{yThurangur{x~
+{yA wise noble elf sits here upon the greensward. {x 
+~
+{y A golden haired elven mage, his gaze pierces through you to read your
+innermost thoughts. The wisdom in his eyes, causes your heart to quail, you
+drop your gaze in wonder. {x 
+~
+Elf~
+AB HJ 1000 0
+0
+42 100 1d1+3500 42d11+95 1d1+70 pound
+-21 -21 -21 -12
+0 0 BPQ Z
+stand stand male 2100
+AHMV ABCDEFGHIJK medium unknown
+#5408
+Llydriana~
+{RLlydriana{x~
+{RA beautiful elven lady sits next to the throne. {x 
+~
+{yHer beauty far suppasses that of any mortal woman whom you have cast
+eyes upon. Her flowing hair, reminds you of "Aschaliuanum" the moonsilver
+wrought of purest mithril. Her eyes, the color of purest mercury, burn into
+your soul, humbling you as your deepest desires are laid bare before her. {x
+~
+Elf~
+AB J 1000 1000
+0
+40 125 1d1+5000 40d11+95 1d1+80 punch
+-19 -19 -19 -11
+Q 0 BPQ Z
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#5409
+guard~
+a guardian warder~
+{yA guard stands before the portal. {x 
+~
+A tall muscled elven guard stands before the portal, you realize, they
+are facing away from you, intent upon the shimmering wall before them. {x 
+~
+Elf~
+AB J 1000 0
+0
+42 100 1d1+3500 42d10+100 1d1+70 punch
+-16 -16 -16 -4
+FIKN 0 BPQ Z
+stand stand either 8
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 5416 100~
+#5410
+bane sidhe~
+Bane Sidhe~
+An ancient Bane Sidhe floats here. 
+~
+{wA spectral figure dressed in tattered rags. It opens it's mouth to
+wail. {x 
+~
+Sidhe Elf~
+AGOe DFV 1000 0
+0
+40 125 1d1+5000 40d11+95 1d1+80 punch
+-19 -19 -19 -11
+AFK IMPT LQ S
+stand stand none 2000
+ACHMV ABCDEFGHIJK medium unknown
+M GREET 5415 100~
+#5411
+fire drake~
+{Ra fire drake{x~
+{RA Fire Drake lies here snoring.... {x 
+~
+{RLarge, red, and glowing from within, a drake sleeps here.... {x 
+~
+dragon~
+AGT HJT 1000 0
+0
+38 80 1d1+2500 38d11+95 1d1+60 flbite
+-18 -18 -18 -10
+CFMO H BCEH FI
+stand stand none 1900
+AHZ ACDEFGHIJKPQUVX large unknown
+M GREET 5407 50~
+M RANDOM 5406 45~
+#5412
+Viderian~
+{wViderian{x~
+{wA sneering elven mage dressed in shimmering robes stands here. {x 
+~
+{yA tall willowy elven mage, his face cast in a permanent sneer, looks at
+you in disdain. {x 
+~
+Elf~
+AGHRc J 1000 0
+0
+40 100 1d1+3500 40d11+95 1d1+70 punch
+-19 -19 -19 -11
+AFN 0 BPQ Z
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 5409 10~
+M GRALL 5408 100~
+#5413
+keighvan silverhand~
+Keighvan Silverhand~
+A tall elvish warrior stands here. 
+~
+A Tall well muscled warrior stands before you in armor of mithril that
+blazes in the darkness. 
+~
+Elf~
+AGT J 1000 0
+0
+50 175 1d1+7500 50d11+95 1d1+100 punch
+-27 -27 -27 -16
+CFIKN C BPQ Z
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+M DELAY 5417 80~
+M GRALL 5410 100~
+#5414
+shadow~
+a shadow~
+A wavery shadow floats here. 
+~
+The transparent shade of one of the towers past inhabitants. The shadow
+wails mournfully. 
+~
+unique~
+AGR 0 1000 0
+0
+40 80 1d1+2500 40d11+95 1d1+60 none
+-19 -19 -19 -11
+BILMQR D FIMNS DHILNOSc
+stand stand none 2000
+ABCGHIJKLUc ABCGHJK medium unknown
+M RANDOM 5411 10~
+#5415
+guard~
+a guardian warder~
+{yA guard stands before the portal. {x 
+~
+A tall muscled elven guard stands before the portal, you realize, they
+are facing away from you, intent upon the shimmering wall before them. {x 
+~
+Elf~
+AB J 1000 0
+0
+42 100 1d1+3500 42d10+100 1d1+70 punch
+-16 -16 -16 -4
+FIKN 0 BPQ Z
+stand stand either 8
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 5403 100~
+#5416
+shadow~
+a shadow~
+A wavery shadow floats here. 
+~
+The transparent shade of one of the towers past inhabitants. The shadow
+wails mournfully. 
+~
+unique~
+AGR 0 1000 0
+0
+40 80 1d1+2500 40d11+95 1d1+60 none
+-19 -19 -19 -11
+BILMQR D FIMNS DHILNOSc
+stand stand none 2000
+ABCGHIJKLUc ABCGHJK medium unknown
+M RANDOM 5411 10~
+#5417
+revenant~
+a revenant~
+A revenant stands here. 
+~
+The vengeful spirit of an elven warrior, in armor of elven chain, bearing
+a long silvery sword. 
+~
+Troll~
+AG FJc 1000 0
+0
+42 100 1d1+3500 42d11+95 1d1+70 claw
+-21 -21 -21 -12
+D 0 BEFI HK
+stand stand male 2100
+ABHMV ABCDEFGHIJKUVY medium unknown
+#0
+
+
+
+#OBJECTS
+#5400
+Elven Longbow~
+elven Longbow~
+A superb bow made of Rowan, reinforced with inserts of Mithril~
+MITHRIL wand 0 AO
+37 20 20 'colour spray' 0
+37 5 1000 P
+A
+2 2
+#5401
+boots~
+boots of elven leather~
+A pair of elven boots lie here~
+HIGH_LEATHER armor 0 AG
+BD BD BD BC 0
+32 10 640 P
+A
+14 21
+#5402
+elven leather~
+elven leather armor~
+A suit of elven leather lies here.~
+HIGH_LEATHER armor 0 AD
+BD BD BD BC 0
+34 25 680 P
+A
+20 -5
+#5403
+Forest Mask~
+elven forest mask~
+A mask of crafted leather lies here.~
+HIGH_LEATHER armor MY AR
+CD CD CD ABC 0
+38 30 760 P
+A
+13 25
+E
+=spells=~
+invis
+~
+#5404
+bowguard~
+bowguard of Lindon~
+A finely crafted bow guard.~
+HIGH_LEATHER armor IY AM
+CD CD CD ABC 0
+38 12 760 P
+A
+2 2
+#5405
+Leather Sleeves~
+leather sleeves~
+A set of leather sleeves lie here~
+HIGH_LEATHER armor 0 AI
+CD CD CD ABC 0
+36 12 720 P
+A
+19 9
+A
+18 10
+#5406
+Leather Leggings~
+leggings of leather~
+Forest leggings lie here~
+HIGH_LEATHER armor Y AF
+CD CD CD ABC 0
+38 20 760 P
+A
+1 2
+#5407
+Forest Cap~
+cap of forests~
+A feathered cap ~
+ORGANIC armor Y AE
+ACD ACD ACD CD 0
+36 12 720 P
+#5408
+chain elven~
+elven chain~
+{CA suit of fine mithril chain lies here.{x~
+MITHRIL armor 0 AD
+ABD ABD ABD BD 0
+28 25 560 P
+#5409
+longsword elven~
+elven longsword~
+{CA fine longsword of mithril lies here.{x~
+MITHRIL weapon 0 AN
+sword 7 13 slash EF
+28 120 560 P
+A
+5 3
+A
+19 14
+#5410
+thuragur longsword~
+{yThuragur's Longsword{x~
+{GA longsword of forest green metal glimmers here.{x~
+MITHRIL weapon Y AN
+sword 5 13 divine E
+28 7 560 P
+#5411
+Portal~
+portal~
+A shimmering portal stands here.~
+MAGIC_ENERGY portal A 0
+100 0 0 5440 0
+0 0 0 P
+#5412
+staff witchwood~
+a witchwood staff~
+A burnished staff of glowing wood.~
+WOOD weapon I AN
+polearm 7 15 shock G
+42 40 840 P
+E
+=spells=~
+bless
+~
+#5413
+dragonscale armor~
+{Rdragonscale armor{x~
+{rA suit of fine dragonscale armor lies here.{x~
+BONE armor Y AD
+BCD BCD BCD AC 0
+38 60 760 P
+A
+17 -15
+A
+20 -5
+#5414
+robe shimmering~
+{Ca Shimmering Robe{x~
+{CA shimmering robe of silk lies here.{x~
+ELVEN_SILK armor Y AD
+CD CD CD ABC 0
+38 12 760 P
+A
+14 25
+E
+=spells=~
+pass door
+~
+#5415
+Wand of fire~
+{Ra red wand{x~
+{RA heavy red wand lies here glinting.{x~
+WOOD wand A AO
+40 10 10 'fireball' 0
+40 20 200 P
+#5416
+Mithril Armor~
+{CMithril Armor{x~
+{CA fine suit of mithril armor lies here glowing.{x~
+MITHRIL armor A AD
+ABCD ABCD ABCD D 0
+40 25 800 P
+A
+3 1
+A
+17 -13
+#5417
+Elven Sword~
+{CElven two-handed sword{x~
+{CA fine two-handed sword lies here.{x~
+MITHRIL weapon Y AN
+sword 8 16 flame AF
+40 56 800 P
+A
+4 -1
+A
+19 18
+A
+18 27
+E
+=spells=~
+fireball
+~
+#5418
+key~
+{bA dark heavy key{x~
+{bA dark heavy key glows with a dim dark light.{x~
+MET_GENERIC key A AO
+0 0 0 0 0
+0 10 0 P
+#5419
+belt pouch~
+a small belt pouch~
+A small belt pouch lies here.~
+HIGH_LEATHER container 0 AL
+30 0 0 100 0
+0 10 100 P
+#5420
+key~
+a small bronze key~
+A small bronze key lies here.~
+BRONZE key 0 AO
+0 0 0 0 0
+0 0 0 P
+#5421
+orb~
+a bright orb~
+{YA brightly glowing orb floats here.{x~
+MAGIC_ENERGY portal 0 0
+999 0 0 13223 0
+0 0 0 P
+#5422
+longsword elven~
+elven longsword~
+{CA fine longsword of mithril lies here.{x~
+MITHRIL weapon 0 AN
+sword 7 15 slash E
+42 55 840 P
+A
+19 10
+A
+18 20
+#5497
+moonstone shard legend~
+{Da legendary {Wmoonstone {Dshard{x~
+A legendary quest shard lies here.~
+MOONSTONE gem CT AO
+0 0 0 0 0
+49 3 50 P
+E
+pickupmessage~
+You just found your Level {W49 {xLegendary Shard! You can now advance to Level {W50{x!
+~
+#5498
+key intricate~
+an intricate key~
+{CA filagreed key made of mithril.{x~
+MITHRIL key 0 AO
+0 0 0 0 0
+38 0 0 P
+#5499
+glove leather~
+leather gloves~
+A worn leather glove lies here.~
+HIGH_LEATHER armor I AH
+A A A A 0
+1 0 120 P
+#0
+
+
+
+#ROOMS
+#5400
+{YA Forest Path{x~
+{c You walk through an ancient forest along a path of greensward. The
+forest seems alive with the rustling of small animals, and the song of many
+birds who flit through the trees. The wind blows softly, the trees sigh to
+it's rhythm. Ahead, a sparkling stream flows across the path, a trail of
+stones for crossing. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5401
+C 0
+S
+#5401
+{YAncient Path{x~
+{c The path curves here running towards the northeast. Myriads of birds
+abound, the air filled with their songs. The path is grassy and smooth, with
+nary a blemish. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5402
+D3
+~
+~
+0 0 5400
+C 0
+S
+#5402
+{YAncient Path{x~
+{c The path is grassy and smooth, a light breeze bringing the scent of
+evergreen to your nostrils. You hear faintly , around the bend, a silvery
+tinkle of laughter, and a voice upraised in song. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5403
+D2
+~
+~
+0 0 5401
+C 0
+S
+#5403
+{YA Grassy Clearing{x~
+{c The path opens into a forest clearing, a sparkling {Bbrook {ctumbles
+it's way merrily through the center. Under the tree, there is a low grassy
+mound. Birds flit through the trees, and occasionally a silver fish jumps in
+the brook. {x 
+~
+0 0 3
+D0
+~
+~
+0 0 5404
+D2
+~
+~
+0 0 5402
+C 0
+S
+#5404
+{YAncient Path{x~
+{cThe grassy path is cool and smooth. Birds flit across the path ahead of
+you, their song bringing a gladness to your heart. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5405
+D2
+~
+~
+0 0 5403
+C 0
+S
+#5405
+{YAncient Path{x~
+{cThe path splits here. The splits run notheast, and northwest. The paths
+are smooth and grassy. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5406
+D2
+~
+~
+0 0 5404
+D3
+~
+~
+0 0 5425
+C 0
+S
+#5406
+{YThe Northeastern Path{x~
+{c The path continues towards the northeast. It is grassy and shaded from
+the overhead sun. The wind blows bringing the perfume of myriads of flowers
+to your nostrils. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5408
+D3
+~
+~
+0 0 5405
+C 0
+S
+#5407
+{YThe Northwestern Path{x~
+{cThe trail narrows as the forest crowds in on it. The song of myriads of
+birds fill the air, and the scent of evergreen surrounds you. The path is
+smooth and grassy under your feet. {x 
+~
+0 0 4
+D2
+~
+~
+0 0 5425
+D3
+~
+~
+0 0 5409
+C 0
+S
+#5408
+{YThe Northeastern Path{x~
+{c The path is smooth and grassy. Occasional deer are seen crossing, and
+squirrels chatter as you go. The scent of flowers fills the air around you,
+blown by a light breeze. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5410
+D2
+~
+~
+0 0 5406
+C 0
+S
+#5409
+{YA Grassy Path{x~
+{c The path continues on, dappled with shadow from the overhead trees,
+grassy and smooth. The call of birds from the surrounding trees are like a
+balm to your weary heart. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5411
+D1
+~
+~
+0 0 5407
+C 0
+S
+#5410
+{YA Bend in the Path{x~
+{c The path turns here and runs towards the west. {x 
+~
+0 0 4
+D2
+~
+~
+0 0 5408
+D3
+~
+~
+0 0 5412
+C 0
+S
+#5411
+{YA Bend in the Path{x~
+{c The path here is cool and shaded by the tall trees overhead. Birds
+flit across the path singing, as a light breeze stirs. {x {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5413
+D2
+~
+~
+0 0 5409
+C 0
+S
+#5412
+{YA Grassy Path{x~
+{c The path is narrower here, smooth and grassy. The smell of clean
+greenery adds a bit of a step to you stride. Birds sing to all sides, and
+from time to time, you catch glimpses of various wildlife. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5410
+D3
+~
+~
+0 0 5414
+C 0
+S
+#5413
+{YA Shady Path{x~
+{c The path is shady and cool, a light breeze ruffles your hair. Birds
+flit across the path, raising their beaks to the sky, in an ancient song. {x
+~
+0 0 4
+D1
+~
+~
+0 0 5414
+D3
+~
+~
+0 0 5411
+C 0
+S
+#5414
+{YA Crossroads{x~
+{cThe path crosses another here, running in all four main cardinal
+points.  {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5419
+D1
+~
+~
+0 0 5412
+D2
+~
+~
+0 0 5415
+D3
+~
+~
+0 0 5413
+C 0
+S
+#5415
+{YA Grassy Path{x~
+{cA narrow grassy path running towards a tall tree. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5414
+D2
+~
+~
+0 0 5416
+C 0
+S
+#5416
+{YThe Base of a Tree{x~
+{c The path ends here, at a rope ladder that runs up the side of a tall
+oak tree. The forest undergrowth keeps you from going in any other
+direction, you sense a purpose to it's growth. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5415
+D4
+~
+~
+0 0 5417
+C 0
+S
+#5417
+{YA Rope Ladder{x~
+{c You climb a rope ladder running up the side of a tall oak. The smell
+of forest greenery makes the air refreshing and clean. {x 
+~
+0 0 4
+D4
+~
+~
+0 0 5418
+D5
+~
+~
+0 0 5416
+C 0
+S
+#5418
+{YA High Flet{x~
+{cYou stand upon a high platform in the treetops, overlooking the
+entrance to Lindon.  For as far as you can see, a sea of green stretches in
+all directions.  {x 
+~
+0 0 4
+D5
+~
+~
+0 0 5417
+C 0
+S
+#5419
+{YA Forest Path{x~
+{c The path runs northward straight as an arrow. Cool and inviting. The
+wind is a soft whisper against your brow, bringing the scent of evergreen to
+your nose. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5420
+D2
+~
+~
+0 0 5414
+C 0
+S
+#5420
+{YA Forest Path{x~
+{c The path runs true here, the grass cool and inviting. From time to
+time, dappled deer cross the path, while songbirds serenade the day. The
+soft wind sighs against your brow, a feeling of peace settling into your
+heart. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5421
+D2
+~
+~
+0 0 5419
+C 0
+S
+#5421
+{YA Bend{x~
+{cThe path turns here going east towards the morning star.  The breeze is
+gentle and cool, while the grass underfoot is soft and springy.  Wildlife
+wanders about to all sides, as birds flit from place to place.  {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5422
+D2
+~
+~
+0 0 5420
+C 0
+S
+#5422
+{YTowards Morn{x~
+{cThe path runs due east towards the star of morning. Low hillocks line
+the path. The path continues on towards a clearing. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5423
+D3
+~
+~
+0 0 5421
+C 0
+S
+#5423
+{YTowards Morning{x~
+{c The path runs straight as an arrow towards where the {YSun{c rises.
+Trees and small grassy mounds line the path. Wildlife scatters as you
+approach. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5424
+D3
+~
+~
+0 0 5422
+C 0
+S
+#5424
+{YTowards Morning{x~
+{c The path opens up here upon a clearing. In the center of the clearing,
+lies an ancient grove of Mallorn trees. Their bark, the color of
+moonstreaked silver, their leaves, the purest gold. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5434
+D3
+~
+~
+0 0 5423
+C 0
+S
+#5425
+{YThe Northwestern Path{x~
+{cThe trail narrows as the forest crowds in on it. The song of myriads of
+birds fill the air, and the scent of evergreen surrounds you. The path is
+smooth and grassy under your feet. {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5407
+D1
+~
+~
+0 0 5405
+C 0
+S
+#5434
+{YThe Grove{x~
+{c The grove is cool and shady in the morning sun. Dew sparkles and
+glitters as you tread upon the springy grass. In the center of the immense
+grassy mound, from the center of which rears up an immense {Wwhite{c tree.
+Analion, scion of the Tree of Life, she rears her proud head above the
+forest to dizzying heights far above. {x {c Among the massive roots of this
+great tree, stands a hall built of stone cunningly wrought. {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5435
+D3
+~
+~
+0 0 5424
+C 0
+S
+#5435
+{YBefore the Hall of Morn{x~
+{c The immense tree stretches forth far into the heavens. Nestled among
+it's roots, is an immense hall of carven stone. The hall is obviously of
+dwarven make, the stonework intricate, and detailed. Before you stand two
+immense gates of stone, wrought in the depths of time, by the ancient
+dwarven masons, and infused with the elven magic of ages. {x 
+~
+0 0 4
+D1
+~
+gate~
+4 5498 5436
+D3
+~
+~
+0 0 5434
+C 0
+S
+#5436
+{YThe Hall of Thurangur{x~
+{cThe hall is of intricately carved stone, filagreed and inlaid with
+mithril.  Glowing colored orbs float throughout the hall casting a joyous
+light over all.  {x 
+~
+0 8 4
+D1
+~
+~
+0 0 5437
+D3
+~
+gate~
+4 5498 5435
+C 0
+S
+#5437
+{YThurangur's Throne Room{x~
+{cThe hall widens here, to a raised hillock of living grass.  On the
+center of the hillock, sits a gathering of elven folk, surrounding a
+solitary figure who sits crosslegged upon the ground.  The leafy canopy of
+the great mallorn is visible above, in the roofless hall.  Casting upon all,
+a dappled green light.  {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5438
+D3
+~
+~
+0 0 5436
+C 0
+S
+#5438
+{YAn Archway{x~
+{cYou stand beneath an archway of living stone, in the roofless hall of
+the Elven king.  To the east, a small chamber stands unlit.  {x 
+~
+0 0 4
+D1
+~
+~
+0 0 5439
+D3
+~
+~
+0 0 5437
+C 0
+S
+#5439
+{YThe Chamber of Travel{x~
+{cA small chamber, dark, unlit save for the glowing light which emanates
+from a shimmering portal that stands in the center of the room.  {x 
+~
+0 9 4
+E
+portal~
+{GA shimmering wall of light, arches across between two of the enormous
+roots of the great Mallorn. {x 
+~
+D3
+~
+~
+0 0 5438
+C 0
+S
+#5440
+{YUnderhill{x~
+{cMists rise up from the ground, obscuring your view in all directions. 
+Under foot, grass grows in sparse clumps, making walking difficuly.  A
+narrow track seems to run towards the north.  {x 
+~
+0 0 4
+D0
+~
+~
+0 0 5441
+C 0
+S
+#5441
+{YUnderhill{x~
+{cThe mists rise up around you.  Overhead a pale moon peeks out from
+behind the clouds from time to time, casting a cold wan light.  Pale grass
+grows in ragged bunches along the ground, creating a patchwork shadowed
+landscape, formed of the raw material of chaos itself.  {x 
+~
+0 532481 4
+D1
+~
+~
+0 0 5442
+D2
+~
+~
+0 0 5440
+C 0
+S
+#5442
+{YUnderhill{x~
+{cThe moon casts a pale wan light over the eerie landscape.  Grass grows,
+a sickly pale color in tufts and clump, making the footing uneven, the going
+tough.  {x 
+~
+0 532481 4
+D1
+~
+~
+0 0 5443
+D3
+~
+~
+0 0 5441
+C 0
+S
+#5443
+{YUnderhill{x~
+{cThe moon casts a pale wan glow over the eerie landscape.  Grass grows,
+a sickly pale tufted carpet underfoot.  {x 
+~
+0 532481 4
+D2
+~
+~
+0 0 5444
+D3
+~
+~
+0 0 5442
+C 0
+S
+#5444
+{YUnderhill{x~
+{cThe rising mists obscure all but a few feet before you.  Sickly pale
+grass grows in tattered clumps underfoot.  An eerie wail rises as a cold
+wind whips around you........  {x 
+~
+0 532481 4
+D0
+~
+~
+0 0 5443
+D1
+~
+~
+0 0 5445
+C 0
+S
+#5445
+{YUnderhill{x~
+{cThe mists rise up around you, creating an eerie backdrop to the realm
+you traverse.  The pale sickly grass gives way to a path of rocky gravel. 
+North, a path leads downwards into a large burrow of some sort.  {x 
+~
+0 532481 4
+D0
+~
+~
+0 0 5446
+D1
+~
+~
+0 0 5448
+D3
+~
+~
+0 0 5444
+C 0
+S
+#5446
+{YA Tunnel{x~
+{cA dark tunnel running north and south.  The grade steepens somewhat,
+and the tunnel widens out to the north.  A flicker of light reflects off the
+wall of the room.  {x 
+~
+0 532489 12
+D0
+~
+~
+0 0 5447
+D2
+~
+~
+0 0 5445
+C 0
+S
+#5447
+{YThe Den{x~
+{cBones lie scattered throughout the room.  A halfeaten corpse lies near
+the wall to your left.  To the right, a crumbled altar of stone is tumbled
+in disarray.  {x 
+~
+0 532489 12
+E
+drake~
+{RA large sinous reptile, it's shimmering red scales glow softly from
+within, as it slowly breathes in the natural rhythm of sleep. As it exhales,
+a trickle of flame leaves it's nostrils, smoke drifting up towards the
+ceiling of the den. {x 
+~
+E
+altar~
+{w A rough mound of crumbled stone, this altar was once consecrated to
+the Elder Gods of Yerth. {x 
+~
+E
+corpse~
+{wThe half eaten corpse of something lies near the western wall of the
+den. {x 
+~
+E
+bone~
+{wThe cracked and shattered bones of innumerable drake meals lie
+scattered about the floor. {x 
+~
+D2
+~
+~
+0 0 5446
+C 0
+S
+#5448
+{YUnderhill{x~
+{cSick pale grass grows in sparse tufts along the ground.  Mists rise up
+obscuring all around you.  Looking down, you see no sign of life in the dark
+soil.  The area remains eeriely quiet.  {x 
+~
+0 532481 4
+D0
+~
+~
+0 0 5448
+D1
+~
+~
+0 0 5449
+D2
+~
+~
+0 0 5448
+D3
+~
+~
+0 0 5445
+C 0
+S
+#5449
+{YUnderhill{x~
+{cMists rise up obscuring all around you.  Sickly pale grass grows in
+sparse tufts, making walking difficult.  To the east, you hear the muffled
+sound of running water.  {x 
+~
+0 532481 4
+E
+grass~
+Pale strands of grass grow in spare tufts. 
+~
+E
+mist~
+An obscuring wall, the mists bar vision in all directions. 
+~
+D0
+~
+~
+0 0 5449
+D1
+~
+~
+0 0 5450
+D2
+~
+~
+0 0 5449
+D3
+~
+~
+0 0 5448
+C 0
+S
+#5450
+{YUnderhill{x~
+{c A bridge looms out of the mists, running across a small river.  Pale
+grass grows all around you, in sparse tufts.  The river runs north and
+south, the bridge spanning it's waters runs east and west.  {x 
+~
+0 532481 4
+E
+bridge~
+An enclosed span of rough weathered wood that stretches out over the
+river to the far bank. The bridge creaks as the water flows underneath. 
+~
+D0
+~
+~
+0 0 5450
+D1
+~
+~
+0 0 5451
+D2
+~
+~
+0 0 5450
+D3
+~
+~
+0 0 5449
+C 0
+S
+#5451
+{YUnderhill{x~
+{cThe rough weathered wood of the bridge closes out all light from
+outside.  The planking underfoot seem solid to the glance.  You feel more
+than see, the opening at the other end of the bridge.  {x 
+~
+0 532481 4
+D1
+~
+~
+0 0 5452
+D3
+~
+~
+0 0 5450
+C 0
+S
+#5452
+{YUnderhill{x~
+{cThe rough bridge continues towards the east.  It is very dark, with no
+light penetrating the rough planking around you.  You sense, rather than
+see, the bridge's ends to both east and west.  {x 
+~
+0 532481 4
+D1
+~
+~
+0 0 5453
+D3
+~
+~
+0 0 5451
+C 0
+S
+#5453
+{YUnderhill{x~
+{cYou reach the eastern end of the bridge.  Pale sickly grass grows in a
+ragged carpet underfoot.  A faint path leads away towards the southeast from
+the bridge.  {x 
+~
+0 532481 4
+D0
+~
+~
+0 0 5453
+D1
+~
+~
+0 0 5454
+D2
+~
+~
+0 0 5453
+D3
+~
+~
+0 0 5452
+C 0
+S
+#5454
+{YUnderhill{x~
+{cPale sickly grass grows underfoot, a ragged carpet.  The path widens
+towards the south, turning towards a glow to the south.  {x 
+~
+0 532481 4
+D1
+~
+~
+0 0 5454
+D2
+~
+~
+0 0 5455
+D3
+~
+~
+0 0 5453
+C 0
+S
+#5455
+{YUnderhill{x~
+{cThe path ends here in a dark gate of brass bound wood.  Pale sickly
+grass grows to either side of the path and up to a wall of dark stone.  Dark
+malignant trees grow to either side of the gate, their branches creak and
+groan in a nonexistant wind.  The gate hangs from one hinge, easily opened. 
+{x 
+~
+0 532481 4
+D0
+~
+~
+0 0 5454
+D2
+~
+gate~
+1 5418 5456
+C 0
+S
+#5456
+{YA Courtyard{x~
+{cThe courtyard is dark.  Weeds have overgrown what was once a
+symettrical area of grass and shrubbery.  To either side, tall hedges of
+thorn block your movement, while to your south, lies a mouldering tower.  {x
+~
+0 9 4
+D0
+~
+gate~
+1 5418 5455
+D2
+~
+~
+0 0 5457
+C 0
+S
+#5457
+{YThe Courtyard{x~
+{cAs you look around the southern end of the courtyard, you see before
+you a stout door of stone inset into the base of a tall tower.  To either
+side, dense thorn hedges bar any passage.  North, the gate stands.  {x 
+~
+0 9 4
+E
+hedge~
+A dense black mass of thorned foliage, barring any passage runs to either
+side of the narrow path between the gate and door. 
+~
+E
+door~
+A door of solid polished marble, inset into the wall of the tower. 
+~
+E
+tower~
+A tall tower of stone, it reaches high above you. 
+~
+D0
+~
+~
+0 0 5456
+D2
+~
+~
+4 5418 5458
+C 0
+S
+#5458
+{YThe Entry Chamber{x~
+{cYou have entered a long vacant hall.  The east and west walls are bare,
+the stone dark.  To the north, a doorway pierces the wall.  Above the
+northern doorway, the tattered remains of a banner hang.  {x 
+~
+0 9 4
+E
+banner~
+The tattered remains are faded and frayed. You can almost make out the
+device, but, it is not truly legible. 
+~
+D0
+~
+~
+4 5418 5457
+D2
+~
+~
+0 0 5459
+C 0
+S
+#5459
+{YStairwell{x~
+{cA circular stair rises up from the floor towards the top of the tower. 
+Looking up, you can see next to nothing save darkness.  Huge buttresses run
+along all sides, supporting the immense weight of the tower.  {x 
+~
+0 9 4
+D0
+~
+~
+0 0 5458
+D4
+~
+~
+0 0 5460
+C 0
+S
+#5460
+{YStair{x~
+{cThe stairway spirals up into the darkness above.  Below, the base of
+the tower lies.  The darkness is a palpable thing that squeezes in upon you,
+as you go.  {x 
+~
+0 9 4
+D4
+~
+~
+0 0 5461
+D5
+~
+~
+0 0 5459
+C 0
+S
+#5461
+{YTower Stair{x~
+{cThe stairs continue upwards into the darkness.  A doorway looms to the
+east it's gaping maw springing to being out of the darkness.  The ancient
+stone surrounding you is damp and cold.  {x 
+~
+0 9 4
+D1
+~
+~
+0 0 5462
+D4
+~
+~
+0 0 5463
+D5
+~
+~
+0 0 5460
+C 0
+S
+#5462
+{YGuard Room{x~
+{cThe room swims into view around you, your light penetrating to all but
+the furthest corners.  Shattered furniture, and broken weapons lie scattered
+amongst the remains of the towers occupants.  Mute testament to the power
+used against them.  {x 
+~
+0 9 4
+D3
+~
+~
+0 0 5461
+C 0
+S
+#5463
+{YTower Stair{x~
+{cThe stairs continue upward into the darkness.  The stone surrounding
+you is cold, and if you were to touch it, possible damp.  The walls seem to
+absorb what feeble luminence your light sheds.  {x 
+~
+0 9 4
+D4
+~
+~
+0 0 5464
+D5
+~
+~
+0 0 5461
+C 0
+S
+#5464
+{YTower Stair{x~
+{cThe darkness is almost palpable as you climb higher.  West an opening
+presents itself, the doorway shattered and crumbled.  The walls around you
+are cold and damp.  The stair ends here, above, flagstone ceiling covers the
+interior of the tower.  {x 
+~
+0 9 4
+E
+ceiling~
+Built of solid stone, with no visible supports, you barely make out the
+outline of a trap door. 
+~
+D3
+~
+~
+0 0 5465
+D4
+~
+trapdoor~
+0 5420 5466
+D5
+~
+~
+0 0 5463
+C 0
+S
+#5465
+{YTower Room{x~
+{cThis room was once the living quarters of some ancient person. 
+Scattered remnants of furniture lie shattered around the room, mute
+testamony to the powers once harnessed here.  A tattered banner hangs upon
+the west wall, faded and barely legible.  {x 
+~
+0 9 4
+E
+banner~
+The faded and barely legible remains of an ancient banner, show a silver
+gryphon upon a field of azure. 
+~
+D1
+~
+~
+0 0 5464
+C 0
+S
+#5466
+{YTower Summit{x~
+{cA large circular room, beneath the eaves of the tower's roof.  In the
+center of the room, lies a glowing orb floating above the floor.  The walls
+around are of stone, the ceiling above of slate.  The room is unfurnished,
+yet amazingly clean.  {x 
+~
+0 8 4
+D5
+~
+~
+0 5420 5464
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5435 1 2
+D 0 5436 3 2
+D 0 5455 2 1
+D 0 5456 0 1
+D 0 5457 2 2
+D 0 5458 0 2
+M 0 5400 1 5403 1
+E 0 5401 0 8
+E 0 5402 0 5
+E 0 5404 0 14
+E 0 5403 0 20
+E 0 5405 0 10
+E 0 5406 0 7
+E 0 5407 0 6
+M 0 5401 50 5404 1
+M 0 5401 50 5406 1
+M 0 5401 50 5414 1
+M 0 5402 99 5418 3
+E 0 5403 0 19
+E 0 5400 0 17
+E 0 5404 0 15
+E 0 5402 0 5
+E 0 5401 0 8
+E 0 5405 0 10
+E 0 5406 0 7
+E 0 5407 0 6
+M 0 5403 1 5420 1
+M 0 5401 50 5421 1
+M 0 5403 2 5422 8
+M 0 5401 50 5423 1
+M 0 5404 1 5423 1
+M 0 5405 1 5435 1
+E 0 5404 0 14
+E 0 5404 0 15
+E 0 5406 0 7
+E 0 5405 0 10
+E 0 5401 0 8
+E 0 5408 0 5
+E 0 5498 0 17
+E 0 5499 0 9
+M 0 5406 99 5436 2
+E 0 5408 0 5
+E 0 5409 0 16
+M 0 5407 1 5437 1
+M 0 5408 1 5437 1
+M 0 5406 2 5437 99
+E 0 5408 0 5
+E 0 5409 0 16
+M 0 5406 1 5438 1
+E 0 5408 0 5
+E 0 5409 0 16
+M 0 5409 2 5439 99
+E 0 5412 0 16
+M 0 5401 50 5440 1
+M 0 5410 1 5442 1
+M 0 5401 50 5443 1
+M 0 5411 1 5447 1
+E 0 5413 0 5
+M 0 5401 50 5448 1
+M 0 5412 1 5449 1
+E 0 5414 0 5
+E 0 5415 0 17
+G 0 5497 0
+M 0 5401 50 5450 1
+M 0 5401 50 5452 1
+M 0 5413 1 5454 1
+E 0 5416 0 5
+E 0 5417 0 16
+E 0 5419 0 13
+E 0 5418 0 9
+M 0 5401 50 5455 1
+M 0 5401 50 5458 1
+M 0 5401 50 5460 1
+M 0 5414 1 5462 1
+M 0 5416 1 5463 1
+M 0 5417 1 5465 1
+E 0 5408 0 5
+E 0 5420 0 12
+E 0 5422 0 16
+O 0 5421 0 5466
+M 0 5415 2 5466 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5400
+if ISGOOD $n
+bow $N
+say Welcome to Lindon.
+say May your stay be happy, and bring fond memories.
+say You may freely wander, but beware, kill no living thing.
+else
+say No evil is tolerated in Lindon, BEGONE!
+glare $N
+mob kill $n
+end if
+~
+#5401
+~
+#5402
+if isgood $n
+say Greetings, travel in peace.
+else
+mob kill $n
+end if
+~
+#5403
+mob oload 5421 
+~
+#5404
+if hastarget $i
+mob delay 5
+if level $i > 30
+mob transfer $n 5900
+if level $i < 30
+mob transfer $n 5500
+mob forget
+endif
+~
+#5405
+if isevil $n
+mob kill $n
+endif
+~
+#5406
+mob recho {RA wisp of flame curls from the drakes nostrils as he exhales.{x
+~
+#5407
+if isgood $n
+snort $n
+else
+mob cast fireball $n
+end if
+~
+#5408
+if isevil $n
+mob cast fireball $n
+else
+mob recho {WBow to me, or leave this realm now.{x
+end if
+~
+#5409
+mob zecho {wViderian yells 'I am going to rule Lindon!!'{x
+~
+#5410
+if isdelay $i
+break
+else
+say If you value your life, go no furthur along this road.
+say I'll give you 5 seconds to leave this place...
+mob remember $n
+mob delay 5
+endif
+~
+#5411
+mob recho {bA wavering shadow wails in anguish....{x
+~
+#5415
+if isevil $n
+mob cast fireball $n
+end if
+~
+#5416
+mob oload 5411
+~
+#5417
+if hastarget $i
+say I warned you!
+mob kill $q
+else
+mob forget
+endif
+~
+#0
+
+#$

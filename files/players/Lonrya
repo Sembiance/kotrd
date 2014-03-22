@@ -1,0 +1,75 @@
+#PLAYER
+Name Lonrya~
+Id   1169032410
+LogO 1169033538
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Succubus~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1128
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1750
+PAct  DEFGQTd
+AfBy DFT
+WName Lonrya~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Save  -31
+Alig  -1000
+Hit   62
+ACs 80 80 80 80
+Attr 14 14 17 20 15
+AMod 0 0 0 0 0
+Pass LohZMnmTGbCoM~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 55
+TSex 2
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 16 32 32
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'charm person'
+Sk 1 'energy drain'
+Sk 75 'dagger'
+Sk 1 'assassinate'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 64 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'armor'   0 250  89 -20  17          0
+Affc 'bless'   0 247 111 -31  20          0
+Affc 'bless'   0 247 111  62  18          0
+End
+
+#END

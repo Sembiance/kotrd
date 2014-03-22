@@ -1,0 +1,344 @@
+#PLAYER
+Name Brokk~
+Id   1087248914
+LogO 1097269089
+Vers 5
+Prom <%h/%H{rhp %m/%M{bm{x %vmv *%X*> [%ggp %ssp] %K ~
+Race Dwarf~
+Sex  1
+Cla  5
+OCla -1
+Levl 12
+OldLvl 12
+Sec  0
+Plyd 16515
+Not  1097238342 1097207686 1097019944 0
+Scro 0
+Room 9563
+HMV  217 217 125 125 166 166
+Gold 310
+Silv 12786
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 12
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  30557
+PAct  DGQTd
+AfBy F
+Empower  0
+WName Brokk~
+Comm LMNO
+Deaf DP
+Pos  8
+Prac 2
+Trai 1
+Alig  0
+Hit   1
+ACs 84 82 82 100
+Attr 21 16 18 14 21
+AMod 0 0 1 0 1
+Pass Br8Ry9suUemTs~
+Titl  the newbie.~
+Pnts 65
+TSex 1
+PSize 2
+LLev 3
+HMVP 217 125 166
+Cnd  0 0 0 0
+Alias h chat~
+Alias wh who~
+Alias gc get all cor~
+Alias / recal~
+Alias 1 kick~
+Alias dr drink~
+Sk 1 'giant strength'
+Sk 77 'sword'
+Sk 1 'dagger'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 75 'enhanced damage'
+Sk 1 'kick'
+Sk 16 'dodge'
+Sk 1 'parry'
+Sk 72 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'warrior spells'
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#END

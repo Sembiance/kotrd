@@ -1,0 +1,1403 @@
+#AREADATA
+Name Arachnos~
+Builders Mahatma~
+VNUMs 6200 6399
+Credits ..........~
+Security 8
+Flags F
+LEVELs 5 25
+End
+
+
+
+#MOBILES
+#6301
+spider young~
+the young spider~
+{cThe young spider is ballooning by you.{x
+~
+He looks freshly hatched and sprightly.  His young fangs are just
+growing in as of late.
+~
+Human~
+ACG D 0 0
+0
+5 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+EFNU 0 0 0
+stand stand female 5
+AHMV ABCDEFGHIJKMV medium unknown
+#6302
+dragon Yevaud~
+Yevaud~
+{cYevaud the Usurper of Midgaard is here, grinning evilly at you.{x
+~
+Old, scaly, but still with a lot of bite in him left.
+~
+dragon~
+ABCFGT DFT -1000 0
+0
+25 50 1d1+900 12d9+100 1d1+30 maim
+-4 -4 -4 -4
+EMNOU HIQ 0 GN
+stand stand male 500
+BCHZ ACDEFKPQUVWXZ large unknown
+F aff J
+F res BEH
+F for A
+F par GHIJ
+#6303
+spider wolf~
+the Wolf Spider~
+{cThe Wolf Spider is here, licking its bloody fangs.{x
+~
+The Wolf Spider is hairy, very hairy.
+~
+Human~
+ABF 0 -300 0
+0
+6 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand female 62
+AHMV ABCDEFGHIJKMV medium unknown
+#6304
+orc~
+the orc~
+{cThe orc is stuck in the web and he can't get out.{x
+~
+You notice an evil look in his eyes.
+~
+orc~
+AB J -400 0
+0
+5 0 2d6+60 2d9+100 1d6+1 none
+5 5 5 9
+EFNR 0 Q S
+stand stand male 5
+AHMV ABCDEFGHIJKMV medium unknown
+#6305
+wasp queen~
+the Queen Wasp~
+{cThe Queen Wasp is here, thinking that you would make a tasty offering
+to her master.{x
+~
+You notice a glazed look in her eyes.
+~
+Human~
+ABF 0 -800 0
+0
+12 0 2d10+150 6d9+100 1d10+3 none
+0 0 0 8
+EFNU 0 0 0
+stand stand female 75
+AHMV ABCDEFGHIJKMV medium unknown
+#6306
+spider drone~
+the drone spider~
+{cThe drone spider walks around doing her master's bidding.{x
+~
+An ordinary drone spider.
+~
+Human~
+ACG 0 -300 0
+0
+6 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJKMV medium unknown
+#6307
+spider ethereal~
+the ethereal spider~
+{cThe ethereal spider strides here, traveling to different worlds.{x
+~
+She winks in and out.
+~
+Human~
+ACG 0 1000 0
+0
+10 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+EFNU 0 0 0
+stand stand female 62
+AHMV ABCDEFGHIJKMV medium unknown
+#6308
+slave human~
+the slave of Arachnos~
+{cThe slave works here relentlessly.{x
+~
+The slave does not mind you, but will fight like a warrior if attacked.
+~
+Human~
+ACG 0 0 0
+0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJKMV medium unknown
+#6309
+quasit~
+the quasit~
+{cThe quasit blinks in and out, grinning at you.{x
+~
+Demoniac in nature, but more mischievous.  He twiddles his thumbs
+and creates a magical treasure!
+~
+Human~
+ACEH BDP 1000 0
+0
+10 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+EFNU 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJKMV medium unknown
+#6310
+spider bird~
+the Bird Spider~
+{cThe Bird Spider snaps its powerful jaws.{x
+~
+The Bird Spider has very powerful jaws.
+~
+Human~
+ABF 0 -800 0
+0
+14 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+EFNU 0 0 0
+stand stand female 87
+AHMV ABCDEFGHIJKMV medium unknown
+#6311
+hermit~
+the Hermit~
+{cThe Hermit sits here and warns, "Go back before it's too late!"{x
+~
+A dishevelled veteran warrior in disguise is what he is, but he
+means well.
+~
+Human~
+ABC D -400 0
+0
+7 0 2d6+85 3d9+100 1d8+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand male 37
+AHMV ABCDEFGHIJKMV medium unknown
+#6312
+donjonkeeper~
+the Donjonkeeper~
+{cThe Donjonkeeper eyes you and wonders how pure your soul is.{x
+~
+He delves deeper into you as you stare at him.
+~
+Human~
+ABC D 1000 0
+0
+25 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#6313
+guardian~
+The guardian~
+{cThe guardian is obviously not doing his job.{x
+~
+He looks like a lazy bum who sleeps half the time.
+~
+Human~
+AFG P 250 0
+0
+17 0 3d9+258 8d9+100 3d4+4 none
+-3 -3 -3 7
+EFNU 0 0 0
+stand stand male 80
+AHMV ABCDEFGHIJKMV medium unknown
+#6314
+spider empress arachnos~
+Arachnos~
+{cArachnos the Empress of Spiders welcomes you with an evil smile.{x
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+Human~
+ABF BD -1000 0
+0
+26 0 5d10+600 13d9+100 3d7+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#6315
+ki-rin~
+the Ki-Rin~
+{cThe Ki-Rin smiles good-naturedly to you.{x
+~
+She is the last bastion of good in this realm.  Her mission is to
+someday free the slaves of the Empress.
+~
+Human~
+ABC D 1000 0
+0
+26 0 5d10+600 13d9+100 3d7+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand female 750
+AHMV ABCDEFGHIJKMV medium unknown
+#6316
+dragon wormkin young~
+the young dragon wormkin~
+{cA wormkin with no teeth plays here.{x
+~
+Rather small, you almost feel sad in killing it.
+~
+dragon~
+AB DFJT 1000 0
+0
+10 0 2d7+121 5d9+100 2d4+2 none
+1 1 1 8
+EFNR HIJQ BEHJKL FOP
+stand stand male 50
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+#6317
+dragon wormkin medium~
+the medium dragon wormkin~
+{cA wormkin that has grown a bit stares at you inquisitively.{x
+~
+A medium-sized dragon--seems it hasn't killed anything yet by itself.
+~
+dragon~
+AB DFJT 100 0
+0
+13 0 2d10+170 6d9+100 2d5+3 none
+-1 -1 -1 8
+EFNR HIJQ BEHJKL FOP
+stand stand male 250
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+#6318
+spider poisonous~
+the huge, poisonous spider~
+{cA huge, poisonous spider is here.{x
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface and
+sharp poisonous fangs to paralyze or kill its prey.
+~
+Human~
+ABG 0 -350 0
+0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKMV medium unknown
+#6319
+queen spider~
+the Queen Spider~
+{cThe huge, bulky Queen Spider is here.{x
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+Human~
+ABG D -1000 0
+0
+15 0 3d9+208 7d9+100 2d6+3 none
+-2 -2 -2 7
+EFNU 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#6303
+headdress pontiff's~
+a pontiff's headdress~
+A white cone-shaped head ornament with religious symbols lies here.~
+SELECT_A_MATERIAL armor FG AE
+BC BC BC AB 0
+18 50 4600 P
+A
+17 -2
+A
+4 2
+#6304
+visor black knight's~
+{DA Black Knight's Visor{x~
+{DAn evil looking visor has been left on the ground here...{x~
+MITHRIL armor FGLQTWY AE
+ABCD ABCD ABCD ABCD 0
+24 15 1500 P
+A
+1 4
+A
+18 5
+A
+19 7
+#6308
+coins silver gold~
+a big pile of coins~
+A big pile of coins is lying here.~
+SELECT_A_MATERIAL money 0 A
+CEFGHI CE 0 0 0
+0 0 0 P
+#6309
+potion blue~
+a blue potion~
+A blue potion has been left here.~
+SELECT_A_MATERIAL potion G A
+15 'cure poison' 'cure critical' 'cure critical' ''
+10 20 700 P
+E
+potion blue~
+It has a nice sky blue colour and a smell like peppermint.
+~
+#0
+
+
+
+#ROOMS
+#6200
+{MOn the spider web{x~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the south leads a strand to a cave-like structure made from
+many layers of a spider web.  Another silky strand continues to the north.
+~
+0 9 6
+E
+web~
+The immense spider web moves softly.
+~
+D0
+~
+~
+0 0 6201
+D2
+~
+~
+0 0 15964
+C 0
+S
+#6201
+{MOn the spider web{x~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the north leads a strand to a cave-like structure made from
+many layers of a spider web.
+~
+0 9 6
+E
+web~
+The immense spider web moves softly.
+~
+D2
+~
+~
+0 0 6200
+D3
+~
+~
+0 0 6202
+C 0
+S
+#6202
+{MOn the spider web{x~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the east leads a strand to a cave-like structure made from
+many layers of a spider web.
+~
+0 9 6
+E
+web~
+The immense spider web moves softly.
+~
+D0
+~
+~
+0 0 6203
+D1
+~
+~
+0 0 6201
+C 0
+S
+#6203
+{MOn the spider web{x~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place. A single silky strand lead to the south, while another leads
+off into the northern direction.
+~
+0 9 6
+E
+web~
+The immense spider web moves softly.
+~
+D0
+~
+~
+0 -1 6301
+D2
+~
+~
+0 0 6202
+C 0
+S
+#6301
+{MWebbed Entrance{x~
+Sticky, sticky, sticky!  The ground is cluttered with leaves, decayed
+remains of webbed crickets, beetle, rats, dogs (?), and even humans.
+You begin to wonder about what lies ahead.  The air is damp here,
+and even the little light that shines through the canopy seems
+absorbed into the webbing.
+~
+0 4 1
+D0
+~
+~
+0 -1 6302
+D2
+~
+~
+0 -1 6203
+C 0
+S
+#6302
+{MWebby Passage{x~
+You find that footing here is very good, almost too good.  The
+limbs are coated with cobwebs and seem unusually strong for tree
+branches.  Paths lead in four directions.  The eastward path goes
+down a bit.
+~
+0 0 1
+D0
+~
+~
+0 -1 6304
+D1
+~
+~
+0 -1 6305
+D2
+~
+~
+0 -1 6301
+D3
+~
+~
+0 -1 6303
+C 0
+S
+#6303
+{MWasp Hive{x~
+Drones scuttle about in this room.  The cells on the walls
+are honeycomb in shape and many of the maggots and wasps you see
+have fang-marks on there bodies.  You sense some order in their markings.
+~
+0 8 1
+D1
+~
+~
+0 -1 6302
+C 0
+S
+#6304
+{MWebby Passage{x~
+Another webby passage, all sticky and wet.  Tiny ballooning
+spiders fill the air.  It seems that these young ones are newborns.
+~
+0 8 1
+D2
+~
+~
+0 -1 6302
+C 0
+S
+#6305
+{MBeneath the Busy Path{x~
+You hear the sounds of crawling arachnids above.  The rhythms of
+the footsteps suggest a primitive order in their movement.  The light
+seems brighter upwards.
+~
+0 8 1
+D3
+~
+~
+0 -1 6302
+D4
+~
+~
+0 -1 6306
+C 0
+S
+#6306
+{MOn the Busy Path{x~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency
+with one big difference.  The spiders here are carrying ant-corpses,
+as well as rats, wolves, and humans.
+~
+0 8 1
+D2
+~
+~
+0 -1 6307
+D5
+~
+~
+0 -1 6305
+C 0
+S
+#6307
+{MOn the Busy Path{x~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency with
+one big difference.  The spiders here are carrying ant-corpses, as well as
+cats, wolves, and humans.  
+~
+0 8 1
+D0
+~
+~
+0 -1 6306
+D1
+~
+~
+0 -1 6308
+C 0
+S
+#6308
+{MOn the Busy Path{x~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency
+with one big difference.  The spiders here are carrying ant-corpses,
+as well as cats, dogs, and humans.
+~
+0 8 1
+D1
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6307
+C 0
+S
+#6309
+{MA Split in the Path{x~
+As always, there is a split in the road.  One road is strewn
+with cricket feelers.  The other is well-kept and suitable for smooth
+travelling.  The webbing that was prevalent in earlier rooms is almost
+non-existent now.
+~
+0 8 1
+D0
+~
+~
+0 -1 6310
+D2
+~
+~
+0 -1 6320
+D3
+~
+~
+0 -1 6308
+C 0
+S
+#6310
+{MFuzzy Tree Limb{x~
+You are on a "fuzzy" tree limb.  Interesting, since the branches
+seem to have "hairs" sprouting from its bark.  As you look
+closer you see millions of aphids covering each limb.
+~
+0 8 1
+D2
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6311
+C 0
+S
+#6311
+{MTree Trunk{x~
+You feel that you can rest here safely.  There is evidence of
+webbing here, but it is of a finer quality.
+~
+0 8 1
+D1
+~
+~
+0 -1 6310
+D2
+~
+~
+0 -1 6312
+C 0
+S
+#6312
+{MTree Lair Entrance{x~
+It seems the inhabitant of this place does not web her
+victims, as evidenced by the remains before you.  The area
+is cluttered with desiccated corpses, apparently bitten
+but unwebbed, and drained of their life juices.
+~
+0 8 1
+D0
+~
+~
+0 -1 6311
+D3
+~
+~
+0 -1 6313
+C 0
+S
+#6313
+{MWolf Spider Lair{x~
+Very dark, as all lairs of spiders are.  Not much of furnishings
+save an exit.  The wolf spider keeps no corpses here, but rather
+throws them out at her leisure.
+~
+0 8 1
+D1
+~
+~
+0 -1 6312
+C 0
+S
+#6320
+{MThe Webless Path{x~
+Strange.  No webbing here.  In fact, no sounds whatsoever.
+The path continues northward, where you find that you may have to
+tightrope your way across a ravine.
+~
+0 8 1
+D0
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6321
+C 0
+S
+#6321
+{MAbove the Ravine{x~
+Stranger still.  Your feet get a real firm grip on the spiderline.
+You are above a deep ravine.  This line connects you between two trees.
+Below you can see a prismatic web with lots of animal bones caught in it:
+some bear and small deer bones in fact.  No human skeletons are visible
+(yet).
+~
+0 8 1
+D1
+~
+~
+0 -1 6320
+D2
+~
+~
+0 -1 6323
+D5
+~
+~
+0 -1 6322
+C 0
+S
+#6322
+{MThe Rainbow Web{x~
+This is the rainbow web--each strand, each link, a hue of violently
+sharp colors and contrasts.  The resident here seems to have a command
+of light as well.
+~
+0 8 1
+D4
+~
+~
+0 -1 6321
+C 0
+S
+#6323
+{MThe Web Forest{x~
+The trees here take on a different appearance--they are not trees
+anymore, but disjointed make-shift silken made shafts, sticky to the touch,
+and webby in texture.  This is another world it would appear.
+~
+0 8 1
+D0
+~
+~
+0 -1 6321
+D5
+~
+~
+0 -1 6324
+C 0
+S
+#6324
+{MThe Slave Pit{x~
+You have entered the slave pit.  A voice blares in the distance,
+"Get back to work, maggots!"  Rails upon rails of mined gold and silver
+clutter the trail beneath you.
+~
+0 8 1
+D0
+~
+~
+0 -1 6325
+D4
+~
+~
+0 -1 6323
+C 0
+S
+#6325
+{MThe Tether Path{x~
+Another tether path just like the rest of them.  Surprisingly well
+-lit by the golden orbs that hang from the sides, you can see the paths
+become finer and finer in quality.
+~
+0 8 1
+D1
+~
+~
+0 -1 6326
+D3
+~
+~
+0 -1 6324
+C 0
+S
+#6326
+{MA Road Crossing{x~
+Another shifty little strand of webs, almost ethereal in nature.
+~
+0 0 2
+D3
+~
+~
+0 -1 6325
+D4
+~
+~
+0 -1 6327
+C 0
+S
+#6327
+{MA Leader Strand{x~
+This strand is weightier, more sturdy.  It shimmers as you step on
+it.  You are definitely not in the Midgaardian realms anymore.  Just
+where you are you can't tell.  It feels like you're moving through
+ether.  You can still get back down to more surer lands.
+~
+0 0 2
+D0
+~
+~
+0 -1 6328
+D5
+~
+~
+0 -1 6326
+C 0
+S
+#6328
+{MThe Entrance of the Ethereal Web{x~
+You are at the entrance to ethereal web.  Flickering in and out,
+in and out, each strand reveals a different hue from black to green
+to blue.
+~
+0 0 2
+D2
+~
+~
+0 -1 6327
+D5
+~
+~
+0 -1 6331
+C 0
+S
+#6330
+{MThe Young Wormkin's Crib{x~
+A playpen of sorts, with maggots of wasps and other baby vermin
+lying about.  You feel that humans have been played with here too,
+and eaten later.  You sense that the maker of this place has
+an appetite for dragon meat, and uses this room as a breeding
+area.
+~
+0 0 2
+D2
+~
+~
+0 -1 6331
+C 0
+S
+#6331
+{MThe Base of the Web{x~
+Large strands connect at this point.  The node shimmers and
+flickers within the ether.  You see many flying creatures--
+insects, pegasi, and dragon wormkins--navigate the dangerous
+passages of the web.  Exits go in many directions.
+~
+0 0 2
+D0
+~
+~
+0 -1 6330
+D1
+~
+~
+0 -1 6332
+D2
+~
+~
+0 -1 6333
+C 0
+S
+#6332
+{MThrough the Trees{x~
+This part of the web intersects through the branches of some
+trees.  Various leaves and other debris that the many drones
+have not picked up yet lie here.
+~
+0 0 2
+D3
+~
+~
+0 -1 6331
+C 0
+S
+#6333
+{MAbove the Clouds{x~
+You can see all of Midgaard in this ethereal web.  Many
+of the larger dragons that do wish to fly seem to fly
+away from the sticky strands of the web.
+~
+0 0 2
+D0
+~
+~
+0 -1 6331
+D2
+~
+~
+0 -1 6334
+D3
+~
+~
+0 -1 6335
+C 0
+S
+#6334
+{MOn A Cloud{x~
+Rather thick in consistency.  You realize this is not
+a typical cloud, but it might be the nest of an aerial creature.
+~
+0 0 2
+D0
+~
+~
+0 -1 6333
+C 0
+S
+#6335
+{MA Link in the Ethereal Web{x~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.
+~
+0 0 2
+D1
+~
+~
+0 -1 6333
+D3
+~
+~
+0 -1 6336
+C 0
+S
+#6336
+{MThe Tenuous Strand{x~
+Very windy here since it goes up into the sky somewhat.
+Still, it's safe enough to move around.
+~
+0 0 2
+D1
+~
+~
+0 -1 6335
+D2
+~
+~
+0 -1 6340
+D3
+~
+~
+0 -1 6341
+C 0
+S
+#6340
+{MThe Elder Wormkin's Room{x~
+A more mature wormkin it seems resides here.  Various tomes of
+arcane lore clutter the area, along with shards of armor and weaponry.
+~
+0 0 2
+D0
+~
+~
+0 -1 6336
+C 0
+S
+#6341
+{MAnother Tree Limb{x~
+Once again the web crosses another tree limb.  To the side you
+see the possible entrance to another creatures lair.
+~
+0 0 2
+D1
+~
+~
+0 -1 6336
+D2
+~
+~
+0 -1 6342
+D3
+~
+~
+0 -1 6345
+C 0
+S
+#6342
+{MThe Bird Spider's Lair{x~
+This is a big game hunter among most spiders.  Crush jewels
+and other weapons suggest the inhabitant must have powerful jaws.
+Beware!
+~
+0 0 2
+D0
+~
+~
+0 -1 6341
+C 0
+S
+#6345
+{MA Link in the Ethereal Web{x~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.
+~
+0 0 2
+D1
+~
+~
+0 -1 6341
+D2
+~
+~
+0 -1 6350
+D3
+~
+~
+0 -1 6346
+C 0
+S
+#6346
+{MThe Quiet Tree Top{x~
+Here is a quiet tree top.
+~
+0 0 2
+D1
+~
+~
+0 -1 6345
+D3
+~
+~
+0 -1 6347
+C 0
+S
+#6347
+{MOn The Web{x~
+RRRRRRRRRRROOOOOOOOOOOOOAAAAAAAAAAAAAARR!  You hear the roar
+of a powerful beast.  Dragon, you think.  You shiver in your boots
+as you tiptoe on this section of the web.
+~
+0 0 2
+D1
+~
+~
+0 -1 6346
+D2
+~
+~
+0 -1 6355
+C 0
+S
+#6350
+{MThe Ki-Rin Chamber{x~
+A wise ki-rin was entrapped here many years ago.  It is from her
+that the ruler of this realm steals his magical strength.
+~
+0 8 1
+D0
+~
+~
+0 -1 6345
+C 0
+S
+#6355
+{MA Link in the Ethereal Web{x~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.  To
+the north you sense the heavy breathing of a fiery animal.
+~
+0 0 2
+D0
+~
+~
+0 -1 6347
+D3
+~
+~
+0 -1 6360
+D4
+~
+~
+0 -1 6365
+C 0
+S
+#6360
+{MYevaud's Lair{x~
+Yevaud, the Usurper of Midgaard, resides here.  A voice cries
+out, "BEWARE, the Usurper of Midgaard lives here!  FLEE while you can!"
+But even Yevaud has his master...or so you deduce.
+~
+0 8 1
+D1
+~
+~
+0 -1 6355
+C 0
+S
+#6365
+{MA Link in the Ethereal Web{x~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.  A single
+spider line lies to the north, while ghastly seemings are due
+southward.  The grim entrance of Arachnos' Lair is downward.
+~
+0 0 2
+D0
+~
+~
+0 -1 6371
+D2
+~
+~
+0 -1 6366
+D4
+~
+~
+0 -1 6390
+D5
+~
+~
+0 -1 6355
+C 0
+S
+#6366
+{MEntrance to the Donjonkeep{x~
+A dark path at the end of the web strand, you see ahead
+a torch lit chamber where the souls of unavenged adventurers
+come and gnash their teeth.  The howls and screams of many echo
+through the hall ways.  You see one definite path ahead.
+~
+0 0 2
+D1
+~
+~
+0 -1 6367
+C 0
+S
+#6367
+{MThe Guardian's Room{x~
+A chair sits here for a tireless guardian who ensures that no
+soul escapes.  The room is undecorated.
+~
+0 8 1
+E
+chair~
+An ordinary chair, well used, glued to the ground by spiderweb.
+~
+D1
+~
+~
+0 -1 6368
+D3
+~
+~
+0 -1 6366
+C 0
+S
+#6368
+{MRealm of the Hopeless{x~
+Here you see many misguided souls who think they still live.
+They search for those who killed them without warrant, and seek the
+free souls of living beings to inhabit and perhaps adventure once
+more.
+~
+0 0 2
+D1
+~
+~
+0 -1 6369
+D3
+~
+~
+0 -1 6367
+C 0
+S
+#6369
+{MRealm of the Hopeless{x~
+Here you see many misguided souls who think they still live.
+They search for those who killed them without warrant, and seek the
+free souls of living beings to inhabit and perhaps adventure once
+more.
+~
+0 0 2
+D1
+~
+~
+0 -1 6370
+D3
+~
+~
+0 -1 6368
+C 0
+S
+#6370
+{MThe Donjonkeep{x~
+No souls have ever lived in this place.  The wails of slaves
+and the howls of wolves are the only way you can describe the sounds
+you hear.  The walls are thin and wispy.  The only light you receive
+is the shimmering from the strand of the ethereal web you used to get
+here.
+~
+0 8 1
+D1
+~
+~
+0 -1 6371
+D3
+~
+~
+0 -1 6369
+C 0
+S
+#6371
+{MThe Single Spider Line{x~
+A single spider line supports you once more.  As you look
+across the ether you seen a single shack up ahead with a light in
+the window.  You sense a great evil coming from the east and feel
+inclined to go back on the ethereal web and take your chances there.
+~
+0 0 2
+D1
+~
+~
+0 -1 6372
+D3
+~
+~
+0 -1 6370
+C 0
+S
+#6372
+{MThe Single Spider Line{x~
+A single spider line supports you once more.  The shack comes
+closer into view and you are even more inclined to go back now.
+~
+0 0 2
+D1
+~
+~
+0 -1 6373
+D3
+~
+~
+0 -1 6371
+C 0
+S
+#6373
+{MThe Hermit's Corner{x~
+Here you see evidence of a vagrant's abode.  The shack is to the
+east, if you dare enter it.  You get the sneaking feeling you should
+go back now.  The skies above you darken and roar with the laughter
+of thunder.
+~
+0 8 1
+D1
+~
+~
+0 -1 6380
+D3
+~
+~
+0 -1 6372
+C 0
+S
+#6380
+{MMahatma's Inescapable Trap{x~
+Mahatma, that silly thief, is here, and he steals everything you
+have.  He says, 'Here, have a quick trip to the Temple of Midgaard.'
+He plunges a black dagger into your back ...
+asave changed
+~
+0 4 1
+E
+dt~
+Your blood flows through the gaping wound, leaving you weak!
+~
+C 0
+S
+#6390
+{MThe Entrance to the Arachnos' Lair{x~
+All strands inevitably lead here, the center of the web, the
+entrance to Arachnos' Lair.
+~
+0 8 1
+D0
+~
+~
+0 -1 6391
+D5
+~
+~
+0 -1 6365
+C 0
+S
+#6391
+{MThe Sticky Chamber{x~
+You can still bail out since your knees are shaking from the
+anticipation (or is it fear?).  The sky is clear on this strand of
+web, surprisingly unsticky.  The strand does not vibrate like the
+others.  A few ballooning spiders pass by, cackling "You're gonna
+die, you're gonna fry.  Good bye!"
+~
+0 0 2
+D0
+~
+~
+0 -1 6392
+D2
+~
+~
+0 -1 6390
+C 0
+S
+#6392
+{MThe Great Door{x~
+Before you you see a large, web-like door.  Various designs
+of ancient runes and names of Midgaard heroes are etched into
+the webwork.  Perhaps lists of victims?  You can't tell.
+~
+0 8 1
+D0
+~
+door north~
+1 0 6399
+D2
+~
+~
+0 -1 6391
+C 0
+S
+#6399
+{MThe Lair of Arachnos{x~
+This is the lair of the Empress Spider, Arachnos.  A lavishly
+adorned rainbow web, her lair allows her to move to any universe
+she wishes by using her magical strands to the Prime Material Plane.
+Coffers upon coffers of gold, magical jewels and gems await.  Unfor-
+tunately Arachnos is a baggy spider too, and webs all her treasures
+to her beautiful silken body.
+~
+0 8 1
+D2
+~
+door south~
+1 0 6392
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 6302 spec_breath_gas
+M 6314 spec_breath_gas
+M 6316 spec_breath_gas
+M 6317 spec_breath_gas
+M 6318 spec_poison
+M 6319 spec_poison
+S
+
+
+
+#RESETS
+D 0 6392 0 1
+D 0 6399 2 1
+M 0 6301 8 6301 2
+M 0 6305 1 6303 1
+M 0 6301 8 6304 2
+M 0 6301 8 6306 2
+M 0 6301 8 6306 2
+M 0 6308 5 6308 5
+M 0 6308 5 6308 5
+M 0 6308 5 6308 5
+M 0 6308 5 6308 5
+M 0 6308 5 6308 5
+M 0 6303 1 6313 1
+M 0 6306 3 6321 1
+M 0 6309 2 6327 2
+M 0 6306 3 6330 1
+M 0 6316 1 6330 1
+M 0 6306 3 6331 1
+M 0 6304 1 6332 1
+M 0 6307 4 6333 2
+M 0 6307 4 6335 2
+M 0 6317 1 6340 1
+M 0 6310 1 6342 1
+M 0 6315 1 6350 1
+G 0 6309 0
+G 0 6309 0
+M 0 6302 1 6360 1
+G 0 6304 0
+M 0 6313 1 6367 1
+M 0 6312 1 6370 1
+G 0 6309 0
+M 0 6311 1 6373 1
+M 0 6314 1 6399 1
+G 0 6303 0
+G 0 6304 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

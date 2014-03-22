@@ -1,0 +1,557 @@
+#PLAYER
+Name Vaan~
+Id   1167464270
+LogO 1167874327
+Vers 5
+Prom <%hhp %mm %vmv %X %K> ~
+Race Dwarf~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 4
+OldLvl 4
+Sec  0
+Plyd 4231
+Scro 33
+Room 3001
+HMV  80 80 106 106 118 118
+Gold 43
+Silv 72
+Gold_bank 108838
+Silv_bank 0
+Shares 0
+Share_level 4
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  6251
+PAct  DEFGQTd
+AfBy DF
+WName Vaan~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Save  -31
+Alig  1000
+Hit   67
+Dam   4
+ACs 63 61 61 79
+Wimp  9
+Attr 18 12 18 13 21
+AMod 2 1 2 1 1
+Pass VaXfAfA0S2g0s~
+Titl  is Teh Pwn.~
+Pnts 50
+TSex 1
+PSize 2
+LLev 0
+HMVP 72 106 118
+Cnd  0 0 0 0
+Alias p prac~
+Alias r rest~
+Boards       4 General 1166924303 Ideas 1158582947 Announce 0 Personal 0 
+Sk 75 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 75 'sword'
+Sk 1 'berserk'
+Sk 1 'dodge'
+Sk 10 'shield block'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 1 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+Affc 'armor'   0 248  79 -20  17          0
+Affc 'bless'   0 248 112 -31  20          0
+Affc 'bless'   0 247 112  62  18          0
+Affc 'detect invis'   0  18   6   0   0          8
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 23452
+Nest 0
+Name Christmas bag sack goody back Alucinor~
+ShD  a {GC{Rh{Gr{Ri{Gs{Rt{Gm{Ra{Gs {RG{Go{Ro{Gd{Ry{G!{x~
+Desc A {GC{Rh{Gr{Ri{Gs{Rt{Gm{Ra{Gs {RG{Go{Ro{Gd{Ry{G{x sits here, waiting to be opened!~
+Cond 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 3138
+Nest 1
+Name bota water Alucinor~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 18611
+Nest 1
+Name hide skin Alucinor~
+Cond 0
+Wear -1
+Cost 366
+End
+
+#O
+Vnum 5644
+Nest 1
+Name talon extenders talons Alucinor~
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 1
+Name shield spiked Alucinor~
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 850
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 652
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 506
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 966
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 844
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 688
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 967
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23430
+Nest 1
+Name potion Alucinor~
+ShD  a potion of strange origin.~
+Desc A potion of strange origin is here.~
+Cond 0
+Wear -1
+Time 731
+Cost 1
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'displacement'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 552
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 970
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 936
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 537
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 887
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 645
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 703
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 23453
+Nest 1
+Name a potion Alucinor~
+ShD  a moldy potion.~
+Desc A moldy potion lies here.~
+Cond 0
+Wear -1
+Time 746
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'haste'
+Spell 3 'bless'
+End
+
+#O
+Vnum 14506
+Nest 0
+Name everlasting lantern dwarven Alucinor~
+Cond 0
+Wear 0
+Cost 150
+Val  0 0 33 0 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Name ring pink ice Alucinor~
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6601
+Nest 0
+Name ring pink ice Alucinor~
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 15724
+Nest 0
+Name collar Alucinor~
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Name collar Alucinor~
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 3016
+Nest 0
+Name pouch waist legendary Alucinor~
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#END

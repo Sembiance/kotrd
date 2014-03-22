@@ -1,0 +1,1749 @@
+#PLAYER
+Name Raxin~
+Id   1093393370
+LogO 1140640953
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Sidhe Elf~
+Sex  1
+Cla  1
+AlertMe  1
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 0
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 957758
+Scro 27
+Room 3054
+HMV  10452 10452 6856 6856 6561 6561
+Gold 6637
+Silv 50798
+Gold_bank 1633812
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200013
+QuestPnts 32334
+PAct  DGHTbd
+AfBy DFV
+WName Raxin~
+Comm IKNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 347
+Trai 18
+Save  -194
+Alig  -332
+Hit   391
+Dam   424
+ACs -1583 -1583 -1583 -1573
+Attr 27 27 27 27 27
+AMod 35 9 6 33 3
+Pass RaXnrBOG.HLOQ~
+Titl  Im a worthless piece of {rd{wo{Bn{Mk{We{Dy{Md{Wo{Yo{Gd{Co{Wo{x!!~
+Pnts 40
+TSex 1
+PSize 2
+LLev 185
+HMVP 985 939 744
+Cnd  0 0 -1 -1
+Boards       4 General 1140166050 Ideas 1126580477 Announce 1114049929 Personal 1108922989 
+Sk 83 'magic missile'
+Sk 28 'chill touch'
+Sk 80 'burning hands'
+Sk 83 'shocking grasp'
+Sk 85 'colour spray'
+Sk 79 'fireball'
+Sk 89 'acid blast'
+Sk 89 'spellfire'
+Sk 77 'orb of chaos'
+Sk 75 'chain lightning'
+Sk 77 'wyldstryke'
+Sk 83 'acid storm'
+Sk 73 'wail of the banshee'
+Sk 87 'torment of cold'
+Sk 75 'sonic scream'
+Sk 28 'ventriloquate'
+Sk 1 'recharge'
+Sk 75 'sleep'
+Sk 75 'enchant armor'
+Sk 76 'enchant weapon'
+Sk 77 'charm person'
+Sk 75 'haste'
+Sk 75 'pass door'
+Sk 19 'portal'
+Sk 14 'nexus'
+Sk 89 'lightning bolt'
+Sk 46 'cure light'
+Sk 1 'change sex'
+Sk 84 'cure blindness'
+Sk 81 'bless'
+Sk 75 'cure serious'
+Sk 83 'protection evil'
+Sk 75 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 77 'cure disease'
+Sk 83 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 76 'heat metal'
+Sk 75 'remove curse'
+Sk 1 'flamestrike'
+Sk 98 'heal'
+Sk 75 'frenzy'
+Sk 1 'demonfire'
+Sk 77 'ray of truth'
+Sk 75 'holy word'
+Sk 1 'mass healing'
+Sk 84 'golden aura'
+Sk 75 'detect evil'
+Sk 75 'detect good'
+Sk 80 'detect hidden'
+Sk 78 'armor'
+Sk 79 'blindness'
+Sk 73 'call lightning'
+Sk 28 'calm'
+Sk 78 'cancellation'
+Sk 28 'continual light'
+Sk 28 'control weather'
+Sk 28 'create food'
+Sk 28 'create rose'
+Sk 1 'create spring'
+Sk 28 'create water'
+Sk 73 'curse'
+Sk 77 'detect invis'
+Sk 28 'detect magic'
+Sk 28 'detect poison'
+Sk 86 'dispel magic'
+Sk 74 'energy drain'
+Sk 28 'faerie fire'
+Sk 28 'faerie fog'
+Sk 28 'farsight'
+Sk 82 'fly'
+Sk 28 'floating disc'
+Sk 100 'gate'
+Sk 40 'giant strength'
+Sk 94 'identify'
+Sk 28 'infravision'
+Sk 28 'invisibility'
+Sk 62 'know alignment'
+Sk 64 'locate object'
+Sk 73 'mass invis'
+Sk 28 'plague'
+Sk 1 'poison'
+Sk 82 'refresh'
+Sk 84 'sanctuary'
+Sk 74 'energy shield'
+Sk 29 'slow'
+Sk 34 'stone skin'
+Sk 100 'summon'
+Sk 86 'teleport'
+Sk 28 'weaken'
+Sk 77 'word of recall'
+Sk 100 'dagger'
+Sk 1 'spear'
+Sk 100 'mace'
+Sk 1 'polearm'
+Sk 100 'dodge'
+Sk 100 'second attack'
+Sk 92 'fast healing'
+Sk 78 'haggle'
+Sk 100 'meditation'
+Sk 1 'scrolls'
+Sk 75 'staves'
+Sk 100 'wands'
+Sk 50 'recall'
+Sk 100 'spellcraft'
+Sk 76 'create zombie'
+Sk 1 'metamorph'
+Sk 86 'multiburst'
+Sk 75 'divine wrath'
+Sk 75 'brew'
+Sk 75 'scribe'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'cleric basics'
+Gr 'mage default'
+Gr 'attack'
+Gr 'beguiling'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6736
+Nest 0
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 6739
+Nest 0
+Cond 0
+Wear 9
+Cost 20000
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 6738
+Nest 0
+Cond 0
+Wear 11
+Cost 15000
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 6730
+Nest 0
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 6734
+Nest 0
+Cond 0
+Wear 17
+Cost 8000
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3035
+Nest 1
+Cond 0
+Wear -1
+Cost 22342
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6734
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 6730
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 4634
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4634
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 53
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6728
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6701
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 21097
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+Spell 3 'lightning breath'
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 25421
+Nest 1
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 13 0 0
+End
+
+#O
+Vnum 3093
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3093
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25500
+Nest 1
+Cond 0
+Wear -1
+Cost 7142
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 3035
+Nest 1
+Cond 0
+Wear -1
+Cost 22342
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 3035
+Nest 1
+Cond 0
+Wear -1
+Cost 22342
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 20402
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6702
+Nest 1
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 6702
+Nest 1
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25421
+Nest 1
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 4642
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+Spell 3 'cancellation'
+End
+
+#O
+Vnum 4628
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 4634
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25329
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4626
+Nest 1
+Cond 0
+Wear -1
+Cost 2595
+End
+
+#O
+Vnum 4631
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4627
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6775
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6775
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5497
+Nest 0
+ExtF 524416
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 11905
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 11905
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6775
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 23401
+Nest 0
+Cond 0
+Wear -1
+Cost 23243
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 6796
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 6701
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 53
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6708
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6759
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6758
+Nest 1
+Cond 0
+Wear -1
+Cost 50050
+End
+
+#O
+Vnum 6759
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6758
+Nest 1
+Cond 0
+Wear -1
+Cost 50050
+End
+
+#O
+Vnum 6703
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6703
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6703
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6738
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6734
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 11903
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6766
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 6766
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 6766
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6757
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6762
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6762
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6762
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6760
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6760
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6760
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6764
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6764
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6764
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6761
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6761
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6763
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6763
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6763
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 20420
+Nest 1
+Cond 0
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6759
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6738
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 11891
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 19219
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19227
+Nest 1
+Cond 0
+Wear -1
+Cost 87500
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6744
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6747
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6743
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6744
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6707
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6711
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6747
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6705
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 25329
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25329
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19207
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 19208
+Nest 1
+Cond 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 6749
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6749
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6798
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 19209
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6758
+Nest 1
+Cond 0
+Wear -1
+Cost 50050
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 1800
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  41
+Cost 500
+Val  2 6 16 30 10
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  40  -1  13  19          0
+Affc 'reserved'   1  40  -1  20  18          0
+Affc 'reserved'   1  40  -1   1   3          0
+Affc 'reserved'   1  40  -1   1   5          0
+Affc 'reserved'   1  40  -1  27  13          0
+End
+
+#O
+Vnum 19800
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Val  10 1 0 10 100
+End
+
+#O
+Vnum 11710
+Nest 0
+Cond 0
+Wear 16
+Cost 12500
+End
+
+#O
+Vnum 19804
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  80
+Cost 37500
+Affc 'reserved'   1  79  -1   2  19          0
+Affc 'reserved'   1  79  -1   4  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#END

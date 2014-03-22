@@ -1,0 +1,394 @@
+#PLAYER
+Name Schalla~
+Id   1116560428
+LogO 1116562375
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Titan~
+Sex  2
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 1947
+Scro 33
+Room 18642
+HMV  23 37 102 102 106 106
+Gold 25
+Silv 970
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3802
+PAct  DEFGHQTd
+AfBy c
+WName Schalla~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Save  -32
+Alig  41
+Hit   63
+ACs 74 70 72 92
+Attr 21 18 20 13 15
+AMod 0 0 2 0 1
+Pass ScOYXuRwFdQZk~
+Titl  says 'I like titles...'~
+Pnts 50
+TSex 2
+PSize 5
+LLev 0
+HMVP 37 102 106
+Cnd  0 0 26 4
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 76 'sword'
+Sk 1 'spear'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 75 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 13 'shield block'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'bless'   0 250 123 -31  20          0
+Affc 'bless'   0 250 123  62  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 180 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18603
+Nest 0
+Cond 0
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear 1
+Cost 200
+End
+
+#O
+Vnum 18604
+Nest 0
+Cond 0
+Wear 12
+Cost 180
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#END

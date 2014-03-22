@@ -1,0 +1,512 @@
+#PLAYER
+Name Demona~
+Id   1087950187
+LogO 1098924151
+Vers 5
+Prom %h/%H %m/%M %V %X %g %s ~
+Race Elf~
+Sex  2
+Cla  4
+OCla -1
+Levl 21
+OldLvl 21
+Sec  0
+Plyd 90899
+Not  1097290882 0 1086662177 0
+Scro 33
+Room 3054
+HMV  304 304 167 167 220 220
+Gold 9849
+Silv 3220
+Gold_bank 0
+Silv_bank 13000
+Shares 0
+Share_level 21
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  29445
+PAct  CDEFGQTd
+AfBy Je
+Empower  0
+WName Demona~
+Comm FNOQ
+Deaf D
+Pos  8
+Prac 9
+Trai 1
+Save  -1
+Alig  -1000
+Hit   2
+Dam   8
+ACs 56 61 60 93
+Wimp  52
+Attr 17 19 19 22 16
+AMod 0 0 0 0 0
+Pass DePs3TiS66dr2~
+Titl  The Cow Goddess~
+Pnts 48
+TSex 2
+PSize 1
+LLev 25
+HMVP 304 167 220
+Cnd  0 12 48 8
+Alias rs read sign~
+Alias ts order thaylog sleep~
+Alias tw order thaylog wake~
+Alias up order wolf stand~
+Alias dn order wolf sleep~
+Alias yell yell {$~
+Sk 1 'invisibility'
+Sk 82 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 77 'kick'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 75 'hide'
+Sk 1 'meditation'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'invisibility spell'
+Affc 'golden aura'   0 499  99   0   0 1073741824
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 3030
+Nest 1
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3053
+Nest 0
+Cond 0
+Wear 13
+Cost 136
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear 11
+Cost 710
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear 2
+Cost 1280
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear 6
+Cost 450
+End
+
+#O
+Vnum 15716
+Nest 0
+Cond 0
+Wear 5
+Cost -900
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 16 0 0 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear 17
+Time 724
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 10301
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 10245
+Nest 0
+Name udder~
+ShD  {WA Holy Udder Cookie{x~
+Desc {WAn udder has been left here.{x~
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3112
+Nest 0
+Cond 0
+Wear 7
+Cost 660
+End
+
+#O
+Vnum 3077
+Nest 0
+Cond 0
+Wear 10
+Cost 420
+End
+
+#O
+Vnum 3113
+Nest 0
+Cond 0
+Wear 8
+Cost 660
+End
+
+#O
+Vnum 31501
+Nest 0
+Cond 0
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 4707
+Nest 0
+Cond 0
+Wear -1
+Time 369
+Cost 0
+End
+
+#O
+Vnum 4708
+Nest 0
+Cond 0
+Wear -1
+Time 368
+Cost 0
+End
+
+#O
+Vnum 4709
+Nest 0
+Cond 0
+Wear -1
+Time 368
+Cost 0
+End
+
+#O
+Vnum 15742
+Nest 0
+Cond 0
+Wear -1
+Time 367
+Cost 0
+End
+
+#O
+Vnum 310
+Nest 0
+Cond 0
+Wear -1
+Time 363
+Cost 0
+Spell 1 'sleep'
+Spell 2 'blindness'
+Spell 3 'fireball'
+End
+
+#O
+Vnum 15151
+Nest 0
+Cond 0
+Wear -1
+Time 356
+Cost 0
+End
+
+#O
+Vnum 623
+Nest 0
+Cond 0
+Wear -1
+Time 250
+Cost 0
+End
+
+#O
+Vnum 1101
+Nest 0
+Cond 0
+Wear -1
+Time 249
+Cost 0
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3351
+Nest 0
+Cond 0
+Wear 16
+Cost 590
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#PET
+Vnum 3097
+Name tiger pet~
+LogO 1098924151
+Desc The large, striped tiger looks like a savage fighter.
+A neck tag says 'I belong to Demona'.
+~
+Sex  1
+HMV  346 346 100 100 100 100
+AfBy FSZ
+Comm W
+Pos  8
+ACs  -40 -40 -40 60
+Attr 16 16 16 18 16
+AMod 0 0 0 0 0
+End
+#END

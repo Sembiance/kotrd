@@ -1,0 +1,621 @@
+#PLAYER
+Name Karishknar~
+Id   1158455899
+LogO 1158637615
+Vers 5
+Prom {D<{X%h/%H{D><{X%m/%M{D><{X%v/%V{D>{YTNL:{D%X {x%K ~
+Race Inccubus~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 8
+OldLvl 8
+Sec  0
+Plyd 7483
+Scro 33
+Room 3001
+HMV  143 143 115 115 192 192
+Gold 365
+Silv 12256
+Gold_bank 6000
+Silv_bank 0
+Shares 0
+Share_level 8
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  14792
+PAct  CDFGQTd
+AfBy TV
+WName Karishknar~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Save  -1
+Alig  -1000
+Hit   1
+Dam   11
+ACs 51 53 53 61
+Attr 20 15 17 15 19
+AMod 2 4 4 2 1
+Pass KaBdNrHNJfq.U~
+Titl  bleh~
+Pnts 56
+TSex 1
+PSize 2
+LLev 1
+HMVP 135 115 142
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 78 'sword'
+Sk 1 'dagger'
+Sk 75 'bash'
+Sk 1 'dual wield'
+Sk 75 'enhanced damage'
+Sk 1 'kick'
+Sk 22 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 87 0 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 711
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4712
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 892
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 593
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 598
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 787
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 624
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 933
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 551
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 961
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 765
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 597
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 743
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 573
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#END

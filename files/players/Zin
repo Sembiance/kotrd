@@ -1,0 +1,508 @@
+#PLAYER
+Name Zin~
+Id   1087177336
+LogO 1091323497
+Vers 5
+Prom <%hhp> -%mm-  [%vmv] -%Xxp- <%e> ||%K|| ~
+Race Kender~
+Clan Shadow~
+Sex  1
+Cla  3
+OCla -1
+Levl 29
+OldLvl 29
+Sec  0
+Plyd 90762
+Not  1090445404 1088890068 1089276313 0
+Scro 33
+Room 2520
+HMV  843 843 516 516 518 518
+Gold 89
+Silv 317
+Gold_bank 3000
+Silv_bank 0
+Shares 0
+Share_level 29
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  44254
+PAct  CFGHQTcd
+AfBy FHV
+Empower  0
+WName Zin~
+Comm EKMNOQ
+Deaf D
+Pos  8
+Prac 10
+Trai 13
+Alig  -1000
+Hit   22
+Dam   32
+ACs -6 3 -4 72
+Wimp  25
+Attr 15 18 18 25 16
+AMod 7 0 0 6 0
+Pass ZiG0lvu0TCIo6~
+Titl  Quick's Apprentice~
+Pnts 50
+TSex 1
+PSize 1
+LLev 24
+HMVP 285 166 268
+Cnd  0 0 0 0
+Alias sa say~
+Alias ud #w4s3w8s2e4s5d~
+Alias ct clan~
+Alias clan ct~
+Sk 1 'identify'
+Sk 78 'dagger'
+Sk 75 'backstab'
+Sk 75 'circle'
+Sk 1 'dual wield'
+Sk 78 'second attack'
+Sk 75 'peek'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'quicken'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'identify spell'
+Affc 'sanctuary'   0  61   5   0   0        128
+Affc 'frenzy'   0  59  15  10  18          0
+Affc 'frenzy'   0  60  15  10  19          0
+Affc 'frenzy'   0  60  15  50  17          0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 16030
+Nest 0
+Cond 0
+Wear 13
+Cost 999
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 0
+Wear 9
+Cost 800
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 865
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 658
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 516
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 742
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 911
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 515
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 723
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 836
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 538
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 567
+Cost 305
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 526
+Cost 311
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 847
+Cost 311
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 896
+Cost 311
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 730
+Cost 311
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 0
+Wear -1
+Time 642
+Cost 311
+Spell 1 'sanctuary'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 3012
+Nest 0
+Cond 0
+Wear -1
+Cost 13
+End
+
+#O
+Vnum 2521
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 2523
+Nest 0
+Cond 0
+Wear 17
+Cost 10000
+Val  110 94 0 0 0
+End
+
+#O
+Vnum 2522
+Nest 0
+Cond 0
+Wear 0
+Cost 10000
+End
+
+#O
+Vnum 9227
+Nest 0
+Cond 0
+Wear 16
+Cost 1630
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#END

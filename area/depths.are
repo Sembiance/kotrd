@@ -1,0 +1,1810 @@
+#AREADATA
+Name Depths of Doom~
+Builders Outkast~
+VNUMs 21000 21099
+Credits 60 - 100~
+Security 8
+Flags F
+LEVELs 33 130
+End
+
+
+
+#MOBILES
+#21000
+vampire bat~
+A vampire bat~
+{cA vampire bat is trying to bite your neck{x
+~
+A vampire bat with HUGE teeth is trying to bite you!
+~
+unique~
+ABe DFGJTV -50 0
+0
+33 3 1d1+1022 1d1+333 3d3+7 bite
+-20 -20 -20 -20
+FIKM HLQ HIK IJNP
+stand stand male 500
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#21003
+thief figure xancrist~
+A Xancrist thief~
+{cA shadowy figure looms in the corner{x
+~
+A man stands behind you with a dagger raised high above his head.  He
+plunges his dagger into your back twice causing spinal columns to dislodge. 
+You let out a horrible shriek from the immense pain.  
+~
+Human~
+ABFS Q -150 0
+0
+65 4 5d3+9603 10d3+3405 7d6+30 none
+-41 -41 -41 -37
+BFIJK 0 0 0
+stand stand male 102
+AHMV ABCDEFGHIJKMV medium unknown
+#21005
+man~
+A man~
+{cA man is here selling stuff{x
+~
+An old man is here selling utensils to be used to bury your family in the
+graveyard.  
+~
+Human~
+AB DFH 0 0
+0
+100 500 10d10+900 10d10+15000 20d20+500 pound
+0 0 0 0
+0 CD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJKMV tiny unknown
+#21006
+xancrist cleric~
+A Xancrist cleric~
+{cA cleric is here studying a spellbook{x
+~
+A magic user of the Xancrist tribe, he has studied spells his whole life.
+His intellect surpasses all of those except for the Master Cleric.  
+~
+Giant~
+ABQ JNOe 50 0
+0
+108 150 1d1+13065 1d1+20232 10d10+49 slap
+-61 -62 -61 -74
+FJK H EGHI JP
+stand stand male 2150
+AHMV ABCDEFGHIJKMV medium unknown
+#21007
+xancrist mage~
+A Xancrist mage~
+{cA mage is here studying his spellbook{x
+~
+A magic user of the tribe he has studied for his whole life.  His
+intellect surpasses that of anyone you know.  
+~
+Giant~
+ABR HJNO 100 0
+0
+108 100 1d1+13054 1d1+20343 10d11+48 magic
+-60 -61 -61 -74
+CFJK H EGHI JP
+stand stand male 2100
+AHMV ABCDEFGHIJKMV medium unknown
+#21008
+xancrist warrior~
+Xancrist warrior~
+{cA member of the Xancrist warriors{x
+~
+The members of the warriors guild are trained to protect the people of
+the tribe.  They learn how to slay their enemies as quickly as they can.  
+~
+Giant~
+ABCT J 100 0
+0
+100 12 1d1+14845 1d1+909 7d10+52 punch
+-65 -65 -65 -65
+CDEFI H EGHI JP
+stand stand male 2200
+AHMV ABCDEFGHIJKMV medium unknown
+#21009
+xancrist mage master~
+The Mage master~
+{cThe Xancrist Mage Master is here, conversing with the Cleric Master{x
+~
+This man has a huge intellect and could probably destroy you with the
+casting of one spell.  
+~
+Giant~
+ABR HJOV 0 0
+0
+110 69 1d1+26053 1d1+29834 30d20+100 magic
+-100 -100 -100 -130
+FIJK H EGHI JP
+stand stand male 4300
+AHMV ABCDEFGHIJKMV medium unknown
+#21010
+xancrist cleric master~
+The cleric master~
+{cThe Xancrist Cleric Master is here, conversing with the Mage Master{x
+~
+This man is the most respected healer in all of the tribe.  He heals the
+warriors during times of battle and can also devastate the foes if need be
+with his spells.  
+~
+Giant~
+ABCQ HJV 0 0
+0
+110 69 1d1+26053 1d1+29835 11d10+97 none
+-101 -100 -100 -130
+CFIK H EGHI JP
+stand stand male 4250
+AHMV ABCDEFGHIJKMV medium unknown
+#21011
+shopkeeper xancrist~
+A Xancrist shopkeeper~
+{cA shopkeeper is dispensing scrolls{x
+~
+This man is in charge of dispensing scrolls to the mages and clerics
+~
+unique~
+AB DFGJTV 0 0
+0
+100 500 1d1+500 1d1+500 20d20+500 none
+-10 -10 -10 -10
+0 HLQ K IN
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21012
+malicar demon figure~
+Malicar~
+{cAn evil figure lurks in the shadows{x
+~
+A huge figure leaps quickly into the air flailing his claws in your face 
+~
+unique~
+AFGT BDFGHJNQTVZ -1000 0
+0
+150 999 10d11+70000 10d10+30000 10d10+700 claw
+-100 -103 -104 -99
+CDEFIKN HLQ CK IN
+stand stand male 9918
+AHZ ACDEFGHIJKPQUVX giant unknown
+#21016
+master warrior xancrist~
+The master warrior~
+{cThe master warrior of the Xancrist people{x
+~
+A huge person who uses brute force to dispose of his foes.  He rests here
+meditating.  It looks like he could kill anyone that he wanted.  
+~
+Giant~
+ABTe HJV 100 0
+0
+110 60 1d1+28735 1d1+15223 11d10+105 pound
+-101 -101 -101 -110
+CFHIK H EGHI JP
+stand stand male 7500
+AHMV ABCDEFGHIJKMV medium unknown
+#21017
+frail old man~
+A frail old man~
+{cA frail old man is selling his herbs{x
+~
+~
+Human~
+ABG H 0 0
+0
+105 500 8d8+650 10d10+1000 20d20+500 magic
+-10 -10 -10 -10
+0 CD 0 0
+stand stand male 4500
+AHMV ABCDEFGHIJKMV small unknown
+#21021
+skeleton undead~
+Small Skeleton~
+{cA small undead skeleton is out of it's grave.{x
+~
+This the the undead skeleton of the king.  He looks really pissed.  You turn to
+run when you feel it's scythe slice through your back.
+~
+unique~
+ABFORT DFGJTV -666 0
+0
+60 7 5d7+10432 10d7+4500 6d6+35 claw
+-40 -40 -40 -37
+CDFIK HLQ K IN
+stand stand none 666
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21022
+undead zombie~
+A zombie~
+{cAn undead zombie is haunting you{x
+~
+The zombie of the guard attacks you for disturbing the final resting place
+of the Xancrist people.
+~
+unique~
+ABFORT DFGJTV -666 0
+0
+70 20 1d1+12532 1d1+7000 6d7+37 claw
+-60 -60 -58 -57
+CDEFIK HLQ K IN
+stand stand none 1023
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21023
+ghast ugly undead~
+An ugly ghast~
+{cAn ugly ghast is here, killing you!{x
+~
+The undead of a past Master Mage is killing you for disturbing his
+peaceful rest in the underworld.
+~
+unique~
+ABFORT DFGJTV -666 0
+0
+85 23 3d5+15402 10d3+14034 6d8+38 claw
+-70 -69 -70 -60
+0 HLQ K IN
+stand stand none 2032
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21024
+undead huge ghoul~
+A huge ghoul~
+{cA HUGE Ghoul has risen from the dead{x
+~
+The corpse of a past Master Warrior has risen from the powers of some
+powerful psionicist.  He has arisen as an ENORMUS ghoul, and he is PISSED!  
+~
+unique~
+ABOT DFGHJT -666 0
+0
+105 200 1d1+55000 9d2+24002 10d27+100 claw
+-120 -120 -120 -120
+DEFGHKO LQ DHKU N
+stand stand none 7000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#21027
+psionicist mind controller~
+The psionicist~
+{cA mind controller is here.{x
+~
+Clad in a shimmering cloak and brandishing a staff this man looks mad. 
+He starts chanting and a huge ball of fire engulfs the room burning your
+skin.  
+~
+Giant~
+AFP DFGHJT -666 0
+0
+120 200 1d1+45000 4d4+23056 30d13+300 claw
+-102 -102 -102 -95
+AFHKO HKQ GK INP
+stand stand male 8703
+AHMVZ ABCDEFGHIJKMPQUVX medium unknown
+#21030
+taijan recruit~
+taijan recruit~
+{cA recruit is here, learning the TaIJaN ways{x
+~
+This guy doesnt look to big.  He hasn't had to much time to train his
+skills since he has just joined the TaIJaN clan.  
+~
+Giant~
+ABT J 0 0
+0
+71 20 1d1+12681 3d1+3590 8d6+44 punch
+-47 -48 -48 -50
+CFIK H EGHI JP
+stand stand male 3200
+AHMV ABCDEFGHIJKMV medium unknown
+#21031
+warrior xancrist taijan~
+A TaIJaN warrior~
+{cA TaIJaN warrior is here, practicing on a dummy{x
+~
+This guy is pretty big.  He has been training with his master for years
+and looks like he could probably kick your ass.  
+~
+Giant~
+ABT J 100 0
+0
+100 80 1d1+15048 1d1+2032 7d10+50 punch
+-63 -63 -63 -59
+CFIKN H EGHI JP
+stand stand male 2500
+AHMV ABCDEFGHIJKMV medium unknown
+#21032
+taijan xancrist master~
+The TaIJaN master~
+{cThe clan master is teaching here{x
+~
+The master shows the ones under him the way to do their skills and slay
+their enemies.  
+~
+Giant~
+ABTe J 0 0
+0
+105 100 1d1+18923 3d3+3045 10d9+42 punch
+-80 -80 -80 -79
+CFIKN H EGHI JP
+stand stand male 4500
+AHMV ABCDEFGHIJKMV medium unknown
+#21034
+master taijan~
+The TaIJaN leader~
+{cThe clan leader sits at the table giving orders{x
+~
+This guy isn't big but he could destroy you with his spells.  The other
+TaIJaN fear him because of his power over the whole Xancrist Tribe.  
+~
+unique~
+ABR DFGHJTV 100 0
+0
+130 250 1d1+77000 10d2+10304 30d50+200 magic
+-96 -95 -96 -90
+AFIK HLQ CD IN
+stand stand male 5600
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21035
+minister taijan~
+A TaIJaN minister~
+{cA minister to the leader sits at the table{x
+~
+The minister is here to carry out the order of the leader.
+~
+Giant~
+ABR DFGJTV 100 0
+0
+99 40 1d1+18035 1d1+13405 10d10+51 magic
+-90 -90 -89 -85
+CFIKR HLQ GK INP
+stand stand male 5600
+AHMVZ ABCDEFGHIJKMPQUVX medium unknown
+#21040
+xancrist father~
+A Xancrist father~
+{cA Xancrist father is returning from work{x
+~
+The man is returning home to his family after a long and tiring day of
+work.  
+~
+Human~
+AB 0 0 0
+0
+95 75 1d1+13402 1d1+3454 8d5+37 none
+-50 -50 -50 -50
+CFIK 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#21041
+xancrist merchant~
+A Xancrist merchant~
+{cA merchant is selling trinkets here{x
+~
+The merchant sees you and shows you a list of items that he wants to sell
+to you.  
+~
+Human~
+AB 0 0 0
+0
+95 75 1d1+17032 10d3+4003 8d6+47 punch
+-75 -75 -75 -70
+CFIK 0 0 0
+stand stand male 5500
+AHMV ABCDEFGHIJKMV medium unknown
+#21042
+mother xancrist~
+A Xancrist mother~
+{cA mother is walking with here children{x
+~
+A mother walks with here children to take them home to go to bed.
+~
+Human~
+AB 0 0 0
+0
+98 50 1d1+10346 1d1+1044 7d6+39 slap
+-56 -57 -57 -54
+FIK 0 0 0
+stand stand female 400
+AHMV ABCDEFGHIJKMV medium unknown
+#21043
+xancrist child~
+A Xancrist child~
+{cA child is here with his mother{x
+~
+A little kid is following behind his mother.
+~
+Human~
+AB 0 0 0
+0
+85 20 1d1+9236 1d1+3422 8d6+39 punch
+-50 -50 -50 -50
+0 0 0 0
+stand stand male 2790
+AHMV ABCDEFGHIJKMV medium unknown
+#21050
+royal xancrist guard~
+A royal guard~
+{cThe Xancrist king's guard guards the door{x
+~
+A very large Xancrist is here guarding the door.  He has sworn his life
+to protect the king from invaders.  When he notices you in the hall he takes
+a protective stance in front of the door.  
+~
+Giant~
+ABCT J 0 0
+0
+100 100 1d1+22506 1d1+16213 10d10+41 pound
+-90 -90 -90 -90
+CDEFGH HK EGHI JP
+stand stand male 2200
+AHMV ABCDEFGHIJKMV medium unknown
+#21051
+king xancrist~
+The Xancrist king~
+{cThe king of the Xancrist's is on his throne{x
+~
+The king of the Xancrist's is here sitting on his throne.  He doesnt look
+too big, but he has guards that would die for him.  He notices you in his
+throne room and screams for his guards.  
+~
+Giant~
+ABCR HJ 600 0
+0
+105 13 1d1+22787 1d1+14052 10d10+53 slap
+-90 -90 -90 -90
+ACDFGIK HK EGHI JP
+stand stand male 7777
+AHMV ABCDEFGHIJKMV medium unknown
+#21070
+guard king royal xancrist elite~
+The elite guard~
+{cThe king's elite guard is protecting him{x
+~
+~
+Giant~
+ABFGT J 100 0
+0
+102 17 1d1+22506 1d1+16213 10d10+50 punch
+-90 -90 -90 -90
+CFGHK HK EGHI JP
+stand stand male 2300
+AHMV ABCDEFGHIJKMV medium unknown
+#21091
+lucifer demon guardian~
+Lucifer~
+{cLucifer, the guardian demon of Outkast{x
+~
+A huge demon stands before you.  Wielding a huge adamantium sword in both
+his hands, he could kill you in seconds.  He wears a shimmering blue
+necklace around his neck which allows him to be controlled by his master.  
+~
+unique~
+AI DFGJTV -1000 0
+0
+110 1000 1d1+24999 1d1+24999 500d500+1000 cleave
+-150 -150 -150 -150
+0 DHLQ K IN
+stand stand male 50000
+AHZ ACDEFGHIJKPQUVX huge unknown
+#21099
+guard xancrist taijan~
+A TaIJaN guard~
+{cA huge Xancrist guards the door{x
+~
+Wow, this guy is HUGE!  Better leave before he kicks your ass!
+~
+Giant~
+AB JV 100 0
+0
+75 9 3d4+13403 3d1+4302 8d6+45 punch
+-51 -50 -50 -49
+CEFIKN H EGHIQ CJP
+stand stand male 4605
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#21000
+flame king golden~
+the king's {Ygolden{x flame~
+A golden flame has been left here.~
+FIRE_OPAL light_source AILTY AS
+0 0 ABCFGHIJ 0 0
+99 30 55000 P
+A
+1 2
+A
+2 2
+A
+3 2
+A
+4 2
+A
+5 2
+A
+12 275
+A
+13 275
+A
+18 12
+A
+19 12
+#21001
+long iron key~
+a long iron key~
+An iron key has been lost here~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+40 3 10 P
+#21002
+taijan magic manual~
+{CTaIJaN{x Manual of Magic~
+A book of magic lies here~
+MAGIC_ENERGY armor BGMSTWc AO
+ADE ADE ADE ADE 0
+82 10 200 P
+A
+18 15
+A
+17 -100
+A
+12 350
+A
+20 -55
+#21003
+dagger xancrist~
+a Xancrist dagger~
+A long dagger emblazoned with the emblem of the Xancrist~
+STEEL weapon AGI AN
+dagger 12 10 stab BCD
+65 15 3500 P
+#21007
+clear portal shimmering~
+a clear shimmering portal~
+A clear shimmering portal.~
+SELECT_A_MATERIAL portal 0 0
+15 H H 21016 0
+30 150 0 P
+#21008
+portal clear~
+a clear shimmering portal.~
+Self~
+SELECT_A_MATERIAL portal 0 0
+500 ACDEHIJKLMNOPQRSTUVWXYZabcdef ACDEHIJKLMNOPQRSTUVWXYZabcdef 21009 0
+80 0 0 P
+#21009
+bookcase book case~
+a book case rests in the back of the room.~
+A bookcase rests in the back of the room.~
+SELECT_A_MATERIAL portal 0 0
+15 H H 21005 0
+30 150 0 P
+#21010
+old mage scroll~
+a tarnished old mage's scroll~
+An old scroll sits in the dirt~
+PARCHMENT scroll 0 AO
+83 'giant strength' 'haste' 'infravision' ''
+75 6 3500 P
+#21011
+spellbook cleric~
+the cleric's spellbook~
+A spellbook of a cleric~
+PARCHMENT scroll 0 AO
+83 'bless' 'frenzy' 'cure critical' ''
+70 5 3704 P
+#21012
+ice dagger malicar~
+the Ice Dagger of Malicar~
+A swirling frost coeleces into a dagger shape set into an onyx hilt~
+WATER_ELEM weapon BEHI AN
+dagger 15 20 pierce BCD
+95 10 22500 P
+A
+3 2
+A
+17 -10
+A
+12 200
+A
+13 100
+A
+19 30
+A
+18 25
+#21013
+pill wretched evil~
+{Ran evil, wretched pill{x~
+A {Rdark red{x pill is sitting here~
+SELECT_A_MATERIAL pill EG A
+90 'plague' 'poison' 'blindness' 'curse'
+65 1 2342 P
+#21014
+key steel small~
+a small steel key~
+A small steel key has been lost~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+0 3 15 P
+#21016
+black steel knuckles~
+a pair of black steel knuckles~
+Some steel knuckles are lost here~
+STEEL armor 0 AH
+ABDE ABDE ABDE ABDE 0
+100 10 7500 P
+A
+19 20
+A
+18 25
+A
+13 50
+#21017
+pill white immortality~
+{wa pill of immortality{x~
+A {wwhite{x pill lies on the ground~
+SELECT_A_MATERIAL pill G A
+65 'sanctuary' 'shield block' 'armor' 'stone skin'
+65 10 7500 P
+#21018
+pill grey~
+{Wa grey pill{x~
+A pill made from a ground up rhino horn~
+SELECT_A_MATERIAL trash G A
+0 0 0 0 0
+65 1 2250 P
+#21019
+pill blue~
+{ba blue pill{x~
+A {bblue{x pill lies on the floor~
+SELECT_A_MATERIAL pill G A
+68 'remove curse' '' 'cure poison' 'cure disease'
+70 1 6055 P
+#21020
+coffin wood wooden~
+a wooden coffin~
+A beautiful wooden coffin rests here waiting for someone to die~
+SELECT_A_MATERIAL container Y A
+500 A 0 250 60
+60 10 9999 P
+#21021
+shovel grave digging~
+a grave digging shovel~
+A shovel used to dig graves sits by a tomb~
+SELECT_A_MATERIAL weapon 0 AN
+mace 8 8 pound 0
+55 30 3054 P
+#21022
+scythe~
+a shimmering psionic scythe~
+A scythe created by a great psionicist~
+UNKNOWN weapon BF AN
+spear 13 10 slice BEG
+60 80 5000 P
+A
+19 10
+A
+18 8
+A
+4 2
+A
+3 1
+A
+12 50
+#21023
+sickle~
+a shimmering psionic sickle~
+A sickle of psionic origin~
+MAGIC_ENERGY weapon BF AN
+polearm 12 11 slice EG
+70 30 6000 P
+A
+12 60
+A
+4 2
+A
+3 2
+A
+18 12
+A
+19 13
+#21024
+maul psionic~
+a shimmering psionic maul~
+A HUGE maul of psionic origin floats above the ground~
+MAGIC_ENERGY weapon BF AN
+mace 60 2 beating BGH
+85 40 9050 P
+A
+19 10
+A
+18 10
+A
+2 -1
+A
+4 2
+A
+1 3
+#21025
+axe great-axe psionic~
+a shimmering psionic great-axe~
+A huge axe of psionic origin hovers above ground~
+MAGIC_ENERGY weapon BF AN
+axe 24 13 cleave BCH
+100 80 0 P
+A
+2 1
+A
+1 2
+A
+18 50
+A
+19 40
+A
+13 150
+#21026
+crack~
+a crack leads into the earth~
+A large crack leads into the earth~
+SELECT_A_MATERIAL portal 0 0
+30 0 0 21025 0
+30 100 0 P
+#21027
+portal psionic~
+a shimmering psionic portal~
+A portal to another dimension hovers here~
+SELECT_A_MATERIAL portal B 0
+30 0 0 3054 0
+30 100 0 P
+#21028
+scroll case scrollcase wooden~
+a wooden scrollcase~
+A scrollcase rests here.~
+SELECT_A_MATERIAL container 0 0
+50 0 0 50 50
+0 10 0 P
+#21029
+ball light~
+a shimmering ball of light~
+A ball of light luminates the entire room.~
+SELECT_A_MATERIAL light_source A 0
+0 0 DGH 0 0
+0 0 0 P
+#21030
+shimmering blue psi cloak~
+a shimmering blue cloak~
+A blue cloak of psionic origin~
+HIGH_LEATHER armor BF AK
+BD AD AD AD 0
+98 8 11250 P
+A
+12 800
+A
+19 5
+A
+18 5
+A
+17 -25
+#21031
+staff psionicist~
+the psionicist's staff~
+A staff floats above ground~
+MAGIC_ENERGY weapon BF AN
+polearm 18 20 thwack BCG
+99 50 13750 P
+A
+3 9
+A
+4 8
+A
+12 250
+A
+18 30
+A
+19 20
+#21032
+scroll blue shimmering~
+a shimmering blue scroll~
+A shimmering blue scroll~
+PARCHMENT scroll BF A
+85 'enchant weapon' 'enchant armor' '' ''
+85 2 2200 P
+#21033
+granite fountain~
+a granite fountain~
+A fountain made of granite is full of water~
+SELECT_A_MATERIAL drink 0 0
+10000 10000 'water' 0 0
+0 0 0 P
+#21034
+xancrist mace~
+{CTaIJaN{x Guard's Mace~
+A huge mace of cold hard steel lies here~
+HIGH_STEEL weapon B AN
+mace 10 15 crush B
+75 40 2300 P
+A
+12 50
+A
+5 3
+A
+2 -1
+A
+18 12
+A
+19 10
+#21040
+pence coin~
+a three pence coin~
+A shiny coin sits on the ground~
+COPPER treasure 0 A
+0 0 0 0 0
+50 3 120000 P
+#21041
+pocket watch~
+a pocket watch~
+A pocket watch has been left here~
+BRASS jewelry 0 AO
+0 0 0 0 0
+43 10 115000 P
+#21043
+yo-yo toy~
+a toy yo-yo~
+A little yo-yo made of pure {Ygold{x lies here~
+GOLD treasure 0 A
+0 0 0 0 0
+35 2 165000 P
+#21049
+golden sceptre king~
+the king's golden sceptre~
+A golden sceptre has been left here~
+SELECT_A_MATERIAL armor AG AO
+BD ACD BD BD 0
+83 10 7500 P
+A
+17 -50
+A
+18 8
+A
+19 9
+A
+12 150
+A
+13 150
+#21050
+practice dummy~
+a practice dummy sits in the corner~
+A practice dummy sits in the corner~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#21051
+treasure golden gold chest~
+a golden chest~
+In chest~
+SELECT_A_MATERIAL container 0 0
+1000 ABCD 21001 1000 90
+0 0 0 P
+#21052
+key long brass~
+a long brass key~
+A key has been lost here~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+40 2 10 P
+#21070
+coins silver mountain~
+a mountain of silver coins~
+A mountain of silver coins~
+SELECT_A_MATERIAL money 0 A
+BCEFGHIL 0 0 0 0
+0 10 250000 P
+#21071
+diamond huge~
+a HUGE diamond~
+An enormous diamond is glittering in the light~
+DIAMOND gem 0 A
+0 0 0 0 0
+90 7 180000 P
+#21077
+huge iron maul~
+a huge iron maul~
+A large iron maul has been set down here~
+IRON weapon G AN
+mace 10 18 pound CFG
+85 30 4500 P
+A
+18 15
+A
+19 15
+#21080
+throne golden~
+a golden throne~
+The king's golden throne~
+SELECT_A_MATERIAL furniture 0 0
+A EIJKN EHKN CDFI CDFI
+0 0 0 P
+#21081
+key~
+a mystic key~
+A strange looking key is resting here.~
+SELECT_A_MATERIAL key ABG A
+0 0 0 0 0
+50 1 0 P
+#21087
+life~
+{WLife{x~
+{WLife{x~
+STEEL armor HZ AC
+CGHIL CGHIL CGHIL CGHIL 0
+105 3 0 P
+A
+17 -5000
+A
+19 500
+A
+18 500
+A
+5 50
+A
+4 50
+A
+3 50
+A
+1 50
+A
+2 50
+A
+14 5000
+A
+12 5000
+A
+13 5000
+#21088
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+SELECT_A_MATERIAL money 0 A
+A 0 0 0 0
+0 10 0 P
+#21097
+ivory wand~
+a pearl wand~
+A slender pearl wand lies here~
+PEARL wand 0 AO
+100 25 25 'lightning breath' 0
+90 5 5000 P
+#21098
+cleric skullcap~
+the cleric's skullcap~
+The skullcap of a cleric has been left here~
+HIGH_CLOTH armor AB AE
+BCE ABCE DE CE 0
+99 4 4032 P
+A
+19 5
+A
+18 12
+A
+3 7
+A
+4 8
+A
+12 350
+#21099
+malicar belt darkness~
+the Belt of Darkness~
+A belt radiating an aura of darkness lies here~
+DARK_ELEM armor BEHIS AL
+CE CE CE CE 0
+100 10 12000 P
+A
+18 10
+A
+19 10
+A
+12 250
+A
+13 350
+A
+17 -35
+A
+5 2
+A
+3 2
+A
+4 2
+A
+2 3
+A
+1 3
+#0
+
+
+
+#ROOMS
+#21000
+{BInside a cave.{x~
+You stand at the mouth of a large cave.  It is completely dark.  During
+the night bats fly in and out of the cave.  To the north you can see a torch
+burning.  It provides just enough ligh to tell you that your only exit is to
+the north.  In that direction you hear noises which you believe are voices
+of people...
+There is a sign on the wall of the cave.
+~
+0 9 1
+E
+sign~
+This area was created by Outkast
+~
+D0
+~
+~
+0 0 21001
+D4
+~
+~
+0 0 15961
+C 0
+S
+#21001
+{MDeeper into the cave.{x~
+As you venture farther to the north you notice a hole in the ground. 
+From within the hole light shines.  You notice a rope ladder leading down
+into the hole.  
+~
+0 9 1
+D2
+~
+~
+0 0 21000
+D5
+~
+~
+0 0 21002
+C 0
+S
+#21002
+{MEntrance to an Underground City.{x~
+You have discovered an ancient underground city.  To the north lies the
+city.  Leading towards the city is a golden pathway.  Beautifully crafted
+houses line the main street.  To the south is an eerie darkness.  You
+question whether you should go south or not, fearing for your safety.  
+~
+0 1 12
+D0
+~
+~
+0 0 21004
+D2
+~
+~
+0 0 21003
+D4
+~
+~
+0 0 21001
+C 0
+S
+#21003
+{MA Dark Builing.{x~
+This room is pitch black.  Your light barely penatrates the darkness. 
+You notice something moving in the shadows.  You sense you are being watched
+by someone...  Or something.  
+~
+0 9 12
+D0
+~
+~
+0 0 21002
+C 0
+S
+#21004
+{MThe Main Street.{x~
+As you walk along the golden paved main street you stop to admire
+Something about the symbolism on the houses tells you that this area
+contains some evil and some good.  A dark red home lies east, and the road
+continues northward 
+~
+0 1 12
+D0
+~
+~
+0 0 21006
+D1
+~
+~
+0 0 21005
+D2
+~
+~
+0 0 21002
+C 0
+S
+#21005
+{RInside the home{x~
+You feel an evil aura within this house.  Over the entrance sits a large
+plaque with some sort of emblem.  You decide the emblem must be that of a
+clan.  Another room lies to the east, and to the west lies the main street. 
+~
+0 9 12
+D1
+~
+~
+1 0 21012
+D3
+~
+~
+0 0 21004
+C 0
+S
+#21006
+{MContinuing down Main Street{x~
+More builings line the street.  To the east and west lie some sort of
+training centers.  Large warriors can be seen to the west sparring with
+others to hone their skills.  East lies a class with young magic users
+reading spell books.  The road continues north.  
+~
+0 1 12
+D0
+~
+~
+0 0 21013
+D1
+~
+~
+0 0 21007
+D2
+~
+~
+0 0 21004
+D3
+~
+~
+0 0 21008
+C 0
+S
+#21007
+{bThe Xancrist Guild of Magic.{x~
+This is the entrance to the Guilds of the Clerics and Mages.  Here they
+study spells so they may heal the warriors and obliterate enemy forces with
+their extremely powerful spells.  To the north the mages and clerics study
+their spellbooks intently.  By working together the mages have learned a few
+cleric spells, and vice versa.  
+~
+0 8 1
+D0
+~
+~
+0 0 21009
+D3
+~
+~
+0 0 21006
+C 0
+S
+#21008
+{BThe guild hall of the Xancrist Warriors.{x~
+Many warriors of the Xancrist race are here to train.  They spar with
+each other to hone their skills so they may one day protect the Xancrist
+country.  They will protect the mages from blows from enemies if their home
+land is invaded.  The Supreme Xancrist Warrior practices behind a clear
+portal.  The warriors may not enter into his room, only he can be there.  
+~
+0 8 1
+D1
+~
+~
+0 0 21006
+C 0
+S
+#21009
+{bThe Library.{x~
+Many mages and clerics are here studying their spells.  The apprentices
+are all very young.  They try to learn fast so they may become master mages
+or master clerics before they die.  To the east they may pick up scrolls of
+wisdom to study.  The Masters are to the north writing scrolls for the
+apprentices to study.  
+~
+0 8 1
+D0
+~
+~
+0 0 21010
+D1
+~
+~
+0 0 21011
+D2
+~
+~
+0 0 21007
+C 0
+S
+#21010
+{bThe Master's Chambers.{x~
+The Master Cleric and the Master Mage are here copying scrolls for the
+apprentices.  They hastily write down the spell words paying attention to
+nothing else.  They haven't yet noticed your intrusion.  They don't look
+like people that would be easily killed, especially since there are two of
+them.  
+~
+0 8 1
+D2
+~
+~
+0 0 21009
+C 0
+S
+#21011
+{bThe Scroll Shop.{x~
+A bearded old man rests behind an ivory counter.  Behind him are scrolls
+of every spell you could imagine.  Mages and clerics come in trading scrolls
+they have memorized for the scrolls their masters have just written.  The
+old man notices you have no scrolls of use to him and turns away.  Maybe you
+can get him to give you a scroll for a bit of gold...  
+~
+0 8 1
+D3
+~
+~
+0 0 21009
+C 0
+S
+#21012
+{RA Demonic Chamber{x~
+There is a dark, evil figure in the corner of the room.  You hear foot
+steps pounding on the floor coming towards you.  In an instant the foot
+steps reach you.  The figure leaps up flailing his sharp claws by your face.
+You quickly look for an exit, finding none.  
+~
+0 8205 1
+D3
+~
+~
+1 21081 21005
+C 0
+S
+#21013
+{MAt the end of Main Street.{x~
+Main street ends here.  A beaten path leads eastward.  To the west lies
+the Clan Hall of TaIJaN.  A sign on the door warns of death for all
+intrueders.  The path east appears to be heavily traveled.  You can't see
+anything to the east besides red colored bushes amd the path.  A closed
+wooden door keeps you from entering the Clan Hall.  
+~
+0 1 12
+D1
+~
+~
+0 0 21015
+D2
+~
+~
+0 0 21006
+D3
+~
+~
+1 0 21014
+C 0
+S
+#21014
+{CThe Entrance Hall.{x~
+To the west is a heavy door.  Two very large Xancrist men stand on
+opposite sides of the door with spears on hand.  It looks like you might
+have to fight if you want to get inside of the clan.  In the center of the
+room is a large granite fountain bringing forth water.  
+~
+0 8 1
+D1
+~
+~
+1 0 21013
+D3
+~
+~
+2 21014 21030
+C 0
+S
+#21015
+{YA beaten path.{x~
+From the looks of it this path is very well traveled.  Above some bushes
+to the east you can see a golden spire.  The path breaks off to the north
+and south.  A well-visited straw hut lies to the north.  To the south is
+very dark.  You make out the form of grave stones.  
+~
+0 1 12
+D0
+~
+~
+0 0 21017
+D1
+~
+~
+0 0 21019
+D2
+~
+~
+0 0 21018
+D3
+~
+~
+0 0 21013
+C 0
+S
+#21016
+{BThe Master Warrior's Chambers.{x~
+This is where the Master warrior comes to meditate.  In the center of the
+room he sits meditating with his legs crossed.  To the east his students
+train as he has taught them.  If they should be attacked he will have them
+ready.  
+~
+0 8 1
+D1
+~
+~
+0 0 21008
+C 0
+S
+#21017
+{YA straw hut.{x~
+A frail old man is mixing herbs he has collected from his garden on a
+counter to sell.  An aura of peace and tranquility surrounds this room. 
+Behind the counter are many baskets full of assorted herbs.  The old man
+combines herbs to create magical foods.  
+~
+0 8 1
+D2
+~
+~
+0 0 21015
+M 125 H 125
+C 0
+S
+#21018
+{BThe Graveyard Entrance.{x~
+Gravestones of powerful figures in Xancrist history line a dark field. 
+To the east is a building of some sort.  The fence is open to the south so
+that people may come and pay their respects to their dead heroes.  A sign
+warns that the spirits of fallen Xancrist's may be vengeful to entities that
+are not Xancrist.  
+~
+0 8193 12
+D0
+~
+~
+0 0 21015
+D1
+~
+~
+0 0 21020
+D2
+~
+~
+0 0 21021
+C 0
+S
+#21019
+{MPath to the Castle.{x~
+You are on a road heading towards an intricate castle.  Large torches
+line the path to light the way.  To the east is a drawbridge over the moat
+surrounding the castle.  In the distance to the north is a row of odd
+colored trees.  
+~
+0 1 12
+D1
+~
+~
+0 0 21032
+D3
+~
+~
+0 0 21015
+C 0
+S
+#21020
+{BInside the Building.{x~
+You are in a small building within the cave.  To the east is the
+graveyard.  Farther to the east is a storage room where the shop owner keeps
+his products.  The man asks if you would like to buy a plot of land for your
+grave when the warriors come to kill you for intruding.  
+~
+0 8200 1
+D3
+~
+~
+0 0 21018
+C 0
+S
+#21021
+{BAt a Gravestone.{x~
+You are at the gravestone of a past king.  It is lavishly decorated and
+made of gold with jewels embedded.  You notice the ground has started to
+shake slightly.  You can here cries to the south.  
+~
+0 8193 12
+D0
+~
+~
+0 0 21018
+D2
+~
+~
+0 0 21022
+C 0
+S
+#21022
+{BAnother Gravestone.{x~
+This grave is not so lavishly decorated.  He must not have been a king. 
+The gravestone is made of granite.  The inscription says it was the king's
+top body guard.  The shaking in the easth continues with the cries becoming
+louder.  
+~
+0 8193 12
+D0
+~
+~
+0 0 21021
+D2
+~
+~
+0 0 21023
+C 0
+S
+#21023
+{BYet another Gravestone.{x~
+The shaking of the earth has become so violent that cracks have opened in
+the earth surface, swallowing everything in it's path.  The cries have
+become terribly loud shrieks.  Above head lighting strikes.  What's going on
+here...  Lightning in a cave?  Better run while you still can...  
+~
+0 8193 12
+D0
+~
+~
+0 0 21022
+D2
+~
+~
+0 0 21024
+C 0
+S
+#21024
+{BAt a final Gravestone.{x~
+The earthquakes have stopped and so has the lightning.  A corpse can be
+seen through a crack in the ground...  A moving corpse that is.  With
+lightning speed the corpse jumps out of the ground and lands just inches
+from you.  
+~
+0 1 12
+D0
+~
+~
+0 0 21023
+C 0
+S
+#21025
+{YInside the Earth.{x~
+After a long fall you find yourselfin some sort of room.  Hovering above
+the ground in the center of the room is and extremely bright ball of light. 
+On the north face of the chamber is a scroll case full of shimmering scrolls
+From a small doorway to the east a small man approaches.  
+~
+0 5 12
+C 0
+S
+#21030
+{CThe TaIJaN Training Room.{x~
+This is where members of the TaIJaN clan come to hone their skills.  Only
+a few members practice skills not concerning killing.  Most of the members
+train skills so they will be able to do heavy damage to there foes.  In the
+northeast corner there are dummies for them to practice attack skills on.  
+~
+0 1 1
+D0
+~
+~
+0 0 21031
+D1
+~
+~
+2 21014 21014
+C 0
+S
+#21031
+{CThe TaIJaN Planning Room.{x~
+In this room the TaIJaN elders meet to plan attacks and their defenses. 
+The leader of the clan sits at the head of a large granite table give orders
+to those of lower ranks.  
+~
+0 1 1
+D2
+~
+~
+0 0 21030
+C 0
+S
+#21032
+{YThe Drawbridge.{x~
+You are on a drawbridge over the moat.  Below the bridge are alligators
+waiting for you to fall in so they can get some dinner.  The drawbridge ends
+to the east at a large iron gate.  A dark hall leads into the castle from
+the gate.  
+~
+0 1 2
+D1
+~
+gate~
+0 0 21033
+D3
+~
+~
+0 0 21019
+C 0
+S
+#21033
+{CA dark hall.{x~
+You are in a dark, damp hall.  Sounds echo throughout the castle.  To the
+north a torch lights a hallway.  The inside of the castle doesn't look as
+good as the outside appearance would lead you to believe.  
+~
+0 9 1
+D0
+~
+~
+0 0 21034
+D3
+~
+~
+0 0 21032
+C 0
+S
+#21034
+{CDown the hall.{x~
+Hallways continue to the north and east.  A torch to each direction
+provides just enough light to see where you are going, but not allowing to
+distinguish what the dark figure to the east is.  
+~
+0 9 1
+D0
+~
+~
+0 0 21037
+D1
+~
+~
+0 0 21035
+D2
+~
+~
+0 0 21033
+C 0
+S
+#21035
+{CTowards the Throne.{x~
+A giant sized guard stands at a door to the east.  To the left of the
+door is a plaque saying to stay out of the next room.  The door is made of
+pure gold, and is 12 feet tall and 10 feet wide.  You can return west or
+look for the key to the door.  
+~
+0 9 1
+D1
+~
+~
+0 21052 21036
+D3
+~
+~
+0 0 21034
+C 0
+S
+#21036
+{yThe King's Throne Room.{x~
+This room is beautifully decorated.  The king sits on a beautiful golden
+throne.  You notice a huge guard is running at you.  Maybe you should have
+stayed out of here like you were warned.  The guard doesn't look happy, nor
+does the king.  
+~
+0 8 1
+D3
+~
+~
+0 0 21035
+C 0
+S
+#21037
+{CContinuing down the Hall.{x~
+A single torch lights the hallway providing very little light.  The hall
+ends farther to the north at a large door.  You can see someone in front of
+the door.  This area of the castle is not very pretty.  It smells like an
+outhouse and is humid.  
+~
+0 9 1
+D0
+~
+~
+0 0 21038
+D2
+~
+~
+0 0 21034
+C 0
+S
+#21038
+{CAt a door.{x~
+You are at another large door.  This one is made out of iron, and is only
+eight feet by 5 feet.  Another guard is here.  He is as big as the guard who
+was guarding the king.  A sign on the door warns that no entrance is
+permitted.  
+~
+0 9 1
+D0
+~
+~
+0 21001 21039
+D2
+~
+~
+0 0 21037
+C 0
+S
+#21039
+{yThe treasury.{x~
+A huge chest made of gold sits in the middle of the room.  The are no
+guards to keep you from stealing the treasures that lie within.  South is
+the only exit, through a large iron door.  
+~
+0 9 1
+D2
+~
+~
+0 0 21038
+C 0
+S
+#21099
+{ROutkast's Room{x~
+{RWelcome to Outkast's Chamber{x
+~
+0 32772 1
+M 5000 H 5000
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 21003 spec_thief
+M 21006 spec_cast_adept
+M 21007 spec_cast_adept
+M 21009 spec_cast_mage
+M 21010 spec_cast_cleric
+M 21021 spec_cast_undead
+M 21022 spec_cast_undead
+M 21023 spec_cast_undead
+M 21024 spec_cast_undead
+M 21027 spec_cast_adept
+M 21034 spec_cast_mage
+M 21035 spec_cast_mage
+M 21050 spec_guard
+M 21051 spec_cast_mage
+M 21070 spec_guard
+S
+
+
+
+#RESETS
+D 0 21005 1 2
+D 0 21012 3 2
+D 0 21013 3 1
+D 0 21014 1 1
+D 0 21014 3 2
+D 0 21030 1 2
+M 0 21000 3 21000 2
+M 0 21000 3 21000 2
+M 0 21000 1 21001 1
+M 0 21003 2 21003 2
+E 0 21003 0 16
+M 0 21003 2 21003 2
+E 0 21003 0 16
+M 0 21040 1 21004 1
+G 0 21040 0
+M 0 21041 1 21004 1
+E 0 21041 0 17
+M 0 21042 1 21006 1
+M 0 21043 1 21006 1
+E 0 21043 0 17
+M 0 21007 2 21007 2
+M 0 21007 2 21007 2
+M 0 21008 2 21008 2
+O 0 21007 0 21008
+M 0 21008 1 21008 1
+M 0 21006 2 21009 2
+M 0 21006 2 21009 2
+M 0 21009 1 21010 1
+E 0 21097 0 17
+M 0 21010 1 21010 1
+E 0 21098 0 6
+M 0 21011 1 21011 1
+G 0 21011 0
+G 0 21010 0
+M 0 21012 1 21012 1
+E 0 21012 0 16
+E 0 21099 0 13
+G 0 21081 0
+O 0 21009 0 21012
+M 0 21041 1 21013 1
+E 0 21041 0 17
+M 0 21040 1 21013 1
+G 0 21040 0
+M 0 21042 1 21013 1
+M 0 21043 1 21013 1
+E 0 21043 0 17
+M 0 21099 2 21014 2
+E 0 21034 0 16
+M 0 21099 2 21014 2
+E 0 21014 0 17
+E 0 21034 0 16
+O 0 21033 0 21014
+M 0 21016 1 21016 1
+E 0 21016 0 9
+M 0 21017 1 21017 1
+G 0 21013 0
+G 0 21019 0
+G 0 21017 0
+M 0 21005 1 21020 1
+G 0 21021 0
+G 0 21020 0
+M 0 21021 1 21021 1
+E 0 21022 0 16
+M 0 21022 1 21022 1
+E 0 21023 0 16
+M 0 21023 1 21023 1
+E 0 21024 0 16
+M 0 21024 1 21024 1
+E 0 21025 0 16
+O 0 21026 0 21024
+O 0 21027 0 21025
+O 0 21028 0 21025
+P 0 21032 1 21028 1
+O 0 21029 0 21025
+M 0 21027 1 21025 1
+E 0 21031 0 16
+E 0 21030 0 5
+O 0 21050 0 21030
+M 0 21030 1 21030 1
+M 0 21031 1 21030 1
+M 0 21032 1 21030 1
+M 0 21050 2 21035 2
+E 0 21077 0 16
+G 0 21052 0
+M 0 21051 1 21036 1
+G 0 21000 0
+E 0 21049 0 17
+O 0 21080 0 21036
+M 0 21070 1 21036 1
+M 0 21050 2 21038 2
+E 0 21077 0 16
+G 0 21001 0
+O 0 21051 0 21039
+P 0 21071 1 21051 1
+P 0 21070 1 21051 1
+S
+
+
+
+#SHOPS
+21005 0 0 0 0 0 115 100 1 24
+21011 0 0 0 0 0 110 110 0 24
+21017 0 0 0 0 0 110 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

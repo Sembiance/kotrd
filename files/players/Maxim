@@ -1,0 +1,73 @@
+#PLAYER
+Name Maxim~
+Id   1148242660
+LogO 1148243436
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Darkelf~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  1
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 776
+Scro 33
+Room 3054
+HMV  1 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1450
+PAct  QTd
+AfBy F
+WName Maxim~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 13 17 13 18 10
+AMod 0 0 0 0 0
+Pass MaFmuoAdxWdZA~
+Titl  The One and Only!~
+Pnts 49
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 44 46 46
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'detect hidden'
+Sk 1 'invisibility'
+Sk 40 'dagger'
+Sk 1 'dual wield'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'invisibility spell'
+End
+
+#END

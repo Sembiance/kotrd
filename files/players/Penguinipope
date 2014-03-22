@@ -1,0 +1,78 @@
+#PLAYER
+Name Penguinipope~
+Id   1109792994
+LogO 1109794774
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1780
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1854
+PAct  QTd
+AfBy JT
+WName Penguinipope~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Save  -31
+Alig  -1000
+Hit   62
+ACs 80 80 80 80
+Attr 22 12 13 12 14
+AMod 0 0 0 0 0
+Pass Pe7K0vBEWsWng~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 54
+TSex 1
+PSize 3
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 21 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 40 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+Affc 'bless'   0 245 107 -31  20          0
+Affc 'bless'   0 248 107  62  18          0
+Affc 'armor'   0 248  73 -20  17          0
+End
+
+#END

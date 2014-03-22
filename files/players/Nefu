@@ -1,0 +1,75 @@
+#PLAYER
+Name Nefu~
+Id   1150494025
+LogO 1150495504
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Cambion~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1479
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2312
+PAct  CDEFGQTd
+AfBy DGT
+WName Nefu~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 21 10 14 14 16
+AMod 0 0 0 0 0
+Pass Neb/9hC403FME~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 60
+TSex 1
+PSize 3
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 31 14
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'demonfire'
+Sk 1 'curse'
+Sk 1 'giant strength'
+Sk 40 'sword'
+Sk 1 'berserk'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior spells'
+End
+
+#END

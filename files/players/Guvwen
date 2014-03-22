@@ -1,0 +1,631 @@
+#PLAYER
+Name Guvwen~
+Id   1107318560
+LogO 1107387423
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 19
+OldLvl 19
+Sec  0
+Plyd 9206
+Scro 33
+Room 16424
+HMV  101 325 140 140 203 208
+Gold 625
+Silv 16168
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 19
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  19344
+QuestPnts 1
+PAct  CDEFGQTd
+AfBy HV
+WName Guvwen~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 8
+Trai 3
+Save  -20
+Alig  -1000
+Hit   62
+Dam   19
+ACs -64 -60 -66 -15
+Attr 18 18 18 21 18
+AMod 0 0 0 8 0
+Pass GuErXIGFPxHJc~
+Titl  Stalker of the Night~
+Pnts 40
+TSex 1
+PSize 2
+LLev 2
+HMVP 228 140 208
+Cnd  0 0 15 15
+Alias repl reply~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 83 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dirt kicking'
+Sk 1 'enhanced damage'
+Sk 77 'dodge'
+Sk 1 'parry'
+Sk 75 'trip'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 75 'sneak'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'armor'   0  98  36 -20  17          0
+Affc 'energy shield'   0  99 102 -20  17          0
+Affc 'stone skin'   0  99  94 -40  17          0
+Affc 'bless'   0 100  44 -12  20          0
+Affc 'bless'   0 100  44  25  18          0
+Affc 'haste'   0  99  19   4   2    2097152
+Affc 'sanctuary'   0  98  10   0   0        128
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear -1
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear -1
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear -1
+Cost 1390
+End
+
+#O
+Vnum 16002
+Nest 0
+Cond 0
+Wear -1
+Cost 2399
+Spell 3 'flamestrike'
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 168 0 0 0
+End
+
+#O
+Vnum 621
+Nest 0
+Cond 0
+Wear 5
+Cost 2400
+End
+
+#O
+Vnum 623
+Nest 0
+Cond 0
+Wear 7
+Cost 1280
+End
+
+#O
+Vnum 628
+Nest 0
+Cond 0
+Wear 13
+Cost 1280
+End
+
+#O
+Vnum 627
+Nest 0
+Cond 0
+Wear 11
+Cost 1850
+End
+
+#O
+Vnum 626
+Nest 0
+Cond 0
+Wear 10
+Cost 1280
+End
+
+#O
+Vnum 625
+Nest 0
+Cond 0
+Wear 9
+Cost 1280
+End
+
+#O
+Vnum 624
+Nest 0
+Cond 0
+Wear 8
+Cost 1280
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 16038
+Nest 0
+Cond 0
+Wear -1
+Cost 4005
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16038
+Nest 0
+Cond 0
+Wear -1
+Cost 4005
+End
+
+#O
+Vnum 16002
+Nest 0
+Cond 0
+Wear 17
+Cost 2399
+Spell 3 'flamestrike'
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear 3
+Cost 1299
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 16006
+Nest 0
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 16006
+Nest 0
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16006
+Nest 0
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear -1
+Cost 1050
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 16006
+Nest 0
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 16038
+Nest 0
+Cond 0
+Wear -1
+Cost 4005
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 10294
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear -1
+Cost 18600
+End
+
+#O
+Vnum 16039
+Nest 0
+Cond 0
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 9585
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#O
+Vnum 16013
+Nest 0
+Cond 0
+Wear -1
+Cost 2380
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear -1
+Cost 1299
+End
+
+#O
+Vnum 16008
+Nest 0
+Cond 0
+Wear -1
+Cost 3840
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16074
+Nest 0
+Cond 0
+Wear -1
+Cost 2930
+End
+
+#O
+Vnum 16008
+Nest 0
+Cond 0
+Wear -1
+Cost 3840
+End
+
+#END

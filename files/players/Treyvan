@@ -1,0 +1,331 @@
+#PLAYER
+Name Treyvan~
+Id   1127935589
+LogO 1127941640
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Kender~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 6051
+Scro 56
+Room 3001
+HMV  125 125 136 136 180 180
+Gold 2367
+Silv 11804
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  9635
+PAct  CDEFGHQTd
+AfBy FV
+WName Treyvan~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 1
+Save  -32
+Alig  67
+Hit   89
+Dam   28
+ACs 24 28 29 40
+Attr 13 15 18 23 16
+AMod 4 3 2 4 1
+Pass TrRBIAVMHh6ig~
+Titl .~
+Pnts 50
+TSex 1
+PSize 1
+LLev 1
+HMVP 72 111 130
+Cnd  0 0 25 20
+Boards       4 General 1127879940 Ideas 1106587655 Announce 0 Personal 0 
+Sk 1 'identify'
+Sk 75 'dagger'
+Sk 1 'backstab'
+Sk 1 'circle'
+Sk 1 'dodge'
+Sk 73 'trip'
+Sk 1 'second attack'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Gr 'identify spell'
+Affc 'bless'   0 244  91 -31  20          0
+Affc 'bless'   0 243  91  62  18          0
+Affc 'armor'   0 240  49 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 129 0 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Time 768
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Time 768
+Cost 0
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 5794
+Nest 0
+Cond 0
+Wear 12
+Cost -700
+End
+
+#O
+Vnum 5813
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 145
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#END

@@ -1,0 +1,369 @@
+#PLAYER
+Name Natuesk~
+Id   1114963488
+LogO 1116454769
+Vers 5
+Prom <%hhp/%Hhp %mmp/%Mmp %vmv/%Vmv {cNext:{x %X %K> ~
+Race Draconian~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 10
+OldLvl 10
+Sec  0
+Plyd 19258
+Scro 33
+Room 3001
+HMV  175 175 119 119 204 204
+Gold 273
+Silv 46
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 10
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  16609
+PAct  DEFGQTd
+AfBy JT
+WName Natuesk~
+Comm INO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 6
+Trai 1
+Save  -31
+Alig  -1000
+Hit   64
+Dam   2
+ACs 24 14 20 50
+Attr 22 16 13 15 19
+AMod 0 3 4 4 1
+Pass NaWlLCIG3M0Zk~
+Titl  {RR{red {wD{Wragon {BK{bnights {clives on in {MG{muild {MW{mars!~
+Pnts 53
+TSex 1
+PSize 3
+LLev 4
+HMVP 175 119 154
+Cnd  0 0 0 0
+Boards       4 General 1115408820 Ideas 1115517046 Announce 1114049929 Personal 0 
+Sk 100 'blightning'
+Sk 75 'sword'
+Sk 75 'dagger'
+Sk 1 'whip'
+Sk 76 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 76 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'armor'   0 240  37 -20  17          0
+Affc 'bless'   0 238  70 -31  20          0
+Affc 'bless'   0 233  70  62  18          0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear 1
+Cost 200
+End
+
+#O
+Vnum 18604
+Nest 0
+Cond 0
+Wear 12
+Cost 180
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear 16
+Cost 1000
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 3502
+Nest 0
+Cond 0
+Wear 6
+Cost 490
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear 3
+Cost 510
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#END

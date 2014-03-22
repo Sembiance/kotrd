@@ -1,0 +1,68 @@
+#PLAYER
+Name Hammon~
+Id   1110067125
+LogO 1110067596
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 471
+Scro 33
+Room 3054
+HMV  20 20 100 100 96 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1376
+PAct  QTd
+WName Hammon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 15 14 15 18 15
+AMod 0 0 0 0 0
+Pass Ha4dJWWj.DH56~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 45
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 44 46 44
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 40 'dagger'
+Sk 1 'backstab'
+Sk 1 'dual wield'
+Sk 1 'hand to hand'
+Sk 1 'dodge'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Sk 1 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+End
+
+#END

@@ -1,0 +1,3362 @@
+Sender  Venus~
+Date    Fri Oct 29 20:49:09 2004~
+Stamp   1099100991
+Expire  1099360170
+To      spatula~
+Subject Test!~
+Text
+Hey Spat! Just checking if you get this!
+Venus!
+ 
+~
+
+Sender  Venus~
+Date    Mon Nov  1 22:03:40 2004~
+Stamp   1099368357
+Expire  1099800231
+To      Ophelia~
+Subject wizlist~
+Text
+Hey Ophy!
+I am unfamilar with HEDIT, so I was wondering 
+if you could update WIZLIST for me?
+If you could add yourself, take off Druh, and
+take off Amberdrake, add the Builders....
+Stumpy, Lydia, Tanis
+If you would rather just teach me HEDIt, thats fine!
+Thanks a bunch.....I cannot tell you enough
+how {^APPRECIATIVE{x I am of you!
+Thanks so much
+{RVenus{x
+~
+
+Sender  Spatula~
+Date    Fri Oct 29 23:47:25 2004~
+Stamp   1099111826
+Expire  1101530893
+To      venus~
+Subject RE: test~
+Text
+well it works but as i try to use this
+i think i HATE it passionately
+ 
+ 
+~
+
+Sender  Amberdrake~
+Date    Sat Oct 30 15:17:29 2004~
+Stamp   1099167626
+Expire  1101586654
+To      immortal~
+Subject envenom~
+Text
+first of all, i cant see envenom doing anything at all
+i envenom my dagger and i do not kill anything any faster
+nor do i see any status messages saying the enemies 
+are being hurt by the poison
+secondly, there is a bug with how envenom is checked
+this is what i get every time i hit after i have envenomed my weapon
+Your PIERCE injures the cityguard for 18 hp.
+The poison on an electro-dagger has worn off.
+but it hasnt because it says this when it is finally gone
+The poison on an electro-dagger dries up.
+so i dont know what that means that it has worn off but
+i am assuming it means that it isnt working
+so look into this if you wouldnt mind
+thanks,
+amberdrake
+~
+
+Sender  Ravario~
+Date    Sun Oct 31 00:21:41 2004~
+Stamp   1099200112
+Expire  1101619308
+To      venus~
+Subject testing personal messages~
+Text
+test
+~
+
+Sender  Ender~
+Date    Fri Nov  5 09:52:13 2004~
+Stamp   1099670519
+Expire  1102089150
+To      venus~
+Subject remorting~
+Text
+hey venus.. i was thinking about the third remort and i have some ideas
+on how to become remort since you said the portal thing is up in the air.
+maybe set up a remort store (kinda like portal store) but he is like quest
+master and sends you on 4 seperate quests (all somewhat challenging) to find
+4 peices of a key which you must join together to form a key to enter the 
+'Third Remort Portal Room' with remort portal inside.. and maybe have each que
+cost qp or make it so they need 4k or whatever qp to enter that room to remort.
+also could work for 2nd remort too.. like cost 4k for this quest master to give
+you hint on area and portal is free.. or any kind of combo like that.. 
+but i definetly think it should be quest involved.. cause you know as well 
+as i do that noone really likes the randomness of the portal.. im sure 90%
+of remorts got immortal help to find the portal.. or maybe just me ;p
+let me know what you think.. 
+{GEnd{ger
+~
+
+Sender  Tanis~
+Date    Sat Nov  6 10:28:50 2004~
+Stamp   1099758775
+Expire  1102177740
+To      venus~
+Subject Vnum~
+Text
+I think I may have written over a vnum
+I'm sorry! I'll try to stear clear
+of all the vnums for items already in use
+I was trying to work out an item and i think
+i wrote over an exsisting one...
+sorry!
+there was something wonky about it when i loaded it, which is why
+i think i wrote over one...
+ I wanted to let you know th=ough
+Thanks, Tanis ( who likes to build, and hopes he doesn't suck too awful bad...)
+~
+
+Sender  Seclar~
+Date    Sun Nov  7 21:55:40 2004~
+Stamp   1099886282
+Expire  1102305355
+To      sembiance~
+Subject top lists and QP~
+Text
+someone reminded me that I should be getting a 15% bonus on QP
+That is not the case - I am at the top of all 3 lists
+I never get more than 100 QP per quest, and what questmaster
+tells me is what I really get (unlike addict flag where it says
+x experience, but you really get 1.5x
+just thought I'd let you know that wasn't working...
+Take care,
+Seclar
+~
+
+Sender  Argon~
+Date    Sun Nov 28 22:59:59 2004~
+Stamp   1101704442
+Expire  1102741214
+To      raxin~
+Subject priestess mprog~
+Text
+Vnum:       [3001]
+Code:
+if name $n Argon
+say Welcome Master $N!
+bow $N
+else
+if name $n Venus
+beam $N
+say Good day M'lady.
+else
+if name $n Yavi
+pinch $N
+giggle $N
+else
+if ispc $n
+say Welcome $N, please rest awhile.
+endif
+endif
+endif
+endif
+~
+
+Sender  Seclar~
+Date    Sat Nov 13 21:38:12 2004~
+Stamp   1100403719
+Expire  1102822704
+To      sembiance~
+Subject hollyphant bug~
+Text
+Hi Sembi,
+   I'm missing a hollyphant tusk - so I did locate tusk and see that
+one is carried by all hollyphant
+unfortunately I never get it when I kill one.
+I cast all detect spells and don't see it before attacking. Then when
+I turn of autosac, there is no corpse... Even with a successful assassinate,
+there is no corpse left behind - thus either it's a bug (that no corpse 
+is generated), or it's a bug that one is supposed to be able to get
+the tusk (in the item list for the area)>
+the tusk (in the item list for the area)
+thanks,
+Seclar
+By the way, I still see no increase in my QPs for being top on all lists
+I have no way to know if the other benefits are working...
+~
+
+Sender  Ophelia~
+Date    Wed Nov 17 16:58:23 2004~
+Stamp   1100732602
+Expire  1103151522
+To      Venus Sembiance~
+Subject Sorry! Long absence.~
+Text
+Venus & Sembi --
+ 
+I am sorry for my long absence.  I installed Service Pack 2 on my laptop
+and my wifi has pretty much been screwed ever since.  It keeps kicking
+off every minute or so, which is totally frustrating.  I just got back
+from a 5-day stay at my sister's and hoped that my bro-in-law could sort
+it out for me but so far it is the same as ever.  In the meantime I 
+am seriously considering uninstalling the service pack since it has
+basically done nothing but give me problems since day 1.
+ 
+Anyway.
+ 
+That is why I have not been around lately.  I was trying to find some
+patch or online solution during my minute-long connections to the
+internet, and Microsoft knowledgebase is exactly zero help. If either
+of you have any clues how I might end my pain I would be glad to hear
+it ;) In the meantime I will check in when I can, barring my now-typical
+complications.
+~
+
+Sender  Ophelia~
+Date    Sat Nov 20 13:15:27 2004~
+Stamp   1100978165
+Expire  1103397337
+To      Venus Sembiance~
+Subject I'm back! Yay!~
+Text
+My wireless internet problems are -- cross fingers -- totally solved.
+So, I'm back.  Woot!
+~
+
+Sender  Xiatian~
+Date    Thu Nov 25 22:17:47 2004~
+Stamp   1101443382
+Expire  1103861873
+To      sembi~
+Subject anti-pals~
+Text
+Anti-pals are pretty much weak warriors - I have yet to get forsake 
+to work on a mob (leveling) and I'm told it almost never works on 
+players (pk), which is really their only good spell 
+I do 2x the damage with trip than I do with forsake...
+scratch that - I do 2x the damage with trip than harm
+I have yet to get forsake to land
+a-pals need something - forsake might be nice (tough to say
+since I've never experienced it working on a tough mob)
+if it would actually land.
+looking at the class, it should have something that makes
+it a desirable choice - it's got backstab, but thief 
+ROCKS with circle... 
+there is little offensive power to this class. Berserk
+pays a harsh price (1/2 moves no matter how many that is)
+so it'll unlikely ever get up to 100%, and gets +20/+20 
+for the sacrifice.
+I started this to understand what it can do, but I'm not 
+convinced that there is much going for it...
+I don't know how to improve it - it's pretty weak as a
+spellcaster and it's pretty weak as a fighter.  If I could 
+get forsake to work at a reasonable frequency I might feel 
+different - that would be a start.  
+then perhaps getting berserk a little more punch for the sacrifice 
+so it would rock a bit more as a fighter (given it only has 3
+attacks), but maybe forsake working better might be enough.
+It's tough to tell without experiencing it.
+Thanks for the great job!  I'm a alt of seclar - just trying to 
+understand other classes...
+Take care,
+Dan
+v
+V
+ 
+P
+~
+
+Sender  Xiatian~
+Date    Fri Nov 26 18:09:06 2004~
+Stamp   1101514325
+Expire  1103933356
+To      sembiance~
+Subject backstab~
+Text
+Hi Sembi,
+   Also, assassinate works down to around 20% as do most
+other skills like that.  Why does an anti-pals backstab
+not work once it's been used once?
+It's the only decent offensive weapon an antipal has
+and it's incredibly weak due to that fact.  (can't 
+flee can use it again, or as a remort get rescued, then
+use it...
+   Great job on the mud, just my observations about this
+class.
+   Take care
+Xiatian
+~
+
+Sender  Chame~
+Date    Fri Nov 26 22:53:06 2004~
+Stamp   1101531690
+Expire  1103950416
+To      Sembiance~
+Subject stuff you MUST code. or i eat yer bebeh.~
+Text
+I was thinkin about bash for warriors.
+Could you make it last between 2 OR 3 rounds on any 
+mob or person who's not immune to bash?
+It would could be 50/50 person chance of either 2 or
+3 rounds. Also, it could prevent anyone from fleeing
+WHILE they are stunned. And finally, if someone is
+stunned, the number of mellee hits that actually
+succeed could be drastically increased, from lets say
+alot of parrying/dodging/shield blocking, to none.
+At the same time, the chance of bash actually
+landing/stunning a person could be decreased to
+anywhere between 70-50% of the time, depending
+on perhaps a few variables, such as size of basher
+vs bashee, amount of hr/dr, and maybe even saves.
+ 
+One other thing, could warriors get a skill thats stronger
+than berserk? at lets say hero they could use it.
+and it would give alot more hr/dr than berserk does.
+ 
+ 
+I dunno what kinda paper work you'd have to go through
+to get this approved, but hey, i thought i'd write a note
+letting you know yer gettin fat. i mean.  i wuv you
+snuffle-ofagus (how the hell is that spelled).
+ 
+ 
+Chame.
+~
+
+Sender  Spatula~
+Date    Sat Nov 27 17:51:44 2004~
+Stamp   1101599618
+Expire  1104018737
+To      immortal~
+Subject segment code Red Forest~
+Text
+the segment code for red forest appears to still have a few bugs
+Here is what i did:  first i just started joinin the teeth without watchin
+when i noticed that i had joined all the teeth i had and did NOT have
+eight different shaft pieces.  So I logged on an alt that had all 16 teeth.
+This is what i found:
+white + silver = dark blue shaft piece
+Black + Faerie = dark blue shaft piece
+Brass + frost = light blue shaft piece
+Emerald + Rainbow = light blue shaft piece
+Green + Copper = pitch black shaft piece
+Sapphire + Amethyst = pitch black shaft piece
+Yellow + Gold = amber shaft piece
+Crystal + Topaz = amber shaft piece
+this leaves only four different shaft pieces, leaving out the white frosted, 
+dark marroon, dark brown, and crimson.  I continued to join segments, 
+the four shaft pieces joined to make 1/4 pieces of the hilt.  This is odd
+because originally each of the four shaft peices should have joined with
+one of the missing shaft pieces.  The 1/4 pieces joined to make the 1/2s
+The 1/2s would not join.
+~
+
+Sender  Spatula~
+Date    Sat Nov 27 17:55:25 2004~
+Stamp   1101599825
+Expire  1104018938
+To      immortal~
+Subject segment code~
+Text
+i forgot to mention, all the extra teeth i had somehow were changed
+they are no longer nodrop, i think this maybe due to the segment code
+~
+
+Sender  Chame~
+Date    Sat Nov 27 19:43:06 2004~
+Stamp   1101606312
+Expire  1104025395
+To      venus sembiance~
+Subject warrior stuff~
+Text
+Could warriors get the ability to dual wield weapons
+of the equal weight. or could secondary weapon max weight
+be increased to about 150 lbs? i mean, they are the beefiest
+class on the mud after all...
+ 
+i just think warriors need to have a little more to offer.
+ 
+Chame.
+~
+
+Sender  Seclar~
+Date    Sun Nov 28 19:03:00 2004~
+Stamp   1101690212
+Expire  1104109397
+To      sembiance~
+Subject quest points bonus not working for top~
+Text
+I don't know about other bonuses.
+Thanks!
+Seclar
+~
+
+Sender  Seclar~
+Date    Sun Nov 28 20:41:53 2004~
+Stamp   1101696195
+Expire  1104115320
+To      sembiance~
+Subject percenthint~
+Text
+Hi Sembi,
+   I continue to have "a bright hallway" in 
+newbie zone on my list of places to find, even though
+I've been there many times... not sure why that one
+doesn't register on my top list.
+Take care,
+Seclar
+~
+
+Sender  Spatula~
+Date    Mon Nov 29 05:19:50 2004~
+Stamp   1101727338
+Expire  1104146400
+To      argon~
+Subject weapons~
+Text
+Comparing all weapons level 80-100, trying to retain the original 
+spirit of the weapon, some are obviously NOT meant to be great 
+weapons.  Maintaining balance while improving the state of 
+weapons on the mud can be difficult.  Frankly, the fang from big 
+red and the new short sword seem overpowered when compared 
+to the other weapons.  I am all for better weapons, but this means 
+either everyone uses the fang or short sword, or several weapons 
+need an upgrade.  Assuming upgrades are in order, here are my 
+suggestions:
+this is too long for one sensible note, so a series is in order
+~
+
+Sender  Spatula~
+Date    Mon Nov 29 05:24:22 2004~
+Stamp   1101727582
+Expire  1104146669
+To      argon~
+Subject weapons~
+Text
+Hero level
+In my opinion there should be weapons at hero level that are better 
+than any other level weapons, except perhaps dragon claws.  
+This will require several upgrades.  
+[20420] The Golem Master's Weapon
+    has all forges and good bonuses, but with an avg damage of 
+    only 112, its not what i would call a real hero weapon.  an  
+    avgerage of 135 is more suitable to the hero status.
+[ 5946] Mila's Revenge
+   a great whip, hard to obtain, never used, and no wonder
+   avg 120 poison is NOT a hero level weapon.  wieght 50lbs is 
+   also harmful for dualing.  I would like to see this as a new   
+   choice for dualing.  wieght 40lbs avg 160 +30 hr/dr would suit it 
+   nicely.
+[11848] a tempered ->*<- throwing dagger
+   this is your dagger dual at level 100? maybe this weapon
+   was INTENDED to suck, cause it really does.  really its the avg 
+   78 that kills it.  change this to around 140.
+[19209] Demon's Claws
+    I dont have all the stats on these, the dark demon is the 
+    hardest mob outside of red forest.  His claws should be 
+    awesome, the noremove is nice, but again, a low avg
+    considering how hard these are to get, avg of 150 perhaps.
+[21025] a shimmering psionic great-axe
+    the world needs more and better axes.  again the only real 
+    problem is the low avg.  avg 120 is now the standard for level 
+    90.  try avg 155.  
+~
+
+Sender  Spatula~
+Date    Mon Nov 29 05:46:58 2004~
+Stamp   1101728910
+Expire  1104148024
+To      argon~
+Subject weapons~
+Text
+levels 95-99
+[20421] A golem thief's evil stiletto
+    i love this dagger, too bad the avg is too low.  is this a theme?
+    make avg 138, to just beat out the ice dagger of malicar
+[21031] the psionicist's staff
+    increase avg to 135 to not quite beat the quest staff, but be 
+    respectable on its own.  
+[20418] A golem's heavy mace
+    the best mace other than slayer.  i feel sorry for clerics.  this 
+    mace NEEDS to be avg 155.
+[ 5919] the Ivory Tusk
+    two-handed? i would LOVE to see a two-handed weapon that 
+    WORKS.  problem is the stats would have to be crazy.  why
+     not, lets try.  most have 3rd + haste + dual = 5 attacks round.  
+    no dual would be 4 attacks, so the weapon would have to make 
+    up for one attack every 4, or be roughly 25% stronger than a 
+    single handed weapon of same level.  avg 168 +60 hr/dr vamp 
+    vorpal two-handed +200 hp.  
+[  906] poseidon's Trident
+    highest level polearm.  also two-handed.  suggest avg 165 and 
+    double the hr/dr bonus.  
+[19211] an undead axe
+    raise avg to 130.  
+~
+
+Sender  Spatula~
+Date    Mon Nov 29 06:02:40 2004~
+Stamp   1101729810
+Expire  1104148965
+To      argon~
+Subject weapons~
+Text
+levels 90-94
+ 
+wow, no level 93 or 94 weapons at all.  
+level 92 the staff is set, wouldnt bother with the golden longsword
+i just dont really like it personally.
+level 91
+all these weapons are duals, and since there are the two great 
+duals at level 90, why bother here.
+level 90
+if i had my way the soul edge would be level 99 or 100, the 
+crimson stiletto would be avg 140 not 153....oh well
+[ 5934] the Ice Spear
+    should be a good spear.  raise avg to 100 and add vamp forge 
+    and +15 hr/dr
+[10612] the Forsaker
+    why is this two handed?  remove that and its good.
+~
+
+Sender  Ender~
+Date    Mon Nov 29 09:46:01 2004~
+Stamp   1101743303
+Expire  1104162386
+To      argon~
+Subject equipment~
+Text
+i dont know if this is even possible.. but maybe you could
+add elements onto equipment.. for instance like a ring
+or protection fire.. which would make you resist fire damage
+or stuff like that.. just an idea i think would be cool.. 
+this way you could have different eq depending on what you
+are fighting..
+{GEnd{ger{}
+~
+
+Sender  Rinaldus~
+Date    Mon Nov 29 21:50:09 2004~
+Stamp   1101786751
+Expire  1104205818
+To      Mindcry~
+Subject Chaos~
+Text
+What's up old friend.
+{x
+I'm sure you remember me, I'm back for now and I've been leveling.  I am also
+in Chaos again and doing well.  I'm up to level 60 and rolling right along.
+I hope all is well with you, and that you do log on more often.  I do have a
+question for you though.  As you may know I used to be lieutenant of Chaos,
+and I was wondering if you would grant me this position.  It would be an honor.
+Please let me know about your decision, and how things are faring with you.
+Thank you.
+{x
+Rinaldus aka Mantis
+~
+
+Sender  Argon~
+Date    Sun Nov 28 03:48:22 2004~
+Stamp   1101635480
+Expire  1104227321
+To      Spatula~
+Subject segment code~
+Text
+Hey, sorry all segment code is fixed now, i had some
+things missing, it all works now i tested every little bit
+this time
+and they arent supposed to be no drop anymore
+the original idea was to make them meltdrop but were made nodrop
+on accident, but then i descided it was hard enough to get them
+already so... =)
+Argon
+~
+
+Sender  Stealth~
+Date    Mon Nov 29 23:47:29 2004~
+Stamp   1101793852
+Expire  1104212865
+To      note to imp~
+Subject assassinate lag~
+Text
+consdiering assassinate and bs have simular damage formulas,
+i think assassinate's lag time needs to be the same as bs
+i just fought chame in the dpit and he got off 2 circles 
+b4 i could even get off an attack after assassinate.
+also, considering the lag on assassinate and bs, 
+there is no reason to use either in pk because circle alone
+is faster and has less lag.  could u please resolve this problem
+and give an incentive to use bs and assassinate in a pk? thanks
+~
+
+Sender  Rithjin~
+Date    Mon Nov 29 23:40:55 2004~
+Stamp   1101794471
+Expire  1104212464
+To      argon~
+Subject assorted clan stuff~
+Text
+Here is a couple things.  The guild is set in the mountains south of midgaard.
+from inside south gate of midgaard go 2s2e to At the foot of the mountain.
+and the door is the east exit of that room.  2 rooms will be used to
+lead from the mountain into the main hall.
+so far i'm wanting to pay for full upgrade on the backpack with +3 str
+ 
+with max upgrade to hit and damrolls
+that should be 30000 if i counted it right.
+Then i can pay for the shop and one potion of frenzy for 35k gold and 2700 qps
+i'll note descriptions as i can get em typed :P
+~
+
+Sender  Rithjin~
+Date    Tue Nov 30 00:14:53 2004~
+Stamp   1101795589
+Expire  1104214499
+To      argon~
+Subject 2 rooms descrip~
+Text
+here's the descriptions for the first 2 rooms coming into our hall
+{yA Dark Cavern{x
+The walls here are damp and light is scarce, coming only from
+deeper in the mountain.
+that room is east of At the foot of the mountain and its other exit is south
+{yA Dark Cavern{x
+As light begins to become more abundant the paintings of death and
+torture on the walls come into view.  The paintings become more and more
+grotesque with each one and some are drawn in blood.
+the exits of that room are north into the first A Dark Cavern and south
+into the Malice Main Hall.
+~
+
+Sender  Rithjin~
+Date    Tue Nov 30 00:25:41 2004~
+Stamp   1101796451
+Expire  1104215148
+To      argon~
+Subject Main Hall~
+Text
+{DMa{gl{Dice {yMain Hall
+After a long trek through the mountain caves you come to the {DMa{gl{Dice{x
+Main Hall.  {RTo{Yrch{Res{x line the walls keeping the room brightly lit.  The
+ground is undecorated and is nothing special for a cave of any type.
+The walls are covered with {rblood {xdrawn pictures of ways to kill the many
+races of the world.  The sounds of battle can be heard from the southeast whlie
+{Cominous glows{x come from the west.  The caverns opens to the east
+and a tall set of doors are closed to the south.
+    {G*{D A {rblood stained{D sacrificial pit is here.
+[xA darkelf in tattered blue robes wanders around chanting.
+ 
+looking at elf brings,  This is Ylvean, the {DMa{gl{Dce{x healer.  His demeanor
+is stern as he barely looks up at you before he goes back to chanting
+his simple spells.
+ 
+okay color bled on "After a.........come to the" line, typoed on while on line 6
+and typoed the color code on the darkelf
+ 
+exits are north to 2nd dark cavern, west to portal room, east to shop
+southeast to training room, south to rithjin's sanctuary
+look
+oops :P
+~
+
+Sender  Rithjin~
+Date    Tue Nov 30 00:40:58 2004~
+Stamp   1101797579
+Expire  1104216071
+To      argon~
+Subject Shop and rj sanctuary~
+Text
+{rThe {DIro{bn Mai{Dden
+{xWelcome to {rThe {DIro{bn Mai{Dden.{x
+This is {DMa{gl{Dice's{x small business enterprise.  Potions are supplied to the
+members of {DMa{gl{Dice{x for a modest price that pays for the upkeep of the
+shop with only a minimal profit.
+  The {DIro{bn Mai{Dden{x herself is here waiting for customers.
+her desc.   She is a tall darkelf with long black hair.  She is clothed in a
+tight fitting dark blue sleeveless robe, her face and arms showing scars of war.
+She waits patiently for you to decide on your purchase.
+ 
+the only exit is west to the main hall
+ 
+{DRit{ghji{Dn's {DSan{gctu{Dary{x
+Past the doors is the sanctuary of the leader of {DMa{gl{ice{x, {DRi{gthj{Din.
+{xThe walls are covered in art depicting his victories over the city of
+{YCloudy Mountain{x and the {DKi{bngd{Dom of Da{brkne{Dess{x.
+The cavern is quite plain with just a cot by the west wall and
+a desk against the opposite side.
+ 
+the only exit is closed doors to the north
+~
+
+Sender  Spatula~
+Date    Tue Nov 30 06:39:52 2004~
+Stamp   1101818528
+Expire  1104237611
+To      argon~
+Subject weapons levels  60-89~
+Text
+levels 60-89
+My personal rule for weapons in this range
+is a good weapon has avg damage = level
+and one forge.  vamp is worth about 25% of
+avg damage.  
+the standard to judge weapons by are clear.
+level 65 is scorpion death drop or eagle talons
+sadly, these are the best primary daggers until level 85
+the golem mage dagger then becomes the standard.
+as for duals, the dragon katana at level 60 is not bested
+until the chromatic dagger at level 79, which itself
+holds until level 90.   I would like changes so that 
+better weapons can be found every few levels, without
+besting these weapons at their levels.  This should 
+encourage use of different weapons without upsetting
+the balance of the mud.  Also, i wouldlike changes 
+so that levels 60-90 are not so focused on
+daggers.  Here are my recommendations:
+there are six swords at level 60 competing for your choice
+as a dualed weapon.  oddly enough, there are no good primary
+swords near this level.  
+ 
+[10606] sword of Darkness 
+    change weight to 10 lbs
+[31431] the Castellan's Longsword 
+    change weight to 40 lbs
+[21022] a shimmering psionic scythe 
+    change weight to 80 lbs
+these weight changes will open a large number of combinations
+for the six swords at level 60.
+ 
+~
+
+Sender  Spatula~
+Date    Tue Nov 30 06:42:35 2004~
+Stamp   1101818733
+Expire  1104237770
+To      argon~
+Subject weapons levels 60-89 (cont)~
+Text
+[11897] a silver Drakyri dagger
+    high enough level, the weapon should have a forge
+    suggest shock
+[4505] a throwing knife 
+    this should be a dagger, not exotic
+[11634] a diamond longsword 
+    make this competive with the level 64 daggers
+    raise avg to 50 and add vamp
+[21329] the Rapier of the Swordmaster 
+    this sword should be good.  its too heavy
+    who ever heard of a 350lb rapier?  still
+    it doesnt make sense as a dual. change
+    weight 50lb.  raise avg to 65.  
+[23205] the Liquidator 
+    make this a primary, weight 60 lbs
+    it idens as avg 56, but actually is avg 63
+    i guess i gotta start checkin that more
+    needs forges, suggest flame vorpal
+[23206] resurgence 
+    this should be the next dual.  
+    raise avg to 62 add frost
+[11672] a sliver of darkness 
+    ive targeted this to be the inbetween dagger
+    raise avg to 70
+[11875] a finely balanced adamantite longsword 
+    next step in primary.  raise avg to 70
+[19809] an axe of defoliation  
+    raise avg to 75
+[11726] an adamantite kris 
+    raise avg to 72
+[11867] A Hunter's Spear 
+    add vamp
+[21034] TaIJaN Guard's Mace 
+    raise avg to 75
+[19812] a willowent whip 
+    raise avg to 80
+[ 8406] The Fabuously Wealthy Baronet Von Bruinwald's Cane of Striking
+    raise avg to 80
+[11725] an adamantite shortsword
+    raise avg to 80
+[ 8418] Storm Bringer
+    to be true to its origin, this needs vamp
+    raise avg to 68, to be slightly better than
+    the level 79 chromatic dagger.
+[21077] a huge iron maul
+    this is a two handed weapon.  the stats are for a single handed 
+    weapon.  make it avg 100 and add vamp shock.  that might fix it.
+[11854] a sapphire bladed -=+)> stiletto
+    the next dual dagger.  raise avg to 80
+[20405] A golem sword
+    avg 65 seems a bit too low.  should be avg 80 
+    the really high hr/dr makes it competitive at avg 80
+[ 8404] Axe of Ulric
+    someone made a dual capable axe.  what happened?
+    suggest avg 83 sharp shock +5 hr/dr
+~
+
+Sender  Spatula~
+Date    Tue Nov 30 21:58:19 2004~
+Stamp   1101873834
+Expire  1104292719
+To      immortal, ophelia~
+Subject help files~
+Text
+Word of recall help file is incorrect, but the change should be made to
+the spell, not the help file.  The spell CAN be cast on others.  Also, 
+using this spell to escape a battle causes a greater exp loss than fleeing
+I dont really think this should be.
+ 
+ 
+Portal help file is incorrect.  By class only mages get the spell portal.
+ 
+ 
+Recall help file is incorrect.  There is currently no need nor benifit
+to practicing this skill.  Also the foward slash (/) shortcut is inoperable.
+~
+
+Sender  Ender~
+Date    Wed Dec  1 13:11:25 2004~
+Stamp   1101928795
+Expire  1104347495
+To      argon~
+Subject clan~
+Text
+Heya argon.  incase you dont know this alt.. its me, Haiden
+from shadow, before you left.. anyways venus told me to wait
+til you came back before i asked to start a new clan.. now
+i have enough gold (i have over 1 mil) and qp (i have over
+38k qp) .. so whenever your free, if you guys feel like adding
+a new clan.. let me know.. heres my idea.. 
+               [{RL{yi{rT{w]
+           {RLords {yin {rTriumph{w
+ 
+A Clan whose soul purpose to succeed is to help all allies
+and destroy all enemies.. whether they be ours or a paying
+customers as we can be hired for protection. 
+I think i am qualified to be a MCL as i have been on her
+before pwipe occurred and have made atleast 6 remort heros
+on here since.. i have killed almost every mob on the game
+including those in red forest.
+Thanks
+{GEnd{ger
+~
+
+Sender  Argon~
+Date    Wed Dec  1 18:06:21 2004~
+Stamp   1101946334
+Expire  1104365188
+To      Ender~
+Subject New Clan~
+Text
+Ender, I would really like to see all of our current clans have
+at least 5 people in them before making more clans.....
+but, since you have been such a model and loyal player I'll go ahead and
+let you have your own clan. You deserve and have earned it.
+  
+1) The name and color of the clan will have to be preapproved
+   by Venus (let me know if she already has).
+  
+2) The initial cost for the clan will be 50K gold.
+   This will get you a main hall, 3 sets of free eq (not including your own)
+   A healer and a donation pit.
+  
+3) The exit to your clan needs to be changed from Temple of Immortals
+   to some place of your choosing and it will have a door but no locked.
+  
+4) You get 50 clan points to decorate your clan hall.
+   Extra rooms = 10 clan points
+   Deco objects = 5 clan points
+   Deco mobiles = 5 clan points
+  
+5) Last of all.....
+   I want you to send me a note with your main halls room name and description.
+ 
+   Also in the note you should include:
+   How many extra rooms you want, their names, description and
+   which way they exit and to what room.
+   Whether you want a guildmaster, potion seller or what.
+   Your clan points will get you the mob but depending on which
+   kind you want the prices are located in the RotRD info room.
+   make sure to put the names of mobs, their short and long desc
+   and the desc you see when you look at them.
+ 
+   Also put what you want your eq to be named its short and long desc...
+   all 3 types, backpack, flask and light.
+ 
+I think that about covers the basics, any upgrades you want
+we will do after you send me your note and I'm done building it.
+Oh and dont forget to add color to the descriptions and names of stuff
+also the healers name and the name of the donation pit...
+ 
+Sorry the note was so long =)
+Argon
+~
+
+Sender  Ender~
+Date    Thu Dec  2 14:46:32 2004~
+Stamp   1102020620
+Expire  1104439601
+To      venus~
+Subject clan~
+Text
+since i havent seen you on in a while i am writing a note.
+i talked to Argon and he is willing to set up a new clan
+for me since i have been on so long and have like infinite 
+gold and qp right now.. alls he needs you to do is approve
+my clans name/colors.. ok.. its {w[{BE{glit{Be{w]
+so i would look like:
+{w[{BE{glit{Be{w] {C[MCL] {r({wR{r) {wEnder - {Y[{GP{gsionic {GA{gssassin{Y]{w
+what do you think? note me back or tell me when im online so
+i can tell Argon all the stuff i want.. thanks venus
+{GEnd{ger{}
+~
+
+Sender  Rithjin~
+Date    Thu Dec  2 15:45:34 2004~
+Stamp   1102024329
+Expire  1104443139
+To      argon~
+Subject training hall~
+Text
+{DMa{gl{Dice Trai{gning {DHall{x
+The dimly lit tunnel leads into an enormous circular chamber. The room is
+brightly lit as the {Rto{Yrch{Res{x set high into the walls never seem to
+grow dim.  In the center of the room a {ysandpit{x is deeply set into the
+floor for training.  The walls of the pit are lined with racks of
+{rbloodstained weapons and armor.{x  Painted on the ceiling is the clan  
+symbol of an {raxe splitting {xa {Dhuman skull.{x  A dimly lit tunnel to
+the northwest leads back to the Main Hall.
+~
+
+Sender  Ender~
+Date    Fri Dec  3 07:51:35 2004~
+Stamp   1102082942
+Expire  1104501101
+To      argon~
+Subject clan~
+Text
+well i tried IMing venus and i also wrote her a note about
+my clan name and colors.. she hasnt written back.. but i like
+what i have for a clan hall and stuff and i have a second
+choice for a name if she doesnt like this one.. so it could
+always be changed.. but here goes..its gonna be long so i will
+segment these notes..
+Clan name and color: {w[{BE{glit{Be{w] <--please leave brackets
+                                          even in rooms
+Rooms:
+{w[{BE{glit{Be{w] {gCompound.
+    {BIt's cold here, but that hasn't stopped the warriors
+you see around you.  All of them skillfully and silently head
+from one place to the next with a sense of purpose. You
+can tell this is the {w[{BE{glit{Be{w]{B. Here sits {w[{BE{glit{Be{w]
+{B's cleric. To the east you see a portal room.  The south
+is a potion shop. West lies {w[{BE{glit{Be{w]{B's Master Warrior to
+help with your training. Take a rest in the pool if your tired.
+         {G* {B{w[{BE{glit{Be{w]{B's donation pit is here.
+         {G* {w[{BE{glit{Be{w]{B's shield shaped pool looks refreshing.
+{BRenkun sits here chanting.
+Exits: (up-exit)east west south
+ 
+{w[{BE{glit{Be{w]{B's Portal Room.
+    {BGateways to far lands are here waiting for you to enter.
+where would you like to go today?
+Exits: west
+         {G* {BPortal to Underdark
+         {G* {BPortal to Cloudy Mountain
+         {G* {BPortal to Midgaard
+ 
+{w[{BE{glit{Be{w]{B's Training Room.
+    {BYou look around at a vast library full of war strategy
+and combat books. The back wall is full of weapons. Many
+you've seen, most you haven't. A master trainer waits for
+your command.
+Exits: east
+Dentle nods at you.
+ 
+{w[{BE{glit{Be{w]{B's Potion shop.
+     {BA kind man greets you as you enter. You can feel the 
+magical power this place holds. These potions must be good.
+Exits: north
+Bendim holds a glowing potion.
+ 
+thats it for rooms..and this note
+{GEnd{ger
+~
+
+Sender  Ender~
+Date    Fri Dec  3 08:09:06 2004~
+Stamp   1102083714
+Expire  1104502168
+To      argon~
+Subject clan #2~
+Text
+ok well this is the break down of stuff ..
+Rooms- Compound - 10 cp
+       Portal  - 10cp
+       Training - 10cp
+       Potion - 10 cp - total 40.. 10cp left
+Mobs - Renkun - Healer - part of 50k - lvl80 -upgrade later
+ - short descrip - Renkun, {w[{BE{glit{Be{w] Cleric
+ - long descrip - Renkun sits here chanting.
+ - look Renkun - A short man sits chanting an ancient hymn.
+     - Dentle - Trainer - 5cp + 10k gold 1k cp - gain/train/prac
+ - short descrip - Dentle, Master Trainer
+ - long descrip - Dentle nods at you.
+ - look Dentle - Muscular and tall, you can tell he is a
+                 force to be reckoned with.
+     - Bendim - Potion Shop - 5k gold 50 qp
+ - short descrip - Bendim
+ - long descrip - Bendim holds a glowing potion.
+ - look Bendim - A man with a weird aura sits behind a counter.
+Items - pit - 5cp (all 50 used)
+      - pool - 15k gold 1.2k qp - standard, upgrade later
+      - portals - Cloudy - 20k gold 1k cp
+                - UD - 20k gold 1k cp
+                - Midgaard - 20k gold 1k cp
+so far i have used 50cp 90k gold and 5250 qp.. next note 
+potion/clan eq
+{GEnd{ger
+sorry plus 50k startup so 140k gold
+~
+
+Sender  Ender~
+Date    Fri Dec  3 08:28:32 2004~
+Stamp   1102085171
+Expire  1104503319
+To      argon~
+Subject clan #3~
+Text
+ok and now for the rest..
+Potion - 20k gold 1500 qp - standard will upgrade later
+ - {BBottle of {w[{BE{glit{Be{w] {Bvapors.
+{wClan Eq - part of 50k startup - will fully upgrade all
+Flask - will fully upgrade plus Con stat
+ - Hum Burnproof - liquid = elixir
+ - short descrip - {w[{BE{glit{Be{w]{B's flask.
+{w - long descrip - {w[{BE{glit{Be{w]{B's flask of elixir.
+{wFlame - same - +Int
+ - short descrip - {w[{BE{glit{Be{w]{B's Cold {rF{Rl{ya{Rm{re{B.
+{w - long descrip - same as short.
+backpack - fully upgrade plus Con (backpack has con.. not light)
+ - short descrip - {GEnd{ger's {w[{BE{glit{Be{w]{B Backpack.
+{w - long descrip - {GEnd{ger's {w[{BE{glit{Be{w]{B Combat Backpack
+ 
+{wI think that should be it.. just let me know how much gold/qp
+you need for all this.. then i want to fully upgrade everything to 
+the max.. well besides some stuff.. if your ever on during the 
+day i would like to tell you it all.. any questions.. please 
+note me.. again venus has not responded.. but im sure all will
+be fine.. thanks Argon
+{GEnd{ger
+~
+
+Sender  Argon~
+Date    Fri Dec  3 17:57:28 2004~
+Stamp   1102118432
+Expire  1104537457
+To      Ender~
+Subject Clan Stuff~
+Text
+Ok Im done with all the basics and the upgrades that you noted to me
+Your total for everything is <310k gold and 6750 QP's>
+I appreciate the detailed notes, they made it alot easier.
+ 
+On the backpack I made the short and long desc different cause
+only your backpack has your name on it, restrung
+ 
+I think thats all....OH.... I need a description of your clan for
+when you type clan Elite... Thank you
+ 
+Argon
+~
+
+Sender  Argon~
+Date    Fri Dec  3 18:00:46 2004~
+Stamp   1102118556
+Expire  1104537655
+To      Ender~
+Subject I forgot~
+Text
+I also need to know where you want your main exit to go
+they are all moved from Temple of Immortals and made
+two-way exists with a door, so other clans can raid you,
+they shouldnt yet but when they are allowed to then you
+will get guards and stuff
+~
+
+Sender  Argon~
+Date    Sat Dec  4 20:58:02 2004~
+Stamp   1102215953
+Expire  1104634694
+To      Venus~
+Subject Top 4 Code Changes~
+Text
+These are the top 4 code changes, hopefully Sembi will
+be able to do them on Sunday, I hope, I hope =)
+The first one is my idea which you approved, the rest
+came from listening to the players on chat since Ive been back
+ 
+1) Abbility to dual any weapon for all classes as long as primary weighs more
+   - No restriction of has to be less than weight of 40
+   - No restriction of has to be 1/2 weight either
+   - Warriors ONLY can dual weapon same weight as primary
+     cause they should be the strongest class on the mud
+ 
+2) Take the cap off of attributes, right now spells that give
+   bonuses to attributes are worthless once you have trained
+   your stats to the max, also bonuses from eq is pointless
+   because of this cap....remove it please =)
+ 
+3) The lag time on assassinate should be lowered to match that
+   of backstab, the difference then between thieves and
+   assassins would be one gets bingo and one gets circle
+ 
+4) Fix AC so that it actually matters, right now it does nothing
+   but add numbers to your score....
+ 
+{^Argon{x
+ 
+~
+
+Sender  Argon~
+Date    Sun Dec  5 13:02:00 2004~
+Stamp   1102273346
+Expire  1104692527
+To      seclar~
+Subject blanket~
+Text
+I got your blanket of power, at least i think its yours
+ 
+Argon
+~
+
+Sender  Seclar~
+Date    Mon Dec  6 01:53:31 2004~
+Stamp   1102319671
+Expire  1104738821
+To      argon~
+Subject blanket~
+Text
+D'oh!
+I must have gone to sleep and gotten called away.
+Thanks for picking it up!
+Seclar
+~
+
+Sender  Ender~
+Date    Mon Dec  6 08:16:06 2004~
+Stamp   1102343220
+Expire  1104761770
+To      argon~
+Subject clan~
+Text
+ok.. when i see you on i will give you that gold and qp
+plus i want to upgrade my eq/pool/potions.. also i need 
+to know what the commands are to clan people.. now for
+the description (ie. clan elite):
+ 
+{w[{BE{glit{Be{w]:
+  {BThe world is changing.  Warriors all around are starting
+to stick out as either simple followers, or {gleaders{B. A
+group of {gclansmen{B have stepped up to lead those less noble
+down the path {gvirtue{B. Now is the time to ask yourself.
+Should I stand by and watch, or should I take charge and join
+the {w[{BE{glit{Be{w]{B. We are clan of {gtalent {Band {gwisdom{B
+as one of us you can enjoy the splenders of being one of the {gbest{B
+on the mud.  {gPersonality {Band {gintellect {Bare the main traits
+for this clan.  The only thing you have to ask yourself is... are
+you {w[{BE{glit{Be{w]{B?{}
+ 
+{wthanks argon.. thats all for now
+{GEnd{ger
+~
+
+Sender  Rithjin~
+Date    Mon Dec  6 14:35:00 2004~
+Stamp   1102365367
+Expire  1104784514
+To      Argon~
+Subject NEW STAT CAPS~
+Text
+STRENGTH: 682  INTELLIGENCE: 249  WISDOM: 919
+DEXTERITY: 766  CONSTITUTION: 495 
+that was a roll i got when i tried to create a new character
+that could be a bad thing i guess
+~
+
+Sender  Jintaru~
+Date    Mon Dec  6 14:37:01 2004~
+Stamp   1102365483
+Expire  1104784630
+To      Argon~
+Subject stat max cap cont.~
+Text
+hey this is still rith
+i created this character to see what would happen with stats after creation
+my rolls still all said 500+ and so on but my character has maxed stats
+all at 40
+~
+
+Sender  Argon~
+Date    Mon Dec  6 18:24:19 2004~
+Stamp   1102379190
+Expire  1104798269
+To      ender~
+Subject clan stuff~
+Text
+Hey I need one more thing from ya....
+ 
+What are your clan requirements?
+ 
+Membershp Requirements:
+Alignment: ?
+Class:   ?
+Race:   ?
+Level:  ?
+Upkeep:  ?
+Activity:  ?
+ 
+check out clan shadow to get a good idea
+ 
+Argon
+~
+
+Sender  Seclar~
+Date    Tue Dec  7 00:30:07 2004~
+Stamp   1102401149
+Expire  1104820221
+To      argon~
+Subject diamond longsword~
+Text
+white knight in divided souls has 370lb longsword
+(one word - quite a few like that - you will get a
+number of them if you look for longsword just 
+like you did with sword and dagger)
+get sword doesn't work with a number of longswords
+Take care,
+Seclar
+~
+
+Sender  Ender~
+Date    Tue Dec  7 07:38:11 2004~
+Stamp   1102427059
+Expire  1104845899
+To      argon~
+Subject clan~
+Text
+{RMembership Requirements:
+{gAlignment: {BAny
+{gClass:     {BAll Classes Welcome
+{gRace:      {BAll Races Welcome
+{gLevel:     {BRemort Encouraged.  Consult with {GEnd{ger
+{gUpkeep:    {B5k gold, 1k qp monthly
+{gActivity:  {BOnce Monthly Check-in Required
+ 
+{wthere ya go argon.. i will try to get on sometime in the
+P.M. to get my clan eq.. but its hard with my schedule.. 
+{GEnd{ger
+~
+
+Sender  Argon~
+Date    Sun Jan  2 13:32:07 2005~
+Stamp   1104694674
+Expire  1104780735
+To      Chame~
+Subject Legend~
+Text
+Once a player reaches 100% in each of the top scores, they can 'become'
+a legend. To do this they must do must complete a grand quest,
+different depending on if they pursue Nephilim or Eidolon.
+Once they complete this quest they become either a 'Nephilim Legend'
+or a 'Eidolon Legend'
+They lose everything at this point. Skills, spells, items,
+quest points, gold, everything.
+They can buy ANY spell or skill with gold or quest points.
+Every 5 levels of a legends life, they must complete a quest
+in order to continue advancing.
+These quests involve collecting X items and joining them together
+to form a legend shard.
+Over the course of their 100 levels they will create 20 of these shards.
+These 20 shards then join togther into XYZ and does XYZ. 
+Only legends may hold these items and shards. 
+And they can't complete or gather items for a shard until they have
+reached the correct level.
+They also must kill an opposing legend every 10 levels or
+else they cannot continue advancing.
+Being mortal enemies each legend type is vulnerable to attack
+from the other, regardless of choose status.
+Legends cannot understand anything anyone says on any channel. 
+In order to undertand and to be understood, they need to purchase 
+the racial languages.
+Each racial languages allows two-way communication with
+that race on any channel.
+ 
+This is what we have so far. it should start getting coded today
+~
+
+Sender  Ender~
+Date    Tue Dec  7 11:55:28 2004~
+Stamp   1102442275
+Expire  1104861337
+To      argon~
+Subject clan upkeep..~
+Text
+sorry argon please make upkeep section of requirements
+read - 
+ 
+{gUpkeep:    {B5k gold, 1k qp 
+            Upkeep low to let players upgrade their personal stats
+ 
+{wthanks
+{GEnd{ger
+~
+
+Sender  Seclar~
+Date    Thu Dec  9 04:38:35 2004~
+Stamp   1102588857
+Expire  1105007923
+To      sembi~
+Subject hide~
+Text
+Hi Sembi,
+Hide should make you not show up on scan
+I understand that detect hidden lets you see the 
+hidden mob/player in the room, but hide should 
+still work if you are one or two rooms away...
+Otherwise hide serves no purpose...
+ 
+plus it just makes sense that perception can 
+reveal someone in the room, but far away one
+would likely be unable to see them...
+would likely be unable to see them...
+ 
+Thanks,
+Seclar
+~
+
+Sender  Ender~
+Date    Thu Dec  9 09:08:58 2004~
+Stamp   1102605167
+Expire  1105024147
+To      argon~
+Subject clan stuff.. final one..~
+Text
+ok just 2 minor things.. first.. can you make my name
+Ender.. look like {GEnd{ger {wand not {GEnd{wer like it
+is 2 times when you type clan elite.. if this is a big
+hassle dont worry about it.. but if its not.. thanks ;p
+also.. i want to upgrade my clan potions.. i want to bring
+them to level 56.. which is 41 more then they are now..
+so it would cost me at 15k gold and 400qp a level..]
+615k gold and 16.4k qp.. which i have and can give you 
+whenever.. thanks argon.. 
+{GEnd{ger{}
+~
+
+Sender  Ender~
+Date    Fri Dec 10 09:33:07 2004~
+Stamp   1102692940
+Expire  1105111995
+To      argon~
+Subject clan portal.~
+Text
+hey argon.. dont mean to bother you but i remember
+shadow having 4 portals.. and i asked spatula and he
+said valor has 4 too.. now i dont know if either are supposed
+to but if you are allowed 4.. i would kinda like one to 
+golem settlement.. also i want my new entry to my clan
+somewhere close but hidden from red forest.. if you know
+of a good place, let me know.. otherwise i will find one
+there.. and do i have any things left to add a spacer room..
+let me know.. thanks
+{GEnd{ger
+~
+
+Sender  Seclar~
+Date    Mon Dec 13 22:53:41 2004~
+Stamp   1103000131
+Expire  1105419242
+To      argon~
+Subject golem's heavy mace~
+Text
+Hi Argon
+  FYI Golem's heavy mace is 250 lbs - I'm not sure 
+how heavy a heavy mace should be - thought i'd let
+you know - it's carried by golem cleric.
+Seclar
+~
+
+Sender  Argon~
+Date    Sun Dec 19 21:51:14 2004~
+Stamp   1103514765
+Expire  1105933890
+To      Brynn~
+Subject Level 2-8 vnums~
+Text
+{c4416   1115   600    1114   1521   615    601
+{C9506   1524   3027   1503   3024   3352   4053
+{c9507   3023   6622   1701   3501   3402   4418
+{C9508   3421   6647   3026   4057   5759   5751
+{c25113  4004   9509   8806   4714   5768   6000
+{C4056   9513   4715   9592   7201
+{c4409   9583   6104   10706  7202
+{C4413   14212  7706   14213  9505
+{c6518   14532  8700   31414
+{C9510   25116  9504
+{c18614  31413  14231
+{C31432
+{WIn no perticular order.{x
+Argon
+~
+
+Sender  Sembiance~
+Date    Mon Dec 27 12:00:33 2004~
+Stamp   1104170464
+Expire  1106589644
+To      Argon~
+Subject Email score templates~
+Text
+Sorry, the correct email is: sembiance@cosmicrealms.com
+~
+
+Sender  Argon~
+Date    Mon Dec 27 12:58:41 2004~
+Stamp   1104174103
+Expire  1106593131
+To      sembiance~
+Subject emials~
+Text
+I sent you 2 emails, one with the score templates and one
+with 3 templates for the ascii players see when they log in,
+we were hoping that when a player logs in they would see 1 of 3 random
+pictures, i dont know if that possible, but venus said
+she saw it somewhere else. if it cant be done will you please
+our current log in art with the new one i sent, it fixed it so
+it looks alot better.
+Thanks!!
+~
+
+Sender  Seclar~
+Date    Wed Dec 29 01:12:01 2004~
+Stamp   1104304784
+Expire  1106723531
+To      sembiance~
+Subject bug in KOD~
+Text
+I am missing two items in KOD - one is a power pill (locate shows it 
+is on Dr. Kevorkian).
+Also, Kevlorkian can be seen to have a different weed on him.
+I did manage to kill him, but nothing is in the corpse - i.e. those two
+items cannot be gotten...
+thanks,
+Seclar
+~
+
+Sender  Seclar~
+Date    Wed Dec 29 17:21:02 2004~
+Stamp   1104362525
+Expire  1106781669
+To      sembiance~
+Subject KOD items~
+Text
+never mind - Argon removed the items, so should be good now.
+In general items on shopkeepers (only location) shouldn't
+count on top list just like shopkeepers themselves don't
+thanks!
+Seclar
+~
+
+Sender  Stumpy~
+Date    Thu Dec 30 15:13:49 2004~
+Stamp   1104441397
+Expire  1106860462
+To      imm~
+Subject Mob and Eq guidlines~
+Text
+I understand the guildlines are not finished yet, but
+i have concerns based upon what they currently are.
+My concerns are that the mob guildlines would create mobs
+significantly tougher than the existant mobs, while the
+equipment guildlines would substantially lower the capabilities
+of the players.  I personally think this would create a great
+challenge in leveling a character, but as we have seen with
+the advent of hours, MOST players do not want such a challenge.
+I do honestly fear for the playerbase if these changes are made.
+also, i have concern for newbies if these mob guildlines are
+enforced, as a level 1 character without a spellup will have
+to flee from a mob with 40 hps 5 hr 3 dr (the guildlines for
+a level 1 mob).  I agree that changes at the hero level are
+needed, and that the entire mud needs standards to balance it.
+~
+
+Sender  Seclar~
+Date    Sat Jan  1 21:18:49 2005~
+Stamp   1104636130
+Expire  1107055148
+To      sembi~
+Subject mobs with items which disappear upon death~
+Text
+Kalas is an example, has some guantlets which are not
+there when he dies, but a cleric can cast heat metal
+and he'll drop them...
+Is this by design (only certain classes can get 
+the item, or need to get help if can figure it out)
+or is this a bug for the top list?
+or is this a bug for the top list?
+oops
+also, earlier there was a key on tariq that had 
+inven and frag flags which disappeared on death
+(but not on dropping).  Argon fixed that one.
+So the items are there, but they cannnot be
+gotten (unless charm is possible - order mob
+to drop item).
+Later,
+Seclar
+~
+
+Sender  Seclar~
+Date    Sat Jan  1 22:44:20 2005~
+Stamp   1104641188
+Expire  1107060270
+To      sembiance~
+Subject hallway in assassin's guild~
+Text
+percenthint shows I need hallways in assassin's guild
+in UD. I've just gone through it all, and the only
+place I can't go is where it says "you can't go
+in there".  insides of guilds should be off of 
+the top list since only one class can go there.
+(unless that is by design), but in case it's
+not...
+the Vnum for the room I can't find is - 16414.
+Thanks,
+Seclar
+~
+
+Sender  Enzio~
+Date    Sun Jan  2 14:27:26 2005~
+Stamp   1104697755
+Expire  1107116858
+To      imm~
+Subject leaky cauldron item bugs~
+Text
+there are two kinds of parchment, single spell, and triple spell parchments
+the single spell parchment has 3 reserved spells, while the triple spell
+parchment has only 1 reserved spot for spells - i.e., the names are revrsed
+from the items....
+Thanks,
+Enzio
+P.S. help scribe says it takes 8cp - what does that mean?
+~
+
+Sender  Seclar~
+Date    Sun Jan  2 16:39:09 2005~
+Stamp   1104705609
+Expire  1107124758
+To      imm~
+Subject fun house - item issue~
+Text
+Some stolen money, turns into silver/gold and doesn't 
+register as an item when picked up (off floor).
+Thus finding it doens't register it from top list.
+Take care,
+Seclar/Chame
+~
+
+Sender  Seclar~
+Date    Sun Jan  2 18:20:38 2005~
+Stamp   1104711705
+Expire  1107130860
+To      imm~
+Subject humongous pile of gold in ciquala's lair ~
+Text
+I think this is like the pile of stolen money in fun house...
+counts as an item, but turns into money when picked up
+Later
+Seclar
+~
+
+Sender  Slice~
+Date    Tue Jan  4 12:24:13 2005~
+Stamp   1104863150
+Expire  1107282259
+To      venus~
+Subject bash~
+Text
+just to let you know.. i became a myr war and didnt get 
+bash.. its not a huge deal.. so i havent gained it either
+so if your ever bored and want to fix it i appreciate it
+;] {GEnd{ger{}
+~
+
+Sender  Slice~
+Date    Tue Jan  4 14:47:23 2005~
+Stamp   1104871907
+Expire  1107290863
+To      venus~
+Subject clan graphic~
+Text
+i was thinking about something with a shield.. kinda
+like valors but a more evil looking shield.. the kind
+with 3 points at the top.. like
+|\_/\_/|
+| Elite|
+\      /
+ \____/ 
+you get the idea.. and if you could use the clan colors
+{ggreen {}and {bblue{} other then that i really dont 
+know what i want.. im bad at graphics.. i just want it 
+to look like what an 'Elite' clan would have.. sorry
+if this doesnt help ;p
+{GEnd{ger{}
+~
+
+Sender  Stumpy~
+Date    Tue Jan  4 17:08:40 2005~
+Stamp   1104880981
+Expire  1107299329
+To      venus~
+Subject directions~
+Text
+Aarakocran City  [LL/ML]
+incorrect 3s 3u 3s d s 2e 2s 
+correct 2s 3u 3s d s 3e
+ 
+ 
+Darathorn's Pit 
+incorrect 15s d s n
+correct 15s d n
+Descent to Hell   [ML]
+incorrect 5s 3w 8s 2e 4s 4d 2s 2e s w d 2w 
+correct 3s 3w 2e 4s 4d 2s 2e s w d 2w
+also listed in 'H'
+ 
+ 
+Draconian Village   [ML]
+messy 3s 3e 4n 2w 2n 2e n
+reccomend  3s 4e 4n
+ 
+ 
+Dragon Tower   [LL/ML] 
+incorrect 3s 8e 2n e 2n w n
+correct 3s 8e 2n 2e n w n
+ 
+ 
+Dwarven Catacombs   [LL] 
+messy 3s 3e 4n 2w 10n 2w s 4n 2w 2n w 2n 3e 2s d
+reccomend  3s 3e 4n 2w 10n 2w 3n 3w 2d
+ 
+ 
+Gnome Village   listed twice under g
+ 
+ 
+Hall of Worlds   [ML]
+incorrect 3s 13e 3n
+not connected
+ 
+Heaven   [LL/ML] 
+messy 3s 3w 8s 2e 4s 4d 2s e e s w d w 9u 
+reccomend 3s 3w 8s 2e 4s 4d 2s 2e s w d w 9u
+ 
+High Tower of Sorcery   [LL/ML]
+incorrect 3s 3w 8s 2e 7s 2w n 2w s 2e n
+correct 3s 3w 8s 2e 7s 2w
+ 
+ King's Castle   [ML/HL]  
+incorrect 3s 4w n w 2s e n 7e 3s 3e
+correct 3s 8e 2n 2e n w 5s w
+ 
+Labyrinth of Kronos, The   [HL]
+messy 3s 3e 4n 2w 10n 2w s 4n 2w 2n w 2n 3e 2s d 6s 2e
+reccomend 3s 3e 4n 2w 10n 2w 3n 2w 2n w 2n 3e 2s d 6s 2e
+ 
+Laka'Rhi'Nata   [ML/HL]
+incorrect 3s 3e 4n 2w 6w n w d 2s 2w n
+correct 3s 3e 4n 2w 6n w d 2s 2w n
+ 
+Marsh, Old   [LL]
+incorrect 3s 21 e 4s 2w 2s 3w s
+not connected
+also listed in 'O'
+ 
+~
+
+Sender  Stumpy~
+Date    Tue Jan  4 17:23:04 2005~
+Stamp   1104881244
+Expire  1107300194
+To      venus~
+Subject directions2~
+Text
+Mudschool Fieldtrip (Zoo)  [Newbie]
+incorrect s u n
+correct s u e s
+ 
+Mudschool #1 (Newbie Start Point)   [Newbie]
+incorrect s u e s
+correct s u n
+ 
+New Ofcol
+incorrect 3s 4w n w 5s
+correct 3s 4w n w 6s
+ 
+Ofcol   [LL]
+incorrect 3s 4w n w 3s e n 4e 4w 4s w
+correct 3s 4w n w 6s 4w 4s w
+ 
+Old Thalos   [LL]
+incorrect 3s 6e 5s
+correct 3s 8e 2n 3e 2n 2s n u
+ 
+ Plains of the North   [LL]
+incorrect 3s 4w n w s w n
+correct 3s 4w n w
+ 
+Redferne's Residence
+incorrect 2s 3u 2n
+was unable to find, i do not think it to be its own area
+ 
+Red Forest   [Hero]
+incorrect 3s 6e 4s 2e s 3e d 2e 5n e n
+correct 3s 6e 4s 2e s 2e d 2e 5n e n
+ 
+ Solace, Town of  [LL]
+incorrect 3s 3e 4n 2w 6n w
+correct 3s 3e 4n 2w 6n w n
+ 
+Temple of the White Lotus   [LL/ML]   
+messy  3s 21 e 4s 2w 2s 6w s
+reccomend 3s 21e 5s d 7w s
+ 
+Valley of the Titans   [LL/ML]
+incorrect  3s 8e 2n 2e n C 6s 2e s 2w 5s 4w s
+correct 3s 8e 2n 2e n w 6s 2e s 2w 5s 4w s
+listed correctly under 'T'
+~
+
+Sender  Argon~
+Date    Sat Dec  4 19:34:01 2004~
+Stamp   1102210775
+Expire  1116034466
+To      immortal~
+Subject New weights for weapons~
+Text
+All you builder IMMs this note is for you.....
+ 
+I have a standard weight chart in room {G5{x
+All builders will follow this chart for weapons
+from now on....
+Dont use the Mob Index cause is not completey right
+ 
+{WRoom {G5   {WLook {Robj01{x
+Either write it down, print it out or make an
+alias or macro to {W({xat 5 look obj01{W)
+{xI also dont want to see alot of one-handed spears
+and polearms please, these are two-handed weapons
+ 
+Thank you
+ 
+Im in the process of changing all current weapons
+ 
+~
+
+Sender  Venus~
+Date    Mon Mar 21 04:04:37 2005~
+Stamp   1111399635
+Expire  1111917921
+To      gecco~
+Subject heya~
+Text
+heya, thats great about Kendra, I remmeber her.  I been on alot at nite.
+I also have company this week so i haven tbeen on much.
+formatting soon , and will have zmud back. 
+hope to see you soon
+Venus
+~
+
+Sender  Seclar~
+Date    Fri Jan  7 01:32:42 2005~
+Stamp   1105083659
+Expire  1120635175
+To      sembiance~
+Subject mobs/areas not reacable~
+Text
+Hi Sembi
+   Gauntlet master is on the list of mobs for top,
+is it possible to kill him?  Also, none-mage/clerics
+can't explore that area since its' only accessible
+by teleport
+   I'm note sure, but clan halls is another that are
+only accessible by those with gate or those in that
+clan...
+   I once ended up in an area called old world but
+have never ended up back there... is it walkable?
+I think it's related to the clan areas, but don't 
+know for sure...
+neph stronghold is not generally accessible yet, but
+one can get a mage to summon you there easily enough.
+   There is an area that always ends up on people's
+list - it's 2 rooms with an oaken table...
+   it's one mob, 2 rooms, the mob's name starts with D.
+THere are a number of somewhat disconnected areas 
+like that.  Also, part of red forest is disconnected.
+It's up from phoenix, but cannot be entered there.
+If one teleports in there, the only exit is down
+to where phoenix is. (one way).
+Take care,
+Seclar
+~
+
+Sender  Enzio~
+Date    Sat Jan  8 15:26:49 2005~
+Stamp   1105219895
+Expire  1120771662
+To      imm~
+Subject disconnected bits of mud...~
+Text
+I'll look for disconnected rooms, but I'm not sure how to 
+flag them when I find them (since I don't see vnums)
+any suggestions?  I command that would automatically
+send a note to imms with the vnum attached would be 
+an easy way for mortals to report lost bits of mud...
+ 
+Also, do places like teleparia belong on top lists?
+my understanding is that it's really an imm area.
+also, victory towers - only one floor is accessible
+to someone even with a key, (besides the open areas)
+locked rooms there (people's places) probably 
+shouldn't count...
+I'll think of anything else and let you know.
+Thanks! 
+Seclar/Enzio
+~
+
+Sender  Seclar~
+Date    Mon Jan 10 10:19:51 2005~
+Stamp   1105374331
+Expire  1120925998
+To      venus~
+Subject rivals.com~
+Text
+Hi Venus,
+   Rivals had an internet radio interview with Dr. Tom.
+It went well, he explained why he'd gone to the option
+(OK killed us with mobile quarterbacks), plus it was
+easier to recruit since everyone else wants the 
+pro-style QB.  He said Tommy F. was only recruited
+assassinate a running back at other schools.  But he then said
+(when asked about Bill C. going to WCO) that he hopes
+Bill Callahan has success, so it didn't come across 
+assassinate negative.
+He said that Turner Gill was probably his most complete
+QB (although he had an NFL receiver on the team which 
+helps - my comment) for running and passing the ball.
+He listed Tommy F. as being right up there along with
+Scoff Frost, etc...
+Take care,
+Seclar
+P.S. it's possible they'll have an archive of the 
+audio webcast on the site.
+~
+
+Sender  Seclar~
+Date    Wed Jan 12 10:22:37 2005~
+Stamp   1105547308
+Expire  1121098987
+To      venus~
+Subject second, third attacks~
+Text
+Hi,
+   I started dying and realize I can't hold out for 
+golden and still level any time soon, so used my 
+quest points on second and third attacks.  Unfortunately, when
+I attack with versbose on, I see no evidence that I'm getting
+them (I see main attack and haste attack, but not other two).
+Is dual wield a prerequisite to the other two?
+That brings up a good question - would it let me buy
+fourth attack before I buy second and third?  If some are
+prequisites for others, how do we know (checked help, dual
+gives info so I know what level it is, second gives help
+file, so I can't tell if it's higher or lower than dual).
+This is maybe not a problem with the old timers...
+who know this stuff forwards and back...
+who know this stuff forwards and back...
+opps.
+Thanks,
+Sec
+~
+
+Sender  Seclar~
+Date    Wed Jan 12 10:50:16 2005~
+Stamp   1105550008
+Expire  1121100632
+To      imm~
+Subject what else should I be testing?~
+Text
+Hi,
+  So far so good, what else can I test that hasn't been?
+issues so far:
+Spells ended up on my list at creation (leftover mage stuff?)
+level 5 chill touch which became 81% at level 5... 
+level 23 word of recall.
+Both were there at creation.
+possibly left over from the fact it thinks I'm a sidhe elf mage
+2)
+gaining spells is broken
+they don't end up in spell list, and are unusable (but can't
+be gained a second time - so somewhere it knows about them)
+3)
+spellcraft ended up in skills at 1% - I don't THINK I gained
+it, but it wasn't there when I created. I was also unable to
+train it beyond 1%.  Argon set it to 75% and with verbose
+mode (casting chill touch) it does SAY it's adding to damage.
+(I'd hate to see chill touch without it!).
+4) I do not have kick, but if I type kick while fighting
+(habit - an alt has kick) it works, and does as much damage
+assassinate trip which I did gain (for some kind of extra attack)
+- for grins I tried whirl and that appears to work (badly), but
+it's probably only bad due to the fact that I haven't learned
+sword :).
+Thus, skills while usuable, are also somewhat broken - it just
+occurred to me that I should have tried dual wielding - prob.
+will work...
+broken in the sense that it seems to let me use them without
+gaining them...
+5)
+quest points transfers - can be done via stones - I trashed 17.5 qp
+when I recreated, which isn't a lot, Most will transfer them
+to alts, and then transfer them back to legend after remort.
+Thus, the qp costs will be immaterial unless stones doesn't 
+allow a legend to accept a game where the other person 
+wagers qp...
+6) 
+my stats are limited for some reason - don't know if another
+person creating would have that problem or if it's in my
+code from how things were when I remorted.
+7)
+I'm willing to test whatever else you need, including
+remorting if that will help clean up or clear up any 
+problems...
+on 6, an imm looking at me sees 40/40/40/40/40 so it must
+be showing the chars of eidolon, but it thinks I'm a
+sidhe elf mage, so that is why I'm limited.
+ 
+The first thing a legend should do is spend trains bumping up WIS
+to whatever level gives one maximum practices per level.  Trains
+are goign to be limiting, so all the extra practices can be
+converted to trains to train up the rest of the stats and buy
+skills.  Con should be next to get max HP per round, and INT
+would be last IF we have anything that can start at 1% (fewer
+pracs to learn stuff).  I'm not sure if INT really helps on
+skills...
+ 
+All I can think of at the moment - I thought it might help
+to summarize what I've found so far...  A lot may be tied
+to thinking I'm a sidhe elf mage - apparently eidolons are 
+supposed to be able to go to any guild, but I can't, I can
+go to the mage's guild only, etc... the limited stats,
+perfectly consistent with sidhe elf, etc...
+ 
+Thanks,
+Dan
+D'oh - Sec
+~
+
+Sender  Seclar~
+Date    Wed Jan 12 11:29:44 2005~
+Stamp   1105551363
+Expire  1121102988
+To      imm~
+Subject dual~
+Text
+continuing from my previous message...
+I tried dualing a dagger and it works like a charm,
+BUT... with verbose combat stats I see no attack with
+the dual weapon, and again no attack from second and
+third attack...
+ 
+It's pretty cool - I want to make that clear - I 
+am the guinea pig, so I want to help get it 
+ready for when the next person starts.  It taks a 
+lot of thought and strategy to figure out how to
+be most efficient with QP, trains, etc and I really
+enjoy that...  Please don't take my bug reports
+assassinate complaints - I was told that there were issues
+and part of what was needed to me was to report them.
+I have changed strategies by necessity from what I 
+would have done if all was working, but there is a
+lot of fun there in figuring out how to make the best of 
+it :)
+Take care,
+Sec
+~
+
+Sender  Seclar~
+Date    Wed Jan 12 23:24:07 2005~
+Stamp   1105593941
+Expire  1121145855
+To      imm~
+Subject second attack~
+Text
+Hi,
+   Just an update - after I gained level 22, second
+attack started working... that's the level that 
+asssassin (my first mort) gained it...
+I assume 3rd attack will start working after that,
+I forget what level that is...
+Take care,
+Seclar
+~
+
+Sender  Seclar~
+Date    Thu Jan 13 09:57:05 2005~
+Stamp   1105631942
+Expire  1121183841
+To      argon~
+Subject shard on mob~
+Text
+I just killed black rook at level 25 and got the ruby 
+shard again - does it load when I'm at 24 and it's
+still there until I kill it next?  I thought it was
+supposed to disappear again until 29?
+Take care,
+Seclar
+~
+
+Sender  Seclar~
+Date    Thu Jan 13 09:59:40 2005~
+Stamp   1105632022
+Expire  1121183991
+To      argon~
+Subject the other black rook~
+Text
+I just killed the other black rook and got another
+ruby shard...
+Take care,
+Seclar
+~
+
+Sender  Seclar~
+Date    Thu Jan 13 10:51:24 2005~
+Stamp   1105635386
+Expire  1121187092
+To      imm~
+Subject questing~
+Text
+For low levels normal mort questing wasn't a big deal,
+but now the questmaster giving level 22 quests to the
+caves of cloudy mountain and drakyri isle etc. is 
+gonna make it tough for legends.  If normal quests
+are going to be a part of the qp generation for 
+legends, then some work on his selection of quests
+would help a lot.  If legends will exclusively use
+another mechanism, then it's not such a big deal.
+Also, in my 20s I get between 25 and 33 qp/quest,
+is there any chance that legend can get a bonus on qp
+amounts - i.e. a level 5 legend is not really the 
+same as a level 5 normal mort?
+I still get no bonus in qp for being on all of 
+the top lists which now I really miss :)
+I think that's it for this set of observations.
+Thanks!
+Sec
+~
+
+Sender  Seclar~
+Date    Thu Jan 13 10:56:57 2005~
+Stamp   1105635540
+Expire  1121187425
+To      argon~
+Subject mud school~
+Text
+Hi Argon,
+  I just noticed that the shard is still on the ground
+in mud school museum - so once I'm higher level, I can
+always see it?
+  How do I get rid of the extra shards I got in 
+chessboard?
+  Again, a test for the exact level would get rid of
+the issue - I'd see it when I need it, but not other 
+times
+~
+
+Sender  Seclar~
+Date    Sun Jan 16 13:12:35 2005~
+Stamp   1105902894
+Expire  1121454762
+To      imm~
+Subject qp~
+Text
+Hi,
+   Chame gained a lot of skills already, but hasn't quested
+As I expected, got someone else to play him in stones to 
+transfer qp...
+   That's fine if that is the way it is going to work - normal
+morts prividing the qp for remorts.
+   He says he's used 10-15K qp so far...
+Take care,
+Dan
+~
+
+Sender  Rinaldus~
+Date    Wed Jan 19 09:41:43 2005~
+Stamp   1106149414
+Expire  1121701320
+To      Venus Argon Sembiance~
+Subject Some minor typos...~
+Text
+Just caught on to a few typos, didn't know if you were aware of them or not.
+When the spell "golden aura" fades away, the message is:
+The golden aura around YOUR fades away.
+{x
+Also, under wizlist, you have mispelled Ophelia's name.  Poor poor Ophelia :(.
+{x
+That is all :P
+Rinaldus
+ 
+~
+
+Sender  Chame~
+Date    Fri Jan 21 20:25:16 2005~
+Stamp   1106360855
+Expire  1121912730
+To      argon immortal~
+Subject Legend shards~
+Text
+I dunno if ya'll heard already, dem tings be not jivin' yo:P
+Everyone can see the Legend shards, and that is due to
+the fact that they do not seem to have any of the flags they
+are supposed to.... and in turn, legends cant gain anymore
+levels even if they do find the next shard they need.
+ 
+just thought i'd throw out an official note out there.
+seems like the productive thing to do i guess:)..hehe
+ 
+ 
+thanks for e'rrytin mon. 
+~
+
+Sender  Gecco~
+Date    Sat Jan 22 16:46:00 2005~
+Stamp   1106434837
+Expire  1121985974
+To      imm~
+Subject bad rooms, mobs~
+Text
+So far I've found the following rooms which are disconnected,
+and should not be on the top list.
+ 
+ 
+23388, 23389 - imms can walk, but there is no connection to 
+these for mortals - I don't know if objs in the room are
+replicated outside...
+if not, then the objs should come off the list too (or
+a door placed there so morts can get there)
+a door placed there so morts can get there)
+ 
+5268 - no connection from 5267
+5269 
+5270   drow guard 5110
+those 3 rooms are disconnected for morts - a mort in 5267
+sees no exit/door to 5268.  The drow guards are on seclars
+top list - they cannot be gotten to without teleport.
+either the 3 rooms and drow guards come off the top list
+or a connection is made from 5267...
+ 
+18644 - no entrances - exit, but cannot return (replicated room?)
+16000 - disconnected - exit down, but no way back
+25074 replicated/disconnected room
+6748-6756 disconnected area
+are dragonpit rooms on top list? should be - those are accessible
+ 
+1392 - mid-level death room - exits to ares :b
+ 
+1950 - 1/2 of telepario only connects to limbo - remove from top
+Limbo should not be on percent...
+16000 chamber of silence - one way exit - no entrance
+ 
+17018 disconnected - adjacent to entrance - one way exit to 17000
+ 
+I'll keep looking, there are some in firetop I have to find.
+Take care,
+Seclar/Gecco
+~
+
+Sender  Gecco~
+Date    Sat Jan 22 19:51:47 2005~
+Stamp   1106445280
+Expire  1121997118
+To      imm~
+Subject unconnected room~
+Text
+15420 - unnamed mob
+no idea what it is or if it counts/loads
+ 
+there are 4 mobs in midgaard that are in yellow (vlist mob)
+I don't know if they load or not - one has no description
+ 
+kalas in Abyss#2 has eq on him that goes away when he dies.
+it can be gotten from him using heat metal, but most don't
+have that options (jeweled gauntlets are one item that does that)
+ 
+Take care
+gecco/seclar
+~
+
+Sender  Argon~
+Date    Mon Jan 24 20:30:44 2005~
+Stamp   1106620319
+Expire  1122172257
+To      seclar~
+Subject your first note~
+Text
+Heya Seclar, here are what I fixed and why it was broke
+or not broke =)
+{x
+23388, 23389 - One of the rooms were flagged gods_only, its
+fixed now
+{x
+5267 - there is a door in this room to go west, called hole
+or fox, I used a mort to open it too, also the drow guards
+have (hide), so the mort needs detect hidden.
+{x
+18644 - whoever built it connected it wrong is all, fixed now
+{x
+16000 - fixed, had a one-way exit for some reason
+{x
+25074 - linked wrong, fixed now, still a little weird thou
+{x
+6748-6756 - have been removed, looks like it was gonna
+be a safe passage to the phoenix, but never finished.
+{x
+I dont know about Dpit rooms but it says Ive explored a new room
+when i go from room to room, but dont know if it counts or not
+{x
+1392 - exit down was taken out
+{x
+Sembi is supposed to ba takeing care of telparia room, but wont
+for awhile...
+~
+
+Sender  Seclar~
+Date    Mon Jan 24 21:53:51 2005~
+Stamp   1106625408
+Expire  1122177242
+To      argon~
+Subject Thanks!~
+Text
+Hi Argon,
+I knew a number of them were just bad links but the result
+was the same - it's great to have them fixed.  Still a
+number that I've not been able to re-locate - got most of
+the obvious ones, the rest I'll just have to run across
+again :)
+I've found so many of them via teleport my percenthint
+isn't too useful - maybe I'll snoop chame next time he's
+on (or raxin) to see what rooms they are missing and
+check those out.  Some of these I got from my percenthint.
+I was missing one room in a number of places...
+Thanks again!
+Take care,
+Sec
+~
+
+Sender  Raxin~
+Date    Tue Jan 25 00:50:25 2005~
+Stamp   1106635978
+Expire  1122187837
+To      chame~
+Subject jo's jobs~
+Text
+td canada trust called
+angela
+448-8570
+extension 248
+regarding job opportunities
+why the fuck do they still call us
+you haven't lived here for months now right?...
+~
+
+Sender  Spatula~
+Date    Wed Jan 26 18:14:18 2005~
+Stamp   1106784936
+Expire  1122336863
+To      imm~
+Subject quest ideas~
+Text
+quest cards
+this was suggested to me by a new player.  
+the idea is to have cards (sorta like certs)
+that have a list of items the questor is
+to collect and turn in to obtain the quest
+points.  then there could be like 30 such 
+cards and you can only get a new one when
+you have completed the old one.  the qps
+per card would be based upon the difficulty
+of obtaining the items.  This could also make
+certain rarely used items (like dragon claws)
+more valuable.
+qps based on quest difficulty, told when quest requested
+the quests given are supposed to be taylored to your level,
+but i swear that the questmaster forgets this from time to
+time. He often sends younger questors upon insane quests of
+certain death.  IF the qp amount was based upon the difficulty
+of the quest vs player level, and the player was told upon 
+requesting the quest, this could help with my feelings of
+guilt when i tell lower level players to quest, knowing
+there is a chance that they will be horribly killed doing so.
+ 
+ 
+ 
+quest items that grow and learn by being used
+i played this other mud once, and they claimed that their
+quest items gained exp and levels and basically 'grew' with
+the player, so that you would continue to use the item even
+though you have far surpassed its original purpose.  this just 
+sounded really cool, and it would certainly increase the number
+of players that buy quest items. 
+~
+
+Sender  Lydia~
+Date    Thu Jan 27 10:31:27 2005~
+Stamp   1106843643
+Expire  1122395495
+To      spatula imm~
+Subject quest cards~
+Text
+hah, the quest card idea is drawn from godwars type
+muds.  it works out fairly well, but im not sure
+what kind of coding it would take to impliment it.
+ 
+(i have a certain loathing for questcards... in my
+mudding days ive probably completed several thousand
+of them -_-)
+ 
+as for items that 'grow' with a person... you have
+to decide how you want the item to enhance the player
+within the constraints of the variables we have to
+manipulate.  will the hr dr go up as use goes up?
+or will it allow percent of the weapon type to go
+past 100%?  will the weapon average slowly raise?
+then what determines how the weapon grows... time
+the player has held the item? used the item? quested
+on the item?
+ 
+--Lydia
+~
+
+Sender  Argon~
+Date    Fri Jan 28 13:43:07 2005~
+Stamp   1106941425
+Expire  1122493395
+To      Rinaldus~
+Subject Stuff~
+Text
+Dont forget I have your stuff =)
+Argon, your friendly neighborhood spiderman!
+~
+
+Sender  Chame~
+Date    Sat Jan 29 13:59:39 2005~
+Stamp   1107028950
+Expire  1122580796
+To      argon~
+Subject Level 69 shard~
+Text
+I think where this shard is located will be pretty damn tough
+to get.  I understand legends are gonna be quite a bit stronger,
+when they are fixed, however, it would still be pretty tough
+because it seems alot of the mobs along the way in kronos
+are aggro and fairly tough, (ie, losing almost 500 hp a round
+when you got 3k doesnt help you last long)
+ 
+ 
+Chame
+~
+
+Sender  Rinaldus~
+Date    Sun Jan 30 22:12:44 2005~
+Stamp   1107144858
+Expire  1122696770
+To      Argon~
+Subject Re:Stuff~
+Text
+Yes I still remember, thank you kindly for still holding it.  I am however
+busy once again and don't have much time to log in.  However I will make a
+push for hero so I may acquire my items once more.  Thank you for your
+patience.
+Rinaldus
+~
+
+Sender  Gecco~
+Date    Mon Jan 31 05:09:46 2005~
+Stamp   1107169955
+Expire  1122721806
+To      imm~
+Subject 2 more item/mob bugs~
+Text
+in midgaard, there is a mob 3220 which is required for
+top list, but is in a disconnected area.
+ 
+Golden orb (663) is on a mob whose corpse rots, so the object cannot be gotten
+ 
+Thanks,
+Gecco/Seclar
+~
+
+Sender  Spatula~
+Date    Tue Feb  1 13:37:31 2005~
+Stamp   1107286804
+Expire  1122838659
+To      imm~
+Subject skills~
+Text
+when i type skills, i get a list of current skills.
+ever since legend and hardcore, this list hasnt looked
+the same, but i had assumed that it was all fixed by now
+it aint.  when i type skills, it leaves out several skills
+that i have, i believe its leaving out ALL of my first mort
+skills, and only showing my current mort skills.
+just one for the to do list
+~
+
+Sender  Xion~
+Date    Thu Feb  3 07:34:35 2005~
+Stamp   1107437832
+Expire  1122989686
+To      venus~
+Subject talk~
+Text
+hey.. im really sorry i couldnt be here last night when
+i said i was.. my girlfriend went home sick from work so 
+i was taking care of her all night.. so whats up? it
+might be easier for a little while to note whatever you
+want to talk about because i just got transfered (promoted)
+to a new section of my work, so for the time being i am
+too busy to get on in the day.. and i never have time at nights
+so morning every once in a while is all i have.. so let me
+know.. again sorry..
+~
+
+Sender  Seclar~
+Date    Sat Feb  5 00:12:38 2005~
+Stamp   1107584001
+Expire  1123135965
+To      imm~
+Subject shards on top list~
+Text
+The shard for red forest is in top list.  Don't know 
+if that is intended since non-legends can't see them.
+Thanks!
+Seclar
+~
+
+Sender  Seclar~
+Date    Sat Feb  5 23:08:16 2005~
+Stamp   1107667075
+Expire  1123218507
+To      imm~
+Subject broken things~
+Text
+Don't remember if I noted this:
+Questmaster - gives many quests beyond the capability
+of the particular level
+   Also would be nice to have other types of quests...
+ 
+Legend -
+Eidolon is an invalid race - when I started score
+said eidolon, but all else about me was still
+sidhe elf (including rp showed Sidhe)
+ 
+Also, only skills/spells allowed currently are
+those from previous mort - also at least spells
+are only available at level they'd be available
+in previous class (Sanc only at level 53 or
+whatever level mage gets it, even if one gained
+it earliery (Sanc N/A until 53)
+ 
+Skills have behaved very oddly - no skills can
+be gained you didn't know before, but some 
+would appear without gaining.  Others act like
+they are there (but as though they are at 1%).
+For instance - I can attempt a whirl, but it
+acts like it's at 1% so it fails... (without
+ever gaining it).
+ever gaining it).
+ 
+I'll report more as I remember it...
+Thanks,
+Seclar
+~
+
+Sender  Seclar~
+Date    Sun Feb  6 20:30:28 2005~
+Stamp   1107743553
+Expire  1123295432
+To      argon~
+Subject shards~
+Text
+Hi Argon,
+  I got the level 94 shard (and died).  I put it into the
+legendary pouch, and when I got to 1 tnl it said I needed
+the level 94 shard to continue.  I pulled the shard out
+of the pouch and it gave me the "congratulations" message
+about being able to continue.
+I.e. you might want to have the code check the pouch
+assassinate well as inventory for the shard :)
+Thanks,
+Seclar
+~
+
+Sender  Seclar~
+Date    Mon Feb  7 22:16:05 2005~
+Stamp   1107836425
+Expire  1123388171
+To      imm~
+Subject spells~
+Text
+assassinate legend, if I gain a spell outside of my original classes
+it allows me to do it, but then it does not appear on my list
+when I type spells.  I cannot train it, but I cannot gain it again
+so it does know that I gained it already.  When I try to cast 
+the spell, it always fails (acts like it's at 1%).
+ 
+Skills on the other hand behave differently, some I gained without
+gaining them.  I don't have kick (old class did) but I can use it
+assassinate though I gained and trained it.  I can whirl (without gaining it)
+but it acts like it's 1% (always fails). so Skills gain themselves
+if you had them before in previous morts. (multi did not work this way
+for some reason, I had to learn it).
+Take cre,
+Seclar
+~
+
+Sender  Seclar~
+Date    Mon Feb  7 22:43:23 2005~
+Stamp   1107837901
+Expire  1123389812
+To      imm~
+Subject top bonuses~
+Text
+this only affects me so it's low on the list, but
+the bonuses for being on the top list aren't working
+also, perhaps some lesser bonus for being in the 
+top 10 (#2 better than #3, etc...) so there is more
+incentive to get onto the list (may be daunting
+given where I am to try to get to 1)
+Take care
+Seclar
+~
+
+Sender  Seclar~
+Date    Tue Feb  8 12:04:42 2005~
+Stamp   1107885957
+Expire  1123437894
+To      argon~
+Subject dragon priest in midgard chapel~
+Text
+Hi Argon,
+I assassinated him, but there was no corpse - any items
+on him are the presumably not attainable normally.
+I'll charm him when he pops (another time) and see if
+there is anything on him.
+Take care,
+Seclar
+~
+
+Sender  Gumbercules~
+Date    Tue Feb  8 16:01:03 2005~
+Stamp   1107900121
+Expire  1123452067
+To      imm~
+Subject hardcore~
+Text
+remorting as hardcore is sorta messed up.
+upon attaining level 2 I was informed that I REATTAINED
+remort level 2 and that I will not gain any hps or trains
+until level 20, the last level I died at first mort.
+~
+
+Sender  Seclar~
+Date    Tue Feb  8 23:28:07 2005~
+Stamp   1107926952
+Expire  1123478896
+To      imm~
+Subject brew and scribe~
+Text
+brew is not currently working - scribe doesn't seem to either.
+it keeps telling me that they are already full, and for spat
+they explode all the time...
+scribe likewise didn't work...
+Take care,
+Seclar
+~
+
+Sender  Seclar~
+Date    Thu Feb 10 01:45:11 2005~
+Stamp   1108021698
+Expire  1123573551
+To      imm~
+Subject imm's enchant, etc. should always be better than hero's~
+Text
+even if their original class was warrior - they are gods
+so either they should all gain same skill level, or at
+least the worst imm at a skill should be better than a
+remort hero :)
+currently Venus (originally /warrior?) gets 5/2 on enchant
+weapon, while a remort hero gets 20/10 (normal enchant).
+Take care,
+Seclar
+~
+
+Sender  Gecco~
+Date    Tue Feb 15 10:40:07 2005~
+Stamp   1108485682
+Expire  1124037626
+To      argon~
+Subject rot corpses~
+Text
+Hi Argon,
+   in room 3814 there is an evil blue dragon which leaves no corpse
+This one has a key which cannot be gotten otherwise (except for
+possibly heat metal or charm would do it).
+A couple of the other dragons in this area also leave no corpse.
+Thanks,
+Seclar
+~
+
+Sender  Raxin~
+Date    Sun Feb 20 12:08:34 2005~
+Stamp   1108922989
+Expire  1124474923
+To      chame~
+Subject coming over?~
+Text
+you coming over today?
+if you are..come as early as you can to maximize video game time:P
+we'll be home from church at the usual 12:30 or so
+note me back because mom isn't sure if you are coming or not
+~
+
+Sender  Gecco~
+Date    Sun Feb 20 13:30:17 2005~
+Stamp   1108928213
+Expire  1124479841
+To      argon, imm~
+Subject bad rooms in midgaard, maybe elsewhere~
+Text
+I found that two guilds are still counted toward top list:
+Cleric's guild (inner sanctum) counts (3002)
+The Guild of Swordsmen (3023) counts
+3059 one-way exits down to tc healer (3054) - not accessible other than teleport
+all of the guild healers are counted: 
+  room vnums (3371-3376, 3038,  + 3216)
+3080 not connected to the rest of midgaard, 
+but is connected to 10001, which is not connected to Crystalmir lake
+so both of those rooms need to be removed from top, or reconnected
+there is a key (3121) that I can't find (forgot the imm command)
+  Thus, I'm not sure if it's accessible or not...
+Thanks
+Seclar
+~
+
+Sender  Gecco~
+Date    Sun Feb 20 13:57:11 2005~
+Stamp   1108929522
+Expire  1124481491
+To      argon~
+Subject room 10157 (desert)~
+Text
+Room 10157 appreas to be one way connected - north
+exit from the room, no exit back...
+Thanks
+Seclar/Gecco
+~
+
+Sender  Gecco~
+Date    Sun Feb 20 14:06:38 2005~
+Stamp   1108930052
+Expire  1124482012
+To      argon~
+Subject bad rooms - 613/614~
+Text
+613 has a one way exit to 614, which has no exits.
+no entrance to 613 that I could find...
+Thanks
+Seclar/Gecco
+~
+
+Sender  Gecco~
+Date    Sun Feb 20 15:03:14 2005~
+Stamp   1108933520
+Expire  1124485403
+To      argon~
+Subject lindon~
+Text
+Hi Argon!
+  Ok, in lindon there is a locked door.  One needs key 5418 
+to unlock it (passdoor won't work), and I can't find where
+it loads.  If I create it, I can find it on me (owhere key)
+but I don't find it anywhere else.  I sac it and don't
+see it pop
+without that key, one would have to teleport to the other
+side of the door...
+Thanks!
+Seclar/Gecco
+~
+
+Sender  Gecco~
+Date    Sun Feb 20 15:15:41 2005~
+Stamp   1108934248
+Expire  1124486164
+To      argon~
+Subject two more rooms 2572, 2573~
+Text
+they are connected to each other, but not to the rest of
+the mud
+THe malkavian flame is in this area which is why it 
+shows up on percenthint
+Thanks!
+Seclar/gecco
+~
+
+Sender  Gecco~
+Date    Wed Feb 23 00:18:18 2005~
+Stamp   1109139578
+Expire  1124691513
+To      argon, imm~
+Subject olthoi caves on percent~
+Text
+Hi,
+  Seclar teleported into the caves and the rooms counted
+toward top list, even though the area is disconnected and
+I THOUGHT it was listed as complete already... (once he 
+went trhough it there was no way to check it).
+  :)
+Thanks,
+gecco/seclar
+~
+
+Sender  Seclar~
+Date    Wed Feb 23 02:52:29 2005~
+Stamp   1109148840
+Expire  1124700759
+To      argon, imm~
+Subject clan halls on top list~
+Text
+I see clan halls is still on top list
+I have 11 mobs left to kill, period.
+2 in olympus, 3 in desert, 1 with no name in coral reef
+and 5 in clan halls... ( have to teleport forever to get 
+those!)
+rooms and objects also there can't be gotten...
+Take care,
+Seclar
+~
+
+Sender  Gecco~
+Date    Wed Feb 23 04:05:59 2005~
+Stamp   1109153257
+Expire  1124705173
+To      argon, imm~
+Subject keys in guantlet~
+Text
+Keys in gauntlet should not be on top list - the mobs have
+them, but they unlock the door, and disappear with them.
+Thus, they key isn't recovered when the mob dies...
+Take care,
+Seclar
+P.S. 5 mobs to go now, all in Clan halls (probably old world, etc.)
+~
+
+Sender  Alucinor~
+Date    Wed Feb 23 20:05:22 2005~
+Stamp   1109210827
+Expire  1124762732
+To      imm~
+Subject mobs~
+Text
+Ok, I thought I had the storkeepers pretty much done, but unless someone
+is funnin me, the resets are wrong...
+my shopkeepers are not where they are supposed to be...which is disconserting
+im thinkin they got mobed somehow..but...oiy
+thought i'd let someone know...now to fix it
+.q
+~
+
+Sender  Alucinor~
+Date    Wed Feb 23 20:11:36 2005~
+Stamp   1109211237
+Expire  1124763108
+To      imm~
+Subject mobs~
+Text
+Heh, Im retarded, left act sentinel off the act flag...hehe,
+if that doesnt fix it, someone is having a good time
+Also, Argon, when ever you get a chance, the shopkeepers have nothing to sell...
+dont know how you want to work that, but i figured you would hehe
+thanks
+Alucinor
+~
+
+Sender  Argon~
+Date    Sat Feb 26 00:35:56 2005~
+Stamp   1109400007
+Expire  1124951770
+To      alucinor~
+Subject shopkeepers~
+Text
+if your shopkeepers are not where they are supposed to be
+first check the resets in the rooms they are supposed to be in
+if the resets are there, then make sure you flagged the
+shopkeepers themselves for sentinel, which means stay in the room
+they reset in, also use the stay flag on ALL mobs, this means if
+they arent sentinel, then they wander around the area, but as long
+as they are flagged STAY, then they wont actually leave the
+area, which can happen....make sure those mobs have the sentinel flag
+which by the way if they have sentinel they dont need the stasy flag,
+and if they do and you think the resets are right and they still wont
+stay, then write me antoher note and ill check it out for you....
+ARGON!
+~
+
+Sender  Argon~
+Date    Sat Feb 26 00:40:39 2005~
+Stamp   1109400074
+Expire  1124952051
+To      alucinor~
+Subject im dumb~
+Text
+ok i wrote that first note without reading all my notes first,
+sorry bout that...
+~
+
+Sender  Selcar~
+Date    Sun Feb 27 01:14:33 2005~
+Stamp   1109488612
+Expire  1125040539
+To      imm, venus~
+Subject remort~
+Text
+Hi,
+   Something screwey happened with my remort
+it never asked for race, and I only had a limited choice 
+of classes...
+somehow I ended up with lizard race...
+   Any chance I can get another remort?
+Thanks,
+Selcar
+~
+
+Sender  Selcar~
+Date    Sun Feb 27 02:04:31 2005~
+Stamp   1109491594
+Expire  1125043479
+To      spatula~
+Subject oops~
+Text
+Hi spat,
+  when I remorted, it never asked my race, and I only had
+a choice of 5 classes
+  It said I'd get one more chance, but I need an imm, but
+don't know the commands to re-remort, and no imms on...
+  Any clue?
+Thanks,
+selcar - a lizard ranger - ugh...
+~
+
+Sender  Seclar~
+Date    Thu Mar  3 01:20:37 2005~
+Stamp   1109834515
+Expire  1125386449
+To      argon, venus, imm~
+Subject turtle dragon~
+Text
+turtle dragon's corpse rots so one is unable to get the
+turtle dragon armor for top list...
+Found that one the other day but got distracted and
+didn't send a note!
+Thanks,
+Seclar/Gecco
+~
+
+Sender  Venus~
+Date    Mon Jun 13 01:59:31 2005~
+Stamp   1118646001
+Expire  1119423588
+To      serpterion~
+Subject hi!~
+Text
+Hi!
+-END
+~
+
+Sender  Seclar~
+Date    Sat Mar  5 20:15:43 2005~
+Stamp   1110075440
+Expire  1125627366
+To      venus, imm~
+Subject pk credit broken with loners~
+Text
+if a clanned player kills a loner (unclanned, but chose)
+the loner does not register a pk death, and the clanned
+player does't get credit for a pk kill...
+I don't know if it's broken the other way or not (if the
+loner kills the clanned player).
+Seclar
+~
+
+Sender  Spatula~
+Date    Thu Mar 10 21:34:49 2005~
+Stamp   1110512180
+Expire  1126064113
+To      venus selcar~
+Subject spring break~
+Text
+i forgot to tell yall that im goin outta town for 
+spring break.  ill log on during this time if i can but
+im not sure if ill have internet access, so worst case 
+ill be back around the 21st
+~
+
+Sender  Selcar~
+Date    Thu Mar 10 23:13:16 2005~
+Stamp   1110518059
+Expire  1126070009
+To      venus, spatula~
+Subject thanks! ~
+Text
+Hey Spatula,
+   Have fun, log on if you can, but if not, just have
+assassinate much fun as humanly possible!
+  See you after the 21st!
+Seclar
+~
+
+Sender  Selcar~
+Date    Sat Mar 12 00:39:57 2005~
+Stamp   1110609674
+Expire  1126161621
+To      spatula, venus~
+Subject oops~
+Text
+So much for aliases - didn't realize the worked while
+typing messages - I wanted you to have AS much fun as
+possible, not assassinate :).
+Later,
+Selcar/Seclar/Dan
+~
+
+Sender  Selcar~
+Date    Sat Mar 12 13:49:48 2005~
+Stamp   1110657078
+Expire  1126208997
+To      imm, venus~
+Subject small bug~
+Text
+Hi,
+  When hard core re-attains a level, the message is as such
+UNTIL they re-attain the level at which they died.  Then the
+message simply says "selcar attains HC R level 14"...
+Like I said, a very small bug :)
+Take care,
+Selcar
+~
+
+Sender  Gecco~
+Date    Mon Mar 14 01:13:37 2005~
+Stamp   1110784595
+Expire  1126336498
+To      imm, venus~
+Subject baaz draconian corpse disappears~
+Text
+Hi,
+   He has an object vnum 10015 (and he is in room 10015)
+his corpse rots so the object cannot be retrieved...
+(footman's lance).
+Thanks,
+Dan
+~
+
+Sender  Gecco~
+Date    Mon Mar 14 01:21:30 2005~
+Stamp   1110784965
+Expire  1126336907
+To      imm, venus~
+Subject draconian helmet - vnum 10017~
+Text
+this object is on top list, but doesn't appear to load
+(owhere doesn't show it, nor locate obj until I oload it,
+then only the one I loaded is listed)
+Thanks
+Seclar
+~
+
+Sender  Gecco~
+Date    Mon Mar 14 01:23:29 2005~
+Stamp   1110785048
+Expire  1126337025
+To      imm, venus~
+Subject humanskin vest - vnum 10016 not loaded~
+Text
+This item 10016 also isn't loaded but is on top list
+(just like 10017).
+Thanks
+Seclar
+~
+
+Sender  Gecco~
+Date    Mon Mar 14 10:13:00 2005~
+Stamp   1110816836
+Expire  1126368789
+To      venus~
+Subject fell asleep~
+Text
+Hi Venus
+Sorry I fell asleep last night :)
+I can say that gmud didn't boot me all night - not sure
+what's happening on your end...
+Good luck on your final today!
+Seclar
+~
+
+Sender  Gecco~
+Date    Sat Mar 19 23:29:07 2005~
+Stamp   1111296754
+Expire  1126848564
+To      venus~
+Subject diandra/kendra?~
+Text
+Hi Venus,
+   A player named diandra came on (newbe) so I logged gecco
+to get her started
+   Later I chatted with her and she remember KOTRD - I think 
+she said she played as Kendra or something like that...
+she said it's the most helpful mud she's been on, and she'd 
+send her friends.  I told her people were busy with finals/
+breaks etc., and that it usually picks up again...
+   Hopefully she comes back and with some of her friends...
+Take care,
+Seclar
+~
+
+Sender  Gecco~
+Date    Sun Mar 20 13:24:17 2005~
+Stamp   1111346706
+Expire  1126898677
+To      imm, argon~
+Subject sword item weight~
+Text
+Hi Argon,
+   I found a cutlass - vnum 31240 weighs 7 lbs.
+It is a sword type...
+take care,
+gecco
+~
+
+Sender  Gecco~
+Date    Sun Mar 20 19:44:47 2005~
+Stamp   1111369559
+Expire  1126921497
+To      venus~
+Subject diandra~
+Text
+Hi Venus,
+   Diandra was back today - I taught her a lot of things 
+that she'd forgotten (autoexit, etc...) and training, gaining
+May stick around and hopefully bring others.
+gecco
+~
+
+Sender  Gecco~
+Date    Tue Mar 22 22:59:40 2005~
+Stamp   1111554727
+Expire  1127106000
+To      imm~
+Subject ident bug on avg damge~
+Text
+Hi,
+   Spatula/stumpy and I did some research today and figured
+out that the ostat gives the correct avg damage, but ident
+is often wrong.  (we knew that already)
+   We checked out different weapons and finally figured out
+that the formula that is being used by ident must be:
+(given NdM damage formula - N*(M/2 - rounded up to nearest int)
+formula should be min+max/2 or N*(M+1)/2.
+Take care,
+Seclar and Spatula (who got us started figuring this out)
+~
+
+Sender  Gecco~
+Date    Tue Mar 22 23:21:35 2005~
+Stamp   1111555367
+Expire  1127107301
+To      venus~
+Subject oops~
+Text
+Hi Venus,
+   I apparently crashed the mud - I didn't know mstat
+on a linkdead would crash the mud - so you can add that 
+to the list of things to be fixed :)
+   Sorry about that - it had been up for record time :)
+Take care,
+gecco/seclar
+~
+
+Sender  Seclar~
+Date    Thu Mar 24 22:32:08 2005~
+Stamp   1111725192
+Expire  1127277135
+To      venus~
+Subject top list~
+Text
+Hi Venus,
+   I'm still not getting bonuses for top list - another
+bug reported :)
+   It would be good if #2 got some smaller bonus, etc.
+so others feel like it's worth working on the list...
+Thanks!
+Seclar
+~
+
+Sender  Kaos~
+Date    Wed Apr  6 10:00:36 2005~
+Stamp   1112799795
+Expire  1128351645
+To      board~
+Subject Good to be back~
+Text
+Damn its great to be back.
+I had no Idea KOTRD or excuse me ROTRD was up and running.
+Its been 3 long years since ive played.
+Lots changed since then one Im in Korea doing the Military thing
+and two Ive gotten married. But Its great to see how well the Mud is doing
+It looks great. Hope to see everyone around. Take care
+KAOS
+~
+
+Sender  Kaos~
+Date    Thu Apr  7 08:18:05 2005~
+Stamp   1112880029
+Expire  1128431895
+To      Dorian~
+Subject whats up~
+Text
+John
+Whats up man. Hey im gonna download so I cant chat with you.
+since I live in korea the times are different so I hardly see you.
+give me your email so we cam KIT.
+my email is Jason.Eaves@us.army.mil or Kaos1432000@yahoo.com
+just give he a shout
+talk to you later.
+Jason
+~
+
+Sender  Stasya~
+Date    Sat Apr  9 00:16:01 2005~
+Stamp   1113023926
+Expire  1128575770
+To      Everyone!~
+Subject Thank You!~
+Text
+Dear Friends,
+ 
+   Thank you for all the help and patience you
+have done! I have never made it to HERO Level.
+Everyone who has helped me and been patient with me
+I want to say,"Thank you!" to.  It sure means a lot
+to me.  I am most appreciative of it. Again -- thanks!
+ 
+Forever yours,
+Stasya
+ 
+P.S. This is for EVERYONE!!!!!
+~
+
+Sender  Seclar~
+Date    Tue Apr 26 10:35:51 2005~
+Stamp   1114529815
+Expire  1130081770
+To      venus, spatula~
+Subject greetings!~
+Text
+Sorry, I've been out and will be back in CT again this 
+coming weekend, so probably won't be on - just wanted 
+to check in and see how you were doing!
+Take care,
+Dan/Seclar
+~
+
+Sender  Stasya~
+Date    Mon May 16 19:51:04 2005~
+Stamp   1116291234
+Expire  1131843090
+To      EVERYONE!~
+Subject Learning Spells~
+Text
+Hi All!
+ 
+As a new remort, I need a small bit of help.  Where can I learn new spells?
+I am at a loss! HELLLLLP!
+ 
+Thnx everyone for your help!
+ 
+Love 'N' Stuff,
+Stasya
+ 
+P.S.  I would really like to be able to cast and perform more spells...thnx!
+~
+
+Sender  Spatula~
+Date    Wed Sep 21 15:51:27 2005~
+Stamp   1127336120
+Expire  1142887905
+To      imm~
+Subject botting?~
+Text
+it occurs to me that I spend probably eight hours a day
+in front of my computer, mostly doing things that I could
+immediately postpone if there were some sort of happening
+going on here.  So it seems logical for me to keep myself
+connected during this time, and thusly able to respond to
+anyone who may log on.  Im gonna try, and I know this
+probably qualifies as botting, but since I do not get any
+benifit whatsoever other than possibly being logged on 
+when someone else logs on, I do not see it as a problem.
+if you have a problem with it, let me know and I will stop.
+~
+
+Sender  Serpterion~
+Date    Mon Dec 12 22:18:36 2005~
+Stamp   1134447709
+Expire  1149999529
+To      Dralinyre~
+Subject Hey das!~
+Text
+Hey bro,
+ 
+Just stopping by, 11:27pm December 12th to get some exp.
+For a bit. I totally hate this note system. You have to watch how long your line
+Is so it can actually take it. (bullshit)
+Been making candles left and right tonight and all I can smell is candle scent!
+Just a shout out, and I think the get together thing on here for some muddin
+Would be totally coolies! 
+ 
+I agree, since there are no immortals on ever, does not mean anything. 
+We do not need them to do anything anyways. 
+ 
+Peace out,
+Jon
+~
+
+Sender  Dralinyre~
+Date    Mon Dec 19 11:10:59 2005~
+Stamp   1135012375
+Expire  1150564274
+To      Serpterion~
+Subject Online Time~
+Text
+I dont know when I will be online again, prolly not before I see you at
+Christmas, but we'll see. I might be able to squeeze a few hours in 
+right before I get off work.
+This is all dependant however on the rule of how fast I can get shit
+done on the jobsite. I'll give you a call to see if you are awake n stuff.
+ 
+Peace bro.
+ 
+Will
+~
+
+Sender  Spatula~
+Date    Fri Jan 13 01:53:51 2006~
+Stamp   1137139051
+Expire  1152690843
+To      immortal~
+Subject TREASON~
+Text
+So I started playing an MMORPG, and I HATE it.
+BUT, it does have the benifit that other people play.
+And I havent gotten to max level yet, although I have
+pretty much killed everything at least once.  
+Oh, they do make changes to it about once a month as well,
+but mostly, other people play it.
+I am still wishing there was a way to get people to play here
+v
+~
+
+Sender  Kade~
+Date    Wed Jun 14 03:43:42 2006~
+Stamp   1150274772
+Expire  1165826630
+To      prizm~
+Subject Where to level?~
+Text
+Hey pal,
+been frustrated for a few hours trying to figure out where to level
+at 91, evil aligned. The peasants in shikoku were giving 50 exp each
+and were easy to kill, with no sanctuary, etc. Once I hit 91 lots of stuff
+that was giving me good exp started to give me 0. Is this normal? I can't find
+any area that has easy mobs to kill. Even the ones with sanc I have to flee and
+they only give 12 exp. Where am I supposed to go from 91-100?
+~
+
+Sender  Stumpy~
+Date    Thu Aug 17 14:40:43 2006~
+Stamp   1155843779
+Expire  1171395653
+To      imm~
+Subject remort portal~
+Text
+the remort portal ended up in a clan hall, not accessible
+to normal players.  I dunno how to move it.  A reboot 
+would be easiest, although if it dont happen soon, I will
+just use my builder to transfer my character to the portal
+and remort that way.
+~
+
+Sender  Leah~
+Date    Fri Aug 25 15:43:45 2006~
+Stamp   1156538688
+Expire  1172090632
+To      imm~
+Subject lydia/leah~
+Text
+was using lydia to test a few things, and fool around.
+going to delete to keep it fair :P
+ 
+wanted to make note if you were reviewing logs...
+--Lena/Leah/Lydia
+~
+
+Sender  Serpterion~
+Date    Sun Sep  3 12:30:39 2006~
+Stamp   1157304707
+Expire  1172856645
+To      sembiance~
+Subject Crovax~
+Text
+Hey sembi!
+ 
+Crovax, my bro, is unable to log into his account.. Is it possible to reset the
+Password for him? 
+ 
+Thank you!
+Serp
+~
+
+Sender  Peron~
+Date    Sun Sep  3 12:34:56 2006~
+Stamp   1157305075
+Expire  1172856939
+To      note to Sembiance~
+Subject Crovax, My Character~
+Text
+Sembi,
+V
+I was wondering if you could unlock/change the password for my char
+Venus Locked it for some reason, can no longer remember.
+Thanks bud
+-Crovax/Peron
+~
+

@@ -1,0 +1,67 @@
+#PLAYER
+Name Thoran~
+Id   1094048946
+LogO 1094053136
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Golem~
+Sex  1
+Cla  6
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 4163
+Not  0 0 0 0
+Scro 33
+Room 3055
+HMV  47 47 102 102 104 106
+Gold 1
+Silv 106
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  4017
+PAct  QTd
+AfBy c
+Empower  0
+WName Thoran~
+Comm NO
+Deaf DP
+Pos  8
+Alig  1000
+ACs 80 80 80 80
+Attr 27 12 9 9 18
+AMod 0 0 0 0 0
+Pass ThvghR3coGlvA~
+Titl  Slayer~
+Pnts 56
+TSex 1
+PSize 4
+LLev 0
+HMVP 47 102 106
+Cnd  0 0 -1 -1
+Sk 1 'armor'
+Sk 1 'stone skin'
+Sk 12 'sword'
+Sk 40 'axe'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 21 'shield block'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 61 'recall'
+Sk 1 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Affc 'armor'   0 249  75 -20  17          0
+End
+
+#END

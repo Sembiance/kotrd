@@ -1,0 +1,233 @@
+#PLAYER
+Name Odeon~
+Id   1106554225
+LogO 1106723555
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Elf~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 7
+OldLvl 7
+Sec  0
+Plyd 2255
+Scro 33
+Room 3054
+HMV  91 159 113 113 53 136
+Gold 109
+Silv 3572
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 7
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  20299
+PAct  DFQTd
+AfBy JTVe
+WName Odeon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 2
+Trai 1
+Save  -63
+Alig  813
+Hit   245
+Dam   121
+ACs -279 -275 -275 -262
+Attr 17 13 16 16 16
+AMod 6 0 0 4 0
+Pass Od/o/UxABRR4s~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 66
+TSex 1
+PSize 1
+LLev 0
+HMVP 139 113 136
+Cnd  0 0 16 16
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'giant strength'
+Sk 75 'sword'
+Sk 1 'exotic'
+Sk 1 'dual wield'
+Sk 55 'enhanced damage'
+Sk 9 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior spells'
+Affc 'armor'   0 250  83 -20  17          0
+Affc 'stone skin'   0 498 481 -40  17          0
+Affc 'golden aura'   0 492  81   0   0 1073741824
+Affc 'haste'   0 493  95   4   2    2097152
+Affc 'bless'   0 493 220 125  18          0
+Affc 'bless'   0 494 220 -62  20          0
+Affc 'combat mind'   0 494 136 100  18          0
+Affc 'combat mind'   0 498 136 -255  17          0
+Affc 'combat mind'   0 497 136 100  19          0
+Affc 'stone skin'   0 496 470 -40  17          0
+Affc 'fly'   0 493 473   0   0     524288
+Affc 'giant strength'   0 495 470   4   1          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 168 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 225
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#END

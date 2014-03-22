@@ -1,0 +1,1558 @@
+#PLAYER
+Name Serpterion~
+Id   1087521890
+LogO 1175457612
+Vers 5
+Desc {r Born from a dragon egg, this creature of the wilderness is very whispy and appears to be wiry to the touch. {x
+{r His eyes seem to be staring through things rather than staring at them. The deftness of his strides make it seem as if he was a seasioned warrior at heart. The way his weapons are sheathed seem that  they unsheat in a {x
+{rclockwise twisting motion. It seems that this creature might pose a formidable fight if provoked. {x
+~
+Prom <%hhp/%Hhp %mmp/%Mmp %vmv/%Vmv %K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  8
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 5
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 411220
+Scro 33
+Room 3001
+HMV  10883 10883 4170 4170 5061 5061
+Gold 129
+Silv 1
+Gold_bank 587479
+Silv_bank 22466
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200011
+QuestPnts 148
+PAct  CDGTbd
+AfBy CDFHJTUV
+WName Serpterion~
+Comm FKNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 2
+Save  -272
+Alig  -1000
+Hit   593
+Dam   592
+ACs -1638 -1638 -1638 -1602
+Attr 18 27 27 22 18
+AMod 43 14 23 22 7
+Pass Se2lNzT1cVEqQ~
+Titl  KotRD Fanatic~
+Pnts 40
+TSex 1
+PSize 3
+LLev 75
+HMVP 1582 503 744
+Cnd  0 0 -1 -1
+Ignore ramsus~
+Boards       4 General 1174263672 Ideas 1173698657 Announce 1114049929 Personal 1172693391 
+Sk 77 'cure serious'
+Sk 80 'protection evil'
+Sk 75 'cure poison'
+Sk 75 'dispel evil'
+Sk 76 'remove curse'
+Sk 77 'detect evil'
+Sk 78 'detect hidden'
+Sk 75 'detect invis'
+Sk 75 'detect poison'
+Sk 75 'farsight'
+Sk 75 'giant strength'
+Sk 75 'infravision'
+Sk 77 'word of recall'
+Sk 100 'blightning'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 75 'whip'
+Sk 100 'polearm'
+Sk 100 'exotic'
+Sk 100 'bash'
+Sk 67 'dirt kicking'
+Sk 78 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 85 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 76 'shield block'
+Sk 75 'rescue'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 97 'fast healing'
+Sk 91 'haggle'
+Sk 88 'hide'
+Sk 93 'sneak'
+Sk 75 'recall'
+Sk 1 'spellcraft'
+Sk 100 'companion'
+Sk 91 'track'
+Sk 100 'whirlwind'
+Sk 1 'metamorph'
+Sk 75 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'ranger basics'
+Gr 'warrior spells'
+Gr 'ranger spells'
+Affc 'enhanced strength'   0  99  -1  15   1          0
+Affc 'displacement'   0  99  -1   0   0    1048576
+Affc 'displacement'   0  99  -1  12   2          0
+Affc 'displacement'   0  99  -1 -96  17          0
+Affc 'sanctuary'   0 100  -1   0   0        128
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'infravision'   0  69 117   0   0        512
+Affc 'detect evil'   0  70  42   0   0          4
+Affc 'detect hidden'   0  69  42   0   0         32
+Affc 'detect invis'   0  66  42   0   0          8
+Affc 'giant strength'   0  69  42   4   1          0
+End
+
+#O
+Vnum 23451
+Nest 0
+Cond 0
+Wear 18
+Cost 75000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 2
+Cost 3868
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3294
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 3294
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 19207
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 19208
+Nest 1
+Cond 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3294
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 3018
+Nest 1
+Name soulstone stone Stumpy~
+MatR 0
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 8458
+Nest 1
+Name light flame stalkers Stumpy~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6722
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6734
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 7502
+Nest 1
+Cond 0
+Wear -1
+Cost 93476
+End
+
+#O
+Vnum 19208
+Nest 1
+Cond 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 19207
+Nest 1
+Cond 0
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 53
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11639
+Nest 2
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 11639
+Nest 2
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 11639
+Nest 2
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 11639
+Nest 2
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 11639
+Nest 2
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 6720
+Nest 2
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6756
+Nest 2
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6704
+Nest 2
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6756
+Nest 2
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6704
+Nest 2
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6720
+Nest 2
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6746
+Nest 2
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6766
+Nest 2
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 6760
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6760
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6762
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6762
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6764
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6760
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6706
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6706
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6706
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6706
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6706
+Nest 2
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6776
+Nest 2
+Cond 0
+Wear -1
+Cost 14600000
+End
+
+#O
+Vnum 6738
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6752
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 3035
+Enchanted
+Nest 1
+Name fire~
+ShD  {RFire{x~
+Desc {RFire is lying here{x~
+ExtF 4160
+MatR 9
+Cond 0
+Wear -1
+Lev  91
+Cost 22342
+Val  1 17 19 1 93
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1 200  14          0
+Affc 'reserved'   1  90  -1 150  13          0
+Affc 'reserved'   1  90  -1 -500  12          0
+Affc 'reserved'   1  90  -1  50  18          0
+Affc 'reserved'   1  90  -1  50  19          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'psharp blade'   5   0  -1   0   0          8
+End
+
+#O
+Vnum 3035
+Enchanted
+Nest 1
+ExtF 4160
+MatR 9
+Cond 0
+Wear -1
+Lev  91
+Cost 22342
+Val  1 17 19 1 94
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  90  -1  50  19          0
+Affc 'reserved'   1  90  -1  50  18          0
+Affc 'reserved'   1  90  -1 -500  12          0
+Affc 'reserved'   1  90  -1 150  13          0
+Affc 'reserved'   1  90  -1 200  14          0
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pfrost blade'   5   0  -1   0   0          2
+Affc 'psharp blade'   5   0  -1   0   0          8
+End
+
+#O
+Vnum 3018
+Nest 1
+Name soulstone stone Stumpy~
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 3017
+Nest 1
+Name rock ophelia Stumpy~
+MatR 0
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6708
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3099
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 3036
+Nest 1
+Name direction map book spatula Stumpy~
+Cond 0
+Wear -1
+Cost 45000
+End
+
+#O
+Vnum 25421
+Nest 1
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6712
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6721
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6717
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6715
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6723
+Nest 1
+Cond 0
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 6727
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6725
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6721
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6712
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6723
+Nest 1
+Cond 0
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 6715
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6717
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6725
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6713
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6741
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6737
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6729
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6731
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6742
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6735
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6727
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6740
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6798
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6733
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6709
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6709
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 19209
+Nest 1
+Name Demon Claws Stumpy~
+Wt   500
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 19209
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6780
+Nest 0
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 11905
+Enchanted
+Nest 0
+ExtF 302514371
+Cond 0
+Wear -1
+Cost 55000
+Affc 'reserved'   1 100  -1  60  18          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1 -500  13          0
+Affc 'reserved'   1 100  -1 -400  14          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 6773
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 6703
+Nest 0
+Cond 0
+Wear 19
+Cost 100000
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 11905
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 11905
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6780
+Nest 0
+Cond 0
+Wear 16
+Cost 20000000
+End
+
+#END

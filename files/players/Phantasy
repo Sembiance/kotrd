@@ -1,0 +1,87 @@
+#PLAYER
+Name Phantasy~
+Id   1157591254
+LogO 1157595786
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Elf~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 4532
+Scro 33
+Room 3712
+HMV  21 29 102 102 106 106
+Gold 0
+Silv 6
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2949
+PAct  QTd
+AfBy J
+WName Phantasy~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 2
+Trai 1
+Save  -31
+Alig  -1000
+Hit   62
+ACs 80 80 80 80
+Attr 13 14 13 22 12
+AMod 0 0 0 0 0
+Pass PhwmnV7eCVKaw~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 48
+TSex 1
+PSize 1
+LLev 1
+HMVP 29 102 106
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'dagger'
+Sk 1 'assassinate'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'armor'   0  30  17 -20  17          0
+Affc 'bless'   0 249 120 -31  20          0
+Affc 'bless'   0 249 120  62  18          0
+End
+
+#O
+Vnum 14
+Nest 0
+ShD  the arm of {CA mean dragon hatchling{x~
+Desc The sliced-off arm of {CA mean dragon hatchling{x is lying here.~
+Cond 0
+Wear -1
+Time 1
+Cost 0
+End
+
+#END

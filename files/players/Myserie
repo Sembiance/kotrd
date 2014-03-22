@@ -1,0 +1,1213 @@
+#PLAYER
+Name Myserie~
+Id   1080458559
+LogO 1174578720
+Vers 5
+Prom %h/%H %m/%M %v/%V %K ~
+Race Human~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 500
+OldLvl 500
+Sec  0
+Plyd 378139
+Scro 33
+Room 1
+HMV  12660 12660 6120 6120 8100 8100
+Gold 57413
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 500
+Shares_bought 0
+Duration 0
+Bounty 0
+House 1
+Exp  500000
+PAct  DNQTd
+WName {RM{Yy{Gs{Ce{Br{mi{Me{x~
+Comm AEFINOQ
+RaceChan 0
+Deaf P
+Pos  8
+Prac 434
+Trai 449
+Alig  -1000
+Hit   209
+Dam   209
+ACs 97 97 94 97
+Attr 27 27 27 27 27
+AMod 4 0 0 2 0
+Pass MyLVLTWBJYQsg~
+Bin  {RM{Yy{Gs{Ce{Br{Mi{Me {DHere{x~
+Bout {RM{Yy{Gs{Ce{Br{Mi{Me {DGone{x~
+Titl  {D- {RFr{rus{Dtr{rat{Red {RI{rn{Dc{D.{x~
+Job {WC{wo{Dd{ce{Cr{cD{Du{wd{We {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 1
+HMVP 7470 1100 3100
+Cnd  0 48 48 48
+Boards       4 General 1173227952 Ideas 1101186114 Announce 1101457691 Personal 1101599825 
+Sk 100 'reserved'
+Sk 100 'magic missile'
+Sk 100 'chill touch'
+Sk 100 'burning hands'
+Sk 100 'shocking grasp'
+Sk 100 'colour spray'
+Sk 100 'fireball'
+Sk 100 'acid blast'
+Sk 100 'spellfire'
+Sk 100 'orb of chaos'
+Sk 100 'chain lightning'
+Sk 100 'wyldstryke'
+Sk 100 'acid storm'
+Sk 100 'wail of the banshee'
+Sk 100 'torment of cold'
+Sk 100 'sonic scream'
+Sk 100 'ventriloquate'
+Sk 100 'recharge'
+Sk 100 'sleep'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'charm person'
+Sk 100 'haste'
+Sk 100 'pass door'
+Sk 100 'portal'
+Sk 100 'nexus'
+Sk 100 'acid breath'
+Sk 100 'frost breath'
+Sk 100 'lightning bolt'
+Sk 100 'lightning breath'
+Sk 100 'gas breath'
+Sk 100 'fire breath'
+Sk 100 'cure light'
+Sk 100 'change sex'
+Sk 100 'cause light'
+Sk 100 'cure blindness'
+Sk 100 'bless'
+Sk 100 'cause serious'
+Sk 100 'cure serious'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'earthquake'
+Sk 100 'cause critical'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'heat metal'
+Sk 100 'remove curse'
+Sk 100 'flamestrike'
+Sk 100 'heal'
+Sk 100 'harm'
+Sk 100 'frenzy'
+Sk 100 'demonfire'
+Sk 100 'ray of truth'
+Sk 100 'holy word'
+Sk 100 'mass healing'
+Sk 100 'golden aura'
+Sk 100 'fortify object'
+Sk 100 'fireproof'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'curse'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'locate object'
+Sk 100 'mass invis'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'refresh'
+Sk 100 'sanctuary'
+Sk 100 'energy shield'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'apport'
+Sk 100 'combat mind'
+Sk 100 'adrenaline control'
+Sk 100 'enhanced strength'
+Sk 100 'aura sight'
+Sk 100 'awe'
+Sk 100 'thought shield'
+Sk 100 'psychic healing'
+Sk 100 'mental barrier'
+Sk 100 'share strength'
+Sk 100 'levitation'
+Sk 100 'obfuscate'
+Sk 100 'bio fortress'
+Sk 100 'cell adjustment'
+Sk 100 'displacement'
+Sk 100 'ectoplasmic form'
+Sk 100 'lend health'
+Sk 100 'complete healing'
+Sk 100 'energy containment'
+Sk 100 'enhance armor'
+Sk 100 'flesh armor'
+Sk 100 'inertial barrier'
+Sk 100 'domination'
+Sk 100 'disintegrate'
+Sk 100 'essence drain'
+Sk 100 'agitation'
+Sk 100 'ballistic attack'
+Sk 100 'control flames'
+Sk 100 'death field'
+Sk 100 'detonate'
+Sk 100 'ego whip'
+Sk 100 'inflict pain'
+Sk 100 'mind thrust'
+Sk 100 'project force'
+Sk 100 'psionic blast'
+Sk 100 'psychic crush'
+Sk 100 'psychic drain'
+Sk 100 'ultrablast'
+Sk 100 'blightning'
+Sk 100 'bfire'
+Sk 100 'bfrost'
+Sk 100 'bacid'
+Sk 100 'bgas'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'pdrain blade'
+Sk 100 'pshocking blade'
+Sk 100 'pflame blade'
+Sk 100 'pfrost blade'
+Sk 100 'pvorpal blade'
+Sk 100 'psharp blade'
+Sk 100 'ppoison blade'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'mace'
+Sk 100 'axe'
+Sk 100 'flail'
+Sk 100 'whip'
+Sk 100 'polearm'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'circle'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'shield block'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'envenom'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'spellcraft'
+Sk 100 'companion'
+Sk 100 'track'
+Sk 100 'whirlwind'
+Sk 100 'heighten senses'
+Sk 100 'chameleon power'
+Sk 100 'create zombie'
+Sk 100 'metamorph'
+Sk 100 'shadow form'
+Sk 100 'multiburst'
+Sk 100 'forsake'
+Sk 100 'divine wrath'
+Sk 100 'immdis magic'
+Sk 100 'quicken'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'sharp blade'
+Sk 100 'critical strike'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'warrior spells'
+Affc 'enhanced strength'   0 484 409  55   1          0
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 15163
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  30
+Cost 2800
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 3167
+Nest 1
+Cond 0
+Wear -1
+Cost 190
+End
+
+#O
+Vnum 2408
+Nest 1
+Cond 0
+Wear -1
+Cost 7500
+Val  0 0 1414 0 0
+End
+
+#O
+Vnum 23220
+Nest 1
+Cond 0
+Wear -1
+Cost 60000
+End
+
+#O
+Vnum 25123
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 23216
+Nest 1
+Cond 0
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 23223
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 11897
+Nest 1
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 14242
+Nest 1
+MatR 0
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 23211
+Nest 1
+Cond 0
+Wear -1
+Cost 36000
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 7303
+Nest 1
+Cond 0
+Wear -1
+Cost 18600
+End
+
+#O
+Vnum 11672
+Enchanted
+Nest 1
+ExtF 68
+Cond 0
+Wear -1
+Lev  71
+Cost 6230
+Affc 'reserved'   1  70  -1   4  19          0
+Affc 'reserved'   1  70  -1   3  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 11710
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11710
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 16057
+Nest 1
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 1
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 9
+Nest 1
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 916
+Nest 1
+Cond 0
+Wear -1
+Cost 2000
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 20405
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  87
+Cost 45000
+Affc 'enchant weapon'   0 500  -1  75  18          0
+Affc 'enchant weapon'   1 500  -1  37  19          0
+Affc 'reserved'   1  86  -1 100  13          0
+Affc 'reserved'   1  86  -1  40  19          0
+Affc 'reserved'   1  86  -1  40  18          0
+End
+
+#O
+Vnum 904
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20412
+Nest 1
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 20411
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20407
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 20407
+Nest 1
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 8430
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 3027
+Nest 1
+Cond 0
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 3023
+Nest 1
+Cond 0
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 19220
+Enchanted
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Lev  86
+Cost 9000
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'reserved'   1  85  -1   1   2          0
+Affc 'reserved'   1  85  -1   2   5          0
+Affc 'reserved'   1  85  -1  20  19          0
+Affc 'reserved'   1  85  -1  15  18          0
+End
+
+#O
+Vnum 11856
+Nest 1
+Cond 0
+Wear -1
+Cost 9900
+End
+
+#O
+Vnum 11859
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11858
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11861
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11859
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11866
+Nest 1
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 13400
+Enchanted
+Nest 1
+ExtF 582
+Cond 0
+Wear -1
+Lev  41
+Cost 34799
+Val  1 5 13 1 20
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  40  -1  10  18          0
+Affc 'reserved'   1  40  -1  10  19          0
+Affc 'reserved'   1  40  -1   2   1          0
+Affc 'reserved'   1  40  -1   5   1          0
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+End
+
+#O
+Vnum 21297
+Nest 0
+Cond 0
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 23501
+Nest 0
+Cond 0
+Wear 17
+Cost 1000000
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 53700
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 2950000
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 630000
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 625000
+End
+
+#O
+Vnum 6732
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 908
+Nest 0
+Cond 0
+Wear -1
+Cost 4000
+End
+
+#END

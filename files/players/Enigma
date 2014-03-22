@@ -1,0 +1,175 @@
+#PLAYER
+Name Enigma~
+Id   1104993099
+LogO 1104993768
+Vers 5
+Prom %h-%Hhp %m-%Mm %v-%Vv {C%Xx {Y%gg {w%ss {g%e %K ~
+Race Human~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 669
+Scro 33
+Room 3712
+HMV  18 30 102 102 100 106
+Gold 100
+Silv 82
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2121
+PAct  DGQTd
+WName Enigma~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 3
+Trai 1
+Save  -4
+Alig  -1000
+Hit   8
+ACs 87 87 87 99
+Attr 14 15 16 18 16
+AMod 0 1 2 0 2
+Pass EnhE5oCsMLGn6~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 30 102 106
+Cnd  0 30 39 39
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'sword'
+Sk 75 'dagger'
+Sk 1 'disarm'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Affc 'bless'   0  30  10  -3  20          0
+Affc 'bless'   0  29  10   7  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 191 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

@@ -1,0 +1,68 @@
+#PLAYER
+Name Lome~
+Id   1098149680
+LogO 1098151057
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Lizardman~
+Sex  1
+Cla  5
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1377
+Not  0 0 0 0
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1967
+PAct  QTd
+AfBy Jb
+Empower  0
+WName Lome~
+Comm NO
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 19 14 12 16 17
+AMod 0 0 0 0 0
+Pass LoDWA0AsXRxMc~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 51
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 18 33 33
+Sk 40 'sword'
+Sk 1 'dagger'
+Sk 1 'berserk'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+End
+
+#END

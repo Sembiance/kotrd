@@ -1,0 +1,414 @@
+Fri Dec 31 17:27:40 2004 :: ROM is ready to rock on port 5000.
+Fri Dec 31 17:27:56 2004 :: Sock.sinaddr:  69.240.65.225
+Fri Dec 31 17:27:59 2004 :: Sock.sinaddr:  66.222.216.154
+Fri Dec 31 17:28:00 2004 :: Sock.sinaddr:  66.93.33.134
+Fri Dec 31 17:28:00 2004 :: Sock.sinaddr:  67.141.86.144
+Fri Dec 31 17:28:00 2004 :: Sock.sinaddr:  66.93.33.134
+Fri Dec 31 17:28:00 2004 :: Loading Argon.
+Fri Dec 31 17:28:01 2004 :: Argon@67.141.86.144 has connected.
+Fri Dec 31 17:28:03 2004 :: Loading Fodder.
+Fri Dec 31 17:28:04 2004 :: Loading Seclar.
+Fri Dec 31 17:28:06 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Fri Dec 31 17:28:06 2004 :: Sock.sinaddr:  66.222.216.154
+Fri Dec 31 17:28:06 2004 :: Fodder@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Dec 31 17:28:09 2004 :: Sock.sinaddr:  67.170.53.94
+Fri Dec 31 17:28:14 2004 :: Loading Venus.
+Fri Dec 31 17:28:15 2004 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Fri Dec 31 17:28:41 2004 :: A Xancrist child got toasted by Fodder at {MContinuing down Main Street{x [room 21006]
+Fri Dec 31 17:29:08 2004 :: A Xancrist mother got toasted by Fodder at {MContinuing down Main Street{x [room 21006]
+Fri Dec 31 17:29:08 2004 :: Sock.sinaddr:  67.19.185.236
+Fri Dec 31 17:29:12 2004 :: Loading Sembiance.
+Fri Dec 31 17:29:13 2004 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Fri Dec 31 17:29:26 2004 :: {Dthe spirit of {WA xancrist mother{D got toasted by Fodder at {MContinuing down Main Street{x [room 21006]
+Fri Dec 31 17:29:27 2004 :: Loading Chame.
+Fri Dec 31 17:29:27 2004 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Fri Dec 31 17:29:35 2004 :: Loading Skeet.
+Fri Dec 31 17:29:35 2004 :: Skeet@d66-222-216-154.abhsia.telus.net has connected.
+Fri Dec 31 17:29:56 2004 :: A Xancrist merchant got toasted by Fodder at {MThe Main Street.{x [room 21004]
+Fri Dec 31 17:30:26 2004 :: A Xancrist father got toasted by Fodder at {MThe Main Street.{x [room 21004]
+Fri Dec 31 17:31:08 2004 :: Xancrist warrior got toasted by Fodder at {BThe guild hall of the Xancrist Warriors.{x [room 21008]
+Fri Dec 31 17:34:22 2004 :: the inquisitor got toasted by Seclar at {MThe Torture Chamber{x [room 15119]
+Fri Dec 31 17:34:30 2004 :: a rat got toasted by Seclar at {MThe Torture Chamber{x [room 15119]
+Fri Dec 31 17:36:37 2004 :: A citizen got toasted by Fodder at {MZeus Street{x [room 905]
+Fri Dec 31 17:38:01 2004 :: A citizen got toasted by Fodder at {MZeus Street{x [room 906]
+Fri Dec 31 17:40:10 2004 :: A citizen got toasted by Fodder at {MZeus Street{x [room 907]
+Fri Dec 31 17:45:27 2004 :: Sock.sinaddr:  4.236.27.206
+Fri Dec 31 17:45:30 2004 :: Loading Cire.
+Fri Dec 31 17:45:32 2004 :: Cire@dialup-4.236.27.206.Dial1.NewYork1.Level3.net has connected.
+Fri Dec 31 17:45:54 2004 :: dialup-4.236.27.206.Dial1.NewYork1.Level3.net input spamming!
+Fri Dec 31 17:48:21 2004 :: the cityguard got toasted by Cire at {WMarket {MSquare{x [room 3014]
+Fri Dec 31 17:49:54 2004 :: a dragon soldier got toasted by Cire at {MA Mountain Road{x [room 23203]
+Fri Dec 31 17:50:22 2004 :: Log Fodder: delete
+Fri Dec 31 17:50:40 2004 :: Log Fodder: delete
+Fri Dec 31 17:50:40 2004 :: Fodder has quit.
+Fri Dec 31 17:51:01 2004 :: A Dragon of Virtue got toasted by Cire at {MA Dark Alley{x [room 23270]
+Fri Dec 31 17:52:28 2004 :: Cire has quit.
+Fri Dec 31 17:52:31 2004 :: Sock.sinaddr:  4.236.27.206
+Fri Dec 31 17:52:34 2004 :: Loading Golddragon.
+Fri Dec 31 17:52:38 2004 :: Golddragon@dialup-4.236.27.206.Dial1.NewYork1.Level3.net has connected.
+Fri Dec 31 17:52:50 2004 :: Sock.sinaddr:  69.240.65.225
+Fri Dec 31 17:52:53 2004 :: Loading Spatula.
+Fri Dec 31 17:52:56 2004 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Dec 31 17:53:03 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Fri Dec 31 17:54:05 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Fri Dec 31 17:54:05 2004 :: Chame has quit.
+Fri Dec 31 17:54:16 2004 :: Sock.sinaddr:  66.222.216.154
+Fri Dec 31 17:54:18 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Fri Dec 31 17:54:29 2004 :: Loading Chame.
+Fri Dec 31 17:54:30 2004 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Fri Dec 31 17:56:52 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Fri Dec 31 17:57:15 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Fri Dec 31 18:00:04 2004 :: Log Spatula: cast summon bloody severed nose
+Fri Dec 31 18:00:27 2004 :: an Orcish chieftain got toasted by Seclar at {MThe Chieftain's Quarters{x [room 5799]
+Fri Dec 31 18:01:27 2004 :: Sock.sinaddr:  68.100.177.85
+Fri Dec 31 18:01:29 2004 :: Loading Dusk.
+Fri Dec 31 18:01:30 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Fri Dec 31 18:05:17 2004 :: Dusk has quit.
+Fri Dec 31 18:05:58 2004 :: Log Spatula: cast summon child small
+Fri Dec 31 18:06:00 2004 :: a small child got toasted by Spatula at {BThe Night Garden of Midgaard{x [room 3360]
+Fri Dec 31 18:06:37 2004 :: a small child got toasted by Spatula at {MZero-G Room{x [room 4318]
+Fri Dec 31 18:06:49 2004 :: Lawyer from Hell got toasted by Seclar at {MLawyers Office{x [room 10512]
+Fri Dec 31 18:07:02 2004 :: weeds got toasted by Seclar at {MCourtyard{x [room 10522]
+Fri Dec 31 18:07:17 2004 :: weeds got toasted by Seclar at {MCourtyard{x [room 10533]
+Fri Dec 31 18:09:55 2004 :: A Leucrotta got toasted by Chame at {MDesert{x [room 4818]
+Fri Dec 31 18:10:25 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Fri Dec 31 18:10:25 2004 :: Golddragon has quit.
+Fri Dec 31 18:11:03 2004 :: Log Argon: snoop spat
+Fri Dec 31 18:11:55 2004 :: Log Argon: snoop self
+Fri Dec 31 18:12:34 2004 :: Log Seclar: cast summon jay leno chin
+Fri Dec 31 18:17:06 2004 :: Skeet@d66-222-216-154.abhsia.telus.net new player.
+Fri Dec 31 18:18:04 2004 :: the Pawn of the White Court got toasted by Spatula at {MA White Square{x [room 4264]
+Fri Dec 31 18:18:11 2004 :: the White Knight got toasted by Spatula at {MA Black Square{x [room 4263]
+Fri Dec 31 18:18:23 2004 :: the White Bishop got toasted by Spatula at {MA Black Square{x [room 4261]
+Fri Dec 31 18:18:23 2004 :: the Pawn of the White Court got toasted by Spatula at {MA Black Square{x [room 4261]
+Fri Dec 31 18:18:24 2004 :: the White King got toasted by Spatula at {MA Black Square{x [room 4261]
+Fri Dec 31 18:18:33 2004 :: the White Queen got toasted by Spatula at {MA White Square{x [room 4260]
+Fri Dec 31 18:18:49 2004 :: the White Knight got toasted by Spatula at {MA White Square{x [room 4258]
+Fri Dec 31 18:19:00 2004 :: the Pawn of the White Court got toasted by Spatula at {MA Black Square{x [room 4250]
+Fri Dec 31 18:19:06 2004 :: the White Rook got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:19:10 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:13 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:16 2004 :: Log Spatula: cast summon dragon virtue
+Fri Dec 31 18:19:21 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:24 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:27 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:32 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:35 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:38 2004 :: Log Spatula: cast summon dragon virtue
+Fri Dec 31 18:19:41 2004 :: Log Spatula: cast summon virtue
+Fri Dec 31 18:19:43 2004 :: Log Spatula: cast summon dragon virtue
+Fri Dec 31 18:19:56 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:19:59 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:00 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:00 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:00 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:00 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:02 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:05 2004 :: {Dthe spirit of {WA dragon of virtue{D got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:06 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:06 2004 :: A Dragon of Virtue got toasted by Spatula at {MA Black Square{x [room 4257]
+Fri Dec 31 18:20:18 2004 :: A Dragon of Virtue got toasted by Spatula at {MA White Square{x [room 4258]
+Fri Dec 31 18:20:23 2004 :: the Pawn of the White Court got toasted by Spatula at {MA White Square{x [room 4249]
+Fri Dec 31 18:20:26 2004 :: A Dragon of Virtue got toasted by Spatula at {MA White Square{x [room 4249]
+Fri Dec 31 18:22:33 2004 :: Log Spatula: cast summon turnkey
+Fri Dec 31 18:22:34 2004 :: A statue of the Fallen Red Dragon got toasted by A statue of the Fallen Red Dragon at {MThe {WTemple {Mof Immortals{x [room 3001]
+Fri Dec 31 18:22:36 2004 :: a drunken turnkey got toasted by Spatula at {BThe Night Garden of Midgaard{x [room 3360]
+Fri Dec 31 18:23:15 2004 :: a Dungeon guard got toasted by Spatula at {MThe Yard{x [room 15101]
+Fri Dec 31 18:23:15 2004 :: [*****] BUG: Norm-Apply: 0
+Fri Dec 31 18:23:18 2004 :: a Dungeon guard got toasted by Spatula at {MThe Yard{x [room 15101]
+Fri Dec 31 18:23:18 2004 :: [*****] BUG: Norm-Apply: 0
+Fri Dec 31 18:23:36 2004 :: a war dog got toasted by Spatula at {MThe Dog Kennels{x [room 15117]
+Fri Dec 31 18:25:01 2004 :: the wraith Deros got toasted by Spatula at {MTomb of Deros{x [room 15168]
+Fri Dec 31 18:28:51 2004 :: A king bat got toasted by Seclar at {MLevel 3{x [room 4541]
+Fri Dec 31 18:30:03 2004 :: Log Argon: snoop spat
+Fri Dec 31 18:30:47 2004 :: {BA sleepy dragon hatchling{x got toasted by Skeet at {MA Cage{x [room 3715]
+Fri Dec 31 18:30:51 2004 :: {R a dragon hatchling{x got toasted by Skeet at {MA Cage{x [room 3716]
+Fri Dec 31 18:31:04 2004 :: {Ga hesitant dragon hatchling{x got toasted by Skeet at {MA Cage{x [room 3714]
+Fri Dec 31 18:31:10 2004 :: {CA mean dragon hatchling{x got toasted by Skeet at {MA Cage{x [room 3713]
+Fri Dec 31 18:31:23 2004 :: {Cthe big hatchling{x got toasted by Skeet at {MThe Darkened Room{x [room 3720]
+Fri Dec 31 18:31:50 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 18:31:53 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 18:31:56 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 18:31:58 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:00 2004 :: the fox got toasted by Skeet at {MSouth East Corner of Arena{x [room 3726]
+Fri Dec 31 18:32:01 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:03 2004 :: the fox got toasted by Skeet at {MSouth East Corner of Arena{x [room 3726]
+Fri Dec 31 18:32:04 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 18:32:07 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:09 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:09 2004 :: the snail got toasted by Skeet at {MSouth Wall of Arena{x [room 3723]
+Fri Dec 31 18:32:12 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 18:32:14 2004 :: the snail got toasted by Skeet at {MSouth West Corner of Arena{x [room 3724]
+Fri Dec 31 18:32:15 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:17 2004 :: the snail got toasted by Skeet at {MSouth West Corner of Arena{x [room 3724]
+Fri Dec 31 18:32:18 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:20 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:21 2004 :: the snail got toasted by Skeet at {MSouth West Corner of Arena{x [room 3724]
+Fri Dec 31 18:32:23 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 18:32:31 2004 :: the snail got toasted by Skeet at {MWest Wall of Arena{x [room 3727]
+Fri Dec 31 18:32:39 2004 :: the fox got toasted by Skeet at {MEast Wall of Arena{x [room 3731]
+Fri Dec 31 18:32:47 2004 :: the rabbit got toasted by Skeet at {MCenter of Arena{x [room 3734]
+Fri Dec 31 18:32:50 2004 :: the rabbit got toasted by Skeet at {MCenter of Arena{x [room 3734]
+Fri Dec 31 18:33:03 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:08 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:08 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:14 2004 :: the lizard got toasted by Skeet at {MWest Wall of Arena{x [room 3737]
+Fri Dec 31 18:33:19 2004 :: the lizard got toasted by Skeet at {MArena{x [room 3738]
+Fri Dec 31 18:33:24 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:24 2004 :: the rabbit got toasted by Skeet at {MArena{x [room 3739]
+Fri Dec 31 18:33:27 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:28 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:30 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:33:33 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:33:36 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:33:39 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:33:44 2004 :: the rabbit got toasted by Skeet at {MNorth Wall of Arena{x [room 3744]
+Fri Dec 31 18:33:50 2004 :: the lizard got toasted by Skeet at {MNorth West Corner of Arena{x [room 3742]
+Fri Dec 31 18:34:12 2004 :: Log Spatula: cast summon Drakknar
+Fri Dec 31 18:34:26 2004 :: Log Spatula: cast summon Arnog
+Fri Dec 31 18:34:48 2004 :: the newbie monster got toasted by Skeet at {MThe Entrance To The Newbie Zone{x [room 18600]
+Fri Dec 31 18:34:54 2004 :: the creepy crawler got toasted by Skeet at {MThe Dirty Hallway{x [room 18602]
+Fri Dec 31 18:34:57 2004 :: the baby dragon got toasted by Skeet at {MThe Dirty Hallway{x [room 18602]
+Fri Dec 31 18:35:11 2004 :: the annoying newbie got toasted by Skeet at {MA Bright Hallway{x [room 18646]
+Fri Dec 31 18:35:18 2004 :: the clueless newbie got toasted by Skeet at {MThe North Stairs{x [room 18642]
+Fri Dec 31 18:35:28 2004 :: Log Spatula: cast summon Kringe
+Fri Dec 31 18:35:37 2004 :: the lost newbie got toasted by Skeet at {MA Narrow Passage{x [room 18604]
+Fri Dec 31 18:35:52 2004 :: the smart newbie got toasted by Skeet at {MThe Balcony{x [room 18645]
+Fri Dec 31 18:35:55 2004 :: Kringe got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:36:06 2004 :: the newbie monster got toasted by Skeet at {MMore Of The Hallway{x [room 18607]
+Fri Dec 31 18:36:16 2004 :: the newbie alchemist got toasted by Skeet at {MThe Alchemist's Room{x [room 18612]
+Fri Dec 31 18:36:25 2004 :: the quasit got toasted by Skeet at {MA Crossing Of Corridors{x [room 18627]
+Fri Dec 31 18:36:34 2004 :: the zombiefied newbie got toasted by Skeet at {MAnother Turn{x [room 18624]
+Fri Dec 31 18:37:02 2004 :: the zombiefied newbie got toasted by Skeet at {MYet Another Corner{x [room 18637]
+Fri Dec 31 18:37:18 2004 :: the quasit got toasted by Skeet at {MA Branch To The South{x [room 18636]
+Fri Dec 31 18:37:39 2004 :: the dark spectre got toasted by Skeet at {MA Large Room{x [room 18639]
+Fri Dec 31 18:37:45 2004 :: the quasit got toasted by Skeet at {MA Large Room{x [room 18638]
+Fri Dec 31 18:37:57 2004 :: the quasit got toasted by Skeet at {MA T-Intersection In The Passage{x [room 18621]
+Fri Dec 31 18:37:59 2004 :: the White Rook got toasted by Seclar at {MA White Square{x [room 4255]
+Fri Dec 31 18:37:59 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4255]
+Fri Dec 31 18:38:03 2004 :: Arnog got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:38:09 2004 :: the zombiefied newbie got toasted by Skeet at {MA Turn In The Passage{x [room 18620]
+Fri Dec 31 18:38:11 2004 :: Log Spatula: cast summon white king
+Fri Dec 31 18:38:12 2004 :: the zombiefied newbie got toasted by Skeet at {MAnother Corner{x [room 18633]
+Fri Dec 31 18:38:12 2004 :: the White Knight got toasted by Seclar at {MA Black Square{x [room 4263]
+Fri Dec 31 18:38:27 2004 :: the White King got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:38:30 2004 :: the massive minotaur got toasted by Skeet at {MThe Red Room{x [room 18629]
+Fri Dec 31 18:38:44 2004 :: the White Queen got toasted by Seclar at {MA Black Square{x [room 4261]
+Fri Dec 31 18:38:53 2004 :: the White Bishop got toasted by Seclar at {MA Black Square{x [room 4259]
+Fri Dec 31 18:39:02 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4258]
+Fri Dec 31 18:39:02 2004 :: the White Knight got toasted by Seclar at {MA White Square{x [room 4258]
+Fri Dec 31 18:39:12 2004 :: the White Rook got toasted by Seclar at {MA Black Square{x [room 4257]
+Fri Dec 31 18:39:20 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4249]
+Fri Dec 31 18:39:30 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4251]
+Fri Dec 31 18:39:39 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4252]
+Fri Dec 31 18:39:50 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4253]
+Fri Dec 31 18:39:59 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4254]
+Fri Dec 31 18:40:04 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:40:15 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:40:19 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThe West Wall{x [room 23310]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:31 2004 :: the creepy crawler got toasted by Skeet at {MA Small Room{x [room 18606]
+Fri Dec 31 18:40:31 2004 :: a dragon guard got toasted by Spatula at {MAn Intersection{x [room 23309]
+Fri Dec 31 18:40:37 2004 :: the newbie guard got toasted by Skeet at {MA Small Room{x [room 18606]
+Fri Dec 31 18:40:58 2004 :: the pit beast got toasted by Skeet at {MThe Dark Pit{x [room 18605]
+Fri Dec 31 18:41:01 2004 :: Log Argon: snoop self
+Fri Dec 31 18:41:08 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4244]
+Fri Dec 31 18:41:17 2004 :: the White Bishop got toasted by Seclar at {MA Black Square{x [room 4243]
+Fri Dec 31 18:41:47 2004 :: the Ghost of Caliph Omar got toasted by Seclar at {MA Black Square{x [room 4234]
+Fri Dec 31 18:41:59 2004 :: Log Venus: snoop skeet
+Fri Dec 31 18:43:14 2004 :: {BA sleepy dragon hatchling{x got toasted by Skeet at {MA Cage{x [room 3715]
+Fri Dec 31 18:43:57 2004 :: {Cthe big hatchling{x got toasted by Skeet at {MThe Darkened Room{x [room 3720]
+Fri Dec 31 18:44:19 2004 :: the young snarling dragon got toasted by Skeet at {MThe End of Mud School!{x [room 3721]
+Fri Dec 31 18:44:53 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Fri Dec 31 18:44:53 2004 :: Chame has quit.
+Fri Dec 31 18:44:56 2004 :: A citizen got toasted by Argon at {MZeus Street{x [room 905]
+Fri Dec 31 18:45:03 2004 :: Sock.sinaddr:  66.222.216.154
+Fri Dec 31 18:45:25 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:45:28 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:45:34 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:46:44 2004 :: the wolf got toasted by Skeet at {MThe Center of the Dungeon{x [room 3748]
+Fri Dec 31 18:47:05 2004 :: the rabbit got toasted by Skeet at {MCenter of Arena{x [room 3734]
+Fri Dec 31 18:48:24 2004 :: the bear got toasted by Skeet at {MThe North East Corner of the Dungeon{x [room 3751]
+Fri Dec 31 18:48:30 2004 :: the bear got toasted by Skeet at {MThe North East Corner of the Dungeon{x [room 3751]
+Fri Dec 31 18:48:46 2004 :: A Dragon of Virtue got toasted by Seclar at {MThe Court{x [room 23223]
+Fri Dec 31 18:48:58 2004 :: the beast got toasted by Skeet at {MThe North West Corner of the Dungeon{x [room 3749]
+Fri Dec 31 18:49:07 2004 :: A Dragon of Virtue got toasted by Seclar at {MThe Court{x [room 23223]
+Fri Dec 31 18:49:34 2004 :: a dragon soldier got toasted by Seclar at {MThe Court{x [room 23220]
+Fri Dec 31 18:49:58 2004 :: {Dthe spirit of {WA dragon of virtue{D got toasted by Seclar at {MA Dark Alley{x [room 23270]
+Fri Dec 31 18:50:05 2004 :: the beast got toasted by Skeet at {MThe North West Corner of the Dungeon{x [room 3749]
+Fri Dec 31 18:50:17 2004 :: A Dragon of Virtue got toasted by Seclar at {MA Dark Alley{x [room 23270]
+Fri Dec 31 18:50:54 2004 :: the wolf got toasted by Skeet at {MThe North Wall of the Dungeon{x [room 3750]
+Fri Dec 31 18:51:29 2004 :: the child's father got toasted by Spatula at {MThe Path to the Big Top{x [room 4414]
+Fri Dec 31 18:51:42 2004 :: the bear got toasted by Skeet at {MThe North East Corner of the Dungeon{x [room 3751]
+Fri Dec 31 18:52:18 2004 :: the wolf got toasted by Skeet at {MThe South West Corner of the Dungeon{x [room 3754]
+Fri Dec 31 18:52:18 2004 :: a dragon soldier got toasted by Seclar at {MA Dark Alley{x [room 23270]
+Fri Dec 31 18:52:21 2004 :: a dragon soldier got toasted by Seclar at {MA Dark Alley{x [room 23270]
+Fri Dec 31 18:52:30 2004 :: Raechalin got toasted by Seclar at {MA Dark Alley{x [room 23270]
+Fri Dec 31 18:53:08 2004 :: Log Venus: snoop self
+Fri Dec 31 18:53:09 2004 :: a dragon guard got toasted by Seclar at {MThe East Market Square{x [room 23271]
+Fri Dec 31 18:53:11 2004 :: the wolf got toasted by Skeet at {MThe South West Corner of the Dungeon{x [room 3754]
+Fri Dec 31 18:53:12 2004 :: a dragon soldier got toasted by Seclar at {MThe East Market Square{x [room 23271]
+Fri Dec 31 18:53:28 2004 :: the bear got toasted by Skeet at {MThe North East Corner of the Dungeon{x [room 3751]
+Fri Dec 31 18:53:34 2004 :: the beast got toasted by Skeet at {MThe North West Corner of the Dungeon{x [room 3749]
+Fri Dec 31 18:53:40 2004 :: A ranger got toasted by Seclar at {MThe East Market Square{x [room 23272]
+Fri Dec 31 18:53:43 2004 :: the rabbit got toasted by Skeet at {MCenter of Arena{x [room 3734]
+Fri Dec 31 18:53:54 2004 :: the boar got toasted by Skeet at {MNorth East Corner of Arena{x [room 3746]
+Fri Dec 31 18:54:07 2004 :: A knight got toasted by Seclar at {MThe East Market Square{x [room 23279]
+Fri Dec 31 18:54:10 2004 :: a dragon guard got toasted by Seclar at {MThe East Market Square{x [room 23279]
+Fri Dec 31 18:54:28 2004 :: the newbie monster got toasted by Skeet at {MThe Entrance To The Newbie Zone{x [room 18600]
+Fri Dec 31 18:54:51 2004 :: the Tiny Creation got toasted by Skeet at {MInside the Gate{x [room 4703]
+Fri Dec 31 18:54:55 2004 :: A warrior got toasted by Seclar at {MThe East Market Square{x [room 23274]
+Fri Dec 31 18:54:57 2004 :: the Tiny Creation got toasted by Skeet at {MHallway{x [room 4742]
+Fri Dec 31 18:54:58 2004 :: A warrior got toasted by Seclar at {MThe East Market Square{x [room 23274]
+Fri Dec 31 18:55:31 2004 :: A ranger got toasted by Seclar at {MWarrior's Guild{x [room 23275]
+Fri Dec 31 18:55:37 2004 :: {Dthe spirit of {WA ranger{D got toasted by Seclar at {MWarrior's Guild{x [room 23275]
+Fri Dec 31 18:56:43 2004 :: the Small Creation got toasted by Skeet at {MStairwell{x [room 4744]
+Fri Dec 31 18:56:59 2004 :: the huge creation got toasted by Skeet at {MAudience Chamber{x [room 4743]
+Fri Dec 31 18:57:01 2004 :: the Small Creation got toasted by Skeet at {MAudience Chamber{x [room 4743]
+Fri Dec 31 18:57:04 2004 :: the Tiny Creation got toasted by Skeet at {MAudience Chamber{x [room 4743]
+Fri Dec 31 18:57:10 2004 :: the Tiny Creation got toasted by Skeet at {MCloakroom{x [room 4745]
+Fri Dec 31 18:57:16 2004 :: the Small Creation got toasted by Skeet at {MStoreroom{x [room 4747]
+Fri Dec 31 18:57:19 2004 :: the Tiny Creation got toasted by Skeet at {MStoreroom{x [room 4747]
+Fri Dec 31 18:57:20 2004 :: A knight got toasted by Seclar at {MThe Warrior Guild{x [room 23276]
+Fri Dec 31 18:57:23 2004 :: A warrior got toasted by Seclar at {MThe Warrior Guild{x [room 23276]
+Fri Dec 31 18:57:24 2004 :: the Small Creation got toasted by Skeet at {MStables{x [room 4748]
+Fri Dec 31 18:57:27 2004 :: A knight got toasted by Seclar at {MThe Warrior Guild{x [room 23276]
+Fri Dec 31 18:57:29 2004 :: the Tiny Creation got toasted by Skeet at {MNorthern area of the Courtyard{x [room 4707]
+Fri Dec 31 18:57:34 2004 :: the Small Creation got toasted by Skeet at {MNorth Western corner of the Courtyard{x [room 4708]
+Fri Dec 31 18:57:45 2004 :: the Small Creation got toasted by Skeet at {MWestern area of the Courtyard{x [room 4709]
+Fri Dec 31 18:57:57 2004 :: Bazarnog got toasted by Seclar at {MBaz Chamber{x [room 23277]
+Fri Dec 31 18:58:02 2004 :: the Medium Creation got toasted by Skeet at {MGuardroom{x [room 4750]
+Fri Dec 31 18:58:15 2004 :: the huge creation got toasted by Skeet at {MCentral Room{x [room 4751]
+Fri Dec 31 18:58:22 2004 :: the Medium Creation got toasted by Skeet at {MCentral Room{x [room 4751]
+Fri Dec 31 18:58:25 2004 :: the Small Creation got toasted by Skeet at {MCentral Room{x [room 4751]
+Fri Dec 31 18:58:31 2004 :: the Medium Creation got toasted by Skeet at {MStairwell{x [room 4754]
+Fri Dec 31 18:58:34 2004 :: the Small Creation got toasted by Skeet at {MStairwell{x [room 4754]
+Fri Dec 31 18:58:36 2004 :: A cleric got toasted by Seclar at {MThe East Market Square{x [room 23294]
+Fri Dec 31 18:58:40 2004 :: the apprentice mage got toasted by Skeet at {MWorkshop{x [room 4753]
+Fri Dec 31 18:58:43 2004 :: the Small Creation got toasted by Skeet at {MWorkshop{x [room 4753]
+Fri Dec 31 18:58:56 2004 :: the apprentice mage got toasted by Skeet at {MCorridor{x [room 4752]
+Fri Dec 31 18:58:59 2004 :: the Medium Creation got toasted by Skeet at {MCorridor{x [room 4752]
+Fri Dec 31 18:59:06 2004 :: A Dragon of Virtue got toasted by Seclar at {MThe East Market Square{x [room 23288]
+Fri Dec 31 18:59:49 2004 :: the Medium Creation got toasted by Skeet at {MGuardroom{x [room 4760]
+Fri Dec 31 19:00:18 2004 :: the large Creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:00:21 2004 :: the huge creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:00:23 2004 :: the Medium Creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:00:27 2004 :: the apprentice mage got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:00:51 2004 :: the large Creation got toasted by Skeet at {MStairwell{x [room 4763]
+Fri Dec 31 19:00:57 2004 :: the large Creation got toasted by Skeet at {MStoreroom{x [room 4762]
+Fri Dec 31 19:01:03 2004 :: the apprentice mage got toasted by Skeet at {MCorridor{x [room 4764]
+Fri Dec 31 19:01:29 2004 :: the apprentice mage got toasted by Skeet at {MApprentice's Room{x [room 4765]
+Fri Dec 31 19:01:49 2004 :: the Giant Creation got toasted by Skeet at {MMaster's Room{x [room 4771]
+Fri Dec 31 19:02:01 2004 :: the lord of the tower got toasted by Skeet at {MMaster Library{x [room 4772]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: the sultan's guard got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a harem girl got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a eunuch got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a eunuch got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a eunuch got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:02:24 2004 :: a eunuch got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:03:50 2004 :: The mutant beastly fido got toasted by Skeet at {MEntrance to the Mob Factory{x [room 9400]
+Fri Dec 31 19:03:56 2004 :: The factory worker got toasted by Skeet at {MEntrance Hallway to Mob Factory{x [room 9412]
+Fri Dec 31 19:03:59 2004 :: The revolving drunk got toasted by Skeet at {MEntrance Hallway to Mob Factory{x [room 9412]
+Fri Dec 31 19:04:05 2004 :: The Cityguard head got toasted by Skeet at {MPrimary Assembly Line{x [room 9417]
+Fri Dec 31 19:04:08 2004 :: The Cityguard head got toasted by Skeet at {MPrimary Assembly Line{x [room 9417]
+Fri Dec 31 19:04:11 2004 :: The mutant beastly fido got toasted by Skeet at {MPrimary Assembly Line{x [room 9417]
+Fri Dec 31 19:04:15 2004 :: The mutant beastly fido got toasted by Skeet at {MPrimary Assembly Line{x [room 9417]
+Fri Dec 31 19:04:36 2004 :: The Cityguard head got toasted by Skeet at {MSecondary Assembly Line{x [room 9423]
+Fri Dec 31 19:04:43 2004 :: The toxic slime got toasted by Skeet at {MSecondary Assembly Line{x [room 9424]
+Fri Dec 31 19:05:08 2004 :: the cityguard got toasted by Skeet at {MWest {WMain {MStreet{x [room 3012]
+Fri Dec 31 19:05:17 2004 :: the cityguard got toasted by Skeet at {MInside {Wthe West Gate of {MMidgaard{x [room 3040]
+Fri Dec 31 19:05:20 2004 :: the cityguard got toasted by Skeet at {MInside {Wthe West Gate of {MMidgaard{x [room 3040]
+Fri Dec 31 19:06:06 2004 :: the beastly fido got toasted by Skeet at {MEast {WMain {MStreet{x [room 3016]
+Fri Dec 31 19:06:15 2004 :: the cityguard got toasted by Skeet at {MInside {Wthe East Gate of {MMidgaard{x [room 3041]
+Fri Dec 31 19:06:22 2004 :: the cityguard got toasted by Skeet at {MInside {Wthe East Gate of {MMidgaard{x [room 3041]
+Fri Dec 31 19:06:24 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:06:27 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:06:30 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:06:32 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 19:06:35 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 19:06:38 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 19:06:41 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:06:43 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 19:06:46 2004 :: the cityguard got toasted by Skeet at {MInside {Wthe North Gate of {MMidgaard{x [room 3262]
+Fri Dec 31 19:06:49 2004 :: Log Spatula: cast summon dragon anarchy
+Fri Dec 31 19:06:52 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:06:57 2004 :: Log Spatula: cast summon anarchy dragon
+Fri Dec 31 19:07:01 2004 :: the cityguard got toasted by Skeet at {MInside the South Gate of Midgaard{x [room 3255]
+Fri Dec 31 19:07:04 2004 :: the cityguard got toasted by Skeet at {MInside the South Gate of Midgaard{x [room 3255]
+Fri Dec 31 19:07:07 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:07:13 2004 :: the goblin got toasted by Skeet at {MThe Miden'nir{x [room 3506]
+Fri Dec 31 19:07:16 2004 :: the goblin got toasted by Skeet at {MThe Miden'nir{x [room 3506]
+Fri Dec 31 19:07:19 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:07:19 2004 :: the goblin got toasted by Skeet at {MThe Miden'nir{x [room 3506]
+Fri Dec 31 19:07:33 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:07:37 2004 :: a rogue got toasted by Seclar at {MThe West Market Square{x [room 23338]
+Fri Dec 31 19:07:39 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:07:46 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:07:51 2004 :: the Midget got toasted by Skeet at {MThe Path to the Circus{x [room 4401]
+Fri Dec 31 19:07:57 2004 :: A Dragon of Anarchy got toasted by Spatula at {MThrone Room{x [room 9689]
+Fri Dec 31 19:08:05 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:08:07 2004 :: an animal keeper got toasted by Skeet at {MThe Path to the Big Top{x [room 4403]
+Fri Dec 31 19:08:09 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHall{x [room 9682]
+Fri Dec 31 19:08:10 2004 :: Log Venus: snoop seclar
+Fri Dec 31 19:08:10 2004 :: a small child got toasted by Skeet at {MThe Path to the Big Top{x [room 4403]
+Fri Dec 31 19:08:12 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHall{x [room 9682]
+Fri Dec 31 19:08:29 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHall{x [room 9682]
+Fri Dec 31 19:08:29 2004 :: the Tiny Creation got toasted by Skeet at {MInside the Gate{x [room 4703]
+Fri Dec 31 19:08:38 2004 :: the Small Creation got toasted by Skeet at {MEastern area of the Courtyard{x [room 4705]
+Fri Dec 31 19:08:47 2004 :: the Tiny Creation got toasted by Skeet at {MNorthern area of the Courtyard{x [room 4707]
+Fri Dec 31 19:08:48 2004 :: A Dragon of Anarchy got toasted by Spatula at {MHarem{x [room 9687]
+Fri Dec 31 19:08:55 2004 :: the Small Creation got toasted by Skeet at {MNorth Western corner of the Courtyard{x [room 4708]
+Fri Dec 31 19:09:01 2004 :: the Small Creation got toasted by Skeet at {MWestern area of the Courtyard{x [room 4709]
+Fri Dec 31 19:09:13 2004 :: the Black Rook got toasted by Spatula at {MA Black Square{x [room 4208]
+Fri Dec 31 19:09:20 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4207]
+Fri Dec 31 19:09:20 2004 :: a dragon guard got toasted by Seclar at {MThe West Market Square{x [room 23339]
+Fri Dec 31 19:09:23 2004 :: the Black Knight got toasted by Spatula at {MA White Square{x [room 4207]
+Fri Dec 31 19:09:38 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4214]
+Fri Dec 31 19:09:45 2004 :: the Black Bishop got toasted by Spatula at {MA White Square{x [room 4205]
+Fri Dec 31 19:09:48 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4205]
+Fri Dec 31 19:09:51 2004 :: the Black King got toasted by Spatula at {MA White Square{x [room 4205]
+Fri Dec 31 19:09:56 2004 :: the large Creation got toasted by Skeet at {MStairwell{x [room 4763]
+Fri Dec 31 19:10:07 2004 :: the Black Queen got toasted by Spatula at {MA Black Square{x [room 4204]
+Fri Dec 31 19:10:14 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4203]
+Fri Dec 31 19:10:17 2004 :: the Black Bishop got toasted by Spatula at {MA White Square{x [room 4203]
+Fri Dec 31 19:10:27 2004 :: the large Creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:10:30 2004 :: the huge creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:10:33 2004 :: the Medium Creation got toasted by Skeet at {MMain Workshop{x [room 4761]
+Fri Dec 31 19:10:53 2004 :: the Black Knight got toasted by Spatula at {MA Black Square{x [room 4202]
+Fri Dec 31 19:10:58 2004 :: the Medium Creation got toasted by Skeet at {MGuardroom{x [room 4760]
+Fri Dec 31 19:11:03 2004 :: Log Venus: snoop self
+Fri Dec 31 19:11:05 2004 :: a rogue got toasted by Seclar at {MThe West Market Square{x [room 23339]
+Fri Dec 31 19:11:06 2004 :: a rogue got toasted by Seclar at {MThe West Market Square{x [room 23339]
+Fri Dec 31 19:11:15 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4210]
+Fri Dec 31 19:11:18 2004 :: a thief got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:21 2004 :: a rogue got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:23 2004 :: the Pawn of the Black Court got toasted by Spatula at {MA White Square{x [room 4210]
+Fri Dec 31 19:11:24 2004 :: the large Creation got toasted by Skeet at {MStoreroom{x [room 4762]
+Fri Dec 31 19:11:24 2004 :: a thief got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:28 2004 :: a rogue got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:30 2004 :: the Medium Creation got toasted by Skeet at {MStairwell{x [room 4754]
+Fri Dec 31 19:11:31 2004 :: the assassin got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:32 2004 :: the assassin got toasted by Seclar at {MThe Thieves' Guild{x [room 23340]
+Fri Dec 31 19:11:33 2004 :: the Small Creation got toasted by Skeet at {MStairwell{x [room 4754]
+Fri Dec 31 19:11:58 2004 :: a thief got toasted by Seclar at {MThe Thief Guild{x [room 23341]
+Fri Dec 31 19:11:59 2004 :: a thief got toasted by Seclar at {MThe Thief Guild{x [room 23341]
+Fri Dec 31 19:12:04 2004 :: a rogue got toasted by Seclar at {MThe Thief Guild{x [room 23341]
+Fri Dec 31 19:12:13 2004 :: Closing link to Spatula.
+Fri Dec 31 19:12:13 2004 :: Closing link to Sembiance.
+Fri Dec 31 19:12:13 2004 :: Closing link to Venus.
+Fri Dec 31 19:12:13 2004 :: Closing link to Skeet.
+Fri Dec 31 19:12:13 2004 :: Closing link to Argon.
+Fri Dec 31 19:12:13 2004 :: Closing link to Seclar.
+Fri Dec 31 19:12:14 2004 :: Normal termination of game.

@@ -1,0 +1,1956 @@
+Fri Jan 21 01:22:10 2005 :: ROM is ready to rock on port 5000.
+Fri Jan 21 01:22:38 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 01:22:42 2005 :: Sock.sinaddr:  67.170.53.94
+Fri Jan 21 01:22:42 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 01:22:43 2005 :: Sock.sinaddr:  139.168.220.239
+Fri Jan 21 01:22:43 2005 :: EOF encountered on read.
+Fri Jan 21 01:22:43 2005 :: Sock.sinaddr:  68.229.96.10
+Fri Jan 21 01:22:45 2005 :: Loading Venus.
+Fri Jan 21 01:22:45 2005 :: Loading Spatula.
+Fri Jan 21 01:22:46 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Fri Jan 21 01:22:46 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 01:22:47 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Jan 21 01:22:50 2005 :: Loading Seryx.
+Fri Jan 21 01:22:50 2005 :: Loading Spyder.
+Fri Jan 21 01:22:50 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net has connected.
+Fri Jan 21 01:22:51 2005 :: Spyder@ip68-229-96-10.hr.hr.cox.net has connected.
+Fri Jan 21 01:26:27 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 01:33:25 2005 :: Sock.sinaddr:  68.229.96.10
+Read_from_descriptor: Connection reset by peer
+Fri Jan 21 01:36:43 2005 :: Log Venus: mset venus gold 1000000
+Fri Jan 21 01:37:12 2005 :: Log Venus: mset venus gold 10000000
+Fri Jan 21 01:46:35 2005 :: Seryx killed by Kostchtchie at 2908
+Fri Jan 21 01:46:51 2005 :: Spyder killed by a frost giant at 2910
+Fri Jan 21 01:47:30 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 01:48:17 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net new player.
+Fri Jan 21 01:52:27 2005 :: [*****] BUG: Norm-Apply: 0
+Fri Jan 21 01:52:50 2005 :: [*****] BUG: Norm-Apply: 0
+Fri Jan 21 01:53:39 2005 :: Sock.sinaddr:  139.168.220.239
+Fri Jan 21 01:53:43 2005 :: Loading Latigo.
+Fri Jan 21 01:53:43 2005 :: Latigo@CPE-139-168-220-239.sa.bigpond.net.au has connected.
+Fri Jan 21 01:54:08 2005 :: Log Venus: freeze spat
+Fri Jan 21 01:55:01 2005 :: Log Venus: freeze spat
+Fri Jan 21 01:55:59 2005 :: Log Venus: mset spat drunk 0
+Fri Jan 21 02:00:54 2005 :: Seryx killed by the xaren at 16440
+Fri Jan 21 02:01:26 2005 :: Log Venus: mset spat drunk 0
+Fri Jan 21 02:20:09 2005 :: Mythril has quit.
+Fri Jan 21 02:20:17 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 02:20:19 2005 :: EOF encountered on read.
+Fri Jan 21 02:28:40 2005 :: Sock.sinaddr:  144.137.204.97
+Fri Jan 21 02:28:42 2005 :: Loading Latigo.
+Write_to_descriptor: Resource temporarily unavailable
+Fri Jan 21 02:28:44 2005 :: Closing link to Latigo.
+Fri Jan 21 02:28:44 2005 :: Latigo@CPE-144-137-204-97.sa.bigpond.net.au reconnected.
+Fri Jan 21 02:31:29 2005 :: Log Spatula: cast summon rat giant
+Fri Jan 21 02:37:16 2005 :: Spyder killed by the statue of Landru at 9611
+Fri Jan 21 02:38:04 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:39:01 2005 :: Log Spatula: cast summon dwarven prince
+Fri Jan 21 02:39:06 2005 :: Log Spatula: cast summon derrick captain guard cityguard
+Fri Jan 21 02:39:09 2005 :: Log Spatula: cast summon jacklyn captain guard cityguard
+Fri Jan 21 02:41:00 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:41:00 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:41:00 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:41:40 2005 :: Log Spatula: cast summon ringmaster master
+Fri Jan 21 02:41:46 2005 :: Log Spatula: cast summon ring keeper
+Fri Jan 21 02:46:44 2005 :: [*****] BUG: Buffer overflow. Closing.
+
+Write_to_descriptor: Resource temporarily unavailable
+Fri Jan 21 02:46:44 2005 :: Closing link to Spyder.
+Fri Jan 21 02:48:31 2005 :: Sock.sinaddr:  68.229.96.10
+Fri Jan 21 02:48:34 2005 :: Loading Spyder.
+Fri Jan 21 02:48:35 2005 :: Spyder@ip68-229-96-10.hr.hr.cox.net reconnected.
+Fri Jan 21 02:48:59 2005 :: Log Venus: bonus all 150
+Fri Jan 21 02:49:14 2005 :: Log Venus: bonus all 50 qp
+Fri Jan 21 02:51:05 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:51:05 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:51:05 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 02:52:15 2005 :: EOF encountered on read.
+Fri Jan 21 02:52:15 2005 :: Closing link to Latigo.
+Fri Jan 21 02:56:28 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 02:56:30 2005 :: Loading Spatula.
+Fri Jan 21 02:56:33 2005 :: Closing link to Spatula.
+Fri Jan 21 02:56:33 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net reconnected.
+Fri Jan 21 02:57:48 2005 :: Spatula has quit.
+Fri Jan 21 03:00:18 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 03:04:18 2005 :: Seryx has quit.
+Fri Jan 21 03:04:31 2005 :: Spyder has quit.
+Fri Jan 21 03:07:18 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Latigo RVNUM: ] ref A009
+Fri Jan 21 03:07:18 2005 :: Latigo has quit.
+Fri Jan 21 03:32:27 2005 :: Sock.sinaddr:  204.209.44.14
+Fri Jan 21 03:32:27 2005 :: EOF encountered on read.
+Read_from_descriptor: Connection timed out
+Fri Jan 21 04:52:37 2005 :: Closing link to Venus.
+Fri Jan 21 07:36:36 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:36:41 2005 :: Loading Xion.
+Fri Jan 21 07:36:42 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 07:37:10 2005 :: Xion has quit.
+Fri Jan 21 07:37:12 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:37:16 2005 :: Loading Lacinated.
+Fri Jan 21 07:37:17 2005 :: Lacinated@mail.carpentercontractors.com has connected.
+Fri Jan 21 07:37:52 2005 :: Lacinated has quit.
+Fri Jan 21 07:37:53 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:38:08 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:38:13 2005 :: Loading Xion.
+Fri Jan 21 07:38:14 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 07:41:40 2005 :: Xion has quit.
+Fri Jan 21 07:41:42 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:41:46 2005 :: Loading Lacinated.
+Fri Jan 21 07:41:47 2005 :: Lacinated@mail.carpentercontractors.com has connected.
+Fri Jan 21 07:41:52 2005 :: Lacinated has quit.
+Fri Jan 21 07:41:53 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 07:41:57 2005 :: Loading Xion.
+Fri Jan 21 07:41:58 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 07:49:11 2005 :: mail.carpentercontractors.com input spamming!
+Fri Jan 21 07:56:02 2005 :: Sock.sinaddr:  144.137.200.48
+Fri Jan 21 07:56:05 2005 :: Loading Latigo.
+Fri Jan 21 07:56:06 2005 :: Latigo@CPE-144-137-200-48.sa.bigpond.net.au has connected.
+Fri Jan 21 07:56:23 2005 :: Sock.sinaddr:  151.213.94.45
+Fri Jan 21 07:56:25 2005 :: Loading Lena.
+Fri Jan 21 07:56:26 2005 :: Lena@h45.94.213.151.ip.alltel.net has connected.
+Fri Jan 21 07:58:29 2005 :: Latigo has quit.
+Fri Jan 21 07:59:34 2005 :: Xion has quit.
+Fri Jan 21 07:59:47 2005 :: Lena has quit.
+Fri Jan 21 08:47:44 2005 :: Sock.sinaddr:  144.137.200.48
+Fri Jan 21 08:47:46 2005 :: Loading Latigo.
+Fri Jan 21 08:47:47 2005 :: Latigo@CPE-144-137-200-48.sa.bigpond.net.au has connected.
+Fri Jan 21 08:48:45 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 08:48:52 2005 :: Loading Seryx.
+Fri Jan 21 08:48:53 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net has connected.
+Fri Jan 21 08:51:29 2005 :: Latigo killed by The Royal Guard at 9622
+Fri Jan 21 09:00:19 2005 :: Latigo killed by the statue of Furey at 9616
+Fri Jan 21 09:22:53 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Latigo RVNUM: ] ref A009
+Fri Jan 21 09:22:53 2005 :: Latigo has quit.
+Fri Jan 21 09:31:52 2005 :: Seryx killed by the Chef at 15205
+Fri Jan 21 09:32:55 2005 :: Sock.sinaddr:  144.137.200.48
+Fri Jan 21 09:32:57 2005 :: Loading Latigo.
+Fri Jan 21 09:32:58 2005 :: Latigo@CPE-144-137-200-48.sa.bigpond.net.au has connected.
+Fri Jan 21 09:43:04 2005 :: Seryx killed by Hosea at 12019
+Fri Jan 21 09:57:40 2005 :: Latigo killed by The Royal Guard at 9516
+Fri Jan 21 10:05:30 2005 :: EOF encountered on read.
+Fri Jan 21 10:05:30 2005 :: Closing link to Seryx.
+Fri Jan 21 10:05:30 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 10:05:32 2005 :: Loading Seryx.
+Fri Jan 21 10:05:32 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net reconnected.
+Fri Jan 21 10:24:55 2005 :: Seryx killed by Primus at 9020
+Fri Jan 21 10:25:00 2005 :: Latigo killed by Primus at 9020
+Fri Jan 21 10:46:21 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4634 RVNUM: ] ref A009
+Fri Jan 21 10:46:30 2005 :: Latigo has quit.
+Fri Jan 21 10:53:13 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seryx RVNUM: ] ref A009
+Fri Jan 21 10:53:13 2005 :: Seryx has quit.
+Fri Jan 21 11:03:56 2005 :: Sock.sinaddr:  24.60.255.30
+Fri Jan 21 11:06:14 2005 :: Valerius@spartacussixeight.ne.client2.attbi.com new player.
+Fri Jan 21 11:20:55 2005 :: Valerius has quit.
+Fri Jan 21 11:49:22 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 11:49:26 2005 :: Loading Xion.
+Fri Jan 21 11:49:27 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 11:55:44 2005 :: Sock.sinaddr:  67.170.53.94
+Fri Jan 21 11:55:50 2005 :: Loading Venus.
+Fri Jan 21 11:55:50 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Fri Jan 21 12:34:52 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 12:34:54 2005 :: Loading Seryx.
+Fri Jan 21 12:34:54 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net has connected.
+Fri Jan 21 12:45:22 2005 :: Log Xion: cast summon goblin thief
+Fri Jan 21 12:51:08 2005 :: Sock.sinaddr:  134.39.114.202
+Fri Jan 21 12:51:13 2005 :: Loading Venus.
+Fri Jan 21 12:51:19 2005 :: Closing link to Venus.
+Fri Jan 21 12:51:19 2005 :: Venus@134.39.114.202 reconnected.
+Fri Jan 21 12:52:57 2005 :: Seryx killed by the Fire Ruler at 9245
+Fri Jan 21 13:12:24 2005 :: Venus has quit.
+Fri Jan 21 13:20:40 2005 :: Xion has quit.
+Fri Jan 21 13:38:29 2005 :: EOF encountered on read.
+Fri Jan 21 13:38:29 2005 :: Closing link to Seryx.
+Fri Jan 21 13:53:08 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seryx RVNUM: ] ref A009
+Fri Jan 21 13:53:08 2005 :: Seryx has quit.
+Fri Jan 21 14:05:49 2005 :: Sock.sinaddr:  68.229.96.10
+Fri Jan 21 14:05:52 2005 :: Loading Spyder.
+Fri Jan 21 14:05:53 2005 :: Spyder@ip68-229-96-10.hr.hr.cox.net has connected.
+Fri Jan 21 14:17:43 2005 :: Sock.sinaddr:  134.39.114.77
+Fri Jan 21 14:17:45 2005 :: Loading Venus.
+Fri Jan 21 14:17:46 2005 :: Venus@134.39.114.77 has connected.
+Fri Jan 21 14:28:12 2005 :: Venus has quit.
+Fri Jan 21 14:33:25 2005 :: Spyder killed by The Astral Guardian at 7706
+Fri Jan 21 14:50:10 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 14:50:17 2005 :: Loading Xion.
+Fri Jan 21 14:50:18 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 15:07:48 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 15:07:54 2005 :: Loading Mythril.
+Fri Jan 21 15:07:56 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Fri Jan 21 15:08:32 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Xion RVNUM: ] ref A009
+Fri Jan 21 15:08:32 2005 :: Xion has quit.
+Fri Jan 21 15:11:47 2005 :: Mythril has quit.
+Fri Jan 21 15:18:36 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 15:18:40 2005 :: Loading Mythril.
+Fri Jan 21 15:18:42 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Fri Jan 21 15:20:34 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spyder RVNUM: ] ref A009
+Fri Jan 21 15:20:34 2005 :: Spyder has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Jan 21 15:25:29 2005 :: Closing link to Mythril.
+Fri Jan 21 15:25:30 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 15:25:33 2005 :: Loading Mythril.
+Fri Jan 21 15:25:34 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net reconnected.
+Fri Jan 21 15:26:47 2005 :: Sock.sinaddr:  68.229.96.10
+Fri Jan 21 15:26:50 2005 :: Loading Spyder.
+Fri Jan 21 15:26:51 2005 :: Spyder@ip68-229-96-10.hr.hr.cox.net has connected.
+Fri Jan 21 15:28:41 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 15:28:45 2005 :: Loading Seryx.
+Fri Jan 21 15:28:46 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net has connected.
+Fri Jan 21 15:31:37 2005 :: [*****] BUG: Act: missing arg2 for code 78.
+Fri Jan 21 15:31:41 2005 :: Spyder killed by the statue of Furey at 9616
+Fri Jan 21 15:34:35 2005 :: Spyder killed by the statue of Shandra at 9611
+Fri Jan 21 15:35:47 2005 :: Seryx killed by the statue of Landru at 9611
+Fri Jan 21 15:36:59 2005 :: Log Seryx: delete
+Fri Jan 21 15:37:00 2005 :: Log Seryx: delete
+Fri Jan 21 15:37:00 2005 :: Seryx has quit.
+Fri Jan 21 15:37:01 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 15:37:45 2005 :: Log Spyder: delete
+Fri Jan 21 15:37:46 2005 :: Log Spyder: delete
+Fri Jan 21 15:37:46 2005 :: Spyder has quit.
+Fri Jan 21 15:37:49 2005 :: Sock.sinaddr:  68.229.96.10
+Fri Jan 21 15:37:58 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net new player.
+Fri Jan 21 15:38:24 2005 :: EOF encountered on read.
+Fri Jan 21 15:38:24 2005 :: Closing link to Seryx.
+Fri Jan 21 15:38:24 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 15:39:16 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net new player.
+Fri Jan 21 15:39:31 2005 :: Spyder@ip68-229-96-10.hr.hr.cox.net new player.
+Fri Jan 21 15:39:55 2005 :: Mythril killed by a statue of {COphelia{x at 3025
+Fri Jan 21 15:40:20 2005 :: EOF encountered on read.
+Fri Jan 21 15:40:20 2005 :: Closing link to Seryx.
+Fri Jan 21 15:40:21 2005 :: Sock.sinaddr:  68.84.233.207
+Fri Jan 21 15:41:33 2005 :: Seryx@pcp05311239pcs.norstn01.pa.comcast.net new player.
+Fri Jan 21 15:41:33 2005 :: EOF encountered on read.
+Fri Jan 21 15:41:33 2005 :: Closing link to Mythril.
+Fri Jan 21 15:41:35 2005 :: Sock.sinaddr:  69.220.149.242
+Fri Jan 21 15:41:38 2005 :: Loading Mythril.
+Fri Jan 21 15:41:38 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net reconnected.
+Fri Jan 21 15:46:07 2005 :: Seryx has quit.
+Fri Jan 21 15:48:43 2005 :: EOF encountered on read.
+Fri Jan 21 15:48:43 2005 :: Closing link to Mythril.
+Fri Jan 21 15:55:51 2005 :: Spyder has quit.
+Fri Jan 21 16:02:50 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Mythril RVNUM: ] ref A009
+Fri Jan 21 16:30:20 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 21 16:30:24 2005 :: Loading Xion.
+Fri Jan 21 16:30:24 2005 :: Xion@mail.carpentercontractors.com has connected.
+Fri Jan 21 16:30:56 2005 :: Mythril has quit.
+Fri Jan 21 16:34:46 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 16:34:51 2005 :: Loading Spatula.
+Fri Jan 21 16:34:54 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Jan 21 16:40:03 2005 :: Xion has quit.
+Fri Jan 21 16:43:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Fri Jan 21 17:01:24 2005 :: Sock.sinaddr:  204.209.44.14
+Fri Jan 21 17:06:45 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 17:16:09 2005 :: Log Spatula: cast summon ali baba thief
+Fri Jan 21 17:25:49 2005 :: Spatula has quit.
+Fri Jan 21 17:39:19 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 17:39:21 2005 :: Loading Hocklar.
+Fri Jan 21 17:39:24 2005 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Jan 21 18:08:51 2005 :: Sock.sinaddr:  67.19.185.236
+Fri Jan 21 18:08:53 2005 :: Loading Sembiance.
+Fri Jan 21 18:08:54 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Fri Jan 21 18:17:13 2005 :: Log Hocklar: cast summon bloody severed nose
+Fri Jan 21 18:35:20 2005 :: Sock.sinaddr:  68.149.97.236
+Fri Jan 21 18:35:23 2005 :: Loading Raxin.
+Fri Jan 21 18:35:24 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Fri Jan 21 18:41:46 2005 :: Sock.sinaddr:  67.170.53.94
+Fri Jan 21 18:41:47 2005 :: Loading Venus.
+Fri Jan 21 18:41:47 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Fri Jan 21 18:43:16 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 18:57:58 2005 :: Log Raxin: cast summon drakyri xaek saera ira'deia girl
+Fri Jan 21 19:01:20 2005 :: Log Raxin: cast summon white lion
+Fri Jan 21 19:14:28 2005 :: Log Raxin: cast summon grey lion
+Fri Jan 21 19:16:41 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Hocklar RVNUM: ] ref A009
+Fri Jan 21 19:16:41 2005 :: Hocklar has quit.
+Fri Jan 21 19:16:48 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 19:16:51 2005 :: Loading Spatula.
+Fri Jan 21 19:16:53 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Jan 21 19:17:26 2005 :: Log Raxin: cast summon snail
+Fri Jan 21 19:20:53 2005 :: Log Raxin: cast summon grey lion
+Fri Jan 21 19:25:57 2005 :: Log Raxin: cast summon grey lion
+Fri Jan 21 19:40:25 2005 :: Log Raxin: cast summon drakyri xaek saera ira'deia girl
+Fri Jan 21 19:46:12 2005 :: Log Spatula: cast summon screaming captive
+Fri Jan 21 19:48:52 2005 :: Log Raxin: cast summon fido
+Fri Jan 21 20:03:39 2005 :: Sock.sinaddr:  66.222.216.154
+Fri Jan 21 20:04:08 2005 :: Loading Chame.
+Fri Jan 21 20:04:08 2005 :: Chame@66.222.216.154 has connected.
+Fri Jan 21 20:04:46 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 20:08:12 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 20:08:43 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 20:08:59 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 20:10:24 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 20:20:14 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 20:22:54 2005 :: Log Spatula: cast summon peasant
+Fri Jan 21 20:30:52 2005 :: Log Spatula: cast summon Chame
+Fri Jan 21 20:42:06 2005 :: Log Spatula: cast summon Chame
+Fri Jan 21 20:42:42 2005 :: Log Raxin: cast summon grey lion
+Fri Jan 21 20:50:22 2005 :: Log Spatula: cast summon elven ranger
+Fri Jan 21 20:51:02 2005 :: Log Spatula: cast summon Elven Guardian
+Fri Jan 21 21:00:51 2005 :: Log Raxin: cast summon drakyri xaek saera ira'deia girl
+Fri Jan 21 21:04:55 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Fri Jan 21 21:04:55 2005 :: Chame has quit.
+Fri Jan 21 21:05:05 2005 :: Sock.sinaddr:  66.222.216.154
+Fri Jan 21 21:10:00 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Fri Jan 21 21:10:00 2005 :: Spatula has quit.
+Fri Jan 21 21:12:46 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 21:13:09 2005 :: Sock.sinaddr:  69.240.65.225
+Fri Jan 21 21:13:12 2005 :: Loading Spatula.
+Fri Jan 21 21:13:15 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Fri Jan 21 21:15:17 2005 :: Log Raxin: cast summon drakyri xaek saera ira'deia girl
+Fri Jan 21 21:15:48 2005 :: Sock.sinaddr:  139.55.227.108
+Fri Jan 21 21:15:48 2005 :: Loading Argon.
+Fri Jan 21 21:15:48 2005 :: Argon@h139-055-227-108.adsl.navix.net has connected.
+Read_from_descriptor: Connection timed out
+Fri Jan 21 21:22:45 2005 :: Closing link to Venus.
+Fri Jan 21 21:31:43 2005 :: Loading Chame.
+Fri Jan 21 21:31:43 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Fri Jan 21 21:42:11 2005 :: Log Spatula: cast summon applicant young drow
+Fri Jan 21 21:45:45 2005 :: Log Spatula: cast summon science police admin officer
+Fri Jan 21 21:45:52 2005 :: Log Spatula: cast summon science police captain
+Fri Jan 21 21:46:00 2005 :: Log Spatula: cast summon science police
+Fri Jan 21 21:46:10 2005 :: Log Spatula: cast summon science police
+Fri Jan 21 21:47:07 2005 :: Log Spatula: cast summon bloody severed nose
+Fri Jan 21 21:48:12 2005 :: d66-222-216-154.abhsia.telus.net input spamming!
+Fri Jan 21 21:48:27 2005 :: d66-222-216-154.abhsia.telus.net input spamming!
+Fri Jan 21 21:48:45 2005 :: d66-222-216-154.abhsia.telus.net input spamming!
+Fri Jan 21 21:49:13 2005 :: Log Raxin: cast summon grey lion
+Fri Jan 21 22:04:46 2005 :: Sock.sinaddr:  4.237.2.137
+Fri Jan 21 22:04:51 2005 :: Loading Golddragon.
+Fri Jan 21 22:04:52 2005 :: Golddragon@dialup-4.237.2.137.Dial1.NewYork1.Level3.net has connected.
+Fri Jan 21 22:04:57 2005 :: Log Raxin: cast summon boar
+Fri Jan 21 22:25:02 2005 :: EOF encountered on read.
+Fri Jan 21 22:25:02 2005 :: Closing link to Argon.
+Fri Jan 21 22:25:40 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Fri Jan 21 22:25:40 2005 :: Golddragon has quit.
+Fri Jan 21 22:31:27 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 22:33:48 2005 :: [*****] BUG: Set_fighting: already fighting
+Fri Jan 21 22:43:44 2005 :: Sock.sinaddr:  66.93.33.134
+Fri Jan 21 22:43:50 2005 :: Loading Seclar.
+Fri Jan 21 22:43:50 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Fri Jan 21 23:03:26 2005 :: Log Spatula: cast summon Chame
+Fri Jan 21 23:13:03 2005 :: Chame has quit.
+Fri Jan 21 23:14:06 2005 :: Sock.sinaddr:  65.206.46.218
+Fri Jan 21 23:14:09 2005 :: Loading Rinaldus.
+Fri Jan 21 23:14:09 2005 :: Rinaldus@65.206.46.218 has connected.
+Fri Jan 21 23:24:36 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Fri Jan 21 23:35:47 2005 :: Sock.sinaddr:  63.235.34.222
+Fri Jan 21 23:35:52 2005 :: Loading Kalagar.
+Fri Jan 21 23:35:54 2005 :: Kalagar@0-1pool34-222.nas43.newark2.nj.us.da.qwest.net has connected.
+Fri Jan 21 23:39:17 2005 :: Spatula has quit.
+Fri Jan 21 23:50:10 2005 :: Kalagar has quit.
+Fri Jan 21 23:53:47 2005 :: Sock.sinaddr:  67.19.238.52
+Fri Jan 21 23:53:47 2005 :: EOF encountered on read.
+Sat Jan 22 00:01:06 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Sat Jan 22 00:13:08 2005 :: EOF encountered on read.
+Sat Jan 22 00:13:08 2005 :: Closing link to Rinaldus.
+Sat Jan 22 00:13:48 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 00:13:50 2005 :: Loading Rinaldus.
+Sat Jan 22 00:13:51 2005 :: Rinaldus@65.206.46.218 reconnected.
+Sat Jan 22 00:23:45 2005 :: Log Raxin: cast summon Saint Peter
+Sat Jan 22 00:23:53 2005 :: Log Raxin: cast summon peter captain guard royal
+Sat Jan 22 00:47:39 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Sat Jan 22 00:47:39 2005 :: Raxin has quit.
+Sat Jan 22 00:47:55 2005 :: Sock.sinaddr:  68.149.97.236
+Sat Jan 22 00:47:57 2005 :: EOF encountered on read.
+Sat Jan 22 01:13:31 2005 :: Sock.sinaddr:  66.222.216.154
+Sat Jan 22 01:13:34 2005 :: Loading Chame.
+Sat Jan 22 01:13:35 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sat Jan 22 01:17:06 2005 :: Chame has quit.
+Sat Jan 22 01:29:37 2005 :: Seclar has quit.
+Sat Jan 22 01:29:40 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 01:29:45 2005 :: Loading Enzio.
+Sat Jan 22 01:29:45 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 01:44:06 2005 :: Enzio killed by a gauntlet thief at 25307
+Sat Jan 22 01:51:27 2005 :: Rinaldus has quit.
+Sat Jan 22 01:51:30 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 01:51:31 2005 :: Loading Mantis.
+Sat Jan 22 01:51:32 2005 :: Mantis@65.206.46.218 has connected.
+Sat Jan 22 01:55:04 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Sat Jan 22 01:56:22 2005 :: Mantis has quit.
+Sat Jan 22 01:56:24 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 01:56:28 2005 :: Loading Rinaldus.
+Sat Jan 22 01:56:29 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 01:56:45 2005 :: Rinaldus has quit.
+Sat Jan 22 02:02:07 2005 :: Enzio killed by a gauntlet thief at 25307
+Sat Jan 22 02:23:02 2005 :: Enzio has quit.
+Sat Jan 22 02:23:05 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 02:23:08 2005 :: Loading Ecnareves.
+Sat Jan 22 02:23:08 2005 :: Ecnareves@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 02:37:19 2005 :: Ecnareves has quit.
+Sat Jan 22 02:37:22 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 02:37:25 2005 :: Loading Ecnareves.
+Sat Jan 22 02:37:26 2005 :: Ecnareves@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 02:43:33 2005 :: Ecnareves has quit.
+Sat Jan 22 02:43:35 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 02:43:37 2005 :: Loading Enzio.
+Sat Jan 22 02:43:38 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 02:46:11 2005 :: [*****] BUG: Extract_obj: obj 10 not found.
+Sat Jan 22 02:58:11 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Enzio RVNUM: ] ref A009
+Sat Jan 22 02:58:11 2005 :: Enzio has quit.
+Sat Jan 22 02:58:22 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 03:10:59 2005 :: Sock.sinaddr:  67.170.53.94
+Sat Jan 22 03:11:00 2005 :: Loading Venus.
+Sat Jan 22 03:11:01 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sat Jan 22 03:21:51 2005 :: Loading Enzio.
+Sat Jan 22 03:21:52 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 03:28:40 2005 :: Enzio has quit.
+Sat Jan 22 03:28:45 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 03:30:10 2005 :: Sock.sinaddr:  204.209.44.14
+Sat Jan 22 03:30:10 2005 :: EOF encountered on read.
+Sat Jan 22 07:32:12 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 07:32:14 2005 :: Loading Rinaldus.
+Sat Jan 22 07:32:16 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 07:39:33 2005 :: 65.206.46.218 input spamming!
+Read_from_descriptor: Connection timed out
+Sat Jan 22 07:50:32 2005 :: Closing link to Venus.
+Sat Jan 22 07:53:13 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Rinaldus RVNUM: ] ref A009
+Sat Jan 22 07:53:13 2005 :: Rinaldus has quit.
+Sat Jan 22 07:53:23 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 10:00:16 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 10:00:18 2005 :: Loading Rinaldus.
+Sat Jan 22 10:00:19 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 10:00:36 2005 :: Sock.sinaddr:  67.200.129.179
+Sat Jan 22 10:00:38 2005 :: EOF encountered on read.
+Sat Jan 22 10:04:17 2005 :: Rinaldus has quit.
+Sat Jan 22 10:04:19 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 10:04:21 2005 :: Loading Mantis.
+Sat Jan 22 10:04:22 2005 :: Mantis@65.206.46.218 has connected.
+Sat Jan 22 10:13:19 2005 :: Mantis has quit.
+Sat Jan 22 10:13:20 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 10:13:25 2005 :: Loading Rinaldus.
+Sat Jan 22 10:13:25 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 10:19:58 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:20:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:20:55 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:21:07 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:21:20 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:21:57 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:22:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:22:32 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:23:05 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:23:19 2005 :: Sock.sinaddr:  64.45.223.10
+Sat Jan 22 10:23:24 2005 :: Loading Xion.
+Sat Jan 22 10:23:26 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Sat Jan 22 10:24:20 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:24:50 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:24:50 2005 :: Xion has quit.
+Sat Jan 22 10:25:04 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:25:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:25:31 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:25:54 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:26:11 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:26:24 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:26:36 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:26:50 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:27:09 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:27:20 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:27:51 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:34:13 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:34:25 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:34:43 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:36:12 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:36:31 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:36:42 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:36:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:37:05 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:37:42 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:37:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:38:20 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:38:41 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:38:49 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:38:59 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:40:23 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:40:46 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:00 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:12 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:25 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:37 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:48 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:41:58 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:42:09 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:42:16 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 10:43:08 2005 :: Loading Enzio.
+Sat Jan 22 10:43:08 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 10:45:46 2005 :: Sock.sinaddr:  4.236.27.29
+Sat Jan 22 10:45:51 2005 :: Loading Golddragon.
+Sat Jan 22 10:45:52 2005 :: Golddragon@dialup-4.236.27.29.Dial1.NewYork1.Level3.net has connected.
+Sat Jan 22 10:57:28 2005 :: Enzio has quit.
+Sat Jan 22 10:57:39 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 11:16:14 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Sat Jan 22 11:16:14 2005 :: Golddragon has quit.
+Sat Jan 22 11:24:39 2005 :: Sock.sinaddr:  4.237.2.148
+Sat Jan 22 11:24:44 2005 :: Loading Golddragon.
+Sat Jan 22 11:24:45 2005 :: Golddragon@dialup-4.237.2.148.Dial1.NewYork1.Level3.net has connected.
+Sat Jan 22 11:29:43 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:29:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:30:08 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:30:19 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:30:28 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:30:37 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:30:55 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:31:03 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:31:20 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:31:33 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:31:41 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:31:51 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:32:01 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:32:16 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:32:32 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:33:11 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:33:29 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:33:42 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:33:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:34:04 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:34:15 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:35:22 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:35:33 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:35:44 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:35:55 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:36:02 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:36:10 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:36:19 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:36:34 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:36:49 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:37:00 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:37:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:37:27 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:37:54 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:38:05 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:38:32 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:38:45 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:39:10 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:39:30 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:39:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:41:05 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:48:42 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:49:00 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:49:23 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:49:33 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:49:41 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:49:48 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:50:01 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:50:14 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:51:52 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:02 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:11 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:21 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:36 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:48 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:52:56 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:53:09 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:53:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:53:36 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:53:45 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:53:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:54:08 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:54:14 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:54:24 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:54:33 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:55:01 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:55:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:55:26 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:55:40 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:55:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:03 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:13 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:21 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:34 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:43 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:56:51 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:57:16 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:57:25 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:57:35 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:58:05 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:58:17 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:58:30 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:58:39 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:58:51 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:59:14 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:59:24 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:59:24 2005 :: [*****] BUG: Norm-Apply: 0
+Sat Jan 22 11:59:34 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 11:59:53 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 12:02:16 2005 :: Sock.sinaddr:  4.237.2.148
+Sat Jan 22 12:02:17 2005 :: Sock.sinaddr:  65.206.46.218
+Read_from_descriptor: Connection reset by peer
+Sat Jan 22 12:02:18 2005 :: Closing link to Golddragon.
+Sat Jan 22 12:02:20 2005 :: Loading Golddragon.
+Sat Jan 22 12:02:20 2005 :: Loading Rinaldus.
+Sat Jan 22 12:02:21 2005 :: Golddragon@dialup-4.237.2.148.Dial1.NewYork1.Level3.net reconnected.
+Sat Jan 22 12:02:22 2005 :: Closing link to Rinaldus.
+Sat Jan 22 12:02:22 2005 :: Rinaldus@65.206.46.218 reconnected.
+Sat Jan 22 12:11:21 2005 :: Sock.sinaddr:  24.60.255.30
+Sat Jan 22 12:11:29 2005 :: Loading Enkindu.
+Sat Jan 22 12:11:33 2005 :: Enkindu@spartacussixeight.ne.client2.attbi.com has connected.
+Sat Jan 22 12:30:29 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Sat Jan 22 12:30:29 2005 :: Golddragon has quit.
+Sat Jan 22 12:31:09 2005 :: Sock.sinaddr:  139.55.227.108
+Sat Jan 22 12:31:09 2005 :: Loading Argon.
+Sat Jan 22 12:31:09 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Sat Jan 22 12:35:34 2005 :: Log Argon: snoop rinal
+Sat Jan 22 12:42:35 2005 :: Rinaldus@65.206.46.218 new player.
+Sat Jan 22 12:50:09 2005 :: Sock.sinaddr:  217.136.142.121
+Sat Jan 22 12:50:16 2005 :: Loading Zatorn.
+Sat Jan 22 12:50:21 2005 :: Zatorn@121.142-136-217.adsl.skynet.be has connected.
+Sat Jan 22 12:50:45 2005 :: Enkindu has quit.
+Sat Jan 22 13:01:16 2005 :: Sock.sinaddr:  67.170.53.94
+Sat Jan 22 13:01:18 2005 :: Loading Venus.
+Sat Jan 22 13:01:18 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sat Jan 22 13:03:19 2005 :: Log Venus: mset rin train 300
+Sat Jan 22 13:03:25 2005 :: Log Venus: snoop ring
+Sat Jan 22 13:03:28 2005 :: Log Venus: snoop rin
+Sat Jan 22 13:03:39 2005 :: Log Venus: snoop argon
+Sat Jan 22 13:04:19 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 13:04:58 2005 :: Log Venus: mset rin train 20
+Sat Jan 22 13:10:35 2005 :: Sock.sinaddr:  68.100.177.85
+Sat Jan 22 13:10:37 2005 :: Loading Keihaji.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32176.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:37 2005 :: [*****] BUG: Fread_obj: bad vnum 32139.
+Sat Jan 22 13:10:38 2005 :: Keihaji@ip68-100-177-85.dc.dc.cox.net has connected.
+Sat Jan 22 13:21:32 2005 :: Rinaldus has quit.
+Sat Jan 22 13:21:35 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 13:21:38 2005 :: Loading Mantis.
+Sat Jan 22 13:21:38 2005 :: Mantis@65.206.46.218 has connected.
+Sat Jan 22 13:22:25 2005 :: Mantis has quit.
+Sat Jan 22 13:22:26 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 13:22:29 2005 :: Loading Rinaldus.
+Sat Jan 22 13:22:29 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 13:26:44 2005 :: Zatorn killed by the cyclops at 9204
+Sat Jan 22 13:29:44 2005 :: Rinaldus killed by the huge creation at 4743
+Sat Jan 22 13:44:52 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Keihaji RVNUM: ] ref A009
+Sat Jan 22 13:44:52 2005 :: Keihaji has quit.
+Sat Jan 22 13:45:03 2005 :: Sock.sinaddr:  68.100.177.85
+Sat Jan 22 13:48:55 2005 :: Rinaldus has quit.
+Sat Jan 22 13:51:54 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 13:51:57 2005 :: Loading Rinaldus.
+Sat Jan 22 13:51:57 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 13:52:07 2005 :: Zatorn has quit.
+Sat Jan 22 13:52:25 2005 :: Sock.sinaddr:  216.78.23.118
+Read_from_descriptor: Connection reset by peer
+Sat Jan 22 14:08:47 2005 :: Loading Ensio.
+Sat Jan 22 14:08:47 2005 :: Ensio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 14:13:31 2005 :: Rinaldus killed by the tridrone at 9003
+Sat Jan 22 14:17:48 2005 :: Rinaldus has quit.
+Sat Jan 22 14:17:49 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 14:17:52 2005 :: Loading Mantis.
+Sat Jan 22 14:17:52 2005 :: Mantis@65.206.46.218 has connected.
+Sat Jan 22 14:18:47 2005 :: Mantis has quit.
+Sat Jan 22 14:18:49 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 14:18:50 2005 :: Loading Rinaldus.
+Sat Jan 22 14:18:51 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 14:19:00 2005 :: Ensio has quit.
+Sat Jan 22 14:19:04 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 14:19:08 2005 :: Loading Enzio.
+Sat Jan 22 14:19:08 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 14:30:10 2005 :: EOF encountered on read.
+Sat Jan 22 14:30:10 2005 :: Closing link to Argon.
+Sat Jan 22 14:35:04 2005 :: Enzio killed by a gauntlet mage at 25306
+Sat Jan 22 14:55:47 2005 :: Log Venus: pload argon
+Sat Jan 22 14:56:06 2005 :: Sock.sinaddr:  139.55.227.108
+Sat Jan 22 14:56:06 2005 :: Loading Argon.
+Sat Jan 22 14:56:07 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Write_to_descriptor: Resource temporarily unavailable
+Sat Jan 22 14:57:19 2005 :: Closing link to Argon.
+Write_to_descriptor: Resource temporarily unavailable
+Sat Jan 22 14:57:19 2005 :: Closing link to Enzio.
+Sat Jan 22 14:57:21 2005 :: Sock.sinaddr:  139.55.227.108
+Sat Jan 22 14:57:22 2005 :: Loading Argon.
+Sat Jan 22 14:57:22 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Sat Jan 22 14:57:24 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 14:57:30 2005 :: Loading Enzio.
+Sat Jan 22 14:57:30 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Sat Jan 22 15:10:42 2005 :: Enzio has quit.
+Sat Jan 22 15:10:44 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 15:10:49 2005 :: Loading Gecco.
+Sat Jan 22 15:10:50 2005 :: Gecco@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 15:10:53 2005 :: Rinaldus has quit.
+Sat Jan 22 15:10:55 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 15:10:57 2005 :: Loading Mantis.
+Sat Jan 22 15:10:58 2005 :: Mantis@65.206.46.218 has connected.
+Sat Jan 22 15:11:36 2005 :: Mantis has quit.
+Sat Jan 22 15:11:38 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 15:11:39 2005 :: Loading Rinaldus.
+Sat Jan 22 15:11:41 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 15:13:15 2005 :: Rinaldus has quit.
+Sat Jan 22 15:26:38 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 15:26:44 2005 :: Loading Lildue.
+Sat Jan 22 15:26:44 2005 :: Lildue@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 15:27:51 2005 :: Log Venus: bonus all 200
+Sat Jan 22 15:30:12 2005 :: EOF encountered on read.
+Sat Jan 22 15:30:12 2005 :: Closing link to Argon.
+Sat Jan 22 15:30:26 2005 :: Sock.sinaddr:  66.222.216.154
+Sat Jan 22 15:30:29 2005 :: Loading Chame.
+Sat Jan 22 15:30:30 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sat Jan 22 15:33:11 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 15:33:15 2005 :: Loading Rinaldus.
+Sat Jan 22 15:33:16 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 15:34:14 2005 :: Rinaldus has quit.
+Sat Jan 22 15:49:21 2005 :: Chame has quit.
+Sat Jan 22 16:04:30 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lildue RVNUM: ] ref A009
+Sat Jan 22 16:04:30 2005 :: Lildue has quit.
+Sat Jan 22 16:04:45 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 16:05:12 2005 :: Loading Lildue.
+Sat Jan 22 16:05:12 2005 :: Lildue@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 16:17:48 2005 :: Sock.sinaddr:  64.45.223.10
+Sat Jan 22 16:17:54 2005 :: Loading Xion.
+Sat Jan 22 16:17:55 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Sat Jan 22 16:18:41 2005 :: Xion has quit.
+Sat Jan 22 16:40:21 2005 :: EOF encountered on read.
+Sat Jan 22 16:54:53 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lildue RVNUM: ] ref A009
+Sat Jan 22 16:54:53 2005 :: Lildue has quit.
+Sat Jan 22 16:55:04 2005 :: Sock.sinaddr:  66.93.33.134
+Read_from_descriptor: Connection timed out
+Sat Jan 22 17:12:38 2005 :: Closing link to Venus.
+Sat Jan 22 17:16:40 2005 :: Sock.sinaddr:  68.149.97.236
+Sat Jan 22 17:16:44 2005 :: Loading Raxin.
+Sat Jan 22 17:16:45 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sat Jan 22 17:17:45 2005 :: Raxin has quit.
+Sat Jan 22 17:17:50 2005 :: Sock.sinaddr:  68.149.97.236
+Sat Jan 22 17:17:53 2005 :: Loading Raxin.
+Sat Jan 22 17:17:55 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sat Jan 22 17:23:31 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 17:23:37 2005 :: Loading Rinaldus.
+Sat Jan 22 17:23:38 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 17:27:37 2005 :: Raxin has quit.
+Sat Jan 22 17:47:44 2005 :: Sock.sinaddr:  24.60.255.30
+Sat Jan 22 17:47:57 2005 :: Loading Enkindu.
+Sat Jan 22 17:48:01 2005 :: Enkindu@spartacussixeight.ne.client2.attbi.com has connected.
+Sat Jan 22 18:03:05 2005 :: Sock.sinaddr:  66.191.84.82
+Sat Jan 22 18:05:23 2005 :: EOF encountered on read.
+Sat Jan 22 18:05:23 2005 :: Closing link to Akii.
+Sat Jan 22 18:11:17 2005 :: Sock.sinaddr:  69.240.65.225
+Sat Jan 22 18:11:21 2005 :: Loading Spatula.
+Sat Jan 22 18:11:24 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sat Jan 22 18:20:30 2005 :: Log Spatula: cast summon small elemental
+Sat Jan 22 18:30:55 2005 :: Log Gecco: snoop spat
+Sat Jan 22 18:31:07 2005 :: Log Gecco: snoop self
+Sat Jan 22 18:31:45 2005 :: Log Spatula: cast summon prisoner hell
+Sat Jan 22 18:33:24 2005 :: Rinaldus killed by a dragon lieutenant at 23213
+Sat Jan 22 18:34:12 2005 :: Log Spatula: cast summon derrick captain guard cityguard
+Sat Jan 22 18:34:22 2005 :: Log Spatula: cast summon jacklyn captain guard cityguard
+Sat Jan 22 18:35:08 2005 :: Log Spatula: cast summon dwarven prince
+Sat Jan 22 18:35:16 2005 :: Log Spatula: cast summon ring keeper
+Sat Jan 22 18:37:08 2005 :: Log Spatula: cast summon jerry guard royal
+Sat Jan 22 18:42:41 2005 :: Sock.sinaddr:  66.222.216.154
+Sat Jan 22 18:42:46 2005 :: Loading Chame.
+Sat Jan 22 18:42:47 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sat Jan 22 18:44:47 2005 :: Log Spatula: cast summon Chame
+Sat Jan 22 18:46:57 2005 :: Enkindu has quit.
+Sat Jan 22 18:50:14 2005 :: 65.206.46.218 input spamming!
+Sat Jan 22 18:52:03 2005 :: Spatula has quit.
+Sat Jan 22 18:55:55 2005 :: Rinaldus has quit.
+Sat Jan 22 18:56:04 2005 :: Log Gecco: snoop dragon
+Sat Jan 22 18:56:10 2005 :: Log Gecco: snoop huge
+Sat Jan 22 18:59:17 2005 :: Sock.sinaddr:  69.240.65.225
+Sat Jan 22 18:59:22 2005 :: Loading Spatula.
+Sat Jan 22 18:59:25 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sat Jan 22 19:02:58 2005 :: Log Spatula: cast summon guard palace
+Sat Jan 22 19:05:03 2005 :: Log Spatula: cast summon valerie witch
+Sat Jan 22 19:13:02 2005 :: Spatula has quit.
+Sat Jan 22 19:13:05 2005 :: Sock.sinaddr:  69.240.65.225
+Sat Jan 22 19:13:14 2005 :: Loading Ergo.
+Sat Jan 22 19:13:16 2005 :: Ergo@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sat Jan 22 19:22:24 2005 :: Chame killed by The Brain at 10634
+Sat Jan 22 19:25:10 2005 :: Sock.sinaddr:  4.237.53.67
+Sat Jan 22 19:25:12 2005 :: Loading Golddragon.
+Sat Jan 22 19:25:16 2005 :: Golddragon@dialup-4.237.53.67.Dial1.NewYork1.Level3.net has connected.
+Sat Jan 22 19:27:47 2005 :: Chame has quit.
+Sat Jan 22 19:45:34 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Sat Jan 22 19:45:34 2005 :: Golddragon has quit.
+Write_to_descriptor: Resource temporarily unavailable
+Sat Jan 22 20:07:36 2005 :: Closing link to Gecco.
+Sat Jan 22 20:07:44 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 20:07:47 2005 :: Sock.sinaddr:  69.220.149.242
+Sat Jan 22 20:07:49 2005 :: Loading Mythril.
+Sat Jan 22 20:07:50 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Sat Jan 22 20:07:58 2005 :: Loading Enzio.
+Sat Jan 22 20:07:59 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sat Jan 22 20:14:10 2005 :: [*****] BUG: Norm-Apply: 0
+Sat Jan 22 20:15:52 2005 :: Sock.sinaddr:  65.206.46.218
+Sat Jan 22 20:15:56 2005 :: Loading Rinaldus.
+Sat Jan 22 20:15:56 2005 :: Rinaldus@65.206.46.218 has connected.
+Sat Jan 22 20:19:12 2005 :: [*****] BUG: Norm-Apply: 0
+Sat Jan 22 20:23:08 2005 :: Enzio has quit.
+Sat Jan 22 20:23:11 2005 :: Sock.sinaddr:  66.93.33.134
+Sat Jan 22 20:40:18 2005 :: Sock.sinaddr:  4.236.24.232
+Sat Jan 22 20:40:40 2005 :: Loading Garet.
+Sat Jan 22 20:40:41 2005 :: Garet@dialup-4.236.24.232.Dial1.NewYork1.Level3.net has connected.
+Sat Jan 22 20:46:53 2005 :: Mythril has quit.
+Sat Jan 22 20:50:47 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 20:56:02 2005 :: Sock.sinaddr:  68.149.97.236
+Sat Jan 22 20:56:06 2005 :: Loading Raxin.
+Sat Jan 22 20:56:07 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sat Jan 22 21:01:02 2005 :: Raxin has quit.
+Sat Jan 22 21:05:10 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:06:08 2005 :: Rinaldus has quit.
+Sat Jan 22 21:10:10 2005 :: Ergo has quit.
+Sat Jan 22 21:10:14 2005 :: Sock.sinaddr:  69.240.65.225
+Sat Jan 22 21:10:17 2005 :: Loading Hocklar.
+Sat Jan 22 21:10:19 2005 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sat Jan 22 21:17:21 2005 :: Garet killed by {cA {DSilver{c Dragon{x at 6710
+Sat Jan 22 21:18:43 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:20:55 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Sat Jan 22 21:31:14 2005 :: Garet killed by {cA big snake{x at 6706
+Sat Jan 22 21:32:16 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:32:55 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:33:20 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Sat Jan 22 21:33:21 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:34:09 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:38:17 2005 :: Garet killed by {cA {YYellow {cDragon{x at 6714
+Sat Jan 22 21:38:44 2005 :: Hocklar killed by {cA {yBronze{c Dragon{x at 6713
+Sat Jan 22 21:44:07 2005 :: Garet killed by {cA {WWhite {cDragon{x at 6712
+Sat Jan 22 21:45:09 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:48:34 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:49:45 2005 :: Garet killed by {cA {yBronze{c Dragon{x at 6713
+Sat Jan 22 21:50:15 2005 :: Hocklar killed by {cA {DSilver{c Dragon{x at 6715
+Sat Jan 22 21:50:36 2005 :: dialup-4.236.24.232.Dial1.NewYork1.Level3.net input spamming!
+Sat Jan 22 21:55:26 2005 :: [*****] BUG: Set_fighting: already fighting
+Sat Jan 22 21:59:35 2005 :: Garet has quit.
+Sat Jan 22 22:06:46 2005 :: Hocklar has quit.
+Sat Jan 22 22:52:33 2005 :: Sock.sinaddr:  68.100.177.85
+Sat Jan 22 22:52:35 2005 :: Loading Dusk.
+Sat Jan 22 22:52:36 2005 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Sat Jan 22 22:53:04 2005 :: EOF encountered on read.
+Sat Jan 22 22:53:04 2005 :: Closing link to Dusk.
+Sat Jan 22 23:03:33 2005 :: Sock.sinaddr:  24.60.255.30
+Sat Jan 22 23:03:39 2005 :: Loading Enkindu.
+Sat Jan 22 23:03:42 2005 :: Enkindu@spartacussixeight.ne.client2.attbi.com has connected.
+Sat Jan 22 23:07:26 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Dusk RVNUM: ] ref A009
+Sat Jan 22 23:07:26 2005 :: Dusk has quit.
+Sat Jan 22 23:12:20 2005 :: Sock.sinaddr:  68.149.97.236
+Sat Jan 22 23:12:24 2005 :: Loading Raxin.
+Sat Jan 22 23:12:25 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sat Jan 22 23:12:31 2005 :: Raxin has quit.
+Sat Jan 22 23:23:43 2005 :: Sock.sinaddr:  67.133.183.77
+Sat Jan 22 23:23:43 2005 :: EOF encountered on read.
+Sat Jan 22 23:42:54 2005 :: Enkindu killed by the statue of Landru at 9611
+Sat Jan 22 23:47:27 2005 :: Enkindu has quit.
+Sat Jan 22 23:47:32 2005 :: Sock.sinaddr:  24.60.255.30
+Sat Jan 22 23:49:10 2005 :: Zizka@spartacussixeight.ne.client2.attbi.com new player.
+Sat Jan 22 23:53:07 2005 :: Sock.sinaddr:  67.141.242.105
+Sat Jan 22 23:53:08 2005 :: Loading Leah.
+Sat Jan 22 23:53:08 2005 :: Leah@67.141.242.105 has connected.
+Sat Jan 22 23:53:26 2005 :: Leah has quit.
+Sat Jan 22 23:53:28 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Jan 22 23:53:29 2005 :: EOF encountered on read.
+Sat Jan 22 23:59:59 2005 :: Zizka killed by the young snarling dragon at 3721
+Sun Jan 23 00:10:11 2005 :: Zizka killed by the vagabond at 3015
+Sun Jan 23 00:10:38 2005 :: Zizka has quit.
+Sun Jan 23 00:16:33 2005 :: Sock.sinaddr:  24.89.8.60
+Sun Jan 23 00:16:34 2005 :: Loading Crovax.
+Sun Jan 23 00:16:34 2005 :: Crovax@dyn-8-60.myactv.net has connected.
+Sun Jan 23 00:16:57 2005 :: Crovax has quit.
+Sun Jan 23 00:34:40 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 00:34:46 2005 :: Loading Venus.
+Sun Jan 23 00:34:46 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 01:03:38 2005 :: Sock.sinaddr:  65.206.46.218
+Sun Jan 23 01:03:40 2005 :: Loading Rinaldus.
+Sun Jan 23 01:03:44 2005 :: Rinaldus@65.206.46.218 has connected.
+Sun Jan 23 01:04:42 2005 :: Rinaldus has quit.
+Sun Jan 23 01:06:13 2005 :: Sock.sinaddr:  69.240.65.225
+Sun Jan 23 01:06:18 2005 :: Loading Spatula.
+Sun Jan 23 01:06:20 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sun Jan 23 01:57:52 2005 :: Sock.sinaddr:  65.206.46.218
+Sun Jan 23 01:57:54 2005 :: Loading Rinaldus.
+Sun Jan 23 01:57:54 2005 :: Rinaldus@65.206.46.218 has connected.
+Sun Jan 23 02:12:30 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 02:12:48 2005 :: Rinaldus has quit.
+Sun Jan 23 02:15:10 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au new player.
+Sun Jan 23 02:15:19 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Sun Jan 23 02:15:19 2005 :: Spatula has quit.
+Sun Jan 23 02:37:11 2005 :: Log Venus: bonus all 100
+Sun Jan 23 02:38:11 2005 :: Log Venus: snoop lasan
+Sun Jan 23 02:39:11 2005 :: Log Venus: mset lasan train 150
+Sun Jan 23 02:40:31 2005 :: 220-244-144-162-qld.tpgi.com.au input spamming!
+Sun Jan 23 02:41:07 2005 :: Log Venus: mset lasan train 5
+Sun Jan 23 02:46:11 2005 :: Log Venus: snoop self
+Sun Jan 23 03:14:31 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lasanthur RVNUM: ] ref A009
+Sun Jan 23 03:14:31 2005 :: Lasanthur has quit.
+Sun Jan 23 03:14:42 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 03:31:40 2005 :: Sock.sinaddr:  204.209.44.14
+Sun Jan 23 03:31:40 2005 :: EOF encountered on read.
+Sun Jan 23 03:44:55 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 03:44:57 2005 :: Loading Venus.
+Sun Jan 23 03:44:58 2005 :: Closing link to Venus.
+Sun Jan 23 03:44:58 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 03:47:08 2005 :: Loading Lasanthur.
+Sun Jan 23 03:47:19 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 03:52:21 2005 :: Lasanthur killed by the lord of the tower at 4772
+Sun Jan 23 03:55:14 2005 :: Log Venus: snoop lasan
+Sun Jan 23 03:55:38 2005 :: Lasanthur has quit.
+Sun Jan 23 03:55:40 2005 :: Log Venus: snoop self
+Sun Jan 23 05:03:35 2005 :: Sock.sinaddr:  69.240.65.225
+Sun Jan 23 05:03:40 2005 :: Loading Spatula.
+Sun Jan 23 05:03:42 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Sun Jan 23 05:18:18 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Sun Jan 23 05:18:18 2005 :: Spatula has quit.
+Read_from_descriptor: Connection timed out
+Sun Jan 23 05:21:28 2005 :: Closing link to Venus.
+Sun Jan 23 08:40:38 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 08:40:49 2005 :: Loading Lasanthur.
+Sun Jan 23 08:40:50 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 09:24:05 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lasanthur RVNUM: ] ref A009
+Sun Jan 23 09:24:05 2005 :: Lasanthur has quit.
+Sun Jan 23 09:24:16 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 09:41:57 2005 :: Loading Lasanthur.
+Sun Jan 23 09:41:57 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 10:23:51 2005 :: Lasanthur killed by the golem beggar at 20406
+Sun Jan 23 10:29:45 2005 :: 220-244-144-162-qld.tpgi.com.au input spamming!
+Sun Jan 23 10:31:33 2005 :: 220-244-144-162-qld.tpgi.com.au input spamming!
+Sun Jan 23 10:32:14 2005 :: 220-244-144-162-qld.tpgi.com.au input spamming!
+Sun Jan 23 10:36:38 2005 :: Lasanthur killed by The stone golem at 5254
+Sun Jan 23 10:39:23 2005 :: Lasanthur killed by the cityguard at 3017
+Sun Jan 23 10:47:22 2005 :: Lasanthur killed by a centaur at 1702
+Sun Jan 23 10:53:50 2005 :: Lasanthur killed by the cityguard at 3041
+Sun Jan 23 10:54:29 2005 :: Lasanthur has quit.
+Sun Jan 23 11:59:02 2005 :: Loading Enzio.
+Sun Jan 23 11:59:03 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sun Jan 23 12:00:46 2005 :: Log Enzio: cast summon rabbit
+Sun Jan 23 12:04:54 2005 :: Enzio has quit.
+Sun Jan 23 12:05:00 2005 :: Sock.sinaddr:  66.93.33.134
+Sun Jan 23 12:07:27 2005 :: Sock.sinaddr:  64.45.223.10
+Sun Jan 23 12:07:39 2005 :: Loading Xion.
+Sun Jan 23 12:07:41 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Sun Jan 23 12:08:16 2005 :: Xion has quit.
+Sun Jan 23 13:08:44 2005 :: Sock.sinaddr:  67.141.242.105
+Sun Jan 23 13:08:45 2005 :: Loading Lydia.
+Sun Jan 23 13:08:45 2005 :: Lydia@67.141.242.105 has connected.
+Sun Jan 23 13:10:15 2005 :: Lydia has quit.
+Sun Jan 23 13:23:48 2005 :: Sock.sinaddr:  66.191.84.82
+Sun Jan 23 13:26:09 2005 :: Loading Enzio.
+Sun Jan 23 13:26:09 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Sun Jan 23 13:26:31 2005 :: Enzio has quit.
+Sun Jan 23 13:26:37 2005 :: Sock.sinaddr:  66.93.33.134
+Sun Jan 23 13:26:52 2005 :: Altaria@66-191-84-82.mar.wi.charter.com new player.
+Sun Jan 23 13:28:35 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 13:28:36 2005 :: Loading Venus.
+Sun Jan 23 13:28:36 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 13:30:26 2005 :: EOF encountered on read.
+Sun Jan 23 13:30:26 2005 :: Closing link to Altaria.
+Sun Jan 23 13:45:04 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Altaria RVNUM: ] ref A009
+Sun Jan 23 13:45:04 2005 :: Altaria has quit.
+Sun Jan 23 14:20:58 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 14:21:01 2005 :: Loading Venus.
+Sun Jan 23 14:21:02 2005 :: Closing link to Venus.
+Sun Jan 23 14:21:02 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 14:32:19 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 14:32:23 2005 :: Loading Raxin.
+Sun Jan 23 14:32:23 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Write_to_descriptor: Resource temporarily unavailable
+Sun Jan 23 14:39:16 2005 :: Closing link to Raxin.
+Sun Jan 23 14:39:17 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 14:39:20 2005 :: Loading Raxin.
+Sun Jan 23 14:39:21 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net reconnected.
+Sun Jan 23 14:42:26 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 14:49:19 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 14:58:36 2005 :: Sock.sinaddr:  24.48.61.193
+Sun Jan 23 15:05:44 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:06:11 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:09:41 2005 :: Raxin killed by a gauntlet paladin at 25309
+Sun Jan 23 15:14:40 2005 :: Raxin killed by a gauntlet mage at 25306
+Sun Jan 23 15:17:20 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:17:43 2005 :: Log Raxin: cast summon golem husband
+Read_from_descriptor: Connection timed out
+Sun Jan 23 15:27:56 2005 :: Closing link to Venus.
+Sun Jan 23 15:29:30 2005 :: Raxin killed by a gauntlet cleric  at 25308
+Sun Jan 23 15:30:49 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:31:11 2005 :: Sock.sinaddr:  66.222.216.154
+Sun Jan 23 15:31:14 2005 :: Loading Chame.
+Sun Jan 23 15:31:14 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sun Jan 23 15:40:21 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:40:42 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:44:30 2005 :: Log Raxin: cast summon golem husband
+Sun Jan 23 15:51:32 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Sun Jan 23 15:51:32 2005 :: Chame has quit.
+Sun Jan 23 15:51:43 2005 :: Sock.sinaddr:  66.222.216.154
+Sun Jan 23 16:08:26 2005 :: Loading Chame.
+Sun Jan 23 16:08:26 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sun Jan 23 16:20:37 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 16:20:38 2005 :: Loading Venus.
+Sun Jan 23 16:20:39 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 16:36:19 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Sun Jan 23 16:50:18 2005 :: Log Raxin: cast summon inigo montoya spaniard
+Sun Jan 23 17:11:38 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 17:11:40 2005 :: Loading Venus.
+Sun Jan 23 17:11:41 2005 :: Closing link to Venus.
+Sun Jan 23 17:11:41 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 17:12:49 2005 :: Sock.sinaddr:  62.3.36.215
+Sun Jan 23 17:12:49 2005 :: EOF encountered on read.
+Sun Jan 23 17:18:37 2005 :: Sock.sinaddr:  12.207.136.251
+Sun Jan 23 17:18:42 2005 :: Loading Rithjin.
+Sun Jan 23 17:18:43 2005 :: Rithjin@12-207-136-251.client.mchsi.com has connected.
+Sun Jan 23 17:23:49 2005 :: Rithjin killed by a gauntlet thief at 25307
+Sun Jan 23 17:25:12 2005 :: Rithjin has quit.
+Sun Jan 23 17:36:23 2005 :: Raxin has quit.
+Sun Jan 23 17:43:02 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Sun Jan 23 17:43:02 2005 :: Chame has quit.
+Sun Jan 23 17:43:13 2005 :: Sock.sinaddr:  66.222.216.154
+Sun Jan 23 18:01:48 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 18:01:49 2005 :: Loading Venus.
+Sun Jan 23 18:01:50 2005 :: Closing link to Venus.
+Sun Jan 23 18:01:50 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 18:40:31 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 18:40:33 2005 :: Loading Raxin.
+Sun Jan 23 18:40:34 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sun Jan 23 18:40:50 2005 :: Raxin has quit.
+Sun Jan 23 18:53:28 2005 :: Loading Chame.
+Sun Jan 23 18:53:28 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sun Jan 23 18:53:50 2005 :: Chame has quit.
+Read_from_descriptor: Connection timed out
+Sun Jan 23 18:57:38 2005 :: Closing link to Venus.
+Sun Jan 23 18:57:49 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 18:57:50 2005 :: Loading Venus.
+Sun Jan 23 18:57:50 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 19:55:42 2005 :: Sock.sinaddr:  66.222.216.154
+Sun Jan 23 19:55:45 2005 :: Loading Chame.
+Sun Jan 23 19:55:45 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sun Jan 23 19:56:44 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 19:56:46 2005 :: Loading Venus.
+Sun Jan 23 19:56:47 2005 :: Closing link to Venus.
+Sun Jan 23 19:56:47 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 20:11:35 2005 :: Sock.sinaddr:  65.206.46.218
+Sun Jan 23 20:11:43 2005 :: Loading Rinaldus.
+Sun Jan 23 20:11:43 2005 :: Rinaldus@65.206.46.218 has connected.
+Sun Jan 23 20:12:57 2005 :: Rinaldus has quit.
+Sun Jan 23 20:35:35 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 20:35:36 2005 :: Loading Venus.
+Sun Jan 23 20:35:38 2005 :: Closing link to Venus.
+Sun Jan 23 20:35:38 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 20:42:37 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Sun Jan 23 20:42:37 2005 :: Chame has quit.
+Sun Jan 23 20:42:52 2005 :: Sock.sinaddr:  66.222.216.154
+Sun Jan 23 21:05:41 2005 :: Sock.sinaddr:  67.133.92.78
+Sun Jan 23 21:05:41 2005 :: EOF encountered on read.
+Sun Jan 23 21:42:18 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 21:42:24 2005 :: Loading Lasanthur.
+Sun Jan 23 21:42:25 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 21:51:23 2005 :: Lasanthur killed by a construction worker at 9525
+Sun Jan 23 21:55:06 2005 :: Lasanthur killed by a construction worker at 9525
+Sun Jan 23 21:57:41 2005 :: Lasanthur killed by a construction worker at 9525
+Sun Jan 23 21:59:14 2005 :: Lasanthur killed by a construction worker at 9525
+Read_from_descriptor: Connection timed out
+Sun Jan 23 22:00:29 2005 :: Closing link to Venus.
+Sun Jan 23 22:02:34 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 22:02:37 2005 :: Loading Raxin.
+Sun Jan 23 22:02:38 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sun Jan 23 22:05:13 2005 :: Loading Chame.
+Sun Jan 23 22:05:13 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Sun Jan 23 22:05:45 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 22:05:48 2005 :: Loading Venus.
+Sun Jan 23 22:05:48 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 22:20:31 2005 :: Lasanthur killed by a hunter at 1704
+Sun Jan 23 22:21:45 2005 :: Raxin has quit.
+Sun Jan 23 22:24:40 2005 :: Lasanthur killed by the Pawn of the White Court at 4263
+Sun Jan 23 22:27:55 2005 :: Lasanthur killed by the Pawn of the White Court at 4262
+Sun Jan 23 22:29:49 2005 :: Lasanthur killed by the Tiny Creation at 4703
+Sun Jan 23 22:35:10 2005 :: Chame has quit.
+Sun Jan 23 22:38:33 2005 :: Lasanthur killed by the Giant Creation at 4772
+Sun Jan 23 22:59:55 2005 :: Sock.sinaddr:  67.170.53.94
+Sun Jan 23 22:59:56 2005 :: Loading Venus.
+Sun Jan 23 22:59:58 2005 :: Closing link to Venus.
+Sun Jan 23 22:59:58 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Sun Jan 23 23:09:03 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 23:09:05 2005 :: Loading Raxin.
+Sun Jan 23 23:09:05 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Sun Jan 23 23:09:20 2005 :: Raxin has quit.
+Sun Jan 23 23:10:22 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lasanthur RVNUM: ] ref A009
+Sun Jan 23 23:10:22 2005 :: Lasanthur has quit.
+Sun Jan 23 23:10:33 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 23:14:59 2005 :: Sock.sinaddr:  24.89.8.60
+Sun Jan 23 23:15:00 2005 :: Loading Crovax.
+Sun Jan 23 23:15:00 2005 :: Crovax@dyn-8-60.myactv.net has connected.
+Sun Jan 23 23:20:33 2005 :: Loading Lasanthur.
+Sun Jan 23 23:20:34 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 23:20:55 2005 :: Log Venus: plzap crovax
+Sun Jan 23 23:20:55 2005 :: Crovax has quit.
+Sun Jan 23 23:32:09 2005 :: Lasanthur has quit.
+Sun Jan 23 23:32:11 2005 :: Sock.sinaddr:  220.244.144.162
+Sun Jan 23 23:32:16 2005 :: Loading Lasanthur.
+Sun Jan 23 23:32:17 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Sun Jan 23 23:32:29 2005 :: Lasanthur has quit.
+Sun Jan 23 23:52:19 2005 :: Sock.sinaddr:  67.19.238.52
+Sun Jan 23 23:52:19 2005 :: EOF encountered on read.
+Sun Jan 23 23:57:05 2005 :: Sock.sinaddr:  24.89.8.60
+Sun Jan 23 23:57:18 2005 :: Crovax@dyn-8-60.myactv.net new player.
+Read_from_descriptor: Connection reset by peer
+Sun Jan 23 23:57:29 2005 :: Closing link to Crovax.
+Sun Jan 23 23:57:30 2005 :: Sock.sinaddr:  24.89.8.60
+Sun Jan 23 23:57:40 2005 :: Crovax@dyn-8-60.myactv.net new player.
+Sun Jan 23 23:57:43 2005 :: Sock.sinaddr:  68.149.97.236
+Sun Jan 23 23:57:45 2005 :: EOF encountered on read.
+Sun Jan 23 23:58:36 2005 :: Log Crovax: delete
+Sun Jan 23 23:58:36 2005 :: Log Crovax: delete
+Sun Jan 23 23:58:36 2005 :: Crovax has quit.
+Mon Jan 24 00:18:49 2005 :: Sock.sinaddr:  220.244.144.162
+Mon Jan 24 00:19:22 2005 :: Loading Lasanthur.
+Mon Jan 24 00:19:23 2005 :: Lasanthur@220-244-144-162-qld.tpgi.com.au has connected.
+Mon Jan 24 00:33:52 2005 :: Sock.sinaddr:  68.149.97.236
+Mon Jan 24 00:33:57 2005 :: Loading Raxin.
+Mon Jan 24 00:33:57 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Mon Jan 24 00:37:11 2005 :: Lasanthur killed by {ca Dragon hatchling{x at 6700
+Read_from_descriptor: Connection timed out
+Mon Jan 24 00:37:20 2005 :: Closing link to Venus.
+Mon Jan 24 00:44:55 2005 :: Lasanthur killed by The mutant beastly fido at 9417
+Mon Jan 24 00:45:37 2005 :: Sock.sinaddr:  67.170.53.94
+Mon Jan 24 00:45:39 2005 :: Loading Venus.
+Mon Jan 24 00:45:39 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Mon Jan 24 00:54:43 2005 :: Raxin has quit.
+Mon Jan 24 01:08:56 2005 :: Lasanthur killed by the huge creation at 4751
+Mon Jan 24 01:12:03 2005 :: Lasanthur killed by The goblin at 3507
+Mon Jan 24 01:16:32 2005 :: Lasanthur has quit.
+Mon Jan 24 01:59:40 2005 :: Sock.sinaddr:  172.150.93.190
+Mon Jan 24 02:02:05 2005 :: Vegas@AC965DBE.ipt.aol.com new player.
+Mon Jan 24 02:02:41 2005 :: Vegas has quit.
+Mon Jan 24 02:09:30 2005 :: Sock.sinaddr:  63.235.32.154
+Mon Jan 24 02:10:15 2005 :: Sock.sinaddr:  63.235.32.154
+Mon Jan 24 02:11:45 2005 :: Odeon@0-1pool32-154.nas42.newark2.nj.us.da.qwest.net new player.
+Mon Jan 24 02:15:52 2005 :: Sock.sinaddr:  67.170.53.94
+Mon Jan 24 02:15:55 2005 :: Loading Venus.
+Mon Jan 24 02:15:57 2005 :: Closing link to Venus.
+Mon Jan 24 02:15:57 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Mon Jan 24 02:27:51 2005 :: Odeon has quit.
+Mon Jan 24 02:56:38 2005 :: Sock.sinaddr:  67.170.53.94
+Mon Jan 24 02:56:39 2005 :: Loading Venus.
+Mon Jan 24 02:56:41 2005 :: Closing link to Venus.
+Mon Jan 24 02:56:41 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Mon Jan 24 03:34:16 2005 :: Sock.sinaddr:  204.209.44.14
+Mon Jan 24 03:34:16 2005 :: EOF encountered on read.
+Read_from_descriptor: Connection timed out
+Mon Jan 24 05:45:17 2005 :: Closing link to Venus.
+Mon Jan 24 07:37:12 2005 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 24 07:37:15 2005 :: Loading Xion.
+Mon Jan 24 07:37:16 2005 :: Xion@mail.carpentercontractors.com has connected.
+Mon Jan 24 08:06:23 2005 :: Xion has quit.
+Mon Jan 24 11:24:34 2005 :: Sock.sinaddr:  129.71.34.65
+Mon Jan 24 11:24:39 2005 :: Loading Serpterion.
+Mon Jan 24 11:24:39 2005 :: Serpterion@scn34065.shepherd.edu has connected.
+Mon Jan 24 11:37:24 2005 :: Serpterion killed by The Guard of the Vault at 10622
+Mon Jan 24 11:54:30 2005 :: EOF encountered on read.
+Mon Jan 24 11:54:30 2005 :: Closing link to Serpterion.
+Mon Jan 24 11:58:54 2005 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 24 11:58:58 2005 :: Loading Xion.
+Mon Jan 24 11:59:02 2005 :: Xion@mail.carpentercontractors.com has connected.
+Mon Jan 24 12:08:31 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Serpterion RVNUM: ] ref A009
+Mon Jan 24 12:08:31 2005 :: Serpterion has quit.
+Mon Jan 24 12:35:00 2005 :: mail.carpentercontractors.com input spamming!
+Mon Jan 24 12:50:55 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 12:50:56 2005 :: Loading Argon.
+Mon Jan 24 12:50:56 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Mon Jan 24 12:53:34 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 12:53:34 2005 :: Loading Argon.
+Mon Jan 24 12:53:37 2005 :: Loading Wrath.
+Mon Jan 24 12:53:39 2005 :: Wrath@h139-055-227-108.adsl.navix.net has connected.
+Mon Jan 24 12:53:52 2005 :: Log Argon: advance wrath 75
+Mon Jan 24 12:55:44 2005 :: Log Argon: flag private
+Mon Jan 24 12:56:55 2005 :: Log Argon: flag gods_only
+Mon Jan 24 13:01:36 2005 :: Wrath has quit.
+Mon Jan 24 13:05:11 2005 :: Argon has quit.
+Mon Jan 24 13:31:15 2005 :: Sock.sinaddr:  161.253.41.103
+Mon Jan 24 13:31:18 2005 :: Loading Dorian.
+Mon Jan 24 13:31:19 2005 :: Dorian@161.253.41.103 has connected.
+Mon Jan 24 13:37:38 2005 :: Dorian has quit.
+Mon Jan 24 13:47:42 2005 :: Sock.sinaddr:  134.39.114.77
+Mon Jan 24 13:47:45 2005 :: Loading Venus.
+Mon Jan 24 13:47:46 2005 :: Venus@134.39.114.77 reconnected.
+Mon Jan 24 13:47:50 2005 :: Venus has quit.
+Mon Jan 24 14:49:42 2005 :: mail.carpentercontractors.com input spamming!
+Mon Jan 24 15:03:32 2005 :: mail.carpentercontractors.com input spamming!
+Mon Jan 24 15:05:04 2005 :: mail.carpentercontractors.com input spamming!
+Mon Jan 24 15:08:27 2005 :: Xion has quit.
+Mon Jan 24 15:08:27 2005 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 24 15:08:30 2005 :: Loading Lacinated.
+Mon Jan 24 15:08:31 2005 :: Lacinated@mail.carpentercontractors.com has connected.
+Mon Jan 24 15:09:00 2005 :: Lacinated has quit.
+Mon Jan 24 15:09:00 2005 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 24 15:09:03 2005 :: Loading Xion.
+Mon Jan 24 15:09:04 2005 :: Xion@mail.carpentercontractors.com has connected.
+Mon Jan 24 15:42:01 2005 :: Xion has quit.
+Mon Jan 24 16:05:28 2005 :: Sock.sinaddr:  134.39.114.77
+Mon Jan 24 16:05:30 2005 :: Loading Venus.
+Mon Jan 24 16:05:34 2005 :: Venus@134.39.114.77 has connected.
+Mon Jan 24 16:05:47 2005 :: Venus has quit.
+Mon Jan 24 16:30:43 2005 :: Sock.sinaddr:  64.45.223.10
+Mon Jan 24 16:30:45 2005 :: Loading Xion.
+Mon Jan 24 16:30:46 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Mon Jan 24 16:31:08 2005 :: Xion has quit.
+Mon Jan 24 17:09:10 2005 :: Sock.sinaddr:  69.220.149.242
+Mon Jan 24 17:09:12 2005 :: Loading Mythril.
+Mon Jan 24 17:09:12 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Mon Jan 24 17:18:28 2005 :: Sock.sinaddr:  67.170.53.94
+Mon Jan 24 17:18:29 2005 :: Loading Venus.
+Mon Jan 24 17:18:29 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Mon Jan 24 17:35:06 2005 :: Sock.sinaddr:  24.60.255.30
+Mon Jan 24 17:35:38 2005 :: Loading Zizka.
+Mon Jan 24 17:35:43 2005 :: Zizka@spartacussixeight.ne.client2.attbi.com has connected.
+Mon Jan 24 17:36:53 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 17:36:54 2005 :: Loading Argon.
+Mon Jan 24 17:36:54 2005 :: Argon@h139-055-227-108.adsl.navix.net has connected.
+Mon Jan 24 17:41:07 2005 :: Log Venus: bonus all 200
+Mon Jan 24 17:47:03 2005 :: Log Argon: string obj back short Backpack of Rinaldus' stuff
+Mon Jan 24 17:52:14 2005 :: [*****] BUG: Unequip_char: already unequipped.
+Mon Jan 24 17:57:15 2005 :: Zizka has quit.
+Mon Jan 24 17:59:05 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 17:59:06 2005 :: Loading Argon.
+Mon Jan 24 17:59:08 2005 :: Loading Wrath.
+Mon Jan 24 17:59:11 2005 :: Closing link to Wrath.
+Mon Jan 24 17:59:14 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 17:59:17 2005 :: Loading Wrath.
+Mon Jan 24 17:59:22 2005 :: Wrath@h139-055-227-108.adsl.navix.net has connected.
+Mon Jan 24 18:05:24 2005 :: Sock.sinaddr:  24.60.255.30
+Mon Jan 24 18:05:31 2005 :: Loading Zizka.
+Mon Jan 24 18:05:34 2005 :: Zizka@spartacussixeight.ne.client2.attbi.com has connected.
+Mon Jan 24 18:11:25 2005 :: Zizka killed by A {yHappy Walrus{x at 5920
+Mon Jan 24 18:14:05 2005 :: Mythril has quit.
+Mon Jan 24 18:14:13 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Wrath RVNUM: ] ref A009
+Mon Jan 24 18:14:13 2005 :: Wrath has quit.
+Mon Jan 24 18:14:25 2005 :: Sock.sinaddr:  139.55.227.108
+Mon Jan 24 19:18:44 2005 :: Sock.sinaddr:  67.141.242.105
+Mon Jan 24 19:18:45 2005 :: Loading Lydia.
+Mon Jan 24 19:18:46 2005 :: Lydia@67.141.242.105 has connected.
+Mon Jan 24 19:19:01 2005 :: Lydia has quit.
+Mon Jan 24 19:48:16 2005 :: Zizka killed by the statue of Furey at 9616
+Mon Jan 24 19:50:44 2005 :: Zizka has quit.
+Mon Jan 24 20:10:15 2005 :: Sock.sinaddr:  67.141.242.105
+Mon Jan 24 20:10:16 2005 :: Loading Leah.
+Mon Jan 24 20:10:17 2005 :: Leah@67.141.242.105 has connected.
+Mon Jan 24 20:10:22 2005 :: Leah has quit.
+Read_from_descriptor: Connection timed out
+Mon Jan 24 20:28:03 2005 :: Closing link to Venus.
+Mon Jan 24 20:37:27 2005 :: Sock.sinaddr:  68.149.97.236
+Mon Jan 24 20:37:28 2005 :: Loading Raxin.
+Mon Jan 24 20:37:29 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Mon Jan 24 20:55:31 2005 :: Sock.sinaddr:  67.170.53.94
+Mon Jan 24 20:55:31 2005 :: Loading Venus.
+Mon Jan 24 20:55:32 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Mon Jan 24 21:23:09 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Mon Jan 24 21:23:09 2005 :: Raxin has quit.
+Mon Jan 24 21:23:18 2005 :: Sock.sinaddr:  68.149.97.236
+Mon Jan 24 21:23:19 2005 :: Loading Raxin.
+Mon Jan 24 21:23:20 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Mon Jan 24 21:25:26 2005 :: Loading Enzio.
+Mon Jan 24 21:25:27 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Mon Jan 24 21:45:12 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Mon Jan 24 21:45:12 2005 :: Raxin has quit.
+Mon Jan 24 21:45:25 2005 :: Sock.sinaddr:  68.149.97.236
+Mon Jan 24 21:47:38 2005 :: Log Enzio: cast summon Undead Creature Ghoul
+Mon Jan 24 21:47:40 2005 :: Log Enzio: cast summon Undead Creature Ghoul
+Mon Jan 24 21:52:31 2005 :: Enzio has quit.
+Mon Jan 24 21:52:38 2005 :: Sock.sinaddr:  66.93.33.134
+Mon Jan 24 21:52:42 2005 :: Loading Seclar.
+Mon Jan 24 21:52:42 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Mon Jan 24 21:56:25 2005 :: Loading Raxin.
+Mon Jan 24 21:56:26 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Mon Jan 24 22:01:09 2005 :: Sock.sinaddr:  66.93.33.134
+Mon Jan 24 22:01:13 2005 :: Loading Gecco.
+Mon Jan 24 22:01:14 2005 :: Gecco@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Mon Jan 24 22:01:27 2005 :: Log Gecco: snoop raxin
+Mon Jan 24 22:02:31 2005 :: Log Gecco: snoop self
+Mon Jan 24 22:12:43 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Mon Jan 24 22:20:07 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Mon Jan 24 22:40:07 2005 :: Sock.sinaddr:  69.240.65.225
+Mon Jan 24 22:40:11 2005 :: Loading Spatula.
+Mon Jan 24 22:40:15 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Mon Jan 24 22:51:17 2005 :: Seclar killed by a piercer at 23385
+Mon Jan 24 22:56:15 2005 :: Raxin has quit.
+Mon Jan 24 23:00:43 2005 :: Log Spatula: cast summon pope
+Mon Jan 24 23:03:39 2005 :: Log Spatula: cast summon applicant young drow
+Mon Jan 24 23:05:21 2005 :: EOF encountered on read.
+Mon Jan 24 23:05:21 2005 :: Closing link to Argon.
+Mon Jan 24 23:10:00 2005 :: Log Spatula: cast summon golem worker
+Mon Jan 24 23:13:59 2005 :: Sock.sinaddr:  65.206.46.218
+Mon Jan 24 23:14:24 2005 :: Loading Rinaldus.
+Mon Jan 24 23:14:25 2005 :: Rinaldus@65.206.46.218 has connected.
+Mon Jan 24 23:21:22 2005 :: Rinaldus has quit.
+Mon Jan 24 23:26:06 2005 :: Gecco has quit.
+Mon Jan 24 23:26:09 2005 :: Sock.sinaddr:  66.93.33.134
+Mon Jan 24 23:32:12 2005 :: Log Spatula: cast summon ballroom dancer man
+Mon Jan 24 23:32:21 2005 :: Log Spatula: cast summon ballroom dancer woman
+Mon Jan 24 23:42:47 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:42:50 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:42:52 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:42:55 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:43:01 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:43:03 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:43:06 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:43:09 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:43:12 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:43:15 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:43:20 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:43:32 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:34 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:43:37 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:40 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:43 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:45 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:43:48 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:51 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:43:57 2005 :: Log Spatula: cast summon dragon anarchy
+Mon Jan 24 23:43:59 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:44:02 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:44:05 2005 :: Log Spatula: cast summon anarchy dragon
+Mon Jan 24 23:44:08 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:10 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:13 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:16 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:19 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:22 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:24 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:27 2005 :: Log Spatula: cast summon lieutenant dragon
+Mon Jan 24 23:44:30 2005 :: Log Spatula: cast summon Raechalin
+Mon Jan 24 23:44:33 2005 :: Log Spatula: cast summon Gauzrah
+Mon Jan 24 23:44:35 2005 :: Log Spatula: cast summon Kringe
+Mon Jan 24 23:44:38 2005 :: Log Spatula: cast summon Arnog
+Mon Jan 24 23:44:41 2005 :: Log Spatula: cast summon Maaklan
+Mon Jan 24 23:44:44 2005 :: Log Spatula: cast summon Drakknar
+Mon Jan 24 23:44:47 2005 :: Log Spatula: cast summon Bazarnog bronze puppy
+Mon Jan 24 23:44:50 2005 :: Log Spatula: cast summon Barnok
+Mon Jan 24 23:44:53 2005 :: Log Spatula: cast summon virtue
+Mon Jan 24 23:44:56 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:44:58 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:45:01 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:45:07 2005 :: Log Spatula: cast summon dragon virtue
+Mon Jan 24 23:45:10 2005 :: Log Spatula: cast summon dragon virtue
+Write_to_descriptor: Resource temporarily unavailable
+Mon Jan 24 23:45:42 2005 :: Closing link to Spatula.
+Mon Jan 24 23:45:48 2005 :: Sock.sinaddr:  69.240.65.225
+Mon Jan 24 23:45:51 2005 :: Loading Spatula.
+Mon Jan 24 23:45:54 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net reconnected.
+Mon Jan 24 23:53:09 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Jan 24 23:53:09 2005 :: EOF encountered on read.
+Mon Jan 24 23:58:27 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Jan 25 00:00:12 2005 :: Log Spatula: cast summon bloody severed nose
+Tue Jan 25 00:12:16 2005 :: Log Spatula: cast summon bloody severed nose
+Tue Jan 25 00:15:04 2005 :: Log Spatula: cast summon sand man sandman
+Tue Jan 25 00:22:10 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Jan 25 00:22:14 2005 :: Loading Raxin.
+Tue Jan 25 00:22:15 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Jan 25 00:22:47 2005 :: Raxin has quit.
+Tue Jan 25 00:49:47 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Jan 25 00:49:49 2005 :: Loading Raxin.
+Tue Jan 25 00:49:51 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Jan 25 00:53:59 2005 :: Raxin has quit.
+Tue Jan 25 01:06:26 2005 :: Spatula killed by a gauntlet cleric  at 25308
+Tue Jan 25 01:07:31 2005 :: Log Spatula: cast summon ellen
+Tue Jan 25 01:31:44 2005 :: Log Spatula: cast summon bloody severed nose
+Tue Jan 25 02:15:18 2005 :: Seclar killed by Raechalin at 23270
+Write_to_descriptor: Resource temporarily unavailable
+Tue Jan 25 02:30:35 2005 :: Closing link to Venus.
+Tue Jan 25 02:30:38 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Jan 25 02:30:41 2005 :: Loading Venus.
+Tue Jan 25 02:30:41 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Write_to_descriptor: Resource temporarily unavailable
+Tue Jan 25 02:34:08 2005 :: Closing link to Venus.
+Tue Jan 25 02:34:11 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Jan 25 02:34:13 2005 :: Loading Venus.
+Tue Jan 25 02:34:13 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Jan 25 02:38:54 2005 :: Log Spatula: cast summon Sleepy Dwarven Student
+Tue Jan 25 03:13:40 2005 :: Spatula has quit.
+Tue Jan 25 03:31:23 2005 :: Sock.sinaddr:  204.209.44.14
+Tue Jan 25 03:31:23 2005 :: EOF encountered on read.
+Tue Jan 25 03:33:20 2005 :: c-67-170-53-94.client.comcast.net input spamming!
+Read_from_descriptor: Connection timed out
+Tue Jan 25 04:29:43 2005 :: Closing link to Venus.
+Tue Jan 25 04:52:59 2005 :: Seclar has quit.
+Tue Jan 25 04:53:12 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Jan 25 04:53:38 2005 :: EOF encountered on read.
+Tue Jan 25 05:12:24 2005 :: Sock.sinaddr:  67.71.78.160
+Read_from_descriptor: Connection reset by peer
+Tue Jan 25 07:33:57 2005 :: Sock.sinaddr:  65.170.3.132
+Tue Jan 25 07:34:05 2005 :: Loading Xion.
+Tue Jan 25 07:34:07 2005 :: Xion@mail.carpentercontractors.com has connected.
+Tue Jan 25 08:19:23 2005 :: [*****] BUG: Extract_obj: obj 10 not found.
+Tue Jan 25 08:19:23 2005 :: [*****] BUG: Extract_obj: obj 10 not found.
+Tue Jan 25 08:33:37 2005 :: mail.carpentercontractors.com input spamming!
+Tue Jan 25 08:42:45 2005 :: [*****] BUG: Extract_obj: obj 10 not found.
+Tue Jan 25 09:23:06 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Xion RVNUM: ] ref A009
+Tue Jan 25 09:23:06 2005 :: Xion has quit.
+Tue Jan 25 09:47:12 2005 :: Loading Seclar.
+Tue Jan 25 09:47:12 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Jan 25 09:54:57 2005 :: Seclar has quit.
+Tue Jan 25 09:55:17 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Jan 25 11:38:31 2005 :: Sock.sinaddr:  65.170.3.132
+Tue Jan 25 11:38:34 2005 :: Loading Ender.
+Tue Jan 25 11:38:35 2005 :: Ender@mail.carpentercontractors.com has connected.
+Tue Jan 25 11:40:07 2005 :: Ender has quit.
+Tue Jan 25 11:40:08 2005 :: Sock.sinaddr:  65.170.3.132
+Tue Jan 25 11:40:10 2005 :: Loading Xion.
+Tue Jan 25 11:40:11 2005 :: Xion@mail.carpentercontractors.com has connected.
+Tue Jan 25 11:43:54 2005 :: mail.carpentercontractors.com input spamming!
+Tue Jan 25 11:49:17 2005 :: mail.carpentercontractors.com input spamming!
+Tue Jan 25 12:09:05 2005 :: Sock.sinaddr:  168.224.1.14
+Tue Jan 25 12:09:50 2005 :: EOF encountered on read.
+Tue Jan 25 12:12:58 2005 :: Sock.sinaddr:  168.224.1.14
+Tue Jan 25 12:13:24 2005 :: mail.carpentercontractors.com input spamming!
+Tue Jan 25 12:50:20 2005 :: Sock.sinaddr:  4.237.53.26
+Tue Jan 25 12:50:24 2005 :: Loading Garet.
+Tue Jan 25 12:50:25 2005 :: Garet@dialup-4.237.53.26.Dial1.NewYork1.Level3.net has connected.
+Read_from_descriptor: Connection reset by peer
+Tue Jan 25 12:51:58 2005 :: Closing link to Garet.
+Tue Jan 25 12:52:03 2005 :: Sock.sinaddr:  4.237.53.26
+Tue Jan 25 12:52:21 2005 :: Loading Golddragon.
+Tue Jan 25 12:52:22 2005 :: Golddragon@dialup-4.237.53.26.Dial1.NewYork1.Level3.net has connected.
+Tue Jan 25 13:03:42 2005 :: Xion has quit.
+Tue Jan 25 13:07:05 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Garet RVNUM: ] ref A009
+Tue Jan 25 13:07:05 2005 :: Garet has quit.
+Tue Jan 25 13:12:48 2005 :: dialup-4.237.53.26.Dial1.NewYork1.Level3.net input spamming!
+Tue Jan 25 13:41:30 2005 :: Sock.sinaddr:  65.64.27.140
+Tue Jan 25 13:43:00 2005 :: Ashton@adsl-65-64-27-140.dsl.ltrkar.swbell.net new player.
+Tue Jan 25 13:49:02 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Jan 25 13:49:07 2005 :: Loading Venus.
+Tue Jan 25 13:49:07 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Jan 25 14:02:30 2005 :: Golddragon killed by {cA {WWhite {cDragon{x at 6719
+Tue Jan 25 14:03:45 2005 :: Golddragon has quit.
+Tue Jan 25 14:11:24 2005 :: EOF encountered on read.
+Tue Jan 25 14:11:24 2005 :: Closing link to Ashton.
+Tue Jan 25 14:11:28 2005 :: Sock.sinaddr:  65.64.27.140
+Tue Jan 25 14:11:34 2005 :: Loading Ashton.
+Tue Jan 25 14:11:36 2005 :: Ashton@adsl-65-64-27-140.dsl.ltrkar.swbell.net reconnected.
+Tue Jan 25 14:12:52 2005 :: Sock.sinaddr:  65.64.27.140
+Read_from_descriptor: Connection reset by peer
+Tue Jan 25 14:12:53 2005 :: Closing link to Ashton.
+Tue Jan 25 14:12:59 2005 :: Loading Ashton.
+Tue Jan 25 14:13:01 2005 :: Ashton@adsl-65-64-27-140.dsl.ltrkar.swbell.net reconnected.
+Tue Jan 25 14:15:24 2005 :: EOF encountered on read.
+Tue Jan 25 14:15:24 2005 :: Closing link to Ashton.
+Tue Jan 25 14:30:13 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Ashton RVNUM: ] ref A009
+Tue Jan 25 14:30:13 2005 :: Ashton has quit.
+Tue Jan 25 16:02:00 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Jan 25 16:02:02 2005 :: Loading Venus.
+Tue Jan 25 16:02:03 2005 :: Closing link to Venus.
+Tue Jan 25 16:02:03 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Jan 25 16:17:15 2005 :: Sock.sinaddr:  64.45.223.10
+Tue Jan 25 16:17:21 2005 :: Loading Xion.
+Tue Jan 25 16:17:22 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Tue Jan 25 17:10:56 2005 :: fl-64-45-223-10.dyn.sprint-hsd.net input spamming!
+Tue Jan 25 17:26:00 2005 :: Xion has quit.
+Tue Jan 25 17:28:16 2005 :: Sock.sinaddr:  139.55.227.108
+Tue Jan 25 17:28:17 2005 :: Loading Argon.
+Tue Jan 25 17:28:18 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Tue Jan 25 17:29:11 2005 :: EOF encountered on read.
+Tue Jan 25 17:29:11 2005 :: Closing link to Argon.
+Read_from_descriptor: Connection timed out
+Tue Jan 25 17:44:41 2005 :: Closing link to Venus.
+Tue Jan 25 18:21:16 2005 :: Sock.sinaddr:  64.45.223.10
+Tue Jan 25 18:22:16 2005 :: Loading Xion.
+Tue Jan 25 18:22:17 2005 :: Xion@64.45.223.10 has connected.
+Tue Jan 25 18:29:58 2005 :: Xion has quit.
+Tue Jan 25 18:32:45 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Jan 25 18:32:48 2005 :: Loading Spatula.
+Tue Jan 25 18:32:50 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Jan 25 18:38:27 2005 :: Log Spatula: cast summon bloody severed nose
+Tue Jan 25 18:59:55 2005 :: Sock.sinaddr:  67.38.174.177
+Tue Jan 25 18:59:55 2005 :: EOF encountered on read.
+Tue Jan 25 19:03:04 2005 :: Sock.sinaddr:  24.60.255.30
+Tue Jan 25 19:03:10 2005 :: Loading Zizka.
+Tue Jan 25 19:03:14 2005 :: Zizka@spartacussixeight.ne.client2.attbi.com has connected.
+Tue Jan 25 19:03:38 2005 :: Log Spatula: cast summon bloody severed nose
+Tue Jan 25 19:06:30 2005 :: Zizka has quit.
+Tue Jan 25 19:12:37 2005 :: Log Spatula: cast summon sand man sandman
+Tue Jan 25 19:27:57 2005 :: Log Spatula: cast summon baby beholder
+Tue Jan 25 19:32:34 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Jan 25 19:32:37 2005 :: Loading Raxin.
+Tue Jan 25 19:32:38 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Jan 25 19:47:28 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Tue Jan 25 19:47:28 2005 :: Raxin has quit.
+Tue Jan 25 19:47:40 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Jan 25 19:48:18 2005 :: Log Spatula: cast summon sand man sandman
+Tue Jan 25 20:00:40 2005 :: Sock.sinaddr:  66.222.216.154
+Tue Jan 25 20:00:58 2005 :: Loading Chame.
+Tue Jan 25 20:00:58 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Tue Jan 25 20:09:40 2005 :: Log Spatula: cast summon Raechalin
+Tue Jan 25 20:09:45 2005 :: Log Spatula: cast summon Kringe
+Tue Jan 25 20:09:48 2005 :: Log Spatula: cast summon Arnog
+Tue Jan 25 20:09:51 2005 :: Log Spatula: cast summon Maaklan
+Tue Jan 25 20:09:56 2005 :: Log Spatula: cast summon Bazarnog bronze puppy
+Tue Jan 25 20:09:59 2005 :: Log Spatula: cast summon Barnok
+Tue Jan 25 20:10:17 2005 :: EOF encountered on read.
+Tue Jan 25 20:19:26 2005 :: Spatula has quit.
+Tue Jan 25 20:19:29 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Jan 25 20:19:32 2005 :: Loading Ergo.
+Tue Jan 25 20:19:33 2005 :: Ergo@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Jan 25 20:51:41 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Jan 25 20:51:43 2005 :: Loading Venus.
+Tue Jan 25 20:51:44 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Jan 25 21:03:38 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Jan 25 21:03:40 2005 :: Loading Raxin.
+Tue Jan 25 21:03:41 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Jan 25 21:08:39 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Tue Jan 25 21:08:39 2005 :: Chame has quit.
+Tue Jan 25 21:08:51 2005 :: Sock.sinaddr:  66.222.216.154
+Tue Jan 25 21:17:14 2005 :: EOF encountered on read.
+Tue Jan 25 21:17:14 2005 :: Closing link to Raxin.
+Tue Jan 25 21:31:54 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Tue Jan 25 21:31:54 2005 :: Raxin has quit.
+Tue Jan 25 22:08:39 2005 :: Sock.sinaddr:  70.186.208.139
+Tue Jan 25 22:09:39 2005 :: Sock.sinaddr:  161.253.41.103
+Tue Jan 25 22:09:41 2005 :: Loading Dorian.
+Tue Jan 25 22:09:42 2005 :: Dorian@161.253.41.103 has connected.
+Tue Jan 25 22:10:47 2005 :: Towens@ip70-186-208-139.hr.hr.cox.net new player.
+Tue Jan 25 22:28:49 2005 :: Dorian has quit.
+Tue Jan 25 22:28:54 2005 :: EOF encountered on read.
+Tue Jan 25 22:28:54 2005 :: Closing link to Towens.
+Tue Jan 25 22:30:20 2005 :: Sock.sinaddr:  67.33.252.145
+Tue Jan 25 22:30:20 2005 :: EOF encountered on read.
+Tue Jan 25 22:30:47 2005 :: Sock.sinaddr:  67.134.52.120
+Tue Jan 25 22:30:47 2005 :: EOF encountered on read.
+Tue Jan 25 22:31:47 2005 :: Ergo has quit.
+Tue Jan 25 22:31:51 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Jan 25 22:31:54 2005 :: Loading Hocklar.
+Tue Jan 25 22:31:56 2005 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Jan 25 22:32:32 2005 :: Loading Seclar.
+Tue Jan 25 22:32:33 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Jan 25 22:37:00 2005 :: Log Hocklar: cast summon bloody severed nose
+Tue Jan 25 22:43:42 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Towens RVNUM: ] ref A009
+Tue Jan 25 22:43:42 2005 :: Towens has quit.
+Tue Jan 25 22:58:29 2005 :: Sock.sinaddr:  65.206.46.218
+Tue Jan 25 22:58:33 2005 :: Loading Rinaldus.
+Tue Jan 25 22:58:34 2005 :: Rinaldus@65.206.46.218 has connected.
+Tue Jan 25 23:05:16 2005 :: Hocklar has quit.
+Tue Jan 25 23:05:20 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Jan 25 23:05:23 2005 :: Loading Ergo.
+Tue Jan 25 23:05:25 2005 :: Ergo@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Jan 25 23:07:42 2005 :: Rinaldus has quit.
+Tue Jan 25 23:14:08 2005 :: Ergo has quit.
+Tue Jan 25 23:14:13 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Jan 25 23:14:16 2005 :: Loading Spatula.
+Tue Jan 25 23:14:18 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Jan 25 23:17:43 2005 :: Log Spatula: cast summon valerie witch
+Tue Jan 25 23:25:18 2005 :: Log Spatula: cast summon goblin thief
+Tue Jan 25 23:31:49 2005 :: Sock.sinaddr:  67.141.242.105
+Tue Jan 25 23:31:51 2005 :: Loading Lydia.
+Tue Jan 25 23:31:52 2005 :: Lydia@67.141.242.105 has connected.
+Write_to_descriptor: Resource temporarily unavailable
+Tue Jan 25 23:32:21 2005 :: Closing link to Lydia.
+Tue Jan 25 23:32:24 2005 :: Sock.sinaddr:  67.141.242.105
+Tue Jan 25 23:32:28 2005 :: Loading Lydia.
+Tue Jan 25 23:32:29 2005 :: Lydia@67.141.242.105 reconnected.
+Tue Jan 25 23:40:46 2005 :: [*****] BUG: Buffer overflow. Closing.
+
+Write_to_descriptor: Resource temporarily unavailable
+Tue Jan 25 23:40:46 2005 :: Closing link to Lydia.
+Tue Jan 25 23:40:56 2005 :: Sock.sinaddr:  67.141.242.105
+Tue Jan 25 23:40:57 2005 :: Loading Lydia.
+Tue Jan 25 23:40:57 2005 :: Lydia@67.141.242.105 reconnected.
+Tue Jan 25 23:42:29 2005 :: [*****] BUG: Buffer overflow. Closing.
+
+Write_to_descriptor: Resource temporarily unavailable
+Tue Jan 25 23:42:29 2005 :: Closing link to Lydia.
+Tue Jan 25 23:42:37 2005 :: Sock.sinaddr:  67.141.242.105
+Tue Jan 25 23:42:40 2005 :: Loading Lydia.
+Tue Jan 25 23:42:42 2005 :: Lydia@67.141.242.105 reconnected.
+Tue Jan 25 23:45:48 2005 :: Log Spatula: cast summon peasant
+Tue Jan 25 23:46:05 2005 :: Lydia has quit.
+Tue Jan 25 23:46:09 2005 :: Sock.sinaddr:  67.141.242.105
+Tue Jan 25 23:46:09 2005 :: Loading Lena.
+Tue Jan 25 23:46:11 2005 :: Lena@67.141.242.105 has connected.
+Tue Jan 25 23:50:19 2005 :: Log Spatula: cast summon kelly
+Tue Jan 25 23:50:38 2005 :: Lena killed by a gauntlet thief at 25307
+Tue Jan 25 23:51:41 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Jan 25 23:51:41 2005 :: EOF encountered on read.
+Tue Jan 25 23:55:41 2005 :: Log Spatula: cast summon Town Archer
+Tue Jan 25 23:59:08 2005 :: Log Venus: start dp 1 1 100
+Tue Jan 25 23:59:11 2005 :: Log Venus: start dp 1 1 100 1
+Tue Jan 25 23:59:19 2005 :: Log Venus: startdp 1 1 100 1
+Tue Jan 25 23:59:26 2005 :: [*****] BUG: Stop_follower: null master.
+Tue Jan 25 23:59:47 2005 :: Lena has quit.
+Wed Jan 26 00:00:02 2005 :: Log Venus: icon 100
+Wed Jan 26 00:00:10 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:00:34 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Jan 26 00:00:37 2005 :: Loading Raxin.
+Wed Jan 26 00:00:38 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Jan 26 00:01:14 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:04:19 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan 26 00:04:22 2005 :: Loading Argon.
+Wed Jan 26 00:04:22 2005 :: Closing link to Argon.
+Wed Jan 26 00:04:24 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan 26 00:04:27 2005 :: Loading Argon.
+Wed Jan 26 00:04:29 2005 :: Argon@c-67-170-53-94.client.comcast.net reconnected.
+Wed Jan 26 00:04:39 2005 :: Log Argon: advance venus 500
+Wed Jan 26 00:04:47 2005 :: Log Venus: icon 100
+Wed Jan 26 00:05:05 2005 :: Log Argon: advance venus 500
+Wed Jan 26 00:05:10 2005 :: Log Venus: icon 500
+Wed Jan 26 00:05:29 2005 :: Argon has quit.
+Wed Jan 26 00:06:34 2005 :: Log Venus: startdp 1 1 100 1
+Wed Jan 26 00:06:56 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:08:41 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:10:47 2005 :: EOF encountered on read.
+Wed Jan 26 00:10:47 2005 :: Closing link to Raxin.
+Wed Jan 26 00:13:13 2005 :: Log Venus: startdp 1 1 100 1
+Wed Jan 26 00:13:16 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:13:20 2005 :: Log Venus: icon 51
+Wed Jan 26 00:13:23 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:14:12 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan 26 00:14:18 2005 :: Loading Argon.
+Wed Jan 26 00:14:20 2005 :: Argon@c-67-170-53-94.client.comcast.net has connected.
+Wed Jan 26 00:14:31 2005 :: Log Argon: mset venus class war
+Wed Jan 26 00:15:05 2005 :: Log Argon: mset venus class thief
+Wed Jan 26 00:17:05 2005 :: Log Argon: startdp 1 1 100 1
+Wed Jan 26 00:17:12 2005 :: Log Argon: dpit stop
+Wed Jan 26 00:17:26 2005 :: Log Argon: dpit stop
+Wed Jan 26 00:17:28 2005 :: Log Argon: startdp 1 1 100 1
+Wed Jan 26 00:17:31 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:17:35 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Jan 26 00:21:21 2005 :: Log Argon: advance venus 500
+Wed Jan 26 00:21:25 2005 :: Log Venus: icon 500
+Wed Jan 26 00:22:01 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Wed Jan 26 00:22:01 2005 :: Raxin has quit.
+Wed Jan 26 00:22:46 2005 :: Argon has quit.
+Wed Jan 26 00:23:28 2005 :: Sock.sinaddr:  67.119.106.217
+Wed Jan 26 00:23:31 2005 :: EOF encountered on read.
+Wed Jan 26 00:23:38 2005 :: Log Spatula: cast summon Seclar
+Wed Jan 26 00:31:03 2005 :: Log Spatula: cast summon Seclar
+Wed Jan 26 00:50:26 2005 :: Log Spatula: cast summon Seclar
+Wed Jan 26 00:52:21 2005 :: Sock.sinaddr:  65.131.10.82
+Wed Jan 26 00:52:26 2005 :: Loading Odeon.
+Wed Jan 26 00:52:28 2005 :: Odeon@0-2pool10-82.nas44.newark2.nj.us.da.qwest.net has connected.
+Wed Jan 26 01:00:06 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 01:00:10 2005 :: Loading Seclar.
+Wed Jan 26 01:00:12 2005 :: Closing link to Seclar.
+Wed Jan 26 01:00:12 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Wed Jan 26 01:04:45 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 01:04:52 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 01:05:41 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 01:07:58 2005 :: Log Spatula: cast summon Seclar
+Wed Jan 26 01:11:53 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:11:56 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:11:58 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:04 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:10 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:12 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:15 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:18 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:21 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:23 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:26 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:12:29 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:32 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:35 2005 :: Odeon has quit.
+Wed Jan 26 01:12:37 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:40 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:43 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:12:54 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:12:56 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:12:59 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:02 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:05 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:07 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:10 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:13 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:13:16 2005 :: Log Spatula: cast summon Raechalin
+Wed Jan 26 01:13:21 2005 :: Log Spatula: cast summon Kringe
+Wed Jan 26 01:13:24 2005 :: Log Spatula: cast summon Arnog
+Wed Jan 26 01:13:27 2005 :: Log Spatula: cast summon Maaklan
+Wed Jan 26 01:13:29 2005 :: Log Spatula: cast summon Drakknar
+Wed Jan 26 01:13:32 2005 :: Log Spatula: cast summon Bazarnog bronze puppy
+Wed Jan 26 01:13:35 2005 :: Log Spatula: cast summon Barnok
+Wed Jan 26 01:38:48 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:38:51 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:38:54 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:38:56 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:39:00 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:39:03 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:39:05 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:08 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:11 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:14 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 01:39:16 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:19 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:22 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:25 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:27 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:39:30 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 01:40:01 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:40:04 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 01:54:48 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 02:09:35 2005 :: Log Spatula: cast summon virtue
+Wed Jan 26 02:09:38 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 02:09:40 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 02:09:43 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 02:09:46 2005 :: Log Spatula: cast summon dragon virtue
+Wed Jan 26 02:10:05 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 02:10:08 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 02:10:11 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 02:10:13 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 02:10:19 2005 :: Log Spatula: cast summon lieutenant dragon
+Wed Jan 26 02:20:53 2005 :: Log Spatula: cast summon Ice Screamer
+Wed Jan 26 02:28:57 2005 :: Log Spatula: cast summon drakyri treniste rodwen ira'deia girl
+Wed Jan 26 02:42:21 2005 :: Log Spatula: cast summon babbling sculptor
+Wed Jan 26 02:56:04 2005 :: Spatula has quit.
+Wed Jan 26 03:03:09 2005 :: Log Venus: snoop seclar
+Wed Jan 26 03:07:58 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:05 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:11 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:17 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:23 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:30 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:36 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:42 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:08:48 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:17:16 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:07 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:20 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:26 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:33 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:39 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:20:45 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:25:39 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Jan 26 03:29:50 2005 :: Seclar has quit.
+Wed Jan 26 03:29:53 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 03:33:21 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Jan 26 03:33:23 2005 :: EOF encountered on read.
+Wed Jan 26 04:58:05 2005 :: Sock.sinaddr:  67.213.30.61
+Wed Jan 26 04:58:06 2005 :: EOF encountered on read.
+Wed Jan 26 07:29:27 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 07:29:51 2005 :: Loading Xion.
+Wed Jan 26 07:29:52 2005 :: Xion@mail.carpentercontractors.com has connected.
+Read_from_descriptor: Connection timed out
+Wed Jan 26 07:47:54 2005 :: Closing link to Venus.
+Wed Jan 26 08:35:06 2005 :: mail.carpentercontractors.com input spamming!
+Wed Jan 26 08:56:38 2005 :: mail.carpentercontractors.com input spamming!
+Wed Jan 26 09:20:29 2005 :: mail.carpentercontractors.com input spamming!
+Wed Jan 26 09:54:24 2005 :: Loading Seclar.
+Wed Jan 26 09:54:24 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan 26 09:55:01 2005 :: Seclar has quit.
+Wed Jan 26 09:55:19 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 09:55:32 2005 :: mail.carpentercontractors.com input spamming!
+Wed Jan 26 10:07:06 2005 :: Loading Enzio.
+Wed Jan 26 10:07:06 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan 26 10:15:16 2005 :: Enzio has quit.
+Wed Jan 26 10:15:18 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 10:29:44 2005 :: Sock.sinaddr:  82.19.174.14
+Wed Jan 26 10:29:59 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Xion RVNUM: ] ref A009
+Wed Jan 26 10:29:59 2005 :: Xion has quit.
+Wed Jan 26 10:31:56 2005 :: Dread@cpc3-leic8-3-0-cust14.leic.cable.ntl.com new player.
+Wed Jan 26 10:32:46 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 10:32:49 2005 :: Loading Lacinated.
+Wed Jan 26 10:32:50 2005 :: Lacinated@mail.carpentercontractors.com has connected.
+Wed Jan 26 10:34:51 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 10:35:14 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 10:35:23 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 10:42:05 2005 :: EOF encountered on read.
+Wed Jan 26 10:42:05 2005 :: Closing link to Dread.
+Wed Jan 26 10:45:26 2005 :: Lacinated has quit.
+Wed Jan 26 10:45:26 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 10:45:29 2005 :: Loading Xion.
+Wed Jan 26 10:45:30 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Jan 26 10:49:11 2005 :: Sock.sinaddr:  129.71.56.39
+Wed Jan 26 10:49:23 2005 :: Loading Serpterion.
+Wed Jan 26 10:49:28 2005 :: Serpterion@scn56039.shepherd.edu has connected.
+Wed Jan 26 10:57:11 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Dread RVNUM: ] ref A009
+Wed Jan 26 10:57:11 2005 :: Dread has quit.
+Wed Jan 26 11:05:52 2005 :: Sock.sinaddr:  65.206.46.218
+Wed Jan 26 11:05:55 2005 :: Loading Rinaldus.
+Wed Jan 26 11:05:55 2005 :: Rinaldus@65.206.46.218 has connected.
+Wed Jan 26 11:08:14 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Xion RVNUM: ] ref A009
+Wed Jan 26 11:08:14 2005 :: Xion has quit.
+Wed Jan 26 11:09:12 2005 :: Rinaldus has quit.
+Wed Jan 26 12:33:55 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 12:34:01 2005 :: Loading Xion.
+Wed Jan 26 12:34:43 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Jan 26 12:42:11 2005 :: Serpterion killed by Tariq, Prince of the Kingdom of Darkness at 10618
+Wed Jan 26 12:44:37 2005 :: EOF encountered on read.
+Wed Jan 26 12:44:37 2005 :: Closing link to Xion.
+Wed Jan 26 12:44:58 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 12:45:11 2005 :: Loading Xion.
+Wed Jan 26 12:45:12 2005 :: Xion@mail.carpentercontractors.com reconnected.
+Wed Jan 26 12:47:32 2005 :: EOF encountered on read.
+Wed Jan 26 12:47:32 2005 :: Closing link to Xion.
+Wed Jan 26 12:50:12 2005 :: scn56039.shepherd.edu input spamming!
+Wed Jan 26 13:02:23 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Xion RVNUM: ] ref A009
+Wed Jan 26 13:02:23 2005 :: Xion has quit.
+Wed Jan 26 13:04:50 2005 :: Sock.sinaddr:  67.141.243.227
+Wed Jan 26 13:04:51 2005 :: Loading Lydia.
+Wed Jan 26 13:04:52 2005 :: Lydia@67.141.243.227 has connected.
+Wed Jan 26 13:04:56 2005 :: Lydia has quit.
+Wed Jan 26 13:16:03 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 13:16:06 2005 :: Loading Xion.
+Wed Jan 26 13:16:07 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Jan 26 13:36:36 2005 :: scn56039.shepherd.edu input spamming!
+Wed Jan 26 13:37:49 2005 :: Xion has quit.
+Wed Jan 26 13:40:50 2005 :: Serpterion has quit.
+Wed Jan 26 13:52:28 2005 :: Sock.sinaddr:  134.39.114.77
+Wed Jan 26 13:52:35 2005 :: Loading Venus.
+Wed Jan 26 13:52:36 2005 :: Venus@134.39.114.77 reconnected.
+Wed Jan 26 13:53:25 2005 :: Venus has quit.
+Wed Jan 26 13:56:21 2005 :: Sock.sinaddr:  62.131.174.210
+Wed Jan 26 13:56:26 2005 :: Loading Hypernova.
+Wed Jan 26 13:56:27 2005 :: Hypernova@ip3e83aed2.speed.planet.nl has connected.
+Wed Jan 26 14:05:06 2005 :: Sock.sinaddr:  65.206.46.218
+Wed Jan 26 14:05:09 2005 :: Loading Rinaldus.
+Wed Jan 26 14:05:11 2005 :: Rinaldus@65.206.46.218 has connected.
+Wed Jan 26 14:05:48 2005 :: Rinaldus has quit.
+Wed Jan 26 14:06:35 2005 :: Hypernova has quit.
+Wed Jan 26 14:22:55 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 14:22:57 2005 :: Loading Xion.
+Wed Jan 26 14:22:58 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Jan 26 14:23:29 2005 :: Xion has quit.
+Wed Jan 26 14:32:31 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Jan 26 14:32:34 2005 :: Loading Xion.
+Wed Jan 26 14:32:35 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Jan 26 15:07:31 2005 :: Sock.sinaddr:  65.206.46.218
+Wed Jan 26 15:07:34 2005 :: Loading Rinaldus.
+Wed Jan 26 15:07:35 2005 :: Rinaldus@65.206.46.218 has connected.
+Wed Jan 26 15:08:22 2005 :: Rinaldus has quit.
+Wed Jan 26 15:24:56 2005 :: EOF encountered on read.
+Wed Jan 26 15:29:01 2005 :: Sock.sinaddr:  69.220.149.242
+Wed Jan 26 15:29:03 2005 :: Loading Mythril.
+Wed Jan 26 15:29:03 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Wed Jan 26 15:37:11 2005 :: Sock.sinaddr:  65.206.46.218
+Wed Jan 26 15:37:13 2005 :: Loading Rinaldus.
+Wed Jan 26 15:37:14 2005 :: Rinaldus@65.206.46.218 has connected.
+Wed Jan 26 15:37:20 2005 :: Rinaldus has quit.
+Wed Jan 26 15:54:21 2005 :: Mythril has quit.
+Wed Jan 26 16:33:29 2005 :: Xion has quit.
+Wed Jan 26 16:54:09 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan 26 16:54:12 2005 :: Loading Spatula.
+Wed Jan 26 16:54:15 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Jan 26 17:03:49 2005 :: Log Spatula: cast summon pixie guard
+Wed Jan 26 17:10:22 2005 :: Sock.sinaddr:  64.45.223.10
+Wed Jan 26 17:10:35 2005 :: Loading Xion.
+Wed Jan 26 17:10:36 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Wed Jan 26 17:16:45 2005 :: Xion has quit.
+Wed Jan 26 17:24:06 2005 :: Log Spatula: cast summon spider young
+Wed Jan 26 17:32:34 2005 :: Log Spatula: cast summon Barnok
+Wed Jan 26 17:34:37 2005 :: Sock.sinaddr:  64.45.223.10
+Wed Jan 26 17:34:40 2005 :: Loading Xion.
+Wed Jan 26 17:34:41 2005 :: Xion@fl-64-45-223-10.dyn.sprint-hsd.net has connected.
+Wed Jan 26 17:35:13 2005 :: Xion has quit.
+Wed Jan 26 17:38:39 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan 26 17:38:43 2005 :: Loading Venus.
+Wed Jan 26 17:38:43 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Wed Jan 26 18:01:03 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:01:03 2005 :: [*****] BUG: location = 25
+Wed Jan 26 18:01:03 2005 :: [*****] BUG: type = -1
+Wed Jan 26 18:01:03 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:01:03 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:01:42 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:01:57 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:02:52 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Jan 26 18:16:12 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Wed Jan 26 18:16:58 2005 :: Log Spatula: cast summon dick guard
+Wed Jan 26 18:24:27 2005 :: Sock.sinaddr:  67.134.52.120
+Wed Jan 26 18:24:27 2005 :: EOF encountered on read.
+Wed Jan 26 18:34:38 2005 :: Sock.sinaddr:  65.206.46.218
+Wed Jan 26 18:34:57 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:34:58 2005 :: Loading Rinaldus.
+Wed Jan 26 18:34:59 2005 :: Rinaldus@65.206.46.218 has connected.
+Wed Jan 26 18:35:00 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:02 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:08 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:11 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:13 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:16 2005 :: Log Spatula: cast summon Draconian Villager
+Wed Jan 26 18:35:33 2005 :: Rinaldus has quit.
+Wed Jan 26 18:36:10 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:13 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:16 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:18 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:21 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:24 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:27 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:29 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:32 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:35 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:38 2005 :: Log Spatula: cast summon anarchy dragon
+Wed Jan 26 18:36:40 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:36:43 2005 :: Log Spatula: cast summon dragon anarchy
+Wed Jan 26 18:43:27 2005 :: Log Spatula: cast summon baby beholder
+Wed Jan 26 19:03:27 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan 26 19:03:28 2005 :: Loading Venus.
+Wed Jan 26 19:03:29 2005 :: Closing link to Venus.
+Wed Jan 26 19:03:29 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Jan 26 19:31:06 2005 :: Sock.sinaddr:  24.60.255.30
+Wed Jan 26 19:31:18 2005 :: Loading Zizka.
+Wed Jan 26 19:31:20 2005 :: Zizka@spartacussixeight.ne.client2.attbi.com has connected.
+Wed Jan 26 19:31:43 2005 :: Log Spatula: cast summon old lady
+Wed Jan 26 19:31:47 2005 :: Zizka has quit.
+Wed Jan 26 19:39:49 2005 :: Log Spatula: cast summon crossbowman
+Read_from_descriptor: Connection timed out
+Wed Jan 26 19:48:57 2005 :: Closing link to Venus.
+Wed Jan 26 20:34:40 2005 :: Log Spatula: cast summon golem worker
+Wed Jan 26 20:52:23 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Jan 26 20:52:35 2005 :: Loading Raxin.
+Wed Jan 26 20:52:36 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Jan 26 20:53:41 2005 :: Raxin has quit.
+Wed Jan 26 20:55:37 2005 :: Spatula killed by a gauntlet cleric  at 25308
+Wed Jan 26 20:56:07 2005 :: Log Spatula: cast summon thief guildguard
+Wed Jan 26 20:56:15 2005 :: Log Spatula: cast summon mage guildguard
+Wed Jan 26 21:23:20 2005 :: Spatula has quit.
+Wed Jan 26 21:23:24 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan 26 21:23:29 2005 :: Loading Stumpy.
+Wed Jan 26 21:23:31 2005 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Jan 26 21:32:47 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Wed Jan 26 21:34:44 2005 :: Log Stumpy: cast summon bloody severed nose
+Wed Jan 26 21:49:40 2005 :: Loading Enzio.
+Wed Jan 26 21:49:41 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan 26 21:55:44 2005 :: Log Enzio: cast summon lieutenant dragon
+Wed Jan 26 22:08:03 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Jan 26 22:08:05 2005 :: Loading Raxin.
+Wed Jan 26 22:08:06 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Jan 26 22:31:05 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Wed Jan 26 22:31:05 2005 :: Raxin has quit.
+Wed Jan 26 22:45:04 2005 :: Stumpy has quit.
+Wed Jan 26 22:45:10 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan 26 22:45:13 2005 :: Loading Spatula.
+Wed Jan 26 22:45:15 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Jan 26 22:50:38 2005 :: Sock.sinaddr:  139.55.227.108
+Wed Jan 26 22:50:38 2005 :: Loading Argon.
+Wed Jan 26 22:50:39 2005 :: Argon@h139-055-227-108.adsl.navix.net has connected.
+Wed Jan 26 22:58:30 2005 :: Log Spatula: cast summon white statue dreamer
+Wed Jan 26 23:01:32 2005 :: Log Spatula: cast summon sand man sandman
+Wed Jan 26 23:11:12 2005 :: Log Enzio: cast summon golem stone
+Wed Jan 26 23:13:25 2005 :: Log Argon: snoop spat
+Wed Jan 26 23:15:16 2005 :: Log Argon: snoop self
+Wed Jan 26 23:15:49 2005 :: Log Argon: snoop spat
+Wed Jan 26 23:16:13 2005 :: Spatula killed by a gauntlet cleric  at 25308
+Wed Jan 26 23:16:24 2005 :: Log Argon: snoop self
+Wed Jan 26 23:17:37 2005 :: Enzio killed by a gauntlet warrior at 25303
+Wed Jan 26 23:19:25 2005 :: Spatula has quit.
+Wed Jan 26 23:19:28 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan 26 23:19:35 2005 :: Loading Hocklar.
+Wed Jan 26 23:19:37 2005 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Jan 26 23:23:23 2005 :: Hocklar killed by a gauntlet paladin at 25309
+Wed Jan 26 23:29:24 2005 :: Log Argon: snoop enzio
+Wed Jan 26 23:29:40 2005 :: Hocklar killed by a Statue of Argon at 3062
+Wed Jan 26 23:29:54 2005 :: Log Argon: snoop self
+Wed Jan 26 23:31:40 2005 :: Enzio killed by a gauntlet mage at 25306
+Wed Jan 26 23:37:11 2005 :: Sock.sinaddr:  67.141.243.227
+Wed Jan 26 23:37:17 2005 :: Loading Leah.
+Wed Jan 26 23:37:17 2005 :: Leah@67.141.243.227 has connected.
+Wed Jan 26 23:39:46 2005 :: Leah has quit.
+Write_to_descriptor: Resource temporarily unavailable
+Wed Jan 26 23:40:14 2005 :: Closing link to Hocklar.
+Write_to_descriptor: Resource temporarily unavailable
+Wed Jan 26 23:40:14 2005 :: Closing link to Argon.
+Write_to_descriptor: Resource temporarily unavailable
+Wed Jan 26 23:40:14 2005 :: Closing link to Enzio.
+Wed Jan 26 23:40:17 2005 :: Sock.sinaddr:  139.55.227.108
+Wed Jan 26 23:40:17 2005 :: Loading Argon.
+Wed Jan 26 23:40:18 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Wed Jan 26 23:40:18 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 23:40:19 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan 26 23:40:21 2005 :: Loading Hocklar.
+Wed Jan 26 23:40:23 2005 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net reconnected.
+Wed Jan 26 23:40:26 2005 :: Loading Enzio.
+Wed Jan 26 23:40:26 2005 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Wed Jan 26 23:45:36 2005 :: Log Argon: bonus all 200 qp
+Wed Jan 26 23:46:08 2005 :: Enzio has quit.
+Wed Jan 26 23:46:11 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan 26 23:46:27 2005 :: Loading Seclar.
+Wed Jan 26 23:46:27 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan 26 23:51:45 2005 :: Sock.sinaddr:  66.222.216.154
+Wed Jan 26 23:51:49 2005 :: Loading Chame.
+Wed Jan 26 23:51:49 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Wed Jan 26 23:55:28 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Jan 26 23:55:29 2005 :: EOF encountered on read.
+Wed Jan 26 23:58:17 2005 :: Log Hocklar: cast summon bloody severed nose

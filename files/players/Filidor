@@ -1,0 +1,519 @@
+#PLAYER
+Name Filidor~
+Id   1159453513
+LogO 1160447855
+Vers 5
+Desc ...
+~
+Prom %h/%Hhp %m/%Mmn %v/%Vmv %gg %Xtnl %K ~
+Race Human~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 39
+OldLvl 39
+Sec  0
+Plyd 31450
+Scro 33
+Room 3054
+HMV  712 712 200 200 448 448
+Gold 1881
+Silv 64583
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 39
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  39094
+QuestPnts 25
+PAct  CDFGHTd
+AfBy V
+WName Filidor~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 36
+Trai 24
+Save  -1
+Alig  -1000
+Hit   40
+Dam   36
+ACs -41 -42 -40 11
+Attr 16 18 17 18 13
+AMod 5 2 4 10 6
+Pass FiptmIAW5SLqw~
+Titl  {R12+1=11+2~
+Pnts 40
+TSex 1
+PSize 2
+LLev 8
+HMVP 431 200 328
+Cnd  0 0 0 0
+Boards       4 General 1160010730 Ideas 1158582947 Announce 0 Personal 0 
+Sk 95 'dagger'
+Sk 76 'backstab'
+Sk 82 'circle'
+Sk 80 'dodge'
+Sk 1 'trip'
+Sk 80 'second attack'
+Sk 1 'hide'
+Sk 13 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'haste'   0  20  -1   2   2    2097152
+Affc 'enhanced strength'   0  93  52  15   1          0
+Affc 'flesh armor'   0  95  52 -20  17          0
+Affc 'flesh armor'   3  92  52   0   0         32
+Affc 'flesh armor'   3  87  52   0   0         64
+Affc 'adrenaline control'   0  92  47  12   2          0
+Affc 'adrenaline control'   0  87  47  12   5          0
+Affc 'adrenaline control'   3  87  47   0   0         16
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 621
+Nest 0
+Cond 0
+Wear 5
+Cost 2400
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 14214
+Nest 1
+Cond 0
+Wear -1
+Cost 600
+Val  2 3 7 11 65
+Affc 'pflame blade'   5   0  -1   0   0          1
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 369
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 736
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 622
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 432
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 517
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 702
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 660
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 605
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 564
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 616
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 723
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 495
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 816
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 825
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 596
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 357
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 722
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 501
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 449
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 588
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 15165
+Nest 0
+Cond 0
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 0
+Name dagger fiery Stumpy~
+ExtF 65
+Cond 0
+Wear 16
+Lev  30
+Cost 2800
+Val  2 8 5 11 93
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 31243
+Nest 0
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#END

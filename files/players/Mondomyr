@@ -1,0 +1,497 @@
+#PLAYER
+Name Mondomyr~
+Id   1089590439
+LogO 1091305818
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Titan~
+Sex  1
+Cla  1
+OCla -1
+Levl 13
+OldLvl 13
+Sec  0
+Plyd 22627
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  103 126 47 175 85 172
+Gold 113
+Silv 4861
+Gold_bank 100
+Silv_bank 0
+Shares 0
+Share_level 13
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  19643
+PAct  DEFGQTd
+AfBy Jc
+Empower  0
+WName Mondomyr~
+Comm NO
+Deaf DP
+Pos  8
+Alig  0
+Hit   22
+Dam   25
+ACs -30 -28 -31 34
+Wimp  20
+Attr 21 18 22 15 15
+AMod 2 0 0 0 0
+Pass MoWO3g8s61AsE~
+Titl , who is way TOO BIG for his britches!~
+Pnts 50
+TSex 1
+PSize 5
+LLev 5
+HMVP 126 175 172
+Cnd  0 0 0 0
+Alias c cast 'cure light'~
+Alias r recall~
+Alias z cast 'cause light'~
+Alias cc cast 'cure serious'~
+Alias cs cast 'cause serious'~
+Alias f flee~
+Alias bd cast 'blindness'~
+Sk 77 'cure light'
+Sk 1 'change sex'
+Sk 75 'cause light'
+Sk 75 'bless'
+Sk 1 'cause serious'
+Sk 75 'cure serious'
+Sk 75 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cause critical'
+Sk 1 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'harm'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 73 'armor'
+Sk 75 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 19 'continual light'
+Sk 19 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 21 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'weaken'
+Sk 77 'mace'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 75 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Affc 'armor'   0  12   6 -20  17          0
+Affc 'infravision'   0  10  10   0   0        512
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 152 0 0 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear -1
+Time 633
+Cost 0
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 0
+Wear -1
+Cost 390
+End
+
+#O
+Vnum 3163
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 6515
+Enchanted
+Nest 0
+ExtF 69
+Cond 0
+Wear 16
+Lev  11
+Cost 500
+Affc 'enchant weapon'   0  60  -1  15  18          0
+Affc 'enchant weapon'   1  60  -1   8  19          0
+Affc 'reserved'   1  10  -1   5  18          0
+Affc 'reserved'   1  10  -1   4  19          0
+Affc 'reserved'   1  10  -1   2   1          0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 0 0 0 0
+End
+
+#O
+Vnum 616
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3501
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Time 903
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Time 560
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3077
+Nest 0
+Cond 0
+Wear 10
+Cost 420
+End
+
+#O
+Vnum 3502
+Nest 0
+Cond 0
+Wear 6
+Cost 490
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3072
+Nest 0
+Cond 0
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 11696
+Nest 0
+ShD  a blanket of dark owl feathers~
+Cond 0
+Wear 17
+Cost 5500
+End
+
+#O
+Vnum 15714
+Nest 0
+Cond 0
+Wear 5
+Cost -900
+End
+
+#END

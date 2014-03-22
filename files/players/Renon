@@ -1,0 +1,80 @@
+#PLAYER
+Name Renon~
+Id   1092345174
+LogO 1092678186
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  6
+OCla -1
+Levl 4
+OldLvl 4
+Sec  0
+Plyd 2434
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  56 56 107 107 118 118
+Gold 3
+Silv 1805
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 4
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  4391
+PAct  QTd
+Empower  0
+WName Renon~
+Comm NO
+Deaf DP
+Pos  8
+Prac 10
+Trai 6
+Save  -31
+Alig  1000
+Hit   67
+Dam   5
+ACs 63 63 63 63
+Attr 18 15 15 15 14
+AMod 0 0 0 0 0
+Pass Rep1brDCTdj6Y~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 56 107 118
+Cnd  0 0 9 9
+Sk 1 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 40 'sword'
+Sk 1 'kick'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+Affc 'combat mind'   0  25   7   5  19          0
+Affc 'combat mind'   0  25   7 -17  17          0
+Affc 'combat mind'   0  24   7   5  18          0
+Affc 'armor'   0 250  79 -20  17          0
+Affc 'bless'   0 246 105  62  18          0
+Affc 'bless'   0 244 105 -31  20          0
+End
+
+#END

@@ -1,0 +1,5108 @@
+#HELPS
+
+0 BRIEF COMPACT~
+{b
+***************************************
+{r
+Brief and compact help set your display
+options for the game. Typing brief 
+toggles on and off the showing of room
+descriptions when you move around
+(considerably reducing the text to be 
+processed), and typing compact removes
+the extra blank line before your prompt.
+{b
+***************************************{x
+~
+
+-1 DEAF~
+{b
+***************************************
+{r
+The deaf toggle turns off incoming tells,
+helpful if you are being bombarded by
+messages from other players.  You can
+still use reply to reply to people who 
+were telling you before you went deaf,
+although you cannot reply to a deaf
+person unless you or they are a diety
+(it's mostly useful for sending a quick
+"I'm being spammed so I went deaf" 
+message to a person).
+{b
+***************************************{x
+~
+
+-1 PROMPT~
+{GSyntax{w: {WPROMPT {cor {WPROMPT ALL {cor {WPROMPT {c< {WVARIABLES {C({Wsee below{C) {c>
+ 
+{GPROMPT {Wwith out an argument will turn your prompt on or off.
+{GPROMPT ALL{W will give you the standard prompt of{x:
+
+     {W" {c< {rHP{w: HITs  {MMana{w: MANA  {gMove{w: MOVE  {BTNL{w: Exp {c>{x  %K%c{W::{x {W"
+
+         {c( {WThe equivilent of using  {G%h  %m  %v  %X  %K {c){x
+
+{GPROMPT %* {Wwhere the %* are the various variables you may set yourself.
+        %h :  Display your current hits
+        %H :  Display your maximum hits
+        %m :  Display your current mana
+        %M :  Display your maximum mana
+        %v :  Display your current moves
+        %V :  Display your maximum moves
+        %x :  Display your current experience
+	%X :  Display experience to level
+        %g :  Display your gold held
+	%s :  Display silver carried
+   
+        %r :  Display the room name you are in
+	%e :  Display the exits from the room in NESWDU style
+	%c :  Display a carriage return (useful for multi-line prompts)
+        %R :  Display the vnum you are in (IMMORTAL ONLY)
+        %z :  Display the area name you are in (IMMORTAL ONLY)
+        {B%K :  Display your TARGETs HP remianing in percentage form.
+              (%K added to your prompt adds the following:
+               {cTarget{w: {c[{G100{x%{c]  {B)
+              This only appears WHEN you are in combat.  When not in combat
+              it is blank.{x
+ 
+{MExample{w:  {WPROMPT <%hhp %mm %vmv>
+          Will set your prompt to "<10hp 100m 100mv>"{x
+ 
+~
+
+-1 SUMMARY~
+MOVEMENT                            GROUP
+north south east west up            follow group gtell split
+northeast northwest down
+southeast southwest
+exits sleep wake rest stand
+
+OBJECTS                             INFORMATION / COMMUNICATION
+get put drop give sacrifice         help credits commands areas
+junk wear wield hold sell           report score time where who
+recite quaff zap brandish           description password title
+lock unlock open close              idea chat vent RP say tell
+inventory equipment look            yell emote pose note slookup
+eat drink fill list buy 
+
+COMBAT                              OTHER
+kill hit flee cast wimp             ! save quit practice train  
+surrender                          
+
+
+For more help, type 'help <topic>' for any command, skill, or spell.
+Also help on: DAMAGE DEATH EXPERIENCE NEWS STORY TICK WIZLIST
+~
+
+0 PET PETS~
+{b
+***************************************
+{r
+You can buy pets in various pet stores
+throughout the realm. You may own only
+one pet at a time, after the old one
+dies you may purchase a replacement.
+Pets may also be obtained through skills
+and spells such as CHARM and COMPANION.
+{b
+***************************************{x
+~
+
+0 TICK~
+{b
+***************************************
+{r
+Many of the game actions are based upon
+interval timers,including combat, most
+autonomous monster actions,hp/mana/move
+regeneration, spell duration, weather, 
+and area resetting.
+
+Of these timers, the hp/mana/move
+regeneration timer is popularly called
+the 'tick'.  Ticks on this mud average
+30 seconds of real time, but the actual
+amount varies randomly from 15 seconds
+to 45 seconds.
+
+Area resetting happens roughly every
+3 minutes if no one is in the area;
+less often (15 minutes) if some one is.
+Also note that objects lying on the
+ground will not be regenerated if anyone
+is in the area when it resets.
+{b
+***************************************{x
+~
+
+0 CAST~
+{b            ******************************************
+{r
+                 Syntax: cast <spell> <target>
+{r
+       Before you can cast a spell, you have to practice it.
+           The more you practice, the higher chance you 
+      have of success when casting.  Casting spells costs mana.
+           The mana cost decreases as your level increases.
+{r
+              The <target> is optional.  Many spells 
+                  which need targets will use an
+        appropriate default target, especially during combat.
+{r
+           If the spell name is more than one word, then 
+                 you must quote ( ' )the spell name.
+{C                  
+                 Example: cast 'cure critic' frag. 
+{r 
+            Quoting is optional for single-word spells.
+                 You can abbreviate the spell name.
+{r
+        When you cast an offensive spell, the victim usually
+            gets a saving throw. The effect of the spell 
+          is reduced or eliminated if the victim makes the
+                     saving throw successfully.
+{r
+          See also the help sections for individual spells.
+{b
+            ******************************************{x
+~
+
+0 EXITS~
+{b
+***************************************
+{r
+Syntax: EXITS
+{r
+Tells you the visible exits of the room
+you are in. Not all exits are visable.
+You can use the 'bump'technique to find
+hidden exits. (Try to walk in a certain
+direction and see what you bump into.
+{b
+***************************************{x
+~
+
+0 DROP GET GIVE PUT TAKE~
+{b          ****************************************
+{r
+                    Syntax: drop <object>
+                 Syntax: drop <amount> coins
+                    Syntax: get  <object> 
+             Syntax: get  <object> <container>
+             Syntax: give <object> <character>
+          Syntax: give <amount> coins <character>
+             Syntax: put  <object> <container>
+{r
+     DROP drops an object, or some coins, on the ground.
+{r
+       GET gets an object, either lying on the ground,
+        or from a container, or even from a corpse.
+                 TAKE is a synonym for get.
+{r
+   GIVE gives an object, or some coins, to another character.
+{r
+              PUT puts an object into a container.
+{r
+        DROP, GET and PUT understand the object names
+        'ALL' for all objects and 'ALL.object' for all 
+                  objects with the same name.
+{b
+          ****************************************{x
+~
+
+0 EQUIPMENT INVENTORY~
+{b            ***********************************
+{r
+                    Syntax: equipment 
+                    Syntax: inventory
+{r
+           EQUIPMENT lists your equipment (armor, 
+                  weapons, and held items).
+              INVENTORY lists your inventory.
+{b
+            ***********************************{x
+~
+
+0 FLEE~
+{b
+***************************************
+{r
+Syntax: flee
+Syntax: rescue   <character>
+{r
+Once you start a fight, you can't just
+walk away from it.  If the fight is not
+going well, you can attempt to FLEE, or
+another character can RESCUE you.  (You
+can also cast WORD OF RECALL, but this
+is less likely to work, and costs more
+experience points, than fleeing).
+{b
+***************************************{x
+~
+
+0 EXAMINE LOOK~
+{b**************************************{r
+
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character>
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+
+LOOK looks at something and sees what
+you can see.
+
+
+{b**************************************{r
+~
+
+0 ORDER~
+{b
+***************************************
+{r
+Syntax: order <character> command
+Syntax: order all command
+{r
+ORDER orders one or all of your charmed
+followers (including pets) to perform
+any command.  The command may have
+arguments.  You are responsible for the
+actions of your followers, and others
+who attack your followers will incur
+the same penalty as if they attacked
+you directly.
+{b
+***************************************{x
+~
+
+0 REST SLEEP STAND WAKE~
+{b
+***************************************
+{r
+Syntax: rest
+Syntax: sleep
+Syntax: stand
+Syntax: wake
+
+These commands change your position.
+When you REST or SLEEP, you regenerate
+hit points, mana points, and movement
+points faster. However, you are more
+vulnerable to attack, and if you SLEEP,
+you won't hear many things happen.
+
+Use STAND or WAKE to come back to a
+standing position.  You can also
+WAKE other sleeping characters.
+{b
+***************************************{x
+~
+
+0 GTELL ; REPLY SAY TELL~
+{b
+***************************************
+{r
+Syntax: gtell <message>
+Syntax: say   <message>
+Syntax: tell  <character> <message>
+{r
+All of these commands send messages to
+other players.  GTELL sends a message to
+all of the characters in your group,
+wherever they are, even if they are
+sleeping or stunned or dying. 
+';' is a synonym for GTELL.
+{r
+SAY sends a message to all awake
+players in your room.  The single
+quote ' is a synonym for SAY.
+{r
+TELL sends a message to one awake
+player anywhere in the world.
+{r
+REPLY sends a message to the last
+player who sent you a TELL.  REPLY
+will work even if you can't see the
+player, and without revealing their
+identity.  This is handy for talking to
+invisible or switched immortal players.
+{b
+***************************************{x
+~
+
+0 EMOTE~
+{b
+***************************************
+{r
+Syntax: emote <action>
+{r
+EMOTE is used to express emotions or
+actions.  Besides EMOTE, there are
+several dozen built-in social commands,
+such as CACKLE, HUG, and THANK.
+(type socials for a listing).
+{b
+***************************************{x
+~
+
+0 HOLD REMOVE WEAR WIELD~
+{b
+***************************************
+{r
+Syntax: hold   <object>
+Syntax: remove <object>
+Syntax: wear   <object>
+Syntax: wear   all
+Syntax: wield  <object>
+{r
+Three of these commands will take an
+object from your inventory and start
+using it as equipment.  HOLD is for
+light sources, wands, and staves.  WEAR
+is for armor.  WIELD is for weapons.
+{r
+WEAR ALL will attempt to HOLD, WEAR, or
+WIELD each suitable item in your
+inventory.
+{r
+You may not be able to HOLD, WEAR, or
+WIELD an item if its alignment does not
+match yours, if it is too heavy for you,
+or if you are not experienced enough
+to use it properly.
+{r
+REMOVE will take any object from your
+equipment and put it back into your
+inventory.
+{b
+***************************************{x
+~
+
+0 AREAS COMMANDS SOCIALS REPORT SCORE TIME~
+{r
+Syntax: areas
+Syntax: commands
+Syntax: socials
+Syntax: report
+Syntax: score
+Syntax: time
+Syntax: pcinfo
+Syntax: channels
+ 
+AREAS - shows you a list of areas in the game.
+
+COMMANDS - shows you all commands in the game.
+
+SOCIALS - are quick, built-in actions you can do to yourself
+or others.  For a full listing, type the 'socials' command.
+
+REPORT - shows your current statistics to you, and also
+announces them to other players in your room.
+
+SCORE - shows you more detailed information about your character.
+Some data has both a 'current' value and a 'true' value.
+The true value is shown in parentheses.  For example,
+a stat of Str: 23(15) means your current strength is 23,
+but your true strength is 15.
+
+TIME - shows the game time, the time the MUD last rebooted, and
+the current local time for the MUD's host computer.
+
+PCINFO - a list of toggles you can set for your character, such
+as autoexit, autoloot, autogold, etc.
+
+CHANNELS - shows a list of channels available to you. To turn
+a channel ON or OFF, type the channel at your prompt.
+~
+
+0 WHERE~
+{b
+***************************************
+{r
+Syntax: where
+Syntax: where <character>
+
+WHERE without an argument tells you
+the location of visible players
+in the same area as you are.
+{r
+WHERE with an argument tells you the
+location of one character with
+that name within your area, including
+monsters.
+{b
+***************************************{x
+~
+
+0 HELP~
+{b                  ***********************************{x
+
+{r                             Syntax: help
+{r                        Syntax: help <keyword>
+
+{r             HELP without any arguments shows a one-page
+{r                           command summary.
+
+{r             HELP <keyword> shows a page of help on that 
+{r           keyword. The keywords include all the commands,
+{r                 spells, and skills listed in the game.
+ 
+{b                  ***********************************{x
+~
+
+0 DRINK EAT FILL POUR~
+{b*************************************
+{r
+Syntax: drink <object>
+Syntax: eat   <object>
+Syntax: fill  <object>
+Syntax: pour  <object> out
+Syntax: pour  <object> <object>
+Syntax: pour  <object> <character>
+
+When you are thirsty, DRINK something.
+
+When you are hungry, EAT something.
+
+FILL fills a drink container with water.
+
+POUR transfers a liquid to a container,
+or empties one. You can also pour from an
+object into something a character is holding.
+
+{b*************************************{x
+~
+
+0 CONSIDER~
+{b
+******************************************
+{r
+Syntax: consider <character>
+{r
+CONSIDER tells you what your chances are
+of killing a character. Of course, its
+only a rough estimate.
+{b
+******************************************{x
+~
+
+-1 SPLIT~
+{b              ***************************************
+{r
+{r                   Syntax: SPLIT <silver> <gold>
+{r
+{r           SPLIT splits some coins  between you and all 
+{r           the members of your group who are in the same
+{r             room as you.  It's customary to SPLIT
+{r         the loot after a kill.  The first argument is the 
+{r             amount of silver to split (0 is acceptable),
+{r                  and the second gold (optional).
+{r
+{r                            Examples:
+{r                split 30        --> split 30 silver
+{r            split 20 50     --> split 20 silver, 50 gold
+{r                split  0 10     --> split 10 gold
+{r
+{b              ***************************************{x
+~
+
+101 ALLOW BAN PERMBAN~
+Syntax: allow   <site>
+	ban     <site> <newbies|all|permit>
+	ban
+
+BAN <site> prohibits players from that site from logging in.  BAN with
+no arguments lists the banned sites.  ALLOW <site> removes a site from
+the ban list, if the remover is of equal or higher level than the banner.
+
+A site may have all players, new players, or non-permitted players (set
+by editing the player file) banned, by changing the argument after the site.
+*s may be used to ban either by suffix (*.edu), prefix (labmac*), or 
+content (*andrews*), but be careful not to accidently lock out too many
+sites with a wildcard.  Bans do not save unless the permban command is used.
+~
+
+101 DENY~
+Syntax: deny <name>
+
+Deny locks a character out of a game permanently, rendering their character
+name unusable.  It may only be removed by editing the file, for this reason
+freeze is usually preferred.
+~
+
+101 AT~
+Syntax: at <location> <command>
+
+At executes the given command (which may have arguments) at the given
+location.  The location may be specified as a vnum, as the name of
+a mobile, or as the name of an object.
+
+At works by temporarily moving you to that location, executing the
+command, and then moving you back (if the command didn't change your
+location).
+~
+
+101 POOFIN POOFOUT~
+Syntax: poofin  <message>
+Syntax: pooffout <message>
+
+The standard messages for goto are 'arrives in a swirling mist' and
+'leaves in a swirling mist'.  You can replace these messages with messages of
+your own choosing using the poofin and poofout commands.  These messages
+must include your name somewhere in the string.
+
+Poofin and poofout only show to characters who can see you.
+(see also goto)
+~
+
+0 COLOUR COLOR ANSI~
+{x
+{YSyntax: {xcolour    Toggles colour mode on/off{x
+{x
+{x        You may also talk in color; the format is like this:{x
+{x        the 'escape character' to specify a colour is the left{x
+{x        handed brace {{{{, following{x
+{x        that you should use one of the following letters,{x
+{x             {{{{R={Rred{x          {{{{r={rred{x
+{x             {{{{C={Ccyan{x         {{{{c={ccyan{x
+{x             {{{{G={Ggreen{x        {{{{g={ggreen{x
+{x             {{{{Y={Yyellow{x       {{{{y={yyellow{x
+{x             {{{{B={Bblue{x         {{{{b={bblue{x
+{x             {{{{W={Wwhite{x        {{{{w={wwhite{x
+{x             {{{{M={Mmagenta{x      {{{{m={mmagenta{x
+{x             {{{{D={Dgray{x         {{{{x={xclear(reset colour){x
+{x        When using colour, please finish the line with the
+{x    the clear ({{{{{x) code to avoide color bleeding.
+{x
+{x        {WC{Ro{Bl{Yo{GU{Mr {xis written by Lope (ant@solace.mh.se)
+{x
+~
+
+0 AEDIT~
+Syntax: edit area	 -Enters the editor for the current area.
+Syntax: edit area <vnum> -Enters the editor for the selected area.
+
+The follow commands are available from within the AEDITOR:
+
+age <number>        - set the age of the area
+builder <player>    - toggle that builder's access
+commands            - prints a list of possible commands
+create              - create a brand new area and switch to it
+done                - exits the area editor and returns to normal play
+filename <filename> - change the file name for the area (be careful)
+name <name>         - change the 'AREAS' name of this area
+reset               - resets the current area
+security <rating>   - set the security rating for this area
+show                - hitting return, or 'show' shows the area stats
+vnum <lower> <upper>- set the lower and upper vnum's
+lvnum <lower>       - set the lower vnum
+uvnum <upper>       - set the upper vnum
+<flags>             - area flags, type ? AREA for a list
+~
+
+0 REDIT~
+Syntax: edit room		-Enters the editor for the current room.
+
+The following commands are available from within the REDITOR:
+
+commands            - prints a list of possible commands
+create <vnum>       - creates a room with a certain vnum
+desc                - edit description of room
+done                - exists the room editor and returns to normal play
+ed                  - type this command for additonal extra-description help
+format              - format(wordwrap) the room description
+name <room title>   - changes the room title
+show                - hitting return, or 'show' shows the room stats
+oshow <vnum>        - shows an object with given vnum
+olist               - lists objects in this area.
+mshow <vnum>        - shows a mobile with given vnum
+mlist               - lists mobiles in this area.
+room <flags>        - room attributes, type ? ROOM for a list
+sector <type>       - terrain of room, type ? SECTOR for a list
+<direction>         - see help EXIT, or type <dir> ?
+copy <vnum>         - copies vnum info into vnum being edited now
+~
+
+0 EXIT~
+For exits, type the direction (north/s/e/w) followed by:
+
+dig <vnum>         - creates the room and makes a two way link
+link <room vnum>   - make a two way link
+room <room vnum>   - make a one way link (use with caution)
+key <object vnum>  - makes specified object the vnum of the key required
+name <door name>   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+<exit-flags>       - type ? EXIT for a list(make exit door, locked etc.)
+
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+~
+
+0 OEDIT~
+Syntax: edit object <vnum>	-Enters the editor for the selected object.
+
+The following commands are available from within the OEDITOR:
+
+addaffect           - applies an affect to an object, no args for help
+delaffect           - removes an affect to an object, no args for help
+commands            - prints a list of possible commands
+cost <gold>         - sets the gold value of the object
+create <vnum>       - creates object with specified vnum
+done                - exits the object editor and returns to normal play
+ed                  - type this for info on adding/editing extended descripts
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an object
+short <desc>        - sets the 'name' of an object (a sword, a fish etc)
+show                - hitting return, or 'show' shows the object stats
+v0 <num>            - sets the value '0' on the object
+v1 <num>            - sets the value '1' on the object
+v2 <num>            - sets the value '2' on the object
+v3 <num>            - sets the value '3' on the object
+v4 <num>            - sets the value '4' on the objcet
+weight <num>        - sets the weight of the object
+type         	    - type of object, type ? TYPE for a list
+extra		    - attributes of object, type ? EXTRA for a list
+wear                - where object is worn, type ? WEAR for a list
+material            - material the object is made from
+copy <vnum>         - copies vnum info into vnum being edited now
+~
+
+0 MEDIT~
+Syntax: medit <vnum>		-Enters the editor for the selected mobile.
+
+The following commands are available from within the MEDITOR:
+
+alignment <value>   - set the mobile's alignment
+commands            - prints a list of possible commands
+create <vnum>       - creates mobile with specified vnum
+desc                - edit the mobile's description (when looked at)
+done                - exits the mobile editor and returns to normal play
+level <level>       - set the mobile's level
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an mobile
+shop                - type this command for further information
+short <desc>        - sets the 'name' of an mobile (a sword, a fish etc)
+show                - hitting return, or 'show' shows the mobile stats
+spec                - sets a mobiles spec proc, type ? SPEC for a list
+sex                 - set the mobile's sex, type ? SEX for a list
+act                 - mobiles actions, type ? ACT for a list
+affect              - mobile affects, type ? AFFECT for a list
+ac		    - set the mobile's ac, type ? AC for a list
+form		    - mobiles body-form, type ? FORM for a list
+part		    - mobiles bodyparts, type ? PART for a list
+imm		    - mobile is immune to, type ? IMM for a list
+res		    - mobile is resistant to, type ? RES for a list
+vuln		    - mobile is vulnerable to, type ? VULN for a list
+off		    - offensive behaviour, type ? OFF for a list
+size		    - size, type ? SIZE for a list
+hitdice		    - dice to toss to get mobile's hitpoints
+manadice	    - dice to toss to get mobile's mana
+damdice		    - dice to toss to get mobile's hand to hand damage
+copy <vnum>         - copies vnum info into vnum being edited now
+
+~
+
+-1 WIZLIST~
+{x
+ 
+               {D_{D,-`({R,-``-,                     {R,-``-,{D)`-,_{x
+            {D,/`   _( {R,``{D( {R;{D)   {WI         {WI   {D({R; {D){R``; {D)_ , `\,{x
+           {D/--,/-` `{R\ \ (vv)  {r(`){W-------{r(`)  {R<\/> / /{D` `-\,--\{x
+  {w-----------{R``-,    ) ) )(   {W| |{RWizList{W| |   {R][ ( (    , -``{w----------{x
+  {w\__|___|__/{R``-,````,/ (^^)  {r(_){W-------{r(_)  {r/{R^^{r\{R \,````,-``{w\__|___|__/{x
+  {r|___|___|_|    {R````   {r)  (   {WI         {WI          {R````    {r|___|___|_|{x
+  {r|__|___|__|                                               {r|__|___|__|{x
+  {r|___|___|_|  {BGAME IMMORTALS           {BADMINISTRATION      {r|___|___|_|{x
+  {r|__|___|__|   {cIMPLEMENTORS                {mCODERS          {r|__|___|__|{x
+  {r|___|___|_|      {CVENUS                   {MSEMBIANCE        {r|___|___|_|{x
+  {r|__|___|__|      {CARGON                                    {r|__|___|__|{x
+  {r|___|___|_|                                               {r|___|___|_|{x
+  {r|__|___|__| {cASS. IMPLEMENTORS           {GWEB MASTER        {r|__|___|__|{x
+{r  |___|___|_|     {COPHELIA{x                   {YVENUS{x           {r|___|___|_|{x
+  {r|__|___|__|                                               {r|__|___|__|{x
+  {r|___|___|_|   {cHEAD BUILDER                                {r|___|___|_|{x
+  {r|__|___|__|      {CARGON                                    {r|__|___|__|{x
+  {r|___|___|_|                                               {r|___|___|_|{x
+  {r|__|___|__|    {cBUILDERS                                   {r|__|___|__|{x
+  {r|___|___|_|     {CCROVAX               {GGUEST IMPLEMENTOR    {r|___|___|_|{x
+  {r|__|___|__|     {CLYDIA                     {YLYBRE           {r|__|___|__|{x
+  {r|___|___|_|     {CSTUMPY                                    {r|___|___|_|{x
+  {r|__|___|__|                                               {r|__|___|__|{x
+  {r|___|___|_|                                               {r|___|___|_|{x
+  {r|__|___|__|          {D({R,,{D)   {WI            {WI   {D({R,,{D)         {r|__|___|__|{x
+  {r|___|___|_|          (..)  {r(`){W----------{r(`)  {R<\/>         {r|___|___|_|{x
+  {w/  |   |  \{R_,-``-,_,/ )(   {W| |{rR o t {RR  {rD{W| |   {R][ \,_,-``-_{w/  |   |  \{x 
+  {w----------{R,_,-``-,_,/(^^)  {r(_){W----------{r(_)  {r/{R^^{r\{R\._,-``-_,{w----------{x
+                       {r)  (   {WI            I{x
+{x
+~
+
+-1 WIZINDEX~
+{x
+{G** {cType {g'{WHELP{g' {cand one of the following {CKEYWORDS {cto select what you
+{G** {cwant to read{w:
+
+     {gGAME IMMORTALS{w:
+     {G- {CGIMM1 {g({WPart 1 {G- {WWhat is a Game Immortal.{g)
+     {G- {CGIMM2 {g({WPart 2 {G- {WImplementors and Assistant IMPs{g)
+     {G- {CGIMM2 {g({WPart 3 {G- {WGreater, Lesser and DEMI gods{g)
+     {G- {CGIMM2 {g({WPart 4 {G- {WVeteran and Newbie Immortals{g)
+
+     {CADMINIMM {g({WWhat is an {BADMINISTRATION{W Immortal{g)
+
+     {CIMMSPOU {g({WWhat is an {rIMMORTAL SPOUSE{W and how do you become one{g)
+
+     {CBUILDER {g({WWhat is a {gBUILDER{W and how to apply to become one{g)
+
+     {CINACTIMM {g({WWhat is an {YINACTIVE IMMORTAL{g)     
+
+     {CIMMJOB {g({WLists any IMM that has a SPECIFIC JOB{g/{WDUTY they do for the MUD{g)
+
+     {gHow to Become a BUILDER or IMMORTAL{w:
+     {G- {CIMMDOM1 {g({WPart 1{g)
+     {G- {CIMMDOM2 {g({WPart 2{g){x
+~
+
+-1 ADMINIMM~
+{x
+   {cAn {BADMINISTRATION IMMORTAL {cis either a CODER or has been asked to be, and
+   accepted, the JOB of HEAD BUILDER.  They do not and should not be interacting with
+   the MORTAL world in ANY way other than to chat/talk.  They do not and should not
+   make GAME descisions, Rules, assist/aid players (even newbies), etc... UNLESS there
+   is a MAJOR need/reason.  
+
+   Because of this, PLEASE do not bother them with in game matters since they will be
+   unable to assist you, just contact/note/use the IMMHELP channel to get a hold of a
+   GAME IMMORTAL.   Thank You....
+~
+
+-1 GIMM1~
+{x
+   {cThe {BGAME IMMORTALs {care the ONLY IMMs allowed to make and/or change game 
+   rules, deal out penalties to players for breaking game rules, settle disputes
+   between players, assist players {g({Wnot cheat for, but assist..  i.e. give out
+   helpful advice or explain how to play to a newbie, answer mortal questions about
+   game mechanics, etc...  Basically, they can only answer mortal questions that a
+   mortal could find out on their own, if it requires{g/{Wrequired for the IMM to use 
+   their powers to find out{g/{Wlearn the answer, they may not tell it to PLAYERS{g){c.
+
+   If you are in need of assistance or have found a BUG or are just in need of finding
+   out information about KotRD, etc... you should only try and contact the different
+   IMMs/IMPs listed under this heading {g({BGAME IMMORTALS{g){c as the IMMs under the
+   other headings {g({WADMINISTRATION, IMMORTAL SPOUSE, etc...{g){c are not supposed
+   to intervene with, or act as a source of answers for, the MORTALs at all.  If you
+   can not find a {BGAME IMMORTAL{con and need assistance, send a note to IMMORTAL or
+   IMPLEMENTOR and one will get back to you as soon as possible.
+
+      {G** {WAlso see {cIMMHELP {Wfor info on the {CDIVINE AID {Wchannel {G**{x
+~
+
+-1 GIMM2~
+{x
+{GIMPLEMENTOR{x
+
+  {cImplementors, called Imp(s) for short, are the ones that decide on, or put
+  {cin motion, the rules that govern the MUD.  They are also the last word on
+  {cANY issue, dispute, misunderstanding, etc.. having to do with the MUD, the
+  {cPlayers, the Immortals, the Code, the Rules, the Interpretation of the Rules
+  {cor anything else that might need a 'final' judgement made for it.{x 
+ 
+  {cOnly an Imp can promote another player to the status of Immortal or demote 
+  {can Immortal back to the status of mortal.
+
+  Finally, and the biggest thing, the Implementors are the ones that {COWN{c the
+  MUD.  When you play here, try and think of it as being a guest in our house.  
+  Don't disrespect, curse at, etc.. us and we will show you the same courtesy, 
+  plus we will be more than happy to keep inviting you back to hang out with us, 
+  but if you do break the dishes and insult us, don't be surprised to find yourself
+  out on the street and the door locked behind you....{x
+
+
+{GASSISTANT IMPLEMENTOR{x
+
+  {cAssistant Imps are Immortals that the Imps feel can be trusted beyond a shadow
+  {cof a doubt.  Their main duty is to assist the Implementors with the day to day
+  running of the MUD, but they also are in charge of very critical or important parts
+  {cof the MUD such as Area Building/Builders, the Wellfare of the Mortals, Overseeing
+  the IMMs below them, etc...  An Assist Imp can also be relied upon to make fair, and
+  usually reasonable, judgement calls for almost any given situation.  What that means
+  is, if you are in doubt about something, or the answers you are getting from some of
+  the other IMMs are confusing and/or do not make sense, an Assist Imp is the next best
+  thing to talking directly to an Imp. 
+
+  Also, to save yourself some time and heartache, what an Asst Imp says goes.  Do not
+  bother asking another IMM about it as the ONLY ones that can override one of the 2
+  Asst Imp are the IMPs themselves, so contact one of them if you are having a problem
+  with an Asst Imp.
+ 
+  In essense, the definition of an Assistant Implementor is simple:
+
+  {g- {WIf the title of IMPLEMENTOR was not for the OWNERS ONLY, the ASST IMP would be one.
+    So show them the same consideration you would show an IMP please.
+~
+
+-1 GIMM3~
+{x
+{GGREATER GOD{g({GDESS{g){x
+
+  {cDEMIs are usually the old timers of the MUD.  They have toiled their way through 
+  {cthe Mortal levels{g({Wsome more than once{g){c and then were trusted enough to be promoted
+  {cto Immortal,... After which they worked their tails off building or doing the grunt
+  {cjobs the Imps/Asst Imps didn't want to do, like having to explain the rules over
+  {cand over and over again to the mortals.  Finally
+  {cand/or it was felt they could be trusted enough not to use their powers for evil
+  {cmortal purposes, that they were rewarded by being promoted to this extremely, and 
+  hard to get, exhaulted status.  Even though they still have to work their tails off
+  doing grunt jobs, you can trust them to be helpful{g({Wmaybe{g){c, knowledgeable{g({Wsometimes{g){c
+  and even friendly{g({Wdoubtful{g){c with the MUD in general.
+
+  If, for any reason, an Asst. Imp quits the MUD forever, only a Greater God can be
+  promoted to take their place.{x
+
+
+{GLESSER GOD{g({GDESS{g) {cand {GDEMI{g-{GGOD{g({GDESS{g){x
+
+  {cThis is the interm levels for the IMMORTALs.  What that means is, this is where
+   the IMM must, and usually will, work their butts off.  LESSERs and DEMIs are here
+   to help out Mortals, TRY and settle disputes, enforce Game Rules, TRY and explain
+   Game Rules, assist the IMMs/IMPs above them, TRY and help out the BUILDERs, to
+   act as go between for the MORTALs and IMMs if needed and anything else that might
+   be needed for the MUD.  
+
+   These are the 2 toughest titles to hold {g({WGame IMM{g-{Wwise{g){c, since an IMM of either of
+   these 2 ranks knows enough about the MUD {g({Wor should{g){c that they can be asked to do
+   long and sometimes boring jobs by the Upper-IMMs and at the same time, they have
+   been here long enough that if they break an Immortal Rule, they are dealt with a
+   bit harsher than a VET or a NEWBIE IMM.{x
+~
+
+-1 GIMM4~
+{x
+{GVETERAN IMMORTAL{x
+
+  {cVets are those that have proven they can and will be useful to the MUD or their
+  {cfellow Imms by helping to build or by volunteering to do the odd job no one else
+  {cwanted.  They are given a few powers to use and/or toy with, the whole while they
+  {cget watched carefully to see if they abuse the position they have been given.{x
+
+
+{GNEWBIE IMMORTAL{x
+
+  {cJust what the name implies.  They are still wet behind the ears but showed enough
+  {cpotential to be given a probationary try at being an Immortal.  Some can be very
+  {chelpful, while others can barely remember that they are no longer a mortal and
+  {creally do not need to keep trying to get EQ for themselves... {R;) {c.{x
+~
+
+-1 BUILDER BUILD~
+{x
+{GBUILDERS{x
+
+  {cThese are the class of Immortal that build all of those wonderful areas that the
+  players hack-n-slash MOBs in and explore.  A BUILDER can NOT see any public channels
+  {g({Wincluding IMMTALK... Builders do have their OWN channel THOUGH, see below{g){c,
+  they can NOT send or receive TELLs, are FOREVER invisible to a mortals eye, can NOT
+  leave their assigned area or load a MOB or OBJ except from the same and a few other
+  things that will be explained to the player IF they want to become a BUILDER AND get
+  accepted as one.  All a BUILDER does is build.  
+
+  If a player wants to become a GAME or even an ADMIN IMMORTAL, they do not have to be
+  a BUILDER first.  It does help a GREAT deal as BUILDERs in good standing are given 
+  FIRST consideration for ANY/ALL open IMM spots before just normal mortals.{x 
+~
+
+-1 IMMDOM1~
+{x
+   {cThe minimum requirements that MUST be met before consideration will be given 
+   to a player for becoming a BUILDER or IMMORTAL are{w:
+
+     {G- {WYou must have been playing KotRD for at least 1 month.
+     {G- {WYou must be in 'good standing' with ALL of the current IMMs/IMPs.
+         {r** {WThis means if you are a routine rule breaker or troublemaker, you 
+              WILL need to straighten up before you apply{R **
+     {G- {WYou either MUST be in your 20's (Age in RL) or have proven that you can
+         and are mature enough for something like this.
+     {G- {WThere needs to be an OPEN slot on the WIZLIST for the position you are
+          applying for, 99% of the time this would be a VACANCY under the title of
+          {cNEWBIE IMMORTAL {g({GAlthough it is possible to apply for a higher 
+          titled slot, you should have{c/{Gneed a VERY good reason why you should be
+          placed there and not a current IMM{g){W. 
+
+   {cAfter meeting all of the above, you should be ready to take the next big step.
+    
+   {cAnd even though it is not required of the player, the best way to be considered
+   for FULL IMMORTAL STATUS {g({WGAME IMMORTAL{g) {cis to start off as a {GBUILDER{c
+   and show what you can do/contribute that way {g({WBUILDERS are always given the
+   first consideration for any IMM/ADMIN poitions available{g){c.
+
+   If you choose not to go the BUILDER route, you can apply to become a full IMMORTAL
+   {g({Wstarting as a NEWBIE IMMORTAL{g){c by writting a NOTE.  Within the note, you
+   MUST have the following info:
+
+     {G- {WWhy you want to be an IMMORTAL.
+     {G- {WWhat you feel you can contribute to Phoenix: RotRD if you became one.
+     {G- {WSince you do not want to be a builder, what JOB/DUTY do you plan
+         on having or asking for?
+
+                 {m***** {Mcontinued in {WIMMDOM2 {m*****{x
+~
+
+-1 IMMDOM2~
+{x
+     {G- {WIf you have ever been an IMMORTAL longer than 1 year on another MUD.
+         {g- {wIf you have, which one? {g({walso list the addie for the MUD{g) 
+         {g- {wWhy did you leave that MUD? {g({wIf you haven't left it, please specify{g)
+     {G- {WYour EMAIL address.  {g({GThis must be from a REAL ISP, no HOTMAIL, YAHOO,
+         EXCITE, etc.. mail accounts{g)
+     {G- {WYour REAL LIFE AGE.  {g({GAge only, Sex, Race, etc.. we don't care about{g)
+
+   {cand then just address the note to Venus, Argon or Myserie  with the subject of
+   Immortal Application, {g({Wthis is done by typing {g'{GNOTE TO VENUS ARGON MYSERIE{g'
+   {c and then {g'{GNOTE SUBJECT IMMORTAL APPLICATION{g'){c.
+
+   {cOnce they get the note, one of them will reply that it is been received.  They
+   will then review/discuss any and all notes they have gotten and select the top
+   30% of the candidates, the other 70% will receive a note letting them know they
+   were not selected {g({Wbut remember, as long as the minimum requirements are met by
+   the player, they can always apply for the next available slot or the one after and
+   so on.  Non-selection does not mean the player is not wanted as an IMM{g/{WBUILDER,
+   it just means another applicant was a little more qualified that round.{g) {cthe
+   30% that was selected will also get a note letting them know they have made it 
+   past the first cut.
+
+   {cThey {g({WImplementors{g) will then watch the finalists play, make notes
+   on how they act, collect info from other IMMs/IMPs on them and more {g({WIf there
+   ends up being only 1 finalist, this process will still be followed{g){c.  Finally, 
+   1 of the remaining will be selected {g({Wthe others will be notified{g){c, made a
+   NEWBIE IMMORTAL, and put on a 45 day probation period for a trial run.  If the 45
+   days finishes {g({Wduring which the applicant must have been on for atleast 75% of
+   it{g){c and all looks good, the applicant will be added to the WIZLIST.{x
+~
+
+-1 GREETING1~
+{WWelcome to {rPhoenix: {DRebirth of the {RRed {DDragon{W...
+{x
+
+                                 {D_{x
+                              {y=={D(W{W|==========-        {r/{R=={D-   {r_______{x
+                                {D||  {W(.{D--{W.)         {r/{R=={D-    {r-'    {r----__{x
+                                {D| \_{b,{D|{G**{D|{b,{D__      {r|{R=={D-{r`___/            _,-'`{x
+                   {D-{R=={r\\        {D`\ ' {b`--'   {D),    {r`//-\\   ----`--{r._.-`{x
+               {r______{D-{R=={r|        {b/{D`\_. .__/\ \    {r| |  \\          _-`{x
+         {r__---{r/  ,-/{D-{R=={r\\      {b(   {D|    {y|{Y````{y|   {r| |   `\       ,'{x
+      {r_-/       /'    |  \\     {b)__/{W==0==-{y\{Y<>{y/   {r/ /      \     /{x
+    {r.'        /       |   \\      {D/-\___/--{y\/  {r/' /        \   /{x
+   {r/  ____  /         |    \`\.__/--/   {D\  |{r_/'  /          \/'{x
+  {r/-'/    \====---__  |     \-/-         {D( )   {r/'        _--/`{x
+                    {r\_|      /        _) {D| ;  {r),   __---/{x
+                      {r'''--_/      _-'/- {D|/ {r\   '-/ \{x
+                     {r(\__--_/)    / \\_>-{D|){R<__{r\      \{x
+                    {r /'   (_/  _-'  {r| {R|__>--<__|      {r|{x
+                    {r|   _/) )-'     {r| {R|__>--<__|      {r|{x
+                    {r/ /' ,_/       {r/ {R/__>---<__/      {r|{x
+                   {Do-o {r_//        {r/{R-'_>---<__-'      {r/{x
+                   {r({R^{r('          {r/{R,_>---<__-      {r_-/{x
+                  {r,{R/{r|           {r/{R__>--<__/     {r_-/{x
+               {r,{R//{Y('{r(          {r|{R__>--<__|     {r/                  --_{x
+              {r( {Y( {r'{R){r)          {r|{R__>--<__|    {r|                 /' _-_'\{x
+           {r`-{R)) {Y)) {r(           {r|{R__>--<__|    {r|               /'  /   '\`\{x
+          {r,/{R,{r'{Y//{R( {r(             {r\{R__>--<__\    {r\            /'  //      ||{x
+        {R,{r( {Y( {R((, {r))              {R'-__>--<_'-_  {r'--__---__/'/  /'       {DVV{x
+      {R`'{r/  {Y)` ) {R,/{r|                 {R'-_'>--<_/-__      __-'__/{x
+    {r.{R_-{Y'/{R/{r( ){R/ {Y)) {r`                    {R''-'_/_/ /{r-----__--'{x
+     {R;'{r( {Y'){r/ {R,){r(                              {R========{x
+    {R' '{r) '{Y( ({r/{x
+                              Enter, Ye Who Dare
+
+{x
+
+           {YVisit our web page at {Wwww.{RRot{rR{RD{W.com{x
+
+                         Based on ROM Version 2.4 beta
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+                Quest Code (c) 1996 Ryan Addams
+
+
+{r********************************************************************{x
+
+
+
+{cBy what {Rname{c do you wish to be known?{w
+~
+
+-1 GREETING2~
+{WWelcome to {rPhoenix: {DRebirth of the {RRed {DDragon{W...
+{x
+
+                              {R_                      _{x
+                            {R,/                        \,{x
+                  {R_________((                          ))_________{x
+                 {R/.-------./\\                        //\.-------.\{x
+                {R//{D@@@@@@@{R//{D@@{R\\  )                (  //{D@@{R\\{D@@@@@@@{R\\{x
+               {R//{D@@@@@@@{R//{D@@@@{R>>/                  \<<{D@@@@{R\\{D@@@@@@@{R\\{x
+              {R//{DO@O@O@O{R//{D@O@O{R//                      \\{DO@O@{R\\{DO@O@O@O{R\\{x
+            {R//{DOOOOOOOO{R//{DOOOO{R||          {D\  /          {R||{DOOOO{{R\\{DOOOOOOOO{R\\{x
+           {R//{DO%O%O%O%{R//{DO%O%O%{R\\         {D))((         {R//{D%O%O%O{R\\{D%O%O%O%O{R\\{x
+          {R||{D%%%%%%%%{R//{D'  `%%%%{R\\       {D//  \\       {R//{D%%%%'   {R`\\{D%%%%%%%{R||{x
+          {R(({D%%%%%%%{R((      {D%%%%%{R\\    {D((    ))    {R//{D%%%%%       {R)){D%%%%%%{R)){x
+           {R\{D:::' `::{R\\      {D`:::::{R\\   {D\){r--{D(/    {R//{D:::::'      {R//{D::' `:::{R/{x
+            {R){D'     `;{R)'      ({D`  ` {R\\ `{r<{W@  @{r>' {R/ / {D'  '{R)      `{R({D;'     `{R({x
+                    {R(               \`\ {r){R^^{r( {R/  /               {R){x
+                  {w_                  {R) \{r\{Doo{r/   {R({x
+                 {w({R@{w)                  {R\  `'   /                      {w_{x
+                 {w|{R-{w|\__________________{R\{w__{R^{w__{R<{w________{RoOo{w__________ ({R@{w){x
+                 {w| |                                  {DVVV          {w\|{R-{w|{x
+                 {w|{R-{w|       {WPhoenix{w: {rRebirth of the {RRed {rDragon       {w|{R-{w|{x
+                 {w|{R_{w|\_____________________________________________  | |{x
+                 {w({R@{w)                 {R/ ,/ \_____/ \\ {D'{R\/{D'         {w`\|{R-{w|{x
+                  {w'             {R___//^-      \____/\\               {w({R@{w){x
+                               {D<<<  \     {R__  <____/||               {w'{x
+                                         {R<   \ <___/||{x
+                                            {R|| <___//{x
+                                            {R\ \/__//{x
+                                             {R'----'{x
+                              Enter, Ye Who Dare
+
+{x
+
+           {YVisit our web page at {Wwww.{RRot{rR{RD{W.com{x
+
+                         Based on ROM Version 2.4 beta
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+                Quest Code (c) 1996 Ryan Addams
+
+
+{r********************************************************************{x
+
+
+
+{cBy what {Rname{c do you wish to be known?{w
+~
+
+-1 GREETING3~
+{WWelcome to {rPhoenix: {DRebirth of the {RRed {DDragon{W...
+{x
+
+                        {w/\{x
+                        {w||{x
+                        {w||{x
+                        {w||{x
+                        {w||                                               {R,-----,{x
+                        {w||                                            {R/{r,,,--  ---,,{R,{x
+                        {w||                   {W;'                 {R/{r',/- --   -    ---,,{R,{x
+                        {w||                {W(/ ('              {R/{r'----        ,,,_  --(  {R'{x
+                        {w||             {W' / ;'             {R/{r'----               \__{R-{x
+     {R'                {w({Y*{y--{Y*{w)          {W'('             {R,{r-,'      ----        ,,,--\{R'{x
+     {R\\                {D(c{y_{D\_        {D.i.             {R/{r'--    ,,,--   -,     (     {R'{x
+      {R`\               {D(}{y| {D/       {D/ : \           {R/ {r,,------,     --\   {R({x
+      {R\ '               {y||{D/ \      {D|{w==={D|          {R/{r'/             --- \ \{R({x
+      {R`{r`'{R\              {y=={D\  )/.\_ >._.< _/-\     {R|{r`_          ,,-'     ){R\{x
+       {R'{r-{R'                 {D(  /  ) \___/ (   \   {R|{r` ` _       --         {R'{x
+       {R\ {r-'{R\                {D-<__/  -   -  L- -;   {R\{r\    \ _ _{R/{x
+       {R`{r` ''={R\                  {D(    :    )\ ,\    {R|{r|   _ :{R({x
+        {R\  {r''={R\__                {D\ _/ \_ /  )  ) {R_{r//   ( `|{R'{x
+        {R`{r`    , ,\--,={R\           {D\     /  / _/ {R/ {r'    (   {R'{x
+         {R\{r`    } , -- --={R\   _-_  {D/ \ / \ )^ ( {R/{r/ :_  / {R'{x
+         {R|    {r,          _--'   '--__{D-{r_  {D/ - |{R/     {r\ {R({x
+          {R\  ,_{r--{R_     {r_/              \_{D'---', {r-= .   {R\{x
+           {R)/      {R/\ / {R/\   {r,-,         \{D__ _}     {r\_  ",{R_{x
+           {R,      {R( ( _ {R)'}{r - - \_    '\  {D(-:-)       {r"\   {R,{x
+                  {R/{r'' ''  {R)- \{r-_ {r-\   )->  {D\ :|    {r_,       {R"{x
+                 {w(\  {r_{w/){r''{R} {D| {R\{r-_ -  /-(   {D| :)   {r/          {R){x
+                {R<``  >;,,/  {D)= {R\{r-__ {D/// '  {D\ =(  {r,   ,       {R;{x
+               {R({Do_o {R}_/     {D|v  {r'-__  _    {D)-v|  {r"  :       ,{R"{x
+               {R(/"\_)       {D(_/'  {R\{r-__ -\_ {D\\_} {r'  (        /'{R\{x
+               {r,/!          {D'_/    {R'{r-{R__ _{r-- {D\_' {r:  '      ,"  {R;{x
+              {y({Y'{R'{r`                  {R/,'{R-{r___-    | /     {R,"  \ {r-{R'{x
+             {r'{R/{y, {r)                 {R(-)  {R'{r-____-";     {R,"     {R,{r-{R}{x
+           {y/{R,{Y'{r)                    {R/ \         /  {R,--"       {R'{r-{R'{x
+       {y(  {R'{Y'{R/                     {R/ ( '       /  {R/          {R'{r-{R'{x
+    {Y-{y'{Y-  {r,{R, {y/{R) {r,                 {R(/( \)      ( -)          {R/{r-{R'{x
+  {R(  '{y' {Y){r`  {R'}                   {D'  {R\){D'     {R\_/ /           {R-'{x
+ {Y( {y|) {R/`,{r--{Y.(  {y}'                    {D'     {R(  /          {R/{r-{R'{x
+{r(` {Y- {r( {Yc|{r-| `{Y}  {R)                          {R'/:\         {R,'{x
+ {r- {R)/{r``{y) ){Y) '{r|){Y,                          {R(/ | \){x
+  {y(` {r(-'{y(( {y`'`{R' )                         {D' {R(/ {D'{x
+   {Y`-{Y'    {R){r'{Y`{r'{R)                              {D'{x
+     {R` {r`{R`{x
+                              Enter, Ye Who Dare
+
+{x
+
+           {YVisit our web page at {Wwww.{RRot{rR{RD{W.com{x
+
+                         Based on ROM Version 2.4 beta
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+                Quest Code (c) 1996 Ryan Addams
+
+
+{r********************************************************************{x
+
+
+
+{cBy what {Rname{c do you wish to be known?{w
+~
+
+-1 MOTD~
+{GWelcome to the Rebirth! We are now open! Please come have a look 
+around, make suggestions and help make {DPhoenix: {rRot{RR{rD{G the best mud 
+out there! Remember, it is only a game.{x
+{x                 {GBest viewed with {BZmud{x
+{x
+{YSee '{WHelp Venus{Y' all Vetran Players{x
+
+{R                      Press [RETURN]{x
+ 
+~
+
+101 IMOTD~
+{x
+{x
+{YBreathe in, Breathe out. :){x
+
+{W******{Y+++{G= {M ATTENTION {G={Y+++{W******{x
+{RROTRD IS MOVING SERVERS!!!!!{x
+{YOn Friday October 29th at 9:00PM EASTERN the mud will move.{x
+{YIt's NEW HOME is at:  {Rrotrdmud.com   {YPort {R5000{x
+{YSEE YOU THERE!{x
+ 
+~
+
+101 COMMANDMENTS LAWS 'GOD RULES' GODS~
+{x
+{x
+                         **********************
+                         ** The Rules of ROM **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+6)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+7)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+8)  Do not try to overrule each other.  
+ 
+~
+
+-1 RULES~
+{cThe rules of Phoenix: RotRD are basic but {Wnon-negotiable.  {x
+{c
+Respect your fellow players and confine your insults to the IC
+channels {W(VENT, CLAN, CLAN WAR, or ROLEPLAY).
+{c
+Remember this is a game, and the only permitted insults are in
+character. Do not get too carried away.{x
+{c
+"Rule Lawyers" and/or those that take what is written below
+and attempt to twist the meanings to suit themselves, will find 
+that there is a NO tolerance attitude taken about this.  Just because 
+it is not here word for word saying not to do it, does not mean you can!  
+Do not argue and whine over IMM decisions, the IMMS do not want
+to hear it, and not only will your punishement stand, but you will risk
+lowering the level of mutual respect we hope to develop.{x
+{c
+Use a little common sense and maturity and all of us should have a 
+great time...{x
+{c
+{WCONTINUED IN 'HELP 2RULES'
+{x
+~
+
+0 DELETE~
+{b
+******************************************
+{r
+Syntax: delete
+{r
+Use the delete command to erase unwanted
+characters, so the name will be available
+for use. This command must be typed twice
+to delete a character. Typing delete with
+an argument will return your character to
+'safe' status if you change your mind after
+the first delete.
+{b
+******************************************{x
+~
+
+0 OUTFIT~
+{b
+******************************************
+{r
+The outfit command, usable by levels 5 and
+beloW, equips your character with a new set
+of sub issue gear (banner, weapon, helmet,
+shield, and vest), courtesy of the Mayor's
+warehouses.  Only empty equipment slots are
+affected.
+{b
+******************************************{x
+~
+
+0 AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT~
+{b
+******************************************
+{r
+ROM uses varies automatic actions, to ease 
+the boredom of always splitting gold and
+sacrificing corpses.  The commands are as
+follows:
+{r
+autoloot  : take all equipment from dead mobs
+autogold  : take all gold from dead mobs
+autosac   : sacrifice dead monsters
+(if autoloot is on, only empty corpses)
+autoexit  : display room exits upon entering
+a room
+autosplit : split up spoils from combat among
+your group members
+autoassist : makes you help group members
+in combat
+{r
+Typing a command sets the action , typing
+it again removes it.
+{r
+See also: help pcinfo, help descflags,
+help conflags
+{b
+******************************************{x
+~
+
+-1 AFFECTS AFFECT~
+AFFECTS AFFECT
+             {b****************************************
+{r       This command is used to show all the spells affecting 
+      your' character. At low levels, only the spell name will 
+       be displayed, at higher levels the effects and duration 
+                of the spell will also be shown. 
+
+            Spell effects are no longer shown on score 
+          (this can be changed by using 'show' command).
+             {b*******************{m*{b********************{x
+~
+
+-1 'GROUP HEADER'~
+{CIf you are {cREMORTing{C and select a GROUP to add, you will be unable to DROP it.
+{CWe will have this fixed as soon as possible but until then think carefully about
+{Cwhich GROUPs you want to add.  Skills can be added and droped as normal, this note
+{CONLY applies to selections on the GROUP chart.{x
+
+{WThis list may be seen again by typing {RLIST{W.{x
+~
+
+-1 'GROUP HELP'~
+The following commands are available:
+list         display all groups and skills not yet bought
+learned      show all groups and skills bought 
+premise      brief explanation of creation points and skill groups
+add <name>   buy a skill or group
+drop <name>  discard a skill or group
+info <name>  list the skills or spells contained within a group
+help <name>  help on skills and groups, or other help topics
+done	     exit the character generation process
+~
+
+-1 'MENU CHOICE'~
+{RChoice {w({WADD,DROP,LIST,HELP{w){R? {x~
+
+-1 'GROUPS' 'INFO' 'PREMISE'~
+The ROM skill system allows you to fully customize your new character, making
+him or her skilled in the skills you choose.  But beware, the skills you pick
+at character creation are the only skills you will ever learn.  Skills are 
+paid for with creation points, and the more creation points you have, the
+harder it is to gain a level.  Furthermore, higher-cost skills are harder to
+practice.
+
+Skill groups are like package deals for characters -- sets of skills or spells
+that are closely related, and hence can be learned as a unit.  There is a 
+default skill group for each class, which can be selected for a balanced 
+selection of skills at a somewhat reduced cost.
+~
+
+-1 CLERIC 'CLERIC BASICS' 'CLERIC DEFAULT'~
+{b**************************************
+{r
+        Clerics are the warrior-priests and shamans of 
+      the realm.Trained in both in the fighting arts, and
+        magics of healing and protection. Clerics can
+    be a force to be reckoned with, as with such spells as
+     SANCTUARY and STONE SKIN, they may be easy to -hit-,
+      but they're hard to -hurt-. Of course there is the 
+   darker side to Clerical magic, and most will not hesitate
+    to lay down rains of BLINDNESS and CURSE to make mighty
+    warriors into blundering fools. Most clerics also learn at 
+     one time or another to SCRIBE, the art of making spell 
+                   scrolls good for one use.
+{b
+             {b**************************************{x
+~
+
+-1 THIEF 'THIEF BASICS' 'THIEF DEFAULT'~
+{b          **************************************
+{r
+     Faceless shadows and ruthless footpads, Thieves
+       are of the least respected classes in the
+    realm. Making their living through stealing from
+      others, they are naturally skilled at covert
+      acts like PICK LOCK and STEAL. Reputed for a 
+    lack of honor as well, a thief will not hesitate to 
+      stab you in the back, or kick dirt in your eyes
+   while fighting. Not completely without magic, Thieves 
+     may also be trained to use the IDENTIFY spell to
+   discern the exact workings of virtually anything. All
+     in all, of the classes more skilled in fighting, 
+   Thieves tend more well-rounded and versatile than any
+                          other. 
+{b
+          **************************************{x
+~
+
+-1 'SHIELD BLOCK'~
+{b
+******************************************
+{r
+Shield block is a rather fancy name for the
+art of parrying with a shield. Characters
+with no shield block skill will not be able
+to defend themselves well with a shield.
+Only Assassins, Warriors, Antipaladins,
+Paladins, and Rangers may learn shield block.
+{b
+******************************************{x
+~
+
+-1 BACKSTAB~
+{b
+******************************************
+{r
+Backstab is the favored attack of thieves
+and antipaladins.  It is necessary to 
+wield a weapon which thrusts, pierces, stabs,
+or slices to backstab. The amount of damage
+inflicted by a backstab is determined by the
+attacker's level, his weapon skill, his
+backstab skill, and the power of his opponent.
+{b
+******************************************{x
+~
+
+-1 BERSERK~
+Only powerful warriors can master berserking, the ability to enter insane rage
+in combat.  Its effects are not altogether unlike the frenzy spell -- a huge
+surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking warriors are more resistant to the effects of magic.
+~
+
+-1 DISARM~
+{b
+******************************************
+{r
+Syntax: disarm
+{r
+Disarm is a somewhat showy and unreliable
+skill, designed to relieve your opponent
+of his weapon.  The best possible chance
+of disarming occurs when you
+are skilled both your own and your opponent's
+weapon. Talented thieves, warriors, paladins,
+assassins, anti-paladins, and rangers may
+learn this skill.
+{b
+******************************************{x
+~
+
+-1 'ENHANCED DAMAGE'~
+{b
+******************************************
+{r
+Warriors, assassins, paladins, anti-paladins,
+and rangers can become skilled enough in
+combat that they are able to inflict more
+damage than other classes.  Enhanced damage is
+checked for with each hit, although with a
+low skill, the chance of receiving a bonus
+is very low indeed.{b
+
+******************************************{x
+~
+
+-1 ENVENOM~
+{b
+******************************************
+{r
+The envenom skill is a cowardly skill
+practiced only by thieves, assassins, and
+antipaladins, designed to win a battle
+through alchemy and treachery rather than
+skill or strength. Or, put another way,
+its a skill used by the smart to kill the
+foolish. Food, drink, and weapons may be
+envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on
+the consumer, and is unlikely to be more
+than a minor inconvience (after all, the
+typical adventurer could drink sewer water
+with only a trace of the runs).  A poisoned
+weapon, on the other hand, can inflict serious
+damage on an opponent as the poison burns
+through his bloodstream.  But be careful,
+blade venom evaporates quickly and is
+rendered almost powerless by repeated
+blows in combat.
+{b
+******************************************{x
+~
+
+-1 'HAND TO HAND'~
+{b
+******************************************
+{r
+Hand to hand combat is a rare skill in the
+lands of Midgaard. Learning this style of
+fighting gives the player a weapon even
+when disarmed -- bare hands. Trained hand
+to hand experts are far more effective than
+many swordsmen. Clerics and warriors are
+the best at this skill, although any class
+may learn it.
+{b
+******************************************{x
+~
+
+-1 KICK~
+{b
+******************************************
+{r
+Kicking allows the adventurer to receive
+an extra attack in combat, a powerful kick.
+However, a failed kick may throw an unwary
+fighter off balance. Thieves, Assassins,
+Paladins, Anti-Paladins, Warriors, and 
+Rangers may learn kick.
+{b
+******************************************{x
+~
+
+-1 RESCUE~
+{b
+******************************************
+{r
+A friend in need is a friend indeed.  And
+when in combat, a warrior with the rescue
+skill is just the friend you need.  Rescue
+allows you to intercede in combat, protecting
+weaker characters from bodily harm. Hopefully
+the favor will be returned.  Success in
+rescuing depends on the skill rating, as
+well as a comparision of level, dexterity,
+and speed between the character and the
+target. (note: you rescue a friend, not
+the monster)
+{b
+******************************************{x
+~
+
+-1 'FAST HEALING'~
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  All class may learn this skill, but mages find it
+very difficult to master, due to their bookish lifestyle.
+~
+
+-1 PICK 'PICK LOCK'~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. Other classes may
+learn to pick locks, but they will never find it easy.
+~
+
+-1 MEDITATION~
+This skill is similar to fast healing, but relies on the concentration and
+mantras to increase mana recovery when the character is sleeping or resting.
+Thieves and warriors, with their troubled minds and violent attitudes, have
+much trouble learning to meditate.
+~
+
+-1 MARRY MARRIAGE SPOUSE SPOUSETALK DIVORCE~
+Ah, the beautiful ceremony that occurs when someone loves another so much
+that they wish to spend the rest of their lives together.  Unfortuneately,
+it turns sour sometimes.  Whether you're wanting to marry, or be divorced,
+it must be performed by an Immortal.  With marriage, comes the ability
+to communicate exclusively to your spouse via your own private talkline.
+
+Marriage code written by Ryouga (ryouga@jessi.indstate.edu).
+~
+
+101 Slay~
+Syntax: slay (who) <option>
+
+  Where the "option" is one of the predefined "slay types".  Your coder can
+  set up new types for each person who has access to the slay command.  To
+  set up a new type is fairly straight forward, there are three messages,
+  one sent to you (as the one who used the slay command), one sent to the
+  poor victim, and one sent to everyone else in the room.  There are a few
+  variables you can set in your slay type, including your name, the
+  victims name, the sex of each, things like 'him','her','his','hers',etc.
+  The format for using these variables goes like this:
+
+  (Keep in mind, that "ch" stands for the "character" who used the slay
+  command, "arg2" is the victim, which I would think, is self-eplanatory)
+
+    $n  Result is the name of 'ch'.  If 'ch' is not visible to the target
+        character, result is the string 'someone'.
+
+    $N  Result is the name of 'arg2' (considered as a victim).  If 'arg2'
+        is not visible to the target character, result is the string
+        'someone'.
+
+    $e  Result is 'he', 'she', or 'it', depending on the sex of 'ch'.
+
+    $E  Result is 'he', 'she', or 'it', depending on the sex of 'arg2'
+        (considered as a victim).
+
+    $m  Result is 'him', 'her', or 'it', depending on the sex of 'ch'.
+    $M  Result is 'him', 'her', or 'it', depending on the sex of 'arg2'
+        (considered as a victim).
+
+    $s  Result is 'his', 'her', or 'its', depending on the sex of 'ch'.
+
+    $S  Result is 'his', 'her', or 'its', depending on the sex of 'arg2'
+        (considered as a victim).
+
+   A few examples follow:
+
+    Rand
+    Rand's balefire
+    Siezing Saidin, you blast $N with a bolt of blazing balefire!
+    Your vision goes negative as $n's searing bolt of balefire anhilates you!
+    $n's blast of balefire rips $N from the pattern!
+
+    In the above example, "Rand" means that only the character known as
+    "Rand" can use this slay type, or will even see it as an option.
+
+    "Rand's balefire" is the name of the slay option itself. The "Keyword"
+    that you would use on the command line. *note* You can abbreviate the
+    keyword as long as it's unique, exampe: "slay jonas balefire" would
+    slay the poor slob jonas, using "Rand's balefire" as the slay option.
+
+    The next three lines, are the "TO_CHAR" (to you) "TO_VICTIM" and
+    "TO_ROOM" messages, with variables, that get sent to the appropriate
+    people.
+
+
+This "Slay" command was written by Gary McNickle <gary@dharvest.com>
+at Dark Harvest Systems.
+~
+
+0 CHOOSE~
+Syntax: choose (x2)
+This command allows you to be involved in PK.  You must be between the
+levels of 20 and 40 and you may not be a remort.  Type this command twice to
+join PK.  Once you have chosen, you may not leave PK under any
+circumstances.  You may join a clan once you have decided to be involved in
+PK.  Type 'help clan' for more information.  
+~
+
+0 AUCTION~
+Syntax: auction <item>
+Syntax: auction info
+Syntax: auction bet <amount>
+~
+
+101 PNOTE~
+Syntax: pnote <character>
+ 
+This command give note privledges to players. While typing it once will give 
+them privs, typing it again will take away the note privledge.
+~
+
+500 BXIMMLEVEL~
+{D
+      {gThe Immortal Levels{c/{gTitles of the {rKotRD{w:{x
+ 
+		{cIMPLEMENTOR{w: {C500{cth
+
+ 	       {cASSISTANT IMP{w: {C499{cth
+
+            {cGREATER GOD{w: {C121{cst to {C130{cth
+       
+             {cLESSER GOD{w: {C116{cth to {C120{cth
+
+             {cDEMI-GOD{w: {C111{cth to {C115{cth 
+         
+            {cVETERAN IMM{w: {C105{cth to {C110{cth
+
+ 		 {cNEWBIE IMM{w: {C104{cth
+
+		  {cBUILDER{w: {C103{crd
+
+		{cVISITING IMM{w: {C102{cnd
+
+		  {cIMMORTAL{w: {C101{cst{x
+
+~
+
+0 rebirth story~
+{x
+{rPhoenix{W: Rebirth of the {RRed {WDragon{x
+{x
+{cIn the beginning there was the {DKnights of the {rRed {DDragon{c. She stood alone as the {BGreatest {GMUD{B Of All-Time{c.{x
+{x
+{cSadly, her days could not last and the light that was her soul, flickered, and went out.{x
+{x
+{cEnter the {rPhoenix{c.{x
+{x
+{cFrom {RFiery {cashes of {DKot{RR{DD's{c grave, {rPhoenix{c arises.{x
+{x
+{WTHE JOURNEY HAS BEGUN.{x
+{x
+~
+
+0 DEATH~
+Upon death, you will find yourself resting at the Temple Courtyard quite
+naked and divested of all spells that may have once been upon you, as
+well as half the money in your beltpouch. You will also find you have
+lost some amount of experience.
+ 
+When this happens, go east to the Morgue where you can retrieve your
+belongings from your corpse.
+ 
+If you happen to have been killed by another player in a PK battle, you
+will awake at the Temple Courtyard, but your corpse will remain at the
+spot where you were killed.
+ 
+Also see help for: PK
+~
+
+0 guild~
+{b             *************************************** 
+{r
+{r         Guilds are places to learn new skills, practice 
+{r            skills so you can use them in combat, and
+{r             rest up before your next big adventure.
+{r
+{C                       Guild Directions
+{C                 (all directions from recall)
+{r                       
+{r                        Warrior {y2s 2e s
+{r                          Cleric {ys w
+{r                   Assassin and Thief {y3s e s
+{r                     Psionic {y2s 3e 3n w
+{r                    Antipaladin {y2s 3e n w
+{r                      Paladin {y2s 3w 2s e
+{r                       Ranger {y2s 3e 3s w
+{r                          Mage {y2s 2w s
+{r
+{b             *************************************** {x
+~
+
+0 channel~
+{b          ****************************************
+{r
+{C        CHAT VENT RP CLAN CWAR DPTALK YELL GTALK SAY
+{r                   
+{r                   Syntax: CHAT   <message> 
+{r                   Syntax: VENT   <message>
+{r                   Syntax: RP     <message>
+{r                   Syntax: CLAN   <message>
+{r                   Syntax: CWAR   <message>
+{r                   Syntax: DPTALK <message>
+{r                   Syntax: YELL   <message>
+{r                   Syntax: GTALK  <message>
+{r                   Syntax: SAY    <message>
+{r
+{b          ****************************************{x
+~
+
+0 word~
+{b               *************************************
+{r   
+                 Syntax:  cast 'word of recall'
+{r   
+              Has the same affect as recall, but can be
+            used by people in clans, and within a battle.
+                You lose experience when recalling
+               from within a battle. Note: this spell
+                     can onLy be cast on yourself.
+{b   
+               *************************************{x
+~
+
+0 bless~
+{b            *************************************
+{r
+                 Syntax:  cast bless <target>
+{r
+             Asks your god for his or her favor, 
+         increasing your hitroll and saving throws
+                       if successful.
+{b
+            *************************************{x
+~
+
+0 lightning~
+{b             *************************************
+{r   
+               Syntax:  cast 'call lightning' <target>
+{r
+            Brings a lightning bolt down from the skies
+             to hit your opponent. This spell can only
+                   be cast in bad weather.
+{b
+               *************************************{x
+~
+
+0 calm~
+{b             *************************************
+{r   
+                        Syntax: 'cast calm'
+{r
+           When this spell is cast, everyone in the room
+              becomes less inclined to fight, lowering
+              their chance of hitting and the amount of 
+                           damage they do.
+{b
+               *************************************{x
+~
+
+0 cancellation~
+{b             *************************************
+{r   
+                    Syntax:  cast cancellation
+{r
+               Cancellation attempts to remove spells 
+            affecting you.  It can fail if the caster of
+                a spell was a higher level than you,
+            and cancellation also depends on which spell
+                    you are trying to cancel.
+           Note: this spell can only be cast on yourself.
+{b
+               *************************************{x
+~
+
+0 cause critical~
+{b             *************************************
+{r      
+               Syntax:  cast 'cause critical' <target>
+{r
+               Inflicts serious wounds on the target, 
+                          creating damage.
+{b
+               *************************************{x
+~
+
+0 cause light~
+{b             *************************************
+{r      
+               Syntax:  cast 'cause light' <target>
+{r
+               Causes light wounds on the target, 
+                         inflicting damage.
+{b
+               *************************************{x
+~
+
+0 cause serious~
+{b             *************************************
+{r      
+               Syntax:  cast 'cause serious' <target>
+{r
+                Causes serious wounds on the target, 
+                inflicting a medium amount of damage.
+{b
+               *************************************{x
+~
+
+0 detect magic~
+{b            ************************************
+{r
+                  Syntax:  cast 'detect magic'
+{r
+           Reveals things around the caster which are 
+                        magical in nature.
+{b
+              ************************************{x
+~
+
+0 detect poison~
+{b            ************************************
+{r
+              Syntax: cast 'detect poison' <item>
+{r
+           Reveals whether or not an item is poisoned.
+{b
+              ************************************{x
+~
+
+0 FLY~
+{YSyntax:{x  'cast {wfly {r<{xtarget{r>{x'
+ 
+Allows the target to {CFLY{x over obstacles such as water, and avoid being tripped.
+ 
+~
+
+0 infravision~
+{YSyntax: {xcast {winfravision{x
+{x
+Allows the caster to see in the dark without a torch or light_source.
+~
+
+0 locate object~
+{b            ************************************
+{r
+              Syntax:  cast 'locate object' <name>
+
+          Tells you the owner, or the room location,
+       of all items which have the desired name in them.
+{b
+             ************************************{x
+~
+
+0 protection evil~
+{YSyntax:{x  cast '{wprotection evil{x'
+ 
+Surounds the caster with an aura which weakens attacks from things of evil alignment.
+The damage the caster takes from things with evil alignment will be decreased.
+ 
+{WNote:{x this spell can only be cast on yourself.
+ 
+~
+
+0 protection good~
+{x
+ 
+               Syntax:  cast 'protection good'
+          Surounds the caster with an aura which weakens
+            attacks from things of good alignment.
+        The damage the caster takes from things with good
+                  alignment will be decreased.  
+         Note: this spell can only be cast on yourself.
+~
+
+0 refresh~
+{b            ************************************
+{r
+                 Syntax: cast refresh <target>
+{r
+               Restores a portion of the target's
+                        movement points.
+{b
+             ************************************{x
+~
+
+0 remove curse~
+{b            ************************************
+{r
+                 Syntax: cast 'remove curse'
+{r
+               If successful, removes the curse 
+                     spell on the caster.
+{b
+             ************************************{x
+~
+
+0 sanctuary~
+{b            ************************************
+{r
+                Syntax: cast sanctuary <target>
+{r
+            Creates a barrier which protects the target
+              from damage, halving the damage taken
+                       from all sources.
+{b
+             ************************************{x
+~
+
+0 stone skin~
+{YSyntax:{x  cast '{wstone skin{x' {r<{xtarget{r>{x
+ 
+Turns the target's skin to stone, lowering their {CAC {W({xarmor class{W){x.
+ 
+~
+
+0 armor~
+{b            ************************************
+{r
+                     Syntax:  cast 'armor'
+{r
+                Lowers the target's armor class, 
+             increasing their resistance to damage.
+{b
+             ************************************{x
+~
+
+0 teleport~
+{b            ************************************
+{r
+               Syntax:  cast teleport <target>
+{r
+            Teleports the target to a random location
+                     somewhere within the MUD.
+{b
+             ************************************{x
+~
+
+0 energy shield~
+{b            ************************************
+{r
+              Syntax:  cast 'energy shield' <target>
+{r
+           Creates a field of energy around the caster,
+                    adding a layer of armor.  
+{b
+             ************************************{x
+~
+
+0 frenzy~
+{YSyntax:{x cast {wfrenzy {r<{xtarget{r>{x
+ 
+Causes the target to go into a blood-thirsty frenzy, increasing their chance to hit and
+the amount of damage that they do.
+ 
+{WNote:{x the caster and the target must be of the same alignment for this spell to work.
+ 
+~
+
+0 gate~
+{b            ************************************
+{r
+                 Syntax:  cast gate <target>
+{r
+           Teleports the caster to the location of the
+             target.  Like summon, the level of the
+          caster and the level of the target determine
+       success; Gate has a higher success rate than summon.
+{b
+             ************************************{x
+~
+
+0 harm~
+{b            ************************************
+{r
+                 Syntax:  cast harm <target>
+{r
+          Uses power from the Gods to do a large amount
+                   of damage to the target.
+{b
+             ************************************{x
+~
+
+0 heal~
+{YSyntax:{x  cast {wheal {r<{xtarget{r>{x
+ 
+Most powerful healing spell, heals a large amount of hp for the target.
+ 
+~
+
+0 holy word~
+{b            ************************************
+{r
+                  Syntax:  cast 'holy word'
+{r
+          Adds various beneficial affects to everyone
+            of your alignment in the room.  If a
+       person of opposite alignment is present, it also
+                  does damage to that person. 
+{b
+             ************************************{x
+~
+
+0 lightning bolt~
+{b            ************************************
+{r
+             Syntax: cast 'lightning bolt' <target>
+{r
+        One of the Cleric's most powerful spells, creates
+             a lightning bolt to strike the target, 
+              resulting in large amounts of damage.
+{b
+             ************************************{x
+~
+
+0 STR INT WIS DEX CON~
+Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX),
+and Constitution (CON) are all attributes your character possesses,
+reflecting your innate and enhanced abilities.
+
+{cSTRENGTH{x is an attribute which determines how much weight - and
+also how many items - that you can wear and hold at the same time.
+
+{cINTELLIGENCE{x is an attribute that determines how quickly you
+learn skills and spells. The higher your intelligence, the fewer
+practices you will need to raise a particular skill or spell to its
+maximum (75%).
+
+{cWISDOM{x is the attribute which determines how many practices you
+will game with each new level.
+
+{cDEXTERITY{x is the attribute that determines your skillfulness in
+combat and in handling weapons. Skills such as {wCIRCLE{x, {wBACKSTAB{x,
+and {wASSASSINATE{x require a high level of dexterity.
+
+{cCONSTITUTION{x is the attribute which determines how many hitpoints
+you will gain with each new level.
+
+Each of these attributes can be trained at your guildmaster. The maximum
+level of each attribute is determined by your character's race. Each
+attribute can also be enhanced magically through armor effects and
+spell effects.
+ 
+Also see help for: RACE, TRAIN
+~
+
+0 summon~
+{b            ************************************
+{r
+                 Syntax:  cast summon <target>
+{r
+          Transports the target to the caster. This spell
+             will fail if the target is of higher level
+                        than the caster.
+{b
+             ************************************{x
+~
+
+0 dispel magic~
+{b            ************************************
+{r
+              Syntax:  cast 'dispel magic' <target>
+{r
+             Attempts to cancel spells on the target.
+           Success depends on the level of the caster,
+             and the level of the spell which it is
+                        trying to remove.
+{b
+             ************************************{x
+~
+
+0 HIT KILL~
+{b
+*********************************************{x
+{r
+Syntax: Kill <target>
+{r
+This command starts combat with the specified
+target. It will not function if you are sitting,
+resting, or sleeping, and cannot be used in SAFE
+rooms. You must have joined PK to use this command
+on other players. 
+Note: if you are forced to a sitting position 
+DURING combat you will remain fighting but will
+take more damage. This is the only way you may
+both sit and be in combat.
+{b
+*********************************************{x
+~
+
+0 psionic~
+{b**************************************{x
+{r
+       An oddity among the spellcasters, the Psionicist
+        differs from Mages and Clerics in that instead
+       of using the powers of mana to create effects, the
+      Psionicist uses instead the power of its own mind to
+    project will. More balanced than either of the other pure
+     spellcasters, a Psionicist enjoys a wholly unique array
+ of spells in all categories. With abilities such as CHAMELEON
+        POWER and SHADOW FORM, skilled Psionicists may
+    also blend in like thieves, and with HEIGHTEN SENSES, the
+     world seems to slow down for a Psionicist as everything
+       around becomes clearer,revealing things the naked 
+                         eye cannot see. 
+{b
+            {b**************************************{x
+~
+
+0 assassin~
+{b          **************************************
+{r
+        Masters of the silent blade, Assassins are
+    trained much in the way of thieves, except instead
+   of using their sneak and stealth to relieve others of 
+      their possessions, the Assassin instead seeks 
+   to relieve the wary of their lives. With ASSASSINATE
+    a skilled assassin can fell the most powerful of 
+  enemies with a single blow, and with
+      ENVENOM, every blow can be a new lesson in pain.
+      The rampaging Assassin should be wary though, as 
+  these "one-hit-wonders" can't stand toe-to-toe with most
+          fighting classes in one on one combat.
+ {b
+         **************************************{x
+~
+
+0 PALADIN~
+A curious combination of both Warrior and Cleric, Paladins are the hands and executors of the gods,
+able to handle situations both physical and magical through perseverance and faith. Like their priestly
+counterparts, Paladins learn the healing and protective arts, though not nearly to the same degree,
+armed with magic such as {YSANCTUARY{x and {YHEAL{x. Also, every Paladin spends time with the Warriors,
+learning the ways of the blade. Like Warriors, Paladins may become {YWEAPONMASTERS{x, but their most
+devastating fighting skill lies in {YCRITICAL STRIKE{x, in which the Paladin calls upon the gods to guide
+its hands to a truly awe-inspiring blow.
+ 
+~
+
+0 antipaladin~
+{b         **************************************
+{r
+        The other face on the Paladin coin, the 
+     Antipaladin is a combination of Warrior, Thief,
+     and the darker side of priestly magic, serving
+         the gods of chaos and evil. With spells 
+    like FORSAKE and HARM, an Antipaladin can quickly 
+     spell a large opponent down to its level, where
+         it may easily take it on with fighting 
+       prowess. Practical instead of Honorable, an
+  Antipaladin will easily stoop to a BACKSTAB or poison
+         weapons, and more often than not they 
+      will fly into a zealous rage, lashing out at
+             anyone who is foolish enough to 
+        get within sight. Like other warrior melds,
+            Antipaladins also have access to 
+                 the WEAPONMASTER group.
+{b
+         **************************************{x
+~
+
+0 ranger~
+{b         *************************************
+{r  
+    Literally forces of nature, Rangers are saddled
+      with the burden of protecting the wilds from
+   ever-encroaching 'civilization.' Capable of combat, 
+     stealth, and detection magic, Rangers are able
+      to cope with many situations. Mostly though,
+ they are still a fighting class and their unique skills 
+     certainly help them with combat. These include
+  COMPANION, which allows a Ranger to call to the wilds
+    for a creature to aid him in his quests, and the 
+    fearsome WHIRLWIND which whirls the Ranger like a
+     dervish, weapon extended, laying waste to the
+     most resilient of foes. Also possessed only by
+    Rangers is the lost art of tracking, which allows
+          them to trace the scent of nearly any 
+              creature in the known world.
+{b    
+          *************************************{x
+~
+
+0 DONATE~
+{b**********************************************{x
+{r
+Syntax: Donate <item>
+{r
+The Donate command sends the specified item to 
+the donation room NW of the Temple Courtyard in 
+Midgaard. Donating an item adds a timer to the 
+item,which will cause the item to crumble after 
+it expires. Additionally, not all equipment may 
+be donated. Higher-level equipment must instead
+be JUNKed.
+{b
+**********************************************{x
+~
+
+0 junk~
+{YSyntax: {xjunk {r<{xitem{r>{x
+{x
+The {CJunk{x command removes and destroys an item
+in your inventory without having to {YDROP{x and
+{YSACRIFICE{x it.
+~
+
+0 SECOND ATTACK THIRD ATTACK FOURTH ATTACK~
+{b
+*********************************************{x
+{r
+These skills allow a person to get multiple 
+strikes in combat, quickly increasing the 
+chances of surviving tougher combats. 
+Virtually any class can learn second attack,
+where third attack is reserved only for those
+with a great deal of skill. Finally, only 
+Warriors, masters of combat, will ever have a
+chance of learning fourth attack. Spells such as
+Haste may also grant a temporary bonus strike,
+giving the possibility of up to five attacks in
+one single round of combat.
+{b
+*********************************************{x
+~
+
+0 ELF~
+{x
+Many would think that the Elves are just forest-dwelling frolickers who
+would rather play than do anything worthwhile, but this reputation is
+undeserved.  While more frail than other races, the pointy-eared elves are
+frighteningly quick and don't hesitate to use this to their advantage. 
+Recently though as "society" has expanded towards the ancestral homes of the
+elves, more and more are filtering into the cities, where they are quickly
+earning new reputations as thieves and assassins.  Elves may be of any
+class.
+~
+
+0 SUCCUBUS INCUBUS~
+{b
+*********************************************{x
+{r
+Spawned from the planes of Hades, the Succubi
+are tempter-level demons sent to provoke men
+to mortal sin. They are hauntingly beautiful,
+and many a man has been lured away by just a
+look from one of these damned souls given 
+flesh. Their looks however should not decieve
+you into thinking them weak, as these creatures
+are stronger, faster, and more durable than most
+other races. Succubi make excellent Warriors,
+Antipaladins, Thieves, and Assassins. They
+also have the ability to become Mages. Incubi
+are the male counterparts to Succubi, and are
+largely identical.
+{b
+*********************************************{x
+~
+
+0 CAMBION~
+{b
+*********************************************{x
+{r
+The halfling offspring of a Demon and a Human,
+Cambions are easily identifiable from their 
+dark-tinted skin and ashen hair. Towering 
+creatures, Cambions are powerhouses in combat,
+able to absorb damage as well as they can lay
+it out. Like most demons however, they aren't
+overly bright, though if put to task they are
+well-capable of magic. Cambions excel as 
+Warriors, Thieves, and Assassins. They also 
+make decent Clerics, Mages, and Enchanters.
+{b
+*********************************************{x
+~
+
+0 DWARF~
+{b
+*********************************************{x
+{r
+Though short and stout, Dwarves are well-known
+through the realm as carrying the attitude of
+the most ornery giants. Dwarves are of the 
+most resilient of all races, able to take long
+barrages of attacks, both physical and magical, 
+and still come out swinging like mad. Lacking
+nowhere except in size, Dwarves also have a
+reputation as healers, and many become Clerics
+or Paladins without equal. Dwarves also may be
+Thieves, Assassins,Antipaladins, or Enchanters.
+Their inherent resistance to energy magic
+however, prevents them from becoming Mages.
+{b
+*********************************************{x
+~
+
+0 GIANT~
+{x
+Enormous in both size and strength, Giants tower over all but Titans and
+some Golems.  The earth shakes when they step, and to them, human-sized
+weapons may as well be toothpicks.  As large creatures, Giants enjoy a
+durability that surpasses that of the dwarves, against slashing weapons
+especially.  The achilles heel of the Giant is in its intelligence, which is
+often very low, leaving them vulnerable to mental attack.  Giants make
+renowned warriors, and in the most intelligent of the species, excellent
+Paladins and Antipaladins.  No giant, however, is ever capable of becoming a
+full spellcaster.
+~
+
+0 LIZARDMAN~
+{b
+*********************************************{x
+{r
+From the swamps and marshes of the world, the
+tribal Lizardmen are a largely sinister race
+that likes to fight dirty, notorious for using
+their tails to sweep the feet out from under
+their opponents, among other things. Physically,
+Lizardmen are stronger, quicker, and more
+durable than humans, giving them an advantage
+in combat. Mentally, they aren't far behind the 
+early human culture that they mimic, and have 
+long since developed their own formulas and
+magics. Some say that the indomitable will
+of the Lizardmen makes them resistant to 
+mental attacks, though this has not yet been
+proven. Thief, Warrior, and Assassin are all
+good class choices for this race, and some
+Lizardmen have been known to become Clerics 
+or even Rangers.
+{b
+*********************************************{x
+~
+
+0 TITAN~
+{x
+Noble beings descended from the heavens of Olympus,Titans have the blood
+of the gods themselves running through them, giving them superior physical
+and mental abilities.  Also, as they are so linked to divinity, Titans enjoy
+resistance to the plagues and poisons most mortals have to deal with.  Even
+multiple wounds will not stop a Titan for long, as the blood of the ancients
+quickly sears closed the flesh, and given a few minutes these giants will be
+ready to fight anew, just as hard and fierce as the first time.  Their
+natural-born abilites make them superb Warriors, Paladins, and Antipaladins,
+and being no slouches mentally either, Titans may elect to become Mages,
+Clerics, or Enchanters as well.
+~
+
+0 MINOTAUR~
+{b
+*********************************************{x
+{r
+Once thought only to be a unique creature of
+legend, these bull-headed humanoids are indeed
+their own race from the northern reaches of the
+realm. Physically strong but mentally weak,
+Minotaurs are savage in combat, flying into
+berserk rage at even the slightest hint of 
+blood, giving them the ability to go toe-to-toe
+with even races such as Giants.However they are
+not without their shortcomings, and their lack
+of willpower makes them vulnerable to spellcasters
+and their weavings. Minotaurs also lack the
+concentration to develop any advanced skill,
+and may only become Warriors.
+{b
+*********************************************{x
+~
+
+0 TROLL~
+{b
+*********************************************{x
+{r
+Gruesome creatures, Trolls are tall and lanky,
+with elongated noses and sunken eysockets.
+Their skin ranges from olive to a sickly green,
+and any hair they have is inky jet. For their
+size they are powerful creatures, possessing
+great strength and an absolute refusal to die.
+Trolls are also inhumanly quick, and most can
+rain down a hail of attacks that will kill most 
+opponents outright. Strangely, as hard as Troll
+skin is to cut, it burns like paper, and most
+Trolls will go running the other way at the
+sight of torches. Trolls aren't known for
+intelligence, either, and thus may only be
+Warriors and Assassins.
+{b
+*********************************************{x
+~
+
+0 GOLEM~
+{x
+"Born" as magical constructs in wizard laboratories, Golems are not
+actually "alive" at all.  Instead they are beings created from materials,
+given life through spellcasting wizards, usually to perform repetative tasks
+or to serve as guards.  However, some of these enslaved creatures break free
+of their bonds and leave their creators to seek their own lives and their
+own personalities.  Being almost elemental in nature, Golems are extremely
+strong and resilient, but unfortunately, as they are mechanical,they tend to
+be slow and have less than average intelligence.  Golems make for excellent
+Warriors, mediocre assassins, and the most intelligent of their kind have
+become Paladins and Antipladins.
+~
+
+0 SIDHE ELF~
+{b
+*********************************************{x
+{r
+Sidhe (pronounced like She) are not really
+elves at all. Instead the Sidhe are the 
+spell-slingers of the faerie-realm, the "elf"
+part of their name tacked on by the other races
+of the realm, as they look very similar. In 
+truth the Sidhe Elves are creatures of magic,
+with mana bound to every fiber of their being,
+even running through their very blood.Masterful
+in their spellcasting, the Sidhe are a race 
+with little equal, having both average strength
+and resilience and unsurpassed mental and
+dexterous ability. They make unparalleled
+spellcasters, with the Sidhe able to be Mages,
+Clerics, Psionicists, and Enchanters. Sidhe
+also have a sense of the Wilds and Nature, 
+giving them a natural affinity towards Rangers.
+{b
+*********************************************{x
+~
+
+0 DARKELF~
+{b
+*********************************************{x
+{r
+Twisted cousins of the forest-dwelling elves,
+the race now called the Dark Elves lives
+underground, where they were exiled to many
+years ago for some unknown crime against their
+former brothers. Their many years outcast in the 
+hostile caverns of the realm has turned them into
+a twisted, spiteful race, who hate all who live
+above. Dark Elves, like their surface dwelling
+cousins, are physically weaker than most races,
+but make up for this with their immense knowledge
+and lightning dexterity. The Dark Elves excel as 
+spellcasters, and may become Mages, Clerics, and
+Enchanters. They also make good Assassins and
+Antipaladins, and some numbers of them become
+renowned Warriors.
+{b
+*********************************************{x
+~
+
+0 KENDER~
+{b
+*********************************************{x
+{r
+The origin of the Kender is still sketchy at
+best, and the only people that truly know,
+the Kender themselves, aren't telling. Kender
+are, curiously, short and resistant like
+dwarves but slender and quick like elves. The
+very thing this suggests however will get you
+slapped by any elf or dwarf. Kender however 
+don't care. About much of anything, in fact.
+They live carefree lives, amused and in 
+wonder of everything, much like a child. The
+Kender never seem to settle down, almost 
+nomadic in their ways, but this is not the 
+strangest thing about them. Kender seem to have
+a compulsion to "borrow" things that aren't
+theirs. They honestly don't intend to do this,
+but calling a Kender a thief is the -only-
+sure way to piss them off. They -do- make 
+excellent thieves though, and very 
+competent assassins and rangers. They are 
+also capable of becoming warriors. 
+{b
+*********************************************{x
+~
+
+0 MYRDDRAAL~
+{x
+Once servants of the Elven Highlords, the unnatural Myrddraal trace roots
+back to Hades and the plane of the Dead as well.  Created in some twisted
+wizard's sense of perfection, the Myrddraal carry many powers innate which
+would normally require sorcery.  Their unusual form grants immunity to many
+forms of attack, and their sinister nature and natural stealth gives them a
+natural aptitude for dirty tricks such as assassination.  Myrddraal are
+physically superior to even Giants, and more dextrous than the mysterious
+Sidhe.  Now they are free of their bondage, and set upon the world to exact
+revenge for their torment.  Thankfully not without vulnerability, a
+Myrddraal is succeptible to most common weaponry, and is not created with
+but rudimentary intelligence.  Myrddraal may be Warriors, Thieves,
+Assassins, or Antipaladins. 
+~
+
+0 DESCFLAGS~
+{b
+*********************************************{x
+{r
+Syntax: Compact     Default: Off
+Syntax: Prompt      Default: On
+Syntax: Combine     Default: On
+Syntax: Combatinfo  Default: Off
+Syntax: Quiet       Default: Off
+{r
+These flags set the way various information is
+received by you.
+{r
+COMPACT
+PROMPT will toggle the status bar that appears
+on every command line on/off.
+COMBINE, when on, will display multiple items
+like this in your inventory-
+{r        (2) a sword
+COMBINE, when off, will display the same
+multiple in the example above like this-
+{r        A sword
+{r        A sword
+COMBATINFO toggles extra combat information,
+such as the information lines that show which
+hits are which attacks (first/second/third/
+fourth/haste).
+QUIET, when on, will only allow you to see says
+and emotes. This is ideal for when concentration
+is key, or if you're roleplaying and want to stay
+"In Character".
+{b
+*********************************************{x
+~
+
+0 ENHANCED STRENGTH~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Enhanced Strength'
+{r
+Through Focus of the mind a Psionicist may 
+modify his body and temporarily increase in
+both size and strength. This greatly enhances
+the power of the Psionic, and the effect
+increases with level. A Psionic may not cast
+this spell on others.
+{b
+*********************************************{x
+~
+
+0 PSYCHIC DRAIN~
+{x
+{YSyntax: {xcast '{wpsychic drain{x' {r<{xtarget{r>{x
+{x
+Through the invasion of the target's mind, Psychic Drain can zap the strenght
+of any enemy. Someone hit with Psychic Drain will find themselves at a weakness,
+finding simple tasks such as walking strenuous. If you do not specify a target
+the spell will automatically target anyone you are currently in combat with.
+~
+
+0 PSYCHIC HEALING~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Psychic Healing'
+{r
+To a Psionicist, controlling one's own body
+is a simple task. With the power of Psychic
+Healing a Psionic may simply will his body to
+work overtime on natural regeneration,
+causing wounds to seemingly close on their
+own, and restoring much needed vigour. This
+power may not be used on others.
+{b
+*********************************************{x
+~
+
+0 ENERGY CONTAINMENT~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Energy Containment'
+{r
+With projected fields of psionic energy, a
+Psionicist may adapt and absorb the mana
+contained within all magical attacks, accepting
+it in part, harmlessly into its body. This
+power thusly adds to a Psionicist's resistance 
+to magic.
+{b
+*********************************************{x
+~
+
+0 ECTOPLASMIC FORM~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Ectoplasmic Form'
+{r
+By modifying itself on a cellular level, the
+Psionicist with this power actually lowers its
+own density, enabling the Psionic to pass
+through materials that are otherwise solid to
+normal people. This power is much like the
+spell PASS DOOR. Ectoplasmic Form is self-use only.
+{b
+*********************************************{x
+~
+
+0 ESSENCE DRAIN~
+{b
+*********************************************{x
+{r
+Syntax: cast 'essence drain' <target>
+{r
+Skilled Psionics can use this spell to drain
+the very life from the target. If a target
+is not specified for this spell, it will 
+automatically target whoever you are in combat
+with.
+{b
+*********************************************{x
+~
+
+0 PROJECT FORCE~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Project Force' <target>
+{r
+Skilled Psionics will learn the ways of 
+inertia and momentum, and with that advanced
+knowledge comes the power of Project Force. With
+this power a  Psionicist can literally bludgeon
+an opponent to death from a distance, 
+absorbing the invisible momentum around it and
+redirecting it towards any given target. If a
+target is not specified for this power, it will 
+automatically target whoever you are in combat
+with.
+{b
+*********************************************{x
+~
+
+0 BIO FORTRESS~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Bio Fortress'
+{r
+An invaluable power in the hands of any
+Psioncist, at this level of strength the
+Psionic has learned to create a bioluminescent
+aura about itself, that hardens like steel and
+resists force like rubber, reducing by half
+any damage penetrating it. This is much akin
+to the spell SANCTUARY, and may not becombined
+with either it, or its more powerful
+counterpart, GOLDEN AURA.
+{b
+*********************************************{x
+~
+
+0 SHARE STRENGTH~
+{x
+{YSyntax: {xcast '{wshare strength{x' {r<{xtarget{r>{x
+{x
+With a slight manipulation of the Psionic Power {cLEND HEALTH{x, Psionicists may also give
+their physical might for others to borrow. Upon casting of this spell the target will recieve
+a sudden burst of strength that rivals the {cGIANT STRENGTH{x spell, but unlike the Magely
+counterpart, the Psionic will feel a little weaker each time this spell is cast, until
+the duration wears off. This spell increases in effect as the Psionic gains levels.
+~
+
+0 PSIONIC BLAST~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Psionic Blast' <target>
+{r
+The most damaging of single-target Psionic
+Powers, the Psionic Blast is a sight to behold.
+Using only its own will, a Psionic with this
+devotion may now send ripples through the
+fabric of being, wrecking hell with any living 
+matter they come in contact with. If a target
+is not specified for this power, it will
+automatically target whoever you are in combat
+with.
+{b
+*********************************************{x
+~
+
+0 EGO WHIP~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Ego Whip' <target>
+{r
+Another power that forces the target to act
+against itself, this twists thoughts and
+destroys confidence. The likes of this power
+can turn a skilled warrior into an incompetent
+know-nothing with a singleutterance. If a target 
+is not specified for this power, it will 
+automatically target whoever you are in
+combat with.
+{b
+*********************************************{x
+~
+
+0 ENHANCE ARMOR~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Enhance Armor' <armor>
+{r
+One of few helpful manipulations that can
+be cast on something other than the 
+Psionicist itself, Enhance Armor strengthens
+the molecular bonds in pieces of armor, making
+them stronger and more resistant to blows.
+This power however is not perfect, and for
+some reason cannot affect armor that has a magic 
+aura. The effect of this power increases with the
+Psionic's level.
+{b
+*********************************************{x
+~
+
+0 DISPLACEMENT~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Displacement'
+{r
+A manipulation upon obfuscate, the power of
+displacement uses the same principles of
+light and refraction to make the Psionicist
+appear to be in multiple places at once.
+Only one is the true image, however, and a 
+Psionic with this power active enjoys a bonus
+to both Dexterity and Armor. This spell 
+is self-use only.
+{b
+*********************************************{x
+~
+
+0 AWE~
+{x
+{YSyntax: {xcast '{wawe{x'
+{x
+A curious power, the {CAWE{x manipulation reaches into the minds of all those around the
+Psionicist, ripping their ideal hero figure from their mind and fooling their eyes into
+thinking that it is in fact, their hero that they are facing in battle. In most cases this
+ceases all combat for the duration of the power as everyone is awestruck by the person
+they are facing.
+~
+
+0 COMPLETE HEAL~
+{b
+*********************************************{x
+{r
+Syntax: Cast 'Complete Healing'
+{r
+The true mark of a master Psionicist, the
+discipline of Complete Healing combines all
+previously learned skills and powers. At this
+level of strength, the Psionic steps out of
+pain and wounds like a snake would shed its
+skin, damage and fatigue disapearing with but
+one forceful thought. Upon completion of this
+power, the Psionic is restored to maximum health.
+{b
+*********************************************{x
+~
+
+0 who~
+Syntax: who
+Syntax: who <race>
+ 
+Typing the 'who' command shows you the players who are online and
+visible to you.
+ 
+Depending on your abilities, you may not be able to see all players because
+they can be hiding or invisible.  Also, some immortals may choose to remain
+invisible to all players.
+ 
+Typing 'who <race>' will show you any visible players with a selected race.
+ 
+Also see help for:  TITLE
+~
+
+0 SCROLL~
+{x
+{YSyntax: {xscroll
+{YSyntax: {xscroll {r<{xnumber{r>{x
+{x
+This command changes the number of lines the mud sends you in a page {W({xthe default
+is 24 lines{W){x. Change this to a higher number for larger screen sizes, or to 0
+to disable paging.
+~
+
+0 STEAL~
+{b
+******************************************
+{r
+Syntax: STEAL gold <character>
+Syntax: STEAL silver <character>
+Syntax: STEAL <object> <character>
+{r
+STEAL attempts to STEAL coins, or an object,
+from a character.
+{r
+STEAL unsuccessfully, and you will aquire
+a thief flag, which will prompt cityguards
+and Hassan to attack you. A thief flag will
+also make you free game for killing.
+This is true even if you have not chosen to
+be a pkiller.
+{r
+In order to STEAL successfully, you must
+practice the appropriate skill.
+{b
+******************************************{x
+~
+
+0 weapon~
+{b
+******************************************************
+{r
+Each weapon skill applies to a specific group of
+armaments, and determines how well a character fights
+with a particular weapon. The weaponsmaster group
+provides talent in all weapons (save exotics), from
+chair legs to halberds. If the character has the parry
+skill as well, he can parry incoming attacks. The chance
+of parrying is best if the character in question is
+skilled at both his weapon and his opponent's.
+{r
+The weapon skills consist of the following:
+{C
+weaponsmaster{r   skill group of all weapons listed below
+{r                (save exotic weaponry)
+{Caxe           {r  the use of axes, ranging from hand to
+{r                  great (but not halberds)
+{Cdagger        {r  the use of knives and daggers, and
+                 {r other stabbing weapons
+{Cflail    {r       skill in ball-and-chain type weapons
+{Cmace        {r    this skill includes clubs and hammers
+{r                  as well as maces
+{Cpolearm     {r    the use of pole weapons (except spears),
+{r                  including halberds
+{Cspear  {r         this skill covers both spears and 
+{r                  staves, but not polearms
+{Csword{r           the warrior's standby, from rapier to
+{r                  claymore
+{Cwhip {r           the use of whips, chains, and bullwhips
+{Cexotic{r          the use of strange magical weapons
+{b
+{b**************************************************{x
+~
+
+-1 2rules~
+{W** BASIC RULES **
+{c
+{W*{c Follow directions given to you by ANY & ALL IMMORTALs.
+If you feel the direction is inappropriate and do not 
+wish to follow it, then quit the game and contact the 
+IMPs via email:
+{c
+   {Wlgl525@home.com    rmccor@harborside.com  
+sembiance@rdsnet.com  contessa_2@yahoo.com
+{c
+{W*{c Do not beg IMMs for favors.  Do not whine about IMM punishments.
+{W
+* {cDo not use language, names, or titles that are offensive to anyone's 
+  race, gender, (OOC) religious beliefs, or the like.  
+{W
+* {cIf you use language, names, or titles offensive to an Immortal, expect 
+  them to use appropriate power to defend their honor.
+{W
+*{c Minimize the use of profanity on public channels.
+(Profanity is acceptable on the VENT channel only.)
+{W
+* {cDo NOT use "SEXUAL" language on public channels 
+(excluding VENT) or in titles.
+{W
+* {cUse the proper channels for the proper messages.
+{W
+* {cDo not Multiplay.  This includes, but is not limited to:
+{c
+     - logging multiple players on at the same time
+{c
+     - transferring gold or equipment from one of your characters
+       to another (Even if one is linkdead)
+{c
+     - using a character to cast spells on one of your other
+       characters or their equipment (Even if one is linkdead)
+{W
+{WCONTINUED IN 'HELP 3RULES'{x
+~
+
+-1 3rules~
+{x                 {G** {WMORE BASIC RULES {G**{x
+{x
+{G* {cDo not {YSAC{c/{YJUNK {cpersonal items {W({ci.e. marriage licences, wedding rings, 
+  etc...{W) {cgained through {RPK {ccombat.  Return them or allow the victim to 
+  trade and/or barter for them back.
+{x
+{G* {c"{CBOTTING{c" is not allowed here.  {CBOTTING {cis {CANYTHING {cthat 
+  allows you to  remain logged in while you are {RAFK {W({ctriggers, etc... 
+  that allow certain  things to happen automatically{W){c so as to avoid 
+  auto-disconnection for  the purpose of gaining hours or anything 
+  at all.  {CBOTTING {cis also when you use a {GMUD {cclient {W({ci.e. TINTIN{W){c
+  to control an automated player for the purpose of helping your
+  main {WPC {cto level, quest, etc...  This is also illegal and will be
+  dealt with swiftly.
+{x
+{G* {cHarrassment of other players is not allowed here.  This is 
+  anything that is upsetting your fellow player that you are doing. 
+{x  
+  {wThis includes, but is not limited to:{c
+   {r- {cSpamming them with {YTELLS {cinsulting them or if they ask you
+     to stop sending them {YTELLS{c.
+   {r- {wANY {ctype of Sexual Harrassment.
+   {r- {cAnything else that would/could be considered harrassment.  
+{x 
+  {cIf you would not like it done to your character {W({cor done to you 
+  in {CRL{W) {cdo not do it to someone else.  Common Sense is the key 
+  here, use it.
+{x
+{G* {cThere are {RNO Multi-Killing {crules enforced on {rRot{RR{rD{c.  What this
+  means is that {RMULTI-KILLing {cis completely {WLEGAL{c.  When you die your 
+  character is transported directly to a safe room {W({MThe {WTemple {MCourtyard{W){c 
+  that has several other safe rooms attached to it, one of the rooms 
+{x
+  {ccontains a {CHEALER {cand another is a {CDONATION {croom, so that you
+  can have time  to prepare yourself {WBEFORE {crunning back into the 
+  {GMUD {cagain. {WIF {cyou make the choice {rNOT {cto stay within this safe 
+  area and get killed again {W({cor even again and again{W) {cthat is {YYOUR {cchoice.
+{x
+                 {GCONTINUED IN '{WHELP 4RULES{G'{x
+~
+
+-1 4rules~
+{W** LAST PART OF RULES**
+{W
+*{cDo NOT abuse bugs. If you come across a bug, please note it to
+IMMORTAL. Do not discuss bugs on chat or abuse them. If you are
+found to be abusing a bug, reported or unreported,  you will be
+severely punished.
+{W
+** IMMORTAL PUNISHMENTS **
+{W
+* {cThere are essentially four classes of players here:
+    - Mortals (You the Player)
+    - Immortals (Someone Powerful)
+    - Assistant Implementors (Someone Incredibly Powerful)
+    - Implementors (Their Power is Infinite within KotRD)
+ {W
+* {cFor mortals, you are required to follow all directions given you by 
+an IMM,  an ASST IMP or an IMP.  An IMMORTAL can give you any
+ punishment they want,  for any reason.
+ {W
+* {cImmortals can not override other Immortals' punishments once they
+ have been  given, so do not try and get a second IMM involved in the 
+hopes of getting  bailed out!  The ONLY exception to this is that ASST
+ IMPs may override IMMs and IMPs may override anyone except fellow IMPS.
+{W
+     {c- Do not ARGUE over punishments given to you. Arguing over a
+ punishment will most likely make the punishment more severe. IMPS
+decisions are FINAL. Direct ANY and ALL queries regarding  your
+ punishment directly to the immortal punishing you, do not whine to the
+ASST IMPs or IMPs.  Whining may get you  FURTHER punishment.  
+ {W    
+ ** The Bottom Line **
+ {c
+We try to allow the maximum amount of freedom here for all of the
+ players to enjoy the game.  Immortals are usually players who have
+significantly contributed to KotRD and, accordingly, have earned
+the powers that they wield.  Mortals, in general, do not have a right
+to complain about minor punishments (such as nochanneling, jailing,
+ etc.) for a reasonable amount of time.  Public complaints do nothing
+but ruin the enjoyment of other players and will not be tolerated. 
+Private complaints should go directly to the person punishing you,
+or, if you feel the punishment is unjust, to the ASST IMPs/IMPs.
+Be warned that the ASST IMPs/IMPs will usually allow the IMMs 
+to exercise their power in most circumstances, so complaints
+about IMM punishments should be reserved for EXTREME cases.{x
+~
+
+0 amber~
+now i changed it
+~
+
+0 stones wisdom invite bid challenge accept forfeit~
+{B/----------------------------------------------------------------------------\{x
+{B|  {G____ ___ ____ _  _ ____ ____    ____ ____    _ _ _ _ ____ ___  ____ _  _{B  |{x
+{B|  {G[__   |  |  | |\ | |___ [__     |  | |___    | | | | [__  |  \ |  | |\/|{B  |{x
+{B|  {G___]  |  |__| | \| |___ ___]    |__| |       |_|_| | ___] |__/ |__| |  |{B  |{x
+{B|____________________________________________________________________________|{x
+{B|                                                                            |{x
+{B| {YHow the game is played{W:{B                                                    |{x
+{B|                                                                            |{x
+{B| {rTo begin the game, both you and your opponent roll {Wfive{r dice.{B              |{x
+{B| {rYou can't see your opponent's dice, and your opponent can't see yours.{B     |{x
+{B|                                                                            |{x
+{B| {rYou and your opponent take turns bidding on the dice.{B                      |{x
+{B|                                                                            |{x
+{B| {rIf you bid {Wthree fives{r, for example, you are betting that between the two{B  |{x
+{B| {rof you there are at least {Wthree fives{r.{B                                     |{x
+{B|                                                                            |{x
+{B| {rIf you bid {Wtwo sixes{r, you are betting that between the two of you there{B    |{x
+{B| {rare at least {Wtwo sixes{r.{B                                                    |{x
+{B|                                                                            |{x
+{B| {rObviously there is some guesswork involved, since you can't see your{B       |{x
+{B| {ropponent's dice.{B                                                           |{x
+{B|                                                                            |{x
+{B| {rAs the players take turns bidding, each bid must be higher than the last.{B  |{x
+{B| {WTwo fours{r is a higher bid than {Wtwo threes{r.{B                                 |{x
+{B| {WFour ones{r is a higher bid than {Wthree sixes{r.{B                                |{x
+{B|                                                                            |{x
+{B| {rBidding continues until one player "{Rchallenges{r" the other.{B                 |{x
+{B| {rA challenge occurs when one player thinks the other has bid too high,{B      |{x
+{B| {rthat the dice won't show as many as the bid.{B                               |{x
+{B|                                                                            |{x
+{B| {rAfter a challenge has been declared, all the dice are shown.{B               |{x
+{B| {rIf the bidder was correct in his bid, they win.{B                            |{x
+{B| {rIf the bidder was incorrect in his bid, the challenger wins.{B               |{x
+{B|                                                                            |{x
+{B| {rThe loser then loses one of their dice, and play starts again.{B             |{x
+{B| {rThe last player with any dice left wins the match.{B                         |{x
+{B|____________________________________________________________________________|{x
+{B|                                                                            |{x
+{B| {YGame commands{W:{B                                                             |{x
+{B|                                                                            |{x
+{B| {rTo invite a player to a match use{W:{B                                         |{x
+{B|   {Cinvite {W<player> <wager>{B                                                  |{x
+{B|        {rTo wager an item{W: {Cinvite {W<player> dagger{B                            |{x
+{B|           {rTo wager {Ygold{W: {Cinvite {W<player> 1000{B                              |{x
+{B|   {rTo wager {Gquest points{W: {Cinvite {W<player> 100qp{B                             |{x
+{B|        {rTo wager nothing{W: {Cinvite {W<player> 0{B                                 |{x
+{B|                                                                            |{x
+{B| {rTo withdraw your invitation{W: {Cinvite withdraw{B                               |{x
+{B|                                                                            |{x
+{B| {rOnce {W*both*{r players have invited each other to a match, and placed wagers,{B |{x
+{B| {ruse the {Caccept{r command to accept the invitation and begin the match.{B       |{x
+{B|                                                                            |{x
+{B| {rAt any point you can type {Cstones{r to see the status of the current match.{B   |{x
+{B| {rThis will also show you your current dice.{B                                 |{x
+{B| {rTyping {Cstones{r will also show you all invitaitons other players have sent{B   |{x
+{B| {rto you and what they wagered.{B                                              |{x
+{B|                                                                            |{x
+{B| {rDuring a match you can place your bid by using the {Cbid{r command{W:{B            |{x
+{B|   {Cbid {W<number of dice> <type of dice>{B                                      |{x
+{B|                                                                            |{x
+{B| {rYou can {Rchallenge{r your opponents last bid by typing {Cchallenge{B              |{x
+{B|                                                                            |{x
+{B| {rYou can forfeit the match by typing {Cforfeit{B                                |{x
+{B\____________________________________________________________________________/{x
+~
+
+0 Divine Wrath~
+{x
+{YSyntax: {xcast {w'{xdivine wrath{w'{x
+{x
+Brings forth the full {WWRATH{x of your God upon the desired target.
+This spell will cause your opponent to be {CWeakened{x, {CBlind{x, and {CCursed{x. 
+{x
+~
+
+0 AFK afk~
+AFK means "Away From Keyboard."  When you need to leave your computer for
+a period of time and want to alert others to this status, simply type
+AFK at your prompt.
+
+On the 'who' list, the letters AFK will show before your name.
+
+While you are AFK, any tells that you receive will be saved in a buffer.
+By tpying "replay" when you return, you will see the tells you got
+in your absence.
+
+To take yourself out of AFK mode, type "AFK" in your prompt again
+to toggle it off.
+
+AFK is bet for short periods of time. If you think you will be away
+for longer than 15 or 20 minutes, it is best to logout and rejoin
+the game when you are able
+ 
+Also see help for:  REPLAY, WHO
+~
+
+0 monkey~
+Syntax:  cast monkey (target)
+ 
+The monkey spell enables the caster to turn their target into
+a dung-throwing, banana-eating monkey for a short time.  In this state,
+one under the influence of this spell may act erratically and be unable
+to control their movements.
+ 
+Also see help for: armadillo, snake and weasel.
+~
+
+0 replay~
+Syntax:  replay
+ 
+When you come back from being AFK or linkdead, any tells you may have
+recieved during that time are saved in a buffer.  By typing 'replay'
+you will see the tells others have sent to you.
+ 
+Also see help for:  AFK, LINK-DEATH
+~
+
+0 link-death link-dead link~
+Sometimes the internet is not all that it is cracked up to be, and
+occasionally your connection to the gameport will drop.  
+ 
+This is called link-death.
+ 
+If you go link-dead while fighting a mob, you will automatically recall.
+However, if you are in a PK battle with a player, your character
+will continue fighting.
+
+In your link-dead state, your character may die.  Unfortunately this is a
+risk that is undertaken, and there are no reimbursements of experience or
+items if this should happen.
+ 
+If you are not fighting when you go link-dead, you may only miss out on a
+few tells that were sent in your absence.  To see the tells you received,
+type the 'replay' command when you have reconnected.
+ 
+Also see help for:  DEATH, PK, RECALL, REPLAY
+~
+
+0 alias~
+Syntax: alias
+Syntax: alias <word> <substitution>
+Syntax: unalias <word>
+ 
+The alias command allows limited shortening of command names.
+ 
+Aliases cannot call other aliases, and cannot generate more than one
+command.  Each player may assign up to 20 aliases.
+ 
+To create an alias, use the 'alias <word> <substitution> syntax.
+For example, to set a quick alias to get all items from a corpse, you
+could use:
+ 
+{walias gc get all corpse{x
+ 
+This equates the simple 'gc' to the command 'get all corpse.'
+ 
+Remember, the first word (or abbreviation) you type after the 'alias'
+command becomes the alias.  Everything that follows it must be a command
+you can use.
+ 
+If you want to delete an alias you have created, type 'unalias <alias>'
+~
+
+0 web website www.rotrd.com~
+Phoenix, Return of the Red Dragon has a website full of useful
+information for current and potential players of this MUD.  
+ 
+The URL is: {whttp://www.rotrd.com/{x
+
+The website has general information about Phoenix, its races,
+classes, clans and players. There is also a comprehensive list of
+directions to the areas on the game.
+ 
+The website is updated frequently.  Visit it often to stay up-to-date
+with the latest news for {RPhoenix{x{w:{x {rReturn of the Red Dragon.{x
+ 
+Also see help for: DIRECTIONS, PHOENIX
+~
+
+0 directions~
+Confused?  Lost?  Can't find that crazy new area you've heard so much
+about?  Help is on the way!  Simply point your web browser to: 
+ 
+                 {wwww.rotrd.com{x
+ 
+and click on the "Directions" link. Areas are listed alphabetically
+and all directions originate at recall.
+ 
+Also see help for: PHOENIX, WEBSITE
+~
+
+0 phoenix rotrd~
+{RPhoneix{x{w:{x {rReturn of the Red Dragon{x is the rebirth of a highly
+successful MUD with a loyal core of long-time players called Knights of the
+Red Dragon.  {RPhoenix{x retains the fun and essential gameplay of KotRD
+while also undergoing constant enhancement to make this the most enjoyable
+MUD ever.  
+ 
+If you were a player of KotRD, we welcome you back and hope you will make
+this your new MUD-home.  If you are new to us, check us out and play a
+while, and see for yourself what makes {RPhoenix{x such a unique place to play!
+ 
+Also see help for: WEBSITE
+~
+
+0 brandish quaff recite zap~
+Syntax: brandish
+Syntax: quaff <potion>
+Syntax: recite <scroll> <target>
+Syntax: zap <target>
+ 
+In order for staves, potions, scrolls and wands to work, you must use a
+particular command.  In the case of staves, scrolls and wands, you must
+also have a minimum amount of ability in each particular skill area.
+ 
+Here is how to use each item:
+ 
+{cBRANDISH{x : while holding a magical stave (staff), type 'brandish.'
+ 
+{cQUAFF{x    : put the potion you would like to ingest in your
+           inventory and 'quaff' it.
+ 
+{cRECITE{x   : invokes the power of a magical scroll. Magic on scrolls
+           can be directed at yourself, or toward other players, mobs
+           or items.  If the target of your spell is someone or something
+           other than yourself, use 'recite <scroll> <target>.'
+ 
+{cZAP{x      : releases the spell from a magic wand.  If you use this
+           skill in combat, it will be used against your opponent.
+ 
+Also see help for: SCROLLS, STAVES, WANDS and POTIONS.
+~
+
+0 scrolls~
+Scrolls are pieces of parchment inscribed with magic by powerful beings.
+The chance to gain the ability to use scrolls is offered only to Mages,
+Clerics, Psionics, Paladins, Anti-Paladins, and Enchanters.  
+ 
+To use a scroll, use the RECITE command.  Be careful!  The magic on a
+scroll is not always obvious and scrolls should be carefully examined
+before use.
+ 
+Some magicians are so powerful that they can create their own scrolls.
+ 
+Also see help for: RECITE, SCRIBE
+~
+
+101 experience level xp~
+Your character advances in power by gaining experience.  You need a set
+amount of experience points for each level based on your creation points.  
+ 
+{wYou gain experience by:{x
+ 
+{c*{x defeating a monster, alone or in a group, worthy of your effort
+ 
+{c*{x increasing your ability through use of a skill or spell
+ 
+{wYou lose experience by:{x
+ 
+{c*{x fleeing from combat
+
+{c*{x being the target of certain spells
+
+{c*{x dying
+ 
+The experience you receive from a kill depends on several factors: how
+many players are in your group, your level versus the level of the
+monster, your alignment versus the monster's alignment, how many of this
+monster have been killed lately, and some random variation.
+ 
+Also see help for: ALIGN, COMBAT, CREATION POINTS, DEATH and GROUP
+~
+
+0 know_alignment~
+Syntax: cast 'know alignment' <target>
+ 
+The {wknow alignment{x spell reveals the alignment of a character or
+mobile.  It is available to Mages and Clerics.
+ 
+Also see help for: ALIGNMENT
+~
+
+0 alignment~
+Alignment is the relative measure of a character or mobile's goodness or
+evil.  It covers the entire spectrum, from absolute evil to absolute
+goodness.
+ 
+Each character may check their alignment in their score.
+ 
+Also see help for: SCORE
+~
+
+0 SKILL SKILLS~
+Skills are types of abilities that you can choose, or are 'born' with,
+which help you make your way in the world.  Each class has a set of
+skills available to them which help to set them apart from differing
+classes.  Examples of the types of skills on {RPhoenix{x are individual
+weapons skills, skills involving magical items, combat skills such
+as circle or backstab, and non-combat skills such as haggle or peek.
+ 
+To see the skills your character has, type the 'skills' command. The
+percentage next to each skill represents how well you have learned that
+skill.  When the number reaches 100%, you have mastered that skill.
+
+It is possible to add to your set of skills after your character
+is created.  A guildmaster can help you gain additional skills if
+you possess the requisite creation points.
+
+Skills improve through practice and use.  It is recommended that you
+practice a skill until you have 'learned' it (75%).  From that point
+on, using the skill either actively or passively will slowly increase
+your ability.
+ 
+Also see help for: CLASS, CREATION POINT, GAIN, PRACTICE
+~
+
+0 class classes~
+{RPhoenix{x{w:{x {rReturn of the Red Dragon{x offers seven primary
+classes and three remort-only classes.  They range from pure fighters to
+pure magicians and everything in-between.  
+ 
+Some classes, like some races, have alignment restrictions for players
+who choose them.
+ 
+To see a list of available classes on {RPhoenix{x, type 'classtat'.
+ 
+Also see help for: ALIGNMENT, RACE, REMORT
+~
+
+0 race races~
+{RPhoenix{x{w:{x {rReturn of the Red Dragon{x offers seventeen primary
+races and two remort-only races.  Each race is unique and offers different
+attributes and skills to players.  
+ 
+Some races, like some classes, have alignment restrictions for players
+who choose them.
+ 
+To see a list of available races, type 'racestat'.
+ 
+Also see help for: ALIGNMENT, CLASS, REMORT
+racestat
+ 
+l
+who
+quit
+END
+~
+
+0 remort remorting~
+When a player reaches Hero status (Level 100), he or she has the option
+to start a new life, choosing a new race and class while retaining some
+of the attributes, such as skills and spells, from their original
+incarnation.
+
+In general, Remort characters are much more powerful than non-
+remorts.  Remorting is also a chance to round out you character's
+skills and abilities.
+ 
+In order to Remort, a Hero must have at least 4000 quest points.  He or
+she must then find the Remort Portal, which will appear randomly
+somewhere on the MUD.  Then the Hero simply enters the portal, and
+begins anew.
+ 
+Also see help for: CLASS, RACE, QUEST
+~
+
+0 quest questing quests~
+Quests are challenges to a player to either find and return a special
+item, or kill a nefarious monster.  Successfully completed quests are
+rewarded with {Ygold{x and {wQuest Points{x (QP).  To be sent on a quest,
+find the Questmaster in Midgaard.  The QUEST commands are as follows:
+ 
+{cQUEST REQUEST{x  : This command petitions the Questmaster to send you
+                 on a quest. If you are given a quest to perform, you
+                 will be given a time limit (in minutes) within which
+                 you must complete the quest.  The item you must find,
+                 or the monster you must kill, will have a [TARGET]
+                 flag before its name.
+ 
+{cQUEST COMPLETE{x : Once you have killed your target monster or found
+                 your quest item, return to the Questmaster and type the
+                 'quest complete' command. If you are truly successful,
+                 the Questmaster will reward you. You may then request
+                 another quest after a 10-minute waiting period.
+ 
+{cQUEST TIME{x     : This command shows you the time remaining in your
+                 current quest (if you are questing), or the time you
+                 must wait before requesting another quest (if you are
+                 not currently questing).
+ 
+{cQUEST INFO{x     : If you are on a quest, this command will remind you
+                 of what your task is, if you have forgotten.
+ 
+{cQUEST POINTS{x   : This command shows you your current number of quest
+                 points.  Quest points are also shown in your score.
+ 
+{cQUEST LIST{x     : Using this command in the Questmaster's chamber
+                 displays a list of fabulous items for sale, which can
+                 be purchased only with quest points.
+ 
+{cQUEST BUY{x      : To purchase an item from the Questmaster, type
+                 'quest buy <item>'.  The QP price of the item will be
+                 deducted from your total amount of quest points.
+ 
+Quest points are also necessary to Remort your character once it reaches
+Hero level.
+ 
+Also see help for: MONEY, REMORT
+~
+
+0 money gold silver~
+The economy on {RPhoenix{w:{rReturn of the Red Dragon{x is based on gold
+and silver coinage.  {YGold{x coins are worth 100 {wSilver{x coins, but are
+four times as heavy - 25 gold pieces to the pound, versus 100 silver pieces
+to the pound.  Gems can be purchased at the jeweler to alleviate weight
+problems, at a slight premium.  To protect your money from thieves and
+death, you may choose to deposit some of your wealth in the Midgaard Bank,
+located {c2s, 3w, 2n, 3e, s{x from recall.  Also see help for: BANK 
+~
+
+0 bank banking~
+The Bank is a safe place in the realm to deposit your gold and silver. 
+The bank protects your money from thieves, losses if you should happen to
+die, and the inevitable weight problems associated with carrying so much
+coin in your beltpouch.  
+ 
+Most everyone uses the {cBank of Midgaard{x, which can be found on the
+Clan Road in Midgaard.  Thieves and Assassins must use their {cGuild Bank{x.
+ 
+The banking commands (below) are also helpfully provided on signs at
+each bank:
+ 
+{cDEPOSIT{x {w# <cointype>{x  : takes a specified amount of silver or gold out
+                        of your beltpouch and puts it into your account.
+ 
+{cWITHDRAW{x {w# <cointype>{x : deducts a specified amount of silver or gold
+                        from your bank account, given to you in coins.
+ 
+{cWORTH{x                 : displays your bank balance in gold and silver
+                        as well as the amount of money in your beltpouch
+ 
+{cACCOUNT{x               : displays the same information as WORTH
+ 
+{cBANKSHOW{x              : toggles your bank display in your score.
+ 
+{cCHANGE{x                : converts silver to gold.
+ 
+Also see help for: MONEY
+~
+
+0 death_field~
+Syntax: cast 'death field'
+ 
+Only the darkest of the Psionics dare even think of using this power.
+Using a cruel perversion of telepathy, the Psionic sends out a mental
+signal across a cloud of black energy to all in the immediate area,
+causing nearby minds to sever their own neural connections. Most targets
+of this power barely escape with a severe amount of damage and some
+amount of retardation, but a few very unlucky ones have vital nerves cut
+off, effectively euthanizing them.
+~
+
+0 clan clans~
+A Clan is a collection of players united to follow and further a common
+cause.  To join a clan, you must be between level 20 and level 40.
+ 
+To see a list of clans available on {RPhoenix{x, type 'clan'. To learn
+more about a specific clan, type 'clan <clanname>'.  If you are
+interested in joining a clan, speak to the clan's leader, who will
+explain any requirements you must fulfill before joining the ranks.
+ 
+Be advised, joining a clan is a dangerous step.  As a member of a clan,
+other clanned players can kill you or steal from you. Many adventurers
+live to kill and torture others and chances are that your paths will
+cross.
+ 
+Attacking or killing your fellow clan-members is illegal, except to
+mutiny your Clan leader.
+ 
+Also see help for: PK
+~
+
+0 dragonpit dp~
+The Dragonpit is an arena-style opportunity for combatting your fellow
+players outside the auspices of clans or PK.  A Dragonpit is for fun
+only (as well as bragging rights) and those who lose their lives in the
+Pit suffer no reduction of experience.
+ 
+Only an Immortal can start a Dragonpit.  Occasionally the Pit is
+restricted by level and there may be an entry fee of some kind. To join
+a Dragonpit, you must type the 'dragonpit' command while entry is open.
+~
+
+0 PK player_killing~
+Clanned players run the risk (or, some would say, opportunity...) of
+engaging in combat with other clanned players.  This type of battle
+is known as PK, or 'player killing.'
+ 
+If a player engaged in PK loses the fight and dies, not only is there a
+loss of experience (as in normal combat) but the winner of the battle
+may take items from the loser's corpse, which remains at the spot where
+the player died.
+ 
+There are level ranges enforced to keep PK somewhat fair, and to prevent
+very high level players attacking those who are much lower level.
+ 
+The ranges are (victim vs. attacker):
+ 
+{cMortal {wvs. {cMortal{w:  10 level range
+{cRemort {wvs. {cMortal{w:  20 level range
+{cRemort {wvs. {cRemort{w:  10 level range
+{cMortal {wvs. {cRemort{w:   5 level range{x
+ 
+Also see help for: CLANS, DEATH.
+~
+
+0 nexus portal~
+Syntax: cast nexus <target>
+Syntax: cast portal <target>
+ 
+The {cnexus{x and {cportal{x spells are types of sophisticated transport
+magic which create a one-way or two-way temporary doorway to another
+location.
+ 
+In casting either spell, you must target a monster or a player, and both
+spells require an additional component, held in the caster's hand.
+ 
+Though much mystery surrounds the substance needed for these highly
+powerful spells, it is believed that it is some type of rare and magical
+mineral.
+ 
+The portal spell is available to Mages, Thieves, Assassins, Warriors,
+and Anti-Paladins.  The nexus spell is available only to Mages.
+ 
+Also see help for: TRANSPORT
+~
+
+0 full transport~
+Syntax: cast fly <target>
+Syntax: cast summon <target>
+Syntax: cast 'word of recall'
+Syntax: cast 'pass door'
+Syntax: cast gate <target>
+Syntax: cast portal <target>
+Syntax: cast nexus <target>
+Syntax: cast teleport
+ 
+The full transport group of spells is a comprehensive set of magical
+abilities which are highly useful in aiding your character to get from
+place to place.  The full group is available only to Mages. Selected
+spells from this group are also available to other classes.
+ 
+Here is a brief description of each spell in the group:
+ 
+{cfly{x            : cast on one's self or another, aids travel over
+                 water or into the air.
+ 
+{csummon{x         : calls a chosen player or monster to the caster.
+ 
+{cword of recall{x : like the RECALL skill, transports the caster to
+                 the Temple Square.
+ 
+{cpass door{x      : allows the caster to travel freely through most
+                 closed or locked doors.
+ 
+{cgate{x           : transports the caster to a chosen player or monster
+ 
+{cportal{x         : creates a temporary one-way door to a targeted
+                 player or mobile.
+ 
+{cnexus{x          : creates a temporary two-way door to a targeted
+                 player or mobile.
+ 
+{cteleport{x       : a somewhat risky but highly interesting transport
+                 spell that sends the caster to a random location in the
+                 realm.
+ 
+Also see help for: NEXUS, PORTAL
+~
+
+0 wimp wimpy~
+Syntax: wimp <number>
+ 
+The wimp command sets your wimpy value.  The number referenced in the
+command syntax refers to a set level of hit points. When your character
+takes damage that reduces your hit points, you will automatically try to
+flee whenyour hit points remaining are {wbelow{x your wimpy value. You
+will only flee if your character is not in a 'wait state' -- ie, has
+not been using combat commands like cast, trip and bash, and has not
+been tripped or bashed by an enemy.
+ 
+The wimp command with no number argument sets your wimpy value to 20%
+of your maximum hit points.
+ 
+Your wimpy value is shown in your score. If you do not set a wimpy value
+the default is zero.
+ 
+Also see help for: HITPOINTS, SCORE
+~
+
+0 hitpoints hp~
+Your character's hit points (hp) are a measure of the maximum amount of
+damage that your character is able to take.  You can increase your max
+hitpoints through leveling, using different types of equipment, and
+training them at your Class Guildmaster.
+ 
+Damage taken in combat, as well as the effects of some spells, decrease
+your current hitpoints but not your maximum hitpoints.
+ 
+To regain hitpoints after damage reduces them, you can sleep or rest,
+recieve healing, or use magical artifacts with a healing spell.
+ 
+Also see help for: MANA, MOVES, TRAIN
+~
+
+0 mana~
+Mana is a measure of magical power. Any character who uses magic will
+need a bit of mana to make it work.  Your maximum mana can be increased
+through leveling, using different types of equipment, and training your
+mana at your Class Guildmaster.
+ 
+Using magic reduces your current mana.
+ 
+To regain spent mana, you can sleep or rest or heal your mana at the
+Temple healer.  The {wmeditate{x skill is also useful for heavy magic
+users.
+ 
+Also see help for: HP, MOVES, TRAIN
+~
+
+0 moves~
+Moves, or movement, is a measure of how much energy you have to continue
+moving about.  Your maximum moves can be increased through leveling,
+using different types of equipment, and training your movement at your
+Class Guildmaster.
+ 
+Walking from place to place uses up movement, and different types of
+terrain have different reductionary effects. Some types of combat also
+decrease your current moves.
+ 
+To regain spent moves, you can sleep or rest, or have the {wrefresh{x
+spell cast upon you.
+ 
+Also see help for: HP, MANA, TRAIN
+~
+
+0 train training~
+Training sessions are a way to increase your stats (strength, wisdom,
+intelligence, dexterity and constitution) and your hitpoints, mana and
+moves.
+ 
+Each time you gain a level, you are awarded with one training session.
+ 
+You must be at a guildmaster to train your attributes. Use the 'train'
+command followed by the attribute you wish to train.  Each session
+costs one training point.
+ 
+Training points are also equivalent to Creation Points, and can be saved
+and used later to gain spell groups or skills that you did not choose
+during character creation.  You can also convert training points to
+practices.  One training point equals 10 practices, and vice versa.
+ 
+Also see help for: STR, INT, WIS, DEX, CON, GAIN, PRACTICE, CP
+~
+
+0 holylight wizinvis~
+Syntax: holylight
+Syntax: wizinvis <level>
+ 
+Holylight is a toggle that allows you to see (almost) every character
+and mobile in the game. With holy light on, you can see what's in the
+game more easily. Without holy light, you can see what mortal players
+see.
+ 
+Wizinvis takes a level argument, and will make you invisible to all
+players of a lower level than your invisibility level. It defaults to
+the maximum (eg your level) if no argument is given. Wizi 500 immortals
+are completely invisible.
+ 
+Also see help for: INCOGNITO
+~
+
+101 incognito~
+Syntax: incog <level>
+ 
+Incognito hides your presence from any person outside the same room you
+are in, but leaves you visible to those who are in the room with you.
+If you use a level argument with the command, people at the set level
+or higher can see you, regardless if they are in your room or not.
+ 
+Also see help for: WIZINVIS, HOLYLIGHT
+~
+
+0 visible~
+Syntax: vis
+ 
+If you are invisible, hiding or sneaking, and need to be visible again,
+typing the command 'vis' will cancel the affect of those skills/spells.
+ 
+Also see help for: HIDE, INVIS, SNEAK
+~
+
+0 hide~
+Syntax: hide
+ 
+The hide skill is useful for an adventurer who wishes to be undetected.
+The skill has a very high chance of success, but only works as long as
+the character remains stationary.
+ 
+The hide skill is available to Thieves, Assassins, Anti-Paladins, 
+Rangers and Enchanters.
+ 
+Also see help for: INVIS, SNEAK, VIS
+~
+
+0 sneak~
+Syntax: sneak
+ 
+Sneak is a skill related to {whide{x, with the exception that it
+continues to cloak the user in the shadows even while that character
+moves from room to room. However, its chance of success is a bit lower
+than hide.
+ 
+The sneak skill is available to Thieves, Assassins, Anti-Paladins,
+and Rangers.
+ 
+Also see help for: HIDE, INVIS, VIS
+~
+
+0 invis mass_invis~
+Syntax: cast invis <target>
+Syntax: cast 'mass invis'
+ 
+The invis and mass-invis spells are ways to beguile other players and
+monsters by cloaking your presence from them. The {winvis{x spell can be
+cast without an argument to affect only the caster, or at a target to
+cloak them. Invis can also be used on objects such as armor or a weapon.
+ 
+Mass invis is useful when a player is grouped with one or more other
+players. When cast, it will render the entire team invisible.
+ 
+Keep in mind, some players and monsters can see invisible and some
+shopkeepers will not deal with invisible customers. Also, a player who
+is invis and engages in combat will immediately revert to being visible.
+ 
+The invis spell is available to Mages and Assassins. Mass invis is
+available only to Clerics.
+ 
+Also see help for: GROUP, HIDE, SNEAK, VIS
+~
+
+0 detection~
+Syntax: cast 'detect invis'
+Syntax: cast 'detect hidden'
+Syntax: cast 'detect good'
+Syntax: cast 'detect evil'
+Syntax: cast 'detect poison'
+Syntax: cast 'detect magic'
+Syntax: cast farsight <target>
+Syntax: cast identify <target>
+Syntax: cast 'know alignment' <target>
+Syntax: cast 'locate object' <target>
+ 
+The {wdetection{x spellgroup is a set of spells that gives players a bit
+of an extra edge in knowing information about the world around them.
+The full group is available only to Mages and Clerics, and selected
+spells from this group are available to other classes.
+ 
+{cDETECT INVIS{x   : allows the caster to see all invisible monsters
+                 and objects in the game
+ 
+{cDETECT HIDDEN{x  : allows the caster to see all hiding monsters
+                 players and objects in the game
+
+{cDETECT GOOD{x    : surrounds good-aligned players and monsters
+                 with a special aura that only the caster can see.
+ 
+{cDETECT EVIL{x    : surrounds evil-aligned players and monsters
+                 with a special aura that only the caster can see.
+ 
+{cDETECT POISON{x  : flags all poison objects
+ 
+{cDETECT MAGIC{x   : flags all magical objects
+
+{cFARSIGHT{x       : cast in a direction (north, south, east or west),
+                 gives the caster an elongated view of what's ahead.
+
+{cIDENTIFY{x       : tells the caster a bit more about an object.
+
+{cKNOW ALIGNMENT{x : cast on a player or monster, gives the caster a
+                 rough idea of their target's goodness or evil.
+
+{cLOCATE OBJECT{x  : shows the caster where in the world they might find
+                 a particular object of interest.
+~
+
+0 identify~
+Syntax: cast identify <item>
+ 
+The identify spell reveals information about a targeted item. If the
+item is of a higher level than the caster using the spell, some
+information about the item may not be obvious.
+ 
+Also see help for: DETECTION
+~
+
+0 detect_good detect_evil~
+Syntax: cast 'detect good'
+Syntax: cast 'detect evil'
+ 
+The detect good and detect evil spells reveal special auras around
+players and monsters depending on the extremity of their alignment.
+ 
+Good players and monsters will be surrounded by a silver aura, and
+evil players and monsters will be surrounded by a red aura.
+ 
+Also see help for: ALIGNMENT, DETECTION
+~
+
+0 mage magic~
+The life of the enigmatic Mage is one of books and study, as is
+required for their wide array of spells. Mages are the most combat-
+oriented of the spellcasting classes, well versed in every spell that
+somehow causes harm, in every way, and with every element thinkable.
+ 
+Mages derive their powers from the flow of mana, tapping into it to
+reveal the unseen, disappear on a whim, and enhance their power with
+powerful protective magic.
+ 
+Of all the classes, Mages are weakest in hand-to-hand combat, and if a
+fighter gets too close, a Mage may become quickly overwhelmed.
+ 
+To view the range of skills and spells available to the Mage class,
+type 'classtat mage'.
+~
+
+0 detect_invis detect_hidden~
+Syntax: cast 'detect invis'
+Syntax: cast 'detect hidden'
+ 
+The detect invis and detect hidden spells allow the caster to see a bit
+of the unseen world. Using detect invis will reveal all invisible
+players, monsters and objects, and detect hidden will reveal sneaking
+or hiding players and monsters.
+ 
+Also see help for: DETECTION
+~
+
+0 farsight~
+Syntax: cast farsight
+ 
+This spell allows the caster to see creatures and players in all
+directions. It works like an enhanced 'scan' command, revealing what
+is far away.
+ 
+Also see help for: DETECTION, SCAN
+~
+
+0 scan~
+Syntax: scan
+ 
+The scan command reveals players and monsters in rooms connected to the
+one you stand in, even if they happen to be lurking behind a closed
+door.
+~
+
+0 bash~
+Syntax: bash <target>
+ 
+The bash skill is a brute-force ability designed to knock your foe to
+his knees. Its success depends on many factors, including how skilled
+the user is at bashing, the user's weight, and the size of one's
+opponent.
+ 
+Bash lags its user a small amount in combat, and an unsuccessful bash
+lags its user even more.
+ 
+The bash skill is available to Warriors, Paladins, and Anti-Paladins.
+~
+
+0 trip~
+Syntax: trip <target>
+ 
+Trip is a somewhat dastardly attack, involving the use of any one of
+a number of methods to bring your opponent down to the ground. Trip
+can be partially successful (inflicting a small amount of damage), or
+fully successful (bringing one's opponent to the ground, leaving them
+unable to retaliate for several rounds).
+ 
+Thieves, Assassins, Warriors, Anti-Paladins and Rangers all may learn
+the trip skill.
+~
+
+0 ultrablast~
+Syntax: cast ultrablast
+ 
+An advanced form of Psionic Blast, the power of ultrablast allows the
+Psionicist to shake the fabric of matter all around an opponent, not
+merely manipulate it in small ripples. The spell rips apart anything
+in the caster's vicinity, randomly obliterating cells whilst the
+'mindquake' is occuring.
+~
+
+0 travel north south east west up down~
+Syntax: north
+Syntax: south
+Syntax: east
+Syntax: west
+Syntax: up
+Syntax: down
+ 
+These commands are used to walk in a particular direction. To always
+see what directions are obvious to you, toggle the 'autoexit' command.
+ 
+Also see help for: PCINFO
+~
+
+0 pcinfo~
+Syntax: pcinfo
+ 
+PCinfo is a status command, which displays an array of useful
+information, including all of your AUTO flags, description flags,
+consent flags, and your current prompt.
+ 
+Also see help for: DESCRIPTION, PROMPT
+~
+
+0 description~
+Syntax: desc +
+ 
+A description is something a player can create to give other players
+a bit more information about your character's appearance, background,
+proclivities, and whatever else you would like others to know.
+ 
+The command puts you into the descripton editor. You can change and
+update your description as much as you like.
+ 
+Others will be able to see your description when they {wlook{x at you.
+~
+
+0 warrior~
+The most basic of classes, Warriors are the brutal masters of melee.
+Warriors can take more punishment than any other class, and in combat
+they also deal the most, with such skills as bash and fourth attack.
+ 
+Warriors also have access to the weaponmaster group, which gives them
+skill in all types of melee weaponry, including exotic weapons.
+ 
+The warrior's one shortcoming is in magic. They are only able to learn
+two spells, but those two spells - {wsharp blade{x and {wgiant strength{x -
+make the class all the more fearsome weapon-to-weapon. To warriors,
+if it bleeds, they can kill it.
+ 
+To view the range of skills available to the Warrior class, type
+'classtat warrior'.
+~
+
+0 cryst~
+Syntax: open   <object | direction>
+Syntax: close  <object | direction>
+Syntax: lock   <object | direction>
+Syntax: unlock <object | direction>
+ 
+Sometimes the world around you is a bit more impervious to your inquiry
+than you would like. Obstacles like closed doors and locked chests
+often conceal treasures behind them.
+ 
+To open or close a door, use a direction as your argument. To open or
+close an object, such as a chest or backpack, use the item name as your
+argument
+ 
+Locking and unlocking a door uses a direction argument like open or
+close. To lock or unlock an object, use the object's name as your
+argument. Lockable items require the correct key for success.
+~
+
+0 recall /~
+Syntax: recall
+Syntax: /
+ 
+Recall is a prayer to Mota to transport you from your current position
+back to the Temple Square in Midgaard. To be able to recall, you must
+practice the recall skill.
+ 
+Recall costs half your movement points, and doesn't work in some cursed
+or forsaken locations. Also, players who are affected by a curse cannot
+recall. It is not possible to recall out of a battle.
+ 
+A forward-slash (/) is synonymous with recall.
+~
+
+0 rom code~
+ROM was started in early February 1993, using Merc 1.0 code. In July of
+1993, ROM II was started, eventually replacing the original ROM. ROM was
+set up for a little over a year, after which the code (version 2.3) was
+released, and various other ROM muds were started, including Rivers of
+Mud under a new management (Zump's ROM), at rom.org 9000.
+ 
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+ 
+The following people contributed to the ROM flavor of the merc base code:
+ 
+{cSocials{x - Kelsey and Liralen
+ 
+{cNew, improved Valhalla{x - Liralen
+
+{cPuff's new special proc and improved poofin/poofout code{x - Seth
+ 
+{cMaps and map shop{x - Ezra, Regnan (Olympus)
+ 
+{cNirvana Zone{x - Forstall (mobiles rewritten by Alander)
+ 
+{cMob Factory{x - Pinkfloyd (originally written for ROM, mobies rewritten
+by Alander)
+ 
+{cGeographially correct Midgaard (tm){x - Alander
+ 
+{cIdeas and playtesting{x - Thousands of dedicated mudders around the world
+ 
+{cBeta testing{x - Ken Blosser, Doug Araya, and Sherene Neil all helped with
+bugs reports and suggestions, saving a lot of headaches.
+ 
+{cBug reports{x - Thanks to Shad Muegge, Jerome Despret, Phoenix, Will
+Hongach, Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+(author of the ROM FAQ) for help spotting bugs.
+ 
+The New Thalos area was donated by Onivel of Jedi, who was also the
+originator of the ASCII flags used in the zone files.
+ 
+ROM 2.4 was developed during my time with Moosehead MUD, and the release
+shares many of the features I wrote while I was there. Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used. Portions of Rusty's work on
+Moosehead also remain.
+ 
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened. In particular, the new privacy code, furniture, and wiznet
+are the results of Gabrielle's ideas.
+ 
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+ 
+(my apologies if anyone was forgotten in this list)
+ 
+Also see help for: DIKU
+~
+
+0 save quit~
+Syntax: save
+Syntax: quit
+
+The command {wsave{x saves your character and your possessions. The game
+also auto-saves every 15 minutes. However, some objects in your inventory,
+such as keys, may not be saved.
+ 
+The {wquit{x command ends your game session. You may quit anywhere in
+the world that you like, and when you log back on to Phoenix, you will
+commence your new session from where you last left.
+ 
+Using {wquit{x automatically does a {wsave{x, so you can safely leave the
+game with just one command. Nevertheless, it is a good idea to save before
+you quit. If you get into the habit of using quit without save, and then
+play another MUD that doesn't save before quitting, you're going to
+regret it.
+ 
+There is no 'rent' on this MUD. Just {wsave{x and {wquit{x whenever you want
+to leave.
+~
+
+0 sacrifice~
+Syntax: sacrifice
+ 
+Sacrifice offers an object or a corpse to Mota, who may reward you. The
+nature of the reward depends upon the type of object.
+
+To automatically sacrifice the corpse of every monster you kill
+you can toggle your '{wautosac{x' setting to its on-state.
+
+Also see help for: LOOT, PCINFO
+~
+
+0 loot~
+Syntax: get all <target>
+Syntax: get <item> <target>
+ 
+Quite often, a monster you kill will have some items left in its corpse
+which are yours for the taking.  To get everything in the corpse left
+behind, use 'get all corpse'. If you are only interested in specific
+items, use 'get <item> corpse'.
+ 
+Once you are done with a monster, it is polite to {wsacrifice{x it to Mota,
+to prevent piles of corpses from filling the lands and fouling the air.
+ 
+To get everything from a monsters corpse after every kill automatically,
+simply toggle '{wautoloot{x' to its on-state. To assure that you have also
+gotten all the gold a monster leaves behind after its death, toggle
+'{wautogold{x' to its on-state. You can toggle them off at any time.
+ 
+Also see help for: PCINFO, SACRIFICE
+~
+
+0 newbie welcome~
+Ah! another mortal, seeking adventure.
+ 
+Welcome to {RPhoenix{w: {rReturn of the Red Dragon{x!
+ 
+If you are unsure where to start, you should first go through Mudschool
+(up and north from the Temple Square) to gain experience to face the
+trials that await you outside. Be sure to practice your weapon in the
+Guild room, or your stay with us will be very short indeed.
+ 
+Type the '{wequipment{x' command to see what you are wearing and wielding.
+You may also want to check your {winventory{x where you will see a Dragon
+Bag full of items to help you on your way.
+ 
+If you have any questions, please ask one of our friendly players or
+immortals, who will be more than happy to assist you.
+ 
+{wSome good areas to begin in (directions from recall):{x
+ 
+{cThe Newbie Zone{x: up, west
+{cTest of Magic{x: up, 3 east, north
+{cThe Arena{x: up, south
+ 
+Also see help for: DEATH, PHOENIX, TRAIN, PRACTICE, RULES, WEBSITE
+~
+
+0 test~
+{7       {x    {7       {x    {7       {x    {7       {x    {7       {x    {7       {x
+{7       {x    {7 {0 {7     {x    {7 {0 {7     {x    {7 {0 {7   {0 {7 {x    {7 {0 {7   {0 {7 {x    {7 {0 {7   {0 {7 {x
+{7       {x    {7       {x    {7       {x    {7       {x    {7       {x    {7       {x
+{7   {0 {7   {x    {7       {x    {7   {0 {7   {x    {7       {x    {7   {0 {7   {x    {7 {0 {7   {0 {7 {x
+{7       {x    {7       {x    {7       {x    {7       {x    {7       {x    {7       {x
+{7       {x    {7     {0 {7 {x    {7     {0 {7 {x    {7 {0 {7   {0 {7 {x    {7 {0 {7   {0 {7 {x    {7 {0 {7   {0 {7 {x
+{7       {x    {7       {x    {7       {x    {7       {x    {7       {x    {7       {x
+ 
+~
+
+0 practice~
+Syntax: practice
+Syntax: practice <skill | spell>
+ 
+The {wpractice{x command without an argument tells you your current ability
+level in all the skills and spells available to you. You can check this
+anywhere.
+
+The {wpractice{x command with an argument (either a skill or spell name)
+practices that particular skill or spell. You can practice skills and
+spells up to its learned level (75%), after which you must use it to
+improve upon it.
+
+The higher your intelligence, the more you will learn at each practice
+session. The higher your wisdom, the more practices you will gain at
+each level. Unused sessions are saved until you use them, and they can
+be converted to train points if you so choose.
+ 
+Also see help for: GAIN, TRAIN
+~
+
+0 gain~
+Syntax: gain list
+Syntax: gain points
+Syntax: gain <skill | spellgroup>
+Syntax: gain convert prac
+Syntax: gain convert train
+Syntax: gain convert qp
+ 
+The gain commands can be used at your Guildmaster to add skills and
+spellgroups to your character that were not chosen during creation.
+Gain uses training sessions (synonymous with creation points). Skills and
+spells that you gain at the Guildmaster do not increase your total
+experience-to-level or total number of creation points.
+ 
+{wHow to use the gain commands{x:
+ 
+{cGAIN LIST{x       : shows a list of all spellgroups and skills that you
+                  can learn.
+{cGAIN POINTS{x     : if your total experience-to-level is above minimum
+                  for your race/class combination, each use of gain points
+                  will lower your total creation points by 1. Each use
+                  of 'gain points' costs 2 training sessions. It is
+                  adviseable that players who wish to lower their CP do
+                  so immediately after levelling, as 'gain points' will
+                  set your experience-to-level to its new maximum.
+{cGAIN <name>{x     : using a skill name or spellgroup name as an argument,
+                  adds the skill or spell to your roster. The cost in
+                  training sessions (CP) is listed next to each ability
+                  in 'gain list'.
+{cGAIN CONVERT PRAC{x : turns 10 practices into one training session.
+{cGAIN CONVERT TRAIN{x : turns 1 training session into 10 practices
+{cGAIN CONVERT QP{x : turns 750 quest points into one training session.
+ 
+Also see help for: CREATION_POINTS, PRACTICE, TRAIN
+~
+
+0 duck~
+{0{0                                                 { {x {! {x 
+{ {0                                            {    {!  {x {0 { {0 { {0 { {0 {  {0 { {0 {  {0 { {0 { {0 { {0 {  {! {0     {  
+{ {0                                {     {x {0 { {0 {  {!    {x    {0           {   {! {x {0            { {! 
+{ {0                             { {x {!     {x  {!  {x  {! {0 { {0 { {0 { {x     {0     {  {! {x 
+{ {0                           {  {! {x  {0 { {!  {0                {    {x   {0 { {! 
+{ {0                          {  {x {0            {   {!    {x  {!   {0                     {  
+{ {0                        { {x {!  {x {! {x {! {x {0     { {!  {x  {0 { {0 { {0 { {0 { {!{1          {0           {1{7 
+{7{0                        {7{x {!  {0    {7{x {! {x {0 {7{!  {x {0 {7{0 {7{1  {!                {x{1  
+{1{0                       {1{!{2      {0    {2{x   {0 {2{0 {2{1 {!                      {x{1 
+{1{0                       {1{!{2 {0 {2  {0 {2 {0        {2{1                          
+{1{0                       {1{2      {0 {2 {0 {2{0 {2{7 {0 {7{0 {7{1  {x{1 {0 {1{2 {!      {0 {2{1    {0 {1{2      {x{2 {0 {2{1 {!  {0        {1{7 
+{7{0                     {7{2           {0 {2{x{1 {0 {1{!   {0 {1{2                      {0 {2{1   {0 {1{x{1 
+{1{0                     {1{!{2     {0 {2 {0 {2   {0 {2{1      {0 {1{x{2 {!                  {x{2 {0 {2{!{1       
+{1{0                     {1{2           {0 {2{1         {0 {1{x{2   {!        {x{2   {0 {2{!{1          {0   {1{7 {0     {7 
+{7{0                      {7{x{2  {!       {0 {2{1             {0 {1{x{1       {0 {1{!            {x{1 {0 {1{!{6 
+{6{0                      {6{2         {0    {2{x{1      {!     {0 {1{x{1     {0 {1{!      {x{1    {0 {1{!{6       {x{6 
+{6{0                      {6{2 {!       {0 {2 {0 {2{0 {2{x{1   {!   {x{1    {0 {1{!  {0 {1{x{1   {0 {1{!  {0 {1{x{1  {0 {1{6  {!              {x{6 
+{6{0                     {6{!{2 {x{2 {0 {2   {! {0 {2   {0 {2{1   {x{1 {0 {1{0 {1  {!   {x{1 {0 {1{!       {0 {1{x{1 {!  {x{1 {0 {1{!{6                {x{6 
+{6{0                     {6{!{2           {0 {2{0 {2{x{1 {!  {0 {1{6   {0 {6{0 {6{x{1  {!          {x{1  {0 {1 {0 {1{!{6       {0 {6      
+{6{0                   {6{2 {0 {2   {0 {2  {0 {2    {0 {2 {0 {2{x{1 {!  {x{1  {!       {0 {1    {x{1 {0 {1{!{2   {0 {2{1 {x{1 {0 {1{6 {!   {0 {6        {x{6 
+{6{0                  {6{!{2  {0 {2  {0 {2   {x{2 {0 {2{!   {0 {2  {0 {2{1               {0 {1{2    {0 {2{x{1 {!  {0 {1{x{6 {!     {0 {6    {0     {6{7 
+{7{0                 {7{x{2 {!  {0 {2  {x{2 {0 {2  {0 {2{!    {0 {2   {0 {2{x{1      {!               {x{1 {0 {1{6 {!           
+{6{0                  {6{x{2 {0 {2{0 {2{0 {2 {!        {0 {2{x{1 {0 {1{!{2 {0 {2{x{6 {!         {0 {6{1           {0 {1{6             {0 {6  
+{6{0                       {6{1  {x{1    {0 {1{0 {1{!  {0 {1{x{6 {!                   {0 {6{x{1   {0 {1{!{6            {0 {6  {0 {6{1 
+{1{0                        {1  {x{1  {0 {1{0 {1{0 {1{0 {1  {0 {1{6 {!                     {0 {6   {x{6 {!     {0 {6{x{1 {0 {1{6 {0 {6{0 {6{0 {6{!{1  {0 {1{0 {1{7 
+{7{0                                {7{x{1 {0 {1{!{6 {x{6 {0 {6   {!                {0 {6{x{6 {!   {0 {6{x{1 {!       {0 {1    
+{1{0                          {1{7 {0 {7{0 {7{0 {7{0 {7{x{1 {! {x{1 {0 {1{6   {! {x{6  {0 {6  {!            {0  {6{x{6 {0 {6 {! {0 {6{1     {x{1 {0      {1{!{7 
+{7{0                  {7 {0              {7{x{1  {0 {1 {0 {1{!{6       {0 {6{x{6    {!     {x{6 {0 {6{!   {0 {6{x{6 {0 {6{!{1    {x{1 
+{1{0                         {1{!{7 {0         {7{1 {0 {1{x{6      {!         {0 {6{0 {6{x{6 {0 {6{!     {0 {6{x{6 {0 {6{1  
+{1{0                                     {1{!      {0 {1{x{6   {!     {0 {6  {0 {6     {0 {6 {0     {6{7 
+{7{0                 {7 {0               {7{x{6  {!     {0 {6{1        {0 {1{x{6 {0 {6{!   {0 {6     {0 {6  
+{6{0                             {6{x{6  {!              {0 {6{1    {0 {1{6     {0 {6   {0 {6{x{6 {!  {0        {6{7 
+{7{0                         {7{x{6  {!                       {0 {6     {0 {6   {0 {6  {0 {6{x{6 
+{6{0                       {6 {!                         {x{6 {0 {6{!     {0 {6   {0 {6  {0 {6  
+{6{0                     {6{x{6 {!                        {x{6  {0 {6{2 {6 {!     {0 {6   {0 {6  {0 {6  {x{6 {0         {6{!{7 
+{7{0                   {7{x{6 {!                      {x{6  {0 {6{!  {0 {6{x{2 {! {0 {2{6     {0 {6   {0 {6  {0 {6  {x{6 {0 {6{0 {6{!{7 
+{7{0                  {7{x{6 {!                   {x{6  {0 {6{!       {0  {6{1 {0 {1{6    {0 {6   {0 {6  {0 {6  
+{6{0                  {6                {x{6  {0 {6{!         {x{6 {0 {6{0 {6{0 {6 {0 {6{!    {0 {6   {0 {6  {0 {6{x{6 
+{6{0            {6{!  {0 {6{0 {6{0 {6  {x{6 {0 {6{1   {!   {x{1  {0 {1{!{6  {x{6 {0 {6{!           {0  {6{7 {0 {7{6  {x{6 {0 {6{!   {0 {6   {0 {6  {x{6 
+{6{0             {6{!        {0 {6{x{1 {!    {x{1 {0 {1{6   {0 {6{!           {0    {6{x{6  {!  {x{6 {0 {6{!  {x{6 {0 {6 {0 {6 {! {0      {6{7 {0      {7 
+{7{0                {7{x{6 {!      {0 {6{x{1 {0 {1{!{6      {x{6 {0 {6{!       {x{6  {0 {6{0 {6{0 {6 {!      {x{6 {0 {6{!      
+{6{0                  {6{x{6   {!            {0 {6    {x{6  {0           {6   {0 {6{0 {6 {0 {6{!{1 {0 {1{x{2  
+{2{0                       {2{6  {!        {x{6 {0 {6 {0                   {6{2  {!   {x{2   
+{2{0        {2{!{7   {0 {7     {0 {7      {0                              {7{2         {x{2 {0 {2{0 {2{!{5     
+{5{0     {5{7      {0 {7  {0 {7  {0 {7   {0 {7  {0                              {7{x{2 {0 {2{6 {!   {x{6 {0 {6{2 {0 {2{0 {2{0 {2{0 {2{!{5       
+{5{0       {5{7  {0   {7  {0 {7{x  {0 {7{!   {x {0                               {7{6 {!         {x{6 {0 {6{0 {6{0 {6{0 {6{!{5 {2   
+{2{0     {2{x  {!    {0 {2  {0 {2  {0 {2   {0 {2{x  {0                          {2{6 {!               {x{6 
+{6{0     {6{7    {0 {7{0 {7{0 {7     {0 {7      {0                           {7{6  {!             
+{6{1       {0 {1         {0 {1          
+{1{x
+done
+~
+
+0 human~
+The most numerous and diverse race in the realm, Humans are the norm by
+which all other races are judged. Physically and mentally unremarkable
+and average, the strength of the Humans lies in their adaptability and
+lack of any real weakness. Humans are able to pick up virtually anything
+if they set their mind and time to it, and thus may be of any class.
+ 
+Also see help for: CLASS, RACE
+~
+
+0 follow group~
+Syntax: follow <character>
+Syntax: group
+Syntax: group <character>
+ 
+The {wfollow{x command will start you following another character. To
+stop following someone, {wfollow{x yourself.
+ 
+{wGroup <character>{x makes someone who is following you a member of your
+group. Group members share experience points from killing monsters and
+may use the {wgtell{x channel and the {wsplit{x commands. If anyone in
+your group is attacked, all other members of the group will automatically
+join the fight.
+ 
+To ungroup a character, using the {wgroup <character>{x command will
+remove him or her from your group. Characters can also leave the group
+by using the {wfollow self{x command to stop following you.
+ 
+The {wgroup{x command with no argument shows statistics for each group
+member.
+ 
+You may group only with characters who are within nine levels of you.
+~
+
+0 haggle~
+Haggling is an indispensable skill to the trader. It allows a character
+to match wits with a merchant, seeking to get a better price for
+merchandise, or to buy at the lowest possible cost. Unfortunately, most
+merchants are already very skilled at haggling, so the untrained haggler
+had best guard his treasure closely. Thieves are natural masters at
+haggling, althought other classes may learn the skill as well.
+ 
+Also see help for: BUY, SELL
+~
+
+0 buy~
+Syntax: buy <object>
+Syntax: buy <#>*<object>
+Syntax: buy <#>.<object>
+Syntax: buy <#>*<#>.<object>
+ 
+The {wbuy{x command buys an object from a shopkeeper. To purchase
+multiple numbers of the same object in a shopkeeper's inventory, use
+the {wbuy <#>*<object>{x command, where # is the quantity of the item
+you want.
+ 
+The {wbuy{x command with an object argument defaults to the first item
+on the shopkeeper's list with that keyword. To choose a specific item
+from a list which includes many different items of the same name, use
+the {wbuy <#>.<object>{x command, where # is the nth occurence of that
+item on the list.
+ 
+If you want to buy multiple numbers of an object which has several
+occurences on the shopkeeper's list, use {wbuy <#>*<#>.<object>{x, where
+the first # argument is the quantity you desire and the second # specifies
+that keyword's occurence on the list.
+ 
+Also see help for: HAGGLE, LIST, SELL
+~
+
+0 sell value~
+Syntax: sell <object>
+Syntax: value <object>
+ 
+Some shopkeepers are willing to trade gold for items you have found that
+you don't need or cannot use. Not all shopkeepers will buy all items,
+preferring to trade in a specific line of goods.
+ 
+To sell some wares to a shopkeeper, type {wsell <object>{x.  If you would
+like to know what the shopkeeper will offer you for the item before the
+trade is completed, use {wvalue <object>{x.
+ 
+Also see help for: BUY, HAGGLE, LIST
+~
+
+0 diku~
+ROM 2.4 is a Diku derivative. The original game idea, concept, and design
+credits are:
+ 
+{wKatja Nyboe{x               {c[Superwoman]{x (katz@freja.diku.dk)
+{wTom Madsen{x              {c[Stormbringer]{x (noop@freja.diku.dk)
+{wHans Henrik Staerfeldt{x           {c[God]{x (bombman@freja.diku.dk)
+{wMichael Seifert{x                 {c[Papi]{x (seifert@freja.diku.dk)
+{wSebastian Hammer{x               {c[Quinn]{x (quinn@freja.diku.dk)
+ 
+Developed at : DIKU - The Department of Computer Science at the
+               University of Copenhagen
+ 
+Also see help for: ROM
+~
+
+0 botting~
+Botting is anything that allows you to remain logged-on to the game while
+you are AFK (Away from Keyboard), such as triggers, so as to avoid 
+disconnection from the game port. Botting is also defined as using a MUD
+client, such as Zmud, Gmud or TINTIN, to automate player actions for
+the purpose of helping your character level or do quests.
+ 
+On {RPhoenix{w: {rReturn of the Red Dragon{x, {Wbotting is prohibited.{x
+ 
+Being caught botting may result in punishment, such as jail-time, loss of
+hours, or being banned. Don't bot!
+ 
+Also see help for: AFK, RULES
+~
+
+0 title~
+Syntax: title <string>
+ 
+The {wtitle{x command sets your title to a given string.
+ 
+Your title is what others see next to your name on the 'who' list. When
+your character is first created, you are given a default title. You may
+change your title whenever you like. Feel free to use color and be
+creative, but no profanity please!
+ 
+Also see help for: WHO
+~
+
+0 fallen~
+Long ago, when the world was first created, and the races had begun to
+disperse throughout the land, the Gods knew that the fledgling races would
+need help in surviving and coping, until they settled in. So the Gods sent
+a number of Angels down from the heavens to teach, help, and protect the
+fledgling races.
+ 
+And for a time, the Angels did exactly that: they taught, they helped, and
+they protected all races from harm. After a while, though, the Angels began
+to look at some of the races in a different light, and saw the beauty in
+them, and they fell prey to their lusts.
+ 
+Thus, the Nephilim were born.
+ 
+ The Gods were not pleased with the Angels; they had succumbed to mortal
+emotion. However, the Gods knew it was not the fault of the Nephilim.
+They were just the offspring - nothing had been in their control. Instead
+of slaying the Nephilim, the Gods decided to wait and see what they would
+do. They could not be  brought into Heaven, and the Gods did not wish to
+slay them. They became the Fallen Ones.
+ 
+While they were able, the Angels taught the Nephilim all they knew, until
+such time as the Gods took their vengeance upon the Angels, and the Angels
+disapeared. After this, the Nephilim began to wander, not feeling like
+part of the world in which they existed. Half Angel or Demon, Half Mortal,
+the Nephilim actually did not exist wholly in this plane. For a long time
+the Nephilim wandered around the world, until they came upon the only
+enemy they have ever known who could match them. The word spread quickly
+among the Nephilim, for they were always able to converse with another, 
+no matter the distance.
+ 
+They then gathered at a secret location, known only as the Nephilim 
+Stronghold, where they prepared for battle. For an age it seemed the
+Nephilim waged war with this enemy, until finally, the enemy was defeated.
+From then on, many Nephilim wandered the land as they had before, but some
+also stayed at the Nephilim Stronghold, for it had been decided that a
+central gathering point was a good idea, and this was ideal.
+ 
+Over time, the Nephilim developed an interesting Hierarchy.  The Master
+and The Student. The Nephilim as a whole are a race that love to learn,
+they are eternally curious about the workings of life, and are as wise as
+can be. They show respect to almost all things, and have decided to follow
+the original Creed set forth for the Angels: To Help, Teach, and Protect.
+ 
+Now the Nephilim know that fighting is inevitable, but almost as a rule,
+do not initiate combat without good reason. If a Nephilim is attacked,
+however, the attacker can expect the wrath of the entire race to follow
+them to their demise.
+ 
+The Master and Student relationship is an interesting one, as the Master
+is not always older than the Student. Normally it is so, but not always.
+But for learning, the Student obeys the Master in all things, as the
+Master will not have the Student do something that will bring intended
+harm to the Student.
+ 
+Because of their love of knowledge, the Nephilim are Divine Masters. Their
+knowledge and capability in battle has been unmatched since the demise
+of The Enemy. Both strong of mind and body, these winged beings are a
+force to be reckoned with.
+~
+
+0 agitation~
+Syntax: cast agitation <target>
+ 
+A devious power that uses the target's own body against them, agitation
+causes the cells of a subject to vibrate and rub together, creating
+tremendous friction, which sends the target into howing fits of pain,
+burning them without flames. If you do not specify a target, the spell
+will automatically target anyone you are currently in combat with.
+~
+
+0 levitation~
+Syntax: cast levitation
+ 
+Using their art to manipulate the forces about themselves, a Psionicist
+can actually achieve limited flight, making it impossible to trip them,
+and enabling them to get places that are normally shut off from non-fliers.
+This power is for self-use only.
+~
+
+0 obfuscate~
+Syntax: cast obfuscate
+ 
+By projecting a special field of light about their bodies, a Psionicist
+can disappear from sight altogether. As a powerful Psionicist once said,
+"What your enemies cannot see hurts them more." This power is for self-
+use only.
+~
+
+0 control_flame~
+Syntax: cast 'control flame' <target>
+
+Drawing flames from a light source, the {wcontrol flames{x spell causes
+a tongue of fire to strike forth at a specified enemy. This spell does
+require tht you have a light source on hand. If you do not specify a
+target, the spell will automatically target the opponent you are currently
+engaged in combat with.
+~
+
+0 adrenaline_control~
+Syntax: cast 'adrenaline control'
+ 
+Through concentration, a Psionicist can cause his adrenaline to flow on
+command, increasing both his reflexes and endurance. The effects of this
+power increase with the Psionicist's level. This power can only be 
+self-cast.
+~
+
+0 inflict_pain~
+Syntax: cast 'inflict pain' <target>
+ 
+By forcing impulses into a target, a Psionicist can make a target's body
+betray itself, making the opponent's mind believe he is in pain, and
+making the subject's body erupt into wounds and bruied tissue. If you do
+not specify a target the spell will automatically hit the opponent you
+are currently in combat with.
+~
+
+0 domination~
+Syntax: cast domination <target>
+ 
+A Psionic may impress his own mental pattern over those of others,
+overruling a target's ability to think and act. The Psionic may then
+control the subject's body as its own, much like the Mage spell "charm."
+~
+
+0 apport~
+Syntax: cast apport <target>
+ 
+By way of translocation, a Psionicist can exchange the positions of living
+things from great distances on an atomic level. Using this power, the
+target is brought to the Psionic, exchanging a like amount of material
+from what is surrounding it. Note tht the power of {wapport{x, like the
+spell "summon," is not absolute, and there are some places that it cannot
+reach.
+~
+
+0 psychic_crush~
+Syntax: cast 'psychic crush' <target>
+ 
+Another power that enters the mind of the target, Psychic Crush constricts
+the thoughts and impulses of the enemy, wracking his mind with impulses
+of literally being squashed into himself. If a target is not specified
+for this power, it will automatically target whomever you are in combat
+with.
+~
+
+0 thought_shield~
+Syntax: cast 'thought shield'
+ 
+With this power, the Psionicist creates a literal shield of force about
+himself, opposing incoming attacks. This lowers one's armor class,
+and the effect improves as the Psionicist's power grows. The Psionicist
+may not use this power on others.
+~
+
+0 eidolon~
+When the Angels fell prey to their lust for humans, they showed their first
+sights of evil desires. They lusted for the bodies of these races, and as
+a result the Nephilim were born. The Angels protected the race of their
+children until one day they were cast from Heaven by God.
+ 
+God took his vengeance out upon the Angels, and they fled. The Angels
+became Archangels, with no home to return to. They could not return to
+Heaven, for they were banned for all eternity. With no-where else to go,
+the Angels fled to the underworld, to the deepest, darkest pits of hell
+and death. The Angels' hatred for the Nephilim was fueled by the lost
+souls and ghosts of Hades, and the Angels slowly began to warp and change
+into creatures of the shadows. They evolved into cloaked, flying creatures.
+ 
+They became The Eidolon.
+ 
+The Eidolon are naturally translucent and can see all, whether it be day
+or night. Their translucent nature also makes it hard to bash or trip them.
+Since they are composed of all that is evil, negative energy and poisonous
+diseases do not harm them. Their wisdom and intelligence is rivaled by
+no other.
+ 
+They live for one reason alone: Revenge.
+~
+
+0 conflags consent_flags~
+Syntax: nosummon      {C(default: ON){x
+Syntax: nofollow      {C(default: OFF){x
+Syntax: noloot        {C(default: ON){x
+Syntax: norestore     {C(default: OFF){x
+ 
+Consent flags set whether or not you consent to certain actions from
+other players (and some immortals).
+ 
+{CNOSUMMON{x  : when ON, prevents other players from summoning you.
+ 
+{CNOFOLLOW{x  : when ON, prevents other players from following you.
+ 
+{CNOLOOT{x    : when ON, prevents your corpse from being looted by anyone
+            other than you.
+            (If you are killed in PK, your corpse can still be looted)
+ 
+{CNORESTORE{x : when ON, refuses immortal restores (which max your
+            hp/mana/move, but sometimes also strip all spells
+            affecting you, including beneficial ones).
+ 
+ 
+You can check to see how your conflags are set with the {wpcinfo{x command.
+ 
+Also see help for: LOOT, PCINFO, PK
+~
+
+0 damage~
+Damage is the reduction in hitpoints that you suffer as a result of
+combat, spell effects, poison, and several other things. When you are
+damaged, you will see a message like this:
+ 
+{RThe {y(enemy's) (attack-type) (damage-type)s {Ryou for {y(#){R hp.{x
+ 
+When you damage someone else, you will see a message like this:
+ 
+{RYour {y(attack-type) (damage-type)s {Rthe {y(enemy){R for {y(#){R hp.{x
+ 
+These combat messages tell you exactly who you are hitting or being hit
+by, what you are hitting with (or being hit by), and exactly how much
+damage in hitpoints is being dealt or received. Once either combatant
+takes as much damage as they have in maximum hitpoints, they will be
+killed.
+ 
+Also see help for: DEATH, HITPOINTS
+~
+
+0 golden_aura~
+Syntax: cast 'golden aura'
+ 
+This spell surrounds the caster in a protective golden aura, reducing
+the damage that he or she takes by 75%.
+ 
+This spell cannot be used in conjunction with the {wsanctuary{x spell,
+and can only be cast upon one's self.
+~
+
+0 aura_sight~
+Syntax: cast 'aura sight' <target>
+ 
+This ability taps into the mental energies of others to literally see
+the colors of someone's soul. The Psionicist can then decipher the colors
+to figure out the target's alignment. This is similar to the spell {wknow
+{walignment{x.
+~
+
+0 lend_health~
+Syntax: cast 'lend health' <target>
+ 
+One of the few healing devotions, through a methold known only to
+Psionicists, this spell gives the caster the ability to heal others
+using their own health. When this power is used, the Psionic will lose
+health, with the target of the spell recovering an amount of health.
+~
+
+0 detonate~
+Syntax: cast detonate <target>
+ 
+Even more insidious than the power {wagitate{x, detonate causes cells
+themselves to burst and die in large groups, in some cases igniting the
+target with the intense friction required to cause this effect. If a
+target is not specified for this power, it will automatically target
+whomever you are in combat with.
+~
+
+0 cell_adjustment~
+Syntax: cast 'cell adjustment'
+ 
+Using the same methods as {wpsychic healing{x, a Psionic can purge
+venomous substances from the body. Using cell adjustment will cause the
+Psionic's body to adapt and absorb the poison, channeling it away
+harmlessly.
+~
+
+0 ballistic_attack~
+Syntax: cast 'ballistic attack' <target>
+ 
+With a simple force of will, the Psionicist can use its mind to hurl
+small items from around itself toward its enemies. If a target is not
+specified for this spell, it will automatically target any opponent the
+Psionicist is currently in combat with.
+~
+
+0 mind_thrust~
+Syntax: cast 'mind thrust' <target>
+ 
+One of the more insidious powers available to the Psionicist, {wmind thrust{x
+invades the target's mind, overloading it with neural impulses and 
+causing damage.
+~
+
+0 combat_mind~
+Syntax: cast 'combat mind'
+ 
+With this power, a Psionicist may greatly increase the precision of
+control over his own body, as well as his visual senses, allowing him
+to evade and strike more accurately. While affected by {wcombat mind{x,
+the Psionic enjoys a bonus to AC, hitroll, and damroll.
+ 
+Also see help for: AC, DAMROLL, HITROLL
+~
+
+0 disintigrate~
+Syntax: cast disintigrate <target>
+ 
+A Psionic's most complex manipulation, {wdisintigrate{x is the power that
+splits cells into their component parts, dissipated living beings into
+vapor Curiousy, this awesome power is ineffective against all except
+the soulless (eg monsters), but the result upon success is resolute and
+final. Instant death. This spell may only be used to initiate combat,
+and anything killed by disintigrate is truly GONE. Corpses and gear will
+not be left behind.
+~
+
+0 forge~
+Some great and powerful smiths are able to forge new properties into
+weapons. Such services do not come cheaply, however, given the great
+amount of time and magic involved.
+ 
+{WThe following forges are available:{x
+ 
+{CFLAME{x    : Adds a fire effect to your weapon, which increases the
+           weapon's damage, as well as the chance that fire and smoke
+           from the weapon will blind the enemy. Cannot be combined
+           with the FROST forge.
+
+{CDRAIN{x    : Makes a weapon vampiric, stealing the life force of
+           those who it harms and returning strength to the wielder.
+           Be warned, this process corrupts a weapon, and slowly will
+           corrupt its' user, as well.
+
+{CSHOCKING{x : Adds an electric effect to your weapon, which increases
+           its damage and adds the possibility of stunning one's enemy.
+
+{CFROST{x    : Adds a cold effect to your weapon, not only increasing
+           its damage, but also may weaken one's enemy with the chill.
+           This forge cannot be combined with the FLAME forge.
+
+{CSHARP{x    : This forge hones the blade of piercing weapons, greatly
+           increasing the amount of damage it can do.
+
+{CVORPAL{x   : This forge hones the blade of slashing weapons, greatly
+           increasing the amount of damage it can do.
+
+{CPOISON{x   : Permanently coats a weapon with a sickly venom, which
+           enters the bloodstream of any foe that it hits.
+~
+
+0 inertial_barrier~
+Syntax: cast 'inertial barrier'
+ 
+With this power the Psionicist creates a literal shield of force about
+itself, opposing incoming attacks. This lowers the armor class of those
+it affects, and the effect improves as the Psionicist gains power.
+~
+
+0 flesh_armor~
+Syntax: cast 'flesh armor'
+ 
+Yet one more of the manipulations of which a Psionic is capable is the
+power of {wflesh armor{x. With this spell, a Psionicist can change the
+makeup of their skin's cellular structure, making it has hard as steel
+but still flexible. This power, in short, will reduce the Psionicist's
+armor class.
+~
+
+0 dirt_kicking~
+Syntax: dirt <target>
+ 
+Considered by some to be a cowardly skill, {wdirt kicking{x gives the
+clever combatant a chance to blind his opponent by casting dirt into
+his eyes. The resulting blindness does not last long, but can provide
+an edge in combat. Dexterity helps in hitting or avoiding a dirt kick.
+ 
+Thieves, Assassins, Warriors, Anti-Paladins and Rangers may learn this
+skill.
+~
+
+0 peek~
+Syntax: peek <target>
+ 
+The peek skill is useful for seeing what a player or monster is carrying
+in their inventory, the better to ue the {wsteal{x command with. More
+intelligent players and monsters are more difficult to {wpeek{x at. All
+players may learn the peek skill, but Thieves are the most common
+practitioners.
+~
+
+0 password~
+Syntax: password <old> <new>
+ 
+The {wpassword{x command changes your character's password. The first
+argument you must give is your old (current) password, and the second
+argument is your new password (what you would like to change it to).
+ 
+It is recommended that you never, ever share your password with anyone else.
+ 
+The password command is protected against being snooped or logged by an
+Immortal.
+~
+
+0 lamia~
+Curious creatures, origins unknown, the Lamia are a magical race much like
+Centaurs, except instead of having the bottom halves of horses, the Lamia
+have the fore- and hind-quarters of a lion and the upper body of a human.
+Lamia are supernaturally quick and vigorous, and possess average strength
+and mental ability. Lamia have an unnatural fear of fire, which, like
+their origin, remains unexplained. Lamia make good Mages and Clerics and
+are also competent Warriors and Assassins.
+ 
+For more information on this race, type {cracestat lamia{x.
+~
+
+0 draconian~
+Mockeries of the dragons of previous ages, the Draconian race are created
+through the act of perverting and corrupting the eggs of dragons themselves.
+They appear much like Lizardmen, but have wings and horns, features only
+associated with their noble 'cousins.' Also like dragons, Draconians have
+the unique ability to spit streams of the elemens at their foes in the
+form of a breath weapon. The process of their creation is imperfect,
+however, leaving them slow and inflexible, as well as a little muddled.
+Draconians may become Warriors, Thieves, Assassins, Anti-Paladins, Mages,
+Clerics, or Psionics.
+ 
+For more information about this race, type {cracestat draconian{x.
+ 
+Also see help for: BREATH_WEAPON
+~
+
+0 breath_weapon aquire~
+Syntax: aquire <breath type> <yourname>
+ 
+The breath weapon is a unique ability given to the Draconian race. New
+Draconians must choose the type of breath they wish to use when they
+first join the world. Be sure to choose wisely, for once the choice is
+made it cannot be changed later.
+ 
+Use of the breath weapon begins at level 20.
+ 
+Draconians may choose among the following breath weapons:
+ 
+{cFIRE{x      {w<bfire>{x      Shoots liquid fire onto your foe.
+ 
+{cACID{x      {w<bacid>{x      Projects a stream of corrosive acid.
+ 
+{cLIGHTNING{x {w<blightning>{x Injures a foe with shocking spit.
+ 
+{cGAS{x       {w<bgas>{x       Flings gaseous venom onto the enemy.
+ 
+{cFROST{x     {w<bfrost>{x     Spits torrents of freezing saliva.
+~
+
+0 stone_skin~
+Syntax: cast 'stone skin' <target>
+ 
+~
+
+0 multiplaying alt~
+Having more than one character logged into the game at the same time is
+called {wmultiplaying{x. On {RPhoenix{x, you are allowed to multiplay up to
+two characters at the same time ("alts"), provided that neither character
+is in a clan.
+ 
+Also see help for: RULES
+~
+
+0 dodge~
+In the words of one wise Warrior, "The best way to block a blow is to not
+be where it lands." The {wdodge{x skill honors this saying by improving
+a character's natural agility to the point where many blows will miss him.
+The chance of dodging successfully is affected by the dexterity level of
+both combatants.
+ 
+Every class may learn the dodge skill.
+ 
+Also see help for: PARRY
+~
+
+0 parry~
+If at first you fail to dodge, block it! Parry is useful for deflecting
+attacks, and is successful more often than dodge is. One must be wielding
+a weapon in order to parry successfully. Those skilled in {whand-to-hand{x
+combat may also see somewhat reduced damage from parrying, but will not
+get the benefit of a full block. The best chance of parrying an attack
+comes when the defender is skilled in both his and his opponent's weapon
+type.
+ 
+Also see help for: DODGE
+~
+
+0 board note~
+{xSyntax: board [number|name]     Shows or changes board.
+Syntax: note                    Reads next note.
+Syntax: note read [number]      Reads a certain note.
+Syntax: note remove <number>    Removes a note written by you.
+Syntax: note list [number]      Shows up to number notes.
+Syntax: note write              Posts a note.
+Syntax: note catchup            Marks all notes in this board read.
+{x
+These commands are used for the new note system. Instead of just one board,
+there are several, each with its special purpose. 
+{x
+Changing between the boards is accomplished using the {WBOARD{x command. {WBOARD{x
+without any arguments gives you a list of all boards together with number
+of unread message.
+To change, type {WBOARD <number> {xor {WBOARD <name of the board>{x.
+{x
+To read next unread note, type {WNOTE{x.
+To read a note with a specified number, type {WNOTE READ <number>{x.
+Typing {WNOTE{x while in a board with no unread notes shifts you
+to the next board. Note that unlike the standard note system, a 
+note has the same number in {WNOTE LIST{x and {WNOTE READ{x.
+{x
+Posting a message is as simple as writing {WNOTE WRITE{x. You will be moved 
+into interactive mode, where all you see are prompts for the fields like 
+To:, From: etc. You will be automatically put AFK while writing a note.
+{x
+To see the list of the notes in the current board, type {WNOTE LIST{x. Typing
+{WNOTE LIST <number>{x will list only <number> of the last notes in the area.
+{x
+You can remove your own note by using {WNOTE REMOVE <number>{x.
+{x
+To let only immortals see your note, address it to "imm". To let players of
+a specific level and above, address it to that level (no other
+recipients mayappear in that case).
+{x
+This board system was created by Erwin S. Andreasen, erwin@andreasen.org
+~
+
+0 top~
+{xSyntax: top
+{x
+The {Wtop{x command will show you the top 10 killers, explorers and treasure
+hunters on the mud.
+Only remorts who have attained the level of hero are included in the
+top 10 lists.
+{x
+If you hold the {W#1 spot{x in any of the three lists, your {Whit points{x, {Wmana{x
+and {Wmovement points{x will all {Gregenerate 15% faster{x!
+{x
+If you hold {Wall three #1 spots{x, your stats will {Gregenerate 45% faster{x!
+You also will earn {Y10% more quest points{x for holding all three spots!
+{x
+You get credits for kills by simply killing a mob.
+For each unique mob you kill, your kill count goes up 1.
+{x
+You get credits for exploring by simply entering a room.
+For each new room you find, your explorer count goes up 1.
+
+You get credits for treasure hunting by finding new objects.
+For each object you PICK UP, your treasure rating count goes up 1.
+
+{BTOP LISTS ARE UPDATED EVERY 30 MINUTES{x
+{x
+As a player, you can utilize two commands to help you in your quest to
+achieve a higher place in the top 10 lists.
+These two commands are {Wpercentages{x and {Wpercenthint{x
+{x
+Also see help for: percentages, percenthint
+~
+
+0 percentages~
+{xSyntax: percentages
+{x
+The {Wpercentages{x command will show you a list of all areas on the mud.
+Along with each area, will be the total number of mobs, objects and rooms
+in that area.
+Also shown is how many of thos mobs you've killed, objects you've found
+and rooms you've explored.
+It also shows you a percentage on how complete you are with each area.
+{x
+You can also use the {Wpercenthint{x command to get a hint at what mobs
+you still have to kill, objects to find or rooms to explore yet.
+{x
+Also see help for: percenthint, top
+~
+
+0 percenthint~
+{xSyntax: percenthint
+{x
+The {Wpercenthint{x command will tell you what mobs you still have to
+kill, objects to find, or rooms yet to explore for any area where you
+have less than 1% of any of those things left to do.
+{x
+Also see help for: percentages, top
+~
+
+0 'LABYRINTH OF KRONOS' 'KRONOS LABYRINTH'~
+{yThe labyrinth is a large area built for those who enjoy spending their
+time exploring.  The way through is treacherous and difficult, but the
+journey well worth the reward.{x 
+ 
+{rThe Labyrinth of Kronos: Built by Blade of Creatia
+http://creatia.funcity.org
+telnet://creatia.funcity.org:7500{x
+~
+
+0 'LINDON'~
+{yLindon is a small forested area that will fit into most campaign
+settings.  Lindon is a magical forest filled with elves, the above ground
+forested portion, giving out unto the dark regions of Underhill.  {x 
+ 
+{rLindon: Built by Blade of Creatia
+http://creatia.funcity.org
+telnet://creatia.funcity.org:7500{x
+~
+
+0 'MYSTIC MOON'~
+{yThis area is startling to the senses and attempts to make an impact by
+being just plain weird.  It is divided into four main sectors (Libra,
+Capricorn, Gemini and Aquarius) and there are walkways and corridors and
+hidden areas.  But beware the Line of Judas which runs through the
+middle....  Good use of colour in this area....  And lots of hidden mobs. 
+{x 
+{rMystic Moon: Built/Donated by Kandahar
+http://creatia.funcity.org
+telnet://creatia.funcity.org:7500{x
+~
+
+0 'SHADOW VALLEY'~
+{yThis area is a ghost town if you're wandering thru it without 'detect
+invisible' on.  All the inhabitants are ghosts.  There are three sectors to
+this area, a neutral one, evil and good.  {x 
+ 
+{rShadow Valley: Built/Donated by Kandahar
+http://creatia.funcity.org
+telnet://creatia.funcity.org:7500{x
+~
+
+0 Legend~
+Once a player reaches 90% in each of the top scores(type: 'top' to see the
+lists), they can 'become' a Legend. After getting 90% in the top lists you
+must complete a grand quest, this involves running The Gauntlet, and then
+somthing different depending on if they pursue Nephilim(see:'help fallen')
+or Eidolon (see: 'help eidolon'). 
+Once they complete this quest they become either a 'Nephilim Legend' or an
+'Eidolon Legend' 
+{x
+They lose everything at this point. Skills, Spells, Items, Quest Points,
+Gold, everything. You do however get to pick a weapon choice, which will
+start at 40%.
+{x
+Legends cannot understand anything anyone says on any channel. In order to
+undertand AND be understood, they need to purchase the racial languages.
+Each racial languages allows two-way communication with that race on any
+channel. These cost 3 trains for the first one, and 6 for the second
+language.
+{x
+As a Legend you can buy ANY Spell or Skill with gold, quest points and
+trains. All skills are availible to a Legend at level 1. But you will not
+have anything to buy them with at level 1, unless you do alot of newbie
+quests, but newbie monsters dont have that much gold so...;) 
+{x
+Every 5 levels of a legends life, they must complete a quest in order to
+continue advancing. These quests involve collecting legednary shards and
+joining them together to form a legendary item, this item will not be
+revealed to you until you have joined all the shards together, which you
+wont get the last shard untill level 99. Only legends can see and hold
+these items and shards. And they can't complete or gather items for a
+shard until they have reached the correct level. (i.e must be lvl 4 to
+even be able to the level 4 shard.)
+{x
+Being mortal enemies each legend type is vulnerable to attack from the
+other, regardless of choose status. In essence you are auto-pk from
+level 1. However, only legends can attack other legends.
+~
+
+0 venus~
+{x
+{RWe are compiling a list of things to be fixed.{x
+{RSince all the players interact with everything more{x
+{Rthan the immortals, we want you to take everything you{x
+{Rcan find wrong, bugs, broken stuff, ect. and let us know about it{x
+{RCompile what you find and send it to us, either in{x
+{Ra note to immortal, or email it to venus@rotrd.com{x
+{RDetail is very important so we know exactly what to give Sembi{x
+{x
+{RThank you for helping make this mud a better place for everyone{x
+{x
+{WImmortal Staff{x
+{x
+~
+
+0 $~
+
+#$

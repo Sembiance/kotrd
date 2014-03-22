@@ -1,0 +1,91 @@
+#PLAYER
+Name Kenshi~
+Id   1096500867
+LogO 1156652891
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 4
+OldLvl 4
+Sec  0
+Plyd 13114
+Scro 33
+Room 3710
+HMV  46 46 106 106 30 118
+Gold 5
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 4
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  4450
+PAct  DQTd
+WName Kenshi~
+Comm FNO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 7
+Trai 6
+Save  -31
+Alig  -1000
+Hit   62
+ACs 77 77 77 80
+Attr 12 13 12 18 12
+AMod 0 0 0 0 0
+Pass Ke4d2kP.SUi5A~
+Titl  {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 1
+HMVP 46 106 118
+Cnd  0 0 0 0
+Boards       4 General 1099608535 Ideas 1099578141 Announce 1099099820 Personal 0 
+Sk 40 'dagger'
+Sk 1 'backstab'
+Sk 1 'dodge'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'bless'   0 243  36  62  18          0
+Affc 'bless'   0 231  36 -31  20          0
+Affc 'armor'   0 245  64 -20  17          0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#END

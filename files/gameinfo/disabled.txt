@@ -1,0 +1,4 @@
+mpdump 500 Argon
+share 500 Argon
+dump 500 Yavi
+END

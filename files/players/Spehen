@@ -1,0 +1,270 @@
+#PLAYER
+Name Spehen~
+Id   1097205334
+LogO 1097206444
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Dwarf~
+Sex  1
+Cla  1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 1110
+Not  0 0 0 0
+Scro 33
+Room 25302
+HMV  37 37 104 104 112 112
+Gold 100
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  5382
+PAct  EQTd
+AfBy Fe
+Empower  0
+WName Spehen~
+Comm NO
+Deaf DP
+Pos  8
+Prac 8
+Trai 5
+Save  -32
+Alig  0
+Hit   163
+Dam   100
+ACs -160 -160 -160 -156
+Attr 16 13 18 10 17
+AMod 0 0 0 0 0
+Pass SpMf6ZhjCAr6M~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 48
+TSex 1
+PSize 2
+LLev 0
+HMVP 37 104 112
+Cnd  0 16 32 32
+Sk 1 'cure light'
+Sk 1 'change sex'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'weaken'
+Sk 40 'mace'
+Sk 1 'berserk'
+Sk 1 'dodge'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Affc 'bless'   0 249 120 -31  20          0
+Affc 'bless'   0 249 120  62  18          0
+Affc 'combat mind'   0 498 152 100  19          0
+Affc 'combat mind'   0 498 152 -255  17          0
+Affc 'combat mind'   0 497 152 100  18          0
+Affc 'golden aura'   0 496  97   0   0 1073741824
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 184 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#END

@@ -1,0 +1,371 @@
+#PLAYER
+Name Stumpy~
+Id   1098336515
+LogO 1175470463
+Vers 5
+Prom %r %R %z ~
+Race Lizardman~
+Sex  2
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 125
+OldLvl 125
+Sec  9
+Plyd 1056179
+Scro 33
+Room 3054
+HMV  4175 4175 12794 12794 1266 1266
+Gold 101030
+Silv 86113
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 125
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  181250
+QuestPnts 200
+PAct  CDGNQRTd
+AfBy Jb
+WName Stumpy~
+Comm FJKMNO
+RaceChan 0
+Deaf 0
+Wizn A
+Pos  8
+Prac 149
+Trai 125
+Save  -45
+Alig  -873
+Hit   61
+Dam   72
+ACs -124 -289 -199 -169
+Attr 15 12 11 18 17
+AMod 4 -8 -5 0 4
+Pass Stw2Dit1iLezw~
+Bin  {wStumpy's {CCRITICAL STRIKE {Rdoes {WGODLIKE {Rdamge to {wyou for {c<[{R59909{c]> {Whp {x~
+Bout {wStumpy's {CCRITICAL STRIKE {Rdoes {WGODLIKE {Rdamge to {wyou for {c<[{R59909{c]> {Whp {x~
+Titl  {R"{CStump Stump Stumppetty Stump...{R"{x~
+Job {WBuilder{x {C {x~
+Pnts 49
+TSex 1
+PSize 2
+LLev 55
+HMVP 3000 9999 866
+Cnd  1 1 47 47
+Boards       4 General 1174263672 Ideas 1173698657 Announce 1104975611 Personal 1173059791 
+Sk 100 'reserved'
+Sk 100 'magic missile'
+Sk 100 'chill touch'
+Sk 100 'burning hands'
+Sk 100 'shocking grasp'
+Sk 100 'colour spray'
+Sk 100 'fireball'
+Sk 100 'acid blast'
+Sk 100 'spellfire'
+Sk 100 'orb of chaos'
+Sk 100 'chain lightning'
+Sk 100 'wyldstryke'
+Sk 100 'acid storm'
+Sk 100 'wail of the banshee'
+Sk 100 'torment of cold'
+Sk 100 'sonic scream'
+Sk 100 'ventriloquate'
+Sk 100 'recharge'
+Sk 100 'sleep'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'charm person'
+Sk 100 'haste'
+Sk 100 'pass door'
+Sk 100 'portal'
+Sk 100 'nexus'
+Sk 100 'acid breath'
+Sk 100 'frost breath'
+Sk 100 'lightning bolt'
+Sk 100 'lightning breath'
+Sk 100 'gas breath'
+Sk 100 'fire breath'
+Sk 100 'cure light'
+Sk 100 'change sex'
+Sk 100 'cause light'
+Sk 100 'cure blindness'
+Sk 100 'bless'
+Sk 100 'cause serious'
+Sk 100 'cure serious'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'earthquake'
+Sk 100 'cause critical'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'heat metal'
+Sk 100 'remove curse'
+Sk 100 'flamestrike'
+Sk 100 'heal'
+Sk 100 'harm'
+Sk 100 'frenzy'
+Sk 100 'demonfire'
+Sk 100 'ray of truth'
+Sk 100 'holy word'
+Sk 100 'mass healing'
+Sk 100 'golden aura'
+Sk 100 'fortify object'
+Sk 100 'fireproof'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'curse'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'locate object'
+Sk 100 'mass invis'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'refresh'
+Sk 100 'sanctuary'
+Sk 100 'energy shield'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'apport'
+Sk 100 'combat mind'
+Sk 100 'adrenaline control'
+Sk 100 'enhanced strength'
+Sk 100 'aura sight'
+Sk 100 'awe'
+Sk 100 'thought shield'
+Sk 100 'psychic healing'
+Sk 100 'mental barrier'
+Sk 100 'share strength'
+Sk 100 'levitation'
+Sk 100 'obfuscate'
+Sk 100 'bio fortress'
+Sk 100 'cell adjustment'
+Sk 100 'displacement'
+Sk 100 'ectoplasmic form'
+Sk 100 'lend health'
+Sk 100 'complete healing'
+Sk 100 'energy containment'
+Sk 100 'enhance armor'
+Sk 100 'flesh armor'
+Sk 100 'inertial barrier'
+Sk 100 'domination'
+Sk 100 'disintegrate'
+Sk 100 'essence drain'
+Sk 100 'agitation'
+Sk 100 'ballistic attack'
+Sk 100 'control flames'
+Sk 100 'death field'
+Sk 100 'detonate'
+Sk 100 'ego whip'
+Sk 100 'inflict pain'
+Sk 100 'mind thrust'
+Sk 100 'project force'
+Sk 100 'psionic blast'
+Sk 100 'psychic crush'
+Sk 100 'psychic drain'
+Sk 100 'ultrablast'
+Sk 100 'blightning'
+Sk 100 'bfire'
+Sk 100 'bfrost'
+Sk 100 'bacid'
+Sk 100 'bgas'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'pdrain blade'
+Sk 100 'pshocking blade'
+Sk 100 'pflame blade'
+Sk 100 'pfrost blade'
+Sk 100 'pvorpal blade'
+Sk 100 'psharp blade'
+Sk 100 'ppoison blade'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'mace'
+Sk 100 'axe'
+Sk 100 'flail'
+Sk 100 'whip'
+Sk 100 'polearm'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'circle'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'shield block'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'envenom'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'spellcraft'
+Sk 100 'companion'
+Sk 100 'track'
+Sk 100 'whirlwind'
+Sk 100 'heighten senses'
+Sk 100 'chameleon power'
+Sk 100 'create zombie'
+Sk 100 'metamorph'
+Sk 100 'shadow form'
+Sk 100 'multiburst'
+Sk 100 'forsake'
+Sk 100 'divine wrath'
+Sk 100 'immdis magic'
+Sk 100 'quicken'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'sharp blade'
+Sk 100 'critical strike'
+Sk 100 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+End
+
+#O
+Vnum 19207
+Nest 0
+Cond 0
+Wear 7
+Cost 30000
+End
+
+#O
+Vnum 10601
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 20430
+Nest 0
+Name golem master ring Stumpy~
+Cond 0
+Wear 2
+Cost 35678
+End
+
+#O
+Vnum 11851
+Nest 0
+Cond 0
+Wear 10
+Cost 15000
+End
+
+#O
+Vnum 20430
+Nest 0
+Name golem master ring Stumpy~
+Cond 0
+Wear 1
+Cost 35678
+End
+
+#O
+Vnum 31442
+Nest 0
+Name sticker Stumpy~
+Cond 0
+Wear 6
+Cost 1
+End
+
+#O
+Vnum 23451
+Nest 0
+Cond 0
+Wear 18
+Cost 75000
+End
+
+#O
+Vnum 1111
+Nest 0
+Name backpack dragon Stumpy~
+Cond 0
+Wear 20
+Cost 11
+End
+
+#O
+Vnum 3006
+Nest 0
+Name medallion soulgem gem Stumpy~
+Cond 0
+Wear 3
+Cost 27274
+End
+
+#O
+Vnum 3017
+Nest 0
+Cond 0
+Wear 17
+Cost 20000
+End
+
+#END

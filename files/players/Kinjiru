@@ -1,0 +1,456 @@
+#PLAYER
+Name Kinjiru~
+Id   1091159980
+LogO 1091162902
+Vers 5
+Prom HP: %h/%H  Mana: %m/%M  Move: %v/%V   %K TNL: %X  ~
+Race Inccubus~
+Sex  1
+Cla  4
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 2922
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  70 170 130 139 101 204
+Gold 1178
+Silv 25411
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  26485
+PAct  CDFGQTd
+AfBy HTUV
+Empower  0
+WName Kinjiru~
+Comm FNO
+Deaf DP
+Pos  8
+Prac 4
+Trai 2
+Save  -32
+Alig  -1000
+Hit   92
+Dam   31
+ACs -142 -140 -138 -106
+Attr 16 15 17 20 18
+AMod 5 6 6 10 0
+Pass KiQRlSgr0q.r6~
+Titl  {x~
+Pnts 55
+TSex 1
+PSize 2
+LLev 0
+HMVP 170 129 184
+Cnd  0 0 1 1
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 1 'invisibility'
+Sk 75 'sword'
+Sk 78 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 72 'kick'
+Sk 75 'dodge'
+Sk 1 'second attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'invisibility spell'
+Affc 'displacement'   0  95  17   0   0    1048576
+Affc 'displacement'   0  95  63  12   2          0
+Affc 'displacement'   0  91  63 -96  17          0
+Affc 'bio fortress'   0  93   0   0   0        128
+Affc 'enhanced strength'   0  94  67  15   1          0
+Affc 'combat mind'   0  95   0  20  19          0
+Affc 'combat mind'   0  89   0 -55  17          0
+Affc 'combat mind'   0  94   0  20  18          0
+Affc 'armor'   0 240  54 -20  17          0
+Affc 'bless'   0 240  87 -31  20          0
+Affc 'bless'   0 242  87  62  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 153 0 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3711
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3702
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4705
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3500
+Nest 1
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3709
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 4721
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 4706
+Nest 0
+Cond 0
+Wear 3
+Cost 3000
+End
+
+#O
+Vnum 4707
+Nest 0
+Cond 0
+Wear 5
+Cost 3000
+End
+
+#O
+Vnum 4709
+Nest 0
+Cond 0
+Wear 6
+Cost 3000
+End
+
+#O
+Vnum 4710
+Nest 0
+Cond 0
+Wear 8
+Cost 3000
+End
+
+#O
+Vnum 16066
+Nest 0
+Cond 0
+Wear -1
+Cost 989
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear 16
+Cost 1050
+End
+
+#END

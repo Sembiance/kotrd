@@ -1,0 +1,64 @@
+#PLAYER
+Name Shea~
+Id   1089592553
+LogO 1089592698
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  4
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 145
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1000
+PAct  QTd
+Empower  0
+WName Shea~
+Comm NO
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 13 14 14 18 15
+AMod 0 0 0 0 0
+Pass Sh1e25s2EhYpM~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 44 46 46
+Sk 40 'dagger'
+Sk 1 'assassinate'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+End
+
+#END

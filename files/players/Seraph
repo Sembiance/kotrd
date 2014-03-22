@@ -1,0 +1,233 @@
+#PLAYER
+Name Seraph~
+Id   1088467607
+LogO 1092775915
+Vers 5
+Prom <%X><%h/%Hhp|%m/%Mmana|%vv|exits:%e> ~
+Race Seraph~
+Sex  1
+Cla  5
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 6363
+Not  1089999432 1088890068 0 0
+Scro 33
+Room 3054
+HMV  88 88 111 111 124 124
+Gold 79
+Silv 931
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  9491
+PAct  CFGQTd
+AfBy FT
+Empower  0
+WName Seraph~
+Comm NO
+Deaf DP
+Pos  8
+Prac 8
+Save  -32
+Alig  1000
+Hit   64
+ACs 68 68 67 76
+Attr 20 18 15 11 20
+AMod 0 2 3 1 2
+Pass SeQKsQpg7vwe2~
+Titl  wants {Yfries{w with that.~
+Pnts 57
+TSex 1
+PSize 2
+LLev 1
+HMVP 88 111 124
+Cnd  0 0 0 0
+Sk 1 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 76 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'enhanced damage'
+Sk 8 'dodge'
+Sk 1 'parry'
+Sk 14 'shield block'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'armor'   0 239  42 -20  17          0
+Affc 'bless'   0 234  56  62  18          0
+Affc 'bless'   0 237  56 -31  20          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 99 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3719
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 16 0 0 0
+End
+
+#END

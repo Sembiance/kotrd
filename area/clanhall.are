@@ -1,0 +1,4845 @@
+#AREADATA
+Name CLAN HALLS~
+Builders Argon~
+VNUMs 2500 2799
+Credits ANY   ~
+Security 2
+Flags F
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#2500
+clan healer~
+{DYlvean{x~
+{DA darkelf in tattered blue robes wanders around chanting.{x
+~
+This is Ylvean, the {DMa{xl{Dice{x healer.  His demeanor
+is stern as he barely looks up at you before he goes back to chanting
+his simple spells.
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2501
+iron maiden clan~
+The {DIro{bn Mai{Dden{x~
+The {DIro{bn Mai{Dden{x herself is here waiting for customers.
+~
+She is a tall darkelf with long black hair.  She is clothed in a tight
+fitting dark blue sleeveless robe, her face and arms showing scars of war. 
+She waits patiently for you to decide on your purchase.  
+~
+DarkElf~
+AB F 0 0
+0
+80 0 323d234+23434 0d0+0 12345d34+344 none
+10 10 10 10
+0 LM Q NS
+stand stand female 200000
+AHMV ABCDEFGHIJK medium unknown
+#2502
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2503
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2504
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2505
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2506
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2507
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2508
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2509
+Malice allotted mob~
+{DMa{gl{Dice{c allotted mob{c~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2510
+orb burning globe light healer~
+{wa {rburning {wglobe of {RC{rh{Da{Wo{RS{x~
+{wa small incandescent globe of {RC{rh{Da{Wo{Rt{ri{wc light floats here.{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2511
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2512
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2513
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2514
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2515
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2516
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2517
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2518
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2519
+ChaoS allotted mob~
+{RC{rh{Da{ro{RS {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2520
+blackpanther healer~
+{WBlac{bkPan{Dther{x~
+{cThe old hero {WBlac{bkPan{Dther{c stands in the corner here to aid you.{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+250 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2521
+silent death guild master~
+{WSile{bntD{Death{x~
+{WSile{bntD{Death{c is here training you to be like the shadows.{x
+~
+~
+Nephilim~
+ABJKQVbe DFVe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCDELMNOP CFHJK 0
+stand stand male 500
+ACHMVc ABCDEFGHIJKMV medium unknown
+#2522
+sera wizard~
+{WSera{w, the Clan {WWi{bza{Drd{x~
+{WSera{w, the Clan {WWi{bza{Drd {cstands here selling potions.{x
+~
+~
+Human~
+AB DF 900 0
+0
+23 30 1d1+50000 1d1+999 1d8+32 magic
+-20 -20 -20 -20
+AF ABCDEFGHIJKLMNOPQSTUVYZabcde 0 0
+stand stand male 125000
+AHMV ABCDEFGHIJKMV medium unknown
+#2523
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2524
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2525
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2526
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2527
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2528
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2529
+Shadow allotted mob~
+{WSh{bad{Dow {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2530
+clan healer~
+{DCor{Ws{gair {DHealer{x~
+{DCor{Ws{gair {DHealer{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2531
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2532
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2533
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2534
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2535
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2536
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2537
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2538
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2539
+Corsair allotted mob~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2540
+clan healer~
+{RD{reath{WK{Diss{r allotted healer{x~
+{RD{reath{WK{Diss{r allotted healer{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2541
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+{RD{reath{WK{Diss {callotted mob{x
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2542
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+{RD{reath{WK{Diss {callotted mob{x
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2543
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2544
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2545
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2546
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2547
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2548
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2549
+DeathKiss allotted mob~
+{RD{reath{WK{Diss {callotted mob{x~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2550
+valor v clan healer~
+{WThe {BGreat {CElven {WHealing {YMage {x~
+{WThe {BGreat {CElven {WHealing {YMage {Mstands here healing the {Rwarriors {Mof {cV{Ma{CL{Mo{cR{M.{x
+~
+~
+Elf~
+ABQRa J 0 0
+0
+250 0 1000d1000+1000 1000d1000+1000 1000d1000+1000 none
+-500 -500 -500 -500
+0 0 PQ Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2551
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2552
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2553
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2554
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2555
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2556
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2557
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2558
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2559
+Clan #6 Mob~
+Clan #6 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2560
+clan healer durendal~
+{DDurendal{x~
+{rDurendal {Dis here, waiting to heal you.{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2561
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2562
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2563
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2564
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2565
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2566
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2567
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2568
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2569
+Clan #7 Mob~
+Clan #7 Mob~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2570
+clan healer malvakian~
+Malkav~
+{wMalkav {xis here, looking kinda pale.
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2571
+guild malkavian master~
+Ysgarren du Charon~
+{wYsgarren du Charon{x, Archon to Magistratum, is here.
+~
+~
+Elf~
+ABDEJKRabd J 0 0
+0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 PQ Z
+stand stand none 200000
+AHMV ABCDEFGHIJK medium unknown
+#2574
+undead lost soul~
+{CA lost soul{x~
+{cAn undead {wskeleton{c roams the tunnels.{x
+~
+~
+Human~
+AFO B -1000 0
+0
+42 0 25d10+2250 3d12+4 99d1+1 wrath
+-1 -1 -1 -1
+B 0 0 0
+stand stand none 3321
+I ABCEHJ medium unknown
+F for AHMV
+F par DFGIK
+#2580
+clan healer~
+Renkun, {w[{BE{glit{Be{w] Cleric{x~
+Renkun sits here chanting.
+~
+A short man sits chanting an ancient hymn.
+~
+Human~
+ABQVae DFe 0 0
+0
+100 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2581
+clan guild master dentle~
+Dentle, Master Trainer~
+Dentle nods at you.
+~
+Muscular and tall, you can tell he is a force to be reckoned with.  
+~
+Nephilim~
+ABJKQVbe DFVe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCDELMNOP CFHJK 0
+stand stand male 500
+ACHMVc ABCDEFGHIJKMV medium unknown
+#2582
+clan bendim~
+Bendim~
+Bendim holds a glowing potion.
+~
+A man with a weird aura sits behind a counter.  
+~
+Human~
+AB DF 900 0
+0
+23 30 1d1+50000 1d1+999 1d8+32 magic
+-20 -20 -20 -20
+AF ABCDEFGHIJKLMNOPQSTUVYZabcde 0 0
+stand stand male 125000
+AHMV ABCDEFGHIJKMV medium unknown
+#2584
+old world citizen~
+{cAn Old World Citizen{x~
+{cTrapped between this world and the next, An {wOld World Citizen{c is here.{x
+~
+An {wOld World Citizen{x is here,trapped between this world and the next.
+He wonders if he will ever see his former world again.  
+~
+Human~
+A 0 -1000 0
+0
+39 0 15d10+1700 5d6+13 99d1+1 punch
+-1 -1 -1 0
+0 0 0 0
+stand stand none 80008
+I ABCDK medium unknown
+F for AHMV
+F par EFGHIJ
+#2590
+wraith bluerose~
+{cThe {bBl{Bue{MRo{mse{c Wraith{x~
+{cThe {bBl{Bue{MRo{mse{c Wraith is here, waiting to prey on the living.{x
+~
+{xThe {bBl{Bue{MRo{mse{c Wraith {xis here, waiting to prey on the living.
+{x He longs for the day he can roam the world of the living.  Sadly, that
+day can never come.  
+~
+Human~
+AB TV 100 0
+0
+43 0 25d10+2500 3d12+15 99d1+1 charge
+-1 -1 -2 0
+F 0 0 0
+stand stand male 9023
+H ABCDEFGHIJK medium unknown
+F for AMV
+#2597
+old world guard~
+{cAn Old World Guard{x~
+{cAn {wOld World Guard{c is trapped between this world and the next.{x
+~
+An {wOld World Guard{x is trapped between this world and the next. He once protected those
+who would travel along clan road, now he aimlessly wishes to kill anyone he comes across.
+~
+Human~
+A 0 -400 0
+0
+39 0 10d10+1300 4d7+11 99d1+1 wrath
+-1 -1 -1 0
+H 0 H 0
+stand stand none 16099
+I ABCDJK medium unknown
+F for AHMV
+F par EFGHI
+#2600
+phantom knight valor~
+{cThe Phantom Knight of {BV{Wa{Bl{Wo{Br{x~
+{cThe Phantom Knight of {BV{Wa{Bl{Wo{Br{c is here, weeping for his fallen knights.{x
+~
+{xThe Phantom Knight of {BV{Wa{Bl{Wo{Br{x is here, weeping for his fallen
+knights.  Once a legendary clan leader, he is now imprisoned in purgatory.  
+~
+Human~
+AB TV 600 0
+0
+48 0 25d10+3750 6d6+18 99d1+1 divine
+-1 -1 -1 0
+0 0 0 N
+stand stand none 4090
+H ABCDEFGHJK medium unknown
+F for AMV
+F par I
+#2610
+clan healer~
+{cHEALER #12{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2620
+clan healer~
+{cHEALER #13{x~
+{cHEALER{x
+~
+{wA beautiful woman is sitting here, healing those of clan {bMal{w
+k{Wa{wv{bian {wwhenever they need it.  {x 
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2630
+clan healer~
+{cHEALER #14{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2640
+clan healer~
+{cHEALER #15{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2650
+clan healer~
+{cHEALER #16{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2660
+clan healer~
+{cHEALER #17{x~
+{cHEALER{x
+~
+{DGrey tentacles flow through the room, searching for signs of life.  Mindle
+ss, they reach for any flesh.  Their touch is death, but not quickly.  Once Mash
+andar has you, the ancient evil will drain your soul, leaving your body a lifele
+ss husk.{x
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2670
+clan healer~
+{cHEALER #18{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2680
+clan healer~
+{cHEALER #19{x~
+{cHEALER{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2690
+healer~
+{cThe old world Healer{x~
+{cThe old world Healer is here, wanting to heal those that crossed to the other side.{x
+~
+~
+Human~
+ABQVae DFe 0 0
+0
+80 0 1d1+999 1d1+9999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#2698
+banshee drider~
+{cThe haunting Banshee of {BDr{bide{Brs {cClan{x~
+{cThe haunting Banshee of {BDr{bide{Brs {cClan is here, yearning to cross into this world.{x
+~
+The haunting Banshee of {{BDr{bide{Brs {xClan is here, yearning to cross
+into this world.  He will search throughout the ages, looking for the one
+who might revive the {BDr{bide{Brs{x.  
+~
+Human~
+AB V 450 0
+0
+46 0 25d10+3250 6d6+16 99d1+1 punch
+-1 -1 -1 0
+H 0 0 0
+stand stand none 90432
+H ABCDK medium unknown
+F for AMV
+F par EFGHIJ
+#2699
+ghost~
+{cThe Ghost of {bMal{wk{Wa{wv{bian{x~
+{cThe Ghost of {bMal{wk{Wa{wv{bian{c is here, haunting the hall.{x
+~
+The Ghost of Clan {bMal{wk{Wa{wv{bian{x roams the clan hall, seeking to
+destroy anyone who might have been part of the demise of his beloved clan. 
+Time stands still for this ghostly legend, he knows it, and hates it.  
+~
+Human~
+AB 0 500 0
+0
+44 0 25d10+2750 8d4+15 99d1+1 punch
+-1 -1 -1 0
+0 0 0 0
+stand stand male 9903
+H ABCEGIK medium unknown
+F for AMV
+F par DFHJ
+#2700
+spirit dragon~
+{cThe Spirit of {rDragon {cClan{x~
+{cThe Spirit of {rDragon{c Clan is here, searching for the souls of other dragons.{x
+~
+The Spirit of {rDragon{x Clan roams the halls, searching for his beloved
+{rDragon{x Clan members.  Little does he know that they are lost in time,
+perhaps in another dimension.  
+~
+Human~
+AB TV -300 0
+0
+45 0 25d10+3000 8d4+14 99d1+1 flbite
+-1 -1 -1 0
+0 0 0 0
+stand stand male 70454
+H ABCHIK medium unknown
+F for AMV
+F par DEFGJ
+#0
+
+
+
+#OBJECTS
+#2500
+clan pit~
+{DA {rblood stained {Dsacrificial pit{x~
+{DA {rblood stained {Dsacrificial pit is here.{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+20 0 0 P
+#2501
+malice pack backpack skin~
+{DMa{gl{Dice {DP{wa{Dc{wk {Do{wf {DF{wl{Da{wy{De{wd {wSkins{x~
+{wA pile of tanned skins of various races lies here, stitched into a backpack.{x~
+HIGH_LEATHER container TYac AR
+1250 A 0 2500 50
+25 25 10000 P
+A
+19 8
+A
+18 8
+A
+1 3
+A
+17 -50
+A
+13 200
+#2502
+malice lantern skull~
+{DMa{gl{Dice {WS{Dk{Wu{Dl{Wl {WL{Dan{Wt{Der{Wn{x~
+{wA skull rests here, light radiating from the eye sockets{x~
+BONE light_source AYc AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 20 10000 P
+A
+13 50
+A
+4 1
+A
+3 1
+#2503
+malice bone flask~
+{DMa{gl{Dice {WBone {DFl{Wa{wsk{x~
+{wA flask made of bone and hide lies here{x.~
+BONE drink TYac AO
+110 110 'root beer' 0 0
+20 0 0 P
+#2504
+clan potion frenzy~
+{DMa{xl{Dice {rfrenzy {Dpotion{x~
+A potion has been left here.~
+GLASS potion H AO
+18 'frenzy' 'reserved' 'reserved' 'reserved'
+25 1 1000 P
+#2505
+tub blood boil~
+{DTub of {Rboiling blood{x~
+{Da Tub of {Rboiling blood{D is steaming here.{x~
+ROCK_MARBLE furniture T 0
+BD EGIJOP FIL ABDFJ ABDFJ
+25 1250 3573 P
+#2506
+Malice allotted item~
+{DMa{gl{Dice{c allotted item{c~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2507
+Malice allotted item~
+{DMa{gl{Dice{c allotted item{c~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2508
+Malice allotted item~
+{DMa{gl{Dice{c allotted item{c~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2509
+Malice allotted item~
+{DMa{gl{Dice{c allotted item{c~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2510
+pit void clan chaos~
+{rV{Wo{Ri{rd {Dof {RC{rh{Da{Wo{RS{x~
+{DA tumultuous {rV{Wo{Ri{rd {Dof {RC{rh{Da{Wo{RS {Dis whirling here.{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+1 0 0 P
+#2511
+backpack chaos waves~
+{DBackpack of rippling {RC{rh{Da{Wo{RS{x~
+{DThe air ripples slightly here, and groaning can be heard from within.{x~
+DIVINE_ELEM container BTYa AR
+1250 A 0 2500 50
+20 25 10000 P
+A
+12 100
+A
+13 100
+A
+19 2
+A
+18 2
+A
+17 -50
+A
+19 1
+A
+18 1
+A
+13 200
+A
+19 5
+A
+18 5
+#2512
+eye flame chaos~
+{DA lurid roving eye of {RC{rh{Da{Wo{RS{x~
+{Da small eye bounces around on the floor, each time causing reality to waver.{x~
+ORGANIC light_source ATYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 20 10000 P
+A
+19 3
+A
+18 3
+A
+3 2
+A
+13 150
+A
+13 50
+E
+eye~
+{DWhen you look at the eye, it looks back at you.  It follows your
+movements, albeit jerkily, and blinks madly.  {x 
+~
+#2513
+vortex chaos flask~
+{Da flask-shaped whirling {rV{Do{wr{Dt{Re{rx {Dof {RC{rh{Da{Wo{RS{x~
+{Da small {rV{R{Do{wr{Dt{Re{rx {Dis vibrating here, tearing up the ground.{x~
+MAGIC_ENERGY drink BTYa AO
+110 110 'milk' 0 0
+20 0 10000 P
+E
+vortex~
+{DA small whirling vortex is whirling here.  The waves of energy create a
+vibrato tone in the air around it, and it looks as if a drop of white liquid
+escapes into the trailing arms of the vortex every so often.  {x 
+~
+#2514
+udder~
+{wan udder.{x~
+{wWhat looks like a cow udder is here, attached to the wall.{x~
+SELECT_A_MATERIAL fountain TY 0
+0 0 'milk' 0 0
+103 0 0 P
+#2515
+ChaoS allotted item~
+{RC{rh{Da{ro{RS {callotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+30 0 0 P
+#2516
+ChaoS allotted item~
+{RC{rh{Da{ro{RS {callotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2517
+ChaoS allotted item~
+{RC{rh{Da{ro{RS {callotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2518
+ChaoS allotted item~
+{RC{rh{Da{ro{RS {callotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2519
+ChaoS allotted item~
+{RC{rh{Da{ro{RS {callotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2520
+pit clan~
+{WSh{bad{Dows {cpit of stolen goods{x~
+{WSh{bad{Dows {cpit of stolen goods.{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2521
+backpack clan shadow~
+{DA {WSh{bad{Dow {WBackpack{x~
+{ca backpack shrouded in shadow{x~
+BLACK_DIAMOND container BTYa AR
+1250 A 0 10000 50
+20 25 10000 P
+A
+14 100
+A
+12 100
+A
+13 100
+A
+1 3
+A
+19 3
+A
+18 3
+A
+17 -50
+A
+13 200
+A
+19 5
+A
+18 5
+#2522
+torch shadow~
+{DA {WSh{bad{Dow {WTorch{x~
+{cYou see a glimpse of shadow on the floor here.{x~
+BLACK_DIAMOND light_source AYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 20 10000 P
+A
+14 150
+A
+12 150
+A
+13 150
+A
+2 2
+A
+1 3
+A
+13 50
+#2523
+vial flask shadow clan~
+{DA {WVial {Dof {WSh{bad{Dows{x~
+{cA vial filled with shadows lies here.{x~
+BLACK_DIAMOND drink AYa AO
+110 110 'water' 0 0
+20 0 10000 P
+#2524
+golem portal~
+{DA {WSh{bad{Dow {Wto {mGolem Settlement{x~
+{DA {WSh{bad{Dow {Wto {mGolem Settlement {Dis here.{x~
+SELECT_A_MATERIAL portal ABTY 0
+0 0 0 20400 0
+80 0 0 P
+#2525
+potion clan~
+{DA potion of {WSh{bad{Dows{x~
+{Da shadowy potion lies here.{x~
+BLACK_DIAMOND potion Ya AO
+61 'sanctuary' 'frenzy' 'haste' ''
+25 2 311 P
+#2526
+healing pool shadow clan~
+{Da Pool of {WSh{bad{Dows{x~
+{Da Pool of {WSh{bad{Dows{c is here, sooth your pain.{x~
+SELECT_A_MATERIAL furniture GI 0
+ACD EGIJOP FIL DFGHIJ DFGHIJ
+25 10000 0 P
+#2527
+shadow portal red forest~
+{DA {WSh{bad{Dow {Wto {rRed {GForest{D.{x~
+{DA {WSh{bad{Dow {Wto {rRed {GForest {Dhangs here.{x~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 6700 0
+80 1000 0 P
+#2528
+shadow portal underdark under~
+{DA {WSh{bad{Dow {Wto {bUnderdark{x~
+{DA {WSh{bad{Dow {Wto {bUnderdark {Dhangs here.{x~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 16227 0
+80 1000 0 P
+#2529
+shadow portal cloudy mountain c~
+{DA {WSh{bad{Dow {Wto {DCloudy Mt.{x~
+{DA {WSh{bad{Dow {Wto {DCloudy Mt. hangs here.{x~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 23200 0
+80 1000 0 P
+#2530
+Corsair Donation Pit~
+{DCor{Ws{gair {DDonation Pit{x~
+{DCor{Ws{gair {DDonation Pit{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+20 0 0 P
+#2531
+satchel corsair backpack~
+{DCor{Ws{gair {Dleather satchel{x~
+{xA high quality {gleather{x satchel is here.~
+LEATHER container BTYa AR
+1250 A 0 2500 50
+20 25 10000 P
+A
+17 -50
+A
+13 200
+A
+19 5
+A
+18 5
+#2532
+lantern corsair skull crossbones~
+{DA Cor{Ws{gair {WSkull {D& {WCrossbones {Dlantern{x~
+{xA small but powerful lantern emits a {Wbeam{x of light.~
+SELECT_A_MATERIAL light_source AYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 20 10000 P
+A
+19 3
+A
+18 3
+A
+12 100
+A
+13 100
+A
+13 50
+A
+3 2
+#2533
+pewter corsair hip flask ~
+a{D Cor{Ws{gair {Dhip flask{x~
+{xA finely crafted {Dpewter {xhip flask rests here.~
+MAGIC_ENERGY drink Ya AO
+110 110 'water' 0 0
+20 0 10000 P
+#2534
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2535
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2536
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2537
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2538
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2539
+Corsair allotted item~
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted item{x~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2540
+clan pit~
+{RD{reath{WK{Diss{r allotted pit {c- choose your own name for it{x~
+{RD{reath{WK{Diss{r allotted pit {c- choose your own name for it{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2541
+deathkiss clan backpack~
+{Da {RD{reath{WK{Diss {RClan {DBackpack{x~
+{Da {RD{reath{WK{Diss {RClan {rBackpack{x lies here.~
+LEATHER container BTYa AR
+1250 A 0 1250 28
+25 25 10000 P
+A
+14 100
+A
+12 100
+A
+13 300
+A
+19 8
+A
+18 8
+A
+1 3
+A
+17 -50
+#2542
+deathkiss clan gem~
+{Da {RD{reath{WK{Diss {RClan {DGem{x~
+{ra {RD{reath{WK{Diss {RClan {rGem{x lies here.~
+GEM_GENERIC light_source AY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 20 10000 P
+A
+1 5
+A
+13 200
+A
+19 3
+A
+18 3
+#2543
+deathkisss clan flask~
+{Da {RD{reath{WK{Diss {RClan {DFlask{x~
+{Da {RD{reath{WK{Diss {RClan {DFlask{x lies here.~
+GEM_GENERIC drink ATY A
+1000 0 'water' 0 0
+20 50 1000 P
+#2544
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2545
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2546
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2547
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2548
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2549
+DeathKiss allotted item~
+{RD{reath{WK{Diss {callotted item{x~
+{RD{reath{WK{Diss {callotted item{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2550
+valor clan pit~
+{MThe {cV{Ma{CL{Mo{cR {Mclan pit{x~
+{MThe {cV{Ma{CL{Mo{cR {Mclan pit lies here.{x~
+LAER_NIOB container Tc 0
+10000 0 0 1000 100
+0 0 0 P
+#2551
+flame torch clan valor~
+{Ma {cV{Ma{Cl{Mo{cR {Yflaming {Wtorch{x~
+{wan eternal {cV{Ma{CL{Mo{cR {wtorch lies here.{x~
+BLACK_DIAMOND light_source AYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 20 10000 P
+A
+4 2
+A
+13 200
+A
+18 3
+A
+19 3
+#2552
+backpack clan valor~
+{Ma {cV{Ma{CL{Mo{cR {Mbackpack{x~
+{MA {cV{Ma{CL{Mo{cR {Mbackpack {Wlies here pulsating with items.{x~
+BLACK_DIAMOND container BTYa AR
+1250 A 0 10000 50
+20 25 10000 P
+A
+17 -50
+A
+13 300
+A
+18 8
+A
+19 8
+A
+12 100
+A
+14 100
+#2553
+flask clan valor~
+{Ma {cV{Ma{CL{Mo{cR {Mclan {Yf{rl{Ya{rs{Yk{x~
+{Wthe Flask of a True {cV{Ma{CL{Mo{cR {WHero lies here.{x~
+MAGIC_ENERGY drink BTYa AO
+110 110 'water' 0 0
+20 0 10000 P
+#2554
+valor clan pool~
+{MThe {cV{Ma{CL{Mo{cR {Mclan {Bpool{x~
+{MThe {cV{Ma{CL{Mo{cR {Mclan {Bpool {Msits here gushing forth healing {Bwater streams.{x~
+SELECT_A_MATERIAL furniture AT 0
+ADE CGHIL FIL CDFI CDFI
+0 0 0 P
+#2555
+valor clan waterfall~
+{MThe {cV{Ma{CL{Mo{cR {Mclan {Bw{ba{Bt{be{Br{bf{Ba{bl{Bl{x~
+{MThe {cV{Ma{CL{Mo{cR {Mclan {Bw{ba{Bt{be{Br{bf{Ba{bl{Bl {Yf{yl{Yo{yw{Ys {minto the pool.{x~
+SELECT_A_MATERIAL fountain A 0
+-1 -1 'water' 0 0
+100 1000 0 P
+#2556
+valor portal red forest~
+{Ga portal to {RRed Forest{X~
+{GA portal to {RRed Forest {Gglows here.{X~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 6700 0
+80 1000 0 P
+#2557
+valor portal underdark under dark~
+{Ga portal to the {RUnder Dark{X~
+{GA portal to the {RUnder Dark {Gglows here.{X~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 16227 0
+80 1000 0 P
+#2558
+valor portal cloudy mountain c~
+{Ga portal to the {RCloudy Mt.{X~
+{GA portal to the {RCloudy Mt. {Gglows here.{X~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 23200 0
+80 1000 0 P
+#2559
+valor portal golem settlement g~
+{Ga portal to {RGolem Settlement{X~
+{GA portal to {RGolem Settlement {Gglows here.{X~
+SELECT_A_MATERIAL portal ABac 0
+1000 0 0 20400 0
+80 1000 0 P
+#2560
+crimson clan pit~
+{DThe {RKn{righ{Rts {DPit{x~
+{DThe {RKn{righ{Rts {DPit is here.{x~
+ORICHALCUM container Tac 0
+10000 0 0 1000 100
+0 0 0 P
+#2561
+backpack clan crimson knights~
+{Da {RCr{rims{Ron {rKn{Righ{rts {Dbackpack{x~
+{da {RCr{rims{Ron {rKn{Righ{rts {dbackpack {dhas been left here.{x~
+ORICHALCUM container AYa AR
+1250 A 0 10000 50
+20 25 10000 P
+A
+5 3
+A
+2 3
+A
+1 3
+A
+14 300
+A
+12 300
+A
+13 300
+A
+19 8
+A
+18 8
+A
+17 -50
+#2562
+flame clan crimson knights~
+{DThe {RCr{rims{Ron {rKn{Righ{rts {YFlame{x~
+{rThe {RCr{rims{Ron {YFlame {Dhas been left here.{x~
+ORICHALCUM light_source AYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 10000 P
+A
+14 150
+A
+12 150
+A
+18 3
+A
+19 3
+A
+13 150
+A
+1 3
+A
+2 3
+A
+5 3
+A
+19 2
+A
+13 50
+#2563
+flask clan crimson knights~
+{RCr{rims{Ron {rKn{Righ{rts {DFlask of {rBlood{x~
+{RCr{rims{Ron {rKn{Righ{rts {DFlask of {rBlood{D has beed left here.{x~
+ORICHALCUM drink AYa AO
+110 110 'water' 0 0
+20 0 10000 P
+#2564
+Clan #7 item~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2565
+Clan #7 item~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2566
+Clan #7 item~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2567
+Clan #7 item~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2568
+Clan #7 item~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2569
+no name~
+clan #7 item~
+(no description)~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2570
+clan pit coffin malkavian~
+a discarded coffin~
+A discarded coffin rests here.~
+WOOD container OTc 0
+10000 0 0 1000 100
+101 0 0 P
+#2571
+clan backpack malkavian~
+{xa {bmal{wkav{bian {xbackpack~
+A backpack has been dropped here.~
+HIGH_LEATHER container TYac AR
+1250 A 0 2500 50
+25 25 10000 P
+A
+17 -50
+A
+13 200
+A
+18 5
+A
+19 5
+#2572
+clan flame malkavian~
+{xa {bmal{wkav{bian {xflame~
+A light source lies here.~
+BONE light_source AYc AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 20 10000 P
+A
+13 50
+A
+4 1
+A
+3 1
+A
+18 3
+A
+19 3
+#2573
+clan flask malkavian~
+{xa {bmal{wkav{bian {xflask~
+A flask was dropped here.~
+BONE drink TYac AO
+110 110 'lemonade' 0 0
+20 0 0 P
+#2574
+clan malkavian pool blood~
+a pool of blood~
+A pool of blood trickles down the side of a coffin here, into a pool.~
+ROCK_MARBLE furniture a 0
+BD EGIJOP FIL DFGHIJ DFGHIJ
+101 1000 0 P
+#2580
+clan pit~
+{w[{BE{glit{Be{w]{B's donation pit{x~
+{w[{BE{glit{Be{w]{B's donation pit is here.{x~
+ROCK_MARBLE container OTac 0
+10000 0 0 1000 100
+0 0 0 P
+#2581
+clan pool shield~
+{w[{BE{glit{Be{w]{B's shield shaped pool{x~
+{w[{BE{glit{Be{w]{B's shield shaped pool looks refreshing.{x~
+ROCK_MARBLE furniture Tc 0
+BD EGIJOP FIL CEFGHI CEFGHI
+80 0 0 P
+#2582
+clan flask~
+{w[{BE{glit{Be{w]{B's flask{x~
+{Ban {w[{BE{glit{Be{w]{B's flask has been dropped here.{x~
+HIGH_LEATHER drink BTYa AO
+1000 1000 'water' 0 0
+25 2 19392 P
+#2583
+clan flame cold~
+{w[{BE{glit{Be{w]{B's Cold {rF{Rl{ya{Rm{re{x~
+An {w[{BE{glit{Be{w]{B's Cold {rF{Rl{ya{Rm{re{x has been left here.~
+STAR_SAPPHIRE light_source ATa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 5 23653 P
+A
+3 5
+A
+13 200
+A
+12 150
+A
+14 150
+A
+18 3
+A
+19 3
+#2584
+clan backpack~
+{w[{BE{glit{Be{w]{B's Combat {BBackpack{x~
+{w[{BE{glit{Be{w]{B's Combat {BBackpack.{x~
+HIGH_LEATHER container BTYa AR
+1250 A 0 2500 50
+25 25 10000 P
+A
+18 8
+A
+19 8
+A
+5 3
+A
+17 -50
+A
+13 350
+A
+14 150
+A
+12 150
+#2585
+clan portal underdark ud~
+{BPortal to UD{x~
+{BPortal to UnderDark{x~
+MAGIC_ENERGY portal ATa 0
+1000 0 0 16227 0
+25 0 0 P
+#2586
+clan portal cloudy~
+{BPortal to Cloudy{x~
+{BPortal to Cloudy Mountain{x~
+MAGIC_ENERGY portal Aa 0
+1000 0 0 23200 0
+25 0 0 P
+#2587
+clan portal midgaard~
+{BPortal to Midgaard{x~
+{BPortal to Midgaard{x~
+MAGIC_ENERGY portal Aa 0
+1000 0 0 3379 0
+25 0 0 P
+#2588
+clan bottle vapors potion~
+{BBottle of {w[{BE{glit{Be{w] {Bvapors{x~
+A potion has been dropped here.~
+GLASS potion A A
+56 'sanctuary' 'haste' 'frenzy' 'reserved'
+25 1 1000 P
+#2590
+clan pit~
+{cDONATION PIT #10{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2600
+clan pit~
+{cDONATION PIT #11{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2610
+clan pit~
+{cDONATION PIT #12{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2620
+donation pit~
+{cDONATION PIT #13{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2630
+clan pit~
+{cDONATION PIT #14{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2640
+clan pit~
+{cDONATION PIT #15{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2650
+clan pit~
+{cDONATION PIT #16{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2660
+clan pit~
+{cDONATION PIT #17{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2670
+clan pit~
+{cDONATION PIT #18{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2680
+clan pit~
+{cDONATION PIT #19{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2690
+clan pit~
+{cDONATION PIT #20{x~
+{cDONATION PIT{x~
+ROCK_MARBLE container OTc 0
+10000 0 0 1000 100
+0 0 0 P
+#2691
+no name~
+(no short description)~
+(no description)~
+SELECT_A_MATERIAL armor 0 0
+0 0 0 0 0
+0 0 0 P
+#2790
+clan flag elite~
+{w[{BE{glit{Be{w]{B's Clan Flag{x~
+{WAn important {bflag {Whas been dropped here.{x~
+STAR_SAPPHIRE light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2791
+clan flag malkavian~
+{bmal{wkav{bian {xclan flag~
+An important flag has been dropped here.~
+PARCHMENT light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2792
+clan flag crimson knights~
+{RCr{rims{Ron {rKn{Righ{rts {DClan {rFlag{x~
+{RAn important {rflag {Rhas been dropped here.{x~
+UNKNOWN light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2793
+clan flag valor~
+{cV{Ma{CL{Mo{cR {MClan Flag{x~
+{cAn important {Mflag {chas been dropped here.{x~
+BLACK_DIAMOND light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2794
+clan flag deathkiss~
+{RD{reath{WK{Diss {rClan Flag{x~
+{rAn important {Dflag {rhas been dropped here.{x~
+UNKNOWN light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2795
+clan flag corsair~
+{DCor{Ws{xair {WClan Flag{x~
+{wAn important {Df{Wla{xg {whas been dropped here.{x~
+UNKNOWN light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2796
+clan flag shadow~
+{WSh{bad{Dow {WClan {DFlag{x~
+{WAn important {bflag {Whas been dropped here.{x~
+BLACK_DIAMOND light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2797
+flag clan chaos~
+{RC{rh{Da{Wo{RS {DClan {RF{Dl{Wa{rG{x~
+{DAn important {rflag{D has been dropped here.{x~
+ORGANIC light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2798
+flag clan malice~
+{DMa{gl{Dice {WClan {DFlag{x~
+{cAn important flag has been dropped here.{x~
+BONE light_source ABYa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 10 50346 P
+A
+13 250
+A
+12 150
+A
+14 150
+A
+18 7
+A
+19 5
+#2799
+RED DRAGON CLAN CUP~
+{rThe {RPhoenix Cup{r!!!{x~
+{rThe {RPhoenix Cup{r, the most saught after prize in the land, sits upon a mighty {Ygolden{r stand for all to gawk at in amazement.{x~
+BLACK_SAPPHIRE furniture ABGYa 0
+BD EFIKMNO FIL DEGJ DEGJ
+100 20 20000 P
+E
+cup~
+This cup is the most saught after treasure in the entire mud.  All clans
+struggle through tedious quests attempting to call this cup their own.  Any
+clan leader would sell his soul for this cup, but few have ever placed it in
+their hall.  Its present raises morale of the entire clan, and some say it
+embodies the very spirit of the Red Dragon, rejuvinating any who gaze upon
+it.  As new and old clans alike step up and prove themselves as the best
+clan in the mud the cup changes hands, and every time it does the new owners
+name is engraved in to the precious metal below: 
+ 
+Elite8 Lead by MysticX
+~
+#0
+
+
+
+#ROOMS
+#2500
+{DMa{xl{Dice {yMain Hall{x~
+After a long trek through the mountain caves you come to the
+{DMa{xl{Dice{x {yMain Hall{x.  {RTo{Yrch{Res {xline the walls keeping the
+room brightly lit.  The ground is undecorated and is nothing special for a
+cave of any type.  The walls are covered with {rblood {xdrawn pictures of
+ways to kill the many races of the world.  The sounds of battle can be heard
+from the southeast while {Cominous glows{x come from the west.  The cavern
+opens to the east and a tall set of doors are closed to the south.  
+ 
+ 
+                    {D.--.  {g,-.    {D,-.  {D,--,  {D,---.{x
+          {D|\    /| {D/ /\ \ {g| |    {D|{r({D|{D.' .'{r)  {D| .-'{x
+          {D|{r({D\  / |{D/ /__\ \{g| |    {r(_){D|  |{r(_) {D| `-.{x
+          {r(_){D\/  |{D|  __  |{g| |    {D| |{D\  \    {D| .-'{x
+          {D| \  / |{D| |  |{r){D|{g| `--. {D| | {D\  `-. {D|  `--.{x
+          {D| |\/| |{D|_|  {r(_){g|{r( {g__.'{D`-'  {D\____\{r/({D __.'{x
+          {D'-'  '-'        {r(_)              {r(__){x
+ 
+~
+0 8 0
+D0
+~
+~
+0 0 2502
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2503
+D4
+~
+~
+0 0 3054
+D7
+~
+~
+0 0 2505
+M 500 H 500
+C 1
+S
+#2501
+{yA Dark Cavern{x~
+The walls here are damp and light is scarce, coming only from deeper in
+the mountain.  
+~
+0 4 0
+D2
+~
+~
+0 0 2502
+D3
+~
+~
+3 0 3550
+C 0
+S
+#2502
+{yA Dark Cavern{x~
+As light begins to become more abundant the paintings of death and
+torture on the walls come into view.  The paintings become more and more
+grotesque with each one and some are drawn in blood.  
+~
+0 4 0
+D0
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 2500
+C 0
+S
+#2503
+{yPortal Room{x~
+~
+0 4 0
+D1
+~
+~
+0 0 2500
+C 0
+S
+#2504
+{rThe {DIro{bn Mai{Dden{x~
+Welcome to {rThe {DIro{bn Mai{Dden{x
+ 
+This is {DMa{xl{Dice's {xsmall business enterprise.  Potions are supplied to the
+members of {DMa{xl{Dice{x for a modest price that pays for the upkeep of the
+shop with only a minimal profit.
+The only exit is west to the main hall.
+~
+0 4 0
+D3
+~
+~
+0 0 2500
+C 0
+S
+#2505
+{DMa{gl{Dice Trai{gning {DHall{x~
+The dimly lit tunnel leads into an enormous circular chamber.  The room
+is brightly lit as the {Rto{Yrch{Rres{x set high into the walls never seem
+to grow dim.  In the center of the room a {ysandpit{x is deeply set into the
+floor for training.  The walls of the pit are lined with racks of
+{rbloodstained{x weapons and armor.  Painted on the ceiling is the clan
+symbol of an {raxe splitting{x a {Dhuman skull{x.  A dimly lit tunnel to the
+northwest leads back to the Main Hall.  
+~
+0 4 0
+D9
+~
+~
+0 0 2500
+C 0
+S
+#2506
+{DRit{xhji{Dn's San{xctu{Dary{x~
+Past the doors is the sanctuary of the leader of {DMa{xl{Dice{x,
+{DRi{xthj{Din{x.  The walls are covered in art depicting his victories over
+the city of {YCloudy Mountain{x and the {DKi{bngd{Dom of Da{brkne{Dess{x. 
+The cavern is quite plain with just a cot by the west wall and a desk
+against the opposite side.  
+~
+0 4 0
+D0
+~
+~
+0 0 2500
+C 0
+S
+#2507
+{DMa{gl{Dice{c allotted room{c~
+~
+0 4 0
+C 0
+S
+#2508
+{DMa{gl{Dice{c allotted room{c~
+~
+0 4 0
+C 0
+S
+#2509
+{DMa{gl{Dice{c allotted room{c~
+~
+0 4 0
+C 0
+S
+#2510
+{DThe Darkness of Clan {RC{rh{Da{Wo{RS{x~
+{x {DThe walls here seem to be cut out of a cave, and they {roddly
+{Denough, seem to be moving slowly.  An ambient groan fills the cavern every
+once in awhile.  Condensation shrink-wraps the walls, which have cracks in
+them.  Sometimes half of an {R e{ry{Re {Dcan be seen within.  A set of
+{wcow-udders{D grows out of one wall, slowly dribbling milk down, mixing
+with the water, and an unscented steam coalesces and creates a {Rmiasma{D of
+chemical reactions.  {x {DThere is a large hole in the middle of the room,
+and it gapes open: in the distance, below, is a gigantic landscape, with no
+end in sight.  Mountains form strange structures but are not unfamiliar in
+logical form.  {x 
+ 
+~
+0 12 12
+D4
+~
+~
+1 0 1703
+D5
+~
+~
+0 0 2511
+M 50 H 50
+C 2
+S
+#2511
+{DFurther into the Darkness{x~
+{x
+{x
+{x
+{x
+ 
+                       {y___{R/\/\/\/\/\{y__{r/\/\{y__________________________________{R/\/\/\/\/\{y_{x
+                      {y_{R/\/\{y__________{r/\/\{y________{D/\/\/\{y________{W/\/\/\{y____{R/\/\{y_________{x
+                     {y_{R/\/\{y__________{r/\/\/\/\{y________{D/\/\{y____{W/\/\{y__{W/\/\{y____{R/\/\/\/\{y___{x
+                    {y_{R/\/\{y__________{r/\/\{y__{r/\/\{y__{D/\/\/\/\{y____{W/\/\{y__{W/\/\{y__________{R/\/\_{x
+                   {y___{R/\/\/\/\/\{y__{r/\/\{y__{r/\/\{y__{D/\/\/\/\/\{y____{W/\/\/\{y____{R/\/\/\/\/\{y___{x
+                  {y________________________________________________________________{x
+ 
+ 
+ 
+ 
+~
+0 1036 12
+D3
+~
+~
+0 0 2512
+D4
+~
+~
+0 0 2510
+C 2
+S
+#2512
+{DOubliette of {RC{rh{Da{Wo{RS{x~
+{x {DThe rim overlooking the distant mountains of chaos leads one to a
+dark hole.  As the only way to go, the hole that is darker than the
+surrounding darkness beckons.  {DThe exit quickly drops down and the
+darkness invades.  {yRusted{D metal spikes lines the ceiling of this small
+room, and you can hear whispers in the darkness.  {DA {wstalagmite {Dbreaks
+through the metal floor as if trying to pierce the veil of hell.  Tiny
+{rf{Ri{rr{Re{rs {Dwink in and out of existence in here.  Up above you can
+see where the mountain entrance was, but cannot reach it.  The only way to
+leave is a broken crag in the metal surroundings to the east.  {x 
+ 
+~
+0 1036 12
+E
+stalagmite~
+{wWhite {Dveins enwrap parts of this stalagmite.  Etched into the side of
+the rock is the phrase, "{Rsemper ubi sub ubi{D"{x 
+~
+D1
+~
+~
+0 0 2513
+C 2
+S
+#2513
+{Da small Circular room{x~
+{x {DThe crag opens into a small uniform room.  It is circular and
+surrounds a raised dias in the middle.  Four {wstone{D benches are placed
+around the dias.  There is a {wglobe{D of {MP{pul{bs{ri{yn{gg
+{RC{rh{Da{Wo{Rt{ri{wc {Dlight in the corner.  The dias is unadorned except
+by an occasional metal spike on the perimeter.  A {cWat{Rerme{clon {grind{D
+rests by a bench.  Wind can be heard from above this claustrophobic room. 
+{DThe {Rdias{D has a line scratched into it.  To the east one can see light
+coming from the dark horizon, from a connected room.  {x 
+~
+0 1036 12
+E
+dias~
+{x
+{DStep on me and you will be, soaring with the majesty.
+{RC{rh{Da{wo{Rs {Dmountains in the light, showing the hidden blight:
+{x
+{R^
+{R|
+{R|
+{R|
+{R|
+{R|  {YThis way up{B!{x
+~
+D1
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2512
+D4
+~
+~
+0 0 2511
+M 500 H 500
+C 2
+S
+#2514
+{Da {yRusted {DMetal Tower{x~
+{x {DA metal gate shuts behind you.  You are trapped in a large metal
+room, overlooking the raging {Ch{co{br{Bi{bz{co{Cn {Dof the {RC{rh{Da{Wo{RS
+{Dmountains.  Small indiscriminate birds fly by the window, with what looks
+like {gmo{cld{D on their wings.  The wind rushes by you, and a moan can be
+heard from far below.  Standing here you feel utterly alone, but revel in
+that fact, and know that the condition of all adventurers is to soar like
+this, on wings of self-reassurance and strength.  You feel disassociated
+with your body, and your vision pans out to see yourself looking out of this
+tower, and then the view rushes away and the tower and your body rise up and
+towards the dark {bsky{D.  
+{R"{rJust Wait.{R"{x
+{DThe floor opens downwards.{x
+ 
+~
+0 1036 12
+D5
+~
+~
+0 0 2510
+C 2
+S
+#2515
+{RC{rh{Da{ro{RS{c allotted room{x~
+~
+0 1036 12
+C 0
+S
+#2516
+{RC{rh{Da{ro{RS{c allotted room{x~
+~
+0 4 0
+C 0
+S
+#2517
+{RC{rh{Da{ro{RS{c allotted room{x~
+~
+0 4 0
+C 0
+S
+#2518
+{RC{rh{Da{ro{RS{c allotted room{x~
+~
+0 4 0
+C 0
+S
+#2519
+{RC{rh{Da{ro{RS{c allotted room{x~
+~
+0 12 1
+C 0
+S
+#2520
+{WSh{bad{Dow{w Clan Main Hall{x~
+{x
+{x
+{x
+ 
+                         {W  ___|  |    {b           |{x
+                         {W\___ \  __ \ {b  _` |  _` |{D  _ \\ \  \   /{x
+                         {W      | | | |{b (   | (   |{D (   |\ \  \ /{x
+                         {W_____/ _| |_|{b\__,_|\__,_|{D\___/  \_/\_/{x
+ 
+~
+0 1036 4
+D1
+~
+~
+0 0 2521
+D4
+~
+~
+1 0 1590
+D5
+~
+~
+0 0 2522
+M 500 H 500
+C 3
+S
+#2521
+{DA Room of Shadows{x~
+~
+0 8 4
+D0
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2520
+D5
+~
+~
+0 0 2523
+M 400 H 400
+C 3
+S
+#2522
+{DThe Soul {Dof {WSh{bad{Dow{x~
+~
+0 524289 4
+E
+wall~
+{wA Wall of {WSh{bad{Dows {wblocks your way.{x
+~
+D4
+~
+~
+0 0 2520
+D5
+~
+~
+0 0 6
+C 3
+S
+#2523
+{WWhere the {WSh{bad{Dows {DMeet{x~
+~
+0 0 4
+D4
+~
+~
+0 0 2521
+C 3
+S
+#2524
+{WSh{bad{Dow {DClans {rDueling {DRoom{x~
+~
+0 10485764 4
+D2
+~
+~
+0 0 2521
+C 3
+S
+#2525
+{WSh{bad{Dow {callotted room{x~
+~
+0 4 0
+C 0
+S
+#2526
+{WSh{bad{Dow {callotted room{x~
+~
+0 4 0
+C 0
+S
+#2527
+{WSh{bad{Dow {callotted room{x~
+~
+0 4 0
+C 0
+S
+#2528
+{WSh{bad{Dow {callotted room{x~
+~
+0 4 0
+C 0
+S
+#2529
+{WSh{bad{Dow {callotted room{x~
+~
+0 4 0
+C 0
+S
+#2530
+{DCor{Ws{gair {DMain Hall{x~
+{cThe description for your main hall must be decided by the {C[MCL]{c and
+any other rooms must be discussed with all clan members.  Send a note to
+{WAr{bg{Don{c or a tell if he is on.  Please check the {rRot{RR{rD{c
+information room to see a list of prices.  Don't bother any other immortals
+with this.  {x 
+~
+0 1032 1
+D3
+~
+~
+0 0 2531
+D4
+~
+~
+0 0 3054
+M 400 H 400
+C 4
+S
+#2531
+{DCor{Ws{xair {DClan Hall{x~
+{x
+{x
+           {D...                                      {W.x+=:.                  {g.
+        {DxH88"`- .x8X                               {Wz`    ^%                {g@88>
+      {D:8888   .f"8888Hf        u.      .u    .        {W.   <k               {g%8P      .u    .{x
+     {D:8888>  X8L  ^""`   ...ue888b   .d88B :@8c     {W.@8Ned8"       {gu        .     .d88B :@8c{x
+     {DX8888  X888h        888R Y888r ="8888f8888r  {W.@^%8888"     {gus888u.   .@88u  ="8888f8888r{x
+     {D88888  !88888.      888R I888>   4888>'88"  {Wx88:  `)8b. {g.@88 "8888" ''888E`   4888>'88"{x
+     {D88888   %88888      888R I888>   4888> '    {W8888N=*8888 {g9888  9888    888E    4888> '{x
+     {D88888 '> `8888>     888R I888>   4888>       {W%8"    R88 {g9888  9888    888E    4888>{x
+     {D`8888L %  ?888   ! u8888cJ888   .d888L .+     {W@8Wou 9%  {g9888  9888    888E   .d888L .+{x
+      {D`8888  `-*""   /   "*888*P"    ^"8888*"    {W.888888P`   {g9888  9888    888&   ^"8888*"{x
+        {D"888.      :"      'Y"          "Y"      {W`   ^"F     {g"888*""888"   R888"     "Y"{x
+          {D`""***-"`                                           {g^Y"   ^Y'     ""
+~
+0 1028 13
+D1
+~
+~
+0 0 2530
+M 400 H 400
+C 4
+S
+#2532
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 1036 1
+C 0
+S
+#2533
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 1036 1
+C 0
+S
+#2534
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 1036 1
+M 400 H 400
+C 0
+S
+#2535
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 1036 1
+C 0
+S
+#2536
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 4 0
+C 0
+S
+#2537
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 4 0
+C 0
+S
+#2538
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 4 0
+C 0
+S
+#2539
+{GC{Do{Wr{Gs{Wa{Di{Gr{x allotted room~
+~
+0 4 0
+C 0
+S
+#2540
+{RD{reath{WK{Diss{r Main Hall{x~
+{x{x{x           {R ____{r             _   _ {W      _  _{D__
+            {R |  _ \ {r ___  __ _| |_| |__  {W | |/ {D(_)___ ___
+            {R | | | |{r/ _ \/ _  | __| '_ \ {W | ' /{D| / __/ __|
+            {R | |_| |{r  __/ (_| | |_| | | |{W | . \{D| \__ \__ \
+            {R |____/ {r\___|\__,_|\__|_| |_|{W |_|\_\{D_|___/___/
+{x
+                                                         {G/\
+           {G__                                            \\| /_/
+      {G_   /  |                     {D/-\'=--.               {G\/
+     {G| \  \/_/                    {D(((-)\   \{g(______,_____,__\__,____
+     {G\_\| / __                    {D((-(( '-'/{g,---,-----,--.--,-----,-
+       {G \/_/__\           {D.--='/-\ \(/.=--'       {G______/
+ {g____,__/__,_____,______){D/   /(-)))               {G\__/ /\__
+ {g-,-----,--.--,-----,---,{D\'-' ((-))                 {G__/ |\ \
+         {G__/\_            {D'--=.\)/                 {G/ /\  \_|
+        {G/_/ |\\                                    {G|__/{x
+             {G\/
+
+~
+0 1036 1
+D4
+~
+~
+0 0 3001
+M 400 H 400
+C 5
+S
+#2541
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2542
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2543
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2544
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2545
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2546
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2547
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2548
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2549
+{RD{reath{WK{Diss{c allotted room{x~
+~
+0 1028 13
+C 0
+S
+#2550
+{cV{Ma{CL{Mo{cR {MClan Main Hall{x~
+{c__{x
+                             {cY88b      /    {M___    {C888         {M_    {c888  \{x
+                              {cY88b    /    {M/   8e  {C888      {Me88  \  {c888   \{x
+                               {cY88b  /       {M__88b {C888     {Md888   \ {c888   |{x
+                                {cY888/     {Me88  888 {C888     {M8888   | {c888__ /{x
+                                 {cY8/     {MC888  888 {C888     {MY888   / {c888  \{x
+                                  {cY       {M"88__888 {C888____  {M"88__/  {c888   \{x
+~
+0 1036 1
+D2
+~
+~
+0 0 2551
+D4
+~
+~
+1 0 3903
+M 500 H 500
+C 6
+S
+#2551
+{cV{Ma{CL{Mo{cR {MClan Portal Room{x~
+~
+0 1024 13
+D0
+~
+~
+0 0 2550
+D1
+~
+~
+0 0 2552
+D5
+~
+~
+0 0 21
+C 6
+S
+#2552
+{cV{Ma{CL{Mo{CR {MClan Dueling Room{x~
+~
+0 2097160 1
+D3
+~
+~
+0 0 2551
+C 0
+S
+#2553
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2554
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2555
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2556
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2557
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2558
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2559
+Clan #6 room~
+~
+0 1028 13
+C 0
+S
+#2560
+{RCr{rims{Ron {rKn{Righ{rts {DMain Chamber{x~
+~
+0 1036 1
+D4
+~
+~
+1 0 3639
+M 400 H 400
+C 0
+S
+#2561
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2562
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2563
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2564
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2565
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2566
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2567
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2568
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2569
+Clan #7 room~
+~
+0 4 0
+C 0
+S
+#2570
+{bmal{wkav{bian {wmain hall{x~
+{x
+{b     #####   ##    ##          ###       {w/{x
+{b  ######  /#### #####           ###    {w#/                              {b#{x
+{b /#   /  /  ##### #####          ##    {w##                             {b###{x
+{b/    /  /   # ##  # ##           ##    {w##                 ##           {b#{x
+{b    /  /    #     #              ##    {w##                 ##{x
+{b   ## ##    #     #      /###    ##    {w##  /##      /###   ##    ### {b###       /###   ###  /###{x
+{b   ## ##    #     #     / ###  / ##    {w## / ###    / ###  / ##    ### {b###     / ###  / ###/ #### /{x
+{b   ## ##    #     #    /   ###/  ##    {w##/   /    /   ###/  ##     ### {b##    /   ###/   ##   ###/{x
+{b   ## ##    #     #   ##    ##   ##    {w##   /    ##    ##   ##      ## {b##   ##    ##    ##    ##{x
+{b   ## ##    #     ##  ##    ##   ##    {w##  /     ##    ##   ##      ## {b##   ##    ##    ##    ##{x
+{b   #  ##    #     ##  ##    ##   ##    {w## ##     ##    ##   ##      ## {b##   ##    ##    ##    ##{x
+{b      /     #      ## ##    ##   ##    {w######    ##    ##   ##      ## {b##   ##    ##    ##    ##{x
+{b  /##/      #      ## ##    /#   ##    {w##  ###   ##    /#   ##      /  {b##   ##    /#    ##    ##{x
+{b /  #####           ## ####/ ##  ### / {w##   ### / ####/ ##   ######/   {b### / ####/ ##   ###   ###{x
+{b/     ##                ###   ##  ##/   {w##   ##/   ###   ##   #####     {b##/   ###   ##   ###   ###{x
+{b#{x
+{b ##{x
+{x
+~
+0 1036 1
+D1
+~
+~
+0 0 2571
+D4
+~
+~
+0 0 3001
+M 1000 H 1000
+C 8
+S
+#2571
+{bmal{wkav{bian {xcoffin room~
+{x
+{wIn the singing, shattered midnight                         {DPast fields of poppies burning bright{x
+        {DBy the coral sands of time                         {wInto towers of Blackened Bone{x
+{wThrough the bloody gates of heaven                         {DFollow me, Bastard of Caine,{x
+      {DPast the sentries in my mind                         {wCome with me. I have no home.{x
+{x
+ {wBring about the change so quickly                         {DAs I drain your life's blood sweetly{x
+    {DBring about the terror's night                         {wAs you sigh into my warm hands{x
+   {wBring about tbe blood of lovers                         {DAs I suck your madness neatly{x
+   {DBring about the smell of fright                         {wStreaming down like crimson bands{x
+{x
+   {wI see you watching where I walk                         {DI dance the dance of the fool{x
+ {DThrough the moonlit jasmine field                         {wAnd pray you find me mad{x
+          {wListen closely as I talk                         {DFor if you lay hands upon the root{x
+   {DAbout the stars and lovers past                         {wYou'll know me, without illusion{x
+{x                                                           {DAnd find me guilty of the truth{x
+{x
+~
+0 533513 12
+D3
+~
+~
+0 0 2570
+C 8
+S
+#2572
+{MUnderground tunnel{x~
+The tunnel continues further down.  Into the earth.  In the far left
+corner of the tunnel rests a pile of bones.  Perhaps belonging to someone
+trying to escape, but trampelled in the haste of those trying to flee.  The
+temperature has risen to almost an uncomfortable level.  Odd, for an
+underground tunnel.  The only obvious exits are up and down.  
+~
+0 532489 12
+D5
+~
+~
+0 0 2573
+C 0
+S
+#2573
+{MUnderground tunnel{x~
+The underground tunnel is very dark.  Torches that once lit the way, have
+been out for what seems like centuries.  The ground is littered with small
+objects, dropped by fleeing travellers.  The only obvious exits are up and
+east.  
+~
+0 532489 12
+D4
+~
+~
+0 0 2572
+C 0
+S
+#2574
+{MAn opening{x~
+The underground tunnel has turned into a large opening.  It appears to be
+a gathering place, a safe haven.  Those fleeing and not panicking could stop
+here for a rest, to eat, safe from whatever was chasing them.  There is a
+{cmessage {xscrawled into the wall of the opening.  The only obvious exit is
+west.  
+~
+0 533517 12
+E
+message~
+{WTURN BACK!!! IF YOU VALUE YOUR LIFE TUR......{x
+The message ends here.
+~
+D3
+~
+~
+0 0 2586
+D5
+~
+~
+1 0 2575
+C 0
+S
+#2575
+{MUnknown ruins{x~
+This appears to be the remains of a city entrance.  How the city, or the
+ruins of it, came to be underground is a mystery.  The city is still in
+fairly good condition, with only time doing its usual damage.  It is as if
+the city was abandoned in a matter of days.  Anyone that foolishly stayed
+behind is long gone by now.  The intense, unexplained silence would drive
+anyone mad after a short period of time.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2576
+D4
+~
+~
+1 0 2574
+C 0
+S
+#2576
+{MWall Road{x~
+This road runs past what is left of a large city wall.  The road is some
+sort of paved stone, while the ceiling is made up of dirt from the earth. 
+The only obivious exits are east and west.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2577
+D3
+~
+~
+0 0 2575
+C 0
+S
+#2577
+{MWall road{x~
+This road runs past what is left of a large city wall.  The road is some
+sort of paved stone, while the ceiling is made up of dirt from the earth. 
+Parts of the wall reach the ceiling, while the rest is only 4ft in height. 
+To the north is what appears to be training grounds, while the south leads
+to an apparent graveyard.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2576
+C 0
+S
+#2578
+{MWall Road{x~
+The wall continues along the road.  As the wall moves closer to the city,
+it is clear that parts of it are buried under tons of dirt and earth.  This
+dirt and earth blocks passage to many directions, areas that once were
+market places, schools and temples.  The only passable exits are north and
+south.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2579
+D1
+~
+dirt~
+1 0 2607
+D2
+~
+~
+0 0 2577
+C 0
+S
+#2579
+{MTraining grounds{x~
+This is what remains of class training grounds.  Objects strewn about
+make it seem as if it is a fighting training ground, but it is unclear.  The
+walls are completly coverd in black, burned to the crisp.  The intense
+silence of this room is comparable to that of the ones before, unbearable. 
+The only obvious, passable exit is south.  
+~
+0 532488 12
+D2
+~
+~
+0 0 2578
+D3
+The dirt here appears to be loose, perhaps it can be moved.  
+~
+dirt~
+1 0 2587
+C 0
+S
+#2580
+{w[{BE{glit{Be{w]{x Compound~
+{BIt's cold here, but that hasn't stopped the warriors you see around
+you.  All of them skillfully and silently head from one place to the next
+with a sense of purpose.  You can tell this is the {w[{BE{glit{Be{w]{B. 
+Here sits {w[{BE{glit{Be{w]{B 's cleric.  To the east you see a portal room.
+The south is a potion shop.  West lies {w[{BE{glit{Be{w]{B's Master Warrior
+to help with your training.  Take a rest in the pool if your tired.  {x 
+~
+0 525324 1
+E
+plaque~
+This is a list of rules that all members of Legacy should follow and go by:
+1)Always be helpfull and courteous to everyone
+2)Rp your best, this means make a very good effort to RP
+3)Set asside your personall conflicts with people, if ANYONE needs help, help them
+4)Be especially helpfull to newbies
+5)Follow all rules of the mud, do not bend or break them
+6)Encourage others to follow the rules of the mud
+7)Promote the mud well, you are the model players
+8)Respect all Imms
+9)Mainly, set a good example in everything you do
+10)Get along with everyone in Legacy, be someone that can be liked
+ 
+That is basically all the rules, more will be added later
+Breaking even one rule is enough to get you kicked out of Legacy.
+You may leave Legacy anytime you like, you will loose all clan eq.
+~
+D1
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2583
+D3
+~
+~
+0 0 2582
+D4
+~
+~
+0 0 3001
+M 500 H 500
+C 9
+S
+#2581
+{w[{BE{glit{Be{w]{B's Portal Room{x~
+{BGateways to far lands are here waiting for you to enter.  Where would
+you like to go today?  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 2580
+C 0
+S
+#2582
+{w[{BE{glit{Be{w]{B's Training Room{x~
+{BYou look around at a vast library full of war strategy and combat
+books.  The back wall is full of weapons.  Many you've seen, most you
+haven't.  A master trainer waits for your command.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 2580
+C 0
+S
+#2583
+{w[{BE{glit{Be{w]{B's Potion Shop{x~
+{BA kind man greets you as you enter.  You can feel the magical power
+this place holds.  These potions must be good.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 2580
+C 0
+S
+#2584
+~
+~
+0 4 0
+C 0
+S
+#2585
+~
+~
+0 4 0
+C 0
+S
+#2586
+{MUnderground tunnel{x~
+As the underground tunnel continues, so does the darkness.  Torches that
+once lit the way, have been out for what seems like centuries.  The ground
+is littered with small objects, dropped by fleeing travellers.  The only
+obvious exits are east and west.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2574
+C 0
+S
+#2587
+{MOld Clan Road{x~
+This is the remains of the citys clan road, where all the clans of the
+old world resided.  Strange noises and howling from another time, and
+another world can be eerily heard.  Old clan road leads north and south.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2588
+D1
+~
+~
+1 0 2579
+D2
+~
+~
+0 0 2594
+C 0
+S
+#2588
+{MOld Clan Road, East{x~
+Old Clan Road continues, and so do the strange noises.  The road leads
+north and south, and has clan exits leading down via staircases, unused in
+many, many years.  Old Clan Road continues North and South.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2589
+D2
+~
+~
+0 0 2587
+C 0
+S
+#2589
+{MOld Clan Road, East{x~
+Old Clan Road continues, and so do the strange noises.  The road leads
+north and south, and has clan exits leading down via staircases, unused in
+many, many years.  Old Clan Road continues North and South.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2591
+D2
+~
+~
+0 0 2588
+D5
+~
+~
+0 0 2697
+C 0
+S
+#2590
+{MThe Halls of {bBl{Bue{MRo{mse{x~
+A clan on the verge of prominence, cut short by the unknown tragedy.  The
+walls are filled with goals and plans, broken dreams that barring some
+miracle, will never be accomplished.  Strange claw markings on the floor
+look fresh, and not of this underground world.  
+~
+0 532488 1
+E
+claw~
+{WThe one who finds the secret, shall become the secret{x.......
+~
+D4
+~
+~
+0 0 2605
+D5
+~
+~
+0 0 2599
+M 200 H 200
+C 0
+S
+#2591
+{MOld Clan Road, East{x~
+Old Clan Road continues, and so does the strange smell.  The road continues
+from the north and east, and has clan exits leading down via staircases,
+unused in many, many years.  Old Clan Road continues West and South. 
+~
+0 532489 12
+D2
+~
+~
+0 0 2589
+D3
+~
+~
+0 0 2592
+C 0
+S
+#2592
+{MOld Clan Road, North{x~
+Old clan road continues, and so does the strange smell.  The strange
+noises have subsided for some reason, or at least are not as loud in this
+area.  The road continues east and west.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2591
+D3
+~
+~
+0 0 2593
+C 0
+S
+#2593
+{MOld Clan Road, North{x~
+Old clan road continues, and so does the strange smell.  The strange
+noises have subsided for some reason, or at least are not as loud in this
+area.  The road continues east and west.  There is a clan entrance to the
+down.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2592
+D3
+~
+~
+0 0 2606
+D5
+~
+~
+0 0 2698
+C 0
+S
+#2594
+{MOld Clan Road, East{x~
+This is the remains of the citys clan road, where all the clans of the
+old world resided.  Strange noises and howling from another time, and
+another world can be eerily heard.  What happened to these clans, and their
+members may always be a mystery.  Old clan road leads north and south.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2587
+D2
+~
+~
+0 0 2595
+C 0
+S
+#2595
+{MOld Clan Road, East{x~
+Old clan road continues, and so does a strange smell.  The strange noises
+have subsided for some reason, or at least are not as loud in this area. 
+The road continues north and south.  There is a clan entrance to the down.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2594
+D2
+~
+~
+0 0 2596
+D5
+~
+~
+0 0 2699
+C 0
+S
+#2596
+{MOld Clan Road, East{x~
+This is the remains of the citys clan road, where all the clans of the
+old world resided.  Strange noises and howling from another time, and
+another world can be eerily heard.  What happened to these clans, and their
+members may always be a mystery.  Old clan road leads north and west.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2595
+D3
+~
+~
+0 0 2597
+C 0
+S
+#2597
+{MOld Clan Road, South{x~
+Old Clan Road continues from the east and west.  The strange smell is
+particulary strong in this area.  Perhaps a graveyard is nearby.  The
+strange howling noises echo in and out, and are very hard to determine their
+whereabouts.  The exits are east and west.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2596
+D3
+~
+~
+0 0 2598
+C 0
+S
+#2598
+{MOld Clan Road, South{x~
+Old Clan Road continues from the east and west.  The strange smell is
+particulary strong in this area.  Perhaps a graveyard is nearby.  The
+strange howling noises echo in and out, and are very hard to determine their
+whereabouts.  The exits are east and west.  There is a clan entrance to the
+down.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2597
+D3
+~
+~
+0 0 2601
+D5
+~
+~
+0 0 2700
+C 0
+S
+#2599
+{MHealer's Temple{x~
+This is the old world's temple.  After all these years of being buried
+underground, its magic is still in affect.  An aura of safety surrounds this
+room.  The heat can no longer be felt, and the howling screams of tortoured
+souls are drowned out into serenity.  The are no obvious exits to this
+shrine.  
+~
+0 263180 12
+M 250 H 250
+C 0
+S
+#2600
+{MClan {BV{Wa{Bl{Wo{Br {MMain Hall{x~
+The Knights of {BV{Wa{Bl{Wo{Br {xClan defied evil with their bravery. 
+Only the most chivalrous were granted acceptance to this clan.  Those days
+are long gone now, as like all the others, no one knows what happened to the
+members.  Perhaps one day the secret will be unlocked, for now, only the
+ghosts linger.  
+~
+0 532488 1
+D4
+~
+~
+0 0 2603
+D5
+~
+~
+0 0 2599
+M 200 H 200
+C 0
+S
+#2601
+{MOld Clan Road, West{x~
+Old clan road continues, and so does the strange noises.  The intense
+smell has subsided for some reason, or at least is not as strong in this
+area.  The exits are North and South.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2605
+D1
+~
+~
+0 0 2598
+C 0
+S
+#2602
+{MOld Clan Road, West{x~
+Old clan road continues, and so does a strange smell.  The strange noises
+have subsided for some reason, or at least are not as loud in this area. 
+The road continues north and south.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2606
+D2
+~
+~
+0 0 2603
+C 0
+S
+#2603
+{MOld Clan Road, West{x~
+Old clan road continues, and so does the strange noises.  The intense
+smell has subsided for some reason, or at least is not as strong in this
+area.  The road continues North and South.  There is a clan entrance to the
+down.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2604
+D5
+~
+~
+0 0 2600
+C 0
+S
+#2604
+{MOld Clan Road, West{x~
+Old clan road continues, and so does the strange noises.  The intense
+smell has subsided for some reason, or at least is not as strong in this
+area.  The road continues North and South.  There is a sign on the wall.  
+~
+0 532489 12
+E
+sign~
+{W*****{DNOTICE{W*****{x
+ 
+{cTraveller's Beware! Guilded Clan members in this area
+will not hesitate to kill you and loot your corpse!
+Heed this {wWarning!{c
+         ------Town Offcials{x
+          {W*****{DNOTICE{W*****{x
+~
+D0
+~
+~
+0 0 2603
+D2
+~
+~
+0 0 2605
+C 0
+S
+#2605
+{MOld Clan Road, West{x~
+Old clan road continues, and so does the strange noises.  The intense
+smell has subsided for some reason, or at least is not as strong in this
+area.  The road continues North and South.  There is a clan entrance to the
+down.  
+~
+0 532489 12
+D0
+~
+~
+0 0 2604
+D2
+~
+~
+0 0 2601
+D5
+~
+~
+0 0 2590
+C 0
+S
+#2606
+{MOld Clan Road, West{x~
+Old clan road continues, and so does the strange smell.  The strange
+noises have subsided for some reason, or at least are not as loud in this
+area.  The road continues south and east.  
+~
+0 532489 12
+D1
+~
+~
+0 0 2593
+D2
+~
+~
+0 0 2602
+C 0
+S
+#2607
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2608
+D3
+~
+~
+1 0 2578
+C 0
+S
+#2608
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2611
+D3
+~
+~
+0 0 2607
+C 0
+S
+#2609
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2608
+C 0
+S
+#2610
+Clan #12~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+C 0
+S
+#2611
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2608
+C 0
+S
+#2620
+Clan #13~
+~
+0 4 0
+D4
+~
+~
+0 0 3001
+C 0
+S
+#2630
+Clan #14~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+C 0
+S
+#2640
+Clan #15~
+~
+0 525324 1
+D4
+~
+~
+0 0 3001
+M 200 H 200
+C 0
+S
+#2650
+Clan #16~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+C 0
+S
+#2660
+Clan #17~
+~
+0 1036 1
+D4
+~
+~
+0 0 3001
+M 200 H 200
+C 0
+S
+#2670
+Clan #18~
+~
+0 1036 1
+D4
+~
+~
+0 0 3001
+M 200 H 200
+C 0
+S
+#2680
+Clan #19~
+~
+0 1036 1
+D4
+~
+~
+0 0 3001
+M 200 H 200
+C 0
+S
+#2690
+Clan #20~
+~
+0 1036 1
+D4
+~
+~
+0 0 3001
+M 200 H 200
+C 0
+S
+#2697
+{GHarpers {MClan Main Hall{x~
+This is the former home of the once proud clan {GHarpers{x.  Her clan
+members would gather here and tell war stories, and plan future attacks. 
+Alas, they could not plan for whatever tragic event misplaced them from this
+world.  A torn banner, covered in dirt, hangs on the wall, echoeing
+forgotten words.  
+~
+0 532489 1
+E
+banner~
+{W***{GHarpers Clan{W***{x
+ 
+--{wNothing, No one, can stop Us{x--
+~
+D4
+~
+~
+0 0 2589
+D5
+~
+~
+0 0 2599
+M 200 H 200
+C 0
+S
+#2698
+{BDr{bide{Brs {BC{bla{Bn {DMain {DRoom{x~
+{cAs suddenly as you had stepped into this dark, {wfoggy clearing, the
+ground shakes and before you rises a huge ominous structure.  You look
+around and notice that the building has risen around you engulfing you in a
+massive room.  You see what appears to be markings above the huge double
+doors.  As soon as you walk up to read it, it flashes {Cbrightly {cto reveal
+the words:
+               {b___________________________
+               |{d-------{B(=Dr{bide{Brs=){d-------{b|
+               |{d------{B(=Cl{ban Ha{Bll=){d------{b|
+               ___________________________{x
+{b______________________________________________________
+{b|{w-----------{BBlackPanther{w-----{BHaplo{w---{BPinky{w-----------{b|
+{b|{w-----------{BEthos{w-----{BWolverine{w---{BDeadpool{w-----------{b|
+{b|____________________________________________________|{x
+{xWhat remains is barely readable through the dirt and darkness. How many of these
+brave warriors survived?
+~
+0 532488 1
+D4
+~
+~
+0 0 2593
+D5
+~
+~
+0 0 2599
+M 200 H 200
+C 0
+S
+#2699
+{MClan {bMal{wk{Wa{wv{bian{M Entrance Hall{x~
+This is where the members of clan {bMal{wk{Wa{wv{bian{x would{x enter and exit the
+clan.  It is dark and all you can see are banners on the wall, half torn,
+all dirty.  They once stood for great clan pride, and now only bear memories
+of ghosts.  There is a hole in the ground here, once used to store excess
+equiptment, but now it is only filled with darkness.  
+~
+0 532489 1
+D4
+~
+~
+0 0 2595
+D5
+~
+~
+0 0 2599
+C 0
+S
+#2700
+{rDragon Clan{M Main Room{x~
+This is what remains of what was once the greatest clan in the world. 
+Mighty {rDragons {xfrom across the land would unite to form this clan.  The
+spirit of its former leader, {rBig Red{x can still be found, haunting those
+who did not join him in the afterlife.  The fate of the other dragons may
+never be revealed.  
+~
+0 532489 1
+D4
+~
+~
+0 0 2598
+D5
+~
+~
+0 0 2599
+M 400 H 400
+C 0
+S
+#2711
+~
+~
+0 4 0
+C 0
+S
+#2798
+{MHall of {WHeros{x~
+Welcome to the Hall of Heros.  This room is dedicated to those brave
+souls who have managed to make it to hero status.  The names on this wall
+are the first ten adventurers to make hero.  We give them special thanks and
+hope to see them for a long time in the future.  
+ 
+{yA {YGolden Plaque {yseems to float here aimlessly{x
+{x
+{x
+{x
+                         {DRenti{Wran{x     {GS{gerpterion{x
+              {Y({y@{Y|   {WH{wa{Wr{wl{We{wy{x      {RC{rr{Do{Wv{ra{Rx       {GL{ge{Dn{ga{x 
+{y,,           ,{Y)|{c _____________________________________
+{B/{b/{B\{b\{w8{D@{w8{D@{w8{D@{w8{D@{w8{D@{w8{c / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \
+{B\{b\{B/{b/{w8{D@{w8{D@{w8{D@{w8{D@{w8{D@{w8{c \_____________________________________/
+{y``           {y`{Y)|    
+              {Y({y@{Y|{x   {YD{Ri{Rv{Yi{Ra{x        {DLu{Wn{giz         {wMind{Ccry   
+                       {DV{ye{Yr{Ds{ya{Yn{DG{ye{Yt{Dr{yy{Yx{x     {WCo{rl{Bwyn{x
+ 
+ 
+~
+0 1036 1
+E
+plaque~
+This plaque shows all of the clans who have managed to win the {rPhoenix{x
+{rCup{x to date.  The {rPhoenix Cup{x is the most prestigious award given to clans,
+and the clan who holds the cup is given ultimate bragging rights.  The cup
+itself is kept in the winning clans clan hall until someone else can win it.
+It embodies the very spirit of the {DFallen {RRed {DDragon{x, and has a magical
+{Mhealing{x power.  The cup changes hands through {CClan Quests{x and {CClan{x
+{CDragonPits{x being won.  
+ 
+Here are the clans that have held the {RPhoenix Cup{x to date{W:{x
+~
+D2
+~
+~
+0 0 2799
+C 0
+S
+#2799
+{cThe Information Room of the Clans of {rRot{RR{rD{x~
+To read something type '{WLOOK {c<{WKEYWORD{c>{x'. Everything is under
+a header and we try to update this room as much as possible. If you feel
+something should be here that isn't please send a note to {WAr{bg{Don{x or
+{W{RV{re{Wn{Dus{x{x, and we will add it if it should be posted here, but before
+you send the NOTE, please READ everything here to be sure it has not already
+been posted.
+ 
+ 
+ 
+{G**{x The Words in {RC{WO{BL{GO{MR{x are the {WKEYWORDS{x to look at {G**{x
+{RINDEX1-{rGeneral Clan Rules{x
+{RINDEX2-{rRoom Additions{x
+{RINDEX3-{rClan Eq{x
+{RINDEX4-{rRules on Mortals Creating their {WOWN{r Clans{x
+~
+0 1836044 1
+E
+ch03~
+{CCLAN WARS{x
+ 
+A clan war is in fact a war, hehe, between two clans.  Now on
+this mud players run around killing eachother all the time, so in fact
+everyone is in a state of constant "war".  But for everyones fun, there will 
+be an actual declaration of war. Here are the rules as follows:
+ 
+{R1){x Clan who wishes to declare a war writes a formal note to all saying who they are declaring a war against, and why. This note should also include what they are demanding from the clan that they are attacking. Here is an example of this:
+ 
+I run clan {MA{x, I want to attack clan {GB{x, I write a note saying I want to attack clan {GB{x because they killed and looted so many of my clan members.  Then I would write that I demand {Y100k gold{x, 
+and 5 of their clans backpacks for compensation.
+ 
+{R2){x The other clan leader then gets {W2 days{x to respond saying that he\she accepts the war, or that he\she is willing to just pay the {Y100k gold{x and 5 clan backpacks.  If they do not respond then the war is on!
+ 
+{R3){x To win the clan war your clan must be the first to kill {DTEN{x clan members from the opposing clan.  From the time that clan {GB{x responds or two days following clan {WA{x's note there is two weeks,{W({x14 days{W){x to accomplish this.
+ 
+{R4){x If clan {WA{x wins, then clan {GB{x has another {W2 weeks{x to come up with the payment. If, on the other hand, clan {WA{x losses, then they must pay {MDOUBLE{x what they requested to clan {GB{x.  In this example they
+would have to pay {Y200k gold{x and 10 of their clans backpacks. 
+ 
+{R5){x After the losing clan gathers the correct payment, they must first give the complete payment to {WAr{bg{Don{x, and he will then give it to the winning clan, to make sure everything is fair.
+ 
+{R6){x If the losing clan fails to come up with the money their clan hall is reduced to the minumum size, and their clan gets one {rSTRIKE{x, if a clan gets two strikes in a six week perid, their clan is disbanded.
+ 
+{R7){x After completion of a clan war, the winning clan may not declare another war on the losing clan for {Wthree weeks{x.
+ 
+~
+E
+index4~
+{CMORTAL CLANS{x
+ 
+A mortal clan is a clan that is run by a mortal, as opposed to an immortal. The
+rules for how clan halls and stuff like that are exactly the same for mortal and
+immortal clan leaders. However, how a mortal obtains his or her clan is a little
+bit different. When you see a note from {WAr{bg{Don{x that says there is a opening for
+a new mortal clan you should first write a note to {WAr{bg{Don{x that explains the
+following things about the clan you wish to make.
+ 
+{R1){x A detailed {MRP{x explination of your clan, what your clans mission 
+is, why it is, how it came to be, exc. anything else on the {MRP{x side that you
+put in will help your clan to be chosen.
+ 
+{R2){x A very detailed description of how your clan will be run, if you are the
+sole leader, or if their is more than one leader. Say how new members can be 
+admitted to your clan and how they would be kicked out. Is your clan aggressive
+or passive? {YNote: No race/class/gender specific clans allowed.{x
+ 
+{R3){x A small blurb about why you in particular should be awarded the honor of
+running a clan.
+ 
+{R4){x This note should not be a book, but it should be fairly long, as the more
+{WAr{bg{Don{x knows about your clan the more likely he is to pick it.
+ 
+{R5){xInclude how long you have played the mud, and your chars level/class/race.
+Here are a few criteria a person must meet before even being considered for a 
+clan:
+ 
+ 
+             {r1){xYou must have been in a clan or pk up until you apply.
+ 
+             {r2){xIf you have one, your current clan leader must approve your leaving.
+               Any punishment or penalty for abandoning your clan that your clan leader
+               sees fit shall be carried out before you can start your own clan.
+ 
+             {r3){xIf you are running a clan you may not abandon it without haveing a
+               lieutenant to take over your clan. This may not be done without warning.
+ 
+             {r4){xYou must be a remort with a minimum level of 50.
+ 
+             {r5){xEvery application costs the person {Y20k gold{x, if you dont have the 
+               money, dont send an application or {WAr{bg{Don{x shall give you a very great
+               penalty for wasting his time {W:){x
+ 
+             {r6){xAn additional {Y50k gold{x is due at the time {WAr{bg{Don{x says. 
+               If you do not have it, then the next best clan will be choosen. 
+ 
+After you have choosen a clan and it has been acepted, you will be given 2 weeks
+to gather 3 members. You may have your alts join your clan but they will not
+count towards the 3 members. Your clan may not drop below 3 members or it will
+be disbanded. Each clan may have a maximum of 10 members, after which you must deny
+all applicants or decide if they are worth haveing more than others. You may not
+kick out players from your clan without reason. If you want someone removed
+from your clan, send a note to {WAr{bg{Don{x and state who the person is and the reason you want
+them removed.
+ 
+ 
+While in your clan you must be a model player. This means you will follow all mud rules
+and rarely break them. If you break a major rule, your clan will either be given to
+your liuetenant or disbanded. Your clan must be active, although not as much as you.
+~
+E
+index3~
+{cType '{WLOOK {c<{RCH{WXX{c>' To View These Chapters
+ 
+{G*** {WXX {w= The Chapter Number You Want To Read {G***{x
+ 
+{REQ01
+{REQ02
+{REQ04{x
+~
+E
+ad01~
+Clan Halls come standard with 1 room, a donation pit, and a healer.
+When a clan first starts its MCL is given 50 Clans Points to spend
+building their clan hall.  They can disperse their 50 cpts over the
+following: 
+
+Extra Rooms = 10 cpts
+Decorative Objs = 5 pts
+Decorative Mobs = 5 pts
+~
+E
+ch02~
+You must be between the levels of {W20{x and {W40{x to clan, if you are over 40
+but have chosen you are still ok.  You must read the descriptions of all the
+clans and choose to gain entrance in to a clan that you fit in to.  You must
+be nominated by {{WTWO{x members of that clan who are at least level 2{R(see index2
+for info on levels){x.  You must be an active, loyal member of the clan.  You
+can not give out clan secrets, if you do a level 4 or above member of the
+clan may choose to have you exiled to loner, if they do this will never be
+undone.  There is no killing of members in your clan {MEXCEPT{x to mutiny.
+~
+E
+ch01~
+Every player may have a maximum of TWO characters clanned.  A player
+character may not be in different clans.
+~
+E
+eq01~
+Every Clan may have upto 3 pieces of Standard Clan EQ.  The Clan must purchase the EQ
+Type from Argon using QuestPoints, once an EQ Type is purchased it can not
+be changed.
+ 
+After the EQ Type is purchased, the Clan must buy the actual EQ using Gold for each
+Item they wish to get.  Only 1 of Each Piece my be bought per Clan Member upto the 
+Number of EQ Types your Clan owns.
+ 
+i.e. To purchase the BACKPACK EQ Type, the Clan must spend 1500 QuestPoints.  After that
+     each Clan BACKPACK the Clan wishes to buy for its Members will cost 20,000 gold per
+     BACKPACK, and the Clan may only buy a number of BACKPACKs equal to thier Number of 
+     Members (as new members get recruited, a new set of EQ may be bought for them).
+~
+E
+index1~
+{cType '{WLOOK {c<{RCH{WXX{c>' To view these Chapters.{x
+ 
+{G*** {WXX {w= The Chapter Number You Want To Read {G***{x
+ 
+{RCH01{r = Explanation About Having Alts in Clans{x
+{RCH02 {r= Clanning Rules{x
+{RCH)2 {r= Clan Wars!{x
+~
+E
+cnote~
+Ok, here are some ideas and such we would like to have put to paper so everyone
+can follow them.  These are just suggestions (unless otherwise noted) and you can
+use or ignore whichever of them you want.
+ 
+CLAN EQ - If you want to create new EQ for the clans, that is great with 2 restrictions:
+        1) All of the items must be the same for each clan.
+        2) You need to let one of the Imps see the item(s) before you allow the
+           Clan Imms to start passing them out.  This is not cause we don't trust
+           you, it is so that we (mostly me) can make sure the code won't freak
+           or become unbalanced because of it.
+        3) No more than 2 new pieces please (we don't want players to think
+           we favor clans.  And only 1 of them can/should be a weapon.
+ 
+CLAN HALLS - Upto you as to what the clans have to do to be able to buy new rooms for
+           for their Halls, wether it be gold or QP is upto you.  (If you want the 
+           QP certs again for the Questmaster let me know).  Only thing is you (or
+           an immortal you get to help you) has to build the rooms, no color pukeing
+           on the screen (i.e. VALOR  ;)  )   Let the rooms look p
+           professional so the MUD will.
+ 
+QUITTING CLANS - Again this is upto but it should be difficult.  Only guide is, once a 
+           player quits a clan, they can not join another one (but they stay pkill) 
+           unless they give you a real good reason.  (This is just a guide, but if
+           you follow it you will save yourself alot of heartache, we allowed players
+           to change clans without restriction and eery other day players were clan
+           flipping so they could cheat (or to join another clan so they could die alot
+           and ruin their pk-record) so the best thing is to make rules for quitting
+           but don't let them rejoin unless you want to deal with that ;) ....
+ 
+JOINING CLANS - If you want rules for joining clans that apply to all clans, make them
+           but also remember the individual clan Imms have rules also, maybe get with
+           them all and see if ya'll can make rules for all clans together.
+ 
+MORTALS MAKING CLANS - We are willing to try this for the first time BUT if you decide
+           to allow the morts to make and run their own clans you need to write some 
+           very detailed rules about what it takes to make one, the cost, the guidelines
+           and more...  These need to be LOOPHOLE proof or the players will get stupid,
+           also it should cost a BUNDLE of gold or QP (maybe allow a group to all chip i
+           to form their clan) for 2 reasons, ONLY 9 more clans can be added and each
+           clan is restricted to 13 members (13 members so we can spread out the PCs).
+           So if you want to watch over this, make the rules tough or cheesey clans
+           will get made ;)  
+ 
+DISBANDING CLANS - Make this UGLY if you allow morts to make clans.
+         Make it hurt for wasting your time and the other players making a clan they
+         didn't stick with, and if the clan just melts away to nothing all on its
+         own without them disbanding, you might want to penalize the PC that started
+         the clan ;)  again, upto you if you want to or not and/or even how...
+ 
+Well these are the things Lybre Pyros and I have talked about and some are things 
+players have sent in.  The above is a guide though, you are the Immortal in Charge
+of Clan Rules and Regulatoins so do whatever you think should be/needs to be done
+to get life back into the Clans ;) ...
+ 
+Arioch/q
+~
+E
+wars~
+CLAN WARS A clan war is in fact a war, hehe, between two clans.  Now on
+this mud players run around killing eachother all the time, so in fact
+everyone is in a state of constant "war".  But for everyones fun, not to
+mention A clan war is in fact a war, hehe, between two clans.  Now on this
+mud players run around killing eachother all the time, so in fact everyone
+is in a state of constant "war".  But for everyones fun, not to mention 
+ 
+1)Clan who wishes to declare a war writes a formal note to all saying who they are declaring a war against, and why.  This not should also include what they are demanding from the clan that they are attacking.  Here 
+is an example of this, I run clan A, i want to attack clan B, i write a note saying i want to attack clan B because they killed and looted so many of my clan members.  Then i would write that I demand 100k gold, 
+and 5 of their clans backpacks for compensation.
+ 
+2)The other clan leader then gets 2 days to respond saying that he accepts the war, or that he is willing to just pay the 100k gold and 5 clan backpacks.  If they do not respond then the war is on!
+3)To win the clan war your clan must be the first to kill TEN clan members from the opposing clan.  From the time that clan B responds or two days following clan As note there is two weeks, 14 days to accomplish 
+ 
+4)If clan A wins, then clan B has another 2 weeks to come up with the payment.  If, on the other hand., clan A losses, then they must pay DOUBLE what they requested to clan B.  In this example they would have to 
+pay 200k g and 10 of their clans backpacks. 
+5)After the loosing clan gathers the correct payment, they must first give the complete payment to Caroman, and he will then give it to the winning clan, to make sure everything is fair.
+6)If the loosing clan fails to come up with the money their clan hall is reduced to the minumum size, and their clan gets one STRIKE, if a clan gets two strikes in a six week perid, their clan is disbanded.
+7)After completion of a clan war, the winning clan may not declair another war on the loosing clan for three weeks.
+~
+E
+eq02~
+The EQ Types a Clan may purchase are listed below.  The QuestPoint cost to purchase
+a given type can be totaled by Multiple Clan Members (meaning ALL Clan Members can
+contribute to the cost).  This also applies to the GOLD Piece cost required to buy a
+single piece of the EQ.
+ 
+{cBACKPACK {w- {CQP{w: {W1500  {CGP{w: {W20,000  {CLEVEL{w: {W25{X
+{cLIGHT SOURCE {w- {CQP{w: {W1000 {CGP{w: {W15,000 {CLEVEL{w: {W20{X
+{cDRINK CONTAINER {w- {CQP{w: {W700 {CGP{w: {W10,000 {CLEVEL{w: {W20{X
+ 
+{xThe {CQP{D({WQuestPoint{D) {xCost is ONLY paid ONCE.  After the Initial purchase,
+your Clan will own that EQ Type, after which you can buy a number of pieces of that
+type equal to the number of Members your clan has, or as you recruit new Members.
+If you lose one you can NOT buy another one, the MAX allowed is Equal to your Member
+count.
+ 
+After the EQ Type is purchased, you may not later change it to another Type.  Each
+Clan can have upto 3 different Types MAX, so choose wisely.
+ 
+The Clan Leader is responsible for coming up with the DESC of the item and letting
+Argon know, once theEQ DESC is set, it may not be changed.  
+ 
+Following are the Guidelines for nameing your Items:
+1) Your Clan Name MUST be in the SHORT DESC (Argon or Venus can explain what the
+   Short Desc is).
+2) The EQ Type must be discernable from looking at the SHORT DESC.
+(i.e. A legal name for a CLAN BACKPACK would be something like:
+      {WA {bDRIDER {WClan BackPack{x   ...  Where as a Clan BlackPanther named:
+      {WA Glowing Silver Plate{x   ...  Would not be. )
+ 
+~
+E
+eq04~
+{cBACKPACK OPTIONS{W:{x
+  Backpack comes standard with {W+5 HR{r/{WDR{x, {W200hp and -50 {xacross the board AC
+     {CADDONS
+{R1){CAdd{W +1 to any stat for 5k {Ygold{x with a max of {W+3{x to any stat
+{R2){CAdd{W +1 to HR{r/{WDR for 5k {Ygold {xwith a max of {W+3 {xto both
+{R3){CAdd{W +50 Hp, Mana, or Moves for 5k {Ygold{x with a max of {W100{x on each
+ 
+{cLIGHT SOURCE OPTIONS{W:{x
+  Light Source comes standard with {W+2 on any stat and +50hp{x
+     {CADDONS
+{R1){CAdd{W +1 to any stat for 5k {Ygold{x with a max of {W+3{x to any stat
+{R2){CAdd{W +1 to HR{r/{WDR for 5k {Ygold {xwith a max of {W+3 {xto both
+{R3){CAdd{W +50 Hp, Mana, or Moves for 5k {Ygold{x with a max of {W+150{x on each
+ 
+{cDRINK CONTAINER OPTIONS:
+{R1){C Choose{W: {ca){W Glowing , {cb){W Humming , {cc){W Neither of These
+{R2){C Choose{W: {ca) {WNoLocate , {cb){W NoDrop , {cc) {WBurnProof
+{R3){C Choose{W: The Liquid Type you want 
+~
+E
+index2~
+{cType '{WLOOK {c<{RCH{WXX{c>' To view these Chapters.{x
+{G*** {WXX = {wThe Chapter Number You Want To Read {G***{x
+ 
+ 
+{RAD01 {r= What Clan Halls Can Start With{X
+{RAD02 {r= Room Cost{X
+{RAD03 {r= Shops{X
+{RAD04 {r= Misc{X
+~
+E
+ad02~
+Additional Rooms:
+
+Each room cost 2223k gold 5000 qps.
+The Recovery Rates start at 50 mana / 50 hp and cost 5k gold to increase by 5's.
+~
+E
+ad03~
+The cost for shops are as follows:
+ 
+Each shop requires both the purchase of a room( see room cost AD02) and a shop keeper( see misc AD04 ).
+Shops may only sell potions / scrolls unless allowed otherwise.
+The potions cost are listed in Misc.
+Each shop cost 15k gold and 1500 qps.
+~
+E
+ad04~
+Misc Additions:
+ 
+Mobs:
+
+Healer - Every clan starts off with a healer at the level of 80.
+Additional healers can be added at the cost of 5kgold and 50 qps.
+The level of the healer may be changed at the expense of 100 qps per additional level.
+Gain/Train/Practice - One mob can be added individually for the cost of 5k gold 500 qps.
+For a mob that has all duties , the cost is 15k gold and 1.5k qps.
+
+Healing:
+
+Healing furniture such as pools , hot tubs, etc may be added at the expense of 15k gold  and 1200 qps.
+They start off with 100 hp / 100 mana healing.  They may be updated by 5's at the cost of 5k gold and 100 qps.
+ 
+Potions/Scrolls:
+
+Each potion/scroll starts at the level of 15 at the cost of 20k gold and 1500 qps.
+The intensity level of the potion/scroll may be changed at 15k gold and 400 qps a level.
+The cost for each potion/scroll in your shop ( required) begins at a cost to your clannies of 1000 silver.
+It can be lowered for 5 qps to a min of 100 silver per potion/scroll.
+
+Portals:
+
+Back by popular demand are the portals.  They must have a room ( see AD02 ) and each portal cost 20k gold and 1000 qps. 
+~
+D0
+~
+~
+0 0 2798
+D1
+~
+~
+0 0 3379
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 2500 spec_cast_cleric
+M 2510 spec_cast_adept
+M 2520 spec_cast_adept
+M 2521 spec_cast_adept
+M 2522 spec_cast_mage
+M 2530 spec_cast_adept
+M 2540 spec_cast_adept
+M 2550 spec_cast_adept
+M 2560 spec_cast_adept
+M 2570 spec_cast_adept
+M 2580 spec_cast_adept
+M 2581 spec_cast_adept
+M 2582 spec_cast_mage
+M 2610 spec_cast_adept
+M 2620 spec_cast_adept
+M 2630 spec_cast_adept
+M 2640 spec_cast_adept
+M 2650 spec_cast_adept
+M 2660 spec_cast_adept
+M 2670 spec_cast_adept
+M 2680 spec_cast_adept
+M 2690 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 2501 3 1
+D 0 2510 4 1
+D 0 2520 4 1
+D 0 2550 4 1
+D 0 2560 4 1
+D 0 2574 5 1
+D 0 2575 4 1
+D 0 2578 1 1
+D 0 2579 3 1
+D 0 2587 1 1
+D 0 2607 3 1
+O 0 2500 0 2500
+M 0 2500 1 2500 1
+O 0 2505 0 2500
+M 0 2501 1 2504 1
+G 0 2504 0
+O 0 2510 0 2510
+O 0 2514 0 2510
+M 0 2510 1 2513 1
+M 0 2520 1 2520 1
+O 0 2526 0 2520
+O 0 2520 0 2520
+M 0 2521 1 2521 1
+M 0 2522 1 2522 1
+G 0 2525 0
+O 0 2527 0 2523
+O 0 2528 0 2523
+O 0 2529 0 2523
+O 0 2524 0 2523
+M 0 2530 1 2530 1
+O 0 2530 0 2530
+O 0 2540 0 2540
+M 0 2540 1 2540 1
+M 0 2540 1 2545 1
+M 0 2550 1 2550 1
+O 0 2550 0 2550
+O 0 2554 0 2550
+O 0 2555 0 2550
+O 0 2556 0 2551
+O 0 2557 0 2551
+O 0 2558 0 2551
+O 0 2559 0 2551
+M 0 2550 1 2555 1
+M 0 2560 1 2560 20
+O 0 2560 0 2560
+M 0 2570 1 2570 1
+O 0 2570 0 2570
+O 0 2574 0 2570
+M 0 2571 1 2571 1
+O 0 2572 0 2572
+M 0 2574 5 2573 2
+M 0 2580 1 2580 1
+O 0 2580 0 2580
+O 0 2581 0 2580
+O 0 2587 0 2581
+O 0 2586 0 2581
+O 0 2585 0 2581
+O 0 2585 0 2581
+M 0 2581 1 2582 1
+M 0 2582 1 2583 1
+G 0 2588 0
+O 0 2586 0 2586
+M 0 2590 1 2590 1
+M 0 2597 13 2597 2
+M 0 2690 1 2599 1
+M 0 2600 1 2600 1
+O 0 2610 0 2610
+M 0 2610 1 2610 20
+O 0 2620 0 2620
+M 0 2620 1 2620 1
+O 0 2620 0 2620
+O 0 2630 0 2630
+M 0 2630 1 2630 20
+O 0 2640 0 2640
+M 0 2640 1 2640 1
+O 0 2650 0 2650
+M 0 2650 1 2650 20
+O 0 2660 0 2660
+M 0 2660 1 2660 1
+O 0 2670 0 2670
+M 0 2670 1 2670 1
+O 0 2680 0 2680
+M 0 2680 1 2680 1
+O 0 2690 0 2690
+M 0 2690 1 2690 1
+M 0 2698 1 2698 1
+M 0 2699 1 2699 1
+M 0 2700 1 2700 1
+S
+
+
+
+#SHOPS
+2501 10 0 0 0 0 100 100 0 24
+2522 10 0 0 0 0 100 100 0 23
+2571 5 26 9 15 17 100 100 0 23
+2582 10 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,3616 @@
+#AREADATA
+Name Geisel's Rainforest~
+Builders Vrdiq~
+VNUMs 19800 19899
+Credits 70 -  80~
+Security 8
+Flags F
+LEVELs 70 80
+End
+
+
+
+#MOBILES
+#19800
+chromatic dragon~
+the Chromatic Dragon~
+{cA dragon of many colors stomps around here, trying to perfect its
+nest.{x
+~
+The dragon eyes you balefully, wishing you'd go away.
+~
+dragon~
+ABC DFJNOT -325 0
+0
+79 8 50d10+11800 79d10+1000 6d10+44 shbite
+-49 -49 -49 -49
+AFGM ABHIJQ BEHIJKL FIOPY
+stand stand female 0
+ABCHILMZ ABCDEFGHIJKPQUVWXZ giant unknown
+#19801
+vorpal vole~
+a vorpal vole~
+{cA huge burrowing beast digs here, gnawing at the roots of the trees.{x
+~
+The vole barely sees you, but seems keenly aware of your scent,
+indicative of an exotic delicacy it rarely gets to sample.
+~
+unique~
+ACFGH DFPQ -675 0
+0
+70 7 50d10+10900 70d10+100 10d5+37 acbite
+-40 -40 -40 -30
+ABDFHJMU ALQ B 0
+stand stand either 0
+0 0 medium unknown
+#19802
+treant father~
+a Treant Father~
+{cA massive tree seems to be moving toward you...{x
+~
+This treant seems very old, probably the father of many generations.
+~
+unique~
+AGT NQcd 750 0
+0
+76 8 50d10+11700 76d10+100 9d6+44 crush
+-46 -46 -46 -28
+ACDEKLOQ AB EPX HJ
+stand stand male 7600
+ABHIM ABCDEFGHIJK huge unknown
+#19803
+treant mother~
+a Treant Mother~
+{cA massive tree seems to be moving toward you...{x
+~
+This treant seems very old, probably the mother of many generations.
+~
+unique~
+AGQ NQcd 825 0
+0
+74 7 50d10+11200 74d10+1000 9d6+39 smash
+-43 -43 -43 -38
+ACEKOQ AB EPX HJ
+stand stand female 7400
+ABHIM ABCDEFGHIJK huge unknown
+#19804
+treant sapling~
+a Treant sapling~
+{cA large tree seems to be moving toward you...{x
+~
+This treant seems far younger than any you've ever heard of before.
+~
+unique~
+ACGR NQd 633 0
+0
+72 7 50d10+10900 72d10+1000 10d5+37 beating
+-40 -40 -40 -40
+ACDEFHQ AB EPX HJ
+stand stand either 7200
+ABHIM ABCDEFGHIJK large unknown
+#19805
+kraken~
+a Kraken~
+{cA Kraken breaks the surface of the water nearby!{x
+~
+Like one of your worst nightmares, the Kraken is enormous: over
+eighty feet in length. If octopi worshipped a god, perhaps they'd
+worship this.
+~
+snake~
+ABCFGT c -999 0
+0
+80 8 50d10+12100 80d10+100 6d10+47 digestion
+-50 -50 -50 -50
+ACDFHMO ABLR EL HI
+stand stand either 8000
+AGXYc ADEFGKLQVXYc giant unknown
+#19806
+despoiler~
+a despoiler~
+{cA despoiler roams the forest, hacking down trees in the name of
+progress.{x
+~
+He seems to be an ordinary human, albeit in extraordinary surroundings.
+~
+Human~
+ABCGH 0 -375 0
+0
+71 7 50d10+11000 71d10+100 9d6+38 punch
+-41 -41 -41 -30
+CDEFIJKN 0 0 0
+stand stand male 3550
+AHMV ABCDEFGHIJKMV medium unknown
+#19807
+willowent~
+a Willowent~
+{cA mighty willow stands here, majestic in its surroundings.{x
+~
+Such wisdom and such pain has this creature seen. Truly a noble specimen.
+~
+unique~
+ABCGOT FHd 870 0
+0
+78 8 50d10+11900 78d10+1000 6d10+45 divine
+-50 -50 -50 -50
+ACEFHKLOQ AB PX HJ
+stand stand male 7800
+ABHIM ABCDEFGHIJK huge unknown
+#19808
+geisel treant king~
+Geisel~
+{cGeisel, King of the Treants, stands here.{x
+~
+Never before have you encountered such an ancient creature. Surely,
+his wisdom must surpass that of some of the gods.
+~
+unique~
+ABGQT HNd 1000 0
+0
+80 8 50d10+11100 80d10+1000 6d10+47 divine
+-52 -52 -52 -52
+ACEFHKLOQ ABP IPQX HJ
+stand stand male 8000
+ABHIM ABCDEFGHIJK huge unknown
+#19809
+binky sasquatch child~
+Binky~
+{cA Sasquatch child screams for his mommy.{x
+~
+He announces, "I'm Binky!" and sticks his tongue out at you.
+~
+unique~
+ABCG Qa 0 0
+0
+70 0 50d10+10900 70d10+1 10d5+37 bite
+-40 -40 -40 -20
+FIJP 0 I H
+stand stand male 700
+AHMc ABCDEFGHIJKU small unknown
+#19810
+sasquatch mother~
+Binky's mother~
+{cA large female sasquatch is very protective of her child.{x
+~
+She looks pretty mean. I wouldn't recommend attacking her child.
+~
+unique~
+ABGT a 0 0
+0
+77 8 50d10+11800 77d10+1 6d10+44 thwack
+-49 -49 -49 -25
+ACDEFHIJKLNOP 0 I H
+stand stand female 770
+AHMc ABCDEFGHIJKU large unknown
+#19811
+treant elder~
+a Treant Elder~
+{cAn ancient tree eyes you with only passing interest.{x
+~
+It's entirely possible that this treant is older than Geisel himself.
+~
+unique~
+ABGR HQd 925 0
+0
+75 8 50d10+11200 77d10+1000 9d6+39 crush
+-43 -43 -43 -47
+AEKOQ AB CPX HJ
+stand stand either 7500
+ABHIM ABCDEFGHIJK huge unknown
+#19812
+imp~
+an Imp~
+{cAn Imp looks utterly lost here.{x
+~
+As foul as he is, you almost feel sorry for him, realizing that he is
+utterly terrified in this unfamiliar place.
+~
+unique~
+ABCGH DOPVc -925 0
+0
+73 7 50d10+11200 73d10+100 9d6+39 shbite
+-43 -43 -43 -43
+ABCDEFHIJ J H I
+stand stand male 7300
+BGHXc ABCDEFGHIJKLPQUVWX small unknown
+#0
+
+
+
+#OBJECTS
+#19800
+locket~
+a locket~
+A locket lies here, forgotten.~
+SELECT_A_MATERIAL container 0 AC
+10 AC 0 10 100
+79 10 250 P
+#19801
+tiny key~
+a tiny key~
+A tiny key lies here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+79 1 100 P
+#19802
+huge brass chest~
+a huge brass chest~
+A huge brass chest is here.~
+SELECT_A_MATERIAL container 0 A
+5000 ABCD 19801 500 75
+79 1000 750 P
+#19803
+pile coins~
+a pile of coins~
+A pile of coins is here.~
+SELECT_A_MATERIAL money 0 A
+FJKLO 0 0 0 0
+0 0 0 P
+#19804
+chromatic dagger~
+The Chromatic Dagger~
+A beautiful dagger lies here.~
+STEEL weapon A AN
+dagger 11 13 stab CD
+79 25 37500 P
+A
+18 4
+A
+19 2
+#19805
+bark skin barkskin~
+barkskin~
+The bark of an ancient tree lies here.~
+SELECT_A_MATERIAL armor Q AK
+BCF DF CF CE B
+76 75 35250 P
+#19806
+staff treant limb~
+a Treant's limb~
+A most unusual looking staff lies here. It seems almost alive.~
+WOOD weapon KQ AN
+polearm 13 20 thrust F
+74 75 32690 P
+A
+13 100
+A
+12 100
+A
+18 8
+A
+19 8
+#19807
+cloak leaves~
+a cloak of leaves~
+A cloak made from colorful leaves lies here.~
+CLOTH armor 0 AC
+BDEFGHIJKLMNOPQRSTUVWXYZabcdef BDEFGHIJKLMNOPQRSTUVWXYZabcdef BDEFGHIJKLMNOPQRSTUVWXYZabcdef CDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+72 35 27250 P
+A
+18 7
+A
+19 7
+A
+17 -36
+A
+13 360
+#19808
+ink sac inksac kraken~
+a kraken's inksac~
+A large piece of a kraken lies here.~
+SELECT_A_MATERIAL wand Q AO
+80 10 10 'blindness' 0
+80 50 43500 P
+#19809
+axe defoliation~
+an axe of defoliation~
+An impressively sharp axe lies here.~
+SELECT_A_MATERIAL weapon 0 AN
+axe 10 14 cleave EG
+71 125 37850 P
+A
+18 7
+A
+19 7
+#19810
+mahogany key geisel inner sanctum~
+a key to Geisel's inner sanctum~
+A key made from fine mahogany lies here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+78 2 7800 P
+#19811
+small mahogany case~
+a small mahogany case~
+A small mahogany case lies here.~
+SELECT_A_MATERIAL container 0 AO
+20 ACH 0 10 100
+78 10 780 P
+#19812
+willowent whip~
+a willowent whip~
+A whip made of strands from a willow lies here.~
+HIGH_LEATHER weapon Q AN
+whip 10 15 whip A
+78 35 43250 P
+A
+18 8
+A
+19 8
+#19813
+lichen~
+lichen~
+Some lichen lies here.~
+SELECT_A_MATERIAL armor 0 AE
+DF DF DF DF A
+80 5 47250 P
+A
+4 4
+#19814
+flail photosynthesis~
+Photosynthesis~
+A flail undulates with spurts of constant growth.~
+SELECT_A_MATERIAL weapon HKM AN
+flail 10 15 thwack A
+80 125 52500 P
+A
+19 8
+A
+18 10
+A
+3 4
+#19815
+knot~
+a knot~
+A loose knot in a tree catches your eye.~
+SELECT_A_MATERIAL container F 0
+100 AC 0 100 100
+70 10 0 P
+#19816
+knot~
+a knot~
+A loose knot in a tree catches your eye.~
+SELECT_A_MATERIAL container F 0
+100 AC 0 100 100
+70 10 0 P
+#19817
+knot~
+a knot~
+A loose knot in a tree catches your eye.~
+SELECT_A_MATERIAL container 0 0
+100 AC 0 100 100
+70 10 0 P
+#19818
+knot~
+a knot~
+{cA loose knot in a tree catches your eye.{x~
+SELECT_A_MATERIAL container F 0
+100 AC 0 100 100
+70 10 0 P
+#19819
+stash acorns~
+a stash of acorns~
+A squirrel's secret stash of acorns lies here.~
+SELECT_A_MATERIAL food 0 AO
+CFG BDEG 0 0 0
+70 10 650 P
+#19820
+pine cone pinecone~
+a pine cone~
+An eerily shimmering pine cone lies here.~
+SELECT_A_MATERIAL pill A AO
+70 'bless' 'poison' '' ''
+70 10 23250 P
+#19821
+coconut~
+a coconut~
+A coconut lies here. Perhaps a swallow dropped it.~
+SELECT_A_MATERIAL drink 0 AQ
+100 100 'milk' 0 0
+70 10 560 P
+#19822
+maple syrup gooey~
+some maple syrup~
+Some gooey syrup is here.~
+SELECT_A_MATERIAL pill M AH
+70 '' 'plague' 'heal' 'refresh'
+70 10 16350 P
+#19823
+sasquatch nest~
+a sasquatch nest~
+~
+SELECT_A_MATERIAL container 0 0
+1000 0 0 1000 100
+77 100 0 P
+#19824
+diamonds rainforest forest~
+a handful of rainforest diamonds~
+A handful of diamonds from Geisel's Rainforest lies here.~
+SELECT_A_MATERIAL money 0 A
+FHJKPQ 0 0 0 0
+0 0 0 P
+#19825
+bent knife~
+a bent knife~
+A bent knife lies here.~
+SELECT_A_MATERIAL weapon HM AN
+dagger 10 13 pierce 0
+70 10 1700 P
+A
+18 -4
+A
+19 -4
+#19826
+elderwood wood~
+Elderwood~
+A circular piece of petrified wood lies here.~
+SELECT_A_MATERIAL jewelry KQSY AB
+0 0 0 0 0
+75 5 62500 P
+A
+12 200
+A
+13 -50
+A
+17 -30
+#19827
+something discombobulator~
+the discombobulator~
+A wand lies here. Maybe it's not a wand. No, it is. Well... something is here.~
+SELECT_A_MATERIAL wand MYZ AO
+75 15 15 'chain lightning' 0
+75 10 15000 P
+#0
+
+
+
+#ROOMS
+#19800
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north and east, while to the south and
+east, roiling whitewaters crash against the shore. Roots dangle from the oldest
+trees down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19810
+D1
+~
+~
+0 0 19801
+D3
+~
+~
+0 0 9783
+C 0
+S
+#19801
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19811
+D1
+~
+~
+0 0 19802
+D3
+~
+~
+0 0 19800
+C 0
+S
+#19802
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19812
+D1
+~
+~
+0 0 19803
+D3
+~
+~
+0 0 19801
+C 0
+S
+#19803
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19813
+D1
+~
+~
+0 0 19804
+D3
+~
+~
+0 0 19802
+C 0
+S
+#19804
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19814
+D1
+~
+~
+0 0 19805
+D3
+~
+~
+0 0 19803
+C 0
+S
+#19805
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise,  there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19815
+D1
+~
+~
+0 0 19806
+D3
+~
+~
+0 0 19804
+C 0
+S
+#19806
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19816
+D1
+~
+~
+0 0 19807
+D3
+~
+~
+0 0 19805
+C 0
+S
+#19807
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19817
+D1
+~
+~
+0 0 19808
+D3
+~
+~
+0 0 19806
+C 0
+S
+#19808
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19818
+D1
+~
+~
+0 0 19809
+D3
+~
+~
+0 0 19807
+C 0
+S
+#19809
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19819
+D1
+~
+~
+0 0 19884
+D3
+~
+~
+0 0 19808
+C 0
+S
+#19810
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19823
+D1
+~
+~
+0 0 19811
+D2
+~
+~
+0 0 19800
+C 0
+S
+#19811
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19824
+D1
+~
+~
+0 0 19812
+D2
+~
+~
+0 0 19801
+D3
+~
+~
+0 0 19810
+C 0
+S
+#19812
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although the limbs of the
+trees to the north are so inextricably intertwined as to make passage
+impossible.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+limbs~
+2 19810 19825
+D1
+~
+~
+0 0 19813
+D2
+~
+~
+0 0 19802
+D3
+~
+~
+0 0 19811
+C 0
+S
+#19813
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19826
+D1
+~
+~
+0 0 19814
+D2
+~
+~
+0 0 19803
+D3
+~
+~
+0 0 19812
+C 0
+S
+#19814
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19827
+D1
+~
+~
+0 0 19815
+D2
+~
+~
+0 0 19804
+D3
+~
+~
+0 0 19813
+C 0
+S
+#19815
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19828
+D1
+~
+~
+0 0 19816
+D2
+~
+~
+0 0 19805
+D3
+~
+~
+0 0 19814
+C 0
+S
+#19816
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19829
+D1
+~
+~
+0 0 19817
+D2
+~
+~
+0 0 19806
+D3
+~
+~
+0 0 19815
+C 0
+S
+#19817
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south. A massive wall
+rises through the mists to the north. . It looks as if someone has been
+systematically marking the trees here.
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D1
+~
+~
+0 0 19818
+D2
+~
+~
+0 0 19807
+D3
+~
+~
+0 0 19816
+C 0
+S
+#19818
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south. A massive wall
+rises through the mists to the north.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19819
+D2
+~
+~
+0 0 19808
+D3
+~
+~
+0 0 19817
+C 0
+S
+#19819
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south. A massive wall
+rises through the mists to the north.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D1
+~
+~
+0 0 19880
+D2
+~
+~
+0 0 19809
+D3
+~
+~
+0 0 19818
+C 0
+S
+#19820
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north and east, while to the south and
+east, roiling whitewaters crash against the shore. Roots dangle from the oldest trees down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19830
+D1
+~
+~
+0 0 19821
+C 0
+S
+#19821
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19831
+D1
+~
+~
+0 0 19822
+D3
+~
+~
+0 0 19820
+C 0
+S
+#19822
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and west, while to the south,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19832
+D1
+~
+~
+0 0 19823
+D3
+~
+~
+0 0 19821
+C 0
+S
+#19823
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19833
+D1
+~
+~
+0 0 19824
+D2
+~
+~
+0 0 19810
+D3
+~
+~
+0 0 19822
+C 0
+S
+#19824
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although the limbs of the
+trees to the east are so inextricably intertwined as to make passage
+impossible.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19834
+D1
+~
+limbs~
+2 19810 19825
+D2
+~
+~
+0 0 19811
+D3
+~
+~
+0 0 19823
+C 0
+S
+#19825
+{MGeisel's Inner Sanctum{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The forest is utterly impenetrable on all sides, the limbs of the trees
+inextricably intertwined. A feeling of utter peace overtakes you.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+limbs~
+2 19810 19835
+D1
+~
+limbs~
+2 19810 19826
+D2
+~
+limbs~
+2 19810 19812
+D3
+~
+limbs~
+2 19810 19824
+M 125 H 125
+C 0
+S
+#19826
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although the limbs of the
+trees to the west are so inextricably intertwined as to make passage
+impossible.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19836
+D1
+~
+~
+0 0 19827
+D2
+~
+~
+0 0 19813
+D3
+~
+limbs~
+2 19810 19825
+C 0
+S
+#19827
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if someone has
+been systematically marking the trees here.
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19837
+D1
+~
+~
+0 0 19828
+D2
+~
+~
+0 0 19814
+D3
+~
+~
+0 0 19826
+C 0
+S
+#19828
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19838
+D1
+~
+~
+0 0 19829
+D2
+~
+~
+0 0 19815
+D3
+~
+~
+0 0 19827
+C 0
+S
+#19829
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19816
+D3
+~
+~
+0 0 19828
+C 0
+S
+#19830
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19840
+D1
+~
+~
+0 0 19831
+D2
+~
+~
+0 0 19820
+C 0
+S
+#19831
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19841
+D1
+~
+~
+0 0 19832
+D2
+~
+~
+0 0 19821
+D3
+~
+~
+0 0 19830
+C 0
+S
+#19832
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19842
+D1
+~
+~
+0 0 19833
+D2
+~
+~
+0 0 19822
+D3
+~
+~
+0 0 19831
+C 0
+S
+#19833
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19843
+D1
+~
+~
+0 0 19834
+D2
+~
+~
+0 0 19823
+D3
+~
+~
+0 0 19832
+C 0
+S
+#19834
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19844
+D1
+~
+~
+0 0 19835
+D2
+~
+~
+0 0 19824
+D3
+~
+~
+0 0 19833
+C 0
+S
+#19835
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although the limbs of the
+trees to the south are so inextricably intertwined as to make passage
+impossible.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19845
+D1
+~
+~
+0 0 19836
+D2
+~
+limbs~
+2 19810 19825
+D3
+~
+~
+0 0 19834
+C 0
+S
+#19836
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise,  there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19846
+D1
+~
+~
+0 0 19837
+D2
+~
+~
+0 0 19826
+D3
+~
+~
+0 0 19835
+C 0
+S
+#19837
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19847
+D1
+~
+~
+0 0 19838
+D2
+~
+~
+0 0 19827
+D3
+~
+~
+0 0 19836
+C 0
+S
+#19838
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19848
+D1
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19828
+D3
+~
+~
+0 0 19837
+C 0
+S
+#19839
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east. It looks as if something has been
+burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19849
+D2
+~
+~
+0 0 19829
+D3
+~
+~
+0 0 19838
+C 0
+S
+#19840
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19850
+D1
+~
+~
+0 0 19841
+D2
+~
+~
+0 0 19830
+C 0
+S
+#19841
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19851
+D1
+~
+~
+0 0 19842
+D2
+~
+~
+0 0 19831
+D3
+~
+~
+0 0 19840
+C 0
+S
+#19842
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if someone has
+been systematically marking the trees here.
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19852
+D1
+~
+~
+0 0 19843
+D2
+~
+~
+0 0 19832
+D3
+~
+~
+0 0 19841
+C 0
+S
+#19843
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19853
+D1
+~
+~
+0 0 19844
+D2
+~
+~
+0 0 19833
+D3
+~
+~
+0 0 19842
+C 0
+S
+#19844
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19854
+D1
+~
+~
+0 0 19845
+D2
+~
+~
+0 0 19834
+D3
+~
+~
+0 0 19843
+C 0
+S
+#19845
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19855
+D1
+~
+~
+0 0 19846
+D2
+~
+~
+0 0 19835
+D3
+~
+~
+0 0 19844
+C 0
+S
+#19846
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19856
+D1
+~
+~
+0 0 19847
+D2
+~
+~
+0 0 19836
+D3
+~
+~
+0 0 19845
+C 0
+S
+#19847
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19857
+D1
+~
+~
+0 0 19848
+D2
+~
+~
+0 0 19837
+D3
+~
+~
+0 0 19846
+C 0
+S
+#19848
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19858
+D1
+~
+~
+0 0 19849
+D2
+~
+~
+0 0 19838
+D3
+~
+~
+0 0 19847
+C 0
+S
+#19849
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19839
+D3
+~
+~
+0 0 19848
+C 0
+S
+#19850
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19860
+D1
+~
+~
+0 0 19851
+D2
+~
+~
+0 0 19840
+C 0
+S
+#19851
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19861
+D1
+~
+~
+0 0 19852
+D2
+~
+~
+0 0 19841
+D3
+~
+~
+0 0 19850
+C 0
+S
+#19852
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19862
+D1
+~
+~
+0 0 19853
+D2
+~
+~
+0 0 19842
+D3
+~
+~
+0 0 19851
+C 0
+S
+#19853
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the northeast. The trees seem to sense your movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19863
+D1
+~
+~
+0 0 19854
+D2
+~
+~
+0 0 19843
+D3
+~
+~
+0 0 19852
+C 0
+S
+#19854
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the north.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19864
+D1
+~
+~
+0 0 19855
+D2
+~
+~
+0 0 19844
+D3
+~
+~
+0 0 19853
+C 0
+S
+#19855
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the northwest. The trees seem to sense your movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19865
+D1
+~
+~
+0 0 19856
+D2
+~
+~
+0 0 19845
+D3
+~
+~
+0 0 19854
+C 0
+S
+#19856
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19866
+D1
+~
+~
+0 0 19857
+D2
+~
+~
+0 0 19846
+D3
+~
+~
+0 0 19855
+C 0
+S
+#19857
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19867
+D1
+~
+~
+0 0 19858
+D2
+~
+~
+0 0 19847
+D3
+~
+~
+0 0 19856
+C 0
+S
+#19858
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19868
+D1
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19848
+D3
+~
+~
+0 0 19857
+C 0
+S
+#19859
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19869
+D2
+~
+~
+0 0 19849
+D3
+~
+~
+0 0 19858
+C 0
+S
+#19860
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19870
+D1
+~
+~
+0 0 19861
+D2
+~
+~
+0 0 19850
+C 0
+S
+#19861
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19871
+D1
+~
+~
+0 0 19862
+D2
+~
+~
+0 0 19851
+D3
+~
+~
+0 0 19860
+C 0
+S
+#19862
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19872
+D1
+~
+~
+0 0 19863
+D2
+~
+~
+0 0 19852
+D3
+~
+~
+0 0 19861
+C 0
+S
+#19863
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the east.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19873
+D1
+~
+~
+0 0 19864
+D2
+~
+~
+0 0 19853
+D3
+~
+~
+0 0 19862
+C 0
+S
+#19864
+{MA clearing{x~
+The trees here have been trampled into the ground by some enormous beast.
+There is a smell that pervades the smell, almost like charcoal. Whatever it is
+that wrought this destruction, it would probably be best not to meet it.
+~
+0 0 2
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19874
+D1
+~
+~
+0 0 19865
+D2
+~
+~
+0 0 19854
+D3
+~
+~
+0 0 19863
+C 0
+S
+#19865
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the west.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19875
+D1
+~
+~
+0 0 19866
+D2
+~
+~
+0 0 19855
+D3
+~
+~
+0 0 19864
+C 0
+S
+#19866
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19876
+D1
+~
+~
+0 0 19867
+D2
+~
+~
+0 0 19856
+D3
+~
+~
+0 0 19865
+C 0
+S
+#19867
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19877
+D1
+~
+~
+0 0 19868
+D2
+~
+~
+0 0 19857
+D3
+~
+~
+0 0 19866
+C 0
+S
+#19868
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19878
+D1
+~
+~
+0 0 19869
+D2
+~
+~
+0 0 19858
+D3
+~
+~
+0 0 19867
+C 0
+S
+#19869
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east. The trees seem to sense your movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19879
+D2
+~
+~
+0 0 19859
+D3
+~
+~
+0 0 19868
+C 0
+S
+#19870
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19880
+D1
+~
+~
+0 0 19871
+D2
+~
+~
+0 0 19860
+C 0
+S
+#19871
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19881
+D1
+~
+~
+0 0 19872
+D2
+~
+~
+0 0 19861
+D3
+~
+~
+0 0 19870
+C 0
+S
+#19872
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19882
+D1
+~
+~
+0 0 19873
+D2
+~
+~
+0 0 19862
+D3
+~
+~
+0 0 19871
+C 0
+S
+#19873
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the southeast.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+D0
+~
+~
+0 0 19883
+D1
+~
+~
+0 0 19874
+D2
+~
+~
+0 0 19863
+D3
+~
+~
+0 0 19872
+C 0
+S
+#19874
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the south. It looks as if something has been burrowing into the roots of the
+trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19884
+D1
+~
+~
+0 0 19875
+D2
+~
+~
+0 0 19864
+D3
+~
+~
+0 0 19873
+C 0
+S
+#19875
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions, although it seems to lighten
+to the southwest.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19885
+D1
+~
+~
+0 0 19876
+D2
+~
+~
+0 0 19865
+D3
+~
+~
+0 0 19874
+C 0
+S
+#19876
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19886
+D1
+~
+~
+0 0 19877
+D2
+~
+~
+0 0 19866
+D3
+~
+~
+0 0 19875
+C 0
+S
+#19877
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19887
+D1
+~
+~
+0 0 19878
+D2
+~
+~
+0 0 19867
+D3
+~
+~
+0 0 19876
+C 0
+S
+#19878
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19888
+D1
+~
+~
+0 0 19879
+D2
+~
+~
+0 0 19868
+D3
+~
+~
+0 0 19877
+C 0
+S
+#19879
+{MBy~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east. It looks as if something hasbeen
+burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19889
+D2
+~
+~
+0 0 19869
+D3
+~
+~
+0 0 19878
+C 0
+S
+#19880
+{MAlong the shore{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, east and south, while to the west,
+roiling whitewaters crash against the shore. Roots dangle from the oldest trees
+down into the seething foam.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19890
+D1
+~
+~
+0 0 19881
+D2
+~
+~
+0 0 19870
+C 0
+S
+#19881
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19891
+D1
+~
+~
+0 0 19882
+D2
+~
+~
+0 0 19871
+D3
+~
+~
+0 0 19880
+C 0
+S
+#19882
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions.
+
+Suddenly, you notice a small furry child carving his initials in a tree.
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the north.
+~
+D0
+~
+~
+0 0 19892
+D1
+~
+~
+0 0 19883
+D2
+~
+~
+0 0 19872
+D3
+~
+~
+0 0 19881
+C 0
+S
+#19883
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. . It looks as if someone has
+been systematically marking the trees here.
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19893
+D1
+~
+~
+0 0 19884
+D2
+~
+~
+0 0 19873
+D3
+~
+~
+0 0 19882
+C 0
+S
+#19884
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19894
+D1
+~
+~
+0 0 19885
+D2
+~
+~
+0 0 19874
+D3
+~
+~
+0 0 19883
+C 0
+S
+#19885
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if something has
+been burrowing into the roots of the trees here.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19895
+D1
+~
+~
+0 0 19886
+D2
+~
+~
+0 0 19875
+D3
+~
+~
+0 0 19884
+C 0
+S
+#19886
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19896
+D1
+~
+~
+0 0 19887
+D2
+~
+~
+0 0 19876
+D3
+~
+~
+0 0 19885
+C 0
+S
+#19887
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. The trees seem to sense your
+movement.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19897
+D1
+~
+~
+0 0 19888
+D2
+~
+~
+0 0 19877
+D3
+~
+~
+0 0 19886
+C 0
+S
+#19888
+{MIn the rainforest{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues in all directions. It looks as if someone has
+been systematically marking the trees here.
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19898
+D1
+~
+~
+0 0 19889
+D2
+~
+~
+0 0 19878
+D3
+~
+~
+0 0 19887
+C 0
+S
+#19889
+{MBy the wall{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the north, south, and west. A massive wall
+rises through the mists to the east.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19899
+D2
+~
+~
+0 0 19879
+D3
+~
+~
+0 0 19888
+C 0
+S
+#19890
+{MMeeting of shore and cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the east and south, while to the west, roiling
+whitewaters crash against the shore, and to the north, an immense cliff towers
+above you. Roots dangle from the oldest trees down into the seething foam.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19881
+D2
+~
+~
+0 0 19870
+C 0
+S
+#19891
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north. It looks as if something has been burrowing into
+the roots of the trees here.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19892
+D2
+~
+~
+0 0 19881
+D3
+~
+~
+0 0 19890
+C 0
+S
+#19892
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north. It seems a very large creature has made her
+nest here.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19893
+D2
+~
+~
+0 0 19882
+D3
+~
+~
+0 0 19891
+C 0
+S
+#19893
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north. The trees seem to sense your movement.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19894
+D2
+~
+~
+0 0 19883
+D3
+~
+~
+0 0 19892
+C 0
+S
+#19894
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19895
+D2
+~
+~
+0 0 19884
+D3
+~
+~
+0 0 19893
+C 0
+S
+#19895
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19896
+D2
+~
+~
+0 0 19885
+D3
+~
+~
+0 0 19894
+C 0
+S
+#19896
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north. It looks as if something has been burrowing into
+the roots of the trees here.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19897
+D2
+~
+~
+0 0 19886
+D3
+~
+~
+0 0 19895
+C 0
+S
+#19897
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19898
+D2
+~
+~
+0 0 19887
+D3
+~
+~
+0 0 19896
+C 0
+S
+#19898
+{MAt the base of a cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun. The rainforest continues to the south, east, and west. An immense cliff
+towers above you to the north. The trees seem to sense your movement.
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19899
+D2
+~
+~
+0 0 19888
+D3
+~
+~
+0 0 19897
+C 0
+S
+#19899
+{MMeeting of wall and cliff{x~
+Drops of rain filter down through massive trees that nearly blot out the
+sun.  The rainforest continues to the south and west.  An immense cliff
+towers about you to the east, and a massive wall rises through the mists to
+the north.  A bronze plaque is bolted to the base of the wall.  
+~
+0 0 3
+E
+cliffs~
+Deadly sharp stone juts out from the cliffs at irregular and unexpected
+intervals, making ascent of the cliffs via either climbing or flying too
+dangerous to seriously consider.
+~
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+E
+sign~
+{yNorth to Monastery
+East to Golem Settlement
+South and West to Geisel's Rainforest{x
+~
+D0
+~
+~
+0 0 19200
+D1
+~
+~
+0 0 20400
+D2
+~
+~
+0 0 19889
+D3
+~
+~
+0 0 19898
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 19800 spec_breath_any
+M 19801 spec_fido
+M 19803 spec_cast_cleric
+M 19804 spec_cast_mage
+M 19805 spec_poison
+M 19807 spec_cast_undead
+M 19808 spec_cast_cleric
+M 19811 spec_cast_mage
+M 19812 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 19812 0 2
+D 0 19824 1 2
+D 0 19825 0 2
+D 0 19825 1 2
+D 0 19825 2 2
+D 0 19825 3 2
+D 0 19826 3 2
+D 0 19835 2 2
+M 0 19805 3 19804 1
+E 0 19808 0 17
+M 0 19805 3 19810 1
+E 0 19808 0 17
+M 0 19803 5 19811 1
+E 0 19806 0 16
+M 0 19807 6 19812 1
+E 0 19812 0 16
+E 0 19811 0 17
+P 0 19810 10 19811 1
+M 0 19811 5 19814 1
+E 0 19826 0 1
+M 0 19801 15 19815 1
+M 0 19803 5 19816 1
+E 0 19806 0 16
+M 0 19806 5 19817 1
+E 0 19809 0 16
+O 0 19815 0 19819
+P 0 19819 10 19815 1
+M 0 19801 15 19823 1
+M 0 19807 6 19824 1
+E 0 19812 0 16
+E 0 19811 0 17
+P 0 19810 10 19811 1
+M 0 19807 6 19825 2
+E 0 19812 0 16
+E 0 19811 0 17
+P 0 19810 10 19811 1
+M 0 19808 1 19825 1
+E 0 19813 0 6
+E 0 19814 0 16
+M 0 19807 6 19826 1
+E 0 19812 0 16
+E 0 19811 0 17
+P 0 19810 10 19811 1
+M 0 19806 5 19827 1
+E 0 19809 0 16
+M 0 19801 15 19828 1
+O 0 19816 0 19829
+P 0 19820 10 19816 1
+O 0 19817 0 19831
+P 0 19821 10 19817 1
+M 0 19811 5 19833 1
+E 0 19826 0 1
+M 0 19801 15 19834 1
+M 0 19807 6 19835 1
+E 0 19812 0 16
+E 0 19811 0 17
+P 0 19810 10 19811 1
+M 0 19803 5 19836 1
+E 0 19806 0 16
+M 0 19811 5 19838 1
+E 0 19826 0 1
+M 0 19801 15 19839 1
+M 0 19805 3 19840 1
+E 0 19808 0 17
+M 0 19802 5 19841 1
+E 0 19805 0 12
+M 0 19806 5 19842 1
+E 0 19809 0 16
+M 0 19812 1 19843 1
+E 0 19827 0 17
+M 0 19801 15 19845 1
+M 0 19802 5 19847 1
+E 0 19805 0 12
+M 0 19804 5 19848 1
+E 0 19807 0 3
+M 0 19801 15 19851 1
+M 0 19804 5 19853 1
+E 0 19807 0 3
+M 0 19802 5 19855 1
+E 0 19805 0 12
+M 0 19801 15 19856 1
+O 0 19818 0 19859
+P 0 19822 10 19818 1
+M 0 19801 15 19862 1
+M 0 19800 1 19864 1
+E 0 19800 0 3
+P 0 19801 3 19800 1
+O 0 19802 0 19864
+P 0 19803 3 19802 1
+P 0 19804 3 19802 1
+O 0 19815 0 19867
+P 0 19819 10 19815 1
+M 0 19801 15 19868 1
+M 0 19804 5 19869 1
+E 0 19807 0 3
+O 0 19816 0 19871
+P 0 19820 10 19816 1
+M 0 19803 5 19872 1
+E 0 19806 0 16
+M 0 19801 15 19874 1
+M 0 19811 5 19876 1
+E 0 19826 0 1
+O 0 19817 0 19878
+P 0 19821 10 19817 1
+M 0 19801 15 19879 1
+M 0 19806 5 19883 1
+E 0 19809 0 16
+M 0 19804 5 19884 1
+E 0 19807 0 3
+M 0 19801 15 19885 1
+M 0 19804 5 19886 1
+E 0 19807 0 3
+M 0 19803 5 19887 1
+E 0 19806 0 16
+M 0 19806 5 19888 1
+E 0 19809 0 16
+M 0 19801 15 19891 1
+M 0 19809 1 19892 1
+E 0 19825 0 16
+M 0 19810 1 19892 1
+O 0 19823 0 19892
+P 0 19824 1 19823 1
+M 0 19802 5 19893 1
+E 0 19805 0 12
+M 0 19811 5 19894 1
+E 0 19826 0 1
+M 0 19801 15 19896 1
+M 0 19802 5 19898 1
+E 0 19805 0 12
+O 0 19818 0 19899
+P 0 19822 10 19818 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

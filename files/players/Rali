@@ -1,0 +1,95 @@
+#PLAYER
+Name Rali~
+Id   1106171135
+LogO 1106173957
+Vers 5
+Prom -*-[%h %m %v   %K]-*- ~
+Race Draconian~
+Sex  2
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 2822
+Scro 33
+Room 3054
+HMV  20 20 100 100 49 100
+Gold 25
+Silv 30
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  14314
+PAct  DEFGQTd
+AfBy HJTV
+WName Rali~
+Comm N
+RaceChan D
+Deaf DP
+Pos  8
+Prac 4
+Save  -31
+Alig  -1000
+Hit   62
+ACs 20 20 20 20
+Attr 21 14 11 12 14
+AMod 0 0 0 4 0
+Pass RaAORWSRpwmHc~
+Titl .~
+Pnts 115
+TSex 2
+PSize 3
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 12 16
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 40 'axe'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Affc 'armor'   0 100  32 -20  17          0
+Affc 'stone skin'   0 100  91 -40  17          0
+Affc 'energy shield'   0  98  99 -20  17          0
+Affc 'sanctuary'   0  98   7   0   0        128
+Affc 'haste'   0  98  16   4   2    2097152
+Affc 'bless'   0 248 112 -31  20          0
+Affc 'bless'   0 247 112  62  18          0
+End
+
+#END

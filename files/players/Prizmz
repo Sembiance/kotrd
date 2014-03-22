@@ -1,0 +1,425 @@
+#PLAYER
+Name Prizmz~
+Id   1148070616
+LogO 1155353970
+Vers 5
+Prom <%h/%Hhp  %m/%Mm  %v/%Vmv><%aaln><%K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 1
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 297095
+Scro 33
+Room 3269
+HMV  11338 11338 9073 9073 9344 9344
+Gold 2215
+Silv 23941
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200016
+PAct  DGTbd
+AfBy DFV
+WName Prizmz~
+Comm MNO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 159
+Trai 46
+Save  -143
+Alig  876
+Hit   420
+Dam   368
+ACs -1247 -1247 -1247 -1247
+Wimp  2000
+Attr 15 27 25 17 16
+AMod 27 9 2 25 11
+Pass PrgyCF/DJFbTk~
+Titl , Prizmz.~
+Pnts 40
+TSex 1
+PSize 5
+LLev 75
+HMVP 888 1023 744
+Cnd  0 0 -1 -1
+Alias ss multi tor tor tor~
+Boards       4 General 1155167336 Ideas 1146808373 Announce 0 Personal 0 
+Sk 77 'magic missile'
+Sk 78 'chill touch'
+Sk 75 'burning hands'
+Sk 80 'shocking grasp'
+Sk 81 'colour spray'
+Sk 89 'fireball'
+Sk 94 'acid blast'
+Sk 83 'spellfire'
+Sk 83 'orb of chaos'
+Sk 75 'chain lightning'
+Sk 91 'wyldstryke'
+Sk 75 'acid storm'
+Sk 76 'wail of the banshee'
+Sk 79 'torment of cold'
+Sk 76 'sonic scream'
+Sk 75 'ventriloquate'
+Sk 75 'recharge'
+Sk 75 'sleep'
+Sk 75 'enchant armor'
+Sk 75 'enchant weapon'
+Sk 79 'charm person'
+Sk 80 'haste'
+Sk 75 'pass door'
+Sk 75 'portal'
+Sk 75 'nexus'
+Sk 78 'lightning bolt'
+Sk 75 'cure light'
+Sk 75 'change sex'
+Sk 75 'cure blindness'
+Sk 75 'bless'
+Sk 76 'cure serious'
+Sk 78 'protection evil'
+Sk 76 'protection good'
+Sk 75 'earthquake'
+Sk 75 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure poison'
+Sk 75 'dispel evil'
+Sk 75 'dispel good'
+Sk 75 'heat metal'
+Sk 75 'remove curse'
+Sk 78 'flamestrike'
+Sk 100 'heal'
+Sk 75 'frenzy'
+Sk 75 'demonfire'
+Sk 97 'ray of truth'
+Sk 75 'holy word'
+Sk 75 'mass healing'
+Sk 79 'golden aura'
+Sk 76 'detect evil'
+Sk 75 'detect good'
+Sk 75 'detect hidden'
+Sk 75 'armor'
+Sk 89 'blindness'
+Sk 75 'call lightning'
+Sk 75 'calm'
+Sk 79 'cancellation'
+Sk 76 'continual light'
+Sk 75 'control weather'
+Sk 75 'create food'
+Sk 75 'create rose'
+Sk 75 'create spring'
+Sk 75 'create water'
+Sk 76 'curse'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 75 'detect poison'
+Sk 81 'dispel magic'
+Sk 75 'energy drain'
+Sk 75 'faerie fire'
+Sk 75 'faerie fog'
+Sk 75 'farsight'
+Sk 76 'fly'
+Sk 75 'floating disc'
+Sk 78 'gate'
+Sk 76 'giant strength'
+Sk 91 'identify'
+Sk 75 'infravision'
+Sk 75 'invisibility'
+Sk 75 'know alignment'
+Sk 75 'locate object'
+Sk 75 'mass invis'
+Sk 75 'plague'
+Sk 77 'poison'
+Sk 100 'refresh'
+Sk 80 'sanctuary'
+Sk 75 'energy shield'
+Sk 78 'slow'
+Sk 75 'stone skin'
+Sk 80 'summon'
+Sk 97 'teleport'
+Sk 78 'weaken'
+Sk 77 'word of recall'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 100 'mace'
+Sk 75 'flail'
+Sk 100 'polearm'
+Sk 1 'bash'
+Sk 95 'hand to hand'
+Sk 100 'dodge'
+Sk 100 'second attack'
+Sk 83 'fast healing'
+Sk 80 'haggle'
+Sk 99 'meditation'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 95 'spellcraft'
+Sk 75 'create zombie'
+Sk 1 'metamorph'
+Sk 92 'multiburst'
+Sk 75 'divine wrath'
+Sk 75 'brew'
+Sk 75 'scribe'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'beguiling'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'cleric transport'
+Gr 'weather'
+Affc 'bless'   0  87  12 -12  20          0
+Affc 'bless'   0  91  12  25  18          0
+End
+
+#O
+Vnum 6739
+Nest 0
+ExtF 17301569
+Cond 0
+Wear 9
+Cost 20000
+Val  37 37 37 37 19
+End
+
+#O
+Vnum 6730
+Nest 0
+ExtF 524353
+Cond 0
+Wear 2
+Cost 25000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6730
+Nest 0
+ExtF 524353
+Cond 0
+Wear 1
+Cost 25000
+Val  61 61 61 61 0
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6734
+Nest 0
+Cond 0
+Wear 17
+Cost 8000
+End
+
+#O
+Vnum 6738
+Nest 0
+ExtF 524353
+Cond 0
+Wear 11
+Cost 15000
+Val  68 68 68 68 0
+End
+
+#O
+Vnum 6718
+Nest 0
+ExtF 17301571
+Cond 0
+Wear 5
+Cost 65000
+Val  81 81 81 81 1
+End
+
+#O
+Vnum 6724
+Nest 0
+ExtF 524355
+Cond 0
+Wear 13
+Cost 22500
+Val  62 62 62 62 0
+End
+
+#O
+Vnum 20428
+Nest 0
+ExtF 285212673
+Cond 0
+Wear 20
+Cost 302750
+End
+
+#O
+Vnum 31242
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+Val  8 21 18 34 109
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'psharp blade'   5   0  -1   0   0          8
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 6726
+Nest 0
+ExtF 524355
+Cond 0
+Wear 12
+Cost 25000
+Val  81 81 81 81 0
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 6708
+Nest 0
+ExtF 524353
+Cond 0
+Wear 18
+Cost 500000
+Val  6 6 6 6 0
+End
+
+#O
+Vnum 6736
+Nest 0
+ExtF 17301571
+Cond 0
+Wear 8
+Cost 50000
+Val  62 62 62 62 1
+End
+
+#O
+Vnum 6722
+Nest 0
+ExtF 17301570
+Cond 0
+Wear 7
+Cost 30000
+Val  70 70 70 70 0
+End
+
+#O
+Vnum 6799
+Nest 0
+ExtF 524609
+Cond 0
+Wear 10
+Cost 10000
+Val  68 68 68 68 0
+End
+
+#O
+Vnum 6732
+Nest 0
+ExtF 524610
+Cond 0
+Wear 15
+Cost 55000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6732
+Nest 0
+ExtF 524610
+Cond 0
+Wear 14
+Cost 55000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 25421
+Nest 0
+ExtF 285212739
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 6782
+Nest 0
+Cond 0
+Wear 16
+Cost 20000000
+End
+
+#PET
+Vnum 5
+Name zombie~
+LogO 1155353970
+Sex  0
+Levl 100
+HMV  11590 11590 622 622 100 100
+Act  AI
+AfBy DFJSZac
+Comm W
+Pos  8
+Hit  450
+Dam  128
+ACs  -525 -525 -525 -212
+Attr 53 53 53 53 53
+AMod 0 0 0 0 0
+End
+#END

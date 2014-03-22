@@ -1,0 +1,1856 @@
+#AREADATA
+Name Olympus~
+Builders Gen/Kand~
+VNUMs 900 999
+Credits 120 - 150~
+Security 5
+Flags F
+LEVELs 105 150
+End
+
+
+
+#MOBILES
+#901
+zeusmob god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+Human~
+ABCGQ DNVe 1000 0
+0
+150 65 100d50+20000 2d50+50 4d45+250 crush
+-120 -120 -120 -120
+CEFHIK BO DK P
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#902
+prometheusmob~
+Prometheus~
+Prometheus is here, playing with a match.
+~
+This mortal risked the wrath of Zeus to give the gift of fire to humans.  He
+looks up at you and smiles.
+~
+Human~
+ABGT DHNV 0 0
+0
+137 50 30d50+18000 2d50+50 16d10+226 punch
+-119 -119 -119 -119
+DEFKN H EJO I
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#903
+hermesmob~
+Hermes~
+Hermes is busy, delivering a message.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+Human~
+ABCGS DFHNQTV 500 0
+0
+150 65 100d50+18000 2d50+50 4d47+225 stab
+-118 -118 -118 -118
+BEFJNU BLMO FOQ K
+stand stand male 4000
+AHMV ABCDEFGHIJKMV medium unknown
+#904
+poseidonmob~
+Poseidon~
+Poseidon looks around thoughtfully.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+Human~
+ABCGQ FNe 400 0
+0
+145 40 40d50+17000 2d50+50 2d70+223 slap
+-119 -119 -119 -119
+EFIJKN F ORT S
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#905
+apollomob~
+Apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is happily teaching music.  He smiles and indicates
+that you sit down and join in.  
+~
+Human~
+ABGQ HNV 1000 0
+0
+139 30 50d30+17000 2d50+50 3d50+225 punch
+-115 -115 -115 -115
+EFHKN EP FK C
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#906
+aresmob war~
+Ares~
+Ares is studying some maps here.
+~
+The God of War is here, studying some maps.  He scowls at you as you enter
+and says 'I am very busy.  What do you want?'
+~
+Human~
+ABFGT DOVe -1000 0
+0
+150 55 70d50+18000 2d50+50 33d4+225 punch
+-115 -115 -115 -115
+BDEFHJKN BI DFG P
+stand stand male 10000
+AHMV ABCDEFGHIJKMV large unknown
+#907
+athenamob~
+Athena~
+Athena is relaxing here.
+~
+Zeus' favorite daughter is sitting on a couch eating grapes.  She smiles at
+you and invites you to join her.
+done
+~
+Human~
+ABCGR DHNV 1000 0
+0
+138 45 50d50+17000 2d50+50 23d6+220 magic
+-112 -112 -112 -112
+EFIKN B GOP E
+stand stand female 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#908
+hephaestusmob smith blacksmith~
+Hephaestus~
+Hephaestus the Smith is here, crafting a fine shield.
+~
+This God is the only one who is not physically perfect.  He is lame and very
+ugly.  You get the impression that he is kind, however, and would go out of his
+way to help you.  He is attended by two golden maidens.
+~
+Human~
+ABGT DHN 1000 0
+0
+145 55 40d50+17000 2d50+50 5d34+220 beating
+-115 -115 -115 -115
+CEFJKN E DH I
+stand stand male 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#909
+handmaid golden girl~
+A Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+Human~
+ABGS DNV 0 0
+0
+120 0 25d10+11750 2d50+50 3d37+176 slap
+-89 -89 -89 -89
+BEFIKU 0 H P
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#910
+soldier~
+a soldier~
+A soldier is here, assisting Ares.
+~
+This man is waiting on Ares.  Although he does not look very strong, you
+realize that Ares would not have any weaklings working for him.
+~
+Human~
+ABCGT DO -750 0
+0
+120 30 25d10+13750 2d50+50 4d31+200 crush
+-105 -105 -105 -105
+EFKLNU 0 E H
+stand stand male 2000
+AHMV ABCDEFGHIJKMV large unknown
+#911
+musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+Human~
+ABCGT N 700 0
+0
+105 15 25d10+12000 2d50+50 4d28+178 none
+-90 -90 -90 -90
+DEFKNU 0 I T
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#912
+boy serving servant~
+A serving boy~
+A servant is here, feeding Athena her grapes.
+~
+This boy is truly lucky to be able to serve Athena herself.
+~
+Human~
+ABCGO N 0 0
+0
+107 15 25d1+12500 2d50+50 2d58+183 punch
+-95 -95 -95 -95
+EFKNU 0 E I
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#913
+hound dog war~
+A hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+Human~
+ABFT DO -600 0
+0
+110 20 25d10+13250 2d50+50 6d20+195 bite
+-100 -100 -100 -100
+EFKNU 0 E T
+stand stand either 0
+AHMV ABCDEFGHIJKMV large unknown
+#914
+odinmob~
+Odin~
+Odin is resting here.
+~
+As you gaze at Odin, you realize how insignificant you truly are.  He towers
+over you, and is so intent on his activities that he barely recognizes your
+presence.
+~
+Human~
+ABGO FNVe 0 0
+0
+140 55 40d50+18000 2d50+50 3d66+215 punch
+-110 -110 -110 -110
+CEFIKN JO GST I
+stand stand male 5000
+AHMV ABCDEFGHIJKMV giant unknown
+#915
+grocer greengrocer juliusmob shopkeeper ~
+Julius the Green Grocer~
+Julius the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+Human~
+ABGT DFHN 1000 0
+0
+150 0 25d10+15625 2d50+50 2d72+228 punch
+-120 -120 -120 -120
+EFNU ABCDLQ 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#916
+alchemist~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy,
+he stands ready to supply the citizens with a wide selection of arcane
+supplies.  
+~
+Human~
+ABGT HN 1000 0
+0
+150 0 25d10+15750 2d50+50 2d72+228 punch
+-120 -120 -120 -120
+EFKNU ABCDLQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#917
+clivemob shopkeeper~
+Clive the Weapons Master~
+Clive the Weapons Master nods as you enter.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+Human~
+ABGT HN 1000 0
+0
+50 0 50d10+4500 25d9+100 5d8+19 slap
+-20 -20 -20 3
+EFNU ABCDLQ 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#918
+armourer samuelmob~
+Samuel the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+Human~
+ABG HN 1000 0
+0
+150 100 50d50+2000 17d9+100 100d10+500 punch
+-11 -11 -11 5
+EFNU ABCDLQ 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#919
+ramob sun god~
+Ra the Sun God~
+{yRa {xthe Egyptian {YSun{x God is resting here.
+~
+Ra is very bright!  It hurts your eyes to look at him, so you can tell little
+about his appearance.  What you can tell, however, suggests that he is no one
+to be trifled with.
+~
+Human~
+ABGT FOVe -700 0
+0
+145 60 70d50+18000 2d50+50 20d8+225 shbite
+-110 -110 -110 -110
+CDEFKN HX LNOSZ I
+stand stand male 5000
+AGHMV ABCDEFGHIJKMV medium unknown
+#920
+chimera~
+a chimera~
+A ferocious looking chimera prowls around.
+~
+This bizarre creature has three heads - one of a goat, one of a lion
+and one of a dragon.  It growls throatily at you as you enter the room.  
+~
+Human~
+ABCFGR DOV -850 0
+0
+110 10 25d10+13625 2d50+50 4d31+198 flbite
+-104 -104 -104 -104
+EFKN 0 H I
+stand stand male 4000
+AHMV ABCDEFGHIJKMV large unknown
+#921
+heramob~
+Hera~
+Hera smiles beautifically at you.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+Human~
+ABGQ DNVe 800 0
+0
+140 55 40d50+16000 2d50+50 3d66+220 slap
+-110 -110 -110 -110
+EFHIJK BI DK T
+stand stand female 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#922
+rocmob~
+a roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+song bird~
+ABCGS FOT -500 0
+0
+105 12 25d10+13000 2d50+50 2d61+193 claw
+-99 -99 -99 -99
+EFHKNU 0 I H
+stand stand either 250
+AGHMVW ABCDEFGHIJKPW medium unknown
+#923
+citizen resident~
+A citizen~
+A citizen of this town strolls by.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+Human~
+ACGT FN 700 0
+0
+110 0 25d10+12000 2d50+50 4d28+178 punch
+-90 -90 -90 -90
+DEFHJKU 0 OS P
+stand stand male 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#924
+pegasus horse~
+a pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+Human~
+ABCGT DHNT 600 0
+0
+130 20 40d40+15000 2d50+50 8d25+200 bite
+-100 -100 -100 -100
+CFJKU 0 H T
+stand stand either 2000
+AGHMV ABCDEFGHIJKMQV medium unknown
+#925
+cook chef~
+a cook~
+A cook is here, hard at work.
+~
+This man looks as is he has been spending WAY too much time in the kitchen.
+~
+Human~
+ABCGS IO 0 0
+0
+120 10 25d10+12375 2d50+50 6d19+185 scratch
+-94 -94 -94 -94
+EFKNU 0 G C
+stand stand male 3500
+AHMV ABCDEFGHIJKMV medium unknown
+#926
+jailer~
+The Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+Human~
+ABFGR DHOV -500 0
+0
+135 40 40d50+15500 2d50+50 3d63+230 beating
+-104 -104 -104 -104
+CEFHJKN 0 DI H
+stand stand male 3000
+AHMV ABCDEFGHIJKMV huge unknown
+#0
+
+
+
+#OBJECTS
+#900
+aegis breast plate~
+the {CA{cegis{x~
+A powerful breast plate has been left here.~
+DIVINE_ELEM armor GIL AD
+BDE BDE BDE BCD 0
+90 200 8400 P
+A
+13 100
+A
+12 60
+A
+18 45
+A
+1 -2
+A
+3 2
+#901
+thunderbolt lightning bolt~
+the Thunder Bolt~
+The thunder bolt looks mighty heavy.~
+STELLAR_ELEM weapon GL AN
+sword 15 16 shock G
+100 190 6000 P
+A
+18 50
+A
+19 33
+A
+2 -2
+A
+1 3
+#902
+helmet winged~
+a {Mwinged {yhelmet{x~
+A {yhelmet{x with small {Mwings{x lies here.~
+HIGH_STEEL armor AGI AE
+DE DE DE ACD 0
+85 50 7300 P
+A
+12 57
+A
+2 2
+A
+20 -10
+#903
+spear ares~
+the spear of {RAres{x~
+A wicked spear glints here.~
+DIVINE_ELEM weapon AG AN
+spear 12 17 thrust H
+85 180 7000 P
+A
+13 57
+A
+18 43
+A
+19 28
+#904
+sandals winged~
+a pair of {Cwinged {ysandals{x~
+A pair of well made {ysandals{x lies here.~
+HIGH_LEATHER armor BG AG
+DE DE DE ACD 0
+85 50 3000 P
+A
+19 28
+A
+18 43
+A
+12 57
+#905
+staff ivory~
+an ivory staff~
+An ivory staff.~
+BONE staff G AO
+100 10 7 'sanctuary' 0
+100 80 20000 P
+A
+12 50
+#906
+trident poseidon~
+poseidon's Trident~
+{BPoseidon{C'{Bs {xT{Wr{Di{bd{Be{cn{Ct{x looks huge and unwieldy.~
+DIVINE_ELEM weapon ABGIL AN
+polearm 18 22 thrust CDF
+95 160 5700 P
+A
+19 40
+A
+4 6
+A
+18 43
+#907
+bow silver~
+a {Wsilver{x bow~
+A {Wsilver{x bow.~
+SILVER weapon ABG AN
+exotic 17 22 pierce F
+95 150 10300 P
+A
+19 50
+A
+18 50
+#908
+gauntlets flaming~
+a pair of {rf{Rl{Ya{ym{Yi{Rn{rg {xgauntlets~
+A pair of metal gauntlets flame here.~
+FIRE_OPAL armor G AH
+CE ABCE BDE BCD 0
+95 60 4000 P
+A
+19 32
+A
+4 -1
+A
+12 -50
+A
+13 100
+#909
+vial potion ambrosia~
+{Cambrosia{x~
+A vial of {Cambrosia{x lies here.~
+SELECT_A_MATERIAL potion GIc A
+101 'displacement' 'cell adjustment' 'ectoplasmic form' ''
+100 10 4500 P
+#910
+necklace glowing~
+a {Yg{xl{yo{xw{Yi{xn{yg {xnecklace~
+A necklace with an inner {Yg{xl{yo{xw sparkles radiantly.~
+DIVINE_ELEM jewelry GIK AC
+0 0 0 0 0
+80 20 12000 P
+A
+12 25
+A
+18 12
+A
+20 -10
+#911
+ring sapphire~
+a {bsapphire{x ring~
+A {bsapphire{x ring {Cglitters {xand {Ydazzles {xyou.~
+SAPPHIRE jewelry AGI AB
+0 0 0 0 0
+68 10 6900 P
+A
+3 3
+A
+12 45
+A
+19 5
+#912
+shield glowing~
+a {Ybrightly {Cglowing {cshield{x~
+A shield lies here, filling the room with its aura.~
+DIVINE_ELEM armor GI AJ
+DE DE DE ACD 0
+85 100 7000 P
+A
+12 57
+A
+13 57
+A
+5 4
+#913
+axe notched~
+a {Dnotched {Waxe{x~
+A {Dnotched {Waxe{x.~
+MET_GENERIC weapon BGL AN
+axe 25 7 chop A
+90 120 7000 P
+A
+18 5
+A
+19 15
+A
+12 150
+#914
+grapes~
+a bunch of {mgrapes{x~
+A bunch of {mgrapes{x.~
+ORGANIC pill A AO
+40 'armor' '' '' ''
+75 10 100 P
+#915
+fan feathers~
+a {Cfan {xmade of {Bpe{Gac{goc{mk {Cfeathers{x~
+A {Cfan {xmade of {Bpe{Gac{goc{mk {Cfeathers{x.~
+ORGANIC armor B AJ
+BCE BCE BCE CD 0
+73 15 3000 P
+A
+13 50
+A
+12 50
+A
+19 10
+#916
+lute~
+a {ylute{x~
+A {ylute{x.~
+UNKNOWN wand B AO
+75 10 10 'gas breath' 0
+72 10 2000 P
+#917
+nugget gold~
+a {Ygold {ynugget{x~
+A {Ygold{y nugget {xlies gleaming here.~
+GOLD treasure ABW A
+0 0 0 0 0
+100 50 10000 P
+#918
+apple~
+an {Rapple{x~
+An {Rapple{x is here.~
+ORGANIC food 0 A
+CE CE 0 0 0
+40 10 340 P
+#919
+pear~
+a {gpear{x~
+A {gpear{x is here.~
+ORGANIC pill 0 A
+50 'cure poison' 'cure disease' '' ''
+40 10 530 P
+#920
+orange~
+an {yorange{x is here.~
+A orange is here.~
+ORGANIC pill 0 A
+50 'armor' 'protection evil' 'refresh' ''
+40 10 340 P
+#921
+plum~
+a {mplum{x~
+A juicy {mplum{x.~
+ORGANIC food 0 A
+CDEF CDEF 0 0 0
+40 10 200 P
+#922
+amulet~
+the {YAmulet{x of {yRa{x~
+A {Ysun{x shaped medallion is lying here.~
+GOLD jewelry GI AC
+0 0 0 0 0
+82 10 4900 P
+A
+12 -75
+A
+18 15
+A
+1 -5
+A
+13 100
+#923
+sun sword~
+the Sword of the Sun~
+A beautiful sword with the rising sun etched on the pommel is lying here.~
+FIRE_ELEM weapon AGI AN
+sword 21 8 slash A
+80 75 6800 P
+A
+20 -15
+A
+17 -50
+A
+12 50
+A
+13 50
+A
+18 8
+#924
+robe blue~
+a {Bblue{x robe~
+A {bdeep{B blue {xrobe shimmers slightly.~
+CLOTH armor ABG AK
+BCE BCE BCE CD 0
+75 100 3500 P
+A
+13 50
+A
+12 50
+A
+17 -50
+#925
+widebrimmed hat~
+a {Cw{cide {Cb{crimmed {Chat{x~
+A {Cw{cide {Cb{crimmed {Chat{x is here.~
+CLOTH armor GHI AE
+DE DE DE ACD 0
+80 50 2500 P
+A
+12 130
+A
+13 50
+A
+18 10
+#926
+nectar vial potion~
+{Ynectar{x~
+A vial of {Ynectar{x looks delicious. ~
+GLASS potion Ab A
+101 'armor' 'giant strength' 'haste' ''
+100 10 3000 P
+#927
+key cell~
+a Cell key~
+A key has been left here.~
+BRASS key A A
+0 0 0 0 0
+120 10 0 P
+#928
+map olympus secret~
+a secret map of Olympus~
+A rolled up map is here.~
+ORGANIC map 0 A
+A 0 0 0 0
+100 10 500 P
+E
+map olympus secret~
+.
+                              The Secret Map Of
+                               *****OLYMPUS*****
+ 
+                                   (Hermes)
+                                   Bedroom    The Portal
+                                      |           |
+                                   Northern  Hall of Gods
+                                     Hall    /
+                        Western       |    /    Eastern
+              Bedroom----Hall----Second Floor----Hall----Bedroom
+              (Hera)            /     |                 (Poseidon)
+                         Stairway  Southern
+          (Prometheus)       |       Hall                    North
+              Cell    /Throne Room    |                        |  /Up
+                |   /     (Zeus)   Bedroom                     |/
+       Cell-Dungeon-Cell     |                          West---+---East
+  (Chimera)(Jailor)(Chimera) |                                /|
+                             |                          Down/  |
+                  Kitchen    |     Stable                    South
+        (Odin)       |       |       |       (Ra)
+        Guest     Western  Castle  Eastern   Guest      ()Mob Location
+       Quarters----Wing----Entry----Wing----Quarters
+                     |       |       |
+                  Storage   Z|   Storage Room
+                   Room     e|
+                            u|  Believer
+                            s|     |    (Hephaestus)
+                             |  Planning---Smithy
+                            S|  Room(Ares)   |
+                            t|               |  (Clive)
+                 (Alchemist) +--Ares Street--+--Weapon
+                    Mystery  |               |   Shop
+                    Shop-----+               |
+                             |            Armoury
+                   Residence-+-Residence  (Samuel)
+                   (Apollo)  |  (Athena)
+                             |
+             (Julius)Bakery--+
+                             |
+                       **Entrance**
+                            /
+                      Mountain
+~
+#929
+antiquities gold riches~
+a pile of {yantiquities{x~
+A huge mound of {yantiquities{x.~
+GOLD treasure AB A
+0 0 0 0 0
+130 200 25000 P
+#930
+black diamond shard legend~
+{Da legendary {wblack-diamond {Dshard{x~
+A legendary quest shard lies here.~
+EMERALD gem CT AO
+0 0 0 0 0
+94 3 50 P
+E
+pickupmessage~
+You just found your Level {C94 {xLegendary Shard! You can now advance to Level {C95{x!
+~
+#0
+
+
+
+#ROOMS
+#901
+{MMountain{x~
+The trail winds steeply upwards, making it so you have to half climb. Between the
+twists and turns in the path you think you see a gateway somewhere far up ahead...
+~
+0 0 6
+D2
+~
+~
+0 0 325
+D4
+~
+~
+0 -1 902
+C 0
+S
+#902
+{MMountain{x~
+You are on a mountain which towers over Ofcol.  The air is getting
+thinner up here which makes it harder to breathe.  The vegetation is
+getting sparser but with every step, the view gets better.  
+~
+0 4 6
+D4
+~
+~
+0 -1 903
+D5
+~
+~
+0 -1 901
+C 0
+S
+#903
+{MMountain{x~
+This is the top of the mountain.  The air here is really thin making
+it hard to take breaths.  To the north are the imposing gates of a city. 
+~
+0 0 6
+D0
+~
+~
+0 -1 904
+D5
+~
+~
+0 -1 902
+C 0
+S
+#904
+{MEntrance{x~
+This is the entrance to a city.  The gates are very impressive from
+here, with gold and silver panels.  It would be tempting to scrape some
+of that gold off but the Gods might not appreciate that.  The path
+through the gates leads north.  
+~
+0 4 2
+D0
+~
+~
+0 -1 905
+D2
+~
+~
+0 -1 903
+C 0
+S
+#905
+{MZeus Street{x~
+This is the beginning of an impressive street.  There is a heavy air
+of silence and power hanging over the city, it seems.  Everywhere is
+spotlessly clean and the citizens immaculately tailored.  On a corner, is
+a sign marked 'Zeus Street'.  To the west lies a small store.  
+~
+0 0 2
+D0
+The street continues.
+~
+~
+0 -1 906
+D2
+~
+~
+0 -1 904
+D3
+~
+~
+0 -1 924
+C 0
+S
+#906
+{MZeus Street{x~
+This is the main street of the city.  Large impressive residences lie
+to the east and west, and the street continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 -1 907
+D1
+There is a large impressive residence to the east.  
+~
+~
+1 -1 925
+D2
+The street continues.
+~
+~
+0 -1 905
+D3
+~
+~
+1 -1 926
+C 0
+S
+#907
+{MZeus Street{x~
+This is the main thoroughfare of this town, called Zeus Street.  The
+whole area is immaculately clean and the buildings are in mint condition.
+There is a store to the west and the street continues north and south.  
+~
+0 0 2
+D0
+~
+~
+0 -1 908
+D2
+~
+~
+0 -1 906
+D3
+~
+~
+0 -1 927
+C 0
+S
+#908
+{MZeus Street{x~
+This is Zeus Street, the main thoroughfare of the town.  To the north,
+lies a large castle.  A small road lies to the east.  
+~
+0 0 2
+D0
+~
+~
+1 -1 909
+D1
+~
+~
+0 -1 928
+D2
+~
+~
+0 -1 907
+C 0
+S
+#909
+{MCastle Entryway{x~
+This is the large and impressive entryway of the castle.  It is
+intricately carved and quite exquisite, with ornate tapestries and swords
+hanging on the walls.  The flagstones echo under your feet and jovial
+laughter can be heard to the north, while smaller corridors branch off to
+the east and west.  
+~
+0 8 1
+D0
+~
+~
+0 -1 910
+D1
+~
+~
+0 -1 915
+D2
+~
+~
+1 -1 908
+D3
+~
+~
+0 -1 911
+C 0
+S
+#910
+{MThrone Room{x~
+This magnificent room houses the almighty throne of Zeus.  It is a
+majestic chair covered in gilt and jewels.  Tapestries cover the walls
+and luxurious carpets line the flagstones.  The throne itself barely
+hides distinct markings on the floor.  
+~
+0 8 1
+E
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+E
+markings~
+The markings on the floor look like the throne has been dragged
+backwards and forwards a few times.  
+~
+D0
+~
+~
+0 -1 923
+D2
+~
+~
+0 -1 909
+D5
+~
+throne trapdoor~
+1 -1 918
+C 0
+S
+#911
+{MWestern Wing{x~
+This is the western wing of the castle.  The entrance lies to the east
+and this hallway continues to the west.  
+~
+0 8 1
+D1
+~
+~
+0 -1 909
+D3
+~
+~
+0 -1 912
+C 0
+S
+#912
+{MWestern Wing{x~
+This is the western wing of the castle.  The hallway continues to the
+north and there are rooms to the west and south.  
+~
+0 8 1
+D0
+~
+~
+0 -1 913
+D1
+~
+~
+0 -1 911
+D2
+~
+~
+1 -1 930
+D3
+~
+~
+1 -1 929
+C 0
+S
+#913
+{MWestern Wing{x~
+This is the western wing of the castle.  This hallway continues to the
+south.  The sound of pots and pans rattling can be heard to the north.  
+~
+0 8 1
+D0
+~
+door~
+1 -1 914
+D2
+~
+~
+0 -1 912
+C 0
+S
+#914
+{MKitchen{x~
+This is the kitchen of the castle.  It is a hotbed of activity with
+pots and pans bubbling away on the stoves and food in the midst of
+preparation on the worktops.  
+~
+0 8 1
+D2
+~
+~
+1 -1 913
+C 0
+S
+#915
+{MEastern Wing{x~
+This is the eastern wing of the castle.  The hall continues to the
+east with the entrance to the west.  
+~
+0 8 1
+D1
+~
+~
+0 -1 916
+D3
+~
+~
+0 -1 909
+C 0
+S
+#916
+{MEastern Wing{x~
+This is the eastern wing of the castle.  The hall turns a corner to
+the north, with rooms to the east and south.  
+~
+0 8 1
+D0
+~
+~
+0 -1 917
+D1
+~
+~
+1 -1 931
+D2
+~
+~
+1 -1 932
+D3
+~
+~
+0 -1 915
+C 0
+S
+#917
+{MEastern Wing{x~
+This is the eastern wing of the castle.  The sounds of animals can be
+heard to the north.  The hallway continues to the south.  
+~
+0 8 1
+D0
+~
+~
+1 -1 933
+D2
+~
+~
+0 -1 916
+C 0
+S
+#918
+{MDungeon{x~
+This is Zeus' dungeon.  Torches line the walls lending a flickering
+light which illuminates the dank and dark hallway.  
+~
+0 8201 1
+D0
+~
+~
+0 -1 919
+D4
+~
+trapdoor throne~
+1 -1 910
+C 0
+S
+#919
+{MDungeon{x~
+These are Zeus' dungeons.  There are cells to the north, west and
+east.  To the east and west, guttural noises can be heard.  A deep
+pervading silence rolls in from the north.....  
+~
+0 9 0
+D0
+~
+cell~
+2 927 920
+D1
+~
+cell~
+2 927 922
+D2
+~
+~
+0 -1 918
+D3
+~
+cell~
+2 927 921
+C 0
+S
+#920
+{MCell{x~
+This is a tiny, cramped and dirty cell.  It reeks of rotting flesh and
+dank water.  
+~
+0 9 1
+D2
+~
+~
+2 927 919
+C 0
+S
+#921
+{MCell{x~
+This is a tiny, cramped and dirty cell.  It reeks of rotting flesh and
+dank water.  
+~
+0 9 1
+D1
+~
+~
+2 927 919
+C 0
+S
+#922
+{MCell{x~
+This is a tiny, cramped and dirty cell.  It reeks of rotting flesh and
+dank water.  
+~
+0 9 1
+D3
+~
+~
+2 927 919
+C 0
+S
+#923
+{MStairway{x~
+There is a large set of grandiose stairs here.  They lead upwards.  To
+the south lies the throne room of Zeus.  
+~
+0 8 1
+D2
+~
+~
+0 -1 910
+D4
+~
+~
+0 -1 939
+C 0
+S
+#924
+{MGrocer's Shop{x~
+This is the homely grocers shop.  Shelves of fresh fruit lie awaiting
+your choice, looking ripe and juicy.  The aroma in here is crisp and
+fresh.  
+~
+0 8 1
+D1
+~
+~
+0 -1 905
+C 0
+S
+#925
+{MResidence{x~
+This is the residence of one of the more important inhabitants of this
+town.  The room is filled with grandeur and positively oozes charm and
+luxury.  
+~
+0 8 1
+D3
+~
+~
+1 -1 906
+C 0
+S
+#926
+{MResidence{x~
+This is the residence of one of the more important inhabitants of the
+town.  Impressive paintings adorn the walls and gilt edged furniture lies
+scattered around the room.  
+~
+0 8 1
+D1
+~
+~
+1 -1 906
+C 0
+S
+#927
+{MMystic Shop{x~
+This shop is shrouded in mystery and suspense.  It is filled with
+arcane treasures.  
+~
+0 8 1
+D1
+~
+~
+0 -1 907
+C 0
+S
+#928
+{MAres Street{x~
+This is a smaller road which branches off from the main street of the
+town.  A sign declares this street to be called 'Ares Street'.  
+~
+0 8 2
+D1
+~
+~
+0 -1 934
+D3
+~
+~
+0 -1 908
+C 0
+S
+#929
+{MGuest Quarters{x~
+These are the private quarters reserved for visitors to the castle. 
+Plush carpets lie on the flagstones and comfortable looking chairs are
+scattered around the room.  
+~
+0 8 1
+D1
+~
+door~
+1 -1 912
+C 0
+S
+#930
+{MStorage Room{x~
+This is a storage room.  There isn't much here, just a few boxes
+filled with old junk.  
+~
+0 8 1
+D0
+~
+door~
+1 -1 912
+C 0
+S
+#931
+{MGuest Quarters{x~
+This room is reserved for visitors to the castle.  They wait in here
+until they are summoned to visit with Zeus.  
+~
+0 8 1
+D3
+~
+~
+1 -1 916
+C 0
+S
+#932
+{MStorage Room{x~
+This is the storage room of the castle.  There doesn't seem to be much
+else here but a lot of dust.  
+~
+0 8 1
+D0
+~
+door~
+1 -1 916
+C 0
+S
+#933
+{MStable{x~
+These are the stables belonging to the castle.  Straw and hay line the
+stalls and there are hay nets and troughs filled with fresh water for
+drinking.  
+~
+0 8 1
+D2
+~
+~
+1 -1 917
+C 0
+S
+#934
+{MAres Street{x~
+This is the end of Ares Street.  To the south lies an armoury, to the
+west lies a weaponry and to the north, loud clangs and bangs seem to
+indicate that there is a blacksmith's.  
+~
+0 8 2
+D0
+~
+~
+0 -1 937
+D1
+~
+~
+0 -1 936
+D2
+~
+~
+0 -1 935
+D3
+~
+~
+0 -1 928
+C 0
+S
+#935
+{MArmoury{x~
+This tiny shop is almost empty.  The shelves are almost bare and the
+shopkeeper looks balefully at you.  
+~
+0 8 1
+D0
+~
+~
+0 -1 934
+C 0
+S
+#936
+{MWeapon Shop{x~
+This is quite a small store with only a modest selection of weapons. 
+The shopkeeper doesn't look like he is in the best of moods.  Better
+watch your back!  
+~
+0 8 1
+D3
+~
+~
+0 -1 934
+C 0
+S
+#937
+{MSmithy{x~
+This large room is filled with the busy workings of a bustling smithy.
+Fires burn and various tools hang on the walls in the process of being
+crafted or in a state of readiness.  There is a strange glow coming from
+the west wall.  
+~
+0 8 1
+D2
+~
+~
+0 -1 934
+D3
+You see a concealed door!
+~
+door concealed~
+1 -1 938
+C 0
+S
+#938
+{MThe Planning Room{x~
+This is a large room dominated by a huge table in the centre of the
+room.  There is a large map spread out on the table.  The sound of
+barking dogs can be heard to the north.  
+~
+0 9 1
+D0
+~
+~
+0 -1 954
+D1
+~
+~
+0 -1 937
+C 0
+S
+#939
+{MSecond Floor{x~
+This is the second floor of the castle.  The hallway extends in all
+directions and up above lies a small hatchway.  Paintings adorn the walls
+and the carpet underfoot is rich, deep and luxuriant.  
+~
+0 8 1
+D0
+~
+~
+0 -1 940
+D1
+~
+~
+0 -1 943
+D2
+~
+~
+0 -1 941
+D3
+~
+~
+0 -1 942
+D4
+~
+hatch~
+1 0 948
+D5
+~
+~
+0 -1 923
+C 0
+S
+#940
+{MNorthern Hall{x~
+This is the northern hallway.  There is a room to the north and the
+staircase which leads to the ground floor, lies to the south.  
+~
+0 8 1
+D0
+~
+~
+1 -1 947
+D2
+~
+~
+0 -1 939
+C 0
+S
+#941
+{MSouthern Hall{x~
+This is the southern hallway.  There is a room to the south, and the
+staircase leading down to the ground floor, lies to the north.  
+~
+0 8 1
+D0
+~
+~
+0 -1 939
+D2
+~
+~
+1 -1 944
+C 0
+S
+#942
+{MWestern Hall{x~
+This is the western hallway.  There is a room to the west, and the
+staircase leading to the ground floor lies to the east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 939
+D3
+~
+~
+1 -1 945
+C 0
+S
+#943
+{MEastern Hall{x~
+This is the eastern hallway.  There is a room to the east and the
+stairs lie to the west.  
+~
+0 8 1
+D1
+~
+~
+1 -1 946
+D3
+~
+~
+0 -1 939
+C 0
+S
+#944
+{MBedroom{x~
+This is an elaborately decorated bedroom.  Fine artifacts hang on the
+walls, delicate furniture lays around the room and a luxuriant carpet
+covers the floor.  The four poster bed is the most outstanding feature in
+the room.  It is heavily ornate with richly brocaded covers and canopy.  
+~
+0 520 1
+D0
+~
+door~
+1 -1 941
+C 0
+S
+#945
+{MBedroom{x~
+This is an elaborately decorated bedroom.  Fine paintings hang on the
+walls, delicate furniture lays around the room and a luxuriant carpet
+covers the cold flagstones.  The four poster bed is the most outstanding
+feature in the room, with richly brocaded tapestry covers and canopy.  
+~
+0 8 1
+D1
+~
+door~
+1 -1 942
+C 0
+S
+#946
+{MBedroom{x~
+This is an elaborately decorated bedroom.  Fine paintings hang on the
+walls, exquisite furniture lays around the room and a plush carpet covers
+the floor.  The bed is the most outstanding feature in the room.  It is a
+four poster with ornate bed posts and canopy.  
+~
+0 8 1
+D3
+~
+door~
+1 -1 943
+C 0
+S
+#947
+{MBedroom{x~
+This is an elaborately decorated bedroom.  Fine tapestries hang on the
+walls, gilt furniture lays around the room and a deep pile carpet covers
+the cold stone floor.  The four poster bed is the most outstanding
+feature in the room.  It is heavily ornate with richly brocaded canopy
+and curtains.  
+~
+0 8 1
+D2
+~
+door~
+1 -1 940
+C 0
+S
+#948
+{MHall of Gods{x~
+This is the most sacred of places, the hall of Gods.  The air
+practically fizzes with power and might and there is a heavy silence
+which pervades the room.  It would probably be a good time to leave ... 
+Right NOW!  
+~
+0 8 1
+D0
+~
+~
+0 -1 951
+D5
+~
+~
+1 0 939
+C 0
+S
+#951
+{MTreasure Room{x~
+This ante-chamber is filled with all the riches and antiquities of the
+castle.  It is a veritable hoard!  Better leave before you get caught!  
+~
+0 8 1
+D2
+~
+~
+0 -1 948
+C 0
+S
+#954
+{MKennels{x~
+These are the kennels where the guard dogs sleep.  
+~
+0 8 1
+D2
+~
+~
+0 -1 938
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 902 spec_breath_fire
+M 903 spec_thief
+M 904 spec_cast_mage
+M 909 spec_thief
+M 912 spec_cast_undead
+M 914 spec_cast_undead
+M 919 spec_breath_any
+M 920 spec_breath_fire
+M 922 spec_thief
+M 924 spec_breath_frost
+M 925 spec_nasty
+S
+
+
+
+#RESETS
+D 0 906 1 1
+D 0 906 3 1
+D 0 908 0 1
+D 0 909 2 1
+D 0 910 5 1
+D 0 912 2 1
+D 0 912 3 1
+D 0 913 0 1
+D 0 914 2 1
+D 0 916 1 1
+D 0 916 2 1
+D 0 917 0 1
+D 0 919 0 2
+D 0 919 1 2
+D 0 919 3 2
+D 0 920 2 2
+D 0 921 1 2
+D 0 922 3 2
+D 0 925 3 1
+D 0 926 1 1
+D 0 929 1 1
+D 0 930 0 1
+D 0 931 3 1
+D 0 932 0 1
+D 0 933 2 1
+D 0 937 3 1
+D 0 939 4 1
+D 0 940 0 1
+D 0 941 2 1
+D 0 942 3 1
+D 0 943 1 1
+D 0 944 0 1
+D 0 945 1 1
+D 0 946 3 1
+D 0 947 2 1
+D 0 948 5 1
+M 0 923 10 905 2
+M 0 923 10 905 2
+M 0 923 10 906 2
+M 0 923 10 906 2
+M 0 923 10 907 1
+M 0 923 10 908 1
+M 0 901 1 910 1
+E 0 900 0 5
+E 0 901 0 16
+G 0 926 0
+G 0 909 0
+M 0 925 4 914 4
+M 0 925 4 914 4
+M 0 925 4 914 4
+M 0 925 4 914 4
+M 0 926 1 918 1
+G 0 927 0
+M 0 902 1 920 1
+G 0 928 0
+E 0 908 0 9
+M 0 920 3 921 1
+M 0 920 3 922 1
+M 0 915 1 924 1
+G 0 914 0
+G 0 918 0
+G 0 919 0
+G 0 920 0
+G 0 921 0
+M 0 907 1 925 1
+E 0 910 0 3
+E 0 905 0 17
+G 0 926 0
+G 0 909 0
+M 0 912 4 925 2
+E 0 915 0 11
+E 0 914 0 17
+M 0 912 4 925 2
+E 0 915 0 11
+E 0 914 0 17
+M 0 905 1 926 1
+E 0 907 0 16
+G 0 926 0
+G 0 909 0
+M 0 911 4 926 2
+E 0 916 0 17
+M 0 911 4 926 2
+E 0 916 0 17
+M 0 916 1 927 1
+G 0 905 0
+G 0 909 0
+G 0 910 0
+G 0 926 0
+M 0 923 10 928 2
+M 0 923 10 928 2
+M 0 914 1 929 1
+E 0 924 0 12
+E 0 925 0 6
+M 0 919 1 931 1
+E 0 922 0 3
+E 0 923 0 16
+M 0 922 3 933 3
+M 0 922 3 933 3
+M 0 924 3 933 3
+M 0 922 3 933 3
+M 0 924 3 933 3
+M 0 924 3 933 3
+M 0 923 10 934 2
+M 0 923 10 934 2
+M 0 918 1 935 1
+M 0 917 1 936 1
+M 0 908 1 937 1
+E 0 912 0 11
+G 0 926 0
+G 0 909 0
+M 0 909 4 937 2
+G 0 917 0
+M 0 909 4 937 2
+G 0 917 0
+M 0 906 1 938 1
+E 0 903 0 16
+G 0 926 0
+G 0 909 0
+M 0 910 4 938 2
+E 0 913 0 16
+M 0 910 4 938 2
+E 0 913 0 16
+M 0 921 1 945 1
+E 0 911 0 1
+G 0 926 0
+G 0 909 0
+M 0 904 1 946 1
+E 0 906 0 16
+G 0 926 0
+G 0 909 0
+M 0 903 1 947 1
+E 0 904 0 8
+E 0 902 0 6
+G 0 926 0
+G 0 909 0
+M 0 920 3 948 1
+O 0 917 0 951
+O 0 929 0 951
+M 0 913 5 954 5
+M 0 913 5 954 5
+M 0 913 5 954 5
+M 0 913 5 954 5
+M 0 913 5 954 5
+O 0 930 0 954
+S
+
+
+
+#SHOPS
+915 1 8 13 15 19 120 80 0 23
+916 0 0 0 0 0 110 95 0 23
+917 5 0 0 0 0 140 95 0 23
+918 9 0 0 0 0 140 95 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,277 @@
+#PLAYER
+Name Vorhithion~
+Id   1093056831
+LogO 1093783666
+Vers 5
+Prom (%h/%Hhp %m/%Mm %v/VMv) (%Xxp to level)(%k%k) ~
+Race Minotaur~
+Sex  1
+Cla  5
+OCla -1
+Levl 8
+OldLvl 8
+Sec  0
+Plyd 19946
+Not  1092339941 0 0 0
+Scro 33
+Room 3650
+HMV  88 145 114 114 53 142
+Gold 0
+Silv 10
+Gold_bank 44
+Silv_bank 19
+Shares 0
+Share_level 8
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  12889
+PAct  QTd
+AfBy a
+Empower  0
+WName Vorhithion~
+Comm FNO
+Deaf DP
+Pos  8
+Save  -32
+Alig  -1000
+Hit   63
+Dam   1
+ACs 59 50 52 84
+Wimp  3
+Attr 24 11 11 20 15
+AMod 0 0 0 0 0
+Pass VoxeFmF6JAaGQ~
+Titl  say's Im in the bucket~
+Pnts 51
+TSex 1
+PSize 4
+LLev 4
+HMVP 145 114 142
+Cnd  0 8 42 12
+Sk 1 'frenzy'
+Sk 1 'giant strength'
+Sk 23 'sword'
+Sk 2 'dagger'
+Sk 76 'mace'
+Sk 10 'axe'
+Sk 1 'exotic'
+Sk 67 'bash'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 75 'kick'
+Sk 4 'dodge'
+Sk 75 'shield block'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'armor'   0 243  64 -20  17          0
+Affc 'bless'   0 242  97 -31  20          0
+Affc 'bless'   0 246  97  62  18          0
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear 3
+Cost 510
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 429 0 0
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear 11
+Cost 810
+End
+
+#O
+Vnum 14501
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#O
+Vnum 3358
+Nest 0
+Cond 0
+Wear 8
+Cost 450
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3351
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 3351
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 3072
+Nest 0
+Cond 0
+Wear 5
+Cost 850
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 3500
+Nest 0
+Cond 0
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 3074
+Nest 0
+Cond 0
+Wear 7
+Cost 420
+End
+
+#O
+Vnum 3605
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3604
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3603
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3602
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3601
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  32 30 5 0 0
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear 4
+Cost 310
+End
+
+#O
+Vnum 3400
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

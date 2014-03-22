@@ -1,0 +1,452 @@
+#PLAYER
+Name Ashton~
+Id   1106682098
+LogO 1107288190
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Cambion~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 9089
+Scro 33
+Room 3001
+HMV  96 96 108 108 124 124
+Gold 1001
+Silv 335
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  9337
+PAct  QTd
+AfBy DGTV
+WName Ashton~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 8
+Trai 3
+Save  -31
+Alig  -1000
+Hit   66
+Dam   15
+ACs 53 49 51 76
+Attr 22 8 11 14 15
+AMod 1 0 1 5 0
+Pass AsdGzisqsEJDM~
+Titl  i am the omaga~
+Pnts 57
+TSex 1
+PSize 3
+LLev 1
+HMVP 86 108 124
+Cnd  0 0 14 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'demonfire'
+Sk 1 'curse'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'haste'   0  98   3   4   2    2097152
+Affc 'bless'   0 246 100 -31  20          0
+Affc 'bless'   0 246 100  62  18          0
+Affc 'armor'   0 249  66 -20  17          0
+End
+
+#O
+Vnum 3002
+Nest 0
+Cond 0
+Wear -1
+Cost 6
+Val  16 4 3 0 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 83 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3358
+Nest 0
+Cond 0
+Wear 8
+Cost 450
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear -1
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  1
+Cost 250
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear 5
+Cost 430
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

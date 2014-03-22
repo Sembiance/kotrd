@@ -1,0 +1,520 @@
+#PLAYER
+Name Gynix~
+Id   1159356140
+LogO 1160565794
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 18
+OldLvl 18
+Sec  0
+Plyd 90777
+Scro 33
+Room 3001
+HMV  138 349 143 158 74 202
+Gold 212
+Silv 77
+Gold_bank 995
+Silv_bank 0
+Shares 0
+Share_level 18
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  29433
+QuestPnts 28
+PAct  CDEGQTd
+AfBy JT
+WName Gynix~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 8
+Alig  -1000
+Hit   40
+Dam   41
+ACs 10 10 15 44
+Wimp  174
+Attr 21 17 17 9 17
+AMod 0 1 1 0 0
+Pass GyvSfk.dhi0QI~
+Titl  the confused~
+Pnts 52
+TSex 1
+PSize 3
+LLev 23
+HMVP 309 143 202
+Cnd  0 0 0 0
+Boards       4 General 1160010730 Ideas 1157560140 Announce 0 Personal 0 
+Sk 100 'bgas'
+Sk 79 'sword'
+Sk 77 'dagger'
+Sk 75 'whip'
+Sk 78 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 78 'enhanced damage'
+Sk 75 'kick'
+Sk 1 'parry'
+Sk 75 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'energy shield'   0  22  10 -20  17          0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 3357
+Nest 0
+Cond 0
+Wear 7
+Cost 450
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 15
+Cost 112
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+End
+
+#O
+Vnum 3358
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 5794
+Nest 0
+Cond 0
+Wear 12
+Cost -700
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 15716
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 3375
+Nest 0
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5217
+Nest 0
+Cond 0
+Wear -1
+Cost 3300
+Spell 3 'charm person'
+End
+
+#O
+Vnum 3167
+Nest 0
+Cond 0
+Wear -1
+Cost 190
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3358
+Nest 0
+Cond 0
+Wear 8
+Cost 450
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear 10
+Cost 450
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear 13
+Cost 450
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear 5
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#O
+Vnum 10236
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 10250
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 14501
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 14518
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3359
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 4203
+Nest 0
+Cond 0
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear -1
+Cost 1210
+End
+
+#END

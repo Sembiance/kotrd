@@ -1,0 +1,505 @@
+#PLAYER
+Name Otho~
+Id   1104705323
+LogO 1104983588
+Vers 5
+Prom <%hh %mm %vv %Xtnl> ~
+Race Cambion~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 16
+OldLvl 16
+Sec  0
+Plyd 16774
+Scro 33
+Room 3014
+HMV  289 289 151 151 187 190
+Gold 2593
+Silv 25228
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 16
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  31367
+PAct  CDGQTd
+AfBy DGTVe
+WName Otho~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Save  -63
+Alig  -1000
+Hit   252
+Dam   114
+ACs -259 -253 -255 -179
+Wimp  20
+Attr 23 13 17 19 19
+AMod 4 1 2 4 1
+Pass OtHoID.MV9emQ~
+Titl  says 'I might have used the TITLE command!'~
+Pnts 57
+TSex 1
+PSize 3
+LLev 3
+HMVP 259 131 190
+Cnd  0 0 41 14
+Boards       4 General 1104527061 Ideas 1104629117 Announce 1104975611 Personal 0 
+Sk 1 'demonfire'
+Sk 1 'curse'
+Sk 79 'sword'
+Sk 1 'dagger'
+Sk 12 'berserk'
+Sk 1 'dual wield'
+Sk 44 'enhanced damage'
+Sk 38 'dodge'
+Sk 25 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'golden aura'   0 487  59   0   0 1073741824
+Affc 'haste'   0 489  73   4   2    2097152
+Affc 'bless'   0 484 198 125  18          0
+Affc 'bless'   0 483 198 -62  20          0
+Affc 'combat mind'   0 478 114 100  18          0
+Affc 'combat mind'   0 488 114 -255  17          0
+Affc 'combat mind'   0 488 114 100  19          0
+Affc 'giant strength'   0 483 448   4   1          0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  1
+Cost 250
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 4714
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 4714
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+Val  0 0 445 0 0
+End
+
+#O
+Vnum 4261
+Nest 0
+Cond 0
+Wear -1
+Cost 2210
+End
+
+#O
+Vnum 4263
+Nest 0
+Cond 0
+Wear -1
+Cost 2610
+End
+
+#O
+Vnum 4265
+Nest 0
+Cond 0
+Wear -1
+Cost 1950
+End
+
+#O
+Vnum 4267
+Nest 0
+Cond 0
+Wear -1
+Cost 1350
+End
+
+#O
+Vnum 4269
+Nest 0
+Cond 0
+Wear -1
+Cost 2850
+End
+
+#O
+Vnum 4271
+Nest 0
+Cond 0
+Wear -1
+Cost 2250
+End
+
+#O
+Vnum 4273
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+End
+
+#O
+Vnum 4275
+Nest 0
+Cond 0
+Wear -1
+Cost 1380
+End
+
+#O
+Vnum 4277
+Nest 0
+Cond 0
+Wear -1
+Cost 1990
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 0
+Wear -1
+Cost 2390
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 0
+Wear -1
+Cost 2390
+End
+
+#O
+Vnum 2410
+Nest 0
+Cond 0
+Wear -1
+Cost 6430
+End
+
+#O
+Vnum 2419
+Nest 0
+Cond 0
+Wear -1
+Cost 2460
+End
+
+#O
+Vnum 2418
+Nest 0
+Cond 0
+Wear -1
+Cost 2300
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 448 0 0
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear 5
+Cost 900
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear 10
+Cost 450
+End
+
+#END

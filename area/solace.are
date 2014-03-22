@@ -1,0 +1,4991 @@
+#AREADATA
+Name Town of Solace~
+Builders Strahd~
+VNUMs 10200 10399
+Credits 5 -  35~
+Security 8
+Flags F
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#10201
+captain guard~
+Captain of the Guard~
+{cThe Captain of the Guard is here.{x
+~
+The Captain of the Guard is an older but very powerful man. His obsidian
+armor seems to glow faintly. The crest of the town of Solace is displayed
+with pride on his chestplate. The gold crest of two coins seems to match
+the wealth of this town.
+~
+Giant~
+ABR CDFHJ 900 0
+0
+40 2 15d10+1850 1d10+400 4d8+13 crush
+-13 -13 -13 -13
+BDEK H EGHI JP
+stand stand male 3000
+AHMV ABCDEFGHIJKMV huge unknown
+#10202
+lieutenant commander~
+Lieutenant Commander~
+{cThe Lieutenant Commander is here.{x
+~
+The Lieutenant seems like a happy fellow. Although he seems to have
+the brain of a 7 year old. His steel armor is covered with finger paint.
+Dispite his mental problems he is quite a challenge. If you would like
+to test his abilities go right ahead. He looks as if he is quite an easy
+fight.
+~
+orc~
+ABGQ CFHJ 800 0
+0
+35 1 10d10+1300 1d10+350 4d7+11 pound
+-11 -11 -10 -10
+CFK 0 Q S
+stand stand male 2700
+AHMV ABCDEFGHIJKMV large unknown
+#10203
+Sergeant Arms~
+Sergeant at Arms~
+{cThe Sergeant at Arms is here polishing his hammer.{x
+~
+This is the tough and burly Sergeant at Arms. He wears the red armor of 
+war. He is a middle age man with graying hair that pokes out from under
+his helmet. He is always waiting for a fight.
+~
+hobgoblin~
+ABGR CHJ 400 0
+0
+30 1 6d12+853 1d10+300 4d6+8 none
+-9 -9 -10 -8
+CFK 0 LQ 0
+stand stand male 1300
+AHMV ABCDEFGHIJKMVY large unknown
+#10204
+townguard guard~
+Townguard~
+{cA townguard stands here.{x
+~
+A big strong townguard of Solace.
+~
+orc~
+ABG J 1000 0
+0
+15 0 3d9+208 1d10+70 2d8+5 none
+-1 -1 -2 -2
+CK 0 Q S
+stand stand male 1000
+AHMV ABCDEFGHIJKMV large unknown
+#10205
+townguard guard agg~
+Townguard~
+{cA townguard stands here.{x
+~
+A big strong townguard of Solace.
+~
+Giant~
+ABFG J 1000 0
+0
+15 0 3d9+208 1d10+70 2d8+5 none
+-2 -2 -2 -2
+CK H EGHI JP
+stand stand male 1000
+AHMV ABCDEFGHIJKMV huge unknown
+#10206
+citizen solace~
+Citizen of Solace~
+{cA citizen of Solace stands here.{x
+~
+He is one of the wealthy citizens of Solace.
+~
+Human~
+A 0 800 0
+0
+10 0 2d7+121 0d0+0 2d4+2 punch
+1 1 2 0
+F 0 0 0
+stand stand male 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#10207
+woman~
+woman~
+{ca woman is here.{x
+~
+She is a beautiful woman.
+~
+Human~
+A 0 800 0
+0
+5 0 2d6+60 0d0+0 1d6+1 scratch
+5 6 4 3
+FJ 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#10208
+matt brewmaster~
+Matt the brewmaster~
+{cMatt the brewmaster is here looking for something to drink.{x
+~
+Matt the brewmaster is here looking for something to drink.
+~
+Human~
+ABQ H 800 0
+0
+25 0 5d10+550 1d10+250 2d10+7 pound
+-7 -8 -6 -5
+DEF 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#10209
+Mcbaker~
+the Mcbaker~
+{cThe Mcbaker looks at you calmly, wiping flour from his face with one
+hand.{x
+~
+~
+Human~
+AB 0 900 0
+0
+23 0 5d10+450 1d10+230 3d6+6 pound
+-6 -5 -5 -4
+DEF 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#10210
+cookie's helper~
+Cookie's Helper~
+{cCookie's Helper is here offering you a free cookie sample.{x
+~
+A young neighborhood girl helps out cookie when she is not around.
+~
+Human~
+AB 0 900 0
+0
+20 0 3d9+333 1d10+100 2d5+8 punch
+-4 -3 -5 -2
+FJ 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKMV small unknown
+#10211
+marilyn~
+Marilyn~
+{cMarilyn is here selling birds.{x
+~
+She is a very pretty and loves her birds. Her black hair hangs behind her
+tied in a pony tail.
+~
+Human~
+ABQ H 900 0
+0
+30 0 6d12+853 0d0+200 4d6+8 none
+-9 -8 -10 -7
+FJ 0 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJKMV medium unknown
+#10212
+ghost jander~
+Ghost of Jander~
+{cThe Ghost of Jander is here.{x
+~
+The ghost of Jander is as he was in life. A rather large man with flaming
+red hair. His clothes seems dirty and tattered. His bushy beard obscures
+his stone face.
+~
+unique~
+AB 0 900 0
+0
+15 0 3d9+208 1d10+250 1d12+3 none
+-2 -4 -4 -3
+FG 0 0 0
+stand stand male 100
+DIL 0 medium unknown
+#10213
+ghost waiter~
+ghost of waiter~
+{ca ghost of a waiter is here waiting to serve you.{x
+~
+This is the ghost of a long dead waiter. Probably one of the many that 
+Jander killed for spilling a drink or something.
+~
+unique~
+AB 0 900 0
+0
+15 0 3d9+208 1d10+250 1d12+3 none
+-2 -4 -4 -3
+FG 0 0 0
+stand stand male 100
+DIL 0 medium unknown
+#10214
+ghost barkeep~
+ghost of a barkeeper~
+{ca ghost of a barkeeper is here waiting an eternity to take your order.{x
+~
+This is probably another of Jander's victims. Probably got caught with
+his hand in the cash or something.
+~
+unique~
+AB 0 900 0
+0
+13 0 2d10+170 1d10+150 1d10+3 none
+-3 -2 -2 -2
+FG 0 0 0
+stand stand male 100
+DIL 0 medium unknown
+#10215
+townguard guard~
+Townguard~
+{cA townguard is on patrol.{x
+~
+A big strong townguard of Solace.
+~
+Giant~
+AG J 1000 0
+0
+15 0 3d9+208 1d10+100 2d6+3 pound
+-2 -3 -2 -1
+CDEK H EGHI JP
+stand stand male 1200
+AHMV ABCDEFGHIJKMV huge unknown
+#10216
+field rat~
+field rat~
+{Da field rat is here looking for food.{x
+~
+A dirty nasty field rat . Obviously  looking for food in the town.
+~
+unique~
+AG Q 300 0
+0
+10 0 2d7+121 0d0+0 2d4+2 scratch
+1 0 0 1
+F 0 0 0
+stand stand none 1000
+AGV ACDEFHJK tiny unknown
+#10217
+town clerk~
+Town Clerk~
+{cthe Town Clerk is here impatiently waiting for you to pay taxes.{x
+~
+A stringy rat like individual. He beams at you through his spectacles
+as if he can see the money in your pockets.
+~
+Human~
+ABS H 800 0
+0
+17 0 3d9+258 1d10+100 3d4+4 scratch
+-3 -2 -1 -1
+FJ 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJKMV medium unknown
+#10218
+treasury guards~
+Treasury Guards~
+{cthe Treasury Guards are here guarding the town's money.{x
+~
+These are like the biggest and meanest men you've every seen.
+They look more like trolls or ogres than men.
+~
+Giant~
+AB CDFHJ 800 0
+0
+16 0 3d9+233 0d0+0 2d6+8 smash
+-3 -3 -3 -2
+CDEFK H EGHI JP
+stand stand male 500
+AHMV ABCDEFGHIJKMV huge unknown
+#10219
+Jhen~
+Jhen the farmer~
+{cJhen the farmer is here.{x
+~
+A rather tall man who works hard for his money.
+~
+Human~
+AB 0 800 0
+0
+23 0 5d10+450 1d10+100 3d6+6 none
+-5 -6 -5 -3
+FI 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#10220
+Krista~
+Krista the fruit peddler~
+{cKrista the fruit peddler is here.{x
+~
+A pretty woman who works hard for her money. Travelling every year
+to the market to sell her fruits.
+~
+Human~
+AB 0 800 0
+0
+24 0 5d10+500 1d10+240 2d10+6 punch
+-6 -5 -5 -4
+FI 0 0 0
+stand stand female 2200
+AHMV ABCDEFGHIJKMV medium unknown
+#10221
+Janni~
+Janni~
+{cJanni is here.{x
+~
+Janni has spent his whole life making trinkets for people to enjoy.
+~
+Dwarf~
+AB FJ 800 0
+0
+22 0 5d10+400 1d10+220 4d4+6 pound
+-5 -5 -5 -3
+DFI L LOQ PR
+stand stand male 2200
+AHMV ABCDEFGHIJKMV medium unknown
+#10222
+Nisi~
+Nisi the grocer~
+{cNisi is here.{x
+~
+Nisi is a very interesting person. It shows in the wares she sells
+~
+Elf~
+AB FJ 800 0
+0
+24 0 5d10+500 1d10+240 2d10+6 none
+-6 -5 -5 -4
+FK 0 BPQ Z
+stand stand female 2400
+AHMV ABCDEFGHIJKMV medium unknown
+#10223
+Molin~
+Molin the brewer~
+{cMolin the brewer is here.{x
+~
+Molin is a grey old man with hair down to his toes.
+~
+unique~
+ABR 0 800 0
+0
+24 0 5d10+500 1d10+240 2d10+6 none
+-6 -5 -5 -4
+FK 0 0 0
+stand stand male 2400
+AHMV ABCDEFGHIJK medium unknown
+#10224
+Rashan~
+Rashan the farmer~
+{cRashan the farmer is here.{x
+~
+Rashan is a middle aged man who grows his rutabagas by candlelight.
+~
+Dwarf~
+ABR FJ 800 0
+0
+21 0 4d10+360 1d10+100 4d4+5 crush
+-5 -5 -5 -4
+FJK L LOQ PR
+stand stand male 2100
+AHMV ABCDEFGHIJKMV medium unknown
+#10225
+Lexie~
+Lexie~
+{cLexie is here.{x
+~
+Lexie is an accomplish diver. But he seems to have problems keeping 
+students.
+~
+Human~
+AB 0 800 0
+0
+25 0 5d10+550 1d10+250 2d10+7 none
+-7 -7 -7 -6
+EFK 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJKMV medium unknown
+#10226
+Croben~
+Croben~
+{cCroben is here.{x
+~
+Croben is a young man who learned the art of container making from his
+grandfather.
+~
+Human~
+ABR 0 800 0
+0
+25 0 5d10+550 1d10+250 2d10+7 none
+-7 -7 -7 -6
+EFK 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJKMV medium unknown
+#10227
+otik sandath bartender~
+Otik Sandath~
+{cOtik sandath is here tending the bar{x
+~
+Otik is an older man with a gift for cooking. 
+
+Otik whispers, "A magical staff! I bet it was forged by demons from the
+terrible Darken Wood. There are terrible mysteries in that place, there are."
+~
+Human~
+AB 0 800 0
+0
+27 0 5d10+650 1d10+270 5d4+7 pound
+-8 -8 -8 -7
+FIK 0 0 0
+stand stand male 2300
+AHMV ABCDEFGHIJKMV medium unknown
+#10228
+tika barmaid~
+Tika the barmaid~
+{cTika the barmaid is here delivering drinks and food.{x
+~
+Curly auburn hair tumbles around Tika's lightly freckled face. Her striking
+green eyes match her low-cut blouse. She is a brash young barmaid who
+looks older than her 19 years. Rough living has hardened her and she
+presents a tough image as protection against her sense of vulnerablility.
+~
+orc~
+AB J 800 0
+0
+16 0 3d9+233 1d10+200 2d6+4 punch
+-2 -2 -2 -2
+FIK 0 Q S
+stand stand female 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#10229
+thief cloaked figure~
+Thief~
+{ca cloaked figure sits here.{x
+~
+A thin, cloaked figure sits alone at a table near the door, an untouched
+glass of ale before him.
+~
+unique~
+ABS 0 800 0
+0
+17 0 3d9+258 1d10+10 3d4+4 punch
+-3 -3 -2 -2
+EF 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK small unknown
+#10230
+old man~
+old man~
+{can old man is here.{x
+~
+He looks like an old man....go figure..
+~
+unique~
+AB 0 800 0
+0
+13 0 2d10+170 1d10+130 2d5+3 none
+-1 0 0 0
+F 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK small unknown
+#10231
+boy~
+boy~
+{ca small boy is here.{x
+~
+He is a small boy lost in his own daydreams.
+
+Boy says, "I saw the white stag up near Prayers Eye Peak just a few days
+ago! If only I could catch it. He who walks the paths of the white stag is
+blessed, I hear tell."
+~
+unique~
+AB 0 800 0
+0
+7 0 2d6+80 1d10+70 1d8+1 punch
+4 4 4 4
+F 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK small unknown
+#10232
+brat boy~
+bratty boy~
+{ca brat is here.{x
+~
+He looks like a pain in the ass.
+~
+Human~
+ABS J 800 0
+0
+10 0 2d7+121 1d10+100 2d4+2 scratch
+1 1 2 1
+F 0 DQ CJ
+stand stand male 100
+AHMV ABCDEFGHIJKMV small unknown
+#10233
+Mage~
+mage~
+{ca mage is here.{x
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+Elf~
+ABR FJ 800 0
+0
+15 0 2d10+170 1d10+350 2d5+4 none
+-1 -1 0 1
+FG 0 BPQ Z
+stand stand male 1300
+AHMV ABCDEFGHIJKMV medium unknown
+#10234
+Thief~
+Thief~
+{ca thief is here.{x
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+Elf~
+ABS FJ 800 0
+0
+15 0 2d10+190 1d10+140 2d6+1 none
+-2 -3 -3 -2
+EF 0 BPQ Z
+stand stand male 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#10235
+Warrior~
+Warrior~
+{ca warrior is here.{x
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+Giant~
+AB J 800 0
+0
+16 1 3d9+260 1d10+70 2d6+6 pound
+-3 -3 -3 -1
+CDEK H EGHI JP
+stand stand male 1000
+AHMV ABCDEFGHIJKMV huge unknown
+#10236
+Cleric~
+Cleric~
+{ca cleric is here.{x
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+Elf~
+ABQ FJ 800 0
+0
+19 0 3d9+300 1d10+240 3d4+5 none
+-3 -3 -2 -2
+FI 0 BPQ Z
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#10237
+ghost gambler~
+Ghost of gambler~
+{ca ghost of a gambler is floating here looking for something to bet on.{x
+~
+Even in death this sad spirit is looking to gamble.
+~
+unique~
+AB 0 -200 0
+0
+10 -1 2d7+100 1d10+120 1d8+2 none
+0 0 -1 0
+FG 0 0 0
+stand stand male 100
+DIL 0 medium unknown
+#10238
+child~
+child~
+{ca child is here eating bugs off the ground.{x
+~
+A child is here eating bugs off the ground.
+~
+Human~
+A 0 800 0
+0
+5 0 2d6+60 1d10+50 1d6+1 punch
+5 4 4 5
+FH 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKMV small unknown
+#10239
+rat~
+rat~
+{Dthere is a large rat here.{x
+~
+A large rat.
+~
+unique~
+ACG Q -100 0
+0
+5 0 2d6+60 1d10+50 1d6+1 punch
+5 4 4 5
+FH 0 0 0
+stand stand none 1200
+AGV ACDEFHJK small unknown
+#10240
+bat~
+bat~
+{cthere is a large bat here.{x
+~
+A large bat.
+~
+unique~
+ABF D 100 0
+0
+5 0 2d6+60 1d10+50 1d6+1 punch
+5 4 4 5
+FH 0 0 0
+stand stand none 1200
+0 0 small unknown
+#10241
+old lady~
+old lady~
+{cthere is an old lady here.{x
+~
+An old lady.
+~
+Human~
+ACG 0 100 0
+0
+8 0 2d6+80 1d10+80 1d8+1 scratch
+4 3 3 5
+F 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#10242
+tired adventurer~
+tired adventurer~
+{cthere is a tired adventurer resting here.{x
+~
+A tired adventurer.
+~
+Human~
+AB 0 100 0
+0
+13 0 2d10+170 1d10+130 2d5+3 none
+-1 -1 -1 0
+FK 0 0 0
+stand stand either 1100
+AHMV ABCDEFGHIJKMV medium unknown
+#10243
+wizard~
+Magnus wizard~
+{cMagnus the wizard is resting here from his long journeys.{x
+~
+Magnus the wizard.
+~
+Elf~
+ABR FJ 100 0
+0
+19 0 3d9+250 1d10+400 3d4+4 none
+-4 -3 -3 -3
+FG 0 BPQ Z
+stand stand male 1800
+AHMV ABCDEFGHIJKMV medium unknown
+#10244
+lord doom warrior~
+Lord Doom~
+{cLord Doom is resting here from his long journeys.{x
+~
+Lord Doom.
+~
+Giant~
+AB DJ 100 0
+0
+21 1 4d10+360 1d10+210 4d4+5 wrath
+-5 -5 -5 -5
+DEFK H EGHI JP
+stand stand male 1600
+AHMV ABCDEFGHIJKMV huge unknown
+#10245
+foreign trade representative~
+Foreign Trade Representative~
+{ca foreign trade representative is waiting here.{x
+~
+A foreign trade representative is waiting here to meet with the Captain of the 
+Guard.
+~
+Human~
+AB 0 100 0
+0
+14 0 2d10+190 1d10+140 1d12+3 none
+-1 -1 -1 -1
+DFK 0 0 0
+stand stand either 1400
+AHMV ABCDEFGHIJKMV medium unknown
+#10246
+bodyguard~
+bodyguard~
+{cThere is a bodyguard here.{x
+~
+The bodyguard glares back at you.
+~
+Human~
+AB 0 100 0
+0
+16 1 3d9+250 1d10+150 2d6+4 crush
+-2 -2 -3 -2
+DFK 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJKMV medium unknown
+#10247
+Secretary captain~
+Secretary~
+{cThe Captain of the Guard's Secretary is here.{x
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Captain is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+Human~
+AB 0 100 0
+0
+25 0 5d10+550 1d10+250 2d10+7 punch
+-7 -7 -6 -5
+FJ 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#10248
+Secretary Lieutenant~
+Secretary~
+{cThe Lieutenant Commander's Secretary is here.{x
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Lieutenant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+Human~
+AB 0 100 0
+0
+20 0 3d9+333 1d10+200 2d8+5 scratch
+-4 -3 -3 -2
+FJ 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#10249
+Secretary Sergeant ~
+Secretary~
+{cThe Sergeant at Arm's Secretary is here.{x
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Sergeant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+Giant~
+AB J 100 0
+0
+15 0 3d9+208 1d10+100 2d6+4 pound
+-2 -1 -1 0
+DIK H EGHI JP
+stand stand female 1000
+AHMV ABCDEFGHIJKMV huge unknown
+#10250
+Macaw~
+the macaw~
+{cA large macaw is here.{x
+~
+The macaw looks like a strong, fearless fighter. It is a beautiful bird.
+~
+song bird~
+ABC T 0 0
+0
+12 0 2d10+150 1d10+120 1d10+3 claw
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGW ACDEFGHKPW medium unknown
+#10251
+Raven~
+the raven~
+{cA large, black raven is here.{x
+~
+The raven looks like a strong, fearless fighter.
+~
+song bird~
+ABC T 0 0
+0
+15 0 3d9+208 1d10+150 2d6+3 claw
+-2 -2 -2 -2
+CFH 0 0 0
+stand stand either 0
+AGW ACDEFGHKPW medium unknown
+#10252
+hunting hawk~
+the hunting hawk~
+{cA large, hunting hawk is here.{x
+~
+The hawk looks like a strong, fearless fighter. It has been trained for
+hunting game.
+~
+song bird~
+ABC T 0 0
+0
+18 0 3d9+283 1d10+180 2d7+4 claw
+-3 -3 -3 -3
+FHJ 0 0 0
+stand stand either 0
+AGW ACDEFGHKPW medium unknown
+#10253
+battle bird~
+the battle falcon~
+{cA giant, falcon is here.{x
+~
+The battle falcon looks like a strong, fearless fighter. This giant breed has
+been trained especially for combat.
+~
+song bird~
+ABC T 0 0
+0
+21 0 4d10+360 1d10+210 4d4+5 claw
+-5 -5 -5 -5
+DFHK 0 0 0
+stand stand either 0
+AGW ACDEFGHKPW medium unknown
+#10254
+shopkeeper mage~
+{ca wise old mage{x~
+{ca wise old mage is here to show you what is here{x
+~
+~
+Human~
+ABGR D 1000 0
+0
+35 0 2d2+999 2d2+999 1d10+33 magic
+0 0 0 0
+CDEKO BCDFGS ACDF ACDGH
+stand stand male 100000
+AHMV ABCDEFGHIJKMV large unknown
+#0
+
+
+
+#OBJECTS
+#10201
+helmet obsidian~
+the obsidian helmet~
+A black helmet is on the floor.~
+SELECT_A_MATERIAL armor GK AE
+BD BD BD BD 0
+30 100 10000 P
+A
+1 1
+A
+13 10
+#10202
+sleeves obsidian~
+obsidian sleeves~
+A pair of black sleeves are on the floor.~
+SELECT_A_MATERIAL armor GK AI
+CD ACD CD CD 0
+40 100 10000 P
+A
+5 1
+#10203
+leggings obsidian~
+obsidian leggings~
+Some black leggings are on the floor.~
+SELECT_A_MATERIAL armor GK AF
+CD CD CD CD 0
+40 100 10000 P
+A
+2 3
+A
+14 20
+#10204
+gauntlets obsidian~
+obsidian gauntlets~
+A pair of black gauntlets are on the floor.~
+SELECT_A_MATERIAL armor GK AH
+CD ABD CD CD 0
+40 100 10000 P
+A
+18 3
+A
+19 3
+#10205
+boots obsidian~
+obsidian boots~
+Some black boots are on the floor.~
+SELECT_A_MATERIAL armor GK AG
+CD CD CD BD 0
+40 100 10000 P
+A
+23 -6
+A
+13 50
+#10206
+cloak obsidian~
+obsidian cloak~
+a black cloak lies on the floor.~
+SELECT_A_MATERIAL armor GK AC
+CD CD ACD ABD 0
+40 100 10000 P
+A
+24 -2
+A
+22 -4
+#10207
+girth obsidian~
+the obsidian girth~
+A black girth is on the floor.~
+SELECT_A_MATERIAL armor GK AL
+ACD CD CD ABD 0
+40 100 10000 P
+A
+1 2
+#10208
+shield large obsidian~
+the large obsidian shield~
+A large, black shield is on the floor.~
+SELECT_A_MATERIAL armor GK AJ
+BF BF BF BDF 0
+40 100 10000 P
+A
+19 3
+A
+17 4
+#10209
+amulet solace~
+the amulet of Solace~
+A shiny black amulet with a gold symbol is here.~
+SELECT_A_MATERIAL armor GK AC
+BC BC BC BC 0
+20 100 1000 P
+A
+19 2
+A
+17 -3
+#10210
+obsidian key~
+a obsidian key~
+A shiny black key is here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+5 10 1000 P
+#10211
+sword doomgiver~
+a black hilted sword called, "Doomgiver"~
+A black hilted sword with engravings on the blade lie here.~
+IRON weapon AB AN
+sword 8 5 slash E
+40 180 10000 P
+A
+19 4
+A
+18 5
+E
+sword~
+The blade of the sword is a full meter long, and straight as an arrow, with
+lightly fluted sides. Both edges keened down to perfect lines, invisibly
+sharp. Perfection like this could of only been forged by a god. The black
+hilt is contrasted only by the faint symbol of the Scales of Justice.
+Apon the blade is engraved a poem:
+
+                      The Sword of Justice balances the pans
+                      Of right and wrong, and foul and fair
+                      Eye for an eye, Doomgiver scans
+                      The fate of all folk everywhere.
+
+~
+#10212
+ring signet solace~
+an Solace signet ring~
+A shiny ring of obsidian is in the dirt.~
+SELECT_A_MATERIAL armor H AB
+C C AB B 0
+10 10 1000 P
+A
+13 4
+A
+24 -2
+#10213
+bracer~
+an obsidian bracer~
+You see an obsidian bracer here.~
+SELECT_A_MATERIAL armor 0 AM
+BD BD BD AD 0
+30 20 500 P
+#10214
+weapons cabinet~
+a weapons cabinet~
+You see a weapons cabinet.~
+SELECT_A_MATERIAL container 0 0
+500 AC 0 1000 100
+30 0 500 P
+E
+cabinet~
+This is a finely crafted reinforced weapons cabinet. It looks very sturdy.
+The cabinet doors are made of smoked glass. Something seems to be
+calling you from within.
+~
+#10215
+sword dragonslicer~
+a black hilted sword called, "Dragonslicer"~
+A black hilted sword with engravings on the blade lie here.~
+IRON weapon GH AN
+sword 8 5 slash DE
+40 100 10000 P
+A
+23 -15
+A
+19 6
+A
+18 2
+E
+sword~
+The blade of the sword is a full meter long, and straight as an arrow, with
+lightly fluted sides. Both edges keened down to perfect lines, invisibly
+sharp. Perfection like this could have only been forged by a god. The black
+hilt is contrasted only by the faint symbol of a dragon head.
+Apon the blade is engraved a poem:
+
+                      Dragonslicer, Dragonslicer, how d'you slay?
+                      Reaching for the heart in behind the scales.
+                      Dragonslicer, Dragonslicer, where do you stay?
+                      In the belly of the giant that my blade impales.
+
+~
+#10216
+helmet steel~
+the steel helmet~
+A steel helmet is on the floor.~
+SELECT_A_MATERIAL armor GK AE
+ABC ABC ABC ABC 0
+25 100 10000 P
+A
+3 2
+A
+21 -2
+#10217
+sleeves steel~
+steel sleeves~
+A pair of steel sleeves are on the floor.~
+SELECT_A_MATERIAL armor GK AI
+ABD CD ABD ABD 0
+35 100 10000 P
+A
+24 -1
+A
+20 -2
+#10218
+leggings steel~
+steel leggings~
+Some steel leggings are on the floor.~
+SELECT_A_MATERIAL armor GK AF
+CD CD ABD ABD 0
+35 100 10000 P
+A
+2 2
+A
+14 60
+#10219
+gauntlets steel~
+steel gauntlets~
+A pair of steel gauntlets are on the floor.~
+SELECT_A_MATERIAL armor GK AH
+CD CD ABD BD 0
+35 100 10000 P
+A
+1 2
+A
+23 -1
+A
+18 2
+#10220
+boots steel~
+steel boots~
+Some steel boots are on the floor.~
+SELECT_A_MATERIAL armor GK AG
+CD ABD ABD ABD 0
+35 100 10000 P
+A
+23 -2
+A
+13 40
+#10221
+cloak lieutenant ~
+the lieutenant's cloak~
+a lieutenant's cloak lies on the floor.~
+SELECT_A_MATERIAL armor GK AC
+CD ABD ABD CD 0
+35 100 10000 P
+A
+24 -2
+A
+22 -2
+#10222
+girth steel~
+the steel girth~
+A steel girth is on the floor.~
+SELECT_A_MATERIAL armor GK AL
+ABD ABD CD CD 0
+35 100 10000 P
+A
+24 -2
+#10223
+shield large steel~
+the large steel shield~
+A large, steel shield is on the floor.~
+SELECT_A_MATERIAL armor GK AJ
+CD ABD ABD CD 0
+35 100 10000 P
+A
+19 2
+A
+17 2
+#10224
+bracer steel~
+a steel bracer~
+You see a steel bracer here.~
+SELECT_A_MATERIAL armor 0 AM
+AC C C C 0
+10 10 500 P
+A
+12 15
+#10225
+sword shieldbreaker~
+black hilted sword called, "Shieldbreaker"~
+A black hilted sword with engravings on the blade lie here.~
+IRON weapon BFGM AN
+sword 8 4 slash D
+35 125 10000 P
+A
+19 3
+A
+18 2
+A
+17 -50
+E
+sword~
+~
+#10226
+helmet red~
+the red helmet~
+A red helmet is on the floor.~
+SELECT_A_MATERIAL armor GK AE
+BC BC BC BC 0
+20 100 10000 P
+A
+21 -1
+#10227
+sleeves red scalemail~
+red scalemail sleeves~
+A pair of red scalemail sleeves are on the floor.~
+SELECT_A_MATERIAL armor GK AI
+BD BD ABD BD 0
+30 100 10000 P
+A
+20 -1
+#10228
+leggings red scalemail~
+red scalemail leggings~
+Some red scalemail leggings are on the floor.~
+SELECT_A_MATERIAL armor GK AF
+BD ABD BD BD 0
+30 100 10000 P
+A
+14 50
+#10229
+gauntlets red scalemail~
+red scalemail gauntlets~
+A pair of red scalemail gauntlets are on the floor.~
+SELECT_A_MATERIAL armor GK AH
+BD BD BD BD 0
+30 100 10000 P
+A
+21 -1
+#10230
+boots red scalemail~
+red scalemail boots~
+Some red scalemail boots are on the floor.~
+SELECT_A_MATERIAL armor GK AG
+BD ABD ABD BD 0
+30 100 10000 P
+A
+23 -2
+A
+13 30
+#10231
+cloak red sergeant~
+the red sergeant's cloak~
+a red sergeant's cloak lies on the floor.~
+SELECT_A_MATERIAL armor GK AC
+BD ABD ABD ABD 0
+30 100 10000 P
+A
+22 -2
+#10232
+girth red scalemail~
+the red scalemail girth~
+A red scalemail girth is on the floor.~
+SELECT_A_MATERIAL armor GK AL
+BD ABD ABD BD 0
+30 100 10000 P
+#10233
+shield large red~
+the large red shield~
+A large, red shield is on the floor.~
+SELECT_A_MATERIAL armor GK AJ
+ABD ABD ABD ABD 0
+30 100 10000 P
+A
+17 -3
+#10234
+bracer red~
+a red bracer~
+You see a red bracer here.~
+SELECT_A_MATERIAL armor 0 AM
+AC C C C 0
+10 10 500 P
+A
+12 15
+#10235
+warhammer mage masher~
+a red steel warhammer called, "Mage Masher"~
+A red steel warhammer with engravings on the head lies here.~
+SELECT_A_MATERIAL weapon BG AN
+sword 5 5 slash 0
+30 100 10000 P
+A
+12 -50
+A
+19 2
+A
+18 4
+E
+hammer warhammer~
+This hammer has the words, "MAGE MASHER" engraved into it's head.
+It seems to glow and pulse when pointed at a magic user. It seems to just
+glow when pointed at clerics though.
+~
+#10236
+plate black platemail~
+black platemail~
+A suit of black platemail is sitting on the floor.~
+STEEL armor G AD
+BC BC BC BC 0
+15 100 1000 P
+A
+13 10
+A
+24 -1
+#10237
+enchanted long sword~
+enchanted longsword~
+A blade with runes etched in it is on the floor.~
+STEEL weapon G AN
+sword 5 5 slash 0
+15 100 1000 P
+A
+18 5
+A
+19 5
+#10238
+enchanted hammer~
+enchanted hammer~
+A hammer with runes etched in it is on the floor.~
+STEEL weapon G AN
+mace 5 5 smash 0
+15 100 1000 P
+A
+18 5
+A
+19 5
+#10239
+enchanted pike polearm~
+enchanted pike~
+A polearm with runes etched in it is on the floor.~
+SELECT_A_MATERIAL weapon G AN
+polearm 5 5 thwack 0
+15 100 1000 P
+A
+19 3
+A
+18 4
+#10240
+chamorro ringmail~
+chamorro ringmail~
+A bunch of rings sewn together with taotamoa bark is on the ground.~
+SELECT_A_MATERIAL armor G AD
+AB AB AB AB 0
+6 100 1000 P
+A
+12 15
+E
+ringmail~
+This armor is imported from the island of Guam.
+~
+#10241
+Mcbread~
+Mcbread~
+A Mcloaf of Mcbread has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+5 10 10 P
+#10242
+Mcdonut~
+Mcdonut~
+A chocolate Mcdonut has been left here.~
+SELECT_A_MATERIAL food 0 A
+AC ABCD 0 0 0
+5 10 10 P
+#10243
+mcbagel~
+Mcbagel~
+A Mcbagel has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD CE 0 0 0
+5 10 10 P
+#10244
+mcpastry~
+Mcpastry~
+A Mcpastry has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD ABCD 0 0 0
+5 10 10 P
+#10245
+chocolate chip cookie~
+chocolate chip cookie~
+A chocolate chip cookie has been left here.~
+SELECT_A_MATERIAL food 0 A
+ABC ABCD 0 0 0
+5 10 10 P
+#10246
+peanut butter cookie~
+peanut butter cookie~
+A peanut butter cookie has been left here.~
+SELECT_A_MATERIAL food 0 A
+ABC ABCD 0 0 0
+5 10 10 P
+#10247
+oatmeal cookie~
+oatmeal  cookie~
+A oatmeal cookie has been left here.~
+SELECT_A_MATERIAL food 0 A
+ABC ABCD 0 0 0
+5 10 10 P
+#10248
+sugar cookie~
+sugar cookie~
+A sugar cookie has been left here.~
+SELECT_A_MATERIAL food 0 A
+ABC ABCD 0 0 0
+5 10 10 P
+#10249
+taxes fines~
+taxes and fines~
+A bunch of taxes and fines are here waiting to take your money.~
+SELECT_A_MATERIAL weapon 0 AN
+exotic 4 4 grep 0
+17 100 10 P
+A
+15 -10000
+#10250
+enchanted two-handed sword~
+enchanted two-handed sword~
+A large two-handed sword with runes etched in it is on the floor.~
+IRON weapon G AN
+sword 5 7 slash F
+16 150 1000 P
+A
+18 5
+A
+19 2
+#10251
+carrot~
+carrot~
+A carrot has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+5 10 10 P
+#10252
+cauliflower~
+cauliflower~
+A cauliflower has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+5 10 10 P
+#10253
+bell pepper~
+bell pepper~
+A bell pepper has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+5 10 10 P
+#10254
+celery stick~
+celery stick~
+A celery stick has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+5 10 10 P
+#10255
+glass ice tea~
+a glass of ice tea~
+A glass of ice tea has been left here.~
+SELECT_A_MATERIAL drink 0 A
+60 60 'tea' 0 0
+5 30 12 P
+#10256
+glass water~
+a glass of water~
+A glass of water has been left here.~
+SELECT_A_MATERIAL drink 0 A
+60 60 'water' 0 0
+5 30 10 P
+#10257
+glass coca cola~
+a glass of coca cola~
+A glass of coca cola has been left here.~
+SELECT_A_MATERIAL drink 0 A
+60 60 'coke' 0 0
+5 30 20 P
+#10258
+bottle Snapple ice tea~
+a bottle of Snapple ice tea~
+A bottle of Snapple has been left here.~
+SELECT_A_MATERIAL drink 0 A
+60 60 'tea' 0 0
+5 30 10 P
+#10259
+apple~
+apple~
+An apple has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+2 10 10 P
+#10260
+grape~
+a grape~
+A grape has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+2 10 10 P
+#10261
+orange~
+a orange~
+An orange has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+2 10 10 P
+#10262
+pear~
+a pear~
+A pear has been left here.~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+2 10 10 P
+#10263
+charm solace~
+the charm of Solace.~
+A shiny black charm with a gold symbol is here.~
+SELECT_A_MATERIAL armor 0 AC
+AC AC AC AC 0
+15 10 1000 P
+#10264
+ring solace~
+the ring of Solace.~
+A shiny black ring with a gold symbol is here.~
+SELECT_A_MATERIAL armor 0 AB
+A A B A 0
+5 10 100 P
+#10265
+earrings solace~
+the earrings of Solace.~
+A pair of shiny black earrings with a gold symbols is here.~
+SELECT_A_MATERIAL armor 0 AE
+C AC C C 0
+10 10 100 P
+#10266
+frozen pizza crust~
+a frozen pizza crust~
+A large, frozen pizza crust is on the ground melting.~
+SELECT_A_MATERIAL armor 0 AJ
+BC BC BC BC 0
+15 100 100 P
+#10267
+frozen pumpkin~
+a frozen pumpkin~
+A large, frozen pumpkin is on the ground melting.~
+SELECT_A_MATERIAL armor 0 AE
+BC BC BC BC 0
+15 100 100 P
+#10268
+frozen side beef~
+a frozen side of beef~
+A large, frozen side of beef is on the ground melting.~
+SELECT_A_MATERIAL armor 0 AD
+ABC ABC ABC ABC 0
+23 150 100 P
+#10269
+frozen asparagus spear~
+a frozen asparagus spear~
+A frozen asparagus spear is on the ground melting.~
+SELECT_A_MATERIAL weapon 0 AN
+spear 6 3 slash 0
+15 100 100 P
+A
+19 1
+A
+18 1
+#10270
+mulberry extract~
+mulberry extract~
+A small jar of mulberry extract has carelessly been left here.~
+SELECT_A_MATERIAL potion G AO
+20 'refresh' 'cure light' 'cure poison' ''
+1 50 50 P
+#10271
+rutabaga~
+rutabaga~
+A small rutabaga is lying here.~
+SELECT_A_MATERIAL pill G A
+20 '' 'dispel magic' 'stone skin' ''
+1 10 60 P
+#10272
+rutabaga~
+rutabaga~
+A small rutabaga is lying here.~
+SELECT_A_MATERIAL pill G A
+20 'poison' 'know alignment' 'blindness' ''
+1 10 60 P
+#10273
+rutabaga~
+rutabaga~
+A small rutabaga is lying here.~
+SELECT_A_MATERIAL pill G A
+20 'shield block' 'sleep' '' ''
+1 10 60 P
+#10274
+rutabaga~
+rutabaga~
+A small rutabaga is lying here.~
+SELECT_A_MATERIAL pill G A
+20 'armor' 'cause serious' 'teleport' ''
+1 10 60 P
+#10275
+Scuba tank~
+scuba tank~
+A scuba tank is here.~
+SELECT_A_MATERIAL armor 0 AK
+ABD BD BD BD 0
+30 400 500 P
+#10276
+Scuba flippers~
+scuba flippers~
+A pair of flippers are here.~
+SELECT_A_MATERIAL armor G AG
+ABC ABC ABC ABC 0
+21 40 500 P
+A
+2 2
+#10277
+scuba snorkle~
+scuba snorkle~
+A scuba snorkle is on the ground.~
+SELECT_A_MATERIAL armor 0 AE
+A B A A P
+2 20 50 P
+#10278
+dive belt~
+dive belt~
+A scuba dive belt is on the ground drying out.~
+SELECT_A_MATERIAL armor 0 AL
+ABD BD BD BD 0
+30 400 50 P
+#10279
+belt pouch~
+belt pouch~
+A belt pouch is laying here.~
+SELECT_A_MATERIAL container G AL
+100 AC 0 8 90
+10 50 400 P
+#10280
+cloak storage~
+cloak of storage~
+A cloak is on the ground in a pile.~
+SELECT_A_MATERIAL container G AC
+125 A 0 12 75
+15 50 500 P
+#10281
+ring holding~
+ring of holding~
+A small ring with a hinge is here collecting dust.~
+SELECT_A_MATERIAL container G AB
+300 A 0 20 60
+15 20 800 P
+#10282
+travellers robe~
+travellers robe~
+A pile of cloth is on the ground here.~
+SELECT_A_MATERIAL armor 0 AK
+BC BC BC BC 0
+15 50 400 P
+#10283
+travellers dagger~
+travellers dagger~
+A small dagger is here. It looks like the kind alot of travellers carry.~
+MET_GENERIC weapon 0 AN
+dagger 5 4 pierce 0
+15 25 400 P
+#10284
+travellers spellbook~
+travellers spellbook~
+A leather bound book with an arcane symbol is laying here.~
+SELECT_A_MATERIAL wand G AO
+25 5 5 'flamestrike' 0
+15 50 400 P
+#10285
+travellers holy symbol~
+travellers holy symbol~
+A cheap holy symbol is laying here.~
+SELECT_A_MATERIAL staff G AO
+30 5 5 'remove curse' 0
+20 50 400 P
+#10286
+travellers vest~
+a travellers vest~
+You see a travellers vest here.~
+SELECT_A_MATERIAL armor 0 AD
+AC C C C 0
+10 20 500 P
+#10287
+travellers cloak~
+a travellers cloak~
+You see a travellers cloak here.~
+SELECT_A_MATERIAL armor 0 AC
+C AC C C 0
+10 20 500 P
+#10288
+travellers sword~
+a travellers sword~
+You see a travellers sword here.~
+IRON weapon 0 AN
+sword 5 4 slash 0
+15 60 500 P
+#10289
+travellers scalemail~
+a travellers scalemail~
+You see a travellers scalemail here.~
+SELECT_A_MATERIAL armor 0 AD
+AC AC AC AC 0
+10 50 500 P
+#10290
+travellers shield~
+a travellers shield~
+You see a travellers shield here.~
+SELECT_A_MATERIAL armor 0 AJ
+AC AC AC AC 0
+10 50 500 P
+#10291
+travellers hammer~
+a travellers hammer~
+You see a travellers hammer here.~
+SELECT_A_MATERIAL weapon 0 AN
+mace 5 4 pound 0
+15 50 500 P
+#10292
+Magnus's spellbook~
+Magnus's spellbook~
+A leather bound book with an arcane symbol is laying here.~
+SELECT_A_MATERIAL wand G AO
+25 5 5 'acid breath' 0
+15 40 500 P
+#10293
+robe magi~
+robe of the magi~
+A pile of cloth is on the ground. The cloth is covered with arcane symbols.~
+SELECT_A_MATERIAL armor G AK
+BC BC BC BC 0
+19 30 500 P
+A
+24 -5
+A
+12 20
+#10294
+crystal plate armor~
+crystal plate armor~
+A finely crafted suit of crystal plate armor is here.~
+SELECT_A_MATERIAL armor G AD
+ABC ABC ABC BC 0
+21 100 700 P
+A
+13 30
+A
+5 1
+A
+1 2
+#10295
+scythe grim reaper~
+Scythe of the Grim Reaper~
+A huge bloody scythe is here floating above the ground~
+SELECT_A_MATERIAL weapon AGJ AN
+axe 11 5 cleave DE
+50 400 500 P
+A
+24 -10
+A
+19 6
+A
+18 5
+#10296
+crystal shield~
+crystal shield~
+A finely crafted crystal shield is here.~
+SELECT_A_MATERIAL armor G AJ
+ABC ABC BC BC 0
+21 100 500 P
+A
+13 30
+#10297
+crystal long sword~
+crystal longsword~
+A huge crystal longsword lies here~
+GEM_GENERIC weapon G AN
+sword 6 6 slash E
+21 140 500 P
+A
+19 2
+A
+18 2
+A
+13 10
+#10298
+obsidian plate armor~
+a suit of obsidian plate armor~
+A suit of obsiadian plate armor is here on the ground.~
+SELECT_A_MATERIAL armor GK AD
+CD CD CD CD 0
+40 200 500 P
+A
+13 30
+A
+12 30
+#10299
+steel plate armor~
+a suit of steel plate armor~
+A suit of steel plate armor is here on the ground.~
+SELECT_A_MATERIAL armor GK AD
+CD CD CD ABD 0
+37 200 500 P
+A
+14 25
+A
+13 25
+#10300
+red plate armor~
+a suit of red plate armor~
+A suit of red plate armor is here on the ground.~
+SELECT_A_MATERIAL armor GK AD
+ABD ABD BD BD 0
+33 200 500 P
+A
+14 15
+A
+13 15
+#10301
+enchanted bow~
+enchanted bow~
+A bow with runes etched in it is on the floor.~
+SELECT_A_MATERIAL weapon G AN
+exotic 5 4 pierce 0
+15 100 1000 P
+A
+18 2
+#10302
+safe deposit box~
+safe deposit box~
+A strong metal box is embedded in the wall.~
+SELECT_A_MATERIAL container 0 0
+1000 ACD 0 1000 100
+0 0 0 P
+E
+safe deposit box~
+You see a strong metal box used to keep the town deposits in.
+~
+#10303
+gold coins~
+alot of gold coins.~
+A lot of gold is here~
+SELECT_A_MATERIAL money 0 A
+EIJKN 0 0 0 0
+0 10000 10000 P
+#10304
+fountain water~
+a fountain~
+A large marble fountain gushes forth here.~
+SELECT_A_MATERIAL fountain 0 0
+50 50 'water' 0 0
+500 3000 1000 P
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#10305
+depository key~
+a depository key~
+A shiny depository key is here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+5 10 100 P
+#10306
+city key gold solace~
+Key to the City of Solace.~
+A shiny gold city key is here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+5 10 100 P
+#10307
+flaming homer~
+a drink called, "a Flaming homer"~
+a drink called, "a Flaming homer" is here.~
+SELECT_A_MATERIAL drink 0 A
+20 20 'firebreather' 0 0
+3 30 100 P
+#10309
+bloody heads~
+a drink called, "bloody heads"~
+a drink called, "bloody heads" is sitting here.~
+SELECT_A_MATERIAL drink 0 A
+20 20 'framboise' 0 0
+3 30 100 P
+#10310
+skull chair~
+a giant skull throne~
+A giant skullthrone with a snake crawling through the eyes and nose is here.~
+SELECT_A_MATERIAL furniture 0 0
+BD DFGHIJ BEHKN BCG BCG
+100 300 100 P
+#0
+
+
+
+#ROOMS
+#10201
+{MGateway to Solace{x~
+This is the gateway to the town of Solace. It keeps the monsters out and
+the people in. This is a quiet farming town on the shores of Crystalmir
+Lake.
+There is a sign nailed to a nearby tree.
+There is a plaque embedded in the road.
+There is a Gate to the south.
+~
+0 0 2
+E
+plaque~
+*************
+Town of Solace
+*************
+
+Brought to you by Strahd
+~
+E
+sign~
+**WELCOME TO SOLACE**
+
+Welcome to Solace Traveler.
+Rest your weary feet and enjoy our small town.
+
+Please don't feed the animals.
+
+And please behave yourself.
+
+Gates will be closed and lock at night to keep the town safe.
+
+-Captain of the Guard-
+~
+D0
+You see the Main road in Solace.
+~
+~
+0 -1 10202
+D1
+You see a small alleyway.
+~
+~
+0 -1 10216
+D2
+~
+~
+0 0 10003
+D3
+You see a small alleyway.
+~
+~
+0 -1 10217
+C 0
+S
+#10202
+{MMain Road{x~
+This is the main road in Solace. Down the street you can see various
+shops and houses.
+~
+0 0 2
+D0
+You see the main road of Solace.
+~
+~
+0 -1 10203
+D1
+You see Jander's Bar & Restaurant.
+~
+door~
+1 -1 10257
+D2
+You see the town gateway.
+~
+~
+0 -1 10201
+D3
+You see a house.
+~
+door~
+1 -1 10246
+C 0
+S
+#10203
+{MMain Road{x~
+This is the main road in Solace. Down the street you can see various
+shops and houses.
+~
+0 0 2
+D0
+You see the main road of Solace.
+~
+~
+0 -1 10204
+D2
+You see the main road of Solace.
+~
+~
+0 -1 10202
+D3
+You see Cookie's Cookie Cookery.
+~
+~
+0 -1 10245
+C 0
+S
+#10204
+{MMain Road{x~
+This is the main road in Solace. Down the street you can see various
+shops and houses.
+~
+0 0 2
+D0
+You see the main road of Solace.
+~
+~
+0 -1 10205
+D2
+You see the main road of Solace.
+~
+~
+0 -1 10203
+C 0
+S
+#10205
+{MIntersection at Main Road.{x~
+Here there is an intersection at the main road.
+You see to the east and west, smaller houses and some more shops.
+To the road continues to the north.
+~
+0 0 2
+D0
+You see the main road of Solace.
+~
+~
+0 -1 10228
+D1
+You see East Gullen Way
+~
+~
+0 -1 10206
+D2
+You see the main road of Solace.
+~
+~
+0 -1 10204
+D3
+You see West Gullen Way.
+~
+~
+0 -1 10227
+C 0
+S
+#10206
+{MEast Gullen Way{x~
+This is the road called East Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D1
+You see East Gullen Way.
+~
+~
+0 -1 10207
+D2
+You see a house.
+~
+door~
+1 -1 10251
+D3
+You see the Intersection of Gullen Way and the main road.
+~
+~
+0 -1 10205
+C 0
+S
+#10207
+{MEast Gullen Way{x~
+This is the road called East Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D1
+You see East Gullen Way.
+~
+~
+0 -1 10208
+D2
+You see Marilyn's Bird Factory.
+~
+~
+0 -1 10252
+D3
+You see East Gullen Way.
+~
+~
+0 -1 10206
+C 0
+S
+#10208
+{MEast Gullen Way{x~
+This is the road called East Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D1
+You see the Corner Of East Gullen and Ketra Road.
+~
+~
+0 -1 10209
+D3
+You see East Gullen Way.
+~
+~
+0 -1 10207
+C 0
+S
+#10209
+{MCorner of East Gullen and Ketra Road.{x~
+This is the Corner of East Gullen Way and Ketra Road.
+Everything is amazingly clean here.
+But this doesn't look like the wealthier part of town.
+This whole town seems to be one big trading post.
+~
+0 0 2
+D2
+You see Ketra Road.
+~
+~
+0 -1 10210
+D3
+You see East Gullen way.
+~
+~
+0 -1 10208
+C 0
+S
+#10210
+{MKetra Road.{x~
+It is one of the sidestreets of Solace. But even here there are shops.
+Most of it is run down houses and shacks.
+Even though this looks like the poorer part of town, it is amazingly clean.
+~
+0 0 2
+D0
+You see The corner of East Gullen and Ketra.
+~
+~
+0 -1 10209
+D2
+You see Ketra Road.
+~
+~
+0 -1 10211
+C 0
+S
+#10211
+{MKetra Road.{x~
+It is one of the sidestreets of Solace. But even here there are shops.
+Most of it is run down houses and shacks.
+Even though this looks like the poorer part of town, it is amazingly clean.
+~
+0 0 2
+D0
+You see Ketra Road.
+~
+~
+0 -1 10210
+D2
+You see Ketra Road.
+~
+~
+0 -1 10212
+D3
+You see a Storage Building.
+~
+door~
+1 -1 10254
+C 0
+S
+#10212
+{MKetra Road.{x~
+It is one of the sidestreets of Solace. But even here there are shops.
+Most of it is run down houses and shacks.
+Even though this looks like the poorer part of town, it is amazingly clean.
+~
+0 0 2
+D0
+You see Ketra Road.
+~
+~
+0 -1 10211
+D2
+You see one of the towns watchtowers.
+~
+~
+0 -1 10213
+D3
+You see Jander's Bar.
+~
+door~
+1 -1 10255
+C 0
+S
+#10213
+{MSoutheast Guardpost and Watchtower.{x~
+This is the Southeast guardpost and guardpost of Solace.
+It is used as a watch station and coffee break area for the town guards.
+There are some stairs in the corner leading up to the watchtower.
+There is a sign above the stairway.
+~
+0 8 1
+E
+sign~
+** WARNING **
+
+This area is RESTRICTED.
+
+Authorized Personnel Only!
+Violators will be jailed or killed.
+
+-Captain of the Guard-
+~
+D0
+You see Ketra Road.
+~
+~
+0 -1 10212
+D3
+You see a small alleyway.
+~
+~
+0 -1 10214
+D4
+You see stairs leading up to the watchtower.
+~
+~
+0 -1 10260
+C 0
+S
+#10214
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D1
+You see the Southeast Guardpost.
+~
+~
+0 -1 10213
+D3
+You see a small alleyway.
+~
+~
+0 -1 10215
+C 0
+S
+#10215
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D0
+You see a poolhall.
+~
+door~
+1 -1 10256
+D1
+You see a small alleyway.
+~
+~
+0 -1 10214
+D3
+You see a small alleyway.
+~
+~
+0 -1 10216
+C 0
+S
+#10216
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D1
+You see a small alleyway.
+~
+~
+0 -1 10215
+D3
+You see the gateway to the town.
+~
+~
+0 -1 10201
+C 0
+S
+#10217
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D1
+You see the gateway to the town. 
+~
+~
+0 -1 10201
+D3
+You see a small alleyway.
+~
+~
+0 -1 10218
+C 0
+S
+#10218
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D0
+You see an old boarded up building. 
+~
+door~
+1 -1 10247
+D1
+You see a small alleyway. 
+~
+~
+0 -1 10217
+D3
+You see a small alleyway.
+~
+~
+0 -1 10219
+C 0
+S
+#10219
+{MSmall Alleyway.{x~
+You are walking down a small alleyway along the north wall of the town.
+~
+0 0 2
+D1
+You see a small alleyway. 
+~
+~
+0 -1 10218
+D3
+You see the Southwest Guardpost.
+~
+~
+0 -1 10220
+C 0
+S
+#10220
+{MSouthwest Guardpost and Watchtower.{x~
+This is the Southwest guardpost and guardpost of Solace.
+It is used as a watch station and coffee break area for the town guards.
+There are some stairs in the corner leading up to the watchtower.
+There is a sign above the stairway.
+~
+0 8 1
+E
+sign~
+** WARNING **
+
+This area is RESTRICTED.
+
+Authorized Personnel Only!
+Violators will be jailed or killed.
+
+-Captain of the Guard-
+~
+D0
+You see Harvest Road.
+~
+~
+0 -1 10221
+D1
+You see a small alleyway.
+~
+~
+0 -1 10219
+D4
+You see stairs leading up to the watchtower.
+~
+~
+0 -1 10261
+C 0
+S
+#10221
+{MHarvest Road.{x~
+You are walking down Harvest Road.
+It is quiet and peacefull here. The smell of baked goods and other foods
+fill the air.
+~
+0 0 2
+D0
+You see Harvest Road. 
+~
+~
+0 -1 10222
+D1
+You see the McBakery.
+~
+~
+0 -1 10248
+D2
+You see the Southwest Guardpost.
+~
+~
+0 -1 10220
+C 0
+S
+#10222
+{MHarvest Road.{x~
+You are walking down Harvest Road.
+It is quiet and peacefull here. The smell of baked goods and other foods
+fill the air.
+~
+0 0 2
+D0
+You see Harvest Road. 
+~
+~
+0 -1 10223
+D1
+You see a house. 
+~
+door~
+1 -1 10249
+D2
+You see Harvest Road. 
+~
+~
+0 -1 10221
+C 0
+S
+#10223
+{MHarvest Road.{x~
+You are walking down Harvest Road.
+It is quiet and peacefull here. The smell of baked goods and other foods
+fill the air.
+~
+0 0 2
+D0
+You see the corner of West Gullen Way and Harvest Road. 
+~
+~
+0 -1 10224
+D2
+You see Harvest Road. 
+~
+~
+0 -1 10222
+C 0
+S
+#10224
+{MCorner of West Gullen Way and Harvest Road.{x~
+This is the corner of West Gullen and Harvest road.
+To the south you can smell baked goods and other food.
+To the east are various small shops and houses.
+~
+0 0 2
+D1
+You see West Gullen Way. 
+~
+~
+0 -1 10225
+D2
+You see Harvest Road. 
+~
+~
+0 -1 10223
+C 0
+S
+#10225
+{MWest Gullen Way{x~
+This is the road called West Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D1
+You see West Gullen Way.
+~
+~
+0 -1 10226
+D2
+You see the entrance to Matt's Brewery.
+~
+~
+0 -1 10242
+D3
+You see the corner of West Gullen and Harvest.
+~
+~
+0 -1 10224
+C 0
+S
+#10226
+{MWest Gullen Way{x~
+This is the road called West Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D0
+~
+~
+0 0 10318
+D1
+You see West Gullen Way.
+~
+~
+0 -1 10227
+D2
+You see a house
+~
+door~
+1 -1 10243
+D3
+You see West Gullen Way.
+~
+~
+0 -1 10225
+C 0
+S
+#10227
+{MWest Gullen Way{x~
+This is the road called West Gullen Way. It is lined with small houses and
+shops.
+~
+0 0 2
+D1
+You see the intersection of West Gullen and the main road.
+~
+~
+0 -1 10205
+D2
+You see a house.
+~
+door~
+1 -1 10244
+D3
+You see West Gullen Way.
+~
+~
+0 -1 10226
+C 0
+S
+#10228
+{MMain Road{x~
+This is the main road in Solace. Down the street you can see various
+shops and houses.
+~
+0 0 2
+D0
+You see the end of the main road.
+~
+~
+0 -1 10229
+D2
+You see the intersection of Gullen Way and the main road.
+~
+~
+0 -1 10205
+C 0
+S
+#10229
+{MEnd of the Main Road{x~
+The main road of Solace stops here. Other smaller roadways lead off
+in various directions.
+To the west is the marketplace, where farmers go to sell their harvests.
+Farther north you see a large building.
+To the East is the Townguard Administration Building.
+~
+0 0 2
+D0
+You see a cobblestone path. 
+~
+~
+0 -1 10272
+D1
+You see a dusty road.
+~
+~
+0 -1 10262
+D2
+You see the Main Road of Solace.
+~
+~
+0 -1 10228
+D3
+You see the Marketplace.
+~
+~
+0 -1 10230
+C 0
+S
+#10230
+{MMarketplace.{x~
+This is the Marketplace of Solace. Where the farmers come to sell their
+crops. The smell of vegetables and fruit fill the air. There are a couple
+other vendors selling trinkets and other items.
+There is a sign at the entrance to the market.
+~
+0 0 2
+E
+sign~
+**NOTICE**
+
+Stealing will NOT be tolerated.
+Any sort of shady actions will be punishable by death.
+
+
+-Captain of the Guard-
+~
+D0
+You see Croben's Container Emporium.
+~
+~
+0 -1 10241
+D1
+You see the End of the Main Road of Solace.
+~
+~
+0 -1 10229
+D2
+You see Nisi's Frozen Food Store.
+~
+~
+0 -1 10237
+D3
+You see the Marketplace.
+~
+~
+0 -1 10231
+C 0
+S
+#10231
+{MMarketplace.{x~
+This is the Marketplace of Solace. Where the farmers come to sell their
+crops. The smell of vegetables and fruit fill the air. There are a couple
+other vendors selling trinkets and other items.
+~
+0 0 2
+D0
+You see Lexie's Scuba Shop.
+~
+~
+0 -1 10240
+D1
+You see the marketplace.
+~
+~
+0 -1 10230
+D2
+You see Janni's Souvenir Shop.
+~
+~
+0 -1 10236
+D3
+You see the Marketplace.
+~
+~
+0 -1 10232
+C 0
+S
+#10232
+{MMarketplace.{x~
+This is the Marketplace of Solace. Where the farmers come to sell their
+crops. The smell of vegetables and fruit fill the air. There are a couple
+other vendors selling trinkets and other items.
+~
+0 0 2
+D0
+You see Rashan's Rutabagas Restaurant.
+~
+~
+0 -1 10239
+D1
+You see the marketplace.
+~
+~
+0 -1 10231
+D2
+You see Krista's Fruit Stand.
+~
+~
+0 -1 10235
+D3
+You see the Marketplace.
+~
+~
+0 -1 10233
+C 0
+S
+#10233
+{MMarketplace.{x~
+This is the Marketplace of Solace. Where the farmers come to sell their
+crops. The smell of vegetables and fruit fill the air. There are a couple
+other vendors selling trinkets and other items.
+These are the last stalls in the marketplace. Next to you stands the West wall
+of the town.
+~
+0 0 2
+D0
+You see Molin's Mulburry Extract Distillery.
+~
+~
+0 -1 10238
+D1
+You see the marketplace.
+~
+~
+0 -1 10232
+D2
+You see Jhen's Vegtable Cart.
+~
+~
+0 -1 10234
+C 0
+S
+#10234
+{MJhen's Vegetable Cart.{x~
+This is where Jhen the farmer comes to sell his crops. His wooden vegtable
+cart stands here filled with all sorts of vegetables. All his vegtables are 
+unusually large. What kind of plant food does he use anyway...?
+There is a small sign nailed to the cart.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D0
+You see the marketplace.
+~
+~
+0 -1 10233
+C 0
+S
+#10235
+{MKrista's Fruit Stand.{x~
+This is where Krista peddles her fruits. Every year she travels from her
+orchards in the mountains to Solace to sell her fruit. Everything seems
+to have an unusually small size. I wonder if she shrinks heads too...
+There is a small sign hanging above the fruit stand.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D0
+You see the marketplace.
+~
+~
+0 -1 10232
+C 0
+S
+#10236
+{MJanni's Souvenirs.{x~
+This is Janni's Souvenir shop. He makes trinkets year round that he peddles
+here in the market. You wouldn't want to leave Solace without a souvenir
+would you?
+there is a sign behind the glass case.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D0
+You see the marketplace.
+~
+~
+0 -1 10231
+C 0
+S
+#10237
+{MNisi's Frozen Food{x~
+This is one of the oddest venders in the marketplace. Nisi claims to have
+various fresh frozen types of vegetables. They are frozen all right. In 
+fact they are hard enough to stop an axe swing...go figure..
+And just how does she keep them from melting... 
+There is a small sign on the wall in the back of the shop.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D0
+You see the marketplace.
+~
+~
+0 -1 10230
+C 0
+S
+#10238
+{MMolin's Mulburry Extracts.{x~
+This is the shop of the famous mulburry extract. Known throughout the
+valley to quech the thirst of even the thirstiest traveller. What else it does
+is just rumor. That person recovered in a month anyway...
+There is a small sign on the wall.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D2
+You see the marketplace.
+~
+~
+0 -1 10233
+C 0
+S
+#10239
+{MRashan's Rutabagas{x~
+This is one shop to stay away from. Rashan's rutabagas have been know
+to do strange things to people. And true to its reputation the shop is
+very very empty. I'm sure Rashan would be more than willing to sell
+you one. Business obviously has been very slow....
+There is a small sign hanging next to you.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D2
+You see the marketplace.
+~
+~
+0 -1 10232
+C 0
+S
+#10240
+{MLexie's Scuba Shop{x~
+This is one shop that seems to be ahead of its time.
+But who doesn't like scuba diving. If you don't already have
+a diving license you can buy one. Lexie can also train you too. Not  in
+scuba though. Something about a revoked teaching credential due to too
+many students dying or something. This does seem to be an odd place to have
+a scuba shop considering the sea is miles away. But I guess you could
+always go diving in the lake. But why?....
+There is a small sign here.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D2
+You see the marketplace.
+~
+~
+0 -1 10231
+C 0
+S
+#10241
+{MCroben's Containers.{x~
+This is the catch all, hold all, container shop. Croben sell all sorts.
+Just take your pick. And no he doesn't know how much each one holds.
+What...you think he has nothing better to do than fill each container
+just to see how much it holds? Get a life....
+There is a small sign here.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D2
+You see the marketplace.
+~
+~
+0 -1 10230
+C 0
+S
+#10242
+{MMatt's Brewery.{x~
+Matt could never find enough to drink. So to solve this he started his own
+brewery. "You can never drink enough" is Matt's logo and offers plenty
+to drink.
+There is a small sign here.
+~
+0 8 1
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D0
+You see West Gullen Way.
+~
+~
+0 -1 10225
+C 0
+S
+#10243
+{Ma House.{x~
+This is a small house off of West Gullen Way. It is not your house and you
+were not invited. Why are you here?
+~
+0 8 1
+D0
+You see West Gullen Way.
+~
+door~
+1 -1 10226
+C 0
+S
+#10244
+{Ma House.{x~
+This is a small house off of West Gullen Way. It is sparsely furnished and
+very tidy. a small fire burns warmly in the fireplace. The sweet smell of 
+flowers is present. Ahhh....what a nice home.
+~
+0 8 1
+D0
+You see West Gullen Way.
+~
+door~
+1 -1 10227
+C 0
+S
+#10245
+{MCookie's Cookie Cookery.{x~
+This is the cookie shop of who else...Cookie. She's not in right now
+but there are many delicious cookies to munch on if you want to wait till
+she returns.
+~
+0 8 1
+D1
+You see the Main road of Solace.
+~
+~
+0 -1 10203
+D3
+You see a door.
+~
+door~
+1 -1 10250
+C 0
+S
+#10246
+{Ma House.{x~
+This is a small house off of the main street. It is well furnished and
+very tidy. a small fire burns warmly in the fireplace. The sweet smell of 
+flowers is present. Ahhh....what a nice home.
+~
+0 8 1
+D1
+You see the Main road of Solace.
+~
+door~
+1 -1 10202
+C 0
+S
+#10247
+{MOld Gambling Parlor.{x~
+This used to be a very popular and busy gambling parlor. But the Captain
+of the Guard lost big here once and thereafter declared gambling illegal.
+It has been closed for many years. It is dusty and full of cobwebs.
+~
+0 8 1
+D2
+You see a small alleyway.
+~
+door~
+1 -1 10218
+C 0
+S
+#10248
+{MThe McBakery{x~
+You are standing inside the small bakery.  A sweet scent of McDanish
+and fine McBread fills the room.  The McBread and McDanish are arranged
+in fine order on the McShelves, and seem to be of the finest McQuality. You
+remember seeing a place like this somewhere before. Maybe its a McChain?
+A small McSign is on the McCounter.
+~
+0 8 1
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some McBread or McPastry.
+   List - The McBaker will kindly tell you the price and sort of the McBread in
+          his McBakery.
+~
+D3
+You see Harvest road.
+~
+~
+0 -1 10221
+C 0
+S
+#10249
+{Ma House.{x~
+This is a small house off of the main street. It is well furnished and
+very tidy. a small fire burns warmly in the fireplace. The sweet smell of 
+flowers is present. Ahhh....what a nice home.
+~
+0 8 1
+D3
+You see Harvest road.
+~
+door~
+1 -1 10222
+C 0
+S
+#10250
+{MCookie's Relaxing Room.{x~
+This is where Cookie comes to unwind. She comes here sometimes to just
+munch on cookies and talk to her friends.
+~
+0 8 1
+D1
+You see the front of the store.
+~
+door~
+1 -1 10245
+C 0
+S
+#10251
+{Ma House.{x~
+This is a small house off of West Gullen Way. It is not your house and you
+were not invited. Why are you here?
+~
+0 8 1
+D0
+You see East Gullen Way.
+~
+door~
+1 -1 10206
+C 0
+S
+#10252
+{MThe Marilyn's Bird Factory.{x~
+This is Marilyn's Bird Factory. There are a wide variety of birds here.
+Buy a pet. Take it home. A loving companion to keep you company.
+~
+0 4104 1
+D0
+You see East Gullen Way.
+~
+~
+0 -1 10207
+C 0
+S
+#10253
+{MPet Storage{x~
+This is where Marilyn keeps her birds. It is important that this room be
+right after the bird factory.
+~
+0 12 1
+C 0
+S
+#10254
+{MStorage Building{x~
+This is an abandon storage building. Its empty walls used to house large
+amounts of surplus equipment for the market and various vendors. Sales
+have been good lately and all surplus has been sold. It seems supply has
+yet to catch up to demand.
+~
+0 8 1
+D1
+You see Ketra Road.
+~
+door~
+1 -1 10211
+C 0
+S
+#10255
+{MJander's{x~
+Jander's bar used to be a very popular bar in Solace. For some reason or
+another it is now empty. Dust and cobwebs cover everything. It looks as if
+nobody has tread here in years. The bar is hidden beneath broken bottles
+and shattered glasses. Tables and chairs are scattered all over the floor.
+There is a sign on the wall.
+There is a door to Ketra Road to the east.
+~
+0 8 1
+E
+sign~
+Welcome to Jander's!
+
+Drink and be Merry!!!!
+
+But Remember don't Marry after you drink....
+
+-Jander-
+~
+D1
+You see Ketra Road.
+~
+door~
+1 -1 10212
+D3
+You see the poolhall.
+~
+~
+0 -1 10256
+C 0
+S
+#10256
+{MJander's Poolhall{x~
+Jander's bar used to be a very popular bar in Solace. For some reason or
+another it is now empty. Dust and cobwebs cover everything. It looks as if
+nobody has tread here in years. The bar is to the east. The pooltables are
+broken in half and lie in a heap on the floor. 
+There is a sign on the door to Jander's office.
+A backdoor to the alley is to the south.
+~
+0 8 1
+E
+sign~
+*Jander's Office*
+
+Read this sign!
+
+And then GO AWAY!!
+
+-Jander-
+~
+D0
+You see Jander's office door.
+~
+office door~
+1 -1 10259
+D1
+You see the bar.
+~
+~
+0 -1 10255
+D2
+You see a backdoor to the alley.
+~
+door backdoor~
+1 -1 10215
+D3
+You see the restaurant.
+~
+~
+0 -1 10257
+C 0
+S
+#10257
+{MJander's Restaurant{x~
+Jander's bar and restaurant used to be a very popular bar in Solace.
+For some reason or another it is now empty. Dust and cobwebs cover
+everything. It looks as if nobody has tread here in years.
+The poolhall and bar are to the east.
+A door to the main road is to the west.
+~
+0 8 1
+D1
+You see the poolhall.
+~
+~
+0 -1 10256
+D3
+You see the main road of Solace.
+~
+door~
+1 -1 10202
+C 0
+S
+#10258
+{MDeath's Chambers{x~
+This is the Chamber of Death. If you are lucky, he isn't here right now.
+The walls are covered with twisted faces of a countless tortured
+souls crying out in agony. The floor is made of black marble as is the 
+ceiling. The air smells of brimstone and makes your lungs burn with
+every breath. 
+There is a sign floating in front of you.
+~
+0 524 1
+E
+sign~
+Please sit and wait.
+
+Death will be with you shortly.
+
+"Those who wait for death are indeed lost souls..."
+~
+C 0
+S
+#10259
+{MJander's Office{x~
+This is Jander's Office and obviously you didn't read the sign before
+coming in.The office is dusty and abandon like the rest of the bar, but is
+otherwise in the same condition as when it was occupied. An oak desk
+sits in the middle of the room. A bookcase rests against the wall. Various
+chairs are set in front of the desk. An employee that was called into Jander's
+office was not likely to leave. Jander was rarely if ever seen. He mostly
+stayed in his office and did office stuff. He was never in a good mood.
+The office door is to the south.
+~
+0 8 1
+D2
+You see the poolhall.
+~
+door ~
+1 -1 10256
+C 0
+S
+#10260
+{MInside Southeast Watchtower.{x~
+You are inside the Southeast Watchtower.
+>From up here you can see above the trees and most of the valley.
+There is a beautiful view of Crystalmir lake.
+Well actually the Southwest watchtower is blocking some of your view.
+You are however not suppose to be up here. If the guards catch you up
+here you are likely to be in BIG trouble...
+~
+0 8 1
+D5
+You see stairs leading down to the guardpost. 
+~
+~
+0 -1 10213
+C 0
+S
+#10261
+{MInside Southwest Watchtower.{x~
+You are inside the Southwest Watchtower.
+>From up here you can see above the trees and most of the valley.
+There is a beautiful view of Crystalmir lake.
+You are however not suppose to be up here. If the guards catch you up
+here you are likely to be in BIG trouble...
+~
+0 8 1
+D5
+You see stairs leading down to the guardpost. 
+~
+~
+0 -1 10220
+C 0
+S
+#10262
+{MDusty road.{x~
+This dusty road looks well traveled. To the East you see the Townguard
+Administration Building.
+~
+0 0 2
+D1
+You see the Townguard Administration Building. 
+~
+~
+0 -1 10263
+D3
+You see the end of Main road. 
+~
+~
+0 -1 10229
+C 0
+S
+#10263
+{MTownguard Administration Building.{x~
+Before you stands the Townguard Administration Building. This is a large
+building with various statues and other artwork decorating the building.
+There is a door the east.
+~
+0 0 1
+D1
+You see entrance hall. 
+~
+door~
+1 -1 10264
+D3
+You see a dusty road. 
+~
+~
+0 -1 10262
+C 0
+S
+#10264
+{MEntrance Hall.{x~
+The entrance hall is made entirely of marble and granite. It seems sort of
+extravagant for a townguard administration building. The 30 foot high
+ceiling seems to dwarf everything in the hallway. The Seal of the Town
+of Solace lies embedded in the center of the floor.
+A pair of heavy double doors lies to the east.
+The entrance door is to the west.
+~
+0 8 1
+D1
+You see a pair of heavy double doors. 
+~
+doors~
+1 -1 10270
+D2
+You see a marble corridor.
+~
+~
+0 -1 10265
+D3
+You see the entrance to the building. 
+~
+door~
+1 -1 10263
+C 0
+S
+#10265
+{MMarble Corridor.{x~
+This corridor is also decorated with paintings and sculptures. Marble
+columns line the walls. Crystal chandeliers hang from the ceiling.
+A door to the Town Clerk's office is to the west.
+~
+0 8 1
+D0
+You see the entrance hallway. 
+~
+~
+0 -1 10264
+D1
+You see marble corridor. 
+~
+~
+0 -1 10268
+D3
+You see the door to the Town Clerk's Office. 
+~
+door officedoor~
+1 -1 10266
+C 0
+S
+#10266
+{MTown Clerk.{x~
+This is where you pay your fines and taxes.
+The Town Clerk's desk sits in front of you. There are chairs and a
+few tables along the walls. There is a metal door on the west wall
+behind the clerk's desk.
+The hallway is to the east.
+A heavy metal depository door is to the west.
+~
+0 8 1
+D1
+You see a marble corridor. 
+~
+~
+1 -1 10265
+D3
+You see a heavy metal door. 
+~
+safe~
+1 10305 10267
+C 0
+S
+#10267
+{MDeposits Room.{x~
+This is a large safe like room. All payments for taxes and fines are deposited
+here by the clerk. The walls are made of white marble and have gold deposit
+boxes set into them.
+The safe door is to the east.
+~
+0 8 1
+D1
+You see Town Clerks Office. 
+~
+safe~
+1 10305 10266
+C 0
+S
+#10268
+{MMarble Corridor.{x~
+This corridor is also decorated with paintings and sculptures. Marble
+columns line the walls. Crystal chandeliers hang from the ceiling.
+A pair of heavy double doors lie to the north.
+~
+0 8 1
+D0
+You see a pair of heavy double doors. 
+~
+doors~
+1 -1 10270
+D1
+You see a fountain. 
+~
+~
+0 -1 10269
+D3
+You see a marble corridor. 
+~
+~
+0 -1 10265
+C 0
+S
+#10269
+{MWater Fountain.{x~
+There is a very large water fountain here. Large marble lion heads spout
+water from their mouths and stone fish spit water from the base of the
+fountain.
+~
+0 8 1
+D3
+You see marble corridor. 
+~
+~
+0 -1 10268
+C 0
+S
+#10270
+{MHallway Intersection.{x~
+This is the intersection of four large hallways. Light streams in from the 
+stainglass skylight above. Large double doors close off each hallway.
+The doors are made of oak and encrusted with gold patterns.
+A pair of double doors are in each direction.
+~
+0 8 1
+D0
+You see a pair of double doors. 
+~
+doors~
+1 -1 10276
+D1
+You see a pair of double doors. 
+~
+doors~
+1 -1 10271
+D2
+You see a pair of double doors. 
+~
+doors~
+1 -1 10268
+D3
+You see a pair of double doors. 
+~
+doors~
+1 -1 10264
+C 0
+S
+#10271
+{MEnd of Long Hall{x~
+This is the end of a long and lavish hallway. exquisite paintings and
+statues line the walls. The ceilings are covered with colorful mosaics.
+A pair of double doors lie to the west.
+~
+0 8 1
+D0
+You see a long hallway. 
+~
+~
+0 -1 10277
+D3
+You see a pair of double doors. 
+~
+doors~
+1 -1 10270
+C 0
+S
+#10272
+{MCobblestone Path{x~
+You are walking on a cobblestone path. It leads to a large building to the
+north.
+~
+0 0 2
+D0
+You see a large building ahead. 
+~
+~
+0 -1 10282
+D2
+You see the end of Main road. 
+~
+~
+0 -1 10229
+C 0
+S
+#10273
+{MSergeant's Reception Room{x~
+This room is decorated with various swords and other ornamental artifacts
+of combat. Pictures of bloody battles adorn the walls. If you have an
+appointment to see the Sergeant at Arms this is where you'd come to wait.
+But who knows how long you'll have to wait...
+The door to the Sergeant's office is to the north.
+The door to the hallway is on the east wall.
+~
+0 8 1
+D0
+You see an Iron bound door. 
+~
+door~
+1 -1 10283
+D1
+You see a hallway. 
+~
+door~
+1 -1 10274
+C 0
+S
+#10274
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+The Sergeant's waiting room is to the west.
+~
+0 8 1
+D0
+You see a hallway. 
+~
+~
+0 -1 10284
+D1
+You see a hallway. 
+~
+~
+0 -1 10275
+D3
+You see a reception area. 
+~
+door~
+1 -1 10273
+C 0
+S
+#10275
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+There is an oak door to the north.
+~
+0 8 1
+D0
+You see an oak door. 
+~
+oak door~
+1 -1 10285
+D1
+You see a hallway. 
+~
+~
+0 -1 10276
+D3
+You see a hallway. 
+~
+~
+0 -1 10274
+C 0
+S
+#10276
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+A pair of double doors are south of you.
+~
+0 8 1
+D0
+You see a hallway. 
+~
+~
+0 -1 10286
+D2
+You see double doors. 
+~
+doors~
+1 -1 10270
+D3
+You see a hallway. 
+~
+~
+0 -1 10275
+C 0
+S
+#10277
+{MLong Hallway{x~
+This hallway is sparse compared to some of the others. It seems to go
+on and on. The marble floors are barren of any type of decorations.
+The walls are rough stone bound by large wooden beams. This is maybe
+the only hallway that doesn't have large amounts of gold and other artifacts.
+~
+0 8 1
+D0
+You see a long hallway. 
+~
+~
+0 -1 10287
+D2
+You see the end of the hallway. 
+~
+~
+0 -1 10271
+C 0
+S
+#10278
+{MWest end of Common Room{x~
+You are standing in the West end of a very large room. It is where
+adventurers rest their weary feet if they don't have enough gold to
+pay for a private room. The room continues to the East.
+~
+0 8 1
+D1
+You see more of a very large room. 
+~
+~
+0 -1 10279
+C 0
+S
+#10279
+{MEast end of Common Room{x~
+You are standing in the East end of a very large room. It is where
+adventurers rest their weary feet if they don't have enough gold to
+pay for a private room. The room continues to the west.
+A door to the hallway is to the north.
+~
+0 8 1
+D0
+You see a large hallway. 
+~
+door~
+1 -1 10289
+D3
+You see more of a very large room. 
+~
+~
+0 -1 10278
+C 0
+S
+#10280
+{MWest end of Bar.{x~
+You are standing of the west end of the bar. This is a darker corner where
+less seems to occur. Maybe a beer and a nap would be nice.
+~
+0 8 1
+D1
+You see main bar. 
+~
+~
+0 -1 10281
+C 0
+S
+#10281
+{MInn of the Last Home.{x~
+The Inn of the Last Home never changes. The polished wooden bar curves
+around several living branches. An old man weaves stories in the corner and
+delights the crowd gathered about him. The delicate windows of stained
+glass behind the bar are being polished by Otik Sandath, the barkeeper.
+The carved door to the Inn is to the east.
+~
+0 8 1
+D0
+You see north end of the bar. 
+~
+~
+0 -1 10291
+D1
+You see a carved door. 
+~
+door~
+1 -1 10282
+D3
+You see the west end of the bar.
+~
+~
+0 -1 10280
+D4
+You see a wooden staircase.
+~
+~
+0 -1 10290
+C 0
+S
+#10282
+{MOutside the Inn of the Last Home.{x~
+The Inn of the Last Home rests within the trunk of a huge vallenwood tree.
+Warm laughter tumbles from the inn. The worn steps wind around the heavy
+trunk up to the familiar, carved door.
+~
+0 8 1
+D0
+You see trees
+~
+tree~
+1 -1 10292
+D2
+You see a cobblestone path.
+~
+~
+0 -1 10272
+D3
+You see a carved door. 
+~
+door~
+1 -1 10281
+C 0
+S
+#10283
+{MSergeant's Office{x~
+This is the office of the Sergeant at Arms. He is in charge of all minor
+complaints. His office is richly decorated with ornamental weapons and
+pictures of war. A large desk sits in the middle of the room.
+You see an Iron bound door to the south.
+~
+0 8 1
+D2
+You see an Iron bound door. 
+~
+door~
+1 -1 10273
+C 0
+S
+#10284
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway. 
+~
+~
+0 -1 10294
+D2
+You see a hallway. 
+~
+~
+0 -1 10274
+C 0
+S
+#10285
+{MGuards Room.{x~
+There are many barrels and chests of food in here. All of it looks spoiled.
+This is where the town guards hang out when not on duty.
+You see an oak door to the south.
+~
+0 8 1
+D2
+You see an oak door. 
+~
+door~
+1 -1 10275
+C 0
+S
+#10286
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway. 
+~
+~
+0 -1 10296
+D2
+You see a hallway. 
+~
+~
+0 -1 10276
+C 0
+S
+#10287
+{MLong Hallway{x~
+This hallway is sparse compared to some of the others. It seems to go
+on and on. The marble floors are barren of any type of decorations.
+The walls are rough stone bound by large wooden beams. This is maybe
+the only hallway that doesn't have large amounts of gold and other artifacts.
+~
+0 8 1
+D0
+You see a long hallway. 
+~
+~
+0 -1 10297
+D2
+You see a long hallway. 
+~
+~
+0 -1 10277
+C 0
+S
+#10288
+{MHallway{x~
+You are standing in an old vallenwood hallway.
+~
+0 8 1
+D0
+You see a hallway. 
+~
+~
+0 -1 10298
+D1
+You see a hallway. 
+~
+~
+0 -1 10289
+C 0
+S
+#10289
+{MOutside Common Room{x~
+You are standing in an old vallenwood hallway. Laughter and the murmur
+of conversation comes from the south.
+The door to the common room lies to the south.
+~
+0 8 1
+D1
+You see a hallway. 
+~
+~
+0 -1 10290
+D2
+You see the common room. 
+~
+door~
+1 -1 10279
+D3
+You see a hallway. 
+~
+~
+0 -1 10288
+C 0
+S
+#10290
+{MSecond Floor of the Inn.{x~
+You are at the top of a wooden staircase. Downstairs is the bar.
+To the west you can hear laughter and the low murmur of voices.
+~
+0 8 1
+D3
+You see a hallway.
+~
+~
+0 -1 10289
+D5
+You see a wooden staircase.
+~
+~
+0 -1 10281
+C 0
+S
+#10291
+{MNorth End of Bar.{x~
+A smoky fire struggles in the blackened stove, feebly challenging
+the gloom in the town. In sharp contrast to the usual lively crowd,
+the few patrons present are lost in their own thoughts. No one
+smiles, nor does anyone seem interested in the arrival of a few
+more customers. 
+~
+0 8 1
+D2
+You see main bar.
+~
+~
+0 -1 10281
+C 0
+S
+#10292
+{MCaptain's Office.{x~
+This is the office of the Captain of the Guard. Leather couches
+and a solid marble desk sit against the far wall. A weapons
+cabinet stands against the west wall. The Captain has a large
+portrait of himself on the wall behind his desk.
+A pair of heavy metal doors with the emblem of the townguard
+is on the north wall.
+~
+0 8 1
+D0
+You see a set of Heavy Metal Doors with the emblem of the townguard.
+~
+doors~
+1 -1 10302
+D2
+A wall.
+~
+wall~
+0 -1 10282
+C 0
+S
+#10293
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 10303
+D1
+You see a hallway.
+~
+~
+0 -1 10294
+C 0
+S
+#10294
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D1
+You see a reception area.
+~
+~
+0 -1 10295
+D2
+You see a hallway.
+~
+~
+0 -1 10284
+D3
+You see a hallway.
+~
+~
+0 -1 10293
+C 0
+S
+#10295
+{MLieutenant's Reception Area.{x~
+This is the waiting room for meetings with the Lieutenant Commander.
+The furniture is made of vallenwood and the walls are covered with
+finger paintings. Various crayon drawings are framed behind the
+secretary 's desk.
+A glass door with the townguard emblem is to the north.
+~
+0 8 1
+D0
+You see a glass door with the townguard emblem.
+~
+door~
+1 -1 10305
+D3
+You see a hallway.
+~
+~
+0 -1 10294
+C 0
+S
+#10296
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 10306
+D2
+You see a hallway.
+~
+~
+0 -1 10286
+C 0
+S
+#10297
+{MLong Hallway{x~
+This hallway is sparse compared to some of the others. It seems to go
+on and on. The marble floors are barren of any type of decorations.
+The walls are rough stone bound by large wooden beams. This is maybe
+the only hallway that doesn't have large amounts of gold and other artifacts.
+~
+0 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 10307
+D2
+You see a hallway.
+~
+~
+0 -1 10287
+C 0
+S
+#10298
+{MHallway{x~
+You are standing in an old vallenwood hallway.
+~
+0 8 1
+D0
+You see reading room.
+~
+~
+0 -1 10308
+D2
+You see a hallway.
+~
+~
+0 -1 10288
+C 0
+S
+#10299
+{MPrivate Room{x~
+This is a private room. Those with some money can rent these rooms instead
+of staying in the common room. It is well furnished with a large bed and
+other bedroom stuff.
+There is a door to the north.
+~
+0 8 1
+D0
+You see a door.
+~
+door~
+1 -1 10309
+C 0
+S
+#10300
+{MPrivate Room{x~
+This is a private room. Those with some money can rent these rooms instead
+of staying in the common room. It is well furnished with a large bed and
+other bedroom stuff.
+There is a door to the north.
+~
+0 8 1
+D0
+You see a door.
+~
+door~
+1 -1 10310
+C 0
+S
+#10301
+{MPrivate Room{x~
+This is a private room. Those with some money can rent these rooms instead
+of staying in the common room. It is well furnished with a large bed and
+other bedroom stuff.
+There is a door to the north.
+~
+0 8 1
+D0
+You see a door.
+~
+door~
+1 -1 10311
+C 0
+S
+#10302
+{MCaptain's Meeting room.{x~
+You are standing in the meeting room of the Captain of the Guard. This
+is where he holds his administrative meetings and other official functions.
+A large meeting tables sits in the middle of the room.
+There is a pair of glass double doors to the north.
+There is a pair of heavy metal doors with the emblem of the 
+townguard to the south.
+~
+0 8 1
+D0
+You see Glass Double Doors.
+~
+doors~
+1 -1 10312
+D2
+You see a set of Heavy Metal Doors with the emblem of the townguard.
+~
+doors~
+1 -1 10292
+C 0
+S
+#10303
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 10313
+D2
+You see a hallway.
+~
+~
+0 -1 10293
+C 0
+S
+#10304
+{MGuards Room.{x~
+There are many barrels and chests of food in here. All of it looks spoiled.
+This is where the town guards hang out when not on duty.
+There is an oak door to the north.
+~
+0 8 1
+D0
+You see a oak door.
+~
+door~
+1 -1 10314
+C 0
+S
+#10305
+{MLieutenant's Office.{x~
+This is the Office of the Lieutenant Commander. He basicially does
+nothing all day. Hence the fingerpainting tacked to all the walls.
+The furniture is more fitting to a 7 year old than that of a commander.
+Small plastic furniture and plastic flowers adorn the office.
+You see a glass door with the townguard emblem to the south.
+~
+0 8 1
+D2
+You see a glass door.
+~
+door~
+1 -1 10295
+C 0
+S
+#10306
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 10316
+D2
+You see a hallway.
+~
+~
+0 -1 10296
+C 0
+S
+#10307
+{MLong Hallway{x~
+This hallway is sparse compared to some of the others. It seems to go
+on and on. The marble floors are barren of any type of decorations.
+The walls are rough stone bound by large wooden beams. This is maybe
+the only hallway that doesn't have large amounts of gold and other artifacts.
+~
+0 8 1
+D0
+You see the end of a long hallway.
+~
+~
+0 -1 10317
+D2
+You see a hallway.
+~
+~
+0 -1 10297
+C 0
+S
+#10308
+{MReading Room.{x~
+This is an afternoon reading room. Its especially nice on sunny days when
+the afternoon sun shines through the large picture window. Many books
+line the walls. All look pretty boring and seem to be more for show than
+for reading.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10309
+D2
+You see a hallway.
+~
+~
+0 -1 10298
+C 0
+S
+#10309
+{MHallway{x~
+You are standing in an old vallenwood hallway.
+This corridor is lined with the more expensive private rooms.
+There is a door to the south.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10310
+D2
+You see a door.
+~
+door~
+1 -1 10299
+D3
+You see a reading room.
+~
+~
+0 -1 10308
+C 0
+S
+#10310
+{MHallway{x~
+You are standing in an old vallenwood hallway.
+This corridor is lined with the more expensive private rooms.
+There is a door to the south.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10311
+D2
+You see a door.
+~
+door~
+1 -1 10300
+D3
+You see a hallway.
+~
+~
+0 -1 10309
+C 0
+S
+#10311
+{MHallway{x~
+You are standing in an old vallenwood hallway.
+This corridor is lined with the more expensive private rooms.
+There is a door to the south.
+~
+0 8 1
+D2
+You see a door.
+~
+door~
+1 -1 10301
+D3
+You see a hallway.
+~
+~
+0 -1 10310
+C 0
+S
+#10312
+{MCaptain's Waiting Room.{x~
+This is the Reception area for the the Captain of the Guard. A large portrait
+of the Captain is on the north wall. With the amount of extravagance and 
+expensive items that decorate this room you wonder how he gets away with
+it. The title Sultan would be more appropriate than Captain of the Guard.
+You see an oak door to the east.
+There are a pair of glass double doors to the south.
+~
+0 8 1
+D1
+You see a oak door.
+~
+door~
+1 -1 10313
+D2
+You see Glass Double Doors.
+~
+doors~
+1 -1 10302
+C 0
+S
+#10313
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+The Captain of the Guard's waiting room is to the west.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10314
+D2
+You see a hallway.
+~
+~
+0 -1 10303
+D3
+You see Captain's waiting room door.
+~
+door~
+1 -1 10312
+C 0
+S
+#10314
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+There is an oak door to the south.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10315
+D2
+You see a oak door.
+~
+door~
+1 -1 10304
+D3
+You see a hallway.
+~
+~
+0 -1 10313
+C 0
+S
+#10315
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 10316
+D3
+You see a hallway.
+~
+~
+0 -1 10314
+C 0
+S
+#10316
+{MAdministration Hallway{x~
+The hallway is just as extravagant as all the others in this building.
+Gem mosaics cover the walls, and intricate patterns are carved in the
+gold laden floors. This doesn't look like an admistration building,
+more like a palace.
+~
+0 8 1
+D1
+You see the end of a long hallway.
+~
+~
+0 -1 10317
+D2
+You see a hallway.
+~
+~
+0 -1 10306
+D3
+You see a hallway.
+~
+~
+0 -1 10315
+C 0
+S
+#10317
+{MEnd of Long Hall{x~
+This is the end of a long and lavish hallway. exquisite paintings and
+statues line the walls. The ceilings are covered with colorful mosaics.
+~
+0 8 1
+D2
+You see a hallway.
+~
+~
+0 -1 10307
+D3
+You see a hallway.
+~
+~
+0 -1 10316
+C 0
+S
+#10318
+{MAncient Relics of Solace{x~
+You find yourself surrounded by ancient writings on the wall, and shelves
+full of old books.  The is an old mand behind the counter, something is very
+unique about him.  
+~
+0 8 1
+D2
+~
+~
+0 0 10226
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 10201 spec_cast_mage
+M 10202 spec_cast_cleric
+M 10203 spec_cast_mage
+M 10204 spec_guard
+M 10205 spec_guard
+M 10208 spec_cast_cleric
+M 10211 spec_cast_cleric
+M 10212 spec_cast_undead
+M 10213 spec_cast_undead
+M 10214 spec_cast_undead
+M 10215 spec_guard
+M 10217 spec_thief
+M 10218 spec_guard
+M 10223 spec_cast_mage
+M 10224 spec_cast_mage
+M 10226 spec_cast_mage
+M 10229 spec_thief
+M 10232 spec_thief
+M 10233 spec_cast_mage
+M 10234 spec_thief
+M 10236 spec_cast_cleric
+M 10242 spec_cast_undead
+M 10243 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 10202 1 1
+D 0 10202 3 1
+D 0 10206 2 1
+D 0 10211 3 1
+D 0 10212 3 1
+D 0 10215 0 1
+D 0 10218 0 1
+D 0 10222 1 1
+D 0 10226 2 1
+D 0 10227 2 1
+D 0 10243 0 1
+D 0 10244 0 1
+D 0 10245 3 1
+D 0 10246 1 1
+D 0 10247 2 1
+D 0 10249 3 1
+D 0 10250 1 1
+D 0 10251 0 1
+D 0 10254 1 1
+D 0 10255 1 1
+D 0 10256 0 1
+D 0 10256 2 1
+D 0 10257 3 1
+D 0 10259 2 1
+D 0 10263 1 1
+D 0 10264 1 1
+D 0 10264 3 1
+D 0 10265 3 1
+D 0 10266 1 1
+D 0 10266 3 2
+D 0 10267 1 2
+D 0 10268 0 1
+D 0 10270 0 1
+D 0 10270 1 1
+D 0 10270 2 1
+D 0 10270 3 1
+D 0 10271 3 1
+D 0 10273 0 1
+D 0 10275 0 1
+D 0 10276 2 1
+D 0 10279 0 1
+D 0 10281 1 1
+D 0 10282 0 1
+D 0 10282 3 1
+D 0 10283 2 1
+D 0 10285 2 1
+D 0 10289 2 1
+D 0 10292 0 1
+D 0 10295 0 1
+D 0 10299 0 1
+D 0 10300 0 1
+D 0 10301 0 1
+D 0 10302 0 1
+D 0 10302 2 1
+D 0 10304 0 1
+D 0 10305 2 1
+D 0 10309 2 1
+D 0 10310 2 1
+D 0 10311 2 1
+D 0 10312 1 1
+D 0 10312 2 1
+D 0 10313 3 1
+D 0 10314 2 1
+M 0 10215 40 10201 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10201 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10201 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10201 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10216 10 10201 1
+M 0 10241 8 10203 1
+M 0 10215 40 10205 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10205 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10205 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10205 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10216 10 10205 1
+M 0 10215 40 10209 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10209 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10209 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10209 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10216 10 10210 1
+M 0 10206 10 10211 1
+M 0 10204 12 10213 2
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10204 12 10213 2
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10216 10 10218 1
+M 0 10204 12 10220 2
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10204 12 10220 2
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10216 10 10222 1
+M 0 10241 8 10222 1
+M 0 10215 40 10224 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10224 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10224 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10224 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10242 4 10226 1
+M 0 10206 10 10231 1
+M 0 10241 8 10231 1
+M 0 10215 40 10233 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10233 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10233 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10233 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10219 1 10234 1
+G 0 10251 0
+G 0 10252 0
+G 0 10253 0
+G 0 10254 0
+M 0 10220 1 10235 1
+G 0 10259 0
+G 0 10260 0
+G 0 10261 0
+G 0 10262 0
+M 0 10221 1 10236 1
+G 0 10263 0
+G 0 10264 0
+G 0 10265 0
+M 0 10222 1 10237 1
+G 0 10266 0
+G 0 10267 0
+G 0 10268 0
+G 0 10269 0
+M 0 10223 1 10238 1
+G 0 10270 0
+G 0 10270 0
+G 0 10270 0
+G 0 10270 0
+M 0 10224 1 10239 1
+G 0 10271 0
+G 0 10272 0
+G 0 10273 0
+G 0 10274 0
+M 0 10225 1 10240 1
+G 0 10275 0
+G 0 10276 0
+G 0 10277 0
+G 0 10278 0
+M 0 10226 1 10241 1
+G 0 10279 0
+G 0 10280 0
+G 0 10281 0
+M 0 10208 1 10242 1
+E 0 10240 0 5
+G 0 10255 0
+G 0 10256 0
+G 0 10257 0
+G 0 10258 0
+M 0 10206 10 10243 1
+M 0 10207 5 10243 1
+M 0 10238 10 10243 1
+M 0 10206 10 10244 1
+M 0 10207 5 10244 1
+M 0 10238 10 10244 1
+M 0 10210 1 10245 1
+G 0 10245 0
+G 0 10246 0
+G 0 10247 0
+G 0 10248 0
+M 0 10206 10 10246 1
+M 0 10207 5 10246 1
+M 0 10238 10 10246 1
+M 0 10241 8 10246 1
+M 0 10216 10 10247 1
+M 0 10237 6 10247 1
+M 0 10209 1 10248 1
+G 0 10241 0
+G 0 10242 0
+G 0 10243 0
+G 0 10244 0
+M 0 10206 10 10249 1
+M 0 10207 5 10249 1
+M 0 10238 10 10249 1
+M 0 10206 10 10251 1
+M 0 10207 5 10251 1
+M 0 10238 10 10251 1
+M 0 10241 8 10251 1
+M 0 10211 1 10252 1
+M 0 10253 1 10253 1
+M 0 10252 1 10253 1
+M 0 10251 1 10253 1
+M 0 10250 1 10253 1
+M 0 10216 10 10254 1
+M 0 10239 5 10254 1
+M 0 10240 4 10254 1
+M 0 10213 5 10255 1
+M 0 10214 1 10255 1
+G 0 10307 0
+G 0 10309 0
+M 0 10216 10 10255 1
+M 0 10213 5 10256 1
+M 0 10216 10 10256 1
+M 0 10213 5 10257 1
+M 0 10216 10 10257 1
+O 0 10310 0 10258
+M 0 10212 5 10259 1
+M 0 10205 4 10260 2
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10205 4 10260 2
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10205 4 10261 2
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10205 4 10261 2
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10206 10 10262 1
+M 0 10215 40 10264 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10264 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10264 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10264 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10217 1 10266 1
+E 0 10249 0 16
+E 0 10305 0 17
+M 0 10218 4 10267 4
+E 0 10236 0 5
+E 0 10250 0 16
+M 0 10218 4 10267 4
+E 0 10236 0 5
+E 0 10250 0 16
+M 0 10218 4 10267 4
+E 0 10236 0 5
+E 0 10250 0 16
+M 0 10218 4 10267 4
+E 0 10236 0 5
+E 0 10250 0 16
+O 0 10302 0 10267
+P 0 10303 4 10302 1
+O 0 10302 0 10267
+P 0 10303 4 10302 1
+O 0 10302 0 10267
+P 0 10303 4 10302 1
+O 0 10302 0 10267
+P 0 10303 4 10302 1
+M 0 10241 8 10268 1
+M 0 10232 1 10269 1
+O 0 10304 0 10269
+M 0 10241 8 10273 1
+M 0 10249 1 10273 1
+M 0 10233 5 10278 1
+E 0 10282 0 12
+E 0 10283 0 16
+E 0 10284 0 17
+M 0 10234 5 10278 1
+E 0 10283 0 16
+E 0 10286 0 5
+E 0 10287 0 3
+M 0 10235 5 10278 1
+E 0 10288 0 16
+E 0 10289 0 5
+E 0 10290 0 11
+M 0 10236 5 10278 1
+E 0 10285 0 17
+E 0 10291 0 16
+E 0 10282 0 12
+M 0 10233 5 10279 1
+E 0 10282 0 12
+E 0 10283 0 16
+E 0 10284 0 17
+M 0 10234 5 10279 1
+E 0 10283 0 16
+E 0 10286 0 5
+E 0 10287 0 3
+M 0 10235 5 10279 1
+E 0 10288 0 16
+E 0 10289 0 5
+E 0 10290 0 11
+M 0 10236 5 10279 1
+E 0 10285 0 17
+E 0 10291 0 16
+E 0 10282 0 12
+M 0 10242 4 10279 1
+M 0 10233 5 10280 1
+E 0 10282 0 12
+E 0 10283 0 16
+E 0 10284 0 17
+M 0 10234 5 10280 1
+E 0 10283 0 16
+E 0 10286 0 5
+E 0 10287 0 3
+M 0 10235 5 10280 1
+E 0 10288 0 16
+E 0 10289 0 5
+E 0 10290 0 11
+M 0 10236 5 10280 1
+E 0 10285 0 17
+E 0 10291 0 16
+E 0 10282 0 12
+M 0 10242 4 10280 1
+M 0 10233 5 10281 1
+E 0 10282 0 12
+E 0 10283 0 16
+E 0 10284 0 17
+M 0 10234 5 10281 1
+E 0 10283 0 16
+E 0 10286 0 5
+E 0 10287 0 3
+M 0 10235 5 10281 1
+E 0 10288 0 16
+E 0 10289 0 5
+E 0 10290 0 11
+M 0 10236 5 10281 1
+E 0 10285 0 17
+E 0 10291 0 16
+E 0 10282 0 12
+M 0 10206 10 10281 1
+M 0 10227 1 10281 1
+G 0 10307 0
+G 0 10309 0
+M 0 10228 1 10281 1
+G 0 10307 0
+G 0 10309 0
+M 0 10215 40 10282 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10282 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10282 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10282 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10203 1 10283 1
+E 0 10226 0 6
+E 0 10300 0 5
+E 0 10227 0 10
+E 0 10228 0 7
+E 0 10229 0 9
+E 0 10230 0 8
+E 0 10231 0 3
+E 0 10232 0 13
+E 0 10209 0 4
+E 0 10233 0 11
+E 0 10235 0 16
+E 0 10212 0 1
+E 0 10234 0 14
+E 0 10234 0 15
+M 0 10215 40 10285 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10285 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10285 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10285 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10204 12 10285 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10204 12 10285 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10204 12 10285 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10204 12 10285 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10215 40 10287 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10287 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10287 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10287 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10233 5 10291 1
+E 0 10282 0 12
+E 0 10283 0 16
+E 0 10284 0 17
+M 0 10234 5 10291 1
+E 0 10283 0 16
+E 0 10286 0 5
+E 0 10287 0 3
+M 0 10235 5 10291 1
+E 0 10288 0 16
+E 0 10289 0 5
+E 0 10290 0 11
+M 0 10236 5 10291 1
+E 0 10285 0 17
+E 0 10291 0 16
+E 0 10282 0 12
+M 0 10229 1 10291 1
+M 0 10230 3 10291 1
+M 0 10231 1 10291 1
+M 0 10201 1 10292 1
+E 0 10201 0 6
+E 0 10298 0 5
+E 0 10202 0 10
+E 0 10203 0 7
+E 0 10204 0 9
+E 0 10205 0 8
+E 0 10206 0 3
+E 0 10207 0 13
+E 0 10209 0 4
+E 0 10208 0 11
+G 0 10210 0
+E 0 10306 0 17
+E 0 10211 0 16
+E 0 10212 0 1
+E 0 10213 0 14
+E 0 10213 0 15
+O 0 10214 0 10292
+M 0 10248 1 10295 1
+M 0 10241 8 10296 1
+M 0 10242 4 10299 1
+M 0 10243 1 10300 1
+E 0 10292 0 17
+E 0 10293 0 12
+M 0 10244 1 10301 1
+E 0 10294 0 5
+E 0 10297 0 16
+E 0 10296 0 11
+M 0 10245 1 10302 1
+M 0 10246 3 10302 1
+M 0 10215 40 10304 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10215 40 10304 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10215 40 10304 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10215 40 10304 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10204 12 10304 4
+E 0 10236 0 5
+E 0 10237 0 16
+M 0 10204 12 10304 4
+E 0 10236 0 5
+E 0 10238 0 16
+M 0 10204 12 10304 4
+E 0 10236 0 5
+E 0 10239 0 16
+M 0 10204 12 10304 4
+E 0 10236 0 5
+E 0 10301 0 16
+M 0 10202 1 10305 1
+E 0 10216 0 6
+E 0 10299 0 5
+E 0 10217 0 10
+E 0 10218 0 7
+E 0 10219 0 9
+E 0 10220 0 8
+E 0 10221 0 3
+E 0 10222 0 13
+E 0 10209 0 4
+E 0 10223 0 11
+E 0 10225 0 16
+E 0 10212 0 1
+E 0 10224 0 14
+E 0 10224 0 15
+M 0 10247 1 10312 1
+M 0 10254 1 10318 1
+S
+
+
+
+#SHOPS
+10208 0 0 0 0 0 105 15 0 23
+10209 0 0 0 0 0 110 100 6 17
+10210 0 0 0 0 0 110 100 6 17
+10211 0 0 0 0 0 110 100 0 23
+10214 0 0 0 0 0 110 100 0 23
+10219 0 0 0 0 0 110 100 4 20
+10220 0 0 0 0 0 110 100 4 20
+10221 0 0 0 0 0 125 75 4 20
+10223 10 0 0 0 0 125 75 4 20
+10224 5 0 0 0 0 125 75 4 20
+10225 22 0 0 0 0 125 75 4 20
+10226 15 0 0 0 0 125 75 4 20
+10227 0 0 0 0 0 105 15 0 23
+10254 0 0 0 0 0 100 100 9 17
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,339 @@
+#PLAYER
+Name Hiro~
+Id   1110520151
+LogO 1110525514
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Darkelf~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 12
+OldLvl 12
+Sec  0
+Plyd 5363
+Scro 33
+Room 3054
+HMV  152 152 126 126 44 166
+Gold 1117
+Silv 30114
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 12
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  26493
+PAct  DEFGQTd
+AfBy FTVe
+WName Hiro~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Save  -32
+Alig  -1000
+Hit   192
+Dam   115
+ACs -307 -302 -309 -213
+Attr 17 19 19 14 12
+AMod 4 1 1 5 0
+Pass HiZUpkr/2WXzk~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 62
+TSex 1
+PSize 2
+LLev 1
+HMVP 152 126 166
+Cnd  0 10 47 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'detect hidden'
+Sk 76 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 61 'enhanced damage'
+Sk 76 'kick'
+Sk 57 'dodge'
+Sk 1 'parry'
+Sk 75 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Affc 'giant strength'   0 484 431   4   1          0
+Affc 'fly'   0 487 434   0   0     524288
+Affc 'stone skin'   0 485 431 -40  17          0
+Affc 'combat mind'   0 486  97 100  19          0
+Affc 'combat mind'   0 492  97 -255  17          0
+Affc 'combat mind'   0 479  97 100  18          0
+Affc 'haste'   0 490  56   4   2    2097152
+Affc 'golden aura'   0 489  42   0   0 1073741824
+Affc 'bless'   0 242  55 -31  20          0
+Affc 'bless'   0 237  55  62  18          0
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 28 0 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 5774
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  12
+Cost 700
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#END

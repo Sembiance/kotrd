@@ -1,0 +1,236 @@
+#PLAYER
+Name Maya~
+Id   1100049549
+LogO 1105305711
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Human~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 57
+OldLvl 57
+Sec  0
+Plyd 201053
+Scro 33
+Room 3770
+HMV  1253 1253 468 468 601 601
+Gold 25
+Silv 956
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 57
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  57157
+QuestPnts 100
+PAct  CDQTd
+AfBy NTVe
+WName Maya~
+Comm FMNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 33
+Trai 11
+Save  187
+Alig  -949
+Hit   248
+Dam   109
+ACs -358 -357 -361 -312
+Attr 15 18 18 18 18
+AMod 5 0 0 9 1
+Pass MakAzQcZ1QkDs~
+Titl  {x~
+Pnts 40
+TSex 2
+PSize 2
+LLev 32
+HMVP 668 238 436
+Cnd  0 0 0 20
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'sword'
+Sk 82 'dagger'
+Sk 76 'assassinate'
+Sk 75 'dual wield'
+Sk 76 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 75 'dodge'
+Sk 75 'parry'
+Sk 75 'trip'
+Sk 77 'second attack'
+Sk 76 'third attack'
+Sk 1 'envenom'
+Sk 77 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'protection evil'   0 498  19 250  20       8192
+Affc 'giant strength'   0 500 495   4   1          0
+Affc 'fly'   0 498 498   0   0     524288
+Affc 'stone skin'   0 499 495 -40  17          0
+Affc 'combat mind'   0 499 161 100  19          0
+Affc 'combat mind'   0 499 161 -255  17          0
+Affc 'combat mind'   0 500 161 100  18          0
+Affc 'bless'   0 499 245 -62  20          0
+Affc 'bless'   0 499 245 125  18          0
+Affc 'haste'   0 498 120   4   2    2097152
+Affc 'golden aura'   0 499 106   0   0 1073741824
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 55 0 0
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 23211
+Nest 0
+Cond 0
+Wear 12
+Cost 36000
+End
+
+#O
+Vnum 23215
+Nest 0
+Cond 0
+Wear 7
+Cost 60000
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 23214
+Nest 0
+Cond 0
+Wear 8
+Cost 30000
+End
+
+#O
+Vnum 14242
+Nest 0
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#END

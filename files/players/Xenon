@@ -1,0 +1,84 @@
+#PLAYER
+Name Xenon~
+Id   1100709985
+LogO 1100732293
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Seraph~
+Sex  1
+Cla  6
+OCla -1
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 1554
+Scro 33
+Room 4206
+HMV  82 82 113 113 130 130
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  12196
+PAct  DEFQTd
+AfBy FTe
+WName Xenon~
+Comm NO
+Deaf DP
+Pos  8
+Prac 14
+Trai 8
+Save  -31
+Alig  1000
+Hit   162
+Dam   100
+ACs -175 -175 -175 -175
+Attr 19 13 17 11 13
+AMod 0 0 0 0 0
+Pass Xe3AheJj0v2wk~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 60
+TSex 1
+PSize 2
+LLev 0
+HMVP 82 113 130
+Cnd  0 26 28 37
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 41 'sword'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+Affc 'bless'   0 250 114 -31  20          0
+Affc 'bless'   0 247 114  62  18          0
+Affc 'combat mind'   0 496 152 100  19          0
+Affc 'combat mind'   0 499 152 -255  17          0
+Affc 'combat mind'   0 499 152 100  18          0
+Affc 'golden aura'   0 498  97   0   0 1073741824
+Affc 'armor'   0 245  76 -20  17          0
+End
+
+#END

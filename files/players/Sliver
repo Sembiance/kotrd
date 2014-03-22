@@ -1,0 +1,91 @@
+#PLAYER
+Name Sliver~
+Id   1094655359
+LogO 1141413030
+Vers 5
+Prom <%hhp %mm %vmv {g%X{wtnl><%K> ~
+Race Lamia~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 12
+OldLvl 12
+Sec  0
+Plyd 4120
+Scro 33
+Room 3269
+HMV  210 157 126 126 188 166
+Gold 157
+Silv 59
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 12
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  13916
+PAct  DFGQTd
+AfBy DEF
+WName Sliver~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 8
+Alig  -1000
+ACs 80 80 80 80
+Attr 13 13 15 20 17
+AMod 0 0 0 0 0
+Pass SleanBE4V6uZ2~
+Titl .~
+Pnts 42
+TSex 2
+PSize 3
+LLev 1
+HMVP 157 126 166
+Cnd  0 0 32 16
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'acid blast'
+Sk 1 'stone skin'
+Sk 42 'dagger'
+Sk 12 'mace'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 75 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Affc 'armor'   0 242  52 -20  17          0
+Affc 'detect invis'   0  10   3   0   0          8
+Affc 'detect hidden'   0   7   3   0   0         32
+Affc 'detect magic'   0   9   3   0   0         16
+End
+
+#O
+Vnum 6515
+Enchanted
+Nest 0
+ExtF 69
+Cond 0
+Wear -1
+Lev  11
+Cost 500
+Affc 'reserved'   1  10  -1   2   1          0
+Affc 'reserved'   1  10  -1   4  19          0
+Affc 'reserved'   1  10  -1   5  18          0
+Affc 'enchant weapon'   1  78  -1  11  19          0
+Affc 'enchant weapon'   0  78  -1  19  18          0
+End
+
+#END

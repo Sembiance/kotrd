@@ -1,0 +1,1424 @@
+#AREADATA
+Name Shaolin Temple~
+Builders Boom~
+VNUMs 25100 25199
+Credits 15 -  25~
+Security 8
+Flags F
+LEVELs 4 25
+End
+
+
+
+#MOBILES
+#25101
+monk child~
+A monk child~
+{cA monk child is here sweeping the floor.{x
+~
+He is only a child, surely you will want to pick on someone your own size.
+~
+Human~
+ACGH 0 500 0
+0
+6 1 2d5+70 0d0+0 1d3+1 pound
+5 5 5 5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#25102
+female prisoner~
+An imprisoned nun~
+{cA female prisoner cringes away from you in terror.{x
+~
+Judging from what is left of her clothes, she appears to be a nun.
+~
+Human~
+ACG 0 0 0
+0
+4 2 2d20+30 0d0+0 1d1+2 pound
+8 8 8 8
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKMV medium unknown
+#25103
+disciple~
+A disciple~
+{cA disciple tries to impress you with his new skills.{x
+~
+One of the many who came here to learn the Shaolin martial skills. Like 
+many others, he seems quite hopeless.
+~
+Human~
+ABCH 0 100 0
+0
+5 5 2d10+45 0d0+0 1d5+4 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#25104
+monk~
+A monk~
+{cA monk is here practicing his skills. Watch it!{x
+~
+You take a step back to ensure you're out of the range of his deadly moves.
+~
+Human~
+ABC 0 201 0
+0
+6 8 5d5+50 10d10+300 3d3+9 pound
+6 6 6 6
+F 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#25105
+monk guard~
+A monk guard~
+{cA monk guard charges at you for intruding this room!{x
+~
+Armed and dangerous, you don't want to mess with him.
+~
+Human~
+ABCF DFJ -100 0
+0
+5 7 2d20+58 0d0+0 2d5+5 pound
+3 3 3 3
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#25106
+demon~
+Your own inner demon~
+{cYour own inner demon screams and attacks!{x
+~
+This extremely ugly creature looks very familiar. Wait a minute, it looks
+exactly like you. In fact, it is you!
+~
+Human~
+ABCDFGJU DFHJ -201 0
+0
+6 8 3d10+60 0d0+0 2d7+8 pound
+2 2 2 2
+IM 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25107
+evil monk~
+An evil monk~
+{cAn evil monk jumps from the ceiling and took you by surprise!{x
+~
+He looks about the same with the rest of the monks here.  In fact,he looks
+more friendly than the rest.  Too bad he doesn't like your face.
+~
+Human~
+ACDFG DFJ -300 0
+0
+6 8 3d10+60 0d0+0 2d7+8 pound
+2 2 2 2
+HI 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25108
+wood wooden monk man machine~
+The wooden man~
+{cThe wooden man fighting machine creaks and pummels you!{x
+~
+Made entirely of hard wood and controlled mechanically by chains and pulleys,
+this is one tough bugger.
+~
+Human~
+AFY DFJ 0 0
+0
+6 8 3d10+60 0d0+0 2d7+8 pound
+2 2 2 2
+HI 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25109
+monk warrior~
+The monk warrior~
+{cA monk warrior struts proudly here.{x
+~
+Recently promoted to warrior status, he takes a look at your puny size and
+laughs in your face.
+~
+Human~
+ACGH N 201 0
+0
+4 4 2d7+40 0d0+0 1d7+4 pound
+7 7 7 7
+I 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#25110
+luohan Luohan bronze monk~
+The Luohan~
+{cThe Luohan stands motionlessly here, waiting for you to attack.{x
+~
+With skin as tough as bronze, these monks are among the most highly skilled.
+You don't want to mess with them.  Then again, do you have a choice?
+~
+Giant~
+ABC HJN 500 0
+0
+5 6 3d8+60 0d0+0 2d7+7 pound
+5 5 5 5
+0 H EGHI JP
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25111
+Wuhua wuhua monk~
+Wuhua~
+{cWuhua screams with a wild sense of joy as he pounces on you!{x
+~
+Looking every bit like a pervert, he just can't wait to lay his filthy
+claws on you.
+~
+Human~
+ACFG DFHJ -500 0
+0
+5 8 2d10+45 0d0+0 2d4+3 pound
+4 4 4 4
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#25112
+master librarian monk~
+The Master of Books~
+{cA master sits here reading his books, oblivious to your intrusion.{x
+~
+He looks old and his eyes are failing him.  In one hand, he holds a lighted
+candle to help him read better.
+~
+Human~
+AB HN 500 0
+0
+20 20 8d8+150 10d10+300 5d5+15 pound
+2 2 2 2
+CFN J 0 O
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25113
+master monk drunken~
+The Drunken Master~
+{cA master is resting here, looking very intoxicated.{x
+~
+Hmm.. Are monks supposed to do this? You pondered as you look at this 
+pathetic excuse for a human being.
+~
+Human~
+ACGH HN 250 0
+0
+20 20 10d8+300 10d10+300 3d5+15 pound
+2 2 2 2
+FHN 0 HN J
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25114
+master monk trainer~
+The Master Trainer~
+{cA master is here doing pushups with one finger.{x
+~
+Wow. What a amazing feat! Such demonstration of strength and control.
+Don't you wish you can do that.
+~
+Human~
+ACGH BHN 500 0
+0
+5 5 2d6+45 0d0+0 2d4+4 pound
+4 4 4 4
+C 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJKMV medium unknown
+#25115
+abbot Abbot monk~
+The Abbot of Shaolin~
+{cThe Abbot of Shaolin nods in your direction, acknowledging your presence.{x
+~
+Looking strong and healthy even at this age, the Abbot cuts an impressive 
+figure.
+~
+Human~
+ACGH HNT 800 0
+0
+10 25 8d8+120 10d10+300 2d3+10 pound
+5 5 5 5
+CFH 0 J H
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25116
+Jinshen jinshen~
+The Jinshen~
+{cA Jinshen sits here, undisturbed.{x
+~
+Covered from head to toe with gold flakes, this mortal shell of a former
+high monk has been perfectly preserved.
+~
+Human~
+AB BDHNQ 1000 0
+0
+10 10 8d8+100 10d10+300 4d4+12 pound
+5 5 5 5
+FN 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#25117
+guest visitor~
+The visiting guest~
+{cA visiting guest stands here.{x
+~
+Looking at his best in his fine clothing, he looks rather wealthy.
+~
+Human~
+ACGH 0 0 0
+0
+5 6 0d0+0 0d0+0 2d8+40 pound
+6 6 6 6
+I 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#25118
+old man~
+a crazy old man~
+{cA crazy old man sits on the shore, staring at everything.{x
+~
+He keeps staring into space, and says 'I see you, KhyrhaZenin, you will die!
+I know your name, KhyrhaZenin, and I will come get you! HAHAHAHA'
+He must be crazy.'
+~
+Human~
+ABF 0 0 0
+0
+25 22 6d16+550 1d1+499 2d10+14 pound
+-6 -6 -6 -6
+HIN P 0 T
+stand stand male 450
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#25101
+candle lighted~
+a lighted candle~
+A lighted candle stands here, providing little light and warm.~
+SELECT_A_MATERIAL light_source 0 A
+0 0 DFGHIJ 0 0
+5 5 150 P
+#25102
+candle lighted~
+a lighted candle~
+A lighted candle stands here, providing little light and warm.~
+SELECT_A_MATERIAL light_source 0 A
+0 0 DFGHIJ 0 0
+5 5 150 P
+#25106
+hot steaming bun~
+a steaming hot bun~
+A steaming hot bun lies here waiting to be consumed.~
+SELECT_A_MATERIAL food 0 A
+CD C 0 0 0
+5 1 10 P
+#25107
+treasure~
+a huge treasure~
+A huge treasure of Shaolin beckons you.~
+SELECT_A_MATERIAL money 0 A
+ABCD 0 0 0 0
+0 40 0 P
+#25108
+flame mercy~
+the Flame of Mercy~
+Sparks of beautiful multi-colored light envelops you.~
+SELECT_A_MATERIAL light_source ABGI AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10 10 1500 P
+A
+19 2
+A
+13 20
+E
+sparks flame mercy light~
+A gift to the mortal world from the Goddess of Mercy.
+~
+#25109
+manual book Jiuyangzhenjing jiuyangzhenjing~
+a Jiuyangzhenjing manual~
+An old chinese manual is discarded here.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+20 25 0 P
+E
+book manual jiuyangzhenjing Jiuyangzhenjing~
+One of the most sought after manual in Shaolin. It is believed to contain 
+a powerful source of Yang energy.
+~
+#25110
+manual book jiuyingzhenjing Jiuyingzhenjing~
+a Jiuyingzhenjing manual~
+An old chinese manual is discarded here.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+20 10 0 P
+E
+manual book jiuyingzhenjing Jiuyingzhenjing~
+This is the counterpart of the Jiuyangzhenjing.  It is believed to contain
+a powerful source of Ying energy.
+~
+#25111
+manual book Yijinjing yijinjing~
+a Yijinjing manual~
+A book of some sort is left on the floor.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+20 10 0 P
+E
+manual book Yijinjing yijinjing~
+This is the legendary healing manual of Shaolin.  It is said to be able to
+bring the dead alive!
+~
+#25112
+sabre dragon~
+the Dragon Sabre~
+A huge sabre with a dragon motif is planted firmly in the ground.~
+SELECT_A_MATERIAL weapon ABDFKL AN
+sword 2 6 slice 0
+10 11 650 P
+A
+19 5
+A
+18 5
+E
+sabre dragon~
+This heavy weapon glows and hums as you lay it upon your laps. The dragon 
+carved into it seems almost alive.
+~
+#25113
+half moon knife dagger~
+a half-moon knife~
+A massive knife is lying on the table.~
+STEEL weapon 0 AN
+dagger 3 4 pierce 0
+2 40 210 P
+E
+half moon knife~
+Shaped like a half moon, this knife can be deadly in the hands of a skilled
+exponent.
+~
+#25114
+chain whip~
+a chain whip~
+A whip made of chains is left on the floor.~
+SELECT_A_MATERIAL weapon BG AN
+whip 1 6 whip 0
+10 11 500 P
+A
+19 3
+A
+18 3
+E
+chain whip~
+Written on it : Made in Shaolin Temple.
+~
+#25115
+bronze key~
+a bronze key~
+A bronze key lies half buried in the ground.~
+SELECT_A_MATERIAL key A A
+0 0 0 0 0
+2 5 0 P
+#25116
+horse spear~
+a horse spear~
+A long slim spear leans against the wall.~
+WOOD weapon G AN
+spear 1 7 thrust 0
+5 60 450 P
+A
+19 2
+A
+18 4
+E
+horse spear~
+Used during the ancient times for hunting horses, it can be just as effective
+against men.
+~
+#25117
+kamasutra sutra manual book~
+a Kamasutra~
+An old and torn book of some sort is left in one corner of the room.~
+SELECT_A_MATERIAL treasure H AO
+0 0 0 0 0
+0 5 0 P
+A
+2 1
+A
+1 1
+E
+book sutra manual kamasutra~
+Are you really sure you want to do this?
+~
+#25118
+garters~
+monk's garters~
+A material of some sort is left here.~
+SELECT_A_MATERIAL armor B AF
+BD 0 0 0 0
+0 10 0 P
+A
+14 50
+A
+2 1
+#25119
+robe~
+a monk's robe~
+A rough and cheap looking piece of cloth is discarded here.~
+SELECT_A_MATERIAL armor 0 AK
+BD 0 0 0 0
+0 20 0 P
+A
+12 10
+A
+5 1
+#25120
+cane armor~
+a cane armor~
+A suit of cane armor stands here.~
+SELECT_A_MATERIAL armor G AD
+BD 0 0 0 0
+0 30 0 P
+A
+17 -10
+#25121
+Jiasha jiasha robe~
+abbot's Jiasha~
+A pile of golden and red cloth lies here.~
+SELECT_A_MATERIAL armor AG AK
+BD 0 0 0 0
+0 25 0 P
+A
+24 -5
+A
+12 15
+A
+3 1
+E
+jiasha Jiasha robe~
+This robe was tailor-made for the Abbot of Shaolin Temple by Boom's Workshop.
+~
+#25122
+fozhu necklace~
+abbot's fozhu~
+A necklace made of big black beads is dumped here.~
+SELECT_A_MATERIAL armor BG AC
+BD 0 0 0 0
+4 10 0 P
+A
+12 10
+A
+1 1
+E
+fozhu necklace~
+Written on it: FOR EXPORT ONLY.
+~
+#25123
+staff Abbot~
+the Staff of Abbot~
+A staff made entirely of solid gold stands here.~
+SELECT_A_MATERIAL armor BG AO
+BD BD BD BD 0
+10 20 0 P
+A
+19 2
+A
+18 2
+A
+17 -10
+A
+13 20
+E
+staff Abbot~
+Written on it : Compliments of Boom's Workshop.
+~
+#25124
+hair lock~
+a lock of nun's hair~
+A few strands of long hair lies on the floor.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 5 0 P
+#25125
+cane shield~
+a cane shield~
+A disc made of cane lies in the mud.~
+SELECT_A_MATERIAL armor BG AJ
+AB AB AB AB 0
+8 35 200 P
+#25131
+chain keys key~
+a chain of keys~
+A chain of keys hang on the wall.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 15 0 P
+#25136
+candle lighted~
+a lighted candle~
+A lighted candle stands here, providing little light and warm.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 10 0 P
+#25137
+shell boom Boom body~
+the mortal shell of Boom~
+The mortal shell of Boom sits here waiting to be preserved in gold.~
+SELECT_A_MATERIAL container ABF 0
+100 BD 20105 2 15
+0 100 0 P
+E
+boom shell body mortal Boom~
+This is the human body of Boom left behind after his essence departed
+from this world to a realm beyond mere mortals.
+~
+#0
+
+
+
+#ROOMS
+#25101
+{MMountain Stairs{x~
+A flight of stairs carved onto the mountain leads up.
+You can barely see a temple of some sort on top of the mountain.
+You see the path back to the beach to the south.
+~
+0 4 6
+D0
+~
+~
+0 0 9775
+D2
+~
+~
+0 0 25102
+C 0
+S
+#25102
+{MPath to the Shaolin Temple{x~
+After struggling up that flight of stairs, you finally reached the top of 
+the mountain, well almost. Ahead of you, lies the great Shaolin Temple.
+A side mountain path leads west.
+~
+0 0 6
+D0
+~
+~
+0 0 25101
+D2
+~
+~
+0 0 31494
+D3
+A mountain path.
+~
+~
+0 -1 25103
+D4
+A flight of stairs leads up.
+~
+~
+0 -1 25106
+C 0
+S
+#25103
+{MA side mountain path{x~
+This path, overgrown with vegetation, leads north to a small clearing and  
+east to where you came from.
+~
+0 1 6
+D0
+A small clearing.
+~
+~
+0 -1 25104
+D1
+A mountain path.
+~
+~
+0 -1 25102
+C 0
+S
+#25104
+{MMountain shrine{x~
+A small shrine lies in one corner of this small clearing. This place 
+looks deserted and very forgotten. To your west, a huge stone boulder is
+set into the mountain. South leads you back to the mountain path.
+~
+0 1 3
+E
+shrine stone boulder~
+Written on it :
+To attain enlightenment, you first need to fight your own inner demon.
+~
+D2
+A mountain path.
+~
+~
+0 -1 25103
+D3
+A huge stone set into the mountain.
+~
+stone boulder~
+2 -1 25105
+C 0
+S
+#25105
+{MA dark cave{x~
+At the far end of this small cave, stands a strange glowing mirror.
+A dark misty shadow slowly takes form as you look into the mirror. You 
+gasped in astonishment as your own reflection in the mirror charges at you.
+~
+0 9 1
+D1
+A small clearing.
+~
+~
+2 -1 25104
+C 0
+S
+#25106
+{MEntrance to Shaolin Temple{x~
+You stand at the main entrance of the famous Shaolin Temple, home to the
+most highly skilled of all monks. At both sides of the entrance,are two
+impressive stone lion statues. North leads you into the temple.
+A plaque on the wall catches your attention.
+~
+0 0 1
+E
+plaque wall sign~
+|=========================================|
+|      Welcome to Shaolin Temple          |
+|   ---------------------------------     |
+|                                         |
+| May your visit be fun and enlightening. |   
+|                                         | 
+|       <<<< ----- BOOM ---- >>>>>        |            
+|=========================================|
+~
+D0
+The path leads you into the main court of the temple.
+~
+~
+0 -1 25107
+D5
+The path leads down the mountain.
+~
+~
+0 -1 25102
+C 0
+S
+#25107
+{MThe Main Court{x~
+Pots of plants and flowers line the sides of the court.  This place looks
+simple, and well-maintained.  Exits leads to all directions.  
+~
+0 0 1
+D0
+Grand Hall.
+~
+~
+0 -1 25119
+D1
+A side court.
+~
+~
+0 -1 25113
+D2
+Entrance to temple.
+~
+~
+0 -1 25106
+D3
+A side court.
+~
+~
+0 -1 25108
+C 0
+S
+#25108
+{MA Side Court{x~
+Similar to the Main Court, this place looks empty except for few pots of
+plants. The floor is also covered with large stone slabs. Path to the east
+leads you back to the Main Court.
+~
+0 0 1
+D0
+~
+~
+2 -1 25111
+D1
+The Main Court.
+~
+~
+0 -1 25107
+D2
+~
+~
+2 -1 25112
+D3
+~
+~
+2 -1 25109
+C 0
+S
+#25109
+{MThe Dining Hall{x~
+Bravo! You found the dining place of the monks.  The room is empty except
+for an extremely long dining table and some benches.  You hear some noises
+coming from the south.
+~
+0 8 1
+D1
+A Side Court.
+~
+~
+2 -1 25108
+D2
+The Kitchen.
+~
+~
+0 -1 25110
+C 0
+S
+#25110
+{MThe Kitchen{x~
+The aroma of fresh hot steaming buns almost make you salivate as you enter
+the kitchen.  Some pots and pans are hung on the wall, waiting to be used.
+~
+0 8 1
+D0
+The Dining Hall.
+~
+~
+0 -1 25109
+C 0
+S
+#25111
+{MThe Monks' Bunk{x~
+Well, even the toughest of them needs rest.  This is the sleeping chamber
+of the monks. It contains nothing of interest to you, unless if you want
+their sleeping mats.
+~
+0 8 1
+D2
+~
+~
+2 -1 25108
+C 0
+S
+#25112
+{MThe Disciples' Bunk{x~
+This is the sleeping chamber of all the young men, like yourself,who come 
+from all over the world to learn the legendary martial skills of Shaolin.
+~
+0 8 1
+D0
+~
+~
+2 -1 25108
+C 0
+S
+#25113
+{MA Side Court{x~
+Similar to the Main Court, this place looks empty except for few pots of
+plants. The floor is also covered with large stone slabs. Path to west
+leads you back to the Main Court. You hear shouts coming from the north and
+south.  A small building lies on the east.
+~
+0 8 1
+D0
+A Training Arena.
+~
+~
+0 -1 25118
+D1
+A small building.
+~
+door~
+2 -1 25114
+D2
+A Training Arena.
+~
+~
+0 -1 25117
+D3
+The Main Court.
+~
+~
+0 -1 25107
+C 0
+S
+#25114
+{MThe Chamber of Wooden Men{x~
+The room is filled with pulleys and machinery that controls the movement
+of these wooden fighting machines.  You cursed yourself for not paying
+more attention during those training sessions, as those deadly machines
+charged at you.  The only exit lies south.
+~
+0 9 1
+D2
+The Luohan Chamber.
+~
+~
+0 -1 25115
+C 0
+S
+#25115
+{MThe Luohan Chamber{x~
+Within this chamber dwells the legendary Luohans of Shaolin. They are here
+to see if you are ready to leave Shaolin.  You mutter a hasty prayer as you 
+prepare yourself to face these men of bronze.
+~
+0 9 1
+D5
+A trapdoor leads down.
+~
+door~
+2 25115 25116
+C 0
+S
+#25116
+{MA Secret Tunnel{x~
+The floor above you closes and seals off your exit. 
+This well-lit passage leads south.  To the south you see a bright source
+of light.
+~
+0 9 1
+D2
+~
+~
+1 0 25129
+D4
+~
+~
+0 0 25136
+C 0
+S
+#25117
+{MA Training Arena{x~
+A square court covered with stone slabs.  This is where the monks practice
+their arts.  Rows of weapons adorned both sides of the court.
+~
+0 0 1
+D0
+A side court.
+~
+~
+0 -1 25113
+C 0
+S
+#25118
+{MA Training Arena{x~
+A square court covered with stone slabs. This is where the disciples practice
+their arts.  Rows of weapons adorned both sides of the court.
+~
+0 0 1
+D2
+A side court.
+~
+~
+0 -1 25113
+C 0
+S
+#25119
+{MThe Grand Hall{x~
+This massive hall contains figurines of the Buddha in all sort of sizes and
+positions. Towering above all of them, is a huge golden statue of a sleeping 
+Buddha.  Directly in front of it, is a huge stone table for offerings.
+Exits lead west and east to side halls, while south leads you back to the
+Main Court.
+~
+0 8 1
+D1
+A side hall.
+~
+~
+0 -1 25126
+D2
+The main court.
+~
+~
+0 -1 25107
+D3
+A side hall.
+~
+~
+0 -1 25120
+D5
+~
+Buddha golden statue~
+2 -1 25136
+C 0
+S
+#25120
+{MA Side Hall{x~
+This room connects you to the Main Hall.  There are rooms to your north,
+south and west.  A staircase leads up.
+~
+0 8 1
+D0
+A room.
+~
+~
+0 -1 25124
+D1
+The main hall.
+~
+~
+0 -1 25119
+D2
+A room.
+~
+~
+0 -1 25121
+D3
+A room.
+~
+~
+0 -1 25122
+D4
+A room.
+~
+~
+0 -1 25123
+C 0
+S
+#25121
+{MA Master's Chamber{x~
+This room looks empty except for a hard bed, a table and some chairs. It
+looks extremely well kept, so make sure you do not dirty it.  You better
+leave before the master catches you in here.
+~
+0 8 1
+D0
+A side hall.
+~
+~
+0 -1 25120
+C 0
+S
+#25122
+{MA Master's Chamber{x~
+This room looks empty except for a hard bed, a table and some chairs. It
+looks extremely well kept, so make sure you do not dirty it. You better
+leave before the master catches you in here.
+~
+0 8 1
+D1
+A side hall.
+~
+~
+0 -1 25120
+C 0
+S
+#25123
+{MThe Abbot's Chamber{x~
+This room looks about the same with the rest of the rooms.  Hardly fitting
+for the chief of Shaolin. You see nothing of value here.  By the way, it
+is out of bounds to people like you, you better leave.
+~
+0 9 1
+D5
+A side hall.
+~
+~
+0 -1 25120
+C 0
+S
+#25124
+{MThe Library{x~
+This room contains all the sutras and martial manuals of Shaolin. 
+Bookshelves line the walls displaying the books in a systematic manner.
+However, there is nothing you can use here. It is guarded by one of the 
+masters.
+~
+0 8 1
+D1
+~
+bookshelf~
+2 25124 25125
+D2
+A side hall.
+~
+~
+0 -1 25120
+C 0
+S
+#25125
+{MA Secret Chamber{x~
+You have found the room where the most precious manuals and sutras are
+kept.  You rubbed your hands eagerly as your eyes take into account the
+treasures hidden here.
+~
+0 9 1
+D3
+The Library.
+~
+~
+2 25124 25124
+C 0
+S
+#25126
+{MA Side Hall{x~
+This room connects you to the Main Hall.  There are rooms to your north,
+south and east.  A staircase leads up.
+~
+0 8 1
+D0
+A room.
+~
+~
+0 -1 25129
+D1
+A room.
+~
+~
+0 -1 25128
+D2
+A room.
+~
+~
+0 -1 25127
+D3
+The main hall.
+~
+~
+0 -1 25119
+D4
+A room.
+~
+~
+0 -1 25130
+D5
+~
+trapdoor floor~
+2 -1 25131
+C 0
+S
+#25127
+{MA Guest Room{x~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the room.
+The bed looks hard and uninviting, and like the rest of the temple,it is
+extremely clean and tidy.
+~
+0 8 1
+D0
+A side hall.
+~
+~
+0 -1 25126
+C 0
+S
+#25128
+{MA Guest Room{x~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the room.
+The bed looks hard and uninviting, and like the rest of the temple,it is
+extremely clean and tidy.
+~
+0 8 1
+D3
+A side hall.
+~
+~
+0 -1 25126
+C 0
+S
+#25129
+{MA Guest Room{x~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the room.
+The bed looks hard and uninviting, and like the rest of the temple,it is
+extremely clean and tidy.
+~
+0 8 1
+D0
+~
+~
+1 0 25116
+D2
+A side hall.
+~
+~
+0 -1 25126
+C 0
+S
+#25130
+{MA Guest Room{x~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the room.
+The bed looks hard and uninviting, and like the rest of the temple,it is
+extremely clean and tidy.
+~
+0 8 1
+D5
+A side hall.
+~
+~
+0 -1 25126
+C 0
+S
+#25131
+{MThe Dungeons{x~
+You climbed into the dungeon, realizing too late that this is a FORBIDDEN
+AREA. Let's see you talk your way out of this mess.
+There are four prison cells here.
+~
+0 9 1
+D0
+A prison cell.
+~
+~
+2 25131 25135
+D1
+A prison cell.
+~
+~
+2 25131 25133
+D2
+A prison cell.
+~
+~
+2 25131 25134
+D3
+A prison cell.
+~
+~
+2 25131 25132
+D4
+A side hall.
+~
+trapdoor~
+2 -1 25126
+C 0
+S
+#25132
+{MA prison cell{x~
+It looks dark and gloomy, probably the only place in the temple that is not
+kept clean and maintained.
+~
+0 9 1
+D1
+The guard room.
+~
+~
+2 25131 25131
+C 0
+S
+#25133
+{MAn empty prison{x~
+Blood and gore are about the only thing you can find in here. It looks like
+any other MUD prisons. What do you expect?
+~
+0 9 1
+D3
+The guard room.
+~
+~
+2 25131 25131
+C 0
+S
+#25134
+{MCell of Wuhua{x~
+Locked here for the past ten years, for the unspeakable crimes he did to 
+both men and women is...Wuhua, the lusty monk. After ten long years, you 
+cannot imagine what he will do to you.
+~
+0 9 1
+D0
+The guard room.
+~
+~
+2 25131 25131
+C 0
+S
+#25135
+{MA female prison cell{x~
+Hmmm.. Female prisoners here in Shaolin? You wonder what crimes they could
+have committed. The sight of blood and shreds of torn clothing on the floor
+tells you everything.  At least now you don't regret killing those monks.
+~
+0 9 1
+D2
+The guard room.
+~
+~
+2 25131 25131
+C 0
+S
+#25136
+{MA Mysterious Room{x~
+The door above you closes and effectively seals off your exit. The walls 
+of this strange room glow and hum as if it is alive. This is where the 
+body of the high monks are kept after they attain enlightenment. These
+bodies are embalmed and preserved using gold, hence they are sometimes 
+referred to as "Jinshen". A stairway leads down.
+~
+0 521 1
+D1
+~
+workshop wall~
+2 25136 25137
+D5
+The stairway leads down~
+~
+0 -1 25116
+C 0
+S
+#25137
+{MA Workshop{x~
+A long working table stands in one corner of the room. Bottles of strange
+looking potions and pieces of gold flakes are strewn all over the table.
+~
+0 521 1
+D3
+A mysterious room.
+~
+~
+2 25136 25136
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 25102 spec_cast_cleric
+M 25105 spec_cast_mage
+M 25106 spec_cast_mage
+M 25107 spec_poison
+M 25109 spec_cast_mage
+M 25110 spec_cast_mage
+M 25111 spec_poison
+M 25112 spec_cast_cleric
+M 25113 spec_cast_mage
+M 25114 spec_cast_mage
+M 25115 spec_cast_mage
+M 25116 spec_cast_mage
+M 25117 spec_thief
+S
+
+
+
+#RESETS
+D 0 25104 3 1
+D 0 25105 1 1
+D 0 25108 0 1
+D 0 25108 2 1
+D 0 25108 3 1
+D 0 25109 1 1
+D 0 25111 2 1
+D 0 25112 0 1
+D 0 25113 1 1
+D 0 25115 5 2
+D 0 25116 2 1
+D 0 25119 5 1
+D 0 25124 1 2
+D 0 25125 3 2
+D 0 25126 5 1
+D 0 25129 0 1
+D 0 25131 0 2
+D 0 25131 1 2
+D 0 25131 2 2
+D 0 25131 3 2
+D 0 25131 4 1
+D 0 25132 1 2
+D 0 25133 3 2
+D 0 25134 0 2
+D 0 25135 2 2
+D 0 25136 1 2
+D 0 25137 3 2
+M 0 25106 1 25105 1
+M 0 25101 2 25109 2
+O 0 25106 0 25110
+M 0 25109 1 25111 1
+E 0 25120 0 5
+E 0 25118 0 8
+E 0 25119 0 12
+E 0 25125 0 11
+E 0 25114 0 16
+G 0 25106 0
+M 0 25108 2 25114 2
+M 0 25110 2 25115 2
+G 0 25115 0
+M 0 25104 1 25117 1
+E 0 25116 0 16
+M 0 25104 1 25117 1
+E 0 25116 0 16
+M 0 25103 3 25118 3
+O 0 25102 0 25121
+M 0 25113 1 25121 1
+E 0 25118 0 7
+E 0 25119 0 12
+G 0 25109 0
+O 0 25102 0 25122
+M 0 25114 1 25122 1
+E 0 25118 0 7
+E 0 25119 0 12
+E 0 25125 0 11
+E 0 25114 0 16
+M 0 25115 1 25123 1
+E 0 25121 0 1024
+E 0 25122 0 4
+E 0 25123 0 16384
+O 0 25102 0 25123
+M 0 25112 1 25124 1
+E 0 25118 0 7
+E 0 25119 0 12
+G 0 25101 0
+G 0 25111 0
+O 0 25110 0 25125
+O 0 25102 0 25127
+M 0 25117 2 25127 2
+G 0 25106 0
+P 0 25108 0 25137 0
+P 0 25107 0 25137 0
+O 0 25102 0 25128
+M 0 25101 2 25128 2
+O 0 25136 0 25129
+O 0 25102 0 25130
+M 0 25105 1 25131 1
+E 0 25120 0 5
+E 0 25125 0 11
+E 0 25113 0 16
+M 0 25105 1 25131 1
+E 0 25120 0 5
+E 0 25125 0 11
+E 0 25113 0 16
+G 0 25131 0
+M 0 25107 2 25132 2
+E 0 25119 0 12
+M 0 25111 1 25134 1
+E 0 25117 0 17
+M 0 25102 3 25135 3
+G 0 25124 0
+M 0 25116 1 25136 1
+E 0 25112 0 16
+G 0 25115 0
+O 0 25137 0 25137
+O 0 25108 0 25137
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

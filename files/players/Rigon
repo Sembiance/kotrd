@@ -1,0 +1,72 @@
+#PLAYER
+Name Rigon~
+Id   1095394312
+LogO 1096737904
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Kender~
+Sex  1
+Cla  4
+OCla -1
+Levl 11
+OldLvl 11
+Sec  0
+Plyd 15946
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  56 129 127 127 160 160
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 11
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  28675
+PAct  CDEFHQTd
+AfBy FV
+Empower  0
+WName Rigon~
+Comm NO
+Deaf DP
+Pos  8
+Prac 4
+Alig  -1000
+ACs 100 100 100 100
+Wimp  16
+Attr 13 15 18 25 16
+AMod 0 0 0 0 0
+Pass Riw0Bxy02N6ik~
+Titl  the mad Kender assassin~
+Pnts 66
+TSex 1
+PSize 1
+LLev 4
+HMVP 129 127 160
+Cnd  0 0 20 10
+Sk 76 'sword'
+Sk 78 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+End
+
+#END

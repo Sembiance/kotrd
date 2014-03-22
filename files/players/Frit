@@ -1,0 +1,357 @@
+#PLAYER
+Name Frit~
+Id   1091912693
+LogO 1094427138
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Seraph~
+Sex  1
+Cla  0
+OCla -1
+Levl 13
+OldLvl 13
+Sec  0
+Plyd 13058
+Not  1092338994 0 0 0
+Scro 33
+Room 3001
+HMV  122 122 172 177 172 172
+Gold 97
+Silv 8333
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 13
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  23467
+PAct  CDEFGQTd
+AfBy BDFT
+Empower  0
+WName Frit~
+Comm NO
+Deaf DP
+Pos  8
+Prac 10
+Trai 2
+Alig  1000
+Hit   1
+ACs 75 66 68 100
+Attr 19 21 20 12 20
+AMod 0 1 2 0 2
+Pass FrOsgkUxzFQCg~
+Titl  still thinkin on a title~
+Pnts 55
+TSex 1
+PSize 2
+LLev 2
+HMVP 122 177 172
+Cnd  0 0 3 11
+Sk 76 'magic missile'
+Sk 77 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'faerie fire'
+Sk 28 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'identify'
+Sk 75 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 75 'dagger'
+Sk 1 'enhanced damage'
+Sk 1 'fast healing'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'illusion'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Affc 'detect invis'   0  13  13   0   0          8
+Affc 'invisibility'   0   9   2   0   0          2
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3072
+Nest 0
+Cond 0
+Wear 5
+Cost 850
+End
+
+#O
+Vnum 3502
+Nest 0
+Cond 0
+Wear 6
+Cost 490
+End
+
+#END

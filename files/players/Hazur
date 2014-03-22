@@ -1,0 +1,75 @@
+#PLAYER
+Name Hazur~
+Id   1111176459
+LogO 1111180132
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 3673
+Scro 33
+Room 3054
+HMV  17 50 104 104 112 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3505
+PAct  CDEFQTd
+WName Hazur~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 6
+Trai 2
+Save  -31
+Alig  1000
+Hit   62
+ACs 100 100 100 100
+Wimp  10
+Attr 18 15 15 15 18
+AMod 0 0 0 0 0
+Pass HaFiysGZV5g6E~
+Titl .~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 50 104 112
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Affc 'bless'   0 250 124 -31  20          0
+Affc 'bless'   0 250 124  62  18          0
+End
+
+#END

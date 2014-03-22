@@ -1,0 +1,2201 @@
+#AREADATA
+Name Coral Reef~
+Builders None~
+VNUMs 4625 4699
+Credits ( 35  50) {MMyretha  {Y* {WThe Coral Reef{x~
+Security 9
+Flags 0
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#4625
+trigger~
+{x~
+{x 
+~
+~
+Human~
+ABe DJZb 0 0
+0
+200 0 14d132+1100 52d10+100 7d7+29 none
+-24 -24 -24 -8
+0 ABCDR 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DELAY 4636 100~
+M GRALL 4635 100~
+#4626
+trigger~
+{x~
+{x 
+~
+~
+Human~
+ABe DJZb 0 0
+0
+200 0 14d132+1100 52d10+100 7d7+29 none
+-24 -24 -24 -8
+0 ABCDR 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DELAY 4638 100~
+M GRALL 4637 100~
+#4627
+seahorse~
+{WThe large{x {ySeahorse{x~
+{WA large{x {ySeahorse{x {Wdrifts here. {x 
+~
+{wA{x {yseahorse{x{w, large for his breed, looks at you expectantly. {x 
+~
+Human~
+AB DFJZb 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 charge
+-27 -27 -27 -16
+0 ABCDR 0 0
+stand stand none 100000
+AHQ ADEFKOQ small unknown
+F for MV
+F par BCGHIJ
+M ACT 4626 buy~
+M GRALL 4645 100~
+#4628
+wolffish~
+{bAn immense fish{x~
+{bAn immense wolffish lies in wait for prey. {x 
+~
+{bAn immense fish almost 60 feet in length, it's massive jaws yaw
+toothily as it sees you entering the cavern. It's body is monochromatic
+grey, with immense eyes that track your every movement. It's fins are
+serrated and it's tail short, and obviously powerful. The body is striped in
+two different {Dgreys{b. {x 
+~
+unique~
+ABCFY DFJPQZb 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 crush
+-27 -27 -27 -16
+AHMOV R 0 S
+stand stand none 2500
+AHMV ADEFKOQX huge unknown
+#4629
+starfish~
+{ythe large starfish{x~
+{yA large starfish hides within the crevice. {x 
+~
+{yHiding inside the crevice, the starfish preys upon the{x {Rcoral{x
+{ycolonies. {x 
+~
+Human~
+ABFRT DFJZbc 0 0
+0
+40 40 83d14+405 40d11+95 14d2+34 none
+-19 -19 -19 -11
+AFHKN ABR H I
+stand stand none 2000
+AQ ADEFKN large unknown
+F for HMV
+F par BCGHIJ
+#4630
+seahorse~
+{WThe Old{x {ySeahorse{x~
+{WA wizened, old{x {ySeahorse{x {Wdrifts here. {x 
+~
+{wA{x {yseahorse{x{w, wizened and tired, drifts here. {x 
+~
+Human~
+ABGRT DFJVZab 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 charge
+-27 -27 -27 -16
+ACEFGHKMN ABR EFG 0
+stand stand male 2500
+AHQ ADEFKOQ medium unknown
+F for MV
+F par BCGHIJ
+M GRALL 4646 100~
+M GIVE 4647 4631~
+M RANDOM 4625 20~
+#4631
+damselfish~
+{MThe Damselfish in Distress{x~
+{MA Damselfish darts quickly about. {x 
+~
+{MSwimming erratically, the Damselfish tries to avoid the sea's
+predators. {x 
+~
+Human~
+ABG DFJZb 0 0
+0
+40 40 83d14+405 40d11+95 14d2+34 slap
+-19 -19 -19 -11
+0 AB FG 0
+stand stand female 2000
+AH ADEFKOX small unknown
+F for MV
+F par BCGHIJ
+M GRALL 4648 100~
+#4632
+starfish crown thorns~
+{ythe large starfish{x~
+{yA Crown-of-Thorns starfish rests upon his throne. {x 
+~
+{yLuxuriating amidst his wealth, the Crown-of-Thorns regally watches you.
+{x 
+~
+Human~
+ABGRT DFJLZbc 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 crush
+-27 -27 -27 -16
+AFHIKMNO ABCDR FG I
+stand stand none 2500
+AHQ ADEFKN large unknown
+F for MV
+F par BCGHIJ
+M GRALL 4649 100~
+#4633
+octopus~
+a {Wlarge Octopus{x~
+{DA large Octopus guards his treasures. {x 
+~
+{DThe Octopus jealously guards his horde of treasures hidden within his
+garden. {x 
+~
+Human~
+ABFGT DFJPQVZbc 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 crush
+-27 -27 -27 -16
+CDEFGHIKNO ABR 0 I
+stand stand none 2500
+AHb ADEFKN medium unknown
+F for MV
+F par BCGHIJ
+#4634
+jellyfish~
+{DThe jellyfish{x~
+{DA jellyfish floats through the waters. {x 
+~
+{DA grey mass of jelly floats in the sea. Its tentacles sweeping in its
+wake. {x 
+~
+Human~
+AGH DFJZb 0 0
+0
+30 30 63d11+304 30d11+95 11d2+27 sting
+-12 -12 -12 -6
+HU R EI H
+stand stand none 1500
+ABS AFN medium unknown
+F for HMV
+F par BCDEGHIJK
+#4635
+clam~
+{BA clam{x~
+{BA clam rests here. {x 
+~
+{BAn immense clam rests along the sea floor. {x 
+~
+Human~
+ABG b 0 0
+0
+30 30 63d11+304 30d11+95 11d2+27 digestion
+-12 -12 -12 -6
+CV R DEFG I
+sit sit none 1500
+Q DF large unknown
+F for AHMV
+F par ABCEGHIJK
+#4636
+clownfish~
+{YT{Rh{Ye {RC{Yl{Ro{Yw{Rn{Yf{Ri{Ys{Rh{x~
+{YA {RC{Yl{Ro{Yw{Rn{Yf{Ri{Ys{Rh{x {Yswims amidst the {Rcoral{x{Y. {x 
+~
+{YA brightly colored fish darts among the waters of the sea. {x 
+~
+Human~
+AGH b 0 0
+0
+35 35 73d12+354 35d11+95 12d2+30 slime
+-15 -15 -15 -8
+0 R 0 I
+stand stand none 1700
+Ab ADEFOQX medium unknown
+F for HMV
+F par BCGHIJK
+#4637
+firefish~
+{rThe Firefish{x~
+{rA Firefish swims gracefully in the ocean waters. {x 
+~
+{rSwimming gracefully, this red fish terrorizes the deep. {x 
+~
+Human~
+AFG DFJZb 0 0
+0
+40 40 83d14+405 40d11+95 14d2+34 none
+-19 -19 -19 -11
+GHKM R H I
+stand stand none 2000
+Ab ADEFOQ medium unknown
+F for HMV
+F par BCGHIJK
+#4638
+lionfish~
+{yThe Lionfish{x~
+{yThe Lionfish glides through the waters. {x 
+~
+{yLurking within the depths, the lionfish awaits his prey. {x 
+~
+Human~
+AFG DFJPQZb 0 0
+0
+45 45 93d16+455 45d11+95 16d2+37 chomp
+-23 -23 -23 -14
+0 R 0 0
+stand stand none 2200
+Ab ADEFKO medium unknown
+F for HMV
+F par BCGHIJ
+#4639
+trigger~
+{~
+{
+~
+~
+Human~
+ABG 0 0 0
+0
+200 200 411d67+8081 200d11+95 67d2+140 none
+-134 -134 -134 -93
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 4674 70~
+#0
+
+
+
+#OBJECTS
+#4625
+sponge~
+{ma small sponge{x~
+{mA small sponge has broken away from the reef.{x~
+SELECT_A_MATERIAL key S A
+0 0 0 0 0
+0 10 0 P
+#4626
+babelfish~
+a small {MBabelfish{x~
+{MA small Babelfish swims here.{x~
+SELECT_A_MATERIAL gem G A
+0 0 0 0 0
+30 0 3000 P
+#4627
+algae~
+{gA small piece of algae{x~
+{gA small piece of algae clings to the {Rcoral{x{g.{x~
+SELECT_A_MATERIAL food S A
+AB AB 0 0 0
+35 0 0 P
+#4628
+black coral~
+{wA sprig of{x {Dblack coral{x~
+{wA small piece of{x {Dblack coral{x {wrests here.{x~
+SELECT_A_MATERIAL jewelry 0 AC
+0 0 0 0 0
+30 0 0 P
+#4629
+coral key~
+a small piece of {Rcoral{x~
+{RA small piece of coral rests here.{x~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+40 0 0 P
+#4630
+questdone~
+{wDamselfish Quest Done Token{x~
+{X~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+40 0 0 P
+#4631
+scale shield~
+a {MDamselfish scale{x~
+{MA scale of the Damselfish rests here.{x~
+SELECT_A_MATERIAL armor GSY AJS
+D D D D 0
+30 10 3000 P
+F
+R 0 0 R
+#4632
+coral key~
+{RA small piece of coral{x~
+{RA small piece of coral rests here.{x~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4633
+sanddollar~
+a {ysand dollar{x~
+{yA sand dollar floats here.{x~
+SELECT_A_MATERIAL armor GSY AQ
+CD CD CD CD 0
+50 0 5000 P
+A
+12 -20
+F
+A 0 0 H
+F
+R 0 0 R
+#4634
+mp4646~
+the {wSeahorse's Quest Token{x~
+{x~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4635
+mp47M35~
+{wTimer Token{x~
+{x~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+52 0 0 P
+#4636
+damselfish tunic~
+a {W"I found the {MDamselfish{W" tunic{x~
+{WA tunic lies here.{x~
+SELECT_A_MATERIAL trash U AD
+0 0 0 0 0
+0 0 0 P
+#4637
+pearl~
+{Wa small pearl{x~
+{WA small pearl lies here.{x~
+SELECT_A_MATERIAL gem SY AO
+0 0 0 0 0
+30 10 3000 P
+#4638
+pearl ring~
+{Wa pearl ring{x~
+{WA small pearl ring lies here.{x~
+SELECT_A_MATERIAL jewelry SY AB
+0 0 0 0 0
+30 10 3500 P
+A
+20 -2
+A
+12 35
+E
+ring~
+{WEtched with distinctive markings, it looks as though this ring was once
+worn by a powerful magic user. {x 
+~
+#4639
+pearl bracelet~
+{Wa small pearl bracelet{x~
+{WA pile of small pearls lies here.{x~
+SELECT_A_MATERIAL jewelry SY AM
+0 0 0 0 0
+30 10 3500 P
+A
+19 2
+A
+18 2
+A
+13 35
+#4640
+ship stern galley~
+{Wthe ship's stern{x~
+{WThe battered stern of an ancient galley is nestled upon the ocean's floor.{x~
+SELECT_A_MATERIAL container SY 0
+300 0 0 0 0
+0 0 0 P
+#4641
+gold~
+a {Ypile of gold{x~
+{YA pile of gold is scattered here.{x~
+SELECT_A_MATERIAL money S A
+BDEFGH DHIJM 0 0 0
+0 200 0 P
+#4642
+statue~
+{ra{x {Dsmall{x {rstatue{x~
+{DA statue of a small {reel{x {Dlies here.{x~
+SELECT_A_MATERIAL wand 0 AO
+50 1 1 'cancellation' 0
+45 100 5000 P
+#0
+
+
+
+#ROOMS
+#4625
+{BThe {RCoral{B Reef{x~
+{RCoral{x {breefs of all the colours of the {Wr{Ya{Mi{Rn{Cb{Go{Bw{b can be seen here{x
+{breflecting the light, which filters through. Fish of unknown {x
+{borigins swim in and out of the reef{x {bslowly, adding a sense of {x
+{bserenity. Air bubbles float gently from the reefs{x {bto the {x
+{bsurface, giving the {Rcoral{b an appearance of breathing.{x
+~
+0 0 6
+D1
+{BThe coral reef continues.{x
+~
+~
+0 0 4626
+D5
+~
+~
+0 0 404
+C 0
+S
+#4626
+{BThe{x {RCoral{x {BReef{x~
+{bShafts of {Yl{Bi{Yg{Bh{Yt{b twinkle in the stillness of the deep {Bblue{x {bwater.  A{x
+{blarge cylindrical reef rises from the ocean floor, it's surface {x
+{bdominated by smaller {Rcoral{b colonies.  Beautifully colored and {x
+{bexotically shaped fish swim among the colonies.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4627
+D3
+{BThe coral reef continues.{x
+~
+~
+0 0 4625
+C 0
+S
+#4627
+{BThe{x {RCoral{x {BReef{x~
+{bA cylindrical reef rises from the ocean floor exhibiting the many{x
+{bcolors of the {Wr{Ya{Mi{Rn{Cb{Go{Bw{b. {RCoral{b colonies dominate the surface of the reef,{x
+{bwhere large numbers of fish swim among them.  {yStarfish{b, intent on their{x
+{bown business, slowly make their way, as a group of exotic {yseahorses {x
+{bswim in and around the reef. Further travel into the depths is blocked {x
+{bby an overhanging of {Rcoral{b below.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4628
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4626
+C 0
+S
+#4628
+{BThe{x {RCoral{x {BReef{x~
+{bThe forms of the stony{x {Rcoral{x {bcolonies of the reef closely resemble{x
+{ba{x {bsculptor's workshop.  As beautifully colored fish swim through{x
+{bthe deep {Bblue{b water, {yseahorses{b dart in and out of the {Rcoral{x
+{bformations along the reef.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4631
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4627
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4629
+C 0
+S
+#4629
+{BAlong The Ocean Floor{x~
+{bAlong the ocean's floor, the stony {Rcoral{b formations have given way {x
+{bto soft {Rcoral{b colonies, which were hidden beneath the formations.{x
+{bGiant clams, {ystarfish{b, and a colorful variety of sedentary fish lie{x
+{babout the sea's floor.  The huge cylindrical reef allows exit only{x
+{bto the north or up towards the surface.{x
+~
+0 8 6
+D0
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4630
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4628
+C 0
+S
+#4630
+{BAlong The Ocean Floor{x~
+{bAt this depth, larger forms of life can be seen gliding through the{x
+{bdeep {Bblue{b waters. Here, the harder {Rcoral{b formations have given way {x
+{bto softer varieties.  Giant crabs and larger {ystarfish{b hang about {x
+{bunder {Rcoral{x {boverhangings, while at the edges, {xseasnakes{b find holes{x
+{bto hide within.{x
+~
+0 8 6
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4634
+D2
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4629
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4631
+C 0
+S
+#4631
+{BThe{x {RCoral{x {BReef{x~
+{bThe stony {Rcoral{b colonies are exotic in their many and varied forms, as{x
+{bif sculpted by sentient hands. The beauty of the many shapes almost takes{x
+{battention away from the myriad and colorful forms of the small fish that{x
+{bswim in and around the {Rcoral{b. Among the many other forms of sea life found {x
+{bhere are playful {yseahorses{b that dart in and out of the formations and many {x
+{barmed {ystarfish{b that slowly make their way across the reef. {x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4632
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4628
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4630
+C 0
+S
+#4632
+{BThe{x {RCoral{x {BReef{x~
+{bContinuing to glide through the deep waters, you are surrounded by all
+the wonders of the sea. {bThe{x {Rcoral{x {bformations are criss-crossed by
+shafts of{x {Yl{Bi{Yg{Bh{Yt{x {bthat pierce the warm ocean water. The reef
+seems almost alive as air bubbles float from it to the surface. {x 
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4633
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4631
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4634
+C 0
+S
+#4633
+{BThe{x {RCoral{x {BReef{x~
+{bBeautifully colored fish swim in and about the{x {Rcoral{x
+{bformations, which appear to have been sculpted by sentient beings. The
+cylindrical reef, rising from the ocean floor, exhibits the many colors of
+the rainbow. {x {bFurther travel into the ocean depths is blocked by an
+outcropping of the {Rcoral{x {breef. {x 
+~
+0 0 6
+D0
+{BThe coral reef continues.{x
+~
+~
+0 0 4689
+D1
+{BA whirlpool attempts to pull you towards it. {x 
+~
+~
+0 0 4635
+D2
+{BThe coral reef continues.{x
+~
+~
+0 0 4690
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4632
+C 0
+S
+#4634
+{BAlong The Ocean Floor{x~
+{bThe ocean's floor is a {Rcoral{b kaleidoscope of shapes and colors.  {x
+{bAn overhanging formation of {Rcoral{b offers a shadowy hiding place {x
+{bfor fish, which glide through the waters.  A large {Rcoral{b colony {x
+{bblocks all exits, except to the west or up towards the water's {x
+{bsurface.{x
+~
+0 8 6
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4630
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4632
+C 0
+S
+#4635
+{BA Whirlpool{x~
+{bThe current begins to froth and churn as it rushes towards{x
+{bthe center of the whirlpool!  Although the grasp of the {x
+{bvortex is strong, breaking free might be possible!{x
+~
+0 4 6
+D1
+{BAn escape from the whirlpool opens up to the east. {x 
+~
+~
+0 0 4640
+D5
+~
+~
+0 0 4636
+C 0
+S
+#4636
+{BA Whirlpool{x~
+{bSucked further down in to the fierce maelstrom, there seems{x
+{bto be no avenue of escape!  With any luck, the turbulent {x
+{bwaters will not dash you into pieces against the {Rcoral{x
+{breef!{x
+~
+0 12 6
+C 0
+S
+#4637
+{BThe Sea Floor{x~
+{bThe sea floor is cluttered with debris that has been battered {x
+{bagainst the stony {Rcoral{b formation, which has created a small {x
+{bcave-like room.  The water from the whirlpool above rushes {x
+{bthrough the small cave, threatening to batter all within it's {x
+{bpath.{x
+~
+0 8 6
+D0
+{BYou see a strange looking {Rboulder coral{x {Bsitting to the north. {x 
+~
+boulder~
+4 4625 4645
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4646
+C 0
+S
+#4638
+{BA Small Outcropping of{x {RCoral{x~
+{wA small island, created by ancient{x {Rcoral{x {wformations, is{x
+{wsurrounded by clear,{x {bblue{x {wwaters. Able to support only {x
+{wminimal flora{x {wand fauna, there is very little to see {x
+{where. Gazing into the{x {bwaters{w,{x {wa plethora of colors and {x
+{wshapes can be seen. {x
+~
+0 0 18
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4641
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4689
+D5
+{BThere seems to be a loose piece of{x {Rcoral{x{B. {x 
+~
+coral~
+4 4627 4668
+C 0
+S
+#4639
+{BThe{x {RCoral{x {BReef{x~
+{bGliding along the reef, an amazing number of exotic{x {bfish {x
+{bdart in and about the {Rcoral{b formation. The {Rcoral{b, {msponges{b, {x
+{band{x {bthe {Yc{Go{Rl{Bo{Mr{Wf{xul {bbrilliance of the reef fish are{x {bbreathtaking. {x
+{bThe patter of wavelets above combines with the chirps,{x 
+{bsqueaks, whistles, and croaks of the marine life to create {x
+{ba cacophony of{x {bsound.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4691
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4690
+C 0
+S
+#4640
+{BThe{x {RCoral{x {BReef{x~
+{bThe {Bc{Go{Cl{Ro{Mr{Ws{b of the cylindrical reef compete with the exotic 
+{bcoloring of the fish to attempt to overwhelm the senses.
+{bNot even the most lavish of mainland gardens can compare
+{bwith the beauty found here along the {Rcoral{b reef.  The upward
+{bpull of the current is too strong to allow deeper exploration.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4692
+D3
+{BA whirlpool attempts to pull you towards it. {x 
+~
+~
+0 0 4635
+C 0
+S
+#4641
+{BThe{x {RCoral{x {BReef{x~
+{bShafts of {Yl{Bi{Yg{Bh{Yt{b stream through the deep {Bblue{b waters.  {RCoral{b
+{bcolonies dominate the surface of the reef, as fish of every
+{bshape, size, and color dart around you.  Outcroppings of 
+{bthe reef block travel in all directions, but east and south.
+{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4642
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4638
+C 0
+S
+#4642
+{BThe{x {RCoral{x {BReef{x~
+{bThe {Rcoral {bcolonies along the cylindrical reef appear exotically 
+sculpted, as if sentient beings once toiled in the oceans depths.
+Air bubbles drift towards the water's surface from the depths
+of the reef, as the marine life scuttles, swims, and clings to
+the only universe they've known.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4643
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4641
+C 0
+S
+#4643
+{BThe{x {RCoral{x {BReef{x~
+{bBranching and boulder-shaped{x {Rcoral{x {bcolonies dominate the{x
+{bsurface of the reef, as a variety of beautifully colored {x
+{bfish swim among{x {bthem. Outcroppings of the{x {Rcoral{x {bformations{x
+{bblock all directions, except west and down, which leads{x
+{binto the ocean's depths.{x
+~
+0 0 6
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4642
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4644
+C 0
+S
+#4644
+{BA Tunnel Through The{x {RCoral{x {BReef{x~
+{bSurrounded by the {Rcoral{x {bcolonies, a small passage opens among{x
+{bthem, allowing passage through the cylindrical reef. {yLionfish{b,{x
+{wstonefish{b, and others pass through the tunnel going about {x
+{btheir business.{x  {bThe picturesque qualities of the reef and {x
+{bits inhabitants are reminiscent of the{x {bmost lavish mainland gardens.{x
+~
+0 2056 6
+D1
+{BA small tunnel leads through the coral reef. {x 
+~
+~
+0 0 4648
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4643
+C 0
+S
+#4645
+{yThe Seahorse Stables{x~
+{ySet into the {Rcoral{x {yreef is a small cavern. Its floor is covered
+in {gkelp{x{y. Plankton has been piled in a neat row down the wall to your
+left and, before you, within smaller caverns, are several seahorses,
+which seem to have been stabled here.{x
+~
+0 1032 6
+D0
+{yA small{x {Rboulder coral{x {yblocks entrance to the north. {x 
+~
+~
+4 4629 4647
+D2
+{yA large{x {Rboulder coral{x {yblocks the exit to the south. {x 
+~
+boulder~
+4 4625 4637
+C 0
+S
+#4646
+{BAlong The Ocean Floor{x~
+{bA kaleidoscope of shapes and colors assaults the senses,{x
+{balong the base of the {Rcoral{x {breef.  Outcroppings prevent {x
+{bfurther travel to the east, north, and south.. Fish of {x
+{bexotic colors dart in and around the reef.  Along the {x
+{bocean floor, debris is strewn haphazardly, almost{x
+{bspoiling the beauty of the reef.{x
+~
+0 8 6
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4637
+D4
+{BFighting the current, you can just make it to the reef. {x 
+~
+~
+0 0 4640
+C 0
+S
+#4647
+{yA Small Stable{x~
+{yHaving passed through a small{x {Rboulder coral{x {ydoorway, you {x
+{ystand{x {ywithin a very small cavern. It's dimensions are just {x
+{ybarely able to hold you{x {yand it's occupant. {x Kelp {ycovers {x
+{ythe floor and a stack of plankton{x {yhas been piled against {x
+{ythe back wall.{x
+~
+0 520 6
+D2
+{yA small{x {Rboulder coral{x {yblocks the exit to the south. {x 
+~
+~
+4 0 4645
+C 0
+S
+#4648
+{BAlong The Ocean Floor{x~
+{bYou pass along the bottom of the sea, below the {Rcoral{b. To the west,
+lies a dark tunnel, while above, the reef holds sway. Fish school in
+colorful abandon to all sides. Larger predatory fish scythe among the
+schools of smaller fish. An occasional porpoise can be seen from time to
+time and the haunting songs of whales can be heard in mournful song amidst
+the water. {x 
+~
+0 8 6
+D2
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4649
+D3
+{BA small tunnel leads through the coral reef. {x 
+~
+~
+0 0 4644
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4654
+C 0
+S
+#4649
+{BAlong The Ocean Floor{x~
+{bThe seafloor is jumbled here, the stone of the bottom covered with a
+deep layer of sediment. Above, many different types of fish can be seen
+schooling. An occasional predator wreaks havoc among the smaller fish, as it
+rushes through the schools. Crustaceans of many shapes and sizes crawl
+amongst the stones of the bottom, including many{x {ystarfish{x {band{x
+{ysanddollars{x{b. {x 
+~
+0 8 6
+D0
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4648
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4652
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4650
+C 0
+S
+#4650
+{BThe{x {RCoral{x {BReef{x~
+{bThe reef is spread out in all it's glory. {RCoral{b of many{x
+{bshapes sizes and colors grow in {Wr{Yi{ro{Rt{ro{Yu{Ws{b profusion. Anenomes {x
+{bgrow upon the coral, with many brightly colored {Yc{Rl{Yo{Rw{Yn{Rf{Yi{Rs{Yh{b {x
+{bnestling in their haven.  Countless varieties of colorful {x
+{bfish glide effortlessly through {Rcoral{b forests.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4654
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4651
+D5
+{BThe ocean depths lie below you. {x 
+~
+~
+0 0 4649
+C 0
+S
+#4651
+{BThe{x {RCoral{x {BReef{x~
+{bGliding through the gently rocking waters, along the
+{bthe coral outcroppings, are {msponges{b, {rfirefish{b, and 
+{Ws{Dk{Wu{Dn{Wk-s{Dt{Wr{Di{Wp{De{Wd{x {banemonefish, which add to the profusion {x
+{bof{x {bcolors along the reef.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4653
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4650
+D5
+{BThe ocean depths lie below you. {x 
+~
+~
+0 0 4652
+C 0
+S
+#4652
+{BAlong The Ocean Floor{x~
+{bThe sea's floor lies near, while the reef holds sway in the upper {x
+{breaches of this underwater land.  The growth of the {Rcoral{b colonies{x
+{bblocks all exits, save west, up towards the surface, or down towards{x
+{ba dark gulf, leading towards uncharted depths. Fish{x {bswim here in {x
+{bsmall schools, while an occasional eel can be seen fluidly gliding{x
+{bthrough the deep {Bblue{b waters.{x
+~
+0 8 6
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4649
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4651
+D5
+{BA dark shaft leads further down. {x 
+~
+~
+0 0 4660
+C 0
+S
+#4653
+{BThe{x {RCoral{x {BReef{x~
+{bThe rough reef surrounds this cranny. {x {RCoral{x {bof many {x
+{bshapes, sizes, and colors grow in profusion. Anenomes {x
+{bgrow upon the coral, with many brightly colored clownfish {x
+{bnestling in their haven. Countless varieties of colorful {x
+{bfish glide effortlessly through the {Rcoral{b structures. {x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4655
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4651
+C 0
+S
+#4654
+{BThe{x {RCoral{x {BReef{x~
+{bThe{x {Rcoral{x {boutcroppings block further passage, save for down and{x
+{bsouth. The walls of the many-colored{x {Rcoral{x {bteem with fish and{x
+{bother exotic forms of sea life. The gently rocking waters and the {x
+{bair{x {bbubbles, which drift slowly upwards from the cylindrical reef, {x
+{bcoalesce into a sense of serenity. {x
+~
+0 0 6
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4650
+D5
+{BThe ocean depths lie below you. {x 
+~
+~
+0 0 4648
+C 0
+S
+#4655
+{BThe{x {RCoral{x {BReef{x~
+{bThe{x {Rcoral{x {bflourishes here in many shades and hues of pure{x
+{bvibrant color. Fish of many sizes and shapes swim here. {x
+{bAnemones grow upon{x {bthe{x {Rcoral{b, hosting a multitude of smaller {x
+{bfish within their{x {bprotective grasp. An occasional predator {x
+{bflashes through, scattering the{x {bfish, who soon resume their {x
+{baimless wanderings.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4656
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4653
+C 0
+S
+#4656
+{BThe{x {RCoral{x {BReef{x~
+{bThe reef is spectacular here in its multitude of hues {x
+{band colors. Fish{x {band other sea life glide through{x {Rcoral{x 
+{bmasses and the other{x {bsedentary creatures that grow from {x
+{bit's surface.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4659
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4655
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4657
+C 0
+S
+#4657
+{BAlong The Ocean Floor{x~
+{bThe harder{x {Rcoral{x {bcolonies have given way to softer{x {Rcorals{b, {x
+{bwhich hide under the overhanging formations. Their branches{x
+{bsway with the gently rocking {Bwaters{b, as if trees caught in {x
+{ba breeze.{x  {bOutcroppings block further travel, allowing only{x
+{beast or up, towards the surface, as exits.{x
+~
+0 8 6
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4658
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4656
+C 0
+S
+#4658
+{BAlong The Ocean Floor{x~
+{bExotic colored fish dart in and around the{x {Rcoral{x {bformation,{x
+{bas other marine life clings to the reef's surface. Outcroppings {x
+{bof the cylindrical reef curl around you, allowing passage only{x
+{bto the west and up towards the surface.{x
+~
+0 8 6
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4657
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4659
+C 0
+S
+#4659
+{BThe{x {RCoral{x {BReef{x~
+{bLarge schools of fish glide through the deep {Bblue{b waters
+{balong the {Rcoral{b reef.  The {Rcoral{b colonies along the reef
+{bdisplay every color under the {Wr{Ya{Mi{Rn{Cb{Go{Ww{b, lending itself as
+{ba useful camouflage for the exotically colored fish.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4664
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4693
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4656
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4658
+C 0
+S
+#4660
+{BA dark shaft below the sea{x~
+{bThe narrow walls of the shaft enclose the darkness which{x
+{breigns in this natural sink below the ocean's floor.  The {x
+{bbrightly {Cc{Go{Ml{Yo{Wr{Ce{Gd{b fish, of the upper regions of the sea,{x
+{bgive way to the {Dmonochromatic life{b that exists in darkness.{x
+{bAn occasional spark of {Ylight{b can be seen, as phosphorescent{x
+{bmarine life hunts it's varied prey.  The walls of the shaft{x
+{bare limestone, covered with the drifting silt of ages.{x
+~
+0 9 6
+D4
+{BThe floor of the ocean lies above. {x 
+~
+~
+0 0 4652
+D5
+{BA shaft into darkness continues further. {x 
+~
+~
+0 0 4661
+C 0
+S
+#4661
+{BA shaft into darkness{x~
+{bThe shaft continues below, but the opening is blocked by fallen {x
+{bstone and rubble of what appears to be several ancient ships. {x
+{bTo the west, a{x {bnatural alcove lies in the shaft.{x
+~
+0 9 6
+D3
+{BAn rocky natural alcove lies this way. {x 
+~
+~
+0 0 4663
+D4
+{BA dark shaft continues further above. {x 
+~
+~
+0 0 4660
+C 0
+S
+#4662
+{BA Small Outcropping of{x {RCoral{x~
+{wAncient {Rcoral{x {woutcroppings have formed the small island you stand{x
+{wupon. Although surrounded by crystal, {Bblue{x {wwaters, the island is{x
+{wunable to support much life. Seagulls swoop above the outcropping,{x
+{win their endless search for food. It might be best to travel with {x
+{wcare, to avoid damaging{x {wthis fragile reef.{x
+~
+0 0 18
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4664
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4666
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4693
+D5
+{BThere seems to be a loose piece of{x {Rcoral{x{B. {x 
+~
+coral~
+4 4627 4667
+C 0
+S
+#4663
+{BWolf's Lair{x~
+{bA dark cave has been created off of the chasm that pierces the {x
+{bocean floor.  The water is amazingly clear of marine life, save {x
+{bfor the odd plankton that drifts within the water. The walls of {x
+{bthe cave are covered with a layer of silt.{x
+~
+0 9 6
+D1
+{BA dark shaft in the water lies here. {x 
+~
+~
+0 0 4661
+C 0
+S
+#4664
+{BThe{x {RCoral{x {BReef{x~
+{YL{Bi{Yg{Bh{Yt{b filters through the waters, casting shadows in its wake. The
+{bmultitude of fish and other marine life, who spend their lives within {x
+{bthe reef's shadow, create a kaleidoscope of color against the already {x
+{bcolorful {Rcoral{b. The gently rocking waters attempt to lull you into a {x
+{bdangerous sense of serenity.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4672
+D2
+{BThe coral reef juts above the water. {x 
+~
+~
+0 0 4662
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4659
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4671
+C 0
+S
+#4665
+{BThe{x {RCoral{x {BReef{x~
+{bThe cylindrical reef is covered by {Rcorals{b  of many shapes,
+{bsizes and colors. Brain {Rcorals{b, sea {Gfans{b, organ-pipe {Rcorals{b {x
+{band {Rcorals{b resembling the tendrils and leaves of plants are {x
+{bamong those seen here.  Small colorful fish dart in and about {x
+{bthe reef.{x
+~
+0 0 6
+D0
+{BThe coral reef juts above the water. {x 
+~
+~
+0 0 4693
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4666
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4669
+C 0
+S
+#4666
+{BThe{x {RCoral{x {BReef{x~
+{bThe{x {Rcoral{x {bformations are overwhelming in their shapes, the {x
+{briot{x {bof colors and the astonishing variety of life. {DJellyfish{b {x
+{bpump along, as{x {bschools of fish part, to allow them to pass {x
+{bthrough,{x {bquickly closing{x {branks again.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4662
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4665
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4670
+C 0
+S
+#4667
+{BA Large Cavern Within The{x {RCoral{x~
+{wThe floor of the cavern is covered with a deep, soft carpet {x
+{wof {xkelp{w. Tapestries of multi-colored{x {Ya{Bl{Rg{Ga{Me{x {whang upon the{x
+{wcurved, rough walls of the{x {Rcoral{x {wreef. A large throne, {x
+{wcovered with{x {wmother-of-pearl, stands against the far wall.{x
+~
+0 9 6
+D4
+{BThere seems to be a loose piece of{x {Rcoral{x{B. {x 
+~
+coral~
+4 4627 4662
+C 0
+S
+#4668
+{BA Small Cavern Within The{x {RCoral{x~
+{wThe floor of the small cavern is covered with{x {galgae{x{w. Protruding
+{Rcoral{x {wformations pierce the rough walls of the reef, where slimy
+pieces of {gkelp{x {whang in greasy disarray. {x 
+~
+0 9 6
+D4
+{BThere seems to be a loose piece of{x {Rcoral{x{B. {x 
+~
+coral~
+4 4627 4638
+C 0
+S
+#4669
+{BAlong The Ocean Floor{x~
+{bThe sea floor is covered in a deep layer of sediment, through {x
+{bwhich{x {bdiscarded bits and pieces of debris peek. The scattered {x
+{btimbers of a wrecked{x {bship can be seen, tossed as a child's game {x
+{bof Pick Up Sticks. Giant clams{x {band other sedentary marine life {x
+{bhave made their homes here amid the clutter.{x
+~
+0 8 6
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4670
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4665
+C 0
+S
+#4670
+{BAlong The Ocean Floor{x~
+{bCovered in debris, the sea floor is cluttered and jumbled. The {x
+{bsoft{x {Rcoral{x {bcolonies sway in the gently rocking{x {bwaters. Colorful {x
+{band exotic fish can be seen darting in and about the{x {bcylindrical {x
+{breef.{x
+~
+0 8 6
+D0
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4671
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4669
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4666
+C 0
+S
+#4671
+{BAlong The Ocean Floor{x~
+{bThe {Rcoral{b's colorful brilliance is breathtakingly beautiful.{x
+{bChirps, whistles, squeaks, and croaks, of the marine life, {x
+{bcombine with the sounds of the water's gentle waves to create {x
+{ba symphony of sound.{x
+~
+0 8 6
+D1
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4673
+D2
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4670
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4664
+C 0
+S
+#4672
+{BThe{x {RCoral{x {BReef{x~
+{bThe cylindrical reef, rising from the ocean floor, is covered {x
+{bby{x {bcolorful {Rcoral{x {bcolonies. An amazing number of exotically {x
+{bshaped and{x {bbeautifully colored fish dart in amongst them. {x {YL{Bi{Yg{Bh{Yt{x
+{bfilters through the warm ocean waters, casting ominous shadows about.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4674
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4664
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4673
+C 0
+S
+#4673
+{BAlong The Ocean Floor{x~
+{bExotically colored fish swim in schools darting in and out
+{bof the {Rcoral{b reef. The {Rcoral{b colonies protrude from the reef, 
+{bcreating a small niche. Broken pieces of {Rcoral{b and other {x
+{bdebris litter the ocean floor.{x
+~
+0 8 6
+D3
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4671
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4672
+C 0
+S
+#4674
+{BThe{x {RCoral{x {BReef{x~
+{bThe reef continues, turning towards the north and east. The {x
+{bwater is extremely shallow here, the {Rcoral{b sloping sharply {x
+{btowards the surface. A veritable carpet of spiny sea urchins {x
+{blines the ocean floor. Small fish in many colors swim placidly {x
+{babove and even through the carpet of shellfish.
+{x
+~
+0 0 6
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4675
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4672
+C 0
+S
+#4675
+{BThe{x {RCoral{x {BReef{x~
+{bPassage here is treacherous, as the walls of the reef are {x
+{bcovered with a veritable carpet of sea urchins.  Small fish {x
+{bdart in and around the {Rcoral{b, carefully avoiding the stinging {x
+{bspines.  A passage leads further down into the ocean depths. {x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4674
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4677
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4676
+C 0
+S
+#4676
+{BAlong The Ocean Floor{x~
+{bCrustaceans of many sizes and shapes make their way along the {x
+{bsea's{x {bfloor, which is covered in a deep layer of sediment. {x
+{bBroken pieces of{x {Rcoral{x {band other odds and ends of debris lie {x
+{bscattered about. The{x {breef's formations block all travel, save {x
+{bfor the north and up towards{x {bthe surface of the waters.{x
+~
+0 8 6
+D0
+{BYou can continue along the ocean floor. {x 
+~
+~
+0 0 4678
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4675
+C 0
+S
+#4677
+{BThe{x {RCoral{x {BReef{x~
+{bThe{x {Rcoral{x {bcontinues here in multi-colored, variegated hues.{x
+{bColorful {Yc{Rl{Yo{Rw{Yn{Rf{Yi{Rs{Yh{b swim among the anemones that grow upon {x
+{bthe reef. The{x {bstony, {Rcoral{x {bformations could have come {x
+{bstraight from the most{x {btalented sculptor's workshop.{x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4679
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4675
+D5
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4678
+C 0
+S
+#4678
+{BAlong The Ocean Floor{x~
+{bThe {Rcoral{b colonies of this pocket of the reef impede {x
+{bfurther travel in all directions, except south and up{x
+{btowards the sea's surface.  Scattered bits of debris {x
+{blie partially immersed within the sediment along the {x
+{bocean's floor.{x
+~
+0 8 6
+D2
+{BThe ocean floor lies below you. {x 
+~
+~
+0 0 4676
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4677
+C 0
+S
+#4679
+{BThe{x {RCoral{x {BReef{x~
+{bThe reef grows colorful and bountiful. Variegated and {x
+{bmulticolored fish{x {bof all sizes swim here, among the many {x
+{bdifferent types of {Rcoral{b. To the{x {bwest, a superb stand of {x
+{Dblack{x {Rcoral{b grows to the height of several men{x {bstanding {x
+{bupon each other's shoulders. A chasm opens up beneath you. {x
+~
+0 0 6
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4686
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4677
+D5
+{BA giant chasm opens up below you. {x 
+~
+~
+0 0 4680
+C 0
+S
+#4680
+{BA Giant Chasm{x~
+{bBetween the cliffs of the {Rcoral{b reef, there is a large 
+{bundersea canyon. The depth of the ocean is brought into {x
+{bfocus as the world seems to fold away from any light.{x
+~
+0 9 6
+D4
+{BThe coral reef continues. {x 
+~
+~
+0 0 4679
+D5
+{BThe giant chasm leads further into the murky depths. {x 
+~
+~
+0 0 4681
+C 0
+S
+#4681
+{BInside The Giant Chasm{x~
+{bDarkness envelopes the waters within the canyon; however{x
+{bthe multitude of colors has not been muted, due to the{x
+{bphosphorescence of the life within the chasm.  The {x
+{Rcoral{b seems to grow almost with a purpose, a much less{x
+{bhaphazard arrangement than seen before.{x
+~
+0 9 6
+D1
+{BYou can continue through the giant chasm. {x 
+~
+~
+0 0 4682
+D4
+{BThe chasm opens upward. {x 
+~
+~
+0 0 4680
+C 0
+S
+#4682
+{BFurther Into The Chasm{x~
+{bThe{x {Rcoral{x {bformations seem to take on an even greater {x
+{bpurpose, coalescing into almost recognizable shapes {x
+{band forms. Brightly colored fish{x {bswim in small schools, {x
+{boblivious to your presence. The sea floor lies an{x
+{bunreachable depth below you.{x
+~
+0 9 6
+D2
+{BThe chasm leads further to the south. {x 
+~
+~
+0 0 4683
+D3
+{BThe chasm leads further to the west. {x 
+~
+~
+0 0 4681
+C 0
+S
+#4683
+{BFurther Into The Chasm{x~
+{bAmazingly clear of any debris, the sea floor rises almost 
+{bvertically from the north, allowing you to once again walk 
+{bupon the surface of the ocean's floor. The brightly colored 
+{Rcoral{b colonies resemble neat rows of {Ghedges{b, underwater {xtrees{b, 
+{band clusters of {Mf{Yl{mo{Cw{Ye{mr{Ms{b. A {Rcoral{b latticed trellis arches 
+{bover an entrance to the east.{x
+~
+0 9 6
+D0
+{BThe sea floor drops almost vertically to the north. {x 
+~
+~
+0 0 4682
+D1
+{gA latticed archway of{x {Rcoral{x {gleads to the east. {x 
+~
+~
+0 0 4684
+C 0
+S
+#4684
+{GThe Octopus' Garden{x~
+{gPassing through the lattice arch, you step into a small grotto. The
+{Rcoral colonies{x {gform an almost solid wall in this round room. Small
+statues of the marine life have been formed from brightly colored
+{Rcoral{x{g. Starfish, sanddollars, clownfish, clams and shrimp are among
+those represented by the statues. {GKelp{x {gcreates a thick lawn underfoot.
+{x 
+~
+0 9 6
+D0
+{gThere seems to be a loose piece of {Rcoral{x{g. {x 
+~
+boulder~
+4 4632 4685
+D3
+{gA latticed archway of{x {Rcoral{x {gleads to the west. {x 
+~
+~
+0 0 4683
+C 0
+S
+#4685
+{GA Hidden Chamber{x~
+{gA small chamber formed by the {Rcoral{x {ghides the Octopus' treasures.
+~
+0 521 6
+D2
+{gThere seems to be a loose piece of {Rcoral{x{g. {x 
+~
+boulder~
+4 0 4684
+C 0
+S
+#4686
+{BThe{x {RCoral{x {BReef{x~
+{bNorth and west, the {Rcoral{b reef continues. Fish swim in {x
+{bplacid{x {berratic paths, as they look for food. Small shrimp {x
+{band crustaceans swarm{x {bover the surface of the {Rcoral{b. On {x
+{boccasion, a porpoise and even small{x {bwhales are seen {x
+{bflashing near this underwater garden.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4687
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4679
+C 0
+S
+#4687
+{BThe{x {RCoral{x {BReef{x~
+{bThe {Rcoral{x {bformations create a shelf upon which small{x
+{bcrustaceans seem almost to be sunning themselves.  Fish{x
+{bswim through the gently rocking waters seemingly oblivious {x
+{bto your presence. The patter of the wavelets above {x
+{bcombines with the other sounds{x {bfrom the depths to {x
+{bcreate an lulling symphony of sound.{x
+~
+0 0 6
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4686
+C 0
+S
+#4689
+{BThe{x {RCoral{x {BReef{x~
+{RCoral{x {breefs of all the colours of the {Wr{Ya{Mi{Rn{Cb{Go{Bw{x {bcan be seen here
+{breflecting the light, which filters through. Fish of unknown {x
+{borigins swim in and out of the reef{x {bslowly, adding a sense of {x
+{bserenity. Air bubbles float gently from the reefs{x {bto the {x
+{bsurface, giving the {Rcoral{b an appearance of breathing.{x
+~
+0 0 6
+D1
+~
+~
+0 0 4638
+D2
+~
+~
+0 0 4633
+C 0
+S
+#4690
+{BThe{x {RCoral{x {BReef{x~
+{bBeautifully colored fish swim in and about the{x {Rcoral{x 
+{bformations, which appear to have been sculpted by {x
+{bsentient beings. The{x {bcylindrical reef, rising from {x
+{bthe ocean floor, exhibits the many colors of{x {bthe rainbow. {x 
+{bFurther travel into the ocean depths is blocked by an{x
+{boutcropping of the {Rcoral{x {breef.{x
+~
+0 0 6
+D0
+~
+~
+0 0 4633
+D1
+~
+~
+0 0 4639
+C 0
+S
+#4691
+{BThe{x {RCoral{x {BReef{x~
+{bGliding further along the reef, you watch an amazing {x
+{bnumber of exotic{x {bfish darting in and about the formation. {x
+{bThe {Rcoral{b, {msponges{b, and{x {bthe {Yc{Go{Rl{Bo{Mr{Wf{yu{xl {bbrilliance of the {x
+{breef fish are{x {bbreathtaking. The patter of wavelets above {x
+{bcombines with the chirps,{x {bsqueaks, whistles, and croaks {x
+{bof the marine life to create a cacophony of{x {bsound. {x 
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4640
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4639
+C 0
+S
+#4692
+{BThe{x {RCoral{x {BReef{x~
+{YL{Bi{Yg{Bh{Yt{b filters through the waters, casting shadows in its wake. The{x
+{bmultitude of fish and other marine life, who spend their lives within {x
+{bthe reef's shadow, create a kaleidoscope of color against the already {x
+{bcolorful {Rcoral{b. The gently rocking waters attempt to lull you into a {x
+{bdangerous sense of serenity.{x
+~
+0 0 6
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4640
+D3
+{BThe coral reef continues. {x 
+~
+~
+0 0 4638
+C 0
+S
+#4693
+{BThe{x {RCoral{x {BReef{x~
+{bThe reef is spread out in all it's glory. {RCoral{b of many{x
+{bshapes sizes and colors grow in {Wr{Yi{ro{Ft{xo{Yu{Ws{b profusion. Anenomes {x
+{bgrow upon the coral, with many brightly colored {Yc{Rl{Yo{Rw{Yn{Rf{Yi{Rs{Yh{b {x
+{bnestling in their haven.  Countless varieties of colorful {x
+{bfish glide effortlessly through {Rcoral{b forests.{x
+~
+0 0 6
+D0
+{BThe coral reef continues. {x 
+~
+~
+0 0 4659
+D1
+{BThe coral reef continues. {x 
+~
+~
+0 0 4662
+D2
+{BThe coral reef continues. {x 
+~
+~
+0 0 4665
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 4628 spec_breath_lightning
+M 4629 spec_nasty
+M 4630 spec_cast_mage
+M 4633 spec_nasty
+M 4637 spec_poison
+S
+
+
+
+#RESETS
+D 0 4637 0 2
+D 0 4638 5 2
+D 0 4645 0 2
+D 0 4645 2 2
+D 0 4647 2 2
+D 0 4662 5 2
+D 0 4667 4 2
+D 0 4668 4 2
+D 0 4684 0 2
+D 0 4685 2 2
+M 0 4634 5 4625 1
+M 0 4636 5 4627 1
+M 0 4635 5 4629 1
+G 0 4637 0
+M 0 4634 5 4631 1
+O 0 4627 0 4632
+M 0 4638 1 4634 1
+M 0 4625 1 4635 1
+M 0 4626 1 4636 1
+O 0 4625 0 4636
+M 0 4635 5 4637 1
+G 0 4639 0
+O 0 4627 0 4638
+M 0 4637 5 4639 1
+M 0 4636 5 4641 1
+M 0 4627 1 4645 1
+G 0 4626 0
+E 0 4629 0 17
+M 0 4630 1 4647 1
+E 0 4629 0 17
+O 0 4627 0 4648
+M 0 4635 5 4649 1
+G 0 4637 0
+M 0 4634 5 4650 1
+M 0 4636 5 4653 1
+O 0 4627 0 4655
+M 0 4634 5 4659 1
+O 0 4627 0 4662
+M 0 4628 1 4663 1
+M 0 4638 1 4664 1
+M 0 4637 5 4665 1
+O 0 4627 0 4667
+M 0 4632 1 4667 1
+O 0 4627 0 4668
+M 0 4629 1 4668 1
+M 0 4638 5 4669 1
+O 0 4640 0 4669
+P 0 4641 1 4640 1
+M 0 4637 1 4672 1
+M 0 4635 5 4673 1
+G 0 4638 0
+M 0 4636 5 4674 1
+M 0 4639 2 4674 1
+M 0 4639 2 4675 1
+M 0 4635 5 4676 1
+G 0 4637 0
+M 0 4634 5 4677 1
+M 0 4637 5 4678 1
+O 0 4628 0 4679
+M 0 4633 1 4684 1
+E 0 4632 0 17
+G 0 4642 0
+M 0 4631 1 4685 1
+M 0 4637 5 4687 1
+M 0 4636 5 4687 1
+M 0 4637 5 4691 1
+M 0 4637 5 4693 1
+S
+
+
+
+#SHOPS
+4627 32 0 0 0 0 100 30 0 23
+0
+
+
+
+#MOBPROGS
+#4625
+mob purge
+~
+#4626
+if carries $n 4626
+else
+  say {WWelcome, $n! The babelfish allows us to speak{x
+  say {Wand understand one another.  Someone in back{x
+  say {Wwould like to speak with you.{x
+  unlock north
+ open north
+endif
+~
+#4628
+~
+#4629
+~
+#4635
+if ispc $n
+  mob remember $n
+mob delay 1
+endif
+~
+#4636
+if hastarget $i
+  mob echoat $q {BYou have been sucked into the whirlpool!{x
+mob force $q down
+  mob echo {B$q was sucked into the whirlpool!{x
+mob forget
+endif
+~
+#4637
+if ispc $n
+  mob remember $n
+  mob delay 1
+endif
+~
+#4638
+if hastarget $i
+  mob echoat $q {BYou land with a THUD on the sea floor.{x
+mob damage $q 30 50
+  mob gtransfer $q 4637
+mob echo {B$q was sucked further into the whirlpool!{x
+  mob forget
+endif
+~
+#4645
+if carries $n 4631 and carries $n 4626
+  say {WYou have returned! The Old Seahorse has been waiting for you!{x
+  unlock north
+  open north
+else 
+  if carries $n 4634 and carries $n 4626
+  say {WMuch luck to you, $n!{x
+  unlock north
+  open north
+    else 
+      if carries $n 4626
+      say {WSomeone in back would like to speak with you.{x
+      unlock north
+      open north
+        else
+          say {WRotalsnart a evah tsum uoy.{x
+      endif
+  endif
+endif
+~
+#4646
+if objhere 4635 and carries $n 4626
+  say {W{WI thank you for going to the trouble{x{x
+  say {W{Wof seeing me; however, all is well{x{x
+  say {W{Wat the moment.  Perhaps you will{x{x
+  say {W{Wcheck back at a later time.{x{x
+  open south
+else
+  if carries $n 4634 and carries $n 4626
+    say {W{WI hope you have news for us, as I{x{x
+    say {W{Whave told you all I knew.{x{x
+    open south
+  else
+    if carries $n 4626
+      say {W{WI wish I could speak with you at length, but{x{x
+      say {W{Wsomething dreadful has occurred.  A damselfish{x{x
+      say {W{Whas been kidnapped and is being held against{x{x
+      say {W{Wher will.  Seek the Damselfish in Distress{x{x
+      say {W{Win the Octopus' Garden in the Sea.  Bring{x{x
+      say {W{Wproof of her rescue and you shall be rewarded.{x{x
+      mob oload 4634
+      give mp4646 $n
+      open south
+    else
+      say {WHsiflebab a yub.{x
+      open south
+    endif
+  endif
+endif
+~
+#4647
+mob oload 4630
+give questdone $n
+say {WOho! You have returned triumphant! Your name{x
+say {Wshall long be remembered as a hero of the Reef!{x
+say {WSeek out the Crown-of-Thorns that he may{x
+say {Wreward you well.{x
+unlock south
+open south
+~
+#4648
+if carries $n 4634
+0
+  mob oload 4631
+  say {MThank you, oh, thank you, $n! I'm free at last!{x
+  drop scale
+  mob echo {MThe Damselfish disappears with a POOF!{X
+mob purge $i
+else
+  say {MThank you, oh, thank you, $n! I'm free at last!{x
+  say {MHowever, you are not "The One".{x
+endif
+~
+#4649
+if carries $n 4630
+  mob oload 4635
+  mob otransfer mp47M35 4647  
+  mob oload 4636
+  mob oload 4633
+  mob remove $n 4634
+  mob remove $n 4630
+  say {yWord has reached me of your courageous deed.{x
+  say {yPlease accept this as a token of our gratitude.{x
+  give sanddollar $n
+  give damselfish $n
+  say {yYou are welcome in our depths for as long as you desire.{x
+else
+  say {yThe old Seahorse has asked to see you.{x
+  say {ySeek him below the Vortex.{x
+endif
+~
+#4651
+~
+#4674
+mob damage all 30 60 nonlethal
+mob echo {RA sea urchin spine penetrates through your clothing!!! Ouch!{x
+~
+#4698
+mob debug on
+if ispc $n
+  mob force trigger put chest stern
+else
+endif
+mob debug off
+~
+#4699
+~
+#0
+
+#$

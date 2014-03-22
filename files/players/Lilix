@@ -1,0 +1,670 @@
+#PLAYER
+Name Lilix~
+Id   1087954657
+LogO 1099093129
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Human~
+Sex  2
+Cla  1
+OCla -1
+Levl 23
+OldLvl 23
+Sec  0
+Plyd 64388
+Not  1091799867 1088731867 1086662177 0
+Scro 33
+Room 3054
+HMV  264 264 215 215 232 232
+Gold 106
+Silv 435
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 23
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  23076
+QuestPnts 104
+PAct  DEFGQTd
+Empower  0
+WName Lilix~
+Comm LNO
+Deaf 0
+Pos  4
+Prac 2
+Trai 1
+Alig  -1000
+Hit   11
+Dam   19
+ACs -3 -1 -3 45
+Wimp  4
+Attr 18 18 21 18 18
+AMod 2 1 4 0 2
+Pass Link/bgfrLHvU~
+Titl  the Cow Priestess~
+Pnts 40
+TSex 2
+PSize 2
+LLev 17
+HMVP 234 215 232
+Cnd  0 4 0 32
+Alias ooc chat~
+Alias heal c 'cure crit'~
+Alias kw order wolf kill~
+Alias pain c 'cause crit' ~
+Sk 79 'cure light'
+Sk 1 'change sex'
+Sk 1 'cause light'
+Sk 75 'bless'
+Sk 1 'cause serious'
+Sk 85 'cure serious'
+Sk 75 'protection evil'
+Sk 75 'protection good'
+Sk 76 'earthquake'
+Sk 75 'cause critical'
+Sk 79 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'harm'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 1 'armor'
+Sk 75 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 45 'create food'
+Sk 1 'create rose'
+Sk 67 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 75 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'weaken'
+Sk 84 'mace'
+Sk 78 'flail'
+Sk 77 'meditation'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 10236
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 383
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 392
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 237
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 394
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 428
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 417
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 379
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 263
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Time 405
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 6504
+Nest 1
+Cond 0
+Wear -1
+Cost 880
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 502
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 934
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 607
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 824
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 747
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 1392
+Nest 0
+Cond 0
+Wear 14
+Cost 1150
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 10236
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 10239
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Time 769
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Time 694
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Time 550
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 899
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 701
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 506
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 616
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 6515
+Nest 0
+Cond 0
+Wear 16
+Cost 500
+End
+
+#END

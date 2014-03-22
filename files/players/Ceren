@@ -1,0 +1,470 @@
+#PLAYER
+Name Ceren~
+Id   1099161923
+LogO 1099472932
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Titan~
+Sex  1
+Cla  5
+OCla -1
+Levl 20
+OldLvl 20
+Sec  0
+Plyd 31365
+Scro 33
+Room 3054
+HMV  387 387 153 153 214 214
+Gold 415
+Silv 8576
+Gold_bank 4000
+Silv_bank 0
+Shares 0
+Share_level 20
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  30118
+QuestPnts 79
+PAct  CDGHQTd
+AfBy c
+WName Ceren~
+Comm INO
+Deaf DP
+Pos  4
+Prac 13
+Trai 7
+Alig  1000
+Hit   25
+Dam   26
+ACs 27 31 30 101
+Attr 23 20 20 16 18
+AMod 3 1 2 0 2
+Pass CeNXFkpJPznKg~
+Titl .~
+Pnts 50
+TSex 1
+PSize 5
+LLev 6
+HMVP 343 153 214
+Cnd  0 0 5 0
+Boards       4 General 1099185265 Ideas 0 Announce 0 Personal 0 
+Sk 90 'sword'
+Sk 1 'dagger'
+Sk 67 'bash'
+Sk 73 'dirt kicking'
+Sk 81 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 77 'kick'
+Sk 76 'dodge'
+Sk 75 'parry'
+Sk 77 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3113
+Nest 0
+Cond 0
+Wear -1
+Cost 660
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Time 889
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 3427
+Nest 0
+Cond 0
+Wear 12
+Time 525
+Cost 0
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 16064
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  16
+Cost 3560
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  15  -1   2  19          0
+Affc 'reserved'   1  15  -1   2  18          0
+Affc 'reserved'   1  15  -1  10  13          0
+Affc 'reserved'   1  15  -1   1   1          0
+End
+
+#O
+Vnum 3009
+Nest 0
+Name rack lamb~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Time 575
+Cost 0
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear 17
+Time 648
+Cost 270
+Spell 1 'haste'
+End
+
+#END

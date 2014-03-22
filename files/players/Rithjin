@@ -1,0 +1,956 @@
+#PLAYER
+Name Rithjin~
+Id   1100647182
+LogO 1144731811
+Vers 5
+Prom %hhp %mm %vmv %Xtnl %K ~
+Race Myrddraal~
+Clan Malice~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 5
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 424163
+Scro 78
+Room 2500
+HMV  5407 9428 3631 3732 2451 4905
+Gold 24072
+Silv 32623
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200115
+QuestPnts 1242
+QuestNext 5
+PAct  BCDEFITbcde
+AfBy DFHTUVc
+WName Rithjin~
+Comm EFKNOQ
+RaceChan 0
+Deaf 0
+Pos  5
+Prac 4
+Save  -194
+Alig  -1000
+Hit   455
+Dam   434
+ACs -1036 -1036 -1036 -1023
+Attr 27 17 17 27 25
+AMod 34 11 7 15 19
+Pass EpG36qaA1NVZA~
+Titl  {DMa{wl{Wic{gio{Dus {wPs{Dy{gch{Do{x~
+Pnts 40
+TSex 0
+PSize 2
+LLev 72
+HMVP 1786 377 755
+Cnd  0 0 -1 -1
+Alias sanc get sanc back qua sanc~
+Alias kill assassinate~
+Alias assassinate kill~
+Alias rimshot chat BUH_DO_CHHHHHHH~
+Boards       4 General 1106439442 Ideas 1106439475 Announce 1104975611 Personal 1102365367 
+Sk 77 'portal'
+Sk 76 'gas breath'
+Sk 75 'curse'
+Sk 75 'giant strength'
+Sk 71 'invisibility'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 48 'spear'
+Sk 100 'mace'
+Sk 82 'axe'
+Sk 38 'flail'
+Sk 91 'whip'
+Sk 86 'polearm'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 1 'backstab'
+Sk 82 'bash'
+Sk 78 'berserk'
+Sk 76 'dirt kicking'
+Sk 83 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 59 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 36 'shield block'
+Sk 1 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 67 'envenom'
+Sk 90 'fast healing'
+Sk 100 'haggle'
+Sk 28 'hide'
+Sk 43 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 100 'sharp blade'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'warrior basics'
+Gr 'assassin default'
+Gr 'invisibility spell'
+Gr 'warrior spells'
+Affc 'armor'   0  95  21 -20  17          0
+Affc 'energy shield'   0  65  58 -20  17          0
+Affc 'sanctuary'   0  70   3   0   0        128
+Affc 'enhanced strength'   0 100  -1  15   1          0
+End
+
+#O
+Vnum 6718
+Nest 0
+Cond 0
+Wear 5
+Cost 65000
+End
+
+#O
+Vnum 6722
+Nest 0
+Cond 0
+Wear 7
+Cost 30000
+End
+
+#O
+Vnum 6724
+Nest 0
+Cond 0
+Wear 13
+Cost 22500
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6736
+Nest 0
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 14
+Cost 25000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 0
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 21016
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11851
+Nest 0
+Cond 0
+Wear 10
+Cost 15000
+End
+
+#O
+Vnum 11905
+Enchanted
+Nest 0
+ExtF 302514370
+Cond 0
+Wear 19
+Cost 55000
+Affc 'reserved'   1 100  -1  60  18          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1 -500  13          0
+Affc 'reserved'   1 100  -1 -400  14          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 21012
+Nest 0
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 11840
+Nest 0
+Cond 0
+Wear 18
+Cost 10000
+End
+
+#O
+Vnum 2501
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 10611
+Nest 0
+Cond 0
+Wear -1
+Cost 80000
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 7530
+Nest 0
+Cond 0
+Wear -1
+Cost 60000
+End
+
+#O
+Vnum 7529
+Nest 0
+Cond 0
+Wear -1
+Cost 60000
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 0
+ExtF 69
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 2501
+Nest 0
+ShD  {DRi{gthj{Din's {DMa{gl{Dice P{wa{Dc{wk {Do{wf {DF{wl{Da{wy{De{wd {wSkins{x~
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2502
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2502
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2503
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2503
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9
+Nest 1
+Cond 0
+Wear -1
+Cost 360
+Val  5 0 6 0 0
+End
+
+#O
+Vnum 9
+Nest 1
+Cond 0
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 9
+Nest 1
+Cond 0
+Wear -1
+Cost 323
+End
+
+#O
+Vnum 9
+Nest 1
+Cond 0
+Wear -1
+Cost 280
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 2798
+Nest 1
+Cond 0
+Wear -1
+Cost 50346
+End
+
+#O
+Vnum 9001
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9203
+Nest 1
+Cond 0
+Wear -1
+Cost 2800
+End
+
+#O
+Vnum 5946
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 440
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 433
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 418
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 405
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 415
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 8433
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+Spell 1 'armor'
+Spell 2 'sanctuary'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 25416
+Nest 1
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 9227
+Nest 1
+Wt   5
+Cond 0
+Wear -1
+Cost 1630
+Val  2 7 6 11 86
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'pshocking blade'   5   0  -1   0   0         64
+End
+
+#O
+Vnum 3296
+Nest 1
+Cond 0
+Wear -1
+Cost 105000
+End
+
+#O
+Vnum 2502
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2503
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  110 98 16 0 0
+End
+
+#O
+Vnum 6515
+Enchanted
+Nest 1
+ExtF 68
+Cond 0
+Wear -1
+Lev  11
+Cost 500
+Val  4 4 8 8 84
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  10  -1   5  18          0
+Affc 'reserved'   1  10  -1   4  19          0
+Affc 'reserved'   1  10  -1   2   1          0
+Affc 'pshocking blade'   5   0  -1   0   0         64
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20400
+Nest 0
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 2501
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4307
+Nest 0
+Cond 0
+Wear -1
+Cost 2310
+End
+
+#O
+Vnum 4308
+Nest 0
+Cond 0
+Wear -1
+Cost 2010
+End
+
+#O
+Vnum 20401
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20420
+Nest 0
+Cond 0
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 20408
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20408
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20407
+Nest 0
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 20407
+Nest 0
+Cond 0
+Wear -1
+Cost 12500
+End
+
+#O
+Vnum 20411
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20406
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20413
+Nest 0
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 20414
+Nest 0
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 20409
+Nest 0
+Cond 0
+Wear -1
+Cost 11500
+End
+
+#O
+Vnum 20410
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20405
+Nest 0
+Cond 0
+Wear -1
+Cost 45000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 6703
+Nest 0
+Cond 0
+Wear 16
+Cost 100000
+End
+
+#O
+Vnum 3155
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear -1
+Cost 380
+End
+
+#END

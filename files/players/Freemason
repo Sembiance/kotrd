@@ -1,0 +1,72 @@
+#PLAYER
+Name Freemason~
+Id   1093459105
+LogO 1098183606
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Troll~
+Sex  1
+Cla  5
+OCla -1
+Levl 5
+OldLvl 5
+Sec  0
+Plyd 36700
+Not  0 1093390109 1091759724 0
+Scro 33
+Room 3638
+HMV  88 88 108 108 124 124
+Gold 0
+Silv 2
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 5
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  7331
+PAct  EQTd
+AfBy Je
+Empower  0
+WName Freemason~
+Comm INO
+Deaf D
+Pos  8
+Prac 8
+Trai 7
+Save  -31
+Alig  0
+Hit   62
+ACs 80 80 80 80
+Attr 19 11 12 13 20
+AMod 0 0 0 0 0
+Pass FrApLFxIzPq0Q~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 47
+TSex 1
+PSize 4
+LLev 3
+HMVP 88 108 124
+Cnd  0 0 0 0
+Sk 41 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'bless'   0 242  69 -31  20          0
+Affc 'bless'   0 242  69  62  18          0
+Affc 'armor'   0 243  32 -20  17          0
+Affc 'golden aura'   0 496  76   0   0 1073741824
+End
+
+#END

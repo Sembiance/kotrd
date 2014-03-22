@@ -1,0 +1,74 @@
+#PLAYER
+Name Umfarg~
+Id   1141386480
+LogO 1141395234
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 1141
+Scro 33
+Room 3054
+HMV  1 37 102 102 36 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  2193
+QuestNext 10
+PAct  BDEGQTd
+WName Umfarg~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 2
+Save  -31
+Alig  1000
+Hit   62
+ACs 100 100 100 100
+Attr 18 14 17 15 15
+AMod 0 0 0 0 0
+Pass UmAGb1KavCGQs~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 37 102 106
+Cnd  0 16 32 32
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 10 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'bless'   0 250 125 -31  20          0
+Affc 'bless'   0 250 125  62  18          0
+End
+
+#END

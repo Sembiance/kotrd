@@ -1,0 +1,84 @@
+#PLAYER
+Name Ravario~
+Id   1098651643
+LogO 1105427830
+Vers 5
+Desc {Y|\        |-\{W_____________{r_______
+{Y||{b--------{Y|-|{W_____________{r_______\
+{Y||{b--------{Y|-|{W_____________{r_______/
+{Y|/        |-/{bO{Bc{cE{Ba{bN {CO{Wf {rC{RRI{yM{RSO{rN {RF{yIR{RE{(
+~
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Draconian~
+Clan Crimson Knights~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 58
+OldLvl 58
+Sec  0
+Plyd 273531
+Scro 33
+Room 3001
+HMV  1005 1005 240 240 442 442
+Gold 7186
+Silv 100000
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 58
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  110467
+QuestPnts 237
+PAct  CDGTcd
+AfBy JT
+WName Ravario~
+Comm EFNO
+RaceChan 0
+Deaf 0
+Pos  8
+Alig  -1000
+ACs 100 100 100 100
+Wimp  150
+Attr 22 17 17 17 19
+AMod 0 0 0 0 0
+Pass RankOyoVm5M7E~
+Titl  {bO{Bc{cE{Ba{bN {CO{Wf {rC{RR{YI{RM{rS{RO{YN {RF{rI{RR{YE{(~
+Pnts 58
+TSex 1
+PSize 3
+LLev 74
+HMVP 1005 240 442
+Cnd  0 0 7 0
+Boards       4 General 1099608535 Ideas 1099714165 Announce 1099099820 Personal 1099200112 
+Sk 100 'bfire'
+Sk 100 'dagger'
+Sk 91 'assassinate'
+Sk 1 'bash'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'kick'
+Sk 94 'dodge'
+Sk 93 'parry'
+Sk 98 'second attack'
+Sk 65 'third attack'
+Sk 1 'envenom'
+Sk 83 'fast healing'
+Sk 81 'hide'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+End
+
+#END

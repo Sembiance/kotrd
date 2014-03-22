@@ -1,0 +1,3593 @@
+#AREADATA
+Name Squirrel Forest~
+Builders Ophelia~
+VNUMs 11500 11599
+Credits UNKNOWN~
+Security 1
+Flags E
+LEVELs 40 65
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11500
+Entrance to the Forest~
+{gSquirrel Forest is one of the realm's most naturally beautiful
+settings.  It is a thick forest populated by a rare kind of squirrel.  A
+large wooden sign marks the entrance.  {x 
+~
+0 4 4
+E
+wooden~
+{y------------------------------------------------------------{x
+{y|                                                          |{x
+{y|               {WWelcome to Squirrel Forest!                {y|{x
+{y|                                                          |{x
+{y|   {WHome of the rare Canadian Biting Squirrel of Zimbabwe  {y|{x
+{y|                                                          |{x
+{y|                          {D__  (\_                         {y|{x
+{y|         {CHikers and      {D(_ \ ( '>        {CEnjoy           {y|{x
+{y|          {CCampers          {D) \/_)=        {CYour            {y|{x
+{y|          {CWelcome!         {D(_(_ )_        {CVisit!          {y|{x
+{y|                                                          |{x
+{y------------------------------------------------------------{x
+~
+D0
+~
+~
+0 0 11501
+C 0
+S
+#11501
+In the Forest~
+{gAround you stand some of the largest trees you've ever seen.  The
+sunlight filters through the thick foliage and dapples the surrounding area
+with glittering rays of light.  Birds twitter and tweet in the distance.  A
+sweet mossy smell tickles your nose.  This is nature in all its glory.  You
+can't wait to begin your camping trip in Squirrel Forest.  {x 
+~
+0 4 4
+D0
+~
+~
+0 0 11503
+D2
+~
+~
+0 0 11500
+D3
+~
+~
+0 0 11502
+C 0
+S
+#11502
+The Ranger Station~
+{gThis small wooden cabin serves as this park's ranger station.  The
+ranger himself is sitting at a small old desk.  Behind him is a map of
+{gSquirrel Forest, showing the locations of various campsites.  He looks
+very helpful, and may be able to sell you some supplies for your trip.  {x
+{gA tiny plaque is mounted under the map.  {x 
+~
+0 1032 1
+E
+plaque~
+{B-------------------------{x
+{B*                                                 *{x
+{B*      {CThis area was made by Ophelia (KOTRD)      {B*{x
+{B*               {CCopyright May 2000                {B*{x
+{B*                                                 *{x
+{B-------------------------{x
+~
+E
+map~
+                                   {w___________{YExit{x
+                                   {w|{x
+                                   {w|{x
+                                   {w|-{RCamp 7{x
+                                   {w|{x
+                                   {w|____{x
+                                        {w|    _______{x
+                                        {w|   |       |{x
+                 {w________               |   |       |{x
+  {RCamp 2{w_______  |       |   {RCamp 5     {w|___{RCamp 6  {w|{x
+       {w|      |  |       |______|                   |{x
+       {w|      |  |____   |              ____        |{x
+       {w|___   |__     |  |_____         |   |       |{x
+          {w|      |    |        |        |   |       |{x
+       {w___|      |    |________|________|   |_______|{x
+       {w|    {RCamp{w-|             |{x
+       {w|___   {R3  {w|             |{x
+          {w|      |_____________|___{BFirst Aid{x
+       {w___|                    |       {x
+       {w|                       |    __________{x
+       {w|-------T-------        |    |        |{x
+               {w|      |        |    |        |{x
+        {w___    |___   |        |    |___     |{x
+        {w| |        |  |        |        |    |{x
+        {w| | {RCamp 1{w-|  |      {RCamp 4{w-----|    |{x
+        {w| |        |  |______________________|{x
+ {MRanger{w-| ----------  {x
+        {w|{x
+     {YEntrance{x
+~
+D1
+~
+~
+0 0 11501
+C 0
+S
+#11503
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11504
+D2
+~
+~
+0 0 11501
+C 0
+S
+#11504
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11503
+C 0
+S
+#11505
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11504
+C 0
+S
+#11506
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11507
+C 0
+S
+#11507
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11506
+D1
+~
+~
+0 0 11508
+C 0
+S
+#11508
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11507
+C 0
+S
+#11509
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11508
+C 0
+S
+#11510
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11512
+D2
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11511
+C 0
+S
+#11511
+Campsite No. 1~
+{gYou finally find a safe, secluded campsite.  Here the ground is dry and
+flat, and trees and bushes provide privacy.  Embers from a recent campfire
+are still slightly warm and it looks like it will be easy to gather dry wood
+for your fire.  {x 
+~
+0 9221 4
+D1
+~
+~
+0 0 11510
+M 150 H 150
+C 0
+S
+#11512
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11513
+C 0
+S
+#11513
+Squirrel Breeding Grounds~
+{gThe squirrel breeding grounds are located right inside the entrance to
+the forest.  Baby squirrels scamper and frolic around hollow logs and big
+rocks.  They look so sweet and playful.  This is truly paradise.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11514
+D1
+~
+~
+0 0 11512
+C 0
+S
+#11514
+A Junction in Squirrel Forest~
+{gYou have reached a junction of two paths in Squirrel Forest -- one
+going east and another going west.  Wooden arrows tell you what you can find
+in each direction.  
+~
+0 8197 4
+E
+arrows~
+                       {y___{x
+             {y__________| |__________{x
+            {y/          | |          \{x
+           {y/  {WSquirrel {y| |  {WFeeding  {y\{x
+           {y\    {WCreek  {y| |    {WArea   {y/{x
+            {y\__________| |__________/{x
+                       {y| |{x
+                       {y| |{x
+                       {y| |{x
+                       {y| |{x
+                       {y| |{x
+                       {y| |{x
+                       {y| |{x
+                     {G\\{y| |{G//{x
+~
+D1
+~
+~
+0 0 11515
+D2
+~
+~
+0 0 11513
+D3
+~
+~
+0 0 11536
+C 0
+S
+#11515
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D1
+~
+~
+0 0 11516
+D3
+~
+~
+0 0 11514
+C 0
+S
+#11516
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D2
+~
+~
+0 0 11517
+D3
+~
+~
+0 0 11515
+C 0
+S
+#11517
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11516
+D2
+~
+~
+0 0 11518
+C 0
+S
+#11518
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11517
+D2
+~
+~
+0 0 11519
+C 0
+S
+#11519
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11518
+D1
+~
+~
+0 0 11520
+C 0
+S
+#11520
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D1
+~
+~
+0 0 11521
+D3
+~
+~
+0 0 11519
+C 0
+S
+#11521
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D1
+~
+~
+0 0 11522
+D3
+~
+~
+0 0 11520
+C 0
+S
+#11522
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D1
+~
+~
+0 0 11523
+D3
+~
+~
+0 0 11521
+C 0
+S
+#11523
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11522
+C 0
+S
+#11524
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11525
+D2
+~
+~
+0 0 11523
+C 0
+S
+#11525
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D0
+~
+~
+0 0 11526
+D2
+~
+~
+0 0 11524
+C 0
+S
+#11526
+The Squirrel Feeding Area~
+{gThe shadows seem to lengthen in this section of the forest.  You can
+hear a constant murmur of activity -- it sounds like an incessant munching. 
+These squirrels sure are serious about eating.  You hope your hike through
+the woods doesn't disturb them.  
+~
+0 8193 4
+D2
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11527
+C 0
+S
+#11527
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D1
+~
+~
+0 0 11526
+D3
+~
+~
+0 0 11528
+C 0
+S
+#11528
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D1
+~
+~
+0 0 11527
+D2
+~
+~
+0 0 11529
+C 0
+S
+#11529
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D0
+~
+~
+0 0 11528
+D1
+~
+~
+0 0 11530
+C 0
+S
+#11530
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D2
+~
+~
+0 0 11531
+D3
+~
+~
+0 0 11529
+C 0
+S
+#11531
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D0
+~
+~
+0 0 11530
+D3
+~
+~
+0 0 11532
+C 0
+S
+#11532
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D1
+~
+~
+0 0 11531
+D3
+~
+~
+0 0 11533
+C 0
+S
+#11533
+Campsite No. 4~
+{gFinally you find a safe place to put up your tent for the night.  In
+this secluded portion of the forest the screeches seem more distant and now
+seems a perfect time to dress your wounds.  {x 
+~
+0 9221 4
+D0
+~
+~
+0 0 11534
+D1
+~
+~
+0 0 11532
+M 150 H 150
+C 0
+S
+#11534
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D0
+~
+~
+0 0 11535
+D2
+~
+~
+0 0 11533
+C 0
+S
+#11535
+Chilling Screeches~
+{gFrom nowhere, you suddenly hear unearthly chilling screeches.  What
+could be making this horrible sound?  It is a sound that you never imagined
+any animal could make.  Looking around you cannot determine it's source.  {x
+~
+0 8193 4
+D0
+~
+~
+0 0 11562
+D2
+~
+~
+0 0 11534
+C 0
+S
+#11536
+Path to Squirrel Creek~
+{gThis path is wide and clear, and the canopy of trees refracts the
+sunlight and makes you feel like you are in a large natural cathedral.  In
+the distance you can smell the cool, almost metallic, scent of fresh spring
+water.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11537
+C 0
+S
+#11537
+Path to Squirrel Creek~
+{gThis path is wide and clear, and the canopy of trees refracts the
+sunlight and makes you feel like you are in a large natural cathedral.  In
+the distance you can smell the cool, almost metallic, scent of fresh spring
+water.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11536
+D3
+~
+~
+0 0 11538
+C 0
+S
+#11538
+Path to Squirrel Creek~
+{gThis path is wide and clear, and the canopy of trees refracts the
+sunlight and makes you feel like you are in a large natural cathedral.  In
+the distance you can smell the cool, almost metallic, scent of fresh spring
+water.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11539
+D1
+~
+~
+0 0 11537
+C 0
+S
+#11539
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 11538
+C 0
+S
+#11540
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11539
+C 0
+S
+#11541
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11540
+D3
+~
+~
+0 0 11542
+C 0
+S
+#11542
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11543
+D1
+~
+~
+0 0 11541
+C 0
+S
+#11543
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11544
+D2
+~
+~
+0 0 11542
+C 0
+S
+#11544
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11545
+D3
+~
+~
+0 0 11543
+C 0
+S
+#11545
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11544
+D3
+~
+~
+0 0 11546
+C 
+S
+#11546
+Path Along Squirrel Creek~
+{gThe path meanders along the curve of Squirrel Creek, which babbles
+pleasantly.  The squirrels seem to really like this portion of the forest. 
+However they don't seem to like your intrusion.  Can squirrels swim?  You
+might have to find out the hard way...  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11547
+D1
+~
+~
+0 0 11545
+C 0
+S
+#11547
+Campsite No. 2~
+{gAt a bend in the creek you find this perfect camping spot.  The
+squirrels seem to avoid it for some reason.  Well, no matter -- at least
+you'll get a decent night's sleep.  
+~
+0 9221 4
+D1
+~
+~
+0 0 11548
+D2
+~
+~
+0 0 11546
+M 150 H 150
+C 0
+S
+#11548
+The End of Squirrel Creek~
+{gSquirrel Creek trickles off here into a thick, un-hikeable area to your
+north.  Eastward is a part of the forest with the oldest, tallest trees you
+have seen yet.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11549
+D3
+~
+~
+0 0 11547
+C 0
+S
+#11549
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11550
+D3
+~
+~
+0 0 11548
+C 0
+S
+#11550
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11549
+D2
+~
+~
+0 0 11551
+C 0
+S
+#11551
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11550
+D1
+~
+~
+0 0 11552
+C 0
+S
+#11552
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11553
+D3
+~
+~
+0 0 11551
+C 0
+S
+#11553
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11552
+D2
+~
+~
+0 0 11554
+C 0
+S
+#11554
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11553
+D2
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11555
+C 0
+S
+#11555
+Campsite No. 3~
+{gThis is perhaps one of the stranger campsites in Squirrel Forest.  It
+is an enormous hollowed-out log, laying on its side.  The tunnel that it
+creates is so tall that there is plenty of room for you to stand up in.  It
+seems like the perfect place to pitch the tent and stay a night or two.  {x 
+~
+0 9221 4
+D1
+~
+~
+0 0 11554
+M 150 H 150
+C 0
+S
+#11556
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11554
+D1
+~
+~
+0 0 11560
+D3
+~
+~
+0 0 11557
+C 0
+S
+#11557
+The Gigantic Tree~
+{gYou stand at the base of the largest, most impressive tree you have
+ever seen.  You look up and cannot even see the top of it.  It must be
+hundreds, perhaps thousands, of years old.  Curiosity gets the better of you
+and you wonder if you would be able to climb it.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11556
+D4
+~
+~
+0 0 11558
+C 0
+S
+#11558
+In the Gigantic Tree~
+{gAfter climbing what must have been hundreds of feet, you stop to take a
+breath.  Although you are not even halfway up the trunk of the tree, you are
+well above the other treetops, and the view is impressive.  This is surely
+the most peaceful moment of your trip through Squirrel Forest ...  Well,
+except for that blood-curdling screeching that you hear somewhere above you.
+Is it safe to continue upward?  {x 
+~
+0 8193 4
+D4
+~
+~
+0 0 11559
+D5
+~
+~
+0 0 11557
+C 0
+S
+#11559
+At the Top of the Gigantic Tree~
+{gYou have climbed as far as you can go, and now you discover the source
+of those horrible screams.  Large powerful-looking squirrels are leaping
+from the top of this very tree and gliding effortlesly to the lower canopy. 
+They look pretty annoyed that you have discovered their special spot.  How
+quickly can you climb DOWN this tree??  {x 
+~
+0 8192 4
+D5
+~
+~
+0 0 11558
+C 0
+S
+#11560
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11561
+D3
+~
+~
+0 0 11556
+C 0
+S
+#11561
+Ancient Squirrel Forest~
+{gHere the trees around you are hundreds of feet tall and have trunks
+that are several feet in diameter.  This must be where it all began.  It is
+so dark here that your light barely leads you safely down the path.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11560
+C 0
+S
+#11562
+A Clearing in Squirrel Forest~
+{gThis is a natural clearing in Squirrel Forest, and the sun beams down
+on you for what seems the first time in ages.  The squirrels seem to take no
+interest in this place.  The forest rangers have planted a helpful sign here
+to orient you to your surroundings.  {x 
+~
+0 8196 4
+E
+sign~
+                                     {y___{x
+             {y________________________| |________________________{x
+            {y|                                                   |{x
+            {y|                {YNorth: {WPetrified                   {y|{x
+            {y|                       {WForest                      {y|{x
+            {y|                                                   |{x
+            {y|  {YWest: {WAncient                   {YEast: {WFirst-Aid  {y|{x
+            {y|        {WForest                          {WStation    {y|{x
+            {y|                                                   |{x
+            {y|                {YSouth: {WNoisy                       {y|{x
+            {y|                       {WForest                      {y|{x
+            {y|________________________   ________________________|{x
+                                     {y| |{x
+                                     {y| |{x
+                                     {y| |{x
+                                     {y| |[x
+                                     {y| |{x
+                                     {y| |{x
+                                     {y| |{x
+                                   {G\\{y| |{G//{x
+~
+D0
+~
+~
+0 0 11564
+D1
+~
+~
+0 0 11563
+D2
+~
+~
+0 0 11535
+D3
+~
+~
+0 0 11561
+C 0
+S
+#11563
+The First-Aid Station~
+{gLike an oasis in the desert, this First Aid station is just what you
+have been looking for.  Hopefully the medic here has the expertise to patch
+your wounds and cure your poison ivy.  {x 
+~
+0 9225 1
+D3
+~
+~
+0 0 11562
+M 150 H 150
+C 0
+S
+#11564
+A Four-Way Intersection~
+{gThe trees close in on you again, but these trees are stunted and grey. 
+To the West and North is a circular path that goes around the petrified
+section of the forest.  To the East, the forest is denser and more
+evil-looking than ever.  {x 
+~
+0 8197 4
+D0
+~
+~
+0 0 11577
+D1
+~
+~
+0 0 11578
+D2
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11565
+C 0
+S
+#11565
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11564
+D3
+~
+~
+0 0 11566
+C 0
+S
+#11566
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11567
+D1
+~
+~
+0 0 11565
+C 0
+S
+#11567
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11568
+D2
+~
+~
+0 0 11566
+C 0
+S
+#11568
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11567
+D3
+~
+~
+0 0 11569
+C 0
+S
+#11569
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11570
+D1
+~
+~
+0 0 11568
+C 0
+S
+#11570
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11571
+D2
+~
+~
+0 0 11569
+C 0
+S
+#11571
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11572
+D3
+~
+~
+0 0 11570
+C 0
+S
+#11572
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11573
+D3
+~
+~
+0 0 11571
+C 0
+S
+#11573
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11572
+D1
+~
+~
+0 0 11574
+D2
+~
+~
+0 0 11576
+C 0
+S
+#11574
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11575
+D3
+~
+~
+0 0 11573
+C 0
+S
+#11575
+Campsite No. 5~
+{gThis campsite is so remote, it looks as though it hasn't been used in
+years.  However, it seems safe enough.  A ring of petrified trees encircles
+the site, like columns of the Parthenon, making it seem almost holy among
+the desolation.  {x 
+~
+0 9221 4
+D2
+~
+~
+0 0 11574
+M 150 H 150
+C 0
+S
+#11576
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11573
+D1
+~
+~
+0 0 11577
+C 0
+S
+#11577
+The Petrified Forest~
+{gAcres and acres of petrified forest surround you.  The trees are
+limbless and grey.  Most have fallen down, but a path has been cleared for
+campers and hikers.  The landscape is desolate and lifeless, except for the
+squirrels who have staked out territory here.  With no foliage nearby, what
+exactly do they eat?  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11564
+D3
+~
+~
+0 0 11576
+C 0
+S
+#11578
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8197 4
+D0
+~
+~
+0 0 11579
+D3
+~
+~
+0 0 11564
+M 90 H 80
+C 0
+S
+#11579
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8197 4
+D1
+~
+~
+0 0 11580
+D2
+~
+~
+0 0 11578
+M 90 H 80
+C 0
+S
+#11580
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11581
+D3
+~
+~
+0 0 11579
+M 90 H 80
+C 0
+S
+#11581
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11580
+D2
+~
+~
+0 0 11582
+M 90 H 80
+C 0
+S
+#11582
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11581
+D1
+~
+~
+0 0 11583
+M 90 H 80
+C 0
+S
+#11583
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11584
+D3
+~
+~
+0 0 11582
+M 90 H 80
+C 0
+S
+#11584
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11585
+D2
+~
+~
+0 0 11583
+M 90 H 80
+C 0
+S
+#11585
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11586
+D2
+~
+~
+0 0 11584
+M 90 H 80
+C 0
+S
+#11586
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11587
+D2
+~
+~
+0 0 11585
+M 90 H 80
+C 0
+S
+#11587
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11586
+D3
+~
+~
+0 0 11588
+M 90 H 80
+C 0
+S
+#11588
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11587
+D2
+~
+~
+0 0 11589
+M 90 H 80
+C 0
+S
+#11589
+Campsite No. 6~
+{gYou manage to slip into this corner of the forest without being seen by
+any of the squirrels.  You are not sure how long your good fortune will
+last, but it seems like a good place to rest the night -- sleep, well,
+that's another matter.  {x 
+~
+0 9221 4
+D0
+~
+~
+0 0 11588
+D3
+~
+~
+0 0 11590
+M 200 H 200
+C 0
+S
+#11590
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11591
+D1
+~
+~
+0 0 11589
+M 90 H 80
+C 0
+S
+#11591
+The Evil Section of Squirrel Forest~
+{gHere the path is barely wide enough for you and your pack, without
+brushing against the trunks of the trees here, which are cold and strangely
+slimy.  It is completely silent here, and the thick foliage surrounding you
+even absorbs the sound of your hesitant footsteps.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11592
+D2
+~
+~
+0 0 11590
+M 90 H 80
+C 0
+S
+#11592
+Path to the Squirrel King's Lair~
+{gThe path here is worn, and looks extremely well-travelled, but your
+instincts tell you it is not human traffic that wore this path so smooth. 
+Along the edges of the path are remnants of acorn shells.  Picking one up
+for closer examination, you find it to be coated with a sticky substance. 
+You taste it, and realize in horror that it is blood.  {x 
+~
+0 8193 4
+D2
+~
+~
+0 0 11591
+D3
+~
+~
+0 0 11593
+M 40 H 50
+C 0
+S
+#11593
+Path to the Squirrel King's Lair~
+{gThe path here is worn, and looks extremely well-travelled, but your
+instincts tell you it is not human traffic that wore this path so smooth. 
+Along the edges of the path are remnants of acorn shells.  Picking one up
+for closer examination, you find it to be coated with a sticky substance. 
+You taste it, and realize in horror that it is blood.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11594
+D1
+~
+~
+0 0 11592
+M 40 H 50
+C 0
+S
+#11594
+Path to the Squirrel King's Lair~
+{gThe path here is worn, and looks extremely well-travelled, but your
+instincts tell you it is not human traffic that wore this path so smooth. 
+Along the edges of the path are remnants of acorn shells.  Picking one up
+for closer examination, you find it to be coated with a sticky substance. 
+You taste it, and realize in horror that it is blood.  {x 
+~
+0 8193 4
+D0
+~
+~
+0 0 11596
+D1
+~
+~
+0 0 11595
+D2
+~
+~
+0 0 11593
+M 40 H 50
+C 0
+S
+#11595
+Campsite No. 7~
+{gHere, carved out of a wall of acorn shells, you find a safe place to
+hide from the insanity around you.  Your only consolation is that the end is
+near.  Hoping your wounds won't drain the life from you before daybreak, you
+gather the shells about your tent to camouflage it, and pray to the gods for
+your safety.  {x 
+~
+0 9221 4
+D3
+~
+~
+0 0 11594
+M 250 H 250
+C 0
+S
+#11596
+Path to the Squirrel King's Lair~
+{gThe path here is worn, and looks extremely well-travelled, but your
+instincts tell you it is not human traffic that wore this path so smooth. 
+Along the edges of the path are remnants of acorn shells.  Picking one up
+for closer examination, you find it to be coated with a sticky substance. 
+You taste it, and realize in horror that it is blood.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11597
+D2
+~
+~
+0 0 11594
+M 40 H 50
+C 0
+S
+#11597
+Path to the Squirrel King's Lair~
+{gThe path here is worn, and looks extremely well-travelled, but your
+instincts tell you it is not human traffic that wore this path so smooth. 
+Along the edges of the path are remnants of acorn shells.  Picking one up
+for closer examination, you find it to be coated with a sticky substance. 
+You taste it, and realize in horror that it is blood.  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11598
+D3
+~
+~
+0 0 11596
+M 40 H 50
+C 0
+S
+#11598
+Lair of the Squirrel King~
+{gAtop an enormous pile of golden acorns sits the largest, fiercest, and
+most bloodthirsty squirrel in the forest.  Are you raiding his stash?  What
+is the purpose of your crude interruption?  Do you dare confront the
+Squirrel King, or do you bow down and feel the pain of his lash?  {x 
+~
+0 8193 4
+D1
+~
+~
+0 0 11599
+D3
+~
+~
+0 0 11597
+M 10 H 10
+C 0
+S
+#11599
+The Way out of Squirrel Forest~
+{gFinally!!  To the east you see sunlight again, and no sign of those
+pesky squirrels.  Make haste and leave, before they pick up your scent.  {x 
+~
+0 8193 4
+D3
+~
+~
+0 0 11598
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11506 20 11575 1
+M 0 11505 20 11574 1
+M 0 11504 20 11573 1
+M 0 11503 20 11572 1
+M 0 11505 20 11571 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11575 1
+M 0 11505 20 11574 1
+M 0 11504 20 11573 1
+M 0 11503 20 11572 1
+M 0 11505 20 11571 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 1153 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11574 1
+M 0 11504 20 11573 1
+M 0 11503 20 11572 1
+M 0 11505 20 11571 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11573 1
+M 0 11503 20 11572 1
+M 0 11505 20 11571 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11572 1
+M 0 11505 20 11571 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11571 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11570 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11569 1
+M 0 11504 20 11567 1
+M 0 11503 20 11567 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 1 11567 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11566 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11565 1
+M 0 11506 20 11564 1
+M 0 11504 20 11562 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11562 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11561 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11560 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11559 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11558 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11557 1
+M 0 11506 20 11555 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11555 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11554 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11553 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11552 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11551 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11550 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11548 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11547 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11546 1
+M 0 11506 20 11545 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11545 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11544 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11541 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11505 20 11540 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11504 20 11539 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11506 20 11538 1
+M 0 11505 20 11536 1
+M 0 11503 20 11536 1
+M 0 11506 20 11535 1
+M 0 11504 20 11534 1
+M 0 11511 1 11533 1
+G 0 11505 0
+M 0 11510 1 11532 1
+G 0 11504 0
+M 0 11509 1 11531 1
+G 0 11503 0
+M 0 11508 1 11530 1
+M 0 11501 20 11524 1
+E 0 11507 0 11
+M 0 11501 20 11522 1
+M 0 11501 20 11520 1
+M 0 11501 20 11518 1
+E 0 11506 0 8
+G 0 11501 0
+M 0 11502 1 11516 1
+M 0 11501 20 11515 1
+M 0 11501 20 11513 1
+M 0 11501 1 11512 1
+G 0 11500 0
+M 0 11500 1 11510 1
+M 0 11500 1 11510 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#11500
+~
+#0
+
+#$

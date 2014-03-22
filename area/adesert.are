@@ -1,0 +1,2839 @@
+#AREADATA
+Name The Desert~
+Builders Myretha~
+VNUMs 10100 10199
+Credits ( 40  50) {MMyretha  {Y* {WThe Desert{x~
+Security 9
+Flags 0
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#10100
+Abdul~
+Abdul~
+Abdul, a happy-go-lucky shopkeeper, stands here ready to haggle. 
+~
+~
+Human~
+AB DZ 0 0
+0
+50 0 10d115+668 40d10+100 5d8+21 none
+-15 -15 -15 -3
+0 ABCD 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#10101
+scorpion~
+the {Ys{rc{Yo{rr{Yp{ri{Yo{rn{x~
+{YA {rs{Yc{ro{Yr{rp{Yi{ro{Yn {Ylies here in wait. {x 
+~
+{rThe scorpion waits for you to make your move.{x
+~
+Lizardman~
+AG JQZb 0 0
+0
+37 37 77d13+374 37d11+95 13d2+32 sting
+-17 -17 -17 -9
+BHMU L LP I
+stand stand none 1800
+ABGHMac ABCDEFGIJKQUX small unknown
+F for X
+F par H
+#10102
+mp10103 mp10104 dune~
+{ya magical force{x~
+{
+~
+~
+unique~
+ABe B 0 0
+0
+200 0 14d132+1100 52d10+100 7d7+29 none
+-24 -24 -24 -8
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+M RANDOM 10106 5~
+M SPEECH 10105 sacred scarab~
+#10103
+camel~
+the {ycamel{x~
+{yAn ugly, wild camel spits as it paws at the ground.{x
+~
+The camel is a very strong mammal with wide, padded feet.  Thick leathery
+pads cover it's knees and chest.  Bushy eyebrows and long rows of eyelashes
+protect it's eyes from the sands.  Over 7 feet tall at it's hump, and
+weighing in excess of 1600 pounds, this dromedary would prove a formidable
+opponent.  {x 
+~
+dog~
+AGW Va 0 0
+0
+30 30 63d11+304 30d11+95 11d2+27 chomp
+-12 -12 -12 -6
+EHJUV 0 EHI c
+stand stand either 1500
+AEFGUV ACDEFHJKUV large unknown
+#10104
+cobra snake king~
+a {DKing Cobra{x~
+{DA King Cobra slithers through the sands.{x
+~
+{DThe largest of all venomous snakes, the King Cobra is also potentially
+one of the most deadly.  Possessing powerful neurotoxic venom, they're a
+formidable predator and have been known to kill elephants.  Fortunately, the
+King Cobra is usually non-aggressive...  Unless threatened.  {x 
+~
+snake~
+AG c 0 0
+0
+35 35 73d12+354 35d11+95 12d2+30 bite
+-15 -15 -15 -8
+0 0 L I
+stand stand none 1700
+AGXYc ADEFKLQVX medium unknown
+#10105
+savina nomad~
+Savina~
+Savina, a desert nomad, stands here languidly looking about.
+~
+Wearing a richly embroidered blue robe, she stands languidly, her long
+black tresses blowing in the breeze. 
+~
+Human~
+AR Ve 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 magic
+-27 -27 -27 -16
+ADFGHK AB 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+#10106
+mp10106 dune~
+the {ysand dune{x~
+{yA sand dune shifts aimlessly.{x
+~
+~
+unique~
+ABCGU 0 0 0
+0
+35 35 73d12+354 35d11+95 12d2+30 none
+-15 -15 -15 -8
+ACEFHJNO ABHIR JXYZ CMNOT
+stand stand none 3000
+ES 0 large unknown
+M RANDOM 10106 7~
+#10107
+mp10107 peekaboo~
+{~
+{
+~
+~
+unique~
+ABe B 0 0
+0
+200 0 14d132+1100 52d10+100 7d7+29 none
+-24 -24 -24 -8
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+M ACT 10107 charge~
+#10108
+mp10108 peekaboo~
+{~
+{
+~
+~
+unique~
+ABe B 0 0
+0
+200 0 14d132+1100 52d10+100 7d7+29 none
+-24 -24 -24 -8
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+M ACT 10108 charge~
+#10109
+bengal tiger~
+the {Db{ye{Dn{yg{Da{yl {Dt{yi{Dg{ye{Dr{x~
+{yA {Db{ye{Dn{yg{Da{yl {Dt{yi{Dg{ye{Dr {ystalks his prey.{x
+~
+A tiger can consume as much as 88 pounds of meat in one feeding...  How
+much did you weigh?  
+~
+cat~
+AFG Z 0 0
+0
+40 40 83d14+405 40d11+95 14d2+34 claw
+-19 -19 -19 -11
+FH 0 0 0
+stand stand male 2000
+AGV ACDEFHJKQUV large unknown
+#10110
+elephant~
+an {Delephant{x~
+{yA very large {Delephant {ywanders aimlessly.{x
+~
+One of the largest creatures, the elephant can reach a length of 20 feet,
+a height of 10 feet, and a weight topping 11,000 lbs....  Perhaps staying
+out of it's way would be the smart thing to do...  
+~
+bear~
+AG 0 0 0
+0
+45 45 93d16+455 45d11+95 16d2+37 crush
+-23 -23 -23 -14
+DEO 0 EI 0
+stand stand either 2200
+AGV ACDEFHJKQY huge unknown
+F par BUV
+#10111
+locust~
+the {ylocust swarm{x~
+{yA swarm of locusts hovers.{x
+~
+Descending like a black cloud, the swarm quickly overtakes everything in
+it's path.  
+~
+song bird~
+AG T 0 0
+0
+37 37 77d13+374 37d11+95 13d2+32 digestion
+-17 -17 -17 -9
+FH 0 0 0
+stand stand none 1800
+AO ACDEFHKP small unknown
+F for GW
+#10112
+hyena~
+the {rhyena{x~
+{rA hyena prowls here.{x
+~
+The spotted hyena licks her chops at the sight of you.
+~
+cat~
+ABFG Z 0 0
+0
+50 50 104d17+506 50d11+95 17d2+40 none
+-27 -27 -27 -16
+FH 0 0 0
+stand stand female 2500
+AGV ACDEFHJKQUV medium unknown
+#10183
+peacock~
+{Ba peacock{x~
+{BA brightly plumed peacock struts his stuff. {x 
+~
+A {Bpeacock{x proudly displays his fabulous feathers. 
+~
+song bird~
+AHW T 0 0
+0
+37 37 75d12+374 37d10+85 12d3+23 peckb
+-15 -15 -15 -7
+FHV 0 0 0
+stand stand male 1800
+AGW ACDEFHKP small unknown
+M RANDOM 10100 5~
+#10184
+peahen~
+{ca feisty mother peahen{x~
+{cA drab peahen pecks at the dirt. {x 
+~
+A peahen is drab in comparison to her male counterpart. 
+~
+song bird~
+AW T 0 0
+0
+35 0 10d115+668 40d10+100 5d8+21 peck
+-15 -15 -15 -3
+FH 0 0 0
+stand stand female 1700
+AGW ACDEFHKP small unknown
+#10185
+monkey~
+{ra silly monkey{x~
+{rA silly monkey looks for trouble. {x 
+~
+A lively monkey looks around with a sly look in his eye. 
+~
+Human~
+ACSW 0 0 0
+0
+45 0 10d142+794 45d10+100 5d9+23 none
+-18 -18 -18 -5
+MV 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 10101 5~
+#10186
+gecko~
+{ga rabid gecko{x~
+{GA small green gecko looks for bugs to eat. {x 
+~
+The {Ggecko{x looks around hungrily, hoping for a bug to eat. 
+~
+Lizardman~
+AW Jb 0 0
+0
+40 40 81d13+405 40d10+85 13d3+25 chomp
+-17 -17 -17 -9
+FGM L LP I
+stand stand female 2000
+AGHMXac ABCDEFGHIJKQUVX tiny unknown
+#0
+
+
+
+#OBJECTS
+#10100
+bunch bananas~
+a small bunch of {Ybananas{x~
+{gA small bunch of {Ybananas {glies here.{x~
+SELECT_A_MATERIAL food 0 AO
+AC AC 0 0 0
+35 5 0 P
+#10101
+haunch mutton~
+a haunch of mutton~
+A haunch of mutton sits here.~
+SELECT_A_MATERIAL food 0 AO
+C C 0 0 0
+1 10 0 P
+#10102
+spring water~
+{cthe clear spring{x~
+{cA crystal clear spring pools here.{x~
+SELECT_A_MATERIAL drink O 0
+9999 9999 'water' 0 0
+0 0 0 P
+#10103
+sand dune~
+{ya sand dune{x~
+{yA sand dune shifts aimlessly.{x~
+SELECT_A_MATERIAL trash 0 0
+0 0 0 0 0
+1 0 0 P
+#10104
+sand dune~
+{ya sand dune{x~
+{yA sand dune shifts aimlessly.{x~
+SELECT_A_MATERIAL container 0 0
+50 E 0 50 50
+0 0 0 P
+#10105
+tattered scroll~
+{ra badly tattered scroll{x~
+{rA badly tattered scroll has been tossed negligently away.{x~
+SELECT_A_MATERIAL scroll G AO
+45 'create water' 'create food' 'reserved' 'reserved'
+45 0 0 P
+E
+tattered scroll~
+{wUnrolling the scroll, you see strange runes: "{rSsAcCaRrEaDb{w"{x
+ 
+{wPerhaps if you could just unscramble the runes and speak the 
+magical phrase...{x
+~
+#10106
+desert scimitar~
+{Ra deadly desert scimitar{x~
+{RA deadly scimitar lies here.{x~
+SELECT_A_MATERIAL weapon AG AN
+sword 4 12 flbite A
+35 8 700 P
+#10107
+colorful basket~
+a {Yc{Bo{Ml{Wo{Gr{Yf{Bu{Ml{x basket~
+A {Yc{Bo{Ml{Wo{Gr{Yf{Bu{Ml{x basket sits here.~
+SELECT_A_MATERIAL container Y A
+50 A 0 75 25
+35 10 50 P
+#10108
+flatbread bread~
+{ya piece of flatbread{x~
+{yA piece of flatbread lies here.{x~
+SELECT_A_MATERIAL food 0 A
+ABC ABC 0 0 0
+1 0 0 P
+#10109
+banana leaf~
+{Ga banana leaf{x~
+{GA rolled up banana leaf lies here.{x~
+SELECT_A_MATERIAL container S AO
+10 A 0 20 50
+35 5 0 P
+#10110
+sacred scarab necklace~
+{Rthe sacred scarab necklace{x~
+{RAn interesting necklace lies here.{x~
+SELECT_A_MATERIAL armor AGI AC
+CE CE CE ABE 0
+50 16 1000 P
+F
+A 0 0 V
+F
+V 0 0 I
+#10111
+rug comfy cushion~
+{ra rug piled high with {x{ycomfy cushions{x~
+{rA rug, piled high with {ycomfy cushions{r, lies here.{x~
+SELECT_A_MATERIAL furniture 0 0
+C EGHIJK BEHK BH BH
+0 0 0 P
+#10112
+desert waterskin~
+{ydesert waterskin{x~
+{yA waterskin lies here.{x~
+SELECT_A_MATERIAL drink Y A
+50 50 'water' 0 0
+30 3 250 P
+#10113
+bolt silk~
+a bolt of {Wwhite silk{x~
+A bolt of the purest {Wwhite silk{x lies here.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+40 50 1000 P
+#10114
+desert robe~
+{wa gleaming white desert robe{x~
+{wA pile of cloth lies here.{x~
+SELECT_A_MATERIAL armor IK AD
+AE AE AE E 0
+45 15 900 P
+#10115
+hammock~
+a nice comfy {bhammock{x~
+A hammock has been stretched here.~
+SELECT_A_MATERIAL furniture Y A
+AB CDEGHIK EHK DEFG DEFG
+45 100 3000 P
+#10117
+tree~
+a {Ybanana {Gtree{x~
+{GA large leafy tree stands here.{x~
+SELECT_A_MATERIAL container 0 0
+10 0 0 100 50
+0 0 0 P
+#10126
+breastplate~
+{BSavina's Breastplate{x~
+{BA breastplate lies here.{x~
+SELECT_A_MATERIAL armor IY AD
+BE BE BE AE 0
+50 16 1000 P
+#10127
+scimitar~
+{BSavina's Scimitar{x~
+{BSavina's Scimitar{x~
+SELECT_A_MATERIAL weapon Y AN
+sword 6 11 flbite AG
+50 12 1000 P
+#10128
+goatskin purse~
+a goatskin purse~
+A small purse lies here.~
+SELECT_A_MATERIAL container Y ALO
+500 AC 0 5000 15
+50 30 3000 P
+#0
+
+
+
+#ROOMS
+#10100
+{yDeep In The Desert{x~
+{ySand.  The universe has withered, until the sands are all that seem to
+exist.  Horizon to horizon, the world has become a shifting, roiling entity.
+It's tendrils seem to creep into every pore, every crevice, searing all.  A
+small *sign* has been tacked to a weathered pole.  {x 
+~
+0 0 10
+E
+sign~
+{W ****************************{x
+{W/                            {W\{x
+{W\         {yTHE DESERT         {W/{x
+{W/                            {W\{x
+{W\          {yBuilt by:         {W/{x
+{W/      {yMyretha of Creatia    {W\{x
+{W\                            {W/{x
+{W/ {rhttp://creatia.funcity.org {W\{x
+{W\                            {W/{x
+{W ****************************{x
+~
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10101
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10103
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10182
+C 0
+S
+#10101
+{yDeep in the Desert{x~
+{yThe desert wind blows the glittering sands across the harsh landscape.
+The sands burn, by day, their yellow golden surface holding the fierce heat
+of the burning sun. By night, their shadowed face lies hiding in the bitter
+cold light of an austere uncaring moon. 
+~
+0 0 10
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10100
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10102
+C 0
+S
+#10102
+{yDeep in the Desert{x~
+{yNothing remains of reality... Only the sands. Smothering, stabbing, it
+seeks to reshape all that is. Chaos in it's purest form. Bleached bones of
+woebegotten creatures lie half buried within the dunes. The sands shift as
+if to reclaim their bounty. {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10101
+C 0
+S
+#10103
+{yDeep in the Desert{x~
+{yThe shifting sands continue as far as the eye can see in all
+directions.  By day, the naked sun bleaches the sand to a shimmery pale
+color.  By night the sands sparkle, as bitter cold holds sway.  {x 
+~
+0 0 10
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10137
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10100
+C 0
+S
+#10104
+{yDeep in the Desert{x~
+{yDaylight scorches these forsaken lands, burning hotter than the very{x
+{yfires of hell.  Nothing save the moon, can hide from the malignant sun's{x
+{yferocious heat.  As daylight descends and the moon does rise, a chilling
+cold{x {yseeps into these lands.  The eternal battle between the sun and
+moon.  Of such{x {ythings, legends were born.  {x 
+~
+0 0 10
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10106
+C 0
+S
+#10105
+{yDeep in the Desert{x~
+{ySand is everywhere.  It penetrates the pores of every living thing. 
+The{x {yheat is unbelievable, drawing out moisture and making dehydration a
+serius{x {ythreat to all who pass.  When the sun goes down, it is just as
+cold as it was{x {yhot by day.  {x 
+~
+0 0 10
+E
+sand~
+{yThe sands {Wsparkle{y and {Cglisten {yas the desert winds blow over
+their shifting surface. {x 
+~
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10107
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10181
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10182
+C 0
+S
+#10106
+{yDeep in the Desert{x~
+{ySheets of shifting sands.  Dunes raise as in worship to the ferocious
+sun{x {yabove and are just as quickly laid low beneath it's constant
+vigilance.  The{x {yfiery heat and the chilling cold, an eternal struggle
+shapes and reshapes{x {ythe battlefield upon which it is played.  {x 
+~
+0 0 10
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10104
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10110
+C 0
+S
+#10107
+{yDeep in the Desert{x~
+{yThe sand drifts in immense dunes, whose golden hues shimmer and tower{x
+{yover you, blocking sight in all directions. The winds blow over the tops of{x
+{ythe dunes, creating a cascading curtain of crystal granules.{x
+~
+0 0 10
+E
+sand~
+{yThe sands {Wsparkle{y and {Cglisten {yas the desert winds blow over
+their shifting surface.  {x 
+~
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10137
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10109
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10180
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10105
+C 0
+S
+#10108
+{yDeep in the Desert{x~
+{yFrom horizon to horizon... Sand. The howling winds drive needle-like
+grains of sand, hiding the sun between sheets of grit. By night, the sands
+are no less restless. {x 
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10110
+C 0
+S
+#10109
+{yDeep in the Desert{x~
+{yThe sands burn by day, and freeze by night. Their ochre grains
+interspersed with grains of clear crystal, which reflect the light back upon
+weary travellers. {x 
+~
+0 0 10
+E
+sand~
+{yThe sands {Wsparkle{y and {Cglisten {yas the desert winds blow over
+their shifting surface. {x 
+~
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10107
+C 0
+S
+#10110
+{yDeep in the Desert{x~
+{yDirection is meaningless. There is no north, no south, no up, no down.
+There is only forward through the sands. White globs of bleached bones
+litter the sand, morosely depicting the fate of those who have passed
+before. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10136
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10106
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10108
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10112
+C 0
+S
+#10111
+{yDeep in the Desert{x~
+{yIt is less windy here and strangely quiet. The grains of sand are larger{x
+{ythan in other parts of the desert, more like small pebbles. During the day{x
+{ythe heat bounces off all surfaces in waves. At night it is bone  {x
+{bchillingly cold{y.{x
+~
+0 0 10
+E
+sand~
+{yThe sands are ochre sandstone, with every other grain a splinter of
+clear crystal, which reflects the rays of the burning sun back at you from
+below. 
+~
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10113
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10179
+C 0
+S
+#10112
+{yDeep in the Desert{x~
+{y Shifting in constant metamorphosis, the sand dunes blow aimlessly
+throughout the desert plain. By daylight, the malignant sun envelopes each
+grain in its fiery heat. By night, the sands are cooled by the moon's
+uncaring touch. {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10110
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10160
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10161
+C 0
+S
+#10113
+{yDeep in the Desert{x~
+{y The motion of the undulating sands slows almost to a standstill, here.
+It is heavier and even dryer. This is the heart of the desert, ponderous and
+oppressive. The {x {r heat {x {y lays like an anvil upon the chest of any
+creature daring to try breathing here. 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10115
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10178
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10111
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10142
+C 0
+S
+#10114
+{yDeep in the Desert{x~
+{ySand. From horizon to horizon, the desert stretches endlessly. With
+travelers have left naught but their bones behind hidden within the dunes.
+As the howling winds seek to reshape the landscape about, gleaming white
+skeletal remains can be spied upon occasion. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10116
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10161
+C 0
+S
+#10115
+{yDeep in the Desert{x~
+{y Even the sand is different here. It is dryer and rougher. The grains
+of sand are larger than in other parts of the desert, more like small
+pebbles. During the day heat bounces off all surfaces in waves. At night it
+is bone chillingly {bcold{y. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10117
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10177
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10113
+C 0
+S
+#10116
+{yDeep in the Desert{x~
+{y The universe has dwindled to a chaotic swirl of biting, grainy sand.
+Needles of grit puncture every surface, grinding down even the most hardy of
+souls. The world outside is forgotten while held in the desert arms. {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10138
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10114
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10162
+C 0
+S
+#10117
+{yDeep in the Desert{x~
+{y The motion of the undulating sands slows almost to a standstill, here.
+It is heavier and even dryer. This is the heart of the desert, ponderous and
+oppressive. The {x {r heat {x {y lays like an anvil upon the chest of any
+creature daring to attempt breathing here. 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10176
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10115
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10148
+C 0
+S
+#10118
+{yDeep in the Desert{x~
+{yShifting and reshaping, the sand dunes scamper in reckless abandon
+about the desert. Raising their adoring faces to the sun as if in worship,
+the dunes seem to be leveled once again by the uncaring moon. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10120
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10162
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10163
+C 0
+S
+#10119
+{yDeep in the Desert{x~
+{y The motion of the undulating sands slows almost to a halt, here.  It
+is heavier and dryer in this area.  This is the heart of the desert,
+ponderous and oppressive.  The {x {r heat {x {y lays like an anvil upon the
+chest of any foolish creature attempting to breathe.  {X 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10148
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10151
+C 0
+S
+#10120
+{yDeep in the Desert{x~
+{ySets of footprints appear infrequently in the sand, as though someone
+or some THING had passed this way before. As the howling winds blow across
+the desert, any trail has long since been obliterated. {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10146
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10118
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10122
+C 0
+S
+#10121
+{yDeep in the Desert{x~
+{y The motion of the undulating sands slows almost to a halt.  It is
+heavier and dryer here.  {x {r Heat {x {y lays like an anvil on the chest of
+any creature foolish enough to attempt to breathe here.  {X 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10123
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10151
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10154
+C 0
+S
+#10122
+{yDeep in the Desert{x~
+{yThe sands of the desert swelter, by day, beneath the onslaught of the
+sun's ferocious heat. By night, the desert suffers under the cold gaze of
+the apathetic moon. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10124
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10120
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10164
+C 0
+S
+#10123
+{yDeep in the Desert{x~
+{y Even the sand is different here. It is dryer and rougher. The grains
+of sand are larger than in other parts of the desert, more like small
+pebbles. During the day, heat wafts up from all surfaces. At night, it is
+bone chillingly {bcold{y. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10175
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10121
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10125
+C 0
+S
+#10124
+{YQUICKSAND!!!{x~
+{yBordered by the shifting sand dunes, a pool of quicksand lies in wait
+to drag wanderers into its dark depths! Thankfully, the pool is small and
+allows travel around it. {x 
+~
+0 0 10
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10152
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10122
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10165
+C 0
+S
+#10125
+{yDeep in the Desert{x~
+{y The sand is different here, dryer and rougher. The grains are larger
+too, almost small pebbles. During the day heat wafts up from all surfaces.
+At night it is {x {b bone chillingly cold. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10174
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10123
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10154
+C 0
+S
+#10126
+{yDeep in the Desert{x~
+{yThe howling winds return. The air becomes a churning whirlwind of sandy
+grit. Breath is almost impossible. The heat unbearable. Great dunes rise to
+the northwest, blocking the view of the horizon. {x 
+~
+0 0 10
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10155
+C 0
+S
+#10127
+{yDeep in the Desert{x~
+{ySand, golden yellow sand as far as the eye can see.  Sand dunes rise up
+in all directions, casting a small shade in the early hours of the day.  {X 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10129
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10174
+C 0
+S
+#10128
+{yThe Desert{x~
+{yThe sands glitter, beneath the boiling ferocity of the sun.  Great,
+golden dunes rise to the northwest, sparkling in the day's light.  {x {yThe
+tracks of previous travellers are just visible, disappearing over the dunes.
+{X 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10166
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10130
+C 0
+S
+#10129
+{yDeep in the Desert{x~
+{yThe sand is different here, dryer and rougher. Who knew there could be
+so many kinds of sand? The grains here are larger, almost pebbles. During
+the day, heat wafts up from all surfaces. At night, it is bone chillingly
+{bcold{y. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10172
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10173
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10127
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10158
+C 0
+S
+#10130
+{yDeep in the Desert{x~
+{yThe sands glitter, beneath the boiling ferocity of the sun. Huge golden{x
+{ydunes rise to the northwest, sparkling in the day's light. The tracks of{x
+{yprevious travellers are just visible, disappearing over the dunes.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10167
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10156
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10155
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10128
+C 0
+S
+#10131
+{yDeep in the Desert{x~
+{yThe sand is different here, dryer and rougher. Who knew sand could be{x
+{yso many different textures? The grains are larger here, almost pebbles.{x
+{yDuring the day heat wafts up from all surfaces.   At night it is bone{x
+{ychillingly {bcold{y.{x
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10172
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10158
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10159
+C 0
+S
+#10132
+{yDeep in the Desert{x~
+{y The universe is nothing more than a swirl of biting grains of sand
+born by a searing hot wind.  The world outside is forgotten.  Only the
+hardiest souls, who have a good supply of water, will survive.  {X 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10168
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10156
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10167
+C 0
+S
+#10133
+{yDeep in the Desert{x~
+{yIt is dryer and rougher here, the sand taking on yet another texture. 
+{x {yDuring the day heat wafts up in undulating waves.  At night chill
+fingers{x {ystretch across the terain.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10171
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10159
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10135
+C 0
+S
+#10134
+{yDeep in the Desert{x~
+{yThe motion of the undulating sands has slowed. It is heavier and dryer{x
+{yhere. Heat lays like an anvil upon the chest of any creature attempting to{x
+{ybreathe here.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10169
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10168
+C 0
+S
+#10135
+{yDeep in the Desert{x~
+{yThe universe is nothing more than a swirl of biting grains of sand{x
+{ycarried by an intensely hot wind. The world outside is forgotten. Only the{x
+{yhardy will survive, and then only if they have an ample supply of water.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10170
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10133
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10169
+C 0
+S
+#10136
+{yDeep in the Desert{x~
+{yThings are different here, drier and hotter. The air is still, and the
+grains of sand are larger and more coarse. Bits of bone can be distinguished
+amongst the sand. There is a price for not being prepared in this sort of
+terrain. The air smells of dust and death. {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10110
+C 0
+S
+#10137
+{yDeep in the Desert{x~
+{yThe motion of the undulating dunes slows to a near standstill.  It is{x
+{ydryer here than you thought possible.  The lack of wind has left the sand
+in{x {ylarger bits.  Looking closely you can see a few tracks from some ... 
+Animals?  {x {yWhatever it was, it was big.  {x 
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10141
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10107
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10103
+C 0
+S
+#10138
+{yDeep in the Desert{x~
+{yThe universe is nothing more than sand, sand, sand... The wind throws it{x
+{yinto the air where it bites the skin of any who pass through it. Only the{x
+{yhardiest souls, who have an ample supply of water, have a chance of{x
+{ysurviving here.{x
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10143
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10116
+C 0
+S
+#10139
+{yDeep in the Desert{x~
+{yThings are different here, dryer, and even hotter than before. The air is{x
+{ystill, and the grains of sand are larger, like pebbles. Bits of bone can be{x
+{ydistinguished amongst the sand. There is a price for not being prepared in{x
+{ythis sort of terrain. The air smells of dust and death.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10144
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10140
+C 0
+S
+#10140
+{yDeep in the Desert{x~
+{yThe motion of the undulating sand stops here.  It is flat, and rocky. 
+{x {yThere is no movement, only heat and the smell of death and dust.  In
+the{x {ydistance there is a call from some kind of starving creature.  {x 
+~
+0 0 10
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10139
+C 0
+S
+#10141
+{yDeep in the Desert{x~
+{yThings are not the same here. It is dryer and hotter. The air is still,{x
+{yand the grains of sand are larger, like small pebbles. Bits of bone are{x
+{ytossed in among them. There is a price for not being prepared in this sort{x
+{yof terrain.{x
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10145
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10137
+C 0
+S
+#10142
+{yDeep in the Desert{x~
+{yThe universe is burning sand, nothing else exists.  There is nothing
+but{x {yheat and the need for water.  Those who are unprepared have a short
+life{x {yexpectancy.  There are large tracks in the sand, if dehydration and
+heat{x {ydon't get you, then perhaps something else will...  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10113
+C 0
+S
+#10143
+{yDeep in the Desert{x~
+{ySomething isn't right.  The sand looks the same, the heat feels the
+same.  {x {yBut something has changed.  Perhaps someone, or something is
+watching,{x {ybrooding.  Maybe it would be best to keep moving.  Something
+doesn't feel{x {ysafe.  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10144
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10138
+C 0
+S
+#10144
+{yDeep in the Desert{x~
+{yThe desert landscape has changed slightly.  The air is still.  The grains
+of sand are larger...like small pebbles.  In the air, there is a hint of...
+could that be...water?  Perhaps you could just "charge" right over the top of
+the dunes and find out.{x
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10139
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10143
+C 0
+S
+#10145
+{yDeep in the Desert{x~
+{yThere is nothing but sand. Mounds of sand, hills of sand, piles of sand.{x
+{yDunes of all shapes and sizes shift and change as the wind blows and pushes{x
+{ythe sand into new shapes. The air smells of dust and death, and large{x
+{yfootprints indicate that death may come quickly to those who tary.{w {x
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10147
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10141
+C 0
+S
+#10146
+{yDeep in the Desert{x~
+{yWaves of heat bounce off the surface of the undulating hills of sand.{x
+{yHeat presses down on all who seek to breathe or move. Only those with plenty{x
+{yof water will survive here.{x
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10149
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10120
+C 0
+S
+#10147
+{yDeep in the Desert{x~
+{yWaves of heat crush all who pass through this way. Hills of sand undulate{x
+{yall around. The wind throws the hot stoney powder into the air and against{x
+{ythe flesh of any living creatures struggling to survive here. There is a{x
+{yprice to pay for not having enough water. The smell of death is in the air. {x
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10151
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10145
+C 0
+S
+#10148
+{yDeep in the Desert{x~
+{yThe motion of the undulating sands slows. It is still and quiet here, too
+quiet. Is someone or something watching? Perhaps it's best not to linger.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10119
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10117
+C 0
+S
+#10149
+{yDeep in the Desert{x~
+{ySand. Sand. Sand. The smell of dust and death is in the air. Those who
+are not prepared with plenty of water can not expect to survive. There are
+tracks made by something BIG. It's best to keep moving.{x
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10150
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10146
+C 0
+S
+#10150
+{yDeep in the Desert{x~
+{yThe universe is nothing more than a swirl of biting grains of sand. The
+world outside is too distant to be remembered. There are the tracks of
+something BIG in the sand. Only those who are well prepared will survive.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10153
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10149
+C 0
+S
+#10151
+{yDeep in the Desert{x~
+{yThe universe has withered, until the sands are all that seem to exist
+of the world.  Horizon to horizon, the world has become a shifting,
+roiling entity. It's tendrils seek each pore, every crevice. The need for
+water is a constant companion. {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10121
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10119
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10147
+C 0
+S
+#10152
+{yDeep in the Desert{x~
+{yThe desert's howling wind blows the glittering sands across the harsh
+landscape. The sands, burning by day, hold the fierce heat of the burning
+sun. By night, the sheets of sand are enveloped in the cold light of an
+austere uncaring moon. {x 
+~
+0 0 10
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10124
+C 0
+S
+#10153
+{yDeep in the Desert{x~
+{yThere is no end to the reach of the shifting sands. By day, the naked
+sun bleaches the sand to a shimmery pale color. By night, the sands sparkle,
+as bitter cold holds sway. {x 
+~
+0 0 10
+D0
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10155
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10150
+C 0
+S
+#10154
+{yDeep in the Desert{x~
+{yThe desert landscape has changed slightly.  The air is still.  The grains
+of sand are larger...like small pebbles.  In the air, there is a hint of...
+could that be...water?  Perhaps you could just "charge" right over the top of
+the dunes and find out.{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10125
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10121
+C 0
+S
+#10155
+{yDeep in the Desert{x~
+{ySand, sand, and more sand. The universe is nothing more than a swirl of
+biting grains of sand. The world outside is forgotten, only the sand and
+heat exist... And those large footprints... Maybe it's best to keep moving.{x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10130
+D2
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10153
+D3
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10126
+C 0
+S
+#10156
+{yDeep in the Desert{x~
+{yThe motion of the undulating sands slows.  The air is a bit more still.
+The heat feels heavier and dryer.  It is difficult to breathe air like this.
+There is a smell of dust and death.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10132
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10130
+C 0
+S
+#10157
+{yDeep in the Desert{x~
+{ySo much sand.  It goes on and on, as if there is nothing else in the
+whole universe.  There is no moisture of any kind, and the air is so hot it
+feels like molten lava.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10159
+C 0
+S
+#10158
+{yDeep in the Desert{x~
+{yEverywhere there is sand.  Sand and heat.  During the day heat wafts up
+in visible waves, from all surfaces.  When the sun goes down, icy fingers
+reach across the dunes.  Only the hardy and well prepared survive here.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10131
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10129
+C 0
+S
+#10159
+{yDeep in the Desert{x~
+{yThe universe is nothing more than a swirling mist of sand and heat. 
+Sand and heat have entwined, making it very difficult to breathe.  Through a
+veil of airborne sand, footprints appear.  Large footprints.  Perhaps it's
+best to keep moving.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10133
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10131
+C 0
+S
+#10160
+{yThe Desert{x~
+{yDunes of sand stretch out in all directions.  To the south, mountains
+break the horizon with their jagged lines.  The heat, during the day, is
+oppressive.  At night, it is unbearably cold.  Perhaps there is relief just
+over the next dune...{x
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10112
+C 0
+S
+#10161
+{yThe Desert{x~
+{ySand, sand, sand everywhere... The heat is oppressive, but THERE, to
+the south... Mountains! Could there be a source of water there, or perhaps
+just greater danger? {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10114
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10112
+C 0
+S
+#10162
+{yThe Desert{x~
+{yThe heat saps moisture from anything or anyone daring to exist here. 
+Light powdery sand stretches out in all directions, forming dunes and hills
+that constantly shift and change.  There is a smell of dust and death in the
+air.  Off to the south the jagged lines of mountains break the smooth lines
+of the horizon.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10118
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10116
+C 0
+S
+#10163
+{yThe Desert{x~
+{ySand stretches out endlessly in all directions but one.  Off to the
+south the endless sand dunes are met by mountains.  There are footprints, of
+something BIG...  Perhaps it's best to keep moving.  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10118
+C 0
+S
+#10164
+{yThe Desert{x~
+{yEverywhere there is sand, the dunes seem to stretch out endlessly.  The
+heat is heavy making it hard to breathe.  There is a smell....  Water?  To
+the west there is something shimmering.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10165
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10122
+C 0
+S
+#10165
+{yThe Desert{x~
+{y Sand.  So much sand.  The dunes stretch out almost endlessly.  The
+oppressive heat makes breathing difficult for any who try.  To the west
+three is a glimmer, and there is a scent on the wind.  Could it be water? 
+{x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10124
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10164
+C 0
+S
+#10166
+{yThe Desert{x~
+{y Dunes loom large on all sides.  The smooth lines of the voluminous
+mounds of sand are broken in the north.  There appears to be a town in that
+direction.  Large footprints remind any passerby's to proceed with caution. 
+{x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10167
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10128
+C 0
+S
+#10167
+{yThe Desert{x~
+{yThe heat pours down making breathing hard.  Waves of heat bounce off of
+all surfaces.  To the north, and slightly to the west a city can be seen. 
+Perhaps some respite is available there?  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10132
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10130
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10166
+C 0
+S
+#10168
+{yThe Desert{x~
+{y Sand.  Sand dunes stretch on endlessly.  Heat is oppressive.  There is
+the smell of dust and death on the air.  Waves of heat bounce up from all
+surfaces.  Large footprints can be seen in the sand.  Caution is definitely
+in order.  {x 
+~
+0 0 10
+D1
+{ySand.  As far as the eye can see.{x
+~
+~
+0 0 10134
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10132
+C 0
+S
+#10169
+{yThe Desert{x~
+{y The heat is a bit less oppressive here.  There is the sound of waves
+crashing on the shore coming from the north.  Sand stretches out, but not
+endlessly.  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10135
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10134
+C 0
+S
+#10170
+{yThe Desert{x~
+{y From the north comes a cool breeze, and the sound of crashing waves. 
+There is an end to the sand as the sea meets it.  There is the smell of salt
+in the air.  There are large footprints in the sand, so caution is still a
+good idea.  {x 
+~
+0 0 10
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10171
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10135
+C 0
+S
+#10171
+{yThe Desert{x~
+{y A cool breeze cuts through the heat, and the sound of waves caressing
+the shore comes from the north.  The smell of dust and death is giving way
+to salt and sea air.  {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10133
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10170
+C 0
+S
+#10172
+{yThe Desert{x~
+{y The graceful lines of huge sand dunes are broken only by the jagged
+peaks of mountains off to the east, and a bit north.  Waves of heat bounce
+off of every surface, making breathing difficult.  The smell of dust and
+death is everywhere.  Large footprints in the sand probably mean caution is
+a good idea.  {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10129
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10131
+C 0
+S
+#10173
+{yThe Desert{x~
+{ySand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.  {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10174
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10129
+C 0
+S
+#10174
+{yThe Desert{x~
+{y Huge mounds of sand gracefully rise and fall like waves in the sea. 
+Heat rises up in waves, making it difficult to breathe.  To the northeast
+jagged mountain peaks break the horizon.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10173
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10175
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10125
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10127
+C 0
+S
+#10175
+{yThe Desert{x~
+{y Sand.  Everywhere there is sand, and heat.  The smell of dust and
+death is everywhere.  Slithery marks in the sand indicate some creature has
+passed through the area.  Sometimes the smallest creatures can be the most
+deadly.  {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10123
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10174
+C 0
+S
+#10176
+{yThe Desert{x~
+{y Sand is everywhere.  Heat rises up in waves from every surface. 
+Slithery marks in the sand indicate that some creature has passed through
+the area.  The smell of dust and death is blown on the hot wind.  To the
+east the sound of waves can be heard, and the smell of salt seems to come on
+a cooler breeze, when it blows from that direction.  {x 
+~
+0 0 10
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10177
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10117
+C 0
+S
+#10177
+{yThe Desert{x~
+{y The smell of salt and the sea wafts in on a cooler breeze from the
+east.  Sand is everywhere, rising in huge mounds, like waves slow moving
+waves of the sea.  Slithery marks in the sand indicate that some creature
+has been through the area recently.  Caution is a good idea.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10176
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10178
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10115
+C 0
+S
+#10178
+{yThe Desert{x~
+{y Sand is everywhere.  From the east there is the sound of distant waves
+crashing against the beach.  There is a cooler breeze bearing the smell of
+salt, and water.  In the sand there are slithery marks as if some creature
+has been through the area.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10177
+D2
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10179
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10113
+C 0
+S
+#10179
+{yThe Desert{x~
+{y From the east comes a cooler breeze bearing the smell of salt and
+water.  The sound of waves crashing on the shore can be heard.  Everywhere
+is sand, and the tracks of all sorts of creatures, probably not all
+friendly.  Caution is probably a good idea.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10178
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10111
+C 0
+S
+#10180
+{yThe Desert{x~
+{y Smooth mounds of sand rise up all around.  Heat wafts up in waves from
+all surfaces.  It is hard to breathe.  To the south the gentle lines are
+broken by the sharp jagged lines of mountains.  There are some rather large
+footprints.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10107
+D3
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10181
+C 0
+S
+#10181
+{yThe Desert{x~
+{y Smooth mounds of sand rise up all around.  Heat wafts up in waves from
+all surfaces.  It is difficult to breathe the hot air.  Slithery marks are
+all over the sand, and a few large footprints.  Perhaps caution would be
+wise.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10105
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10180
+C 0
+S
+#10182
+{yThe Desert{x~
+{y Sand is everywhere.  Time seems to halt, everything else seems unreal.
+All that exists is heat and sand.  The wind picks up the grains hurling them
+like small daggers through the air.  Large footprints look menacing.  {x 
+~
+0 0 10
+D0
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10100
+D1
+{ySand. As far as the eye can see. {x 
+~
+~
+0 0 10105
+C 0
+S
+#10183
+{BEntrance to Savina's Oasis{x~
+{gSweet relief!  Here there is verdent green vegetation accompanied by
+the overwhelming smells of water, flowers and fruit.  Life flourishes here. 
+From the north comes the sound of splashing water.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10186
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10184
+C 0
+S
+#10184
+{P A Shabby Tent {x~
+{mThe tent is shabby from years of use, but it's a welcome retreat from
+the hot sun and sands of the desert.  No one seems to be at home, but there
+is food laid out, as if for any passing stranger.  There is no light, except
+what seeps in through the seems of the tent and door.  After long hours in
+the desert sun, the dark is refreshing.  {x 
+~
+0 8 0
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10183
+M 125 H 125
+C 0
+S
+#10185
+{BThe Spring{x~
+{gWater and shade have cooled the air here.  Tall palms and a myriad of
+other trees hold back the beating rays of the sun during the day.  There are
+footprints scattered over the ground, as many creatures frequent this spot. 
+{x 
+~
+0 0 2
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10186
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10189
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10188
+C 0
+S
+#10186
+{B Savina's Oasis {x~
+{gBanana trees are heavy with yellow fruit.  Slender papaya trees sway in
+the breeze looking prehistoric.  The earth smells rich and moist.  {x 
+~
+0 0 2
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10187
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10183
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10185
+C 0
+S
+#10187
+{P A Merchant's Tent {x~
+{yA variety of wares are available here. Apparently this oasis is a
+stopping place for merchants from all sorts of places, and this merchant is
+happy to do business with them all, for a price, of course. {x 
+~
+0 8 0
+D3
+~
+~
+0 0 10186
+C 0
+S
+#10188
+{BBy the Spring{x~
+{gVegitation is especially lush here, as the spring is nearby. A carpet
+of dark green vines with bright read flowers cascades down some of the other
+vegitation. Palm and banana trees grow and shed their fruit, free for the
+taking. {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10191
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10185
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10190
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10193
+C 0
+S
+#10189
+{BEntrance to Savina's Oasis{x~
+{g The sands of the desert fall away and rich soil takes over.  The smell
+of death and dust is replaced with the smells and sounds of life.  Birds
+call from the trees.  The smell of fruit ripened in the warm sun wafts by on
+a gentle breeze.  There are trees everywhere, and the shade they create is
+refreshing and cool in comparison to the hot dry desert.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10185
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10190
+C 0
+S
+#10190
+{BSavina's Oasis{x~
+{g {gA lovely cool breeze bears the smell of fertile earth, fresh flowers
+and ripe fruit.  Bits of sunlight break through the leafy ceiling.  Lacy
+patterns dance across the moist ground.  Animals are fat, from the easy life
+here.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10188
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10189
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10192
+C 0
+S
+#10191
+{BSavina's Oasis{x~
+{gAh, a nice restful spot.  Cool shade, fruit trees, anything a traveler
+could ever want.  Nothing but the chatter of monkeys to disrupt a good rest.
+Lovely flowers entertain the eye and scent the air.  {x 
+~
+0 0 2
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10188
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10194
+C 0
+S
+#10192
+{BSavina's Oasis{x~
+{gThis is a good place for a caravan, or weary adventurer, to rest. 
+There is plenty of food, shade, and anything else a traveler could want. 
+Palm trees provide shade and coconuts.  The air smells sweet, from nearby
+ripening fruit.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10193
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10190
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10199
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10197
+C 0
+S
+#10193
+{BSavina's Oasis{x~
+{gThere is plenty of room here for a traveler to set up camp and rest and
+an ideal spot for a caravan to take a break from a long desert journey. 
+Water is nearby, fruit is free and plentiful.  Everything a traveler could
+want is available.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10194
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10188
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10192
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10196
+C 0
+S
+#10194
+{BSavina's Oasis{x~
+{gThis is a place of life and abundance.  Plants flourish and produce
+food for the animals, who grow fat from the easy life.  The gentle sound of
+splashing water can be heard in the distance.  {x 
+~
+0 0 2
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10191
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10193
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10195
+C 0
+S
+#10195
+{BSavina's Oasis{x~
+{gThis is a shady spot, an ideal place for weary adventurers and
+travelers to rest and shake off the dust of the desert.  Banana trees are
+laden with their yellow fruit, ripe and ready to eat.  {x 
+~
+0 0 2
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10194
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10196
+C 0
+S
+#10196
+{BSavina's Oasis{x~
+{gThe scent of fresh fruit is lovely on the cool breeze.  It's hot here,
+but cool and refreshing in comparison to the desert.  Bits of sunlight break
+through the leaves making lacy patterns that dance across the ground.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10195
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10193
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10197
+C 0
+S
+#10197
+{BSavina's Oasis{x~
+{gThe shade here is especially deep and cool.  The rustle of the leaves
+is all around.  A cool breeze sweeps through, bearing the smells of fresh
+fruit and heady flowers.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10196
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10192
+D2
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10198
+C 0
+S
+#10198
+{BSavina's Oasis{x~
+{gA cool breeze bears the smell of flowers and ripe fruit. The shade here
+is deep, due to the lush vegitation. Everywhere greenery is dotted with
+bright flowers. This is a good place for a rest. {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10197
+D1
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10199
+C 0
+S
+#10199
+{BSavina's Oasis{x~
+{gA cool breeze bears the smell of fresh fruit and flowers.  The local
+animals are well fed in this abundant oasis.  Life here is easy.  Everywhere
+banana and papaya trees grow, providing food and shade.  {x 
+~
+0 0 2
+D0
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10192
+D3
+{yThe oasis is surrounded by huge dunes.{x
+~
+~
+0 0 10198
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 10101 spec_poison
+M 10104 spec_poison
+M 10105 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 10106 10 10100 1
+M 0 10103 5 10101 1
+O 0 10103 0 10101
+M 0 10111 4 10102 1
+O 0 10103 0 10102
+O 0 10103 0 10103
+M 0 10104 5 10104 1
+O 0 10103 0 10104
+M 0 10101 5 10105 1
+O 0 10103 0 10105
+O 0 10103 0 10106
+O 0 10103 0 10107
+O 0 10103 0 10108
+M 0 10111 4 10109 1
+M 0 10101 5 10110 1
+O 0 10103 0 10110
+O 0 10103 0 10111
+O 0 10103 0 10112
+O 0 10103 0 10113
+M 0 10103 5 10114 1
+O 0 10103 0 10114
+M 0 10101 5 10115 1
+O 0 10103 0 10115
+O 0 10103 0 10116
+O 0 10103 0 10117
+O 0 10103 0 10118
+M 0 10103 5 10119 1
+O 0 10103 0 10119
+M 0 10101 5 10120 1
+O 0 10103 0 10120
+M 0 10106 10 10121 1
+O 0 10103 0 10122
+O 0 10103 0 10123
+M 0 10106 10 10124 1
+M 0 10106 10 10126 1
+M 0 10103 5 10127 1
+O 0 10103 0 10127
+O 0 10103 0 10128
+O 0 10103 0 10129
+M 0 10101 5 10130 1
+O 0 10103 0 10130
+M 0 10101 5 10131 1
+O 0 10103 0 10131
+O 0 10103 0 10132
+M 0 10110 4 10133 1
+O 0 10103 0 10133
+O 0 10103 0 10134
+O 0 10103 0 10135
+O 0 10103 0 10136
+M 0 10109 5 10137 1
+O 0 10103 0 10137
+M 0 10106 10 10138 1
+O 0 10103 0 10139
+M 0 10111 4 10140 1
+O 0 10103 0 10140
+O 0 10103 0 10141
+M 0 10103 5 10142 1
+O 0 10103 0 10142
+O 0 10103 0 10143
+M 0 10107 1 10144 1
+O 0 10103 0 10144
+O 0 10103 0 10145
+M 0 10109 5 10146 1
+O 0 10103 0 10146
+M 0 10104 5 10147 1
+O 0 10103 0 10147
+O 0 10103 0 10148
+O 0 10103 0 10149
+M 0 10104 5 10150 1
+O 0 10103 0 10150
+O 0 10103 0 10151
+O 0 10103 0 10152
+O 0 10103 0 10153
+M 0 10108 1 10154 1
+O 0 10103 0 10154
+O 0 10103 0 10155
+O 0 10103 0 10156
+M 0 10109 5 10157 1
+O 0 10103 0 10157
+O 0 10103 0 10158
+O 0 10103 0 10159
+M 0 10109 5 10160 1
+O 0 10103 0 10160
+O 0 10103 0 10161
+M 0 10110 4 10162 1
+O 0 10103 0 10162
+M 0 10102 1 10163 1
+M 0 10112 4 10163 1
+O 0 10104 0 10163
+P 0 10105 1 10104 1
+M 0 10104 5 10164 1
+O 0 10103 0 10164
+M 0 10111 4 10165 1
+O 0 10103 0 10165
+M 0 10103 5 10166 1
+O 0 10103 0 10166
+O 0 10103 0 10167
+M 0 10110 4 10168 1
+O 0 10103 0 10168
+O 0 10103 0 10169
+M 0 10103 5 10170 1
+O 0 10103 0 10170
+M 0 10106 10 10171 1
+M 0 10112 4 10172 1
+O 0 10103 0 10172
+M 0 10106 10 10173 1
+O 0 10103 0 10174
+M 0 10101 5 10175 1
+O 0 10103 0 10175
+M 0 10109 5 10176 1
+O 0 10103 0 10176
+M 0 10110 4 10177 1
+O 0 10103 0 10177
+M 0 10112 4 10178 1
+O 0 10103 0 10178
+M 0 10104 5 10179 1
+O 0 10103 0 10179
+M 0 10106 10 10180 1
+M 0 10112 4 10181 1
+O 0 10103 0 10181
+O 0 10103 0 10182
+O 0 10117 0 10183
+P 0 10100 25 10117 1
+O 0 10111 0 10184
+O 0 10107 0 10184
+P 0 10108 25 10107 1
+O 0 10109 0 10184
+P 0 10101 25 10109 1
+M 0 10105 1 10184 1
+E 0 10127 0 16
+E 0 10126 0 5
+O 0 10102 0 10185
+O 0 10117 0 10185
+P 0 10100 25 10117 1
+M 0 10183 5 10185 1
+M 0 10184 5 10185 1
+M 0 10186 5 10185 1
+O 0 10117 0 10186
+P 0 10100 25 10117 1
+M 0 10186 5 10186 1
+M 0 10184 5 10186 1
+M 0 10100 1 10187 1
+G 0 10106 0
+G 0 10114 0
+G 0 10112 0
+G 0 10113 0
+G 0 10115 0
+G 0 10128 0
+O 0 10117 0 10188
+P 0 10100 25 10117 1
+M 0 10183 5 10188 1
+M 0 10184 5 10190 1
+O 0 10117 0 10192
+P 0 10100 25 10117 1
+M 0 10183 5 10192 1
+M 0 10185 10 10193 2
+M 0 10183 5 10195 1
+M 0 10186 5 10195 1
+O 0 10117 0 10196
+P 0 10100 25 10117 1
+M 0 10186 5 10196 1
+O 0 10117 0 10197
+P 0 10100 25 10117 1
+P 0 10100 25 10117 1
+O 0 10117 0 10198
+P 0 10100 25 10117 1
+M 0 10186 5 10198 1
+O 0 10117 0 10199
+P 0 10100 25 10117 1
+M 0 10184 5 10199 1
+S
+
+
+
+#SHOPS
+10100 9 5 32 8 33 200 30 0 23
+0
+
+
+
+#MOBPROGS
+#10100
+mob echo A {Bbright peacock{x flares his {Bt{ba{gi{Yl{x and begins his mating dance.
+~
+#10101
+mob echo {RA naughty monkey sneaks up, tries to steal something, and disappears. {x
+~
+#10105
+if carries $n 10110
+  mob echo {yThou should not be so greedy!{x
+  mob remove $n 10105
+  mob echo {yThe {rtattered scroll {ydisappears with a *POOF*!{x
+else
+  if carries $n 10105
+  mob oload 10110
+  mob remove $n 10105
+  mob echo {yThe {rtattered scroll {ydisappears with a *POOF* as a {Rscarab necklace {yreplaces it!{x
+  give scarab $n
+endif
+~
+#10106
+if ispc $n
+  mob echo {rHowling winds torment the desert's surface.{x
+else
+endif
+~
+#10107
+if ispc $n
+  mob echo {yYou quickly scramble over the top of the dunes.{x
+  mob transfer $n 10183
+else
+endif
+~
+#10108
+if ispc $n
+  mob echo {yYou quickly scramble over the top of the dunes.{x
+  mob transfer $n 10189
+else
+endif
+~
+#0
+
+#$

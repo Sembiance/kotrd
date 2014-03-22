@@ -1,0 +1,244 @@
+#PLAYER
+Name Doughboy~
+Id   1156052835
+LogO 1159282549
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Human~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 54
+OldLvl 54
+Sec  0
+Plyd 21714
+Scro 33
+Room 1900
+HMV  1609 1609 532 532 1093 1093
+Gold 3645
+Silv 453
+Gold_bank 5000
+Silv_bank 0
+Shares 0
+Share_level 54
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  54745
+PAct  DGQTd
+AfBy HOV
+WName Doughboy~
+Comm KLMNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 38
+Trai 17
+Save  -1
+Alig  -1000
+Hit   118
+Dam   89
+ACs -270 -266 -206 -173
+Attr 19 13 17 13 18
+AMod 9 3 2 5 2
+Pass DoHzklmL/z8u6~
+Titl  <-- {BPo{bP{Bpin {RF{Cresh {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 5
+HMVP 822 226 418
+Cnd  0 22 37 35
+Boards       4 General 1158931085 Ideas 1146808373 Announce 0 Personal 0 
+Sk 100 'sword'
+Sk 78 'dagger'
+Sk 87 'backstab'
+Sk 1 'bash'
+Sk 1 'dirt kicking'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 81 'kick'
+Sk 78 'dodge'
+Sk 79 'parry'
+Sk 77 'shield block'
+Sk 84 'trip'
+Sk 85 'second attack'
+Sk 83 'third attack'
+Sk 76 'fast healing'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+Affc 'haste'   0  20  -1   2   2    2097152
+Affc 'energy shield'   0  63  18 -20  17          0
+Affc 'armor'   0  50   1 -20  17          0
+Affc 'protection good'   0   9  10  -1  20      16384
+Affc 'sanctuary'   0  69   8   0   0        128
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 10617
+Nest 0
+Cond 0
+Wear 7
+Cost 12000
+End
+
+#O
+Vnum 24105
+Nest 0
+Cond 0
+Wear 2
+Cost 120000
+End
+
+#O
+Vnum 24105
+Nest 0
+Cond 0
+Wear 1
+Cost 120000
+End
+
+#O
+Vnum 5405
+Nest 0
+Cond 0
+Wear 10
+Cost 720
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 15165
+Nest 0
+Cond 0
+Wear 8
+Time 685
+Cost 0
+End
+
+#O
+Vnum 24116
+Nest 0
+Cond 0
+Wear 0
+Cost 13690
+Val  0 0 36 0 0
+End
+
+#O
+Vnum 24123
+Nest 0
+Cond 0
+Wear 4
+Cost 17640
+End
+
+#O
+Vnum 24106
+Nest 0
+Cond 0
+Wear 12
+Cost 15498
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 23231
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 19
+Lev  46
+Time 935
+Cost 0
+Affc 'reserved'   1  45  -1   5  18          0
+Affc 'reserved'   1  45  -1   5  19          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 23220
+Nest 0
+Cond 0
+Wear 13
+Time 643
+Cost 0
+End
+
+#O
+Vnum 4535
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 23221
+Nest 0
+Cond 0
+Wear 6
+Time 774
+Cost 0
+End
+
+#O
+Vnum 13400
+Enchanted
+Nest 0
+ExtF 578
+Cond 0
+Wear 16
+Lev  41
+Cost 34799
+Affc 'reserved'   1  40  -1   5   1          0
+Affc 'reserved'   1  40  -1   2   1          0
+Affc 'reserved'   1  40  -1  10  19          0
+Affc 'reserved'   1  40  -1  10  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#END

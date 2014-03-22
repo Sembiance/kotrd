@@ -1,0 +1,98 @@
+#PLAYER
+Name Kenzo~
+Id   1116076881
+LogO 1116078480
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1444
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  11822
+PAct  CDEFGHQd
+WName Kenzo~
+Comm NO
+RaceChan A
+Deaf DP
+Pos  5
+Save  -31
+Alig  1000
+Hit   62
+ACs 80 80 80 80
+Attr 18 15 15 13 15
+AMod 0 0 0 0 0
+Pass Ke48nDWzBfBOY~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 109
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 8 28 28
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 75 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'meditation'
+Sk 65 'recall'
+Sk 1 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Gr 'weaponsmaster'
+Gr 'paladin spells'
+Affc 'bless'   0 249 112 -31  20          0
+Affc 'bless'   0 249 112  62  18          0
+Affc 'armor'   0 247  78 -20  17          0
+End
+
+#END

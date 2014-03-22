@@ -1,0 +1,1255 @@
+#PLAYER
+Name Hayze~
+Id   1116401762
+LogO 1150309223
+Vers 5
+Prom <%hhp/%Hhp %mmana/%Mmana %vmove/%Vmove>%X %K ~
+Race Seraph~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 622772
+Scro 33
+Room 3054
+HMV  5824 5824 4741 5959 4144 4144
+Gold 8351
+Silv 2261
+Gold_bank 23200
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  165039
+QuestPnts 3544
+QuestNext 2
+PAct  DEGHTd
+AfBy BCDEFGHJTU
+WName Hayze~
+Comm KLNO
+RaceChan 0
+Deaf P
+Pos  8
+Save  -122
+Alig  1000
+Hit   469
+Dam   368
+ACs -1339 -1339 -1339 -1305
+Wimp  1000
+Attr 16 20 20 11 15
+AMod 35 17 25 18 23
+Pass HaqqKdlZS1pc2~
+Titl  ha~
+Pnts 53
+TSex 1
+PSize 2
+LLev 85
+HMVP 890 684 694
+Cnd  0 0 10 16
+Alias ff c 'faerie fire'~
+Alias haste c 'haste'~
+Alias ab c 'acid blast'~
+Alias orb c 'orb'~
+Alias ws c 'wyldstryke'~
+Alias sanc c 'sanctuary'~
+Alias lb c 'lightning bolt'~
+Alias tor c 'torment'~
+Alias poison c 'poison'~
+Alias home c 'word of recal'~
+Alias wail c 'wail'~
+Alias plague c 'plague'~
+Alias gate c 'gate'~
+Alias son c 'sonic'~
+Alias chain c 'chain'~
+Alias mult multi 'orb 'orb 'orb~
+Alias bh c 'burning'~
+Alias ct c 'chill'~
+Boards       4 General 1149472864 Ideas 1146808373 Announce 1101457691 Personal 0 
+Sk 100 'magic missile'
+Sk 88 'chill touch'
+Sk 78 'burning hands'
+Sk 78 'shocking grasp'
+Sk 28 'colour spray'
+Sk 85 'fireball'
+Sk 89 'acid blast'
+Sk 19 'spellfire'
+Sk 94 'orb of chaos'
+Sk 75 'chain lightning'
+Sk 74 'wyldstryke'
+Sk 75 'acid storm'
+Sk 77 'wail of the banshee'
+Sk 99 'torment of cold'
+Sk 83 'sonic scream'
+Sk 75 'ventriloquate'
+Sk 1 'recharge'
+Sk 80 'sleep'
+Sk 86 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 77 'charm person'
+Sk 100 'haste'
+Sk 85 'pass door'
+Sk 14 'portal'
+Sk 75 'nexus'
+Sk 83 'lightning bolt'
+Sk 1 'change sex'
+Sk 89 'detect evil'
+Sk 90 'detect good'
+Sk 83 'detect hidden'
+Sk 92 'armor'
+Sk 61 'blindness'
+Sk 28 'call lightning'
+Sk 1 'calm'
+Sk 79 'cancellation'
+Sk 92 'continual light'
+Sk 88 'control weather'
+Sk 96 'create food'
+Sk 1 'create rose'
+Sk 84 'create spring'
+Sk 1 'create water'
+Sk 67 'curse'
+Sk 90 'detect invis'
+Sk 99 'detect magic'
+Sk 1 'detect poison'
+Sk 53 'dispel magic'
+Sk 75 'energy drain'
+Sk 92 'faerie fire'
+Sk 87 'faerie fog'
+Sk 75 'farsight'
+Sk 49 'fly'
+Sk 28 'floating disc'
+Sk 90 'gate'
+Sk 85 'giant strength'
+Sk 97 'identify'
+Sk 64 'infravision'
+Sk 92 'invisibility'
+Sk 40 'know alignment'
+Sk 98 'locate object'
+Sk 34 'mass invis'
+Sk 50 'plague'
+Sk 90 'poison'
+Sk 50 'refresh'
+Sk 97 'sanctuary'
+Sk 83 'energy shield'
+Sk 81 'slow'
+Sk 69 'stone skin'
+Sk 95 'summon'
+Sk 49 'teleport'
+Sk 89 'weaken'
+Sk 78 'word of recall'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'mace'
+Sk 1 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'dodge'
+Sk 100 'second attack'
+Sk 71 'fast healing'
+Sk 100 'haggle'
+Sk 100 'meditation'
+Sk 29 'scrolls'
+Sk 50 'recall'
+Sk 100 'spellcraft'
+Sk 1 'create zombie'
+Sk 83 'multiburst'
+Sk 1 'divine wrath'
+Sk 49 'brew'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'creation'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Affc 'infravision'   0 100 198   0   0        512
+Affc 'energy shield'   0  99 106 -20  17          0
+Affc 'sanctuary'   0 100  13   0   0        128
+Affc 'invisibility'   0  97  99   0   0          2
+Affc 'detect magic'   0  93  74   0   0         16
+Affc 'stone skin'   0  89  43 -40  17          0
+Affc 'detect invis'   0  82  14   0   0          8
+Affc 'detect hidden'   0  84  14   0   0         32
+Affc 'detect evil'   0  85  14   0   0          4
+Affc 'detect good'   0  85  14   0   0         64
+Affc 'giant strength'   0  79   8   4   1          0
+Affc 'displacement'   0  97  -1   0   0    1048576
+Affc 'displacement'   0  97  -1  12   2          0
+Affc 'displacement'   0  97  -1 -96  17          0
+Affc 'enhanced strength'   0  97  -1  15   1          0
+End
+
+#O
+Vnum 20410
+Nest 0
+ExtF 67
+Cond 0
+Wear 10
+Cost 10000
+Val  25 25 25 25 0
+End
+
+#O
+Vnum 20428
+Nest 0
+Cond 0
+Wear 20
+Cost 350000
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Cost 3868
+Val  35 35 35 18 0
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 928
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 31443
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 7513
+Nest 1
+Cond 0
+Wear -1
+Cost 1455
+End
+
+#O
+Vnum 3155
+Enchanted
+Nest 1
+ExtF 268435522
+Cond 0
+Wear -1
+Lev  91
+Cost 500
+Affc 'enchant weapon'   0  92  -1  18  18          0
+Affc 'enchant weapon'   1  92  -1   9  19          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1  -5  20          0
+Affc 'reserved'   1  90  -1 -10  17          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1  35  19          0
+End
+
+#O
+Vnum 14213
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  8
+Cost 400
+Affc 'reserved'   1   7  -1  20  13          0
+Affc 'reserved'   1   7  -1   6  18          0
+Affc 'reserved'   1   7  -1   8  19          0
+Affc 'enchant weapon'   1  96  -1  14  19          0
+Affc 'enchant weapon'   0  96  -1  24  18          0
+End
+
+#O
+Vnum 12005
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  16
+Cost 1000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  15  -1   1   5          0
+Affc 'reserved'   1  15  -1   1   1          0
+Affc 'reserved'   1  15  -1  10  14          0
+End
+
+#O
+Vnum 21098
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Cost 4032
+Val  33 34 36 30 0
+End
+
+#O
+Vnum 11640
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Cost 200
+Val  20 20 20 20 0
+End
+
+#O
+Vnum 21024
+Enchanted
+Nest 1
+ExtF 98
+Cond 0
+Wear -1
+Lev  86
+Cost 9050
+Affc 'enchant weapon'   0  88  -1  17  18          0
+Affc 'enchant weapon'   1  88  -1   8  19          0
+Affc 'reserved'   1  85  -1  10  19          0
+Affc 'reserved'   1  85  -1  10  18          0
+Affc 'reserved'   1  85  -1  -1   2          0
+Affc 'reserved'   1  85  -1   2   4          0
+Affc 'reserved'   1  85  -1   3   1          0
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25321
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 11897
+Enchanted
+Nest 1
+ExtF 321
+Cond 0
+Wear -1
+Lev  63
+Cost 7500
+Affc 'enchant weapon'   0  65  -1  16  18          0
+Affc 'enchant weapon'   1  65  -1   9  19          0
+Affc 'reserved'   1  62  -1   9  18          0
+Affc 'reserved'   1  62  -1   7  19          0
+Affc 'reserved'   1  62  -1   1   4          0
+End
+
+#O
+Vnum 53
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10449
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 3099
+Nest 0
+ExtF 524354
+Cond 0
+Wear 4
+Cost 15000
+Val  30 30 30 30 0
+End
+
+#O
+Vnum 14221
+Nest 0
+ExtF 16777283
+Cond 0
+Wear 2
+Cost 50000
+Val  12 12 12 12 1
+End
+
+#O
+Vnum 20417
+Nest 0
+ExtF 66
+Cond 0
+Wear 12
+Cost 25000
+Val  67 67 67 67 0
+End
+
+#O
+Vnum 53
+Nest 0
+ExtF 17317953
+Cond 0
+Wear 6
+Cost 100000
+Val  125 125 125 125 0
+End
+
+#O
+Vnum 25318
+Nest 0
+ExtF 65
+Cond 0
+Wear 9
+Cost 4353
+Val  35 35 35 18 0
+End
+
+#O
+Vnum 25321
+Nest 0
+ExtF 66
+Cond 0
+Wear 1
+Cost 3868
+Val  35 35 35 18 0
+End
+
+#O
+Vnum 25320
+Nest 0
+ExtF 97
+Cond 0
+Wear 8
+Cost 2453
+Val  35 35 35 18 0
+End
+
+#O
+Vnum 11896
+Nest 0
+ExtF 321
+Cond 0
+Wear 14
+Cost 7500
+Val  25 25 25 25 0
+End
+
+#O
+Vnum 11886
+Nest 0
+ExtF 321
+Cond 0
+Wear 11
+Cost 50000
+Val  32 32 32 32 0
+End
+
+#O
+Vnum 6716
+Nest 0
+Cond 0
+Wear 3
+Cost 10000
+End
+
+#O
+Vnum 6700
+Nest 0
+ExtF 285736961
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4534
+Nest 1
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 5918
+Nest 1
+ExtF 273154113
+Cond 0
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 7509
+Nest 1
+Cond 0
+Wear -1
+Cost 3120
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  50 100 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  50 100 0 0 0
+End
+
+#O
+Vnum 19213
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 19217
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 11863
+Nest 1
+ExtF 289
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11865
+Nest 1
+ExtF 289
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 5409
+Nest 1
+Cond 0
+Wear -1
+Cost 560
+End
+
+#O
+Vnum 11840
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 19219
+Enchanted
+Nest 1
+ExtF 1345
+Cond 0
+Wear -1
+Lev  91
+Cost 15000
+Affc 'reserved'   1  90  -1   5   2          0
+Affc 'reserved'   1  90  -1  20  19          0
+Affc 'reserved'   1  90  -1  15  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 11672
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  71
+Cost 6230
+Affc 'reserved'   1  70  -1   4  19          0
+Affc 'reserved'   1  70  -1   3  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 20418
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Cost 30000
+Affc 'reserved'   1  99  -1 300  12          0
+Affc 'reserved'   1  99  -1  10   1          0
+Affc 'reserved'   1  99  -1  35  19          0
+Affc 'reserved'   1  99  -1  30  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 20418
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Cost 30000
+Affc 'reserved'   1  99  -1 300  12          0
+Affc 'reserved'   1  99  -1  10   1          0
+Affc 'reserved'   1  99  -1  35  19          0
+Affc 'reserved'   1  99  -1  30  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20419
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Cost 22500
+Val  82 82 82 82 0
+End
+
+#O
+Vnum 1808
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  69
+Cost 350
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  68  -1  40  12          0
+Affc 'reserved'   1  68  -1  45  13          0
+Affc 'reserved'   1  68  -1  20  19          0
+Affc 'reserved'   1  68  -1  30  18          0
+End
+
+#O
+Vnum 19214
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 17016
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  54
+Cost 3000
+Affc 'reserved'   1  53  -1  -1   1          0
+Affc 'reserved'   1  53  -1  10  19          0
+Affc 'reserved'   1  53  -1  15  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  1
+Cost 233
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+End
+
+#O
+Vnum 4841
+Nest 1
+ExtF 97
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4504
+Nest 1
+ExtF 16777280
+Cond 0
+Wear -1
+Cost 2000
+Val  23 20 16 21 0
+End
+
+#O
+Vnum 6700
+Nest 0
+ExtF 285736961
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20400
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20400
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 20419
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Cost 22500
+Val  68 68 68 68 0
+End
+
+#O
+Vnum 11888
+Nest 1
+ExtF 257
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25321
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 31244
+Nest 1
+Cond 0
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 5405
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+End
+
+#O
+Vnum 4538
+Nest 1
+ExtF 97
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 4809
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 11848
+Enchanted
+Nest 1
+ExtF 64
+Cond 0
+Wear -1
+Cost 15000
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 19211
+Enchanted
+Nest 1
+ExtF 594
+Cond 0
+Wear -1
+Lev  96
+Cost 9000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  95  -1  20  19          0
+Affc 'reserved'   1  95  -1  25  18          0
+Affc 'reserved'   1  95  -1 -10  20          0
+End
+
+#O
+Vnum 21338
+Nest 1
+Cond 0
+Wear -1
+Cost 8400
+End
+
+#O
+Vnum 16071
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Cost 25400
+End
+
+#O
+Vnum 4501
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6713
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6731
+Enchanted
+Nest 1
+ExtF 17301827
+Cond 0
+Wear -1
+Lev  81
+Cost 50000
+Affc 'reserved'   1  80  -1 -10  24          0
+Affc 'reserved'   1  80  -1   9  19          0
+Affc 'reserved'   1  80  -1   9  18          0
+Affc 'reserved'   1  80  -1  35  17          0
+Affc 'reserved'   1  80  -1 -100  14          0
+Affc 'reserved'   1  80  -1 150  13          0
+Affc 'reserved'   1  80  -1  50  12          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 6737
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  81
+Cost 50000
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 13400
+Enchanted
+Nest 1
+ExtF 579
+Cond 0
+Wear -1
+Lev  41
+Cost 34799
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  40  -1  10  18          0
+Affc 'reserved'   1  40  -1  10  19          0
+Affc 'reserved'   1  40  -1   2   1          0
+Affc 'reserved'   1  40  -1   5   1          0
+End
+
+#O
+Vnum 6729
+Enchanted
+Nest 1
+ExtF 17301827
+Cond 0
+Wear -1
+Lev  81
+Cost 50000
+Affc 'reserved'   1  80  -1 -10  24          0
+Affc 'reserved'   1  80  -1   9  19          0
+Affc 'reserved'   1  80  -1   9  18          0
+Affc 'reserved'   1  80  -1  35  17          0
+Affc 'reserved'   1  80  -1 -100  14          0
+Affc 'reserved'   1  80  -1 150  13          0
+Affc 'reserved'   1  80  -1  50  12          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 5409
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  29
+Cost 560
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  28  -1  14  19          0
+Affc 'reserved'   1  28  -1   3   5          0
+End
+
+#O
+Vnum 6734
+Nest 0
+Cond 0
+Wear 17
+Cost 8000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6724
+Nest 0
+ExtF 524354
+Cond 0
+Wear 13
+Cost 22500
+Val  87 87 87 87 0
+End
+
+#O
+Vnum 6718
+Nest 0
+ExtF 17301571
+Cond 0
+Wear 5
+Cost 65000
+Val  81 81 81 81 1
+End
+
+#O
+Vnum 6722
+Nest 0
+ExtF 17301570
+Cond 0
+Wear 7
+Cost 30000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6732
+Nest 0
+ExtF 524610
+Cond 0
+Wear 15
+Cost 55000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 11696
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 20406
+Nest 0
+ExtF 66
+Cond 0
+Wear -1
+Cost 10000
+Val  31 31 31 31 0
+End
+
+#O
+Vnum 21297
+Nest 0
+ExtF 66
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 21271
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  50 100 0 0 0
+End
+
+#O
+Vnum 8405
+Nest 0
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 21099
+Nest 0
+ExtF 262611
+Cond 0
+Wear -1
+Cost 12000
+Val  25 25 25 25 0
+End
+
+#O
+Vnum 20421
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Cost 30000
+Affc 'reserved'   1  99  -1  10   2          0
+Affc 'reserved'   1  99  -1 350  14          0
+Affc 'reserved'   1  99  -1  45  18          0
+Affc 'reserved'   1  99  -1  35  19          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#END

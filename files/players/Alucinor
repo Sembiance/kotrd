@@ -1,0 +1,235 @@
+#PLAYER
+Name Alucinor~
+Id   1098594571
+LogO 1167467081
+Vers 5
+Desc Hi! I build.
+~
+Prom <%hhp %mm %vmv %X %K> ~
+Race Elf~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 400
+OldLvl 400
+Sec  5
+Plyd 144265
+Scro 33
+Room 23600
+HMV  52240 52240 6203 6224 17017 17017
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 400
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  460000
+PAct  CDEFGJNQTd
+AfBy DFHJTV
+WName Alucinor~
+Comm FKNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 1697
+Trai 400
+Save  -430
+Alig  -1000
+Hit   480
+Dam   424
+ACs -825 -825 -825 -773
+Wimp  45
+Attr 27 30 36 22 29
+AMod 24 8 12 14 8
+Pass TajKhSp4rahtE~
+Bin  The water vapor in the air condenses into the form of Alucinor.~
+Bout Alucinor disperses into water vapor.~
+Titl  You're Not hardcore, until you play Hardcore~
+Job Builder {x~
+Pnts 43
+TSex 1
+PSize 1
+LLev 31
+HMVP 47106 5574 12550
+Cnd  0 0 0 0
+Alias p prac~
+Alias wiz wizhelp~
+Alias vent build~
+Alias cha build~
+Alias r rest~
+Alias . build~
+Boards       4 General 1166924303 Ideas 1158582947 Announce 1104975611 Personal 1166812137 
+Sk 81 'identify'
+Sk 93 'sword'
+Sk 84 'dagger'
+Sk 75 'spear'
+Sk 76 'mace'
+Sk 75 'backstab'
+Sk 1 'bash'
+Sk 82 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 76 'hand to hand'
+Sk 77 'kick'
+Sk 77 'dodge'
+Sk 78 'trip'
+Sk 87 'second attack'
+Sk 75 'envenom'
+Sk 88 'fast healing'
+Sk 76 'haggle'
+Sk 75 'hide'
+Sk 1 'meditation'
+Sk 78 'peek'
+Sk 75 'pick lock'
+Sk 75 'sneak'
+Sk 75 'steal'
+Sk 75 'recall'
+Sk 75 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'identify spell'
+Affc 'quicken'   0 387 119   5   2    2097152
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'sanctuary'   0 100  -1   0   0        128
+Affc 'enhanced strength'   0 100  -1  15   1          0
+Affc 'detect hidden'   0 964 781   0   0         32
+Affc 'detect invis'   0 965 781   0   0          8
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 23451
+Nest 0
+Name rubik cube Alucinor~
+ShD  {bA {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{x~
+Desc {bA S{Bo{bl{Bv{bed {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!! {x~
+Cond 0
+Wear 18
+Cost 75000
+End
+
+#O
+Vnum 23416
+Nest 0
+Name shieldbreaker long sword longsword Alucinor~
+Cond 0
+Wear 19
+Cost 30000
+End
+
+#O
+Vnum 3056
+Nest 0
+Name robe grim reaper Alucinor~
+Cond 0
+Wear 12
+Cost 29470
+End
+
+#O
+Vnum 23431
+Nest 0
+Name clan ring nephilim Tanis~
+Cond 0
+Wear 2
+Cost 1
+End
+
+#O
+Vnum 23431
+Nest 0
+Name clan ring nephilim Tanis~
+Cond 0
+Wear 1
+Cost 1
+End
+
+#O
+Vnum 23405
+Nest 0
+Name cloak Alucinor~
+Cond 0
+Wear 4
+Cost 100000
+End
+
+#O
+Vnum 23405
+Nest 0
+Name cloak Alucinor~
+Cond 0
+Wear 3
+Cost 100000
+End
+
+#O
+Vnum 98
+Nest 0
+Name obsidian dagger Alucinor~
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 23452
+Nest 0
+Name Christmas bag sack goody back Alucinor~
+ShD  a {GC{Rh{Gr{Ri{Gs{Rt{Gm{Ra{Gs {RG{Go{Ro{Gd{Ry{G!{x~
+Desc A {GC{Rh{Gr{Ri{Gs{Rt{Gm{Ra{Gs {RG{Go{Ro{Gd{Ry{G{x sits here, waiting to be opened!~
+Cond 0
+Wear 20
+Cost 50
+Val  3000 5 0 3000 5
+End
+
+#O
+Vnum 4634
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4626
+Nest 0
+Cond 0
+Wear -1
+Cost 2250
+End
+
+#END

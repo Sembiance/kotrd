@@ -1,0 +1,1535 @@
+#AREADATA
+Name Falcovnia~
+Builders Argon~
+VNUMs 7500 7699
+Credits 75-100~
+Security 9
+Flags BE
+LEVELs 75 100
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#7500
+soul light~
+{MS{mo{Mu{ml{x~
+A soul, emitting a bright light, floats here.~
+MAGIC_ENERGY light_source ATY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 0 40000 P
+A
+14 350
+A
+12 350
+A
+13 500
+A
+18 20
+A
+19 20
+A
+3 5
+A
+20 -50
+A
+17 -100
+#7501
+vision gem~
+{YV{yi{Ys{yi{Yo{yn{x~
+A gem of some sort lies here.~
+MAGIC_ENERGY segment BT A
+CDGIKLM BCDGIKLM 0 0 0
+100 5 40000 P
+E
+joinmsg~
+A screaming sound pierces your ears as the two gems unite.
+~
+#7502
+sound gem~
+{RS{ro{Ru{rn{Rd{x~
+You hear a sound here.~
+MAGIC_ENERGY segment BT A
+CDGIKLM ACDGIKLM 0 0 0
+100 5 40000 P
+E
+joinmessage~
+A screaming sound pierces your ears as the two gems unite.
+~
+#0
+
+
+
+#ROOMS
+#7500
+The Misty Border~
+You stumble across a small path with deep wheel ruts, better watch your
+step.  The path is very hard to see from all the misty fog rolling in off
+the rice fields to the northeast.  Many Matsu trees have grown into a wall
+along each side of the road, making the possibility of seeing what lies to
+the east and west undiscerning.  To the north the misty path continues.  
+~
+0 0 13
+D0
+~
+~
+0 0 7501
+C 0
+S
+#7501
+The Misty Border~
+You are on a small path with deep wheel ruts.  The path is very hard to
+see from all the misty fog rolling in off the rice fields to the east.  Many
+Matsu trees have grown into a wall along the west side of the road, making
+the possibility of seeing what lies in that direction undiscerning.  To the
+north the path slims to a trail up Mt.  Naeba, while to the east is a rice
+field.  
+~
+0 0 13
+D0
+~
+~
+0 0 7502
+D1
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7500
+C 0
+S
+#7502
+Trail up Mt. Naeba~
+You are on a small trail leading up the mountain of Naeba.  The Momiji
+trees grow wildly along the trail here in beautiful rows, the colors are
+exquisite.  The misty fog has lifted here as you ascend up the side of the
+mountain.  To the south the trail widens into a small path where the fog is
+is very dense.  To the north the trail continues.  
+~
+0 0 13
+D0
+~
+~
+0 0 7503
+D2
+~
+~
+0 0 7501
+C 0
+S
+#7503
+Trail up Mt. Naeba~
+You are on a small trail leading up the mountain of Naeba.  The Momiji
+trees grow wildly along the trail here in beautiful rows, the colors are
+exquisite.  The misty fog has lifted completely as you ascend further up the
+side of the mountain.  
+~
+0 0 13
+D0
+~
+~
+0 0 7504
+D2
+~
+~
+0 0 7502
+C 0
+S
+#7504
+Foot of the Balinoks~
+~
+0 0 13
+D1
+~
+~
+0 0 7505
+D2
+~
+~
+0 0 7503
+C 0
+S
+#7505
+Pass up the Mountain~
+~
+0 0 0
+D3
+~
+~
+0 0 7504
+D4
+~
+~
+0 0 7506
+C 0
+S
+#7506
+Heading up the Pass~
+~
+0 0 0
+D4
+~
+~
+0 0 7507
+D5
+~
+~
+0 0 7505
+C 0
+S
+#7507
+Before a Large Cave~
+You stand before the mouth of a large cave.  A few rare Dwarf Hinoki
+Cypress Bonsai grow to the sides of the entrance.  The fine textured dark
+green foliage gives off a nice evergreen smell that crispens the air.  There
+is a ledge leading down, and to the north lies the cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 7508
+D5
+~
+~
+0 0 7506
+C 0
+S
+#7508
+Entrance to the Cave~
+You have entered the mouth of a large cave.  Stalactites cling to the
+cavern roof, dripping a steady stream of watery minerals from their tips. 
+The walls are completely covered with large calcite crystals and therefore
+makes the cave very attractive.  The room is floored with mud containing
+numerous bones.  Any passages which might continue are filled with silt. 
+Total depth of the cave is about 35 ft.  To the south lies the exit to the
+cavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 7509
+D2
+~
+~
+0 0 7507
+C 0
+S
+#7509
+The Griffons' Roost~
+You stand at the end of the cavern, the darkness seems to encompass you. 
+The light just barley trickles in from the mouth of the cave.  A large nest
+made from strands of gold sits in front of you, it gleams dimly off the
+light peeking in the cave.  If you could only grab just a handful of these,
+you would be set for life.  A large bird-like creature blocks your path. 
+The creature has the head and wings of an eagle, the body of a lion and a
+long snake for a tail.  The only exit is the way you came in.  
+~
+0 8205 1
+D2
+~
+~
+0 0 7508
+C 0
+S
+#7510
+A Road~
+~
+0 0 0
+D0
+~
+~
+0 0 7511
+D1
+~
+~
+0 0 7520
+D2
+~
+~
+0 0 7519
+D3
+~
+~
+0 0 7501
+C 0
+S
+#7511
+A Wheat Field~
+~
+0 0 0
+D1
+~
+~
+0 0 7512
+D2
+~
+~
+0 0 7510
+C 0
+S
+#7512
+A Wheat Field~
+~
+0 0 0
+D1
+~
+~
+0 0 7513
+D2
+~
+~
+0 0 7520
+D3
+~
+~
+0 0 7511
+C 0
+S
+#7513
+A Wheat Field~
+~
+0 0 0
+D1
+~
+~
+0 0 7514
+D2
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7512
+C 0
+S
+#7514
+A Wheat Field~
+~
+0 0 0
+D2
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7513
+C 0
+S
+#7515
+The Road to Lekar~
+~
+0 0 0
+D0
+~
+~
+0 0 7514
+D1
+~
+~
+0 0 7522
+D2
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7521
+C 0
+S
+#7516
+A Wheat Field~
+~
+0 0 0
+D0
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7517
+C 0
+S
+#7517
+A Wheat Field~
+~
+0 0 0
+D0
+~
+~
+0 0 7521
+D1
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7518
+C 0
+S
+#7518
+A Wheat Field~
+~
+0 0 0
+D0
+~
+~
+0 0 7520
+D1
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7519
+C 0
+S
+#7519
+A Wheat Field~
+~
+0 0 0
+D0
+~
+~
+0 0 7510
+D1
+~
+~
+0 0 7518
+C 0
+S
+#7520
+The Road to Lekar~
+~
+0 0 0
+D0
+~
+~
+0 0 7512
+D1
+~
+~
+0 0 7521
+D2
+~
+~
+0 0 7518
+D3
+~
+~
+0 0 7510
+C 0
+S
+#7521
+The Road to Lekar~
+~
+0 0 0
+D0
+~
+~
+0 0 7513
+D1
+~
+~
+0 0 7515
+D2
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7520
+C 0
+S
+#7522
+The Road to Lekar~
+~
+0 0 0
+D1
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7515
+C 0
+S
+#7523
+The Road to Lekar~
+~
+0 0 0
+D1
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7522
+C 0
+S
+#7524
+The Road to Lekar~
+~
+0 0 0
+D1
+~
+~
+0 0 7525
+D3
+~
+~
+0 0 7523
+C 0
+S
+#7525
+Lekarian Patrol Outpost~
+~
+0 0 0
+D1
+~
+~
+0 0 7526
+D3
+~
+~
+0 0 7524
+C 0
+S
+#7526
+The Road to Lekar~
+~
+0 0 0
+D0
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7525
+C 0
+S
+#7527
+The Stone Gates of Lekar~
+~
+0 0 0
+D0
+~
+~
+0 0 7528
+D2
+~
+~
+0 0 7526
+C 0
+S
+#7528
+Dragon Street South~
+~
+0 0 0
+D0
+~
+~
+0 0 7531
+D1
+~
+~
+0 0 7529
+D2
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7530
+C 0
+S
+#7529
+House of Slovaasa~
+~
+0 0 0
+D3
+~
+~
+0 0 7528
+C 0
+S
+#7530
+The Marklov Hotel~
+~
+0 0 0
+D1
+~
+~
+0 0 7528
+C 0
+S
+#7531
+Dragon Street South~
+~
+0 0 0
+D0
+~
+~
+0 0 7534
+D1
+~
+~
+0 0 7532
+D2
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7533
+C 0
+S
+#7532
+The Shrine of Lathander~
+~
+0 0 0
+D3
+~
+~
+0 0 7531
+C 0
+S
+#7533
+The Home of Nels Sklovarich~
+~
+0 0 0
+D1
+~
+~
+0 0 7531
+C 0
+S
+#7534
+Dragon Street~
+~
+0 0 0
+D0
+~
+~
+0 0 7537
+D1
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7531
+D3
+~
+~
+0 0 7536
+C 0
+S
+#7535
+The Home of Ivan Romanov~
+~
+0 0 0
+D3
+~
+~
+0 0 7534
+C 0
+S
+#7536
+A Peasant Hovel~
+~
+0 0 0
+D1
+~
+~
+0 0 7534
+C 0
+S
+#7537
+Dragon Street~
+~
+0 0 0
+D0
+~
+~
+0 0 7540
+D1
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7539
+C 0
+S
+#7538
+Leonard Stravanos' Apothecary~
+~
+0 0 0
+D3
+~
+~
+0 0 7537
+C 0
+S
+#7539
+The Lekar General Store~
+~
+0 0 0
+D1
+~
+~
+0 0 7537
+C 0
+S
+#7540
+The Intersection of Dragon and Falcon Streets~
+~
+0 0 0
+D0
+~
+~
+0 0 7562
+D1
+~
+~
+0 0 7541
+D2
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7549
+C 0
+S
+#7541
+Falcon Street East~
+~
+0 0 0
+D1
+~
+~
+0 0 7542
+D3
+~
+~
+0 0 7540
+C 0
+S
+#7542
+Falcon Street East~
+~
+0 0 0
+D0
+~
+~
+0 0 7544
+D1
+~
+~
+0 0 7545
+D2
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 7541
+C 0
+S
+#7543
+Colonel Striktun's Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 7542
+C 0
+S
+#7544
+Lieutenant Lludanyl's Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 7542
+C 0
+S
+#7545
+Falcon Street East~
+~
+0 0 0
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7546
+D3
+~
+~
+0 0 7542
+C 0
+S
+#7546
+Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 7545
+C 0
+S
+#7547
+Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 7545
+C 0
+S
+#7548
+Falcon Street Dead End~
+~
+0 0 0
+D3
+~
+~
+0 0 7545
+C 0
+S
+#7549
+Falcon Street West~
+~
+0 0 0
+D0
+~
+~
+0 0 7551
+D1
+~
+~
+0 0 7540
+D2
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7553
+C 0
+S
+#7550
+Sergeant Domerov's Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 7549
+C 0
+S
+#7551
+Captain Barnakov's Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 7549
+D5
+~
+~
+0 0 7552
+C 0
+S
+#7552
+Vampyre's Lair~
+~
+0 0 0
+D4
+~
+~
+0 0 7551
+C 0
+S
+#7553
+Falcon Street West~
+~
+0 0 0
+D0
+~
+~
+0 0 7554
+D1
+~
+~
+0 0 7549
+D2
+~
+~
+0 0 7555
+D3
+~
+~
+0 0 7556
+C 0
+S
+#7554
+Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 7553
+C 0
+S
+#7555
+Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 7553
+C 0
+S
+#7556
+Falcon Street West~
+~
+0 0 0
+D0
+~
+~
+0 0 7558
+D1
+~
+~
+0 0 7553
+D2
+~
+~
+0 0 7557
+D3
+~
+~
+0 0 7559
+C 0
+S
+#7557
+Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 7556
+C 0
+S
+#7558
+Barracks~
+~
+0 0 0
+D2
+~
+~
+0 0 7556
+C 0
+S
+#7559
+The Gallows~
+~
+0 0 0
+D0
+~
+~
+0 0 7561
+D1
+~
+~
+0 0 7556
+D2
+~
+~
+0 0 7560
+C 0
+S
+#7560
+The Screaming Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 7559
+C 0
+S
+#7561
+The Executioner's Post~
+~
+0 0 0
+D2
+~
+~
+0 0 7559
+C 0
+S
+#7562
+Dragon Street North~
+~
+0 0 0
+D0
+~
+~
+0 0 7565
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7540
+D3
+~
+~
+0 0 7564
+C 0
+S
+#7563
+Shrine to Imatier~
+~
+0 0 0
+D3
+~
+~
+0 0 7562
+C 0
+S
+#7564
+Falcovnian Military Recruitment Office~
+~
+0 0 0
+D1
+~
+~
+0 0 7562
+C 0
+S
+#7565
+Dragon Street North~
+~
+0 0 0
+D0
+~
+~
+0 0 7568
+D1
+~
+~
+0 0 7566
+D2
+~
+~
+0 0 7562
+D3
+~
+~
+0 0 7567
+C 0
+S
+#7566
+Barracks~
+~
+0 0 0
+D3
+~
+~
+0 0 7565
+C 0
+S
+#7567
+A Peasant Hovel~
+~
+0 0 0
+D1
+~
+~
+0 0 7565
+C 0
+S
+#7568
+Dragon Street North~
+~
+0 0 0
+D0
+~
+~
+0 0 7569
+D2
+~
+~
+0 0 7565
+C 0
+S
+#7569
+Approaching Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7570
+D2
+~
+~
+0 0 7568
+C 0
+S
+#7570
+Approaching Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7571
+D2
+~
+~
+0 0 7569
+C 0
+S
+#7571
+The Entrance to Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7572
+D2
+~
+~
+0 0 7570
+C 0
+S
+#7572
+Inside Castle Drakov~
+~
+0 0 0
+D2
+~
+~
+0 0 7571
+D3
+~
+~
+0 0 7573
+C 0
+S
+#7573
+The Halls of Castle Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7572
+D3
+~
+~
+0 0 7574
+C 0
+S
+#7574
+The Halls of Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7575
+D1
+~
+~
+0 0 7573
+C 0
+S
+#7575
+The Halls of Castle Drakov~
+~
+0 0 0
+D2
+~
+~
+0 0 7574
+D3
+~
+~
+0 0 7576
+C 0
+S
+#7576
+A Sentry post~
+~
+0 0 0
+D0
+~
+~
+0 0 7577
+D1
+~
+~
+0 0 7575
+C 0
+S
+#7577
+The Halls of Castle Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7578
+D2
+~
+~
+0 0 7576
+C 0
+S
+#7578
+The Halls of Castle Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7579
+D3
+~
+~
+0 0 7577
+C 0
+S
+#7579
+A Sentry post~
+~
+0 0 0
+D2
+~
+~
+0 0 7580
+D3
+~
+~
+0 0 7578
+C 0
+S
+#7580
+The Halls of Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7579
+D1
+~
+~
+0 0 7581
+C 0
+S
+#7581
+The Halls of Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7582
+D3
+~
+~
+0 0 7580
+C 0
+S
+#7582
+Guards Patrolling the Halls~
+~
+0 0 0
+D0
+~
+~
+0 0 7583
+D2
+~
+~
+0 0 7581
+C 0
+S
+#7583
+The Halls of Castle Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7584
+D2
+~
+~
+0 0 7582
+C 0
+S
+#7584
+Before the Dungeon~
+~
+0 0 0
+D2
+~
+~
+0 0 7590
+D3
+~
+~
+0 0 7583
+D5
+~
+~
+0 0 7585
+C 0
+S
+#7585
+Dungeons of Vlad Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7586
+D2
+~
+~
+0 0 7589
+D4
+~
+~
+0 0 7584
+C 0
+S
+#7586
+Dungeons of Vlad Drakov~
+~
+0 0 0
+D1
+~
+~
+0 0 7587
+D2
+~
+~
+0 0 7588
+D3
+~
+~
+0 0 7585
+C 0
+S
+#7587
+Dungeons of Vlad Drakov~
+~
+0 0 0
+D3
+~
+~
+0 0 7586
+C 0
+S
+#7588
+Dungeons of Vlad Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7586
+D3
+~
+~
+0 0 7589
+C 0
+S
+#7589
+Dungeons of Vlad Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7585
+D1
+~
+~
+0 0 7588
+C 0
+S
+#7590
+The Halls of Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7584
+D3
+~
+~
+0 0 7591
+C 0
+S
+#7591
+A Sentry Post~
+~
+0 0 0
+D1
+~
+~
+0 0 7590
+D2
+~
+~
+0 0 7592
+C 0
+S
+#7592
+The Halls of Castle Drakov~
+~
+0 0 0
+D0
+~
+~
+0 0 7591
+D1
+~
+~
+0 0 7593
+C 0
+S
+#7593
+The Halls of Castle Drakov~
+~
+0 0 0
+D2
+~
+~
+0 0 7594
+D3
+~
+~
+0 0 7592
+C 0
+S
+#7594
+Approaching the Balcony~
+~
+0 0 0
+D0
+~
+~
+0 0 7593
+D3
+~
+~
+0 0 7595
+C 0
+S
+#7595
+Before the Balcony Stairs~
+~
+0 0 0
+D1
+~
+~
+0 0 7594
+D4
+~
+~
+0 0 7597
+C 0
+S
+#7597
+The Balcony of Vlad Drakov~
+~
+0 0 0
+D5
+~
+~
+0 0 7595
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

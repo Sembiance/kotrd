@@ -1,0 +1,83 @@
+#PLAYER
+Name Belial~
+Id   1091664358
+LogO 1091665077
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Dwarf~
+Sex  1
+Cla  3
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 719
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  1 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  26017
+PAct  QTd
+AfBy F
+Empower  0
+WName Belial~
+Comm NO
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 16 11 12 16 18
+AMod 0 0 0 0 0
+Pass BeQgHHcx9MUMY~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 132
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 36 42 42
+Sk 1 'identify'
+Sk 40 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'backstab'
+Sk 1 'berserk'
+Sk 1 'circle'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Gr 'identify spell'
+End
+
+#END

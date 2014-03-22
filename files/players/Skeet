@@ -1,0 +1,644 @@
+#PLAYER
+Name Skeet~
+Id   1093393100
+LogO 1106883759
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Sidhe Elf~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 7
+Levl 42
+OldLvl 42
+Sec  0
+Plyd 233066
+Scro 33
+Room 3054
+HMV  676 676 604 604 466 466
+Gold 5329
+Silv 60
+Gold_bank 58657
+Silv_bank 0
+Shares 0
+Share_level 42
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  104950
+QuestPnts 105
+PAct  DEGTbd
+AfBy DFV
+WName Skeet~
+Comm FKNO
+RaceChan 0
+Deaf P
+Pos  8
+Prac 24
+Save  -62
+Alig  -977
+Hit   192
+Dam   43
+ACs -47 -50 -50 0
+Attr 14 26 23 15 16
+AMod 16 2 4 5 5
+Pass SkoGFa84bXXbQ~
+Titl  how is title command used?~
+Pnts 45
+TSex 1
+PSize 4
+LLev 61
+HMVP 391 464 396
+Cnd  0 0 -1 -1
+Boards       4 General 1104527061 Ideas 1104629117 Announce 1104975611 Personal 0 
+Sk 1 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 77 'colour spray'
+Sk 84 'fireball'
+Sk 80 'acid blast'
+Sk 75 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 75 'charm person'
+Sk 1 'haste'
+Sk 75 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 84 'lightning bolt'
+Sk 75 'cause light'
+Sk 1 'cause serious'
+Sk 76 'protection good'
+Sk 1 'cause critical'
+Sk 1 'dispel good'
+Sk 71 'harm'
+Sk 75 'detect evil'
+Sk 76 'detect good'
+Sk 46 'detect hidden'
+Sk 1 'armor'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'farsight'
+Sk 75 'fly'
+Sk 1 'floating disc'
+Sk 76 'gate'
+Sk 75 'giant strength'
+Sk 75 'identify'
+Sk 1 'infravision'
+Sk 75 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 100 'backstab'
+Sk 75 'bash'
+Sk 75 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 99 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 99 'third attack'
+Sk 86 'fast healing'
+Sk 76 'haggle'
+Sk 38 'meditation'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 80 'spellcraft'
+Sk 1 'create zombie'
+Sk 1 'metamorph'
+Sk 1 'multiburst'
+Sk 81 'forsake'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'antipaladin basics'
+Gr 'beguiling'
+Gr 'creation'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'antipaladin spells'
+Affc 'giant strength'   0 437 254   4   1          0
+Affc 'stone skin'   0 457 254 -40  17          0
+Affc 'bless'   0 446   4 -62  20          0
+Affc 'bless'   0 458   4 125  18          0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3009
+Nest 0
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 15166
+Nest 0
+Cond 0
+Wear -1
+Cost -200
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4712
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  25
+Cost 1630
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'reserved'   1  24  -1  -1   1          0
+End
+
+#O
+Vnum 25121
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 10294
+Nest 0
+Cond 0
+Wear 5
+Cost 700
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2276
+Nest 0
+Cond 0
+Wear 12
+Cost 1910
+End
+
+#O
+Vnum 15163
+Enchanted
+Nest 0
+ExtF 4691
+Cond 0
+Wear 19
+Lev  36
+Cost 1000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  35  -1   8  19          0
+Affc 'reserved'   1  35  -1   8  18          0
+Affc 'reserved'   1  35  -1 -15  17          0
+Affc 'reserved'   1  35  -1  15  13          0
+Affc 'reserved'   1  35  -1  20  12          0
+Affc 'reserved'   1  35  -1   2   1          0
+End
+
+#O
+Vnum 9232
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  30
+Cost 0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 21217
+Nest 0
+Cond 0
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 13400
+Enchanted
+Nest 0
+ExtF 582
+Cond 0
+Wear 16
+Lev  41
+Cost 34799
+Affc 'reserved'   1  40  -1  10  18          0
+Affc 'reserved'   1  40  -1  10  19          0
+Affc 'reserved'   1  40  -1   2   1          0
+Affc 'reserved'   1  40  -1   5   1          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  30
+Cost 2800
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#END

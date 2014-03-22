@@ -1,0 +1,491 @@
+#PLAYER
+Name SniperViper~
+Id   1130559147
+LogO 1141610083
+Vers 5
+Prom <%hhp/%Hhp %mmp/%Mmp %vspc/%Vspc {GN{gext:{x%X %K> ~
+Race Draconian~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 36
+OldLvl 36
+Sec  0
+Plyd 171484
+Scro 33
+Room 21235
+HMV  847 847 327 327 400 400
+Gold 198
+Silv 198
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 36
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  64833
+QuestPnts 323
+PAct  DEFGQTd
+AfBy HJTV
+WName SniperViper~
+Comm FINO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 5
+Alig  -1000
+Hit   6
+Dam   12
+ACs -86 -88 -89 12
+Attr 24 17 17 15 19
+AMod 2 0 1 8 0
+Pass SnhYu/rvXEH9c~
+Titl  {c[{RR{rebirth{c]{x~
+Pnts 56
+TSex 1
+PSize 3
+LLev 47
+HMVP 607 182 310
+Cnd  0 14 7 42
+Alias c compare~
+Alias qs quest stop~
+Alias qw quest request~
+Alias qc quest complete~
+Alias qr quest request~
+Alias g get all cor~
+Alias e east~
+Alias qt quest time~
+Alias sco scoreold~
+Alias comp compare~
+Alias ql quest list~
+Alias m map~
+Alias p prac~
+Alias 1 bli~
+Alias 2 bash~
+Alias ii l in back~
+Alias 0 get orb~
+Alias 9 flee~
+Boards       4 General 1141355629 Ideas 1126580477 Announce 1104975611 Personal 0 
+Sk 100 'blightning'
+Sk 88 'sword'
+Sk 91 'dagger'
+Sk 75 'spear'
+Sk 100 'mace'
+Sk 75 'axe'
+Sk 1 'flail'
+Sk 75 'whip'
+Sk 25 'polearm'
+Sk 40 'exotic'
+Sk 90 'bash'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 19 'kick'
+Sk 80 'dodge'
+Sk 81 'parry'
+Sk 1 'shield block'
+Sk 87 'second attack'
+Sk 76 'third attack'
+Sk 76 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Affc 'armor'   0  32   0 -20  17          0
+Affc 'energy shield'   0  25  19 -20  17          0
+Affc 'haste'   0  10   4   1   2    2097152
+Affc 'sanctuary'   0  20   2   0   0        128
+End
+
+#O
+Vnum 16066
+Nest 0
+Cond 0
+Wear 9
+Cost 989
+End
+
+#O
+Vnum 2410
+Nest 0
+Cond 0
+Wear 5
+Cost 6430
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 9233
+Nest 0
+Cond 0
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 9204
+Nest 0
+Cond 0
+Wear 4
+Cost 3100
+End
+
+#O
+Vnum 9204
+Nest 0
+Cond 0
+Wear 3
+Cost 3100
+End
+
+#O
+Vnum 7300
+Nest 0
+Cond 0
+Wear 20
+Cost 0
+Val  60 1 0 6 100
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 737
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 577
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 784
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 457
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 646
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 9210
+Nest 0
+Cond 0
+Wear 12
+Cost 3000
+End
+
+#O
+Vnum 9205
+Nest 0
+Cond 0
+Wear 8
+Cost 5200
+End
+
+#O
+Vnum 9206
+Nest 0
+Cond 0
+Wear 6
+Cost 3800
+End
+
+#O
+Vnum 9233
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 25402
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+Val  200000 199964 25 0 0
+End
+
+#O
+Vnum 21233
+Nest 0
+Cond 0
+Wear 15
+Cost 1500
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#END

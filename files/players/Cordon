@@ -1,0 +1,75 @@
+#PLAYER
+Name Cordon~
+Id   1104788629
+LogO 1161383052
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 677
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1285
+PAct  DEFGQTd
+WName Cordon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Save  -31
+Alig  973
+Hit   62
+ACs 100 100 100 100
+Attr 18 15 17 14 15
+AMod 0 0 0 0 0
+Pass CoUK144da4Dz2~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 36 42 42
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'giant strength'
+Sk 75 'sword'
+Sk 1 'dagger'
+Sk 1 'bash'
+Sk 1 'dirt kicking'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 65 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior spells'
+Affc 'bless'   0 250 125 -31  20          0
+Affc 'bless'   0 250 125  62  18          0
+End
+
+#END

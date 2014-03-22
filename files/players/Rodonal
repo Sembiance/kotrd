@@ -1,0 +1,407 @@
+#PLAYER
+Name Rodonal~
+Id   1100582858
+LogO 1117213906
+Vers 5
+Prom %hhp %mm %vmv %Xtnl %K ~
+Race Human~
+Clan Malice~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 95
+OldLvl 95
+Sec  0
+Plyd 438006
+Scro 33
+Room 3061
+HMV  3639 3639 751 751 1623 1623
+Gold 172
+Silv 279
+Gold_bank 22300
+Silv_bank 0
+Shares 0
+Share_level 95
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  95205
+QuestPnts 1301
+PAct  DEFGQTcd
+WName Rodonal~
+Comm EFNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 7
+Trai 11
+Save  -8
+Alig  1000
+Hit   195
+Dam   171
+ACs -282 -287 -287 -308
+Attr 21 18 18 18 18
+AMod 22 0 -5 20 4
+Pass RoQ9DSgKkqlRo~
+Titl  Nei'Thar Kells~
+Pnts 40
+TSex 1
+PSize 2
+LLev 121
+HMVP 1394 326 668
+Cnd  0 0 19 0
+Alias ccs cast 'cure serious' Rodonal~
+Alias exa look in~
+Alias cbr cast bless Rodonal~
+Alias ccc cast 'cure critical' Rodonal~
+Alias cwr cast 'word of recall' Rodonal~
+Alias hr cast 'heal' rodonal~
+Alias he cast 'heal' epyon~
+Alias tuck emote tucks his shirt in.~
+Alias san cast 'sanctuary' Rodonal~
+Alias blink emote blinks stupidly...like a cartoon character.~
+Alias cdr cast 'cure disease' rodonal~
+Alias cpr cast 'protection evil' rodonal~
+Alias chr cast 'heal' rithjin~
+Alias chrr cast 'heal' rithjin~
+Boards       4 General 1102345742 Ideas 1101961480 Announce 1102304463 Personal 0 
+Sk 75 'cure light'
+Sk 75 'bless'
+Sk 89 'cure serious'
+Sk 75 'protection evil'
+Sk 76 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'dispel evil'
+Sk 87 'heal'
+Sk 75 'detect evil'
+Sk 76 'sanctuary'
+Sk 77 'word of recall'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 63 'spear'
+Sk 33 'mace'
+Sk 1 'axe'
+Sk 30 'flail'
+Sk 1 'polearm'
+Sk 61 'bash'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 94 'dodge'
+Sk 99 'parry'
+Sk 100 'second attack'
+Sk 93 'third attack'
+Sk 77 'haggle'
+Sk 76 'meditation'
+Sk 50 'recall'
+Sk 92 'critical strike'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+Affc 'bless'   0  66   8  -8  20          0
+Affc 'bless'   0  60   8  17  18          0
+Affc 'energy shield'   0  63  52 -20  17          0
+Affc 'armor'   0  87  13 -20  17          0
+Affc 'giant strength'   0  65  44   4   1          0
+End
+
+#O
+Vnum 25308
+Nest 0
+Cond 0
+Wear 0
+Cost 3000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 23225
+Nest 0
+Cond 0
+Wear 6
+Cost 10000
+End
+
+#O
+Vnum 11894
+Nest 0
+Cond 0
+Wear 10
+Cost 7500
+End
+
+#O
+Vnum 25301
+Nest 0
+Cond 0
+Wear 1
+Cost 120000
+End
+
+#O
+Vnum 23215
+Nest 0
+Cond 0
+Wear 7
+Cost 60000
+End
+
+#O
+Vnum 31214
+Nest 0
+Cond 0
+Wear 5
+Cost 900
+End
+
+#O
+Vnum 23227
+Nest 0
+Cond 0
+Wear 2
+Cost 10000
+End
+
+#O
+Vnum 11859
+Nest 0
+Cond 0
+Wear 15
+Cost 8000
+End
+
+#O
+Vnum 11864
+Nest 0
+Cond 0
+Wear 13
+Cost 7900
+End
+
+#O
+Vnum 11860
+Nest 0
+Cond 0
+Wear 3
+Cost 12000
+End
+
+#O
+Vnum 11860
+Nest 0
+Cond 0
+Wear 4
+Cost 12000
+End
+
+#O
+Vnum 11862
+Nest 0
+Cond 0
+Wear 8
+Cost 8900
+End
+
+#O
+Vnum 11866
+Nest 0
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 11859
+Nest 0
+Cond 0
+Wear 14
+Cost 8000
+End
+
+#O
+Vnum 20400
+Nest 0
+Cond 0
+Wear 18
+Cost 5000
+End
+
+#O
+Vnum 7505
+Nest 0
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#O
+Vnum 2501
+Nest 0
+ShD  {DR{wo{Dd{wo{Dn{wa{Dl{w'{Ds Ma{gl{Dice P{wa{Dc{wk {Do{wf {DF{wl{Da{wy{De{wd Skins{x~
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 2502
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2503
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  110 0 16 0 0
+End
+
+#O
+Vnum 19804
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  80
+Cost 37500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 10649
+Enchanted
+Nest 1
+ExtF 16778567
+Cond 0
+Wear -1
+Lev  65
+Cost 150000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  64  -1 -10  24          0
+Affc 'reserved'   1  64  -1   9  19          0
+Affc 'reserved'   1  64  -1   9  18          0
+Affc 'reserved'   1  64  -1  35  17          0
+Affc 'reserved'   1  64  -1 -100  14          0
+Affc 'reserved'   1  64  -1 150  13          0
+Affc 'reserved'   1  64  -1  50  12          0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  64 32 0 0 0
+End
+
+#O
+Vnum 3035
+Nest 0
+Cond 0
+Wear 19
+Cost 22342
+End
+
+#O
+Vnum 6739
+Nest 0
+Cond 0
+Wear 9
+Cost 20000
+End
+
+#O
+Vnum 3027
+Nest 0
+Cond 0
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 3026
+Nest 0
+Cond 0
+Wear -1
+Cost 650
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 0
+Wear -1
+Cost 385
+End
+
+#O
+Vnum 3029
+Nest 0
+Cond 0
+Wear -1
+Cost 77
+End
+
+#O
+Vnum 23231
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 23231
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 25310
+Nest 0
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#END

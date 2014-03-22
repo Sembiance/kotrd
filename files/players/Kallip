@@ -1,0 +1,811 @@
+#PLAYER
+Name Kallip~
+Id   1154869269
+LogO 1156767375
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Draconian~
+Sex  2
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 23
+OldLvl 23
+Sec  0
+Plyd 70778
+Scro 33
+Room 3054
+HMV  32 354 164 164 69 252
+Gold 4842
+Silv 12092
+Gold_bank 10000
+Silv_bank 0
+Shares 0
+Share_level 23
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  46790
+QuestPnts 96
+QuestNext 5
+PAct  CDEFGHQTd
+AfBy JT
+WName Kallip~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 20
+Trai 10
+Save  -2
+Alig  -1000
+Hit   41
+Dam   35
+ACs 16 19 19 68
+Wimp  10
+Attr 22 17 17 17 19
+AMod 1 1 1 2 1
+Pass KayewDg9po.ZI~
+Titl  nahtin~
+Pnts 60
+TSex 2
+PSize 3
+LLev 19
+HMVP 258 149 232
+Cnd  0 36 45 12
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'identify'
+Sk 1 'sword'
+Sk 81 'dagger'
+Sk 75 'backstab'
+Sk 1 'bash'
+Sk 1 'circle'
+Sk 71 'kick'
+Sk 74 'dodge'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'pick lock'
+Sk 28 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'identify spell'
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 5794
+Nest 0
+Cond 0
+Wear 12
+Cost -700
+End
+
+#O
+Vnum 5813
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 43
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'combat mind'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 2
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 2
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 2
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 2
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 2
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 2
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 2
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 2
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 2
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 2
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1100
+Nest 1
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 15147
+Nest 1
+Cond 0
+Wear -1
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 1
+Cond 0
+Wear -1
+Cost -200
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 1
+ExtF 64
+Cond 0
+Wear -1
+Lev  1
+Cost 122
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 624
+Nest 0
+Cond 0
+Wear 8
+Cost 1280
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear 5
+Cost 1280
+End
+
+#O
+Vnum 3289
+Nest 0
+Cond 0
+Wear -1
+Time 567
+Cost 200
+Spell 1 'armor'
+End
+
+#O
+Vnum 43
+Nest 0
+Name reeses peanut butter cup Stumpy~
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'combat mind'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 43
+Nest 0
+Name reeses peanut butter cup Stumpy~
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'golden aura'
+Spell 2 'combat mind'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Time 909
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 687
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 918
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 785
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Time 147
+Cost 0
+Affc 'reserved'   1  10  -1   4  18          0
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 832
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 872
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 666
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 959
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 605
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Time 753
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 4450
+Enchanted
+Nest 0
+Name carving knife Stumpy~
+ExtF 64
+Cond 0
+Wear 16
+Lev  20
+Cost 3700
+Affc 'enchant weapon'   0 125  -1  25  18          0
+Affc 'enchant weapon'   1 125  -1  12  19          0
+Affc 'reserved'   1  19  -1   3  18          0
+Affc 'reserved'   1  19  -1   3  19          0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 483 0 0
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear -1
+Cost 380
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#END

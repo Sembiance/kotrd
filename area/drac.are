@@ -1,0 +1,2184 @@
+#AREADATA
+Name Draconian Village~
+Builders Argon~
+VNUMs 24100 24199
+Credits 35 -  50~
+Security 9
+Flags 0
+LEVELs 35 50
+End
+
+
+
+#MOBILES
+#24100
+Draconian Villager~
+Draconian Villager~
+{cA Draconian Villager stands here.{x
+~
+A draconian stands here, not even noticing you.  
+~
+Draconian~
+AG JT -500 0
+0
+44 80 1d1+2500 99d1+1 1d1+60 punch
+-7 -7 -7 -7
+0 0 HJK 0
+stand stand male 1320
+FUZ ABCDEFGHIJKPQUVX medium unknown
+F for ABCHMc
+#24101
+Draconian Thief~
+Draconian Thief~
+A draconian thief is here with a mischievous grin on his face.
+~
+At closer inspection you notice he has quite a bit of gold on him!{x
+~
+Draconian~
+ABCS JT -300 0
+0
+45 100 1d1+3500 99d1+1 1d1+70 punch
+-9 -9 -9 -9
+F 0 HJK 0
+stand stand male 2250
+FUZ ABCDEFGHIJKPQUVX large unknown
+F for ABCHMc
+#24102
+Elder Draconian~
+Village Elder~
+The village elder stands here preaching.
+~
+The Village Elder stands here waiting to teach his young followers.  
+~
+Draconian~
+ABR HJT -100 0
+0
+43 80 1d1+2500 99d1+1 1d1+60 punch
+-7 -7 -7 -7
+F 0 HJK 0
+stand stand male 1290
+FUZ ABCDEFG large unknown
+F for ABCHMc
+F par HIJKPQUVX
+#24103
+Draconian Darklord~
+Draconian Darklord~
+{cThe Draconian Darklord stands here.{x
+~
+The Draconian Darklord stands here chanting.
+~
+Human~
+AB 0 -500 0
+0
+53 0 25d10+3750 99d1+1 6d6+18 punch
+-18 -18 -18 3
+0 0 0 0
+stand stand male 409
+AHMVZ ABCDEFGHIJKMV medium unknown
+#24104
+Draconian Guard~
+Draconian Guard~
+{cA Draconian Guard stands here.{x
+~
+Underpayed, undernourished and tired, he is still alert enough to prevent
+prisoners from escaping.  
+~
+Draconian~
+AB JT -1000 0
+0
+46 100 1d1+3500 99d1+1 1d1+70 punch
+-8 -8 -8 -8
+FN 0 HJK 0
+stand stand male 2300
+FUZ ABCDEFGHIJKPQUVX large unknown
+F for ABCHMc
+#24105
+Draconian Priest~
+Draconian Priest~
+A Draconian Priest stands here.
+~
+A Draconian Priest stands here chanting and waiting for more followers.
+~
+Draconian~
+ABQ HJT -500 0
+0
+40 80 1d1+2500 99d1+1 1d1+60 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1200
+FUZ ABCDEFGHIJKQUVX large unknown
+F for ABCHMc
+F par P
+#24106
+Draconian Thief~
+Draconian Thief~
+A draconian thief is here with a mischievous grin on his face.
+~
+At closer inspection you notice he has quite a bit of gold on him!{x
+~
+Draconian~
+ABCS JT -300 0
+0
+45 100 1d1+3500 99d1+1 1d1+70 punch
+-9 -9 -9 -9
+F 0 HJK 0
+stand stand male 2250
+FUZ ABCDEFGHIJKPQUVX large unknown
+F for ABCHMc
+#24107
+Draconian women~
+Draconian Women~
+A Draconian women stands here.
+~
+The tired draconian mother stares at you from underneath her heavy robes.  
+~
+Human~
+AB 0 -200 0
+0
+36 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand female 1080
+AHMVZ ABCDEFGHIJKMV medium unknown
+#24108
+Draconian women~
+Draconian Women~
+A Draconian women stands here.
+~
+The tired draconian mother stares at you from underneath her heavy robes.  
+~
+Human~
+AB 0 -200 0
+0
+36 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand female 1080
+AHMVZ ABCDEFGHIJKMV medium unknown
+#24109
+Merchant~
+A Merchant~
+A merchant is here, greedily ripping off fellow traders.
+~
+Concealed partly by the shadows, this merchant makes a living by
+scandalizing innocent people.  His eyes light up as he views you as a new
+customer.  
+~
+Draconian~
+AB JNT -400 0
+0
+38 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 125000
+ABCHMVZc ABCDEFGHIJKMPQUVX large unknown
+#24110
+draconian child~
+a draconian child~
+A draconian child is here causing mischief.
+~
+This child is obviously not well behaved and seems to be spending his day
+annoying other residents.  
+~
+Human~
+AB 0 0 0
+0
+37 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1110
+AHMV ABCDEFGHIJKM medium unknown
+#24111
+Draconian women~
+Draconian Women~
+A Draconian women stands here.
+~
+The tired draconian mother stares at you from underneath her heavy robes.  
+~
+Human~
+AB 0 -200 0
+0
+36 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand female 1080
+AHMVZ ABCDEFGHIJKMV medium unknown
+#24112
+draconian drawbridge guard~
+Draconian Guard~
+{cA Draconian Guard stands here.{x
+~
+Underpayed, undernourished and tired, he is still alert enough to prevent
+prisoners from escaping.  
+~
+Draconian~
+AB JT -1000 0
+0
+46 100 1d1+3500 99d1+1 1d1+70 punch
+-8 -8 -8 -8
+FN 0 HJK 0
+stand stand male 2300
+FUZ ABCDEFGHIJKPQUVX large unknown
+F for ABCHMc
+#24113
+draconian child~
+a draconian child~
+A draconian child is here causing mischief.
+~
+This child is obviously not well behaved and seems to be spending his day
+annoying other residents.  
+~
+Human~
+AB 0 0 0
+0
+37 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1110
+AHMV ABCDEFGHIJKM medium unknown
+#24114
+town drunk~
+the town drunk~
+The town drunk is here, mumbling to himself.
+~
+This is not a draconian, but appears to be a traveller who stopped in and
+had one too many drinks.  
+~
+Human~
+AB 0 200 0
+0
+35 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 0 0
+stand stand male 1050
+AHMV ABCDEFGHIJKMV medium unknown
+#24115
+draconian guard~
+Draconian Guard~
+{cA Draconian Guard stands here.{x
+~
+Underpayed, undernourished and tired, he is still alert enough to prevent
+prisoners from escaping.  
+~
+Draconian~
+AB JT -1000 24119
+0
+46 100 1d1+3500 99d1+1 1d1+70 punch
+-8 -8 -8 -8
+FN 0 HJK 0
+stand stand male 2300
+FUZ ABCDEFGHIJKPQUVX large unknown
+F for ABCHMc
+#24116
+prisoner~
+a prisoner~
+A shackled prisoner is here, waiting to die.
+~
+He looks at you with desperate eyes, begging for forgiveness.  
+~
+Draconian~
+AB JT -200 0
+0
+37 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1110
+FUZ ABCDEF medium unknown
+F for ABCHMc
+F par GHIJKPQUVX
+#24117
+mustang pet~
+a swift Mustang~
+A mustang snorts at you.
+~
+A large deadly Hydra is here and will do anything to protect her master.
+~
+dragon~
+ABIJRTV DFJTV 1000 0
+0
+35 0 10d10+1250 1d1+348 4d8+13 beating
+-11 -11 -11 5
+N HIJQ BEGHIJKL FIOP
+stand stand female 0
+Z ABCDEFGHIJKPQUVWXZ large unknown
+F for AH
+#24118
+appaloosa horse pet~
+an appaloosa~
+An appaloosa is standing here, waiting to be riden.
+~
+The Appaloosa is characterized by a spotted pattern of markings; it most
+commonly has solid-colored foreparts and small, dark, round or oval spots
+over the loin and hips.  Famed for its intelligence, speed, stamina, and
+endurance, it is an outstanding stock and show horse of great popularity. 
+It stands just over 14 hands (56 in.  /140 cm) and weighs about 1,100 lb
+(500 kg).  
+~
+dragon~
+ABITV DFJTV 1000 0
+0
+45 1 25d10+1750 1d1+102 8d4+16 beating
+-15 -15 -15 3
+N HIJQ BEGHIJKL FIOP
+stand stand male 0
+G ABCDEFGHIJKPQUVWXZ large unknown
+F for AHZ
+#24119
+Draconian Warrior~
+A Draconian Warrior~
+{cA Draconian Warrior stands here.{x
+~
+Muscular and defiant, this large and strong warrior stands here taunting
+you.  
+~
+Draconian~
+AFT JT -400 24119
+0
+35 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+R 0 HJK 0
+stand stand male 1050
+FUZ ABCDEF medium unknown
+F for ABCHMc
+F par GHIJKPQUVX
+M GRALL 24119 100~
+#24120
+Draconian Warrior~
+A Draconian Warrior~
+A Draconian Warrior stands here.
+~
+Muscular and defiant, this large and strong warrior stands here taunting
+you.  
+~
+Draconian~
+AFT JT -300 24120
+0
+35 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1050
+FUZ ABCDEF medium unknown
+F for ABCHMc
+F par GHIJKPQUVX
+M GRALL 24119 100~
+#24121
+glazier draconian~
+a draconian glazier~
+A draconian glazier is here shapeing some glass.
+~
+Muscular and defiant, this large and strong warrior stands here taunting
+you.  
+~
+Draconian~
+ABGT JT -400 24119
+0
+35 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+R 0 HJK 0
+stand stand male 1050
+FUZ ABCDEF medium unknown
+F for ABCHMc
+F par GHIJKPQUVX
+#24122
+arabian pet horse~
+an arabian horse~
+An arabian horse stands here majesticly.
+~
+Prized since earliest times for its superior beauty, spirit, speed, grace
+of movement, stamina, and intelligence, the Arabian has served as parental
+stock for such light-weight horses as the American saddle horse , quarter
+horse , Standardbred horse , and the Thoroughbred.  Intercrossings of these
+and other light and draft horse breeds with Arabians is still common.  The
+Arabian's most characteristic color is bay with white markings; grays,
+chestnuts, and browns are also common.  It averages 14 to 15 hands (56-60
+in.  /140-150 cm) high and weighs about 1,000 lb (450 kg).  
+~
+dragon~
+ABIRV DFJTV 1000 0
+0
+50 0 50d10+2000 1d1+499 5d6+14 beating
+-20 -20 -20 2
+CFIOY HIJQ BEHIJKLNO CFOP
+stand stand female 0
+G ABCDEFGHIJKPQUVWXZ large unknown
+F for AHZ
+#24123
+draconian innkeeper~
+The Innkeeper~
+The Innkeeper stands here, looking annoyed.
+~
+The Innkeeper is a short, pudgy man that seems depressed.  He envies
+travellers, wishing he could go off and adventure himself.  
+~
+Draconian~
+AB JT -300 0
+0
+47 100 1d1+3500 99d1+1 1d1+70 punch
+-8 -8 -8 -8
+0 0 HJK 0
+stand stand male 2350
+FUZ ABCDEFH medium unknown
+F for ABCHMc
+F par GIJKPQUVX
+#24124
+Draconian Villager~
+Draconian Villager~
+{cA Draconian Villager stands here.{x
+~
+A draconian stands here, not even noticing you.  
+~
+Draconian~
+AG JT -500 0
+0
+44 80 1d1+2500 99d1+1 1d1+60 punch
+-7 -7 -7 -7
+0 0 HJK 0
+stand stand male 1320
+FUZ ABCDEFGHIJKPQUVX medium unknown
+F for ABCHMc
+#24125
+american pet horse~
+an American saddle horse~
+An American saddle horse stands here.
+~
+It is noted for its tremendous showy action in all gaits, its
+well-formed, swanlike neck with aristocratic arch, and its uplifted tail. 
+It is most popular as a show horse and possesses an exceptional aptitude for
+training.  It has nevertheless been subjected to a variety of cruelties in
+order to train it to particular gaits.  The breed is characterized by a
+satin coat of brown, black, or chestnut, often with white face and leg
+markings.  It stands 15 to 16 hands (60-64 in.  /150-160 cm) high and weighs
+approximately 1,000 lb (450 kg).  
+~
+cat~
+ABITV DFVZ 100 0
+0
+40 1 15d10+1500 1d1+200 4d8+13 beating
+-13 -13 -13 4
+FHN H GHIJK FI
+stand stand male 0
+AGV ACDEFGHJKQUV large unknown
+#24126
+boy stable~
+a draconian stable boy~
+A draconian stable boy is here grooming his pets.
+~
+Concealed partly by the shadows, this merchant makes a living by
+scandalizing innocent people.  His eyes light up as he views you as a new
+customer.  
+~
+Draconian~
+ABG JNT -400 0
+0
+38 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 125000
+Zc ABCDEFGHIJKMPQUVX large unknown
+F for ABCHM
+#24127
+draconian guard vault~
+a draconian vault guard~
+A draconian stands here guarding the secret treasure.
+~
+~
+Human~
+ABFG BO -990 0
+0
+51 0 50d10+5000 99d1+1 5d8+20 punch
+-21 -21 -21 2
+0 N 0 I
+stand stand male 444
+Z ABCDEFGHIJKMV medium unknown
+F for AHMV
+#24128
+draconian mage~
+a draconian mage~
+A draconian mage stands here, deep in thoughts.
+~
+He is very devoted to the ways of magic, rising early and studying until
+late in the evening.  
+~
+Draconian~
+ABR DJT 0 0
+0
+37 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1050
+FUZ ABCDEFG medium unknown
+F for ABCHMc
+F par HIJKPQUVX
+#24129
+draconian executioner~
+the executioner~
+{DThe executioner stands here motionless.
+~
+This tall draconian works without emotion making him good at what he does.  
+~
+Draconian~
+ABO JNT -400 0
+0
+39 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+D 0 HJK 0
+stand stand male 1050
+Z ABCDEFGHIJKMPQUVX medium unknown
+F for ABCHMc
+#24130
+tavern bard~
+The tavern bard~
+The tavern bard is here, singing and playing a tune.
+~
+Being a draconian, he does not have a pleasant singing voice, but
+considering he is playing before a drunk crowd they don't seem to mind.  
+~
+Draconian~
+AB JT -800 0
+0
+41 80 1d1+2500 99d1+1 1d1+60 punch
+-7 -7 -7 -7
+F A HJK 0
+stand stand male 1050
+FUZ ABCDEF medium unknown
+F for ABCHMc
+F par GHIJKPQUVX
+#24131
+draconian mage~
+a draconian mage~
+A draconian mage stands here, deep in thoughts.
+~
+He is very devoted to the ways of magic, rising early and studying until
+late in the evening.  
+~
+Draconian~
+ABR DJT 0 0
+0
+37 70 1d1+1750 99d1+1 1d1+50 punch
+-5 -5 -5 -5
+0 0 HJK 0
+stand stand male 1050
+FUZ ABCDEFG medium unknown
+F for ABCHMc
+F par HIJKPQUVX
+#0
+
+
+
+#OBJECTS
+#24100
+standard draconian dagger~
+a standard draconian dagger~
+An uninteresting dagger of draconian origin lies here.~
+STEEL weapon A AN
+dagger 7 10 pierce 0
+42 45 20240 G
+A
+19 4
+A
+18 4
+#24101
+sword warrior draconian~
+a draconian warrior's sword~
+A draconian warrior's sword lie here.~
+IRON weapon BFG AN
+sword 8 4 slash E
+35 90 10000 P
+A
+1 2
+A
+17 -50
+A
+18 2
+A
+19 3
+#24102
+axe draconian warrior~
+a draconian warrior's axe~
+A draconian warrior's axe lies here.~
+SELECT_A_MATERIAL weapon B AN
+axe 5 8 cleave E
+35 150 2000 G
+A
+18 3
+A
+17 -50
+A
+1 2
+A
+19 2
+#24103
+mace draconian~
+a draconian guards mace~
+A draconian guards mace lies here.~
+STEEL weapon B AN
+mace 8 8 crush H
+46 20 12700 G
+#24104
+staff guard~
+a draconian guards staff~
+A draconian guards staff lies here.~
+WOOD weapon 0 AN
+polearm 10 5 thwack C
+38 20 14734 G
+#24105
+ring guard vault~
+a draconian guards ring~
+A draconian has dropped his ring here.~
+SELECT_A_MATERIAL armor BEGJOY AB
+CE CE CE CE 0
+51 1 120000 P
+A
+17 -15
+A
+14 250
+A
+13 100
+A
+12 100
+A
+18 7
+A
+19 7
+#24106
+cape~
+the cape of an innkeeper~
+A tattered cape lies here.~
+SELECT_A_MATERIAL armor G AK
+ABD ABD ABD 0 A
+38 30 15498 G
+A
+19 2
+A
+18 2
+A
+14 50
+A
+1 2
+#24107
+hat~
+an innkeepers hat~
+A tattered hat lies here.~
+SELECT_A_MATERIAL armor G AE
+ABD ABD ABD 0 A
+40 40 15129 G
+A
+19 2
+A
+18 2
+A
+4 1
+A
+1 1
+A
+17 -20
+#24108
+bookcase~
+a book case~
+An empty bookcase sits here.~
+WOOD container 0 AN
+0 0 0 0 0
+39 70 17220 G
+E
+bookcase~
+You see something sitting on the shelf.
+~
+#24112
+hat standard~
+a standard draconian hat~
+A draconian hat lies here.~
+SELECT_A_MATERIAL armor EG AE
+CD CD CD 0 A
+46 30 19044 G
+A
+4 3
+A
+18 2
+A
+17 -10
+A
+3 -1
+#24113
+boots standard~
+a pair of standard draconian boots~
+A draconian has left its boots here.~
+SELECT_A_MATERIAL armor H AG
+CD CD CD 0 A
+45 40 20304 G
+A
+19 1
+A
+18 1
+A
+17 -20
+A
+14 20
+A
+5 1
+#24116
+orb dragon breath~
+an {corb{x of contained {rdragon breath{x~
+A glowing orb of dragon breath floats here.~
+SELECT_A_MATERIAL light_source A AS
+0 0 DGH 0 0
+36 50 13690 G
+A
+19 2
+A
+18 2
+A
+13 50
+#24118
+guard dagger~
+a draconian guards dagger~
+A draconian guards dagger has been left here.~
+STEEL weapon BG AN
+dagger 5 11 stab D
+45 45 25400 P
+A
+19 3
+A
+2 2
+A
+17 -5
+A
+18 8
+#24119
+sword enlightenment~
+{csword of {Benlightenment{x~
+A sword of draconian origin is here.~
+SILVER weapon A AN
+sword 9 9 slice 0
+41 70 17028 G
+A
+19 2
+A
+3 1
+A
+4 1
+#24122
+hood draconian~
+a draconian's black hood~
+A draconian's black hood has been left here.~
+SELECT_A_MATERIAL armor 0 AE
+BD BD BD 0 A
+36 20 18960 G
+#24123
+medallion drac~
+a draconian medallion~
+A draconian medallion was dropped here.~
+SELECT_A_MATERIAL armor I AC
+ABD ABD ABD 0 A
+39 30 17640 G
+A
+19 3
+A
+18 3
+A
+17 -30
+A
+3 2
+#24125
+key black tiny~
+a tiny black key~
+A small key has been forgotten here.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+43 30 15745 G
+#24126
+thief headband~
+a {Dthief's{x headband~
+The headband of a thief has been dropped here.~
+CLOTH armor 0 AE
+CD CD CD 0 A
+43 20 15787 G
+A
+13 75
+A
+2 2
+A
+1 -1
+#24127
+meat rotten~
+a piece of rotten meat~
+Some stinky meat lies here.~
+SELECT_A_MATERIAL food 0 A
+BD D 0 A 0
+35 5 20500 G
+#24128
+leg pair~
+some priests leggings~
+A pair of leggings lies here.~
+SELECT_A_MATERIAL armor A AF
+ABCD ABCD ABCD ABCD 0
+40 30 18060 G
+A
+17 -20
+#24129
+robe standard~
+a standard draconian mage robe~
+A robe has been left here.~
+SELECT_A_MATERIAL armor 0 AK
+BD BD BD 0 A
+36 30 13680 G
+A
+17 -30
+A
+4 2
+A
+3 2
+#24130
+Magic Dust~
+Some dark magic dust~
+Some dark magic dust lies here.~
+SELECT_A_MATERIAL pill 0 AO
+35 'bless' 'cure light' 'cure serious' 'haste'
+35 10 13680 G
+#24131
+wand standard~
+a standar draconian mage's wand~
+A wand has been dropped here.~
+SELECT_A_MATERIAL wand A AO
+55 35 35 'lightning breath' 0
+45 30 23782 G
+#24133
+serrated blade~
+a serrated blade~
+This weapon appears to be a a scimitar with a large jagged edge used for inflicting extra pain and suffering.~
+SELECT_A_MATERIAL weapon J AN
+sword 6 10 thrust 0
+45 70 19458 G
+#24134
+elder's ring~
+the draconian elder's ring~
+The elder has dropped his ring!~
+SELECT_A_MATERIAL armor 0 AB
+CD CD CD ABC A
+44 20 19458 G
+A
+19 2
+A
+18 2
+A
+17 -15
+A
+12 20
+A
+1 1
+A
+4 2
+#24135
+bracelet elder~
+a draconian elder's bracelet~
+The draconian elder dropped his bracelet!~
+SELECT_A_MATERIAL armor 0 AM
+CD CD CD 0 A
+43 20 18630 G
+A
+19 2
+A
+18 3
+A
+17 -15
+A
+12 15
+A
+5 2
+#24144
+well~
+a well~
+A stone well is here.~
+SELECT_A_MATERIAL fountain 0 0
+0 0 'water' 0 0
+0 0 0 G
+#24145
+banjo~
+a banjo~
+A banjo lies here.~
+WOOD weapon 0 AN
+mace 8 6 thwack 0
+41 50 7000 G
+#24147
+ornate long sword~
+an Ornate Longsword~
+An ornate Longsword is lying here.~
+STEEL weapon G AN
+sword 10 10 slash A
+53 160 800 P
+A
+19 6
+A
+18 5
+A
+5 1
+A
+1 2
+#24148
+coin pile~
+a pile of coins~
+Some coins are laying in a pile on the floor.~
+GOLD money 0 A
+DEHJLMN 0 0 0 0
+0 0 120000 G
+#24149
+bottle ale~
+a bottle of draconian ale~
+A bottle of draconian ale has been dropped here.~
+GLASS drink 0 A
+20 20 'ale' 0 0
+39 20 15935 G
+#24150
+cot bed~
+a small cot~
+A small cot is in the corner.~
+CLOTH furniture 0 0
+A 0 EHK CFG CFG
+0 20 14673 G
+#24151
+onyx shard legend~
+{Da legendary onyx shard{x~
+A legendary quest shard lies here.~
+ONYX gem CT AO
+0 0 0 0 0
+39 3 50 P
+E
+pickupmessage~
+You just found your Level {R39 {xLegendary Shard! You can now advance to Level {R40{x!
+~
+#0
+
+
+
+#ROOMS
+#24100
+{MPath to the Village{x~
+You stand on a well beaten dirth path leading to a village in the north. 
+Several robed figures pass by inconspicuously, whispering to each other. 
+The mysterious silence is intensified as you glance towards the village
+entrance.  Entering the village does not seem like a wise decision.  
+Best think twice.
+~
+0 4 2
+D0
+~
+~
+0 0 24101
+D2
+~
+~
+0 0 3906
+C 0
+S
+#24101
+{MEntrance of a Draconian Village{x~
+You stand at the entrance to the village, and notice that rather than
+bustling with sound and activity there is a dark and eery silence that
+surrounds you.  You do notice several draconians moving about but they share
+little contact with each other and don't even give you a second glance.  To
+the east you notice a strange looking shrine and the rest of the village
+lies north.  
+~
+0 0 2
+D0
+~
+~
+0 0 24104
+D1
+~
+~
+1 -1 24102
+D2
+~
+~
+0 0 24100
+C 0
+S
+#24102
+{MUnholy Shrine{x~
+This dark, damp room appears to be the sacrificial altar and religious
+study of the village.  Strange potions line the walls on shelves and there
+are many stacks of bibles.  Whatever evil gods these draconians worship are
+demanding and without compassion.  In front of you, you see a podium with a
+large opened book resting on it 
+~
+0 8 1
+D0
+~
+~
+1 -1 24103
+D3
+~
+~
+1 -1 24101
+C 0
+S
+#24103
+{DHidden Study{x~
+This chamber serves as a study for apprentice priests and spellcasters. 
+They are covered in heavy robes and are always busy commiting spells and
+phrases to memory.  Candles line the walls of the otherwise dark chamber.  
+~
+0 9 1
+D2
+~
+~
+1 -1 24102
+C 0
+S
+#24104
+{MIntersection in the Village{x~
+Several paths intersect into a large clearing here.  To the east and west
+appear to be residencies, while to the north is the rest of the village. 
+Some children are playing here and other travelers are seen leaving and
+entering the village.  
+~
+0 0 2
+D0
+~
+~
+0 0 24128
+D1
+~
+~
+0 0 24107
+D2
+~
+~
+0 0 24101
+D3
+~
+~
+0 0 24106
+C 0
+S
+#24106
+{MElder's Home{x~
+A man held in the highest respect, the village elder's luxurious home is
+adorned with mystical and foreign objects.  Anything of value and interest
+that the residents find is brought to him as a gift.  His wisdom is spread
+throughout the village, as rather than stay at home, he spends his day
+walking about preaching.  Keeping this close contact with his citizens makes
+him a popular leader.  
+~
+0 8 1
+D1
+~
+~
+0 0 24104
+C 0
+S
+#24107
+{MA Draconian Hut{x~
+A small but sturdy hut, this dwelling houses a draconian family.  While
+the size of it may not seem fitting, draconians learn to live in tough
+conditions.  To the west you see a kitchen and to the south is a bedroom. 
+The living room is east.  
+~
+0 8 1
+D0
+~
+~
+0 0 24110
+D1
+~
+~
+0 0 24109
+D2
+~
+~
+0 0 24108
+D3
+~
+~
+0 0 24104
+C 0
+S
+#24108
+{MBedroom{x~
+This is a small bedroom within the house.  Lying on the floor are some
+robes that need to be cleaned and some books are scattered about.  
+~
+0 8 1
+D0
+~
+~
+0 0 24107
+C 0
+S
+#24109
+{MLiving Room{x~
+An all-purpose room, this is where the family meets to discuss future
+plans and discuss recent events.  Other than that, they do not converse with
+each other much.  
+~
+0 8 1
+D3
+~
+~
+0 0 24107
+C 0
+S
+#24110
+{MA Kitchen{x~
+The kitchen smells of previous meals and is littered with knives and
+cooking utensils.  The deprived family depends on the mother to cook while
+the father is out searching for work.  The children are probably out in the
+town causing trouble, as usual.  
+~
+0 8 1
+D2
+~
+~
+0 0 24107
+C 0
+S
+#24111
+{MTown Square{x~
+The Town Square is the center of activity in this quiet village. 
+Occasionally, a scream can be heard from the town gallows.  There is a well
+in the center, and paths branching off to an inn in the west and to a tavern
+in the east.  The rest of the village lies north of here.  
+~
+0 0 2
+D0
+~
+~
+0 0 24118
+D1
+~
+~
+0 0 24129
+D2
+~
+~
+0 0 24128
+D3
+~
+~
+0 0 24130
+C 0
+S
+#24112
+{MTavern{x~
+The first thing you notice is the many passed out draconians laying
+across tables and on the floor.  Obviously one of the more popular spots in
+the village, this tavern is warmed by a fireplace in the corner and
+residents spend countless hours here drinking away their worries.  A
+draconian bard is in the corner, half asleep but playing a tune on his banjo
+and singing rather poorly.  You don't see a bartender anywhere but wouldn't
+be surprised if he was one of the ones passed out.  
+~
+0 8 1
+D3
+~
+~
+0 0 24129
+C 0
+S
+#24113
+{MAn Inn{x~
+You enter the lobby of a small inn, which does not seem like a safe and
+formidable place to spend the night.  However uninviting this place is, it's
+the only sanctuary for travellers hoping to survive until morning.  To the
+west you see a guest room and east is the town square.  
+~
+0 8 1
+D1
+~
+~
+0 0 24130
+D3
+~
+~
+0 0 24114
+C 0
+S
+#24114
+{MGuest Room~
+This is the first room in the inn, just as dirty as the rest with the
+only thing in the otherwise bare room being an uncomfortable looking cot in
+the corner.  
+~
+0 8 1
+D1
+~
+~
+0 0 24113
+D3
+~
+~
+0 0 24115
+C 0
+S
+#24115
+{MGuest Room~
+This is the second room in the inn, just as dirty as the rest with the
+only thing in the otherwise bare room being an uncomfortable looking cot in
+the corner.  
+~
+0 8 1
+D1
+~
+~
+0 0 24114
+D2
+~
+door
+
+~
+1 -1 24117
+C 0
+S
+#24117
+{MGuest Room~
+This is the last room in the inn, just as dirty as the rest with the only
+thing in the otherwise bare room being an uncomfortable looking cot in the
+corner.  
+~
+0 8 1
+D0
+~
+Door
+
+~
+1 -1 24115
+C 0
+S
+#24118
+{MAnother Intersection{x~
+Several more paths intersect here.  The entrance and first part of the
+village are located south of here, while to the east appears to be a dark,
+crowded alley.  Towards the west is a path leading to the town gallows. 
+There are stairs leading into the ground here.  
+~
+0 0 2
+D0
+~
+~
+0 0 24139
+D1
+~
+~
+0 0 24119
+D2
+~
+~
+0 0 24111
+D3
+~
+~
+0 0 24120
+D5
+~
+~
+0 0 24122
+C 0
+S
+#24119
+{MTrading Post{x~
+What first appeared as a village where events rarely take place, you
+realize that all business and communication is done in secrecy.  This shady
+trading post is the meeting place of thieves and merchants eagerly making
+transactions.  
+~
+0 8 1
+D3
+~
+~
+0 0 24118
+C 0
+S
+#24120
+{MPath in the Village{x~
+Connecting the village gallows with the rest of the town, this path is
+crossed often by prisoners and people wishing to watch the prisoners be
+executed or tortured.
+~
+0 0 2
+D1
+~
+~
+0 0 24118
+D3
+~
+really big door
+
+~
+0 -1 24121
+C 0
+S
+#24121
+{MVillage Gallows{x~
+This is where the criminals of the village are executed for their crimes.
+You can tell this area of the village is frequently visited by the stains of
+blood on the ground.  
+~
+0 0 2
+D1
+~
+Really big door
+
+~
+0 -1 24120
+C 0
+S
+#24122
+{MTown Prison{x~
+Prisoners are sent here until released or sent to the town gallows to be
+killed.  There are several cells around you each holding these criminals. 
+Wooden stairs lead up into the village.  
+~
+0 9 1
+D1
+~
+~
+0 0 24123
+D2
+~
+~
+0 0 24125
+D4
+~
+~
+0 0 24118
+C 0
+S
+#24123
+{MPrison Cell{x~
+The walls of this damp, dark cell are covered with writings and
+scribblings of past prisoners being driven to insanity.  The only light that
+penetrates this room is from the barred windows in the doors that are west
+and south of here.  
+~
+0 9 1
+D2
+~
+~
+0 0 24124
+D3
+~
+~
+0 0 24122
+C 0
+S
+#24124
+{MPrison Cell{x~
+The walls of this damp, dark cell are covered with writings and
+scribblings of past prisoners being driven to insanity.  The only light that
+penetrates this room is from the doors leading to other cells, north and
+west of here.  
+~
+0 9 1
+D0
+~
+~
+0 0 24123
+D3
+~
+~
+0 0 24125
+C 0
+S
+#24125
+{MPrison Cell{x~
+The walls of this damp, dark cell are covered with writings and
+scribblings of past prisoners being driven to insanity.  The only light that
+penetrates this room is from the small barred windows on the door that
+seperates you from another cell, to the east, and to the entrance to the
+prison, north of here.  
+~
+0 9 1
+D0
+~
+~
+0 0 24122
+D1
+~
+~
+0 0 24124
+C 0
+S
+#24126
+{MA small path{x~
+The path narrows here, seems to be lightly traveled...  The trees on both
+sides of the path shroud the light.  The path widens to the east and a
+structure can be seen to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 24141
+D3
+~
+~
+0 0 24144
+C 0
+S
+#24128
+{MPath in the Village{x~
+You are walking along a small path through the village.  You can see many
+citizens walking about, minding their own business.  The path leads on south
+and to the north you can see town square.  
+~
+0 0 2
+D0
+~
+~
+0 0 24111
+D2
+~
+~
+0 0 24104
+C 0
+S
+#24129
+{MPath in the Village{x~
+You are walking along a small path through the village.  You can see many
+citizens walking about, minding their own business.  To the south you see a
+small hut, west leads to Town Square, and east is the tavern.  
+~
+0 0 2
+D1
+~
+~
+0 0 24112
+D2
+~
+~
+0 0 24135
+D3
+~
+~
+0 0 24111
+C 0
+S
+#24130
+{MPath in the Village{x~
+You are walking along a small path through the village.  You can see many
+citizens walking about, minding their own business.  To the south you see a
+small hut, east leads to Town Square, and west will take you to the Inn.
+~
+0 0 2
+D1
+~
+~
+0 0 24111
+D2
+~
+~
+0 0 24131
+D3
+~
+~
+0 0 24113
+C 0
+S
+#24131
+{MA Draconian Hut{x~
+A small but sturdy hut, this dwelling houses a draconian family.  While
+the size of it may not seem fitting, draconians learn to live in tough
+conditions.  To the north leads out of the hut, a bedroom to the south and
+the living room to the east.  You can smell something cookiing to the west,
+must be the kitchen.  
+~
+0 8 1
+D0
+~
+~
+0 0 24130
+D1
+~
+~
+0 0 24132
+D2
+~
+~
+0 0 24133
+D3
+~
+~
+0 0 24134
+C 0
+S
+#24132
+{MLiving Room{x~
+An all-purpose room, this is where the family meets to discuss future
+plans and discuss recent events.  Other than that, they do not converse with
+each other much.  
+~
+0 8 1
+D3
+~
+~
+0 0 24131
+C 0
+S
+#24133
+{MBedroom{x~
+This is a small bedroom within the house.  Lying on the floor are some
+robes that need to be cleaned and some books are scattered about.  
+~
+0 8 1
+D0
+~
+~
+0 0 24131
+C 0
+S
+#24134
+{MA Kitchen{x~
+The kitchen smells of previous meals and is littered with knives and
+cooking utensils.  The deprived family depends on the mother to cook while
+the father is out searching for work.  The children are probably out in the
+town causing trouble, as usual.  
+~
+0 8 1
+D1
+~
+~
+0 0 24131
+C 0
+S
+#24135
+{MA Draconian Hut{x~
+A small but sturdy hut, this dwelling houses a draconian family.  While
+the size of it may not seem fitting, draconians learn to live in tough
+conditions.  To the west you see a kitchen and to the south is a bedroom. 
+The livving room is east.  
+~
+0 8 1
+D0
+~
+~
+0 0 24129
+D1
+~
+~
+0 0 24138
+D2
+~
+~
+0 0 24137
+D3
+~
+~
+0 0 24136
+C 0
+S
+#24136
+{MA Kitchen{x~
+The kitchen smells of previous meals and is littered with knives and
+cooking utensils.  The deprived family depends on the mother to cook while
+the father is out searching for work.  The children are probably out in the
+town causing trouble, as usual.  
+~
+0 8 1
+D1
+~
+~
+0 0 24135
+C 0
+S
+#24137
+{MBedroom{x~
+This is a small bedroom within the house.  Lying on the floor are some
+robes that need to be cleaned and some books are scattered about.  
+~
+0 8 1
+D0
+~
+~
+0 0 24135
+C 0
+S
+#24138
+{MLiving Room{x~
+An all-purpose room, this is where the family meets to discuss future
+plans and discuss recent events.  Other than that, they do not converse with
+each other much.  
+~
+0 8 1
+D3
+~
+~
+0 0 24135
+C 0
+S
+#24139
+{MPath in the Village{x~
+You are walking along a small path through the village.  You can see many
+citizens walking about, minding their own business.  To the south is an
+intersection of multiple paths, to the east lies the town glazier.  
+~
+0 0 2
+D1
+~
+~
+0 0 24140
+D2
+~
+~
+0 0 24118
+D3
+~
+~
+0 0 24141
+C 0
+S
+#24140
+{MDraconian Glassworks{x~
+A small shop with many shelves circling the room.  On each of the shelves
+are an abundacne of glass jars, vases, and drinking glasses.  A draconian
+glazier works through the night blowing and shping his artwork.  
+~
+0 8 1
+D3
+~
+~
+0 0 24139
+C 0
+S
+#24141
+{MPath in the Village{x~
+Your walking along a small path through the village.  You can see many
+draconians walking about, minding their own business.  The path continues
+east and the town stables lies to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 24139
+D2
+~
+~
+0 0 24142
+D3
+~
+~
+0 0 24126
+C 0
+S
+#24142
+{MTown Stables{x~
+Some stalls line the walls on either side of the small barn like
+structure.  Each stall houses a horse, many different types are breed here
+for your riding enjoyment.  Ask the stable boy for a list of breeds you can
+take out riding.  
+~
+0 266252 1
+D0
+~
+~
+0 0 24141
+C 0
+S
+#24143
+{MStables{x~
+The path narrows here, seems to be lightly traveled...  The trees on both
+sides of the path shroud the light.  The path widens to the east and a
+structure can be seen to the west.  
+~
+0 4 1
+C 0
+S
+#24144
+{MA small path{x~
+The path is narrow here, not much room for someone pulling an oxen cart. 
+The village lies back to the east.  To the west the path get even narrower
+and the trees start to block your view of what you thought was a structure. 
+~
+0 5 2
+D1
+~
+~
+0 0 24126
+D3
+~
+~
+0 0 24145
+C 0
+S
+#24145
+{Ma narrow, winding trail{x~
+The path has turned into a small trail winding in and out of the trees. 
+Most likely you have entered a small forest.  Maybe you should turn back? 
+Back to the east is the village if you decide to turn around.  
+~
+0 1 4
+D1
+~
+~
+0 0 24144
+D3
+~
+~
+0 0 24146
+C 0
+S
+#24146
+{MA winding trail{x~
+The trees have gotten so dense now you can barley see anything.
+~
+0 1 4
+D1
+~
+~
+0 0 24145
+D2
+~
+~
+0 0 24148
+C 0
+S
+#24148
+{MA winding trail{x~
+The trees have gotten so dense now you can barley see anything.
+~
+0 1 4
+D0
+~
+~
+0 0 24146
+D3
+~
+~
+0 0 24150
+C 0
+S
+#24150
+{MA winding trail{x~
+The trees have gotten so dense now you can barley see anything.
+~
+0 1 4
+D1
+~
+~
+0 0 24148
+D2
+~
+~
+0 0 24151
+C 0
+S
+#24151
+{MA clearing{x~
+The trees have suddenly widened into a clearing, the light is much better
+here.  To the south is a structure, which you can now see is made of stone. 
+It is very dark to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 24150
+D2
+~
+~
+0 0 24152
+C 0
+S
+#24152
+{MEntrance to Darklords Caslte{x~
+The gates to the caslte lie to the south, you must cross over the moat
+via the drawbridge.  On the other side of the drawbridge you can see two
+draconians standing guard.  North leads back to the small forest.  
+~
+0 1 0
+D0
+~
+~
+0 0 24151
+D2
+~
+~
+0 0 24153
+C 0
+S
+#24153
+{MOn the Drawbridge{x~
+You have arrived at the drawbridge leading into the Castle. Before
+you is a huge, double-doored gate. It seems very strong. You see some
+whirls in the moat.
+~
+0 1 0
+D0
+~
+~
+0 0 24152
+D2
+~
+~
+0 0 24154
+C 0
+S
+#24154
+{MEntance Hall{x~
+You are standing in the entrance hall of the castle.  To the north is the
+exit out of the castle.  To the west and east are the drawbridge towers. 
+The south opens into a great hall.  
+~
+0 9 0
+D0
+~
+~
+0 0 24153
+D1
+~
+~
+0 0 24156
+D2
+~
+~
+0 0 24162
+D3
+~
+~
+0 0 24155
+C 0
+S
+#24155
+{MDrawbridge Tower{x~
+You are standing in a narrow tower with a ladder going up to the watch
+tower.  The is a large wheel with ropes attached to it for raiseing and
+lowering the drawbridge.  To the east is the entrance hall.  
+~
+0 9 7
+D1
+~
+~
+0 0 24154
+D4
+~
+~
+0 0 24160
+C 0
+S
+#24156
+{MDrawbridge Tower{x~
+You are standing in a narrow tower with a ladder going up to the watch
+tower.  The is a large wheel with ropes attached to it for raiseing and
+lowering the drawbridge.  To the west is the entrance hall.  
+~
+0 9 7
+D3
+~
+~
+0 0 24154
+D4
+~
+~
+0 0 24161
+C 0
+S
+#24160
+{MWatch Tower{x~
+From up here you can see the entire draconian village and the small
+forest that lies between the castle and the village.  The forest may be
+small, but it does its job in blockinh the view of the castle.  Darklord
+doesnt like visitors.  
+~
+0 9 1
+D5
+~
+~
+0 0 24155
+C 0
+S
+#24161
+{MWatch Tower{x~
+From up here you can see the entire draconian village and the small
+forest that lies between the castle and the village.  The forest may be
+small, but it does its job in blockinh the view of the castle.  Darklord
+doesnt like visitors.  
+~
+0 9 1
+D5
+~
+~
+0 0 24156
+C 0
+S
+#24162
+{MThe Great Hall{x~
+The great hall is the largest room in the castle.  In the past it held
+many feasts and dances.  Today it sits empty with a few antique funriture
+along the east and west walls.  Some large tapestries hang on the walls.  To
+the north is the entrance hall which has an exit that leads out of the
+castle.  
+~
+0 9 1
+D0
+~
+~
+0 0 24154
+D1
+~
+~
+0 0 24165
+D2
+~
+~
+0 0 24166
+D3
+~
+~
+0 0 24163
+C 0
+S
+#24163
+{MLibrary{x~
+The library doesnt seem to have any books.  All the shelves are
+completely empty except for the dust on them.  This is very eery for such a
+large room to be so empty.  There isnt even a place to sit and rest.  
+~
+0 9 1
+D1
+~
+~
+0 0 24162
+C 0
+S
+#24164
+{DA secret treasure vault{x~
+You have stumbled upon Draconian Darklords secret treasure.  Most likley
+it has been earned ffrom plundering and thievery.  
+~
+0 9 1
+D3
+~
+~
+1 0 24165
+C 0
+S
+#24165
+{MA Dark Study{x~
+Here is where all the books have to.  The small wooden table in the
+middle of the room is about ready to buckle from the wieght of all the books
+on it.  A fireplace on the east wall is giving off a soft glow.  There are
+blackened spots on the stone floor near the fireplace.  
+~
+0 13 1
+D1
+~
+secret~
+1 24125 24164
+D3
+~
+~
+0 0 24162
+C 0
+S
+#24166
+{MEntrance to the Draconian Darklords Chamber{x~
+The entrance to the chamber is slightly smaller than the great hall.  The
+light for this room comes from the four candelabrums in each corner of the
+room.  The light glows softly, and with no windows in the room, it gives the
+sensation of dusk at all times.  The rug on the floor covers almost the
+entire stone floor.  A picture of two draconians doing battle is depicted on
+it.  
+~
+0 9 1
+D0
+~
+~
+0 0 24162
+D1
+~
+~
+0 0 24167
+D3
+~
+~
+0 0 24168
+D5
+~
+~
+0 0 24169
+C 0
+S
+#24167
+{MServants Room{x~
+This is the servants room, there are many servants and they all have to
+sleep in this one room.  You see a few cots on the north wall and a few more
+on the south wall.  The rest of them are folded up and placed under the
+other cots.  There are no pictures, or any other furniture in the room
+except one candelabrum.  Darklord doesnt allow his servants to own property,
+only the clothes they wear.  
+~
+0 9 1
+D3
+~
+~
+0 0 24166
+C 0
+S
+#24168
+{MDarklords Bedroom{x~
+Many tapestries line the walls and small narrow windows let light into
+the room.  A bed fit for a king brings your attention to the center of the
+room.  A large chest sits at the foot of the bed, made from the wood of the
+surrounding forest no doubt.  Long flowing drapes hang from the canopy of
+the bed.  An empty book shelf sits against the south wall.  The only exit is
+east to the entrance chamber.  
+~
+0 9 1
+D1
+~
+~
+0 0 24166
+C 0
+S
+#24169
+{MWine Cellar{x~
+This dark and damp room hosts a wide selection of wine and ale from
+around world.  Some are fairly exotic yet some are pretty common, it seems
+Draconian Darklord has some fine taste.  The wine racks cover each wall and
+there is one row of racks down the center of the room.  
+~
+0 8205 1
+D4
+~
+~
+0 0 24166
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 24100 spec_breath_fire
+M 24101 spec_thief
+M 24102 spec_breath_acid
+M 24104 spec_guard
+M 24105 spec_cast_cleric
+M 24106 spec_thief
+M 24112 spec_guard
+M 24115 spec_guard
+M 24119 spec_breath_lightning
+M 24120 spec_breath_lightning
+M 24121 spec_breath_lightning
+M 24123 spec_breath_gas
+M 24124 spec_breath_fire
+M 24127 spec_fido
+M 24128 spec_cast_mage
+M 24129 spec_executioner
+M 24130 spec_breath_frost
+M 24131 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 24102 0 1
+D 0 24103 2 1
+D 0 24164 3 2
+D 0 24165 1 2
+M 0 24100 1 24101 1
+E 0 24100 0 16
+M 0 24105 1 24102 1
+E 0 24128 0 7
+M 0 24131 1 24102 1
+E 0 24131 0 17
+E 0 24129 0 12
+G 0 24130 0
+M 0 24128 3 24103 3
+E 0 24131 0 17
+E 0 24129 0 12
+G 0 24130 0
+M 0 24124 10 24104 1
+M 0 24113 2 24108 1
+E 0 24116 0 0
+M 0 24111 1 24110 1
+E 0 24122 0 6
+M 0 24102 1 24111 1
+E 0 24135 0 14
+E 0 24134 0 1
+E 0 24123 0 3
+E 0 24119 0 16
+O 0 24144 0 24111
+M 0 24130 1 24112 1
+E 0 24145 0 16
+M 0 24114 1 24112 1
+G 0 24149 0
+M 0 24123 1 24113 1
+E 0 24106 0 12
+E 0 24107 0 6
+M 0 24101 1 24114 1
+E 0 24126 0 6
+O 0 24150 0 24114
+O 0 24150 0 24115
+O 0 24150 0 24117
+M 0 24100 50 24117 1
+E 0 24100 0 16
+M 0 24113 1 24118 1
+E 0 24116 0 0
+M 0 24109 1 24119 1
+G 0 24127 0
+G 0 24112 0
+G 0 24113 0
+M 0 24101 1 24120 1
+E 0 24126 0 6
+M 0 24129 1 24121 1
+E 0 24133 0 16
+M 0 24104 1 24122 1
+M 0 24116 1 24124 1
+M 0 24104 1 24124 1
+M 0 24104 1 24125 1
+M 0 24116 1 24125 1
+M 0 24116 1 24125 1
+M 0 24101 5 24126 1
+M 0 24113 2 24128 1
+M 0 24100 50 24129 2
+E 0 24100 0 16
+M 0 24100 50 24130 2
+E 0 24100 0 16
+M 0 24110 5 24133 1
+M 0 24108 5 24134 1
+M 0 24107 5 24136 1
+M 0 24108 5 24137 1
+M 0 24121 1 24140 1
+M 0 24126 1 24142 1
+M 0 24117 1 24143 1
+M 0 24118 1 24143 1
+M 0 24125 1 24143 1
+M 0 24122 1 24143 1
+M 0 24112 10 24153 2
+E 0 24118 0 16
+M 0 24112 1 24153 1
+M 0 24119 20 24155 3
+E 0 24101 0 16
+M 0 24120 10 24156 3
+E 0 24102 0 16
+M 0 24115 5 24160 2
+E 0 24103 0 16
+M 0 24115 5 24161 2
+E 0 24104 0 16
+O 0 24108 0 24163
+P 0 24125 1 24108 1
+P 0 24151 1 24108 1
+M 0 24127 2 24164 2
+E 0 24105 0 2
+O 0 24148 0 24164
+M 0 24103 1 24168 1
+E 0 24147 0 16
+S
+
+
+
+#SHOPS
+24109 5 9 3 0 0 120 40 0 23
+24126 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#24119
+say GET OVER HERE!
+~
+#0
+
+#$

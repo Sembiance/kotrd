@@ -1,0 +1,71 @@
+#PLAYER
+Name Jennifer~
+Id   1091238107
+LogO 1091240086
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Succubus~
+Sex  2
+Cla  4
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1979
+Not  0 0 0 0
+Scro 33
+Room 3612
+HMV  19 30 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3889
+PAct  Qd
+AfBy DFT
+Empower  0
+WName Jennifer~
+Comm NO
+Deaf DP
+Pos  4
+Alig  -1000
+ACs 100 100 100 100
+Attr 14 13 13 22 16
+AMod 0 0 0 0 0
+Pass Jetp/wA2fr2RA~
+Titl  the Hooker~
+Pnts 78
+TSex 2
+PSize 2
+LLev 0
+HMVP 30 100 100
+Cnd  0 0 24 24
+Sk 1 'charm person'
+Sk 1 'energy drain'
+Sk 40 'sword'
+Sk 49 'dagger'
+Sk 1 'axe'
+Sk 1 'assassinate'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+End
+
+#END

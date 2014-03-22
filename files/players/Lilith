@@ -1,0 +1,507 @@
+#PLAYER
+Name Lilith~
+Id   1101618660
+LogO 1102622093
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Elf~
+Sex  2
+Cla  5
+OCla -1
+Levl 37
+OldLvl 37
+Sec  0
+Plyd 356145
+Scro 33
+Room 3054
+HMV  98 968 255 255 336 336
+Gold 639
+Silv 267
+Gold_bank 13000
+Silv_bank 30000
+Shares 0
+Share_level 37
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  51884
+PAct  CDFGQTd
+AfBy J
+WName Lilith~
+Comm FKNOQ
+Deaf DP
+Pos  4
+Prac 32
+Trai 9
+Alig  0
+Hit   16
+Dam   18
+ACs -29 1 1 88
+Wimp  58
+Attr 19 17 19 20 20
+AMod 2 3 0 4 2
+Pass Li/PHg1cjOBNQ~
+Titl  {x~
+Pnts 48
+TSex 2
+PSize 1
+LLev 98
+HMVP 658 205 316
+Cnd  0 20 13 40
+Boards       4 General 1102345742 Ideas 1101961480 Announce 1102304463 Personal 0 
+Sk 92 'sword'
+Sk 79 'bash'
+Sk 75 'berserk'
+Sk 75 'disarm'
+Sk 87 'dual wield'
+Sk 96 'enhanced damage'
+Sk 80 'parry'
+Sk 75 'shield block'
+Sk 78 'second attack'
+Sk 1 'third attack'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 3287
+Nest 0
+Cond 0
+Wear -1
+Time 503
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 0
+Cond 0
+Wear -1
+Time 513
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 31236
+Nest 0
+Cond 0
+Wear 20
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3286
+Nest 1
+Cond 0
+Wear -1
+Time 51
+Cost 700
+Spell 1 'cure poison'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1370
+Nest 1
+Cond 0
+Wear -1
+Cost 1350
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3287
+Nest 0
+Cond 0
+Wear -1
+Time 773
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 25122
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 25119
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 5634
+Nest 0
+Cond 0
+Wear -1
+Time 619
+Cost 1001
+Spell 1 'fly'
+End
+
+#O
+Vnum 5634
+Nest 0
+Cond 0
+Wear -1
+Time 762
+Cost 1001
+Spell 1 'fly'
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 15146
+Nest 0
+Cond 0
+Wear -1
+Cost -200
+Val  0 0 46 0 0
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 4264
+Nest 0
+Cond 0
+Wear 3
+Cost 2610
+End
+
+#O
+Vnum 4266
+Nest 0
+Cond 0
+Wear 6
+Cost 1950
+End
+
+#O
+Vnum 18060
+Nest 0
+Cond 0
+Wear 8
+Cost 4700
+End
+
+#O
+Vnum 16018
+Nest 0
+Cond 0
+Wear -1
+Cost 4666
+End
+
+#O
+Vnum 10404
+Nest 0
+Cond 0
+Wear 19
+Cost 1320
+End
+
+#O
+Vnum 25402
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+Val  200000 199328 25 0 0
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 0 0 0 0
+End
+
+#O
+Vnum 4205
+Nest 0
+Cond 0
+Wear 5
+Cost 1250
+End
+
+#O
+Vnum 10404
+Nest 0
+Cond 0
+Wear 16
+Cost 1320
+End
+
+#O
+Vnum 21229
+Nest 0
+Cond 0
+Wear 18
+Cost 1000
+End
+
+#END

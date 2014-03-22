@@ -1,0 +1,326 @@
+#PLAYER
+Name Myst~
+Id   1088792288
+LogO 1089310232
+Vers 5
+Prom <%h/%Hhp %mm %vmv %X> ~
+Race Inccubus~
+Sex  1
+Cla  7
+OCla -1
+Levl 12
+OldLvl 12
+Sec  0
+Plyd 4389
+Not  1089306937 1089266000 1089276313 0
+Scro 33
+Room 3054
+HMV  169 183 123 123 152 166
+Gold 160
+Silv 4371
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 12
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  22852
+PAct  DEFGHQTd
+AfBy TV
+Empower  0
+WName Myst~
+Comm NO
+Deaf DP
+Pos  4
+Save  -33
+Alig  -1000
+Hit   66
+Dam   3
+ACs -23 -14 -21 65
+Wimp  4
+Attr 20 15 17 17 19
+AMod 0 0 1 0 1
+Pass MyvChEnSj3jmU~
+Titl  {YC.P.O.K.W.D.W.H.~
+Pnts 56
+TSex 1
+PSize 2
+LLev 1
+HMVP 183 123 166
+Cnd  0 8 36 28
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 1 'sword'
+Sk 75 'dagger'
+Sk 1 'backstab'
+Sk 1 'dirt kicking'
+Sk 49 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 61 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Affc 'armor'   0 238  43 -20  17          0
+Affc 'bless'   0 244  86  62  18          0
+Affc 'bless'   0 239  86 -31  20          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 138 0 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear 3
+Cost 310
+End
+
+#O
+Vnum 5237
+Nest 0
+Cond 0
+Wear 18
+Cost 150
+End
+
+#O
+Vnum 5252
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4236
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4250
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 16 0 0 0
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear 16
+Cost 600
+End
+
+#END

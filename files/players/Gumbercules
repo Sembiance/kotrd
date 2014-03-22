@@ -1,0 +1,889 @@
+#PLAYER
+Name Gumbercules~
+Id   1104906600
+LogO 1160192903
+Vers 5
+Desc on the issue of God and evolution:
+It would make sense if there was a God.  Its the most sensible solution.  But I don't acknowledge the existence of God so this question is mute.
+
+~
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Myrddraal~
+Clan Valor~
+Sex  0
+Cla  5
+AlertMe  1
+Hardcore  1
+CasterScore   0
+PrevHCLevel  100
+Legend -1
+OCla 3
+Levl 75
+OldLvl 75
+Sec  0
+Plyd 221149
+Scro 33
+Room 2550
+HMV  2694 2694 619 619 1007 1007
+Gold 399
+Silv 35
+Gold_bank 100
+Silv_bank 0
+Shares 0
+Share_level 75
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  150000
+QuestPnts 246
+PAct  CDEGTbcd
+AfBy DFTUVce
+WName Gumbercules~
+Comm EKLMNO
+RaceChan AH
+Deaf 0
+Pos  8
+Prac 55
+Trai 13
+Alig  -1000
+Hit   45
+Dam   37
+ACs -14 -14 -14 -20
+Wimp  200
+Attr 27 11 15 21 24
+AMod 4 0 2 5 0
+Pass ErZ7zsXxrdhOU~
+Titl  hardcore heros die young~
+Pnts 40
+TSex 0
+PSize 2
+LLev 60
+HMVP 2099 364 757
+Cnd  0 0 -1 -1
+Boards       4 General 1155167336 Ideas 1146808373 Announce 1104975611 Personal 1107900121 
+Sk 1 'portal'
+Sk 1 'gas breath'
+Sk 1 'curse'
+Sk 75 'giant strength'
+Sk 77 'identify'
+Sk 34 'sword'
+Sk 100 'dagger'
+Sk 79 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 94 'polearm'
+Sk 76 'exotic'
+Sk 1 'assassinate'
+Sk 100 'backstab'
+Sk 75 'bash'
+Sk 100 'circle'
+Sk 90 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 8 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 75 'shield block'
+Sk 75 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 1 'envenom'
+Sk 93 'fast healing'
+Sk 84 'haggle'
+Sk 100 'hide'
+Sk 93 'peek'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 75 'steal'
+Sk 50 'recall'
+Sk 75 'quicken'
+Sk 1 'sharp blade'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'warrior basics'
+Gr 'thief default'
+Gr 'identify spell'
+Gr 'warrior spells'
+Affc 'golden aura'   0 373  77   0   0 1073741824
+End
+
+#O
+Vnum 2552
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 2551
+Nest 0
+Cond 0
+Wear 0
+Cost 10000
+End
+
+#O
+Vnum 9203
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  30
+Cost 2800
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 5232
+Nest 0
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 19804
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  80
+Cost 37500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 96000
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 85000
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 70500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 73500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 78500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 77500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 67500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 96500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 97500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20424
+Nest 0
+Cond 0
+Wear -1
+Cost 100000
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 20416
+Enchanted
+Nest 0
+ExtF 66
+Cond 0
+Wear -1
+Lev  86
+Cost 30000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  85  -1 100  12          0
+Affc 'reserved'   1  85  -1  10  19          0
+Affc 'reserved'   1  85  -1  10  18          0
+End
+
+#O
+Vnum 11858
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 25323
+Nest 0
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25323
+Nest 0
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 6727
+Enchanted
+Nest 0
+ExtF 17301827
+Cond 0
+Wear -1
+Lev  81
+Cost 50000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  80  -1 -10  24          0
+Affc 'reserved'   1  80  -1   9  19          0
+Affc 'reserved'   1  80  -1   9  18          0
+Affc 'reserved'   1  80  -1  35  17          0
+Affc 'reserved'   1  80  -1 -100  14          0
+Affc 'reserved'   1  80  -1 150  13          0
+Affc 'reserved'   1  80  -1  50  12          0
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7388
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 5963
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 6413
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19223
+Nest 0
+Cond 0
+Wear -1
+Cost 6413
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 11860
+Nest 0
+Cond 0
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 7900
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 6304
+Nest 0
+ExtF 21497952
+Cond 0
+Wear 6
+Cost 1500
+End
+
+#O
+Vnum 23211
+Nest 0
+Cond 0
+Wear 12
+Cost 36000
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear -1
+Cost 18600
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 2553
+Nest 0
+Cond 0
+Wear 17
+Cost 10000
+Val  110 14 0 0 0
+End
+
+#END

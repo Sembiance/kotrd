@@ -1,0 +1,632 @@
+#PLAYER
+Name Teloquen~
+Id   1099269264
+LogO 1111661148
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Seraph~
+Sex  2
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 35
+OldLvl 35
+Sec  0
+Plyd 46840
+Scro 33
+Room 3269
+HMV  651 651 211 211 364 364
+Gold 200
+Silv 71
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 35
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  43750
+QuestPnts 293
+PAct  CDEFGHTd
+AfBy FTV
+WName Teloquen~
+Comm FNOQ
+RaceChan 0
+Deaf D
+Pos  8
+Prac 15
+Save  -62
+Alig  1000
+Hit   136
+Dam   8
+ACs -50 -57 -57 24
+Wimp  10
+Attr 19 18 19 12 17
+AMod 6 1 2 6 3
+Pass TeFNrrnEoij1k~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 45
+TSex 2
+PSize 2
+LLev 10
+HMVP 571 191 304
+Cnd  0 10 7 35
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 95 'sword'
+Sk 77 'dagger'
+Sk 76 'mace'
+Sk 1 'disarm'
+Sk 87 'dual wield'
+Sk 95 'enhanced damage'
+Sk 86 'kick'
+Sk 73 'dodge'
+Sk 76 'parry'
+Sk 68 'shield block'
+Sk 1 'rescue'
+Sk 74 'second attack'
+Sk 1 'third attack'
+Sk 70 'fast healing'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Affc 'haste'   0 495  96   4   2    2097152
+Affc 'bless'   0 496 221 125  18          0
+Affc 'bless'   0 496 221 -62  20          0
+Affc 'stone skin'   0 495 471 -40  17          0
+Affc 'giant strength'   0 493 471   4   1          0
+End
+
+#O
+Vnum 4313
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 9203
+Nest 0
+Cond 0
+Wear 16
+Cost 2800
+End
+
+#O
+Vnum 9232
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9201
+Nest 0
+Cond 0
+Wear 2
+Cost 1140
+End
+
+#O
+Vnum 9202
+Nest 0
+Cond 0
+Wear 5
+Cost 5500
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 402
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 739
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 610
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 601
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 16057
+Nest 0
+Cond 0
+Wear -1
+Cost 2150
+Spell 1 'protection good'
+End
+
+#O
+Vnum 9208
+Nest 0
+Cond 0
+Wear 11
+Cost 4500
+End
+
+#O
+Vnum 9207
+Nest 0
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 9233
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear 17
+Time 326
+Cost 0
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 9232
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9205
+Nest 0
+Cond 0
+Wear 8
+Cost 5200
+End
+
+#O
+Vnum 21288
+Nest 0
+Cond 0
+Wear 6
+Cost 1100
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 10296
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16066
+Nest 0
+Cond 0
+Wear 9
+Cost 989
+End
+
+#O
+Vnum 623
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 625
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 626
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 627
+Nest 0
+Cond 0
+Wear -1
+Cost 1850
+End
+
+#O
+Vnum 628
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 621
+Nest 0
+Cond 0
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 402
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 9227
+Nest 0
+Cond 0
+Wear -1
+Cost 1630
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#END

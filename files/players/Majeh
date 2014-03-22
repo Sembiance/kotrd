@@ -1,0 +1,72 @@
+#PLAYER
+Name Majeh~
+Id   1106239330
+LogO 1106243027
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 3697
+Scro 33
+Room 3054
+HMV  1 49 105 105 34 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  5175
+PAct  DEQd
+AfBy JT
+WName Majeh~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Alig  -1000
+ACs 100 100 100 100
+Attr 21 17 16 10 15
+AMod 0 0 0 0 0
+Pass MaIdvCjQyyX4w~
+Titl  has no idea what to do~
+Pnts 54
+TSex 1
+PSize 3
+LLev 0
+HMVP 49 105 112
+Cnd  0 0 15 18
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 100 'blightning'
+Sk 75 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 73 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+End
+
+#END

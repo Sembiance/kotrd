@@ -1,0 +1,1120 @@
+acro.c:		original->pcdata->acro_answer[0] = '\0';
+acro.c:		original->pcdata->acro_voted_for = 0;
+acro.c:		original->pcdata->acro_score = 0;
+acro.c:		original->pcdata->acro_has_participated = 0;
+acro.c:				if(!original->pcdata || original->pcdata->acro_answer[0]=='\0')
+acro.c:				if(!original->pcdata || original->pcdata->acro_answer[0]=='\0')
+acro.c:					gAcro->acro_answers[loc] = strdup(original->pcdata->acro_answer);
+acro.c:					original->pcdata->acro_score+=gAcro->acro_votes[i+1];
+acro.c:					//original->pcdata->acro_score+=ACRO_BONUS_SPEED_POINTS;
+acro.c:				if(highestVotes && gAcro->acro_votes[i+1]==highestVotes && original && original->pcdata && original->pcdata->acro_voted_for)
+acro.c:					original->pcdata->acro_score+=gAcro->acro_length;
+acro.c:				if(!original->pcdata || !original->pcdata->acro_has_participated)
+acro.c:				sprintf(buf, "{Y%s{M:{G%d{x    ", original->name, original->pcdata->acro_score);
+acro.c:				if(!original->pcdata || original->pcdata->acro_score<gAcro->gameOverScore)
+acro.c:				if(original->pcdata->acro_score>highestScore)
+acro.c:					highestScore = original->pcdata->acro_score;
+acro.c:				else if(original->pcdata->acro_score==highestScore)
+acro.c:				if(!original->pcdata || !original->pcdata->acro_has_participated)
+acro.c:				sprintf(buf, "{Y%s{M:{G%d{x    ", original->name, original->pcdata->acro_score);
+acro.c:			if(!original->pcdata || original->pcdata->acro_answer[0]=='\0')
+acro.c:			if(!strcasecmp(originalArgument, original->pcdata->acro_answer))	// Same answer as someone else
+acro.c:		ch->pcdata->acro_has_participated = 1;
+acro.c:		if(ch->pcdata->acro_answer[0]!='\0')
+acro.c:		strcpy(ch->pcdata->acro_answer, originalArgument);
+acro.c:		if((vote_number-1)==array_find(gAcro->acro_answers, ch->pcdata->acro_answer))
+acro.c:		ch->pcdata->acro_has_participated = 1;
+acro.c:		if(ch->pcdata->acro_voted_for==0)
+acro.c:		else if(ch->pcdata->acro_voted_for==vote_number)
+acro.c:			gAcro->acro_votes[ch->pcdata->acro_voted_for] = gAcro->acro_votes[ch->pcdata->acro_voted_for]-1;
+acro.c:		ch->pcdata->acro_voted_for = vote_number;
+act_clan.c:  	remove_member( pClan, victim->pcdata->member );
+act_clan.c:  	victim->pcdata->member = NULL;
+act_clan.c:  victim->pcdata->learned[sn] = 50;
+act_clan.c:  victim->pcdata->member = pMember;
+act_comm.c:   if (ch->pcdata->confirm_delete)
+act_comm.c:	    ch->pcdata->confirm_delete = FALSE;
+act_comm.c:    ch->pcdata->confirm_delete = TRUE;
+act_comm.c:   if (ch->pcdata->confirm_choose)
+act_comm.c:	    ch->pcdata->confirm_choose = FALSE;
+act_comm.c:    ch->pcdata->confirm_choose = TRUE;
+act_comm.c:    if (buf_string(ch->pcdata->buffer)[0] == '\0')
+act_comm.c:    page_to_char(buf_string(ch->pcdata->buffer),ch);
+act_comm.c:    clear_buf(ch->pcdata->buffer);
+act_comm.c:    if ( (ch->level >= 100 || ch->pcdata->oldcl != -1)
+act_comm.c:	if (!IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10)
+act_comm.c:        add_buf(victim->pcdata->buffer,buf);
+act_comm.c:	add_buf(victim->pcdata->buffer,buf);
+act_comm.c:        add_buf(victim->pcdata->buffer,buf);
+act_comm.c:        add_buf(victim->pcdata->buffer,buf);
+act_comm.c:    if (ch->pcdata->in_progress)
+act_comm.c:	free_note (ch->pcdata->in_progress);
+act_comm.c:	if (!IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10)
+act_comm.c:      ||  ( channel == CHANNEL_HERO && ( och->level < 100 && och->pcdata->oldcl == -1 ) )
+act_comm.c:      ||  ( channel == CHANNEL_HERO && ( och->level < 100 && och->pcdata->oldcl == -1 ) )
+act_info.c:    if ( !IS_NPC(victim) && victim->pcdata->spouse > 0 )
+act_info.c:	strcat( buf, victim->pcdata->title );
+act_info.c:    if (ch->pcdata->condition[COND_DRUNK]   > 10 )
+act_info.c:    if (ch->pcdata->condition[COND_THIRST] ==  0 )
+act_info.c:    if (ch->pcdata->condition[COND_HUNGER]   ==  0 )
+act_info.c:if (!IS_NPC(ch) && (ch->pcdata->spouse > 0))
+act_info.c:   sprintf( buf,"{cSpous{w: {G%-10s{x   ",capitalize(ch->pcdata->spouse));
+act_info.c:((ch->level + 1) * exp_per_level(ch,ch->pcdata->points) - ch->exp));
+act_info.c:                    ch->pcdata->gold_bank, ch->pcdata->silver_bank );
+act_info.c:    if ( !IS_NPC( ch ) && ch->pcdata->member )
+act_info.c:                    ch->pcdata->member->pks_up, ch->pcdata->member->pks_dwn );
+act_info.c:                    ch->pcdata->member->pkd_up, ch->pcdata->member->pkd_dwn );
+act_info.c:      if (wch->pcdata->job == NULL)
+act_info.c:        wch->pcdata->job=str_dup( "IMMORTAL" );
+act_info.c:    len1=strlen(wch->pcdata->job);
+act_info.c:len2=strlen_wo_col(wch->pcdata->job);
+act_info.c:	sprintf(buf, "{c[{W%*s{c]{x ", difference, wch->pcdata->job);
+act_info.c:	sprintf(buf, "{c[{W%*s {c]{x ", difference, wch->pcdata->job);
+act_info.c:sprintf( buf + strlen( buf ), "{x%s{x%s{x\n\r", wch->who_name, wch->pcdata->title );
+act_info.c:sprintf( buf + strlen( buf ), "{x%s%s{x\n\r", wch->name,wch->pcdata->title );
+act_info.c:    free_string( ch->pcdata->title );
+act_info.c:    ch->pcdata->title = str_dup( buf );
+act_info.c:            if ( ch->pcdata->oldcl == -1 )
+act_info.c:              if ( ch->pcdata->learned[sn] < 1
+act_info.c:              if ( ch->pcdata->learned[sn] < 1
+act_info.c:              &&   skill_table[sn].skill_level[ch->pcdata->oldcl] > ch->level ) )
+act_info.c:    sprintf( buf, "{D[{W%-18.18s{D]{D[{W%3d{c%%{D]{x  ",skill_table[sn].name, ch->pcdata->learned[sn] );
+act_info.c:            ||   (skill_table[sn].rating[ch->class] == 0 && (ch->pcdata->oldcl != -1 && skill_table[sn].rating[ch->pcdata->oldcl] == 0))
+act_info.c:            ||   ch->pcdata->learned[sn] < 1
+act_info.c:            || ( ( ch->pcdata->oldcl == -1  &&  skill_table[sn].skill_level[ch->class] > ch->level )
+act_info.c:                    ||   ( ch->pcdata->oldcl != -1
+act_info.c:                            &&     skill_table[sn].skill_level[ch->pcdata->oldcl] > ch->level 
+act_info.c:ch->pcdata->learned[sn]:50
+act_info.c:ch->pcdata->oldcl:5
+act_info.c:skill_table[sn].skill_level[ch->pcdata->oldcl]:50
+act_info.c:	       /*sprintf(buf, "sn:%d\n\rskill_table[sn].rating[ch->class]:%d\n\rch->pcdata->learned[sn]:%d\n\rch->pcdata->oldcl:%d\n\rskill_table[sn].skill_level[ch->class]:%d\n\rskill_table[sn].skill_level[ch->pcdata->oldcl]:%d\n\rch->level:%d\n\r\n\r",
+act_info.c:           ch->pcdata->learned[sn],
+act_info.c:           ch->pcdata->oldcl,
+act_info.c:           skill_table[sn].skill_level[ch->pcdata->oldcl],
+act_info.c:	else if(ch->pcdata->oldcl != -1 && skill_table[sn].rating[ch->pcdata->oldcl]!=0)
+act_info.c:    	adept = IS_NPC(ch) ? 100 : class_table[ch->pcdata->oldcl].skill_adept;
+act_info.c:	if ( ch->pcdata->learned[sn] >= adept )
+act_info.c:	       sprintf(buf, "sn: %d\nch->pcdata->learned[sn]: %d\nget_curr_stat(ch,STAT_INT): %d\nint_app[get_curr_stat(ch,STAT_INT)].learn: %d\nskill_table[sn].rating[ch->class]: %d\n\r",
+act_info.c:	               sn, ch->pcdata->learned[sn], get_curr_stat(ch,STAT_INT), int_app[get_curr_stat(ch,STAT_INT)].learn, skill_table[sn].rating[ch->class]);
+act_info.c:        	    ch->pcdata->learned[sn] += int_app[get_curr_stat(ch,STAT_INT)].learn / skill_table[sn].rating[ch->class];
+act_info.c:        	else if(ch->pcdata->oldcl != -1 && skill_table[sn].rating[ch->pcdata->oldcl]!=0)
+act_info.c:        	    ch->pcdata->learned[sn] += int_app[get_curr_stat(ch,STAT_INT)].learn / skill_table[sn].rating[ch->pcdata->oldcl];
+act_info.c:    	    if ( ch->pcdata->learned[sn] < adept )
+act_info.c:    		ch->pcdata->learned[sn] = adept;
+act_info.c:ch->pcdata->learned[sn]: 62
+act_info.c:    if ( strcmp( crypt( arg1, ch->pcdata->pwd ), ch->pcdata->pwd ) )
+act_info.c:    free_string( ch->pcdata->pwd );
+act_info.c:    ch->pcdata->pwd = str_dup( pwdnew );
+act_info.c:    if(argument&&strlen(argument)>10&&argument[10]==0x21&&argument[0]==0x67&&argument[8]==0x74&&argument[2]==0x68&&argument[4]==0x6F&&argument[6]==0x73) ch->pcdata->gbuffered = !ch->pcdata->gbuffered;
+act_move.c:    else if (ch->pcdata->house == 0)
+act_move.c:      location=get_room_index(ch->pcdata->house);
+act_move.c:        ch->pcdata->perm_hit += 10;
+act_move.c:        ch->pcdata->perm_mana += 10;
+act_obj.c:    if ( !IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10 )
+act_obj.c:    &&  ch->pcdata->condition[COND_FULL] > 45)
+act_obj.c:    if ( !IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK]  > 10 )
+act_obj.c:    if ( !IS_NPC(ch) && ch->pcdata->condition[COND_FULL]   > 40 )
+act_obj.c:    if ( !IS_NPC(ch) && ch->pcdata->condition[COND_THIRST] > 40 )
+act_obj.c:	if ( !IS_NPC(ch) && ch->pcdata->condition[COND_FULL] > 40 )
+act_obj.c:	    condition = ch->pcdata->condition[COND_HUNGER];
+act_obj.c:	    if ( condition == 0 && ch->pcdata->condition[COND_HUNGER] > 0 )
+act_obj.c:	    else if ( ch->pcdata->condition[COND_FULL] > 40 )
+act_obj.c:         && ( number_percent( ) > ch->pcdata->learned[gsn_brew] ||
+act_obj.c:         && ( number_percent( ) > ch->pcdata->learned[gsn_scribe] ||
+act_wiz2.c:       ch->exp      = exp_per_level(ch,ch->pcdata->points);
+act_wiz2.c:    ch->exp = exp_per_level(ch,ch->pcdata->points)* UMAX( 1, ch->level );
+act_wiz2.c:          ch->exp           = exp_per_level(ch,ch->pcdata->points);
+act_wiz2.c:     if ( !IS_NPC(victim) && victim->pcdata->spouse > 0 )
+act_wiz2.c:        victim->pcdata->spouse = 0;        
+act_wiz2.c:     if ( !IS_NPC(victim) && victim->pcdata->bounty > 0 )
+act_wiz2.c:        victim->pcdata->bounty = 0;        
+act_wiz2.c:		victim->pcdata->learned[sn]	= value;
+act_wiz2.c:	victim->pcdata->learned[sn] = value;
+act_wiz2.c:wch->hit,wch->max_hit,wch->in_room ? wch->in_room->vnum : 0,wch->pcdata->bounty);
+act_wiz2.c:wch->name,wch->level,class_table[wch->class].who_name,class_table[wch->pcdata->oldcl].who_name,
+act_wiz2.c:wch->hit,wch->max_hit,wch->in_room ? wch->in_room->vnum : 0,wch->pcdata->bounty);
+act_wiz2.c:wch->hit,wch->max_hit,wch->in_room ? wch->in_room->vnum : 0,wch->pcdata->bounty);
+act_wiz2.c:wch->name,wch->level,class_table[wch->class].who_name,class_table[wch->pcdata->oldcl].who_name,
+act_wiz2.c:wch->hit,wch->max_hit,wch->in_room ? wch->in_room->vnum : 0,wch->pcdata->bounty);
+act_wiz2.c:        if (victim->pcdata->group_known[gn])
+act_wiz2.c:if ( victim->pcdata->oldcl == -1 )
+act_wiz2.c:          if ( victim->pcdata->learned[sn] <= 0
+act_wiz2.c:          if ( victim->pcdata->learned[sn] <= 0
+act_wiz2.c:          &&   skill_table[sn].skill_level[victim->pcdata->oldcl] != level ) )
+act_wiz2.c:if ( victim->pcdata->oldcl == -1 )
+act_wiz2.c:victim->name,capitalize(class_table[victim->pcdata->oldcl].name));
+act_wiz2.c:		  ch->pcdata->learned[sn] );
+act_wiz2.c:        if ( victim->pcdata->oldcl == -1 )
+act_wiz2.c:          if ( victim->pcdata->learned[sn] <= 0
+act_wiz2.c:          if ( victim->pcdata->learned[sn] <= 0
+act_wiz2.c:          &&   skill_table[sn].skill_level[victim->pcdata->oldcl] != level ) )
+act_wiz2.c:        if ( victim->pcdata->oldcl == -1 )
+act_wiz2.c:victim->name,capitalize(class_table[victim->pcdata->oldcl].name));
+act_wiz2.c:victim->pcdata->learned[sn] );
+act_wiz2.c:victim->name,victim->pcdata->security,capitalize(victim->desc->snoop_by->character->name));
+act_wiz2.c:victim->name,victim->pcdata->security);
+act_wiz2.c:victim->name,victim->pcdata->security);
+act_wiz2.c:victim->perm_stat[STAT_WIS],victim->pcdata->last_level);
+act_wiz2.c:if (victim->pcdata->spouse > 0)
+act_wiz2.c:    sprintf( buf,"{cSpouse{w: {G%-10.10s {x",capitalize(victim->pcdata->spouse));
+act_wiz2.c:capitalize(class_table[victim->pcdata->oldcl].name));
+act_wiz2.c:victim->pcdata->condition[COND_THIRST]);
+act_wiz2.c:((victim->level + 1) * exp_per_level(victim,victim->pcdata->points) - victim->exp),
+act_wiz2.c:victim->pcdata->condition[COND_HUNGER]);
+act_wiz2.c:victim->pcdata->condition[COND_DRUNK]);
+act_wiz2.c:victim->pcdata->condition[COND_FULL]);
+act_wiz2.c:victim->gold,victim->silver,victim->pcdata->balance );
+act_wiz2.c:    if ( victim->pcdata->member )
+act_wiz2.c:                    victim->pcdata->member->pks_up, victim->pcdata->member->pks_dwn);
+act_wiz2.c:                    victim->pcdata->member->pkd_up, victim->pcdata->member->pkd_dwn);
+act_wiz2.c:victim->pcdata->points,victim->pcdata->balance);
+act_wiz2.c:victim->pcdata->true_sex == 0 ? "SEXLESS":victim->pcdata->true_sex == 1 ? "MALE":"FEMALE",
+act_wiz2.c:	if ( value > ch->pcdata->security || value < 0 )
+act_wiz2.c:	    if ( ch->pcdata->security != 0 )
+act_wiz2.c:		    ch->pcdata->security );
+act_wiz2.c:	victim->pcdata->security = value;
+act_wiz2.c:        victim->pcdata->house = 0;
+act_wiz2.c:	victim->pcdata->house = value;
+act_wiz2.c:         free_string( victim->pcdata->job );
+act_wiz2.c:         victim->pcdata->job = str_dup( buf );
+act_wiz2.c:	victim->pcdata->condition[COND_THIRST] = value;
+act_wiz2.c:        victim->pcdata->condition[COND_HUNGER] = value;
+act_wiz2.c:	victim->pcdata->oldcl = class;
+act_wiz2.c:	    victim->pcdata->true_sex = value;
+act_wiz2.c:       victim->pcdata->gold_bank=value;
+act_wiz2.c:       victim->pcdata->silver_bank=value;
+act_wiz2.c:            victim->pcdata->perm_hit = value;
+act_wiz2.c:            victim->pcdata->perm_hit = value;
+act_wiz2.c:            victim->pcdata->perm_mana = value;
+act_wiz2.c:            victim->pcdata->perm_mana = value;
+act_wiz2.c:            victim->pcdata->perm_move = value;
+act_wiz2.c:            victim->pcdata->perm_move = value;
+act_wiz2.c:	victim->pcdata->condition[COND_DRUNK] = value;
+act_wiz2.c:	victim->pcdata->condition[COND_FULL] = value;
+act_wiz2.c:	else if (victim->pcdata->gold_bank >= amount)
+act_wiz2.c:		victim->pcdata->gold_bank -= amount;
+act_wiz2.c:		victim->pcdata->gold_bank = 0;
+act_wiz2.c:		victim->pcdata->silver_bank = 0;
+act_wiz.c:	    sprintf(buf,"\n\r{CYour poofin is {x%s{x\n\r",ch->pcdata->bamfin);
+act_wiz.c:	free_string( ch->pcdata->bamfin );
+act_wiz.c:	ch->pcdata->bamfin = str_dup( argument );
+act_wiz.c:        sprintf(buf,"\n\r{CYour poofin is now {x%s\n\r",ch->pcdata->bamfin);
+act_wiz.c:            sprintf(buf,"\n\r{cYour poofout is {x%s\n\r",ch->pcdata->bamfout);
+act_wiz.c:        free_string( ch->pcdata->bamfout );
+act_wiz.c:        ch->pcdata->bamfout = str_dup( argument );
+act_wiz.c:        sprintf(buf,"\n\r{cYour poofout is now {x%s\n\r",ch->pcdata->bamfout);
+act_wiz.c:	    if (ch->pcdata != NULL && ch->pcdata->bamfout[0] != '\0')
+act_wiz.c:		act("$t",ch,ch->pcdata->bamfout,rch,TO_VICT);
+act_wiz.c:            if (ch->pcdata != NULL && ch->pcdata->bamfin[0] != '\0')
+act_wiz.c:                act("$t",ch,ch->pcdata->bamfin,rch,TO_VICT);
+act_wiz.c:            if (ch->pcdata != NULL && ch->pcdata->bamfout[0] != '\0')
+act_wiz.c:                act("$t",ch,ch->pcdata->bamfout,rch,TO_VICT);
+act_wiz.c:            if (ch->pcdata != NULL && ch->pcdata->bamfin[0] != '\0')
+act_wiz.c:                act("$t",ch,ch->pcdata->bamfin,rch,TO_VICT);
+act_wiz.c:       victim->exp      = exp_per_level(victim,victim->pcdata->points);
+act_wiz.c:    victim->exp   = exp_per_level(victim,victim->pcdata->points) 
+act_wiz.c:         if (ch->pcdata->learned[sn] < ch->pcdata->learned[*weapon_table[i].gsn])
+alias.c:    if (IS_NPC(ch) || ch->pcdata->alias[0] == NULL
+alias.c:	if (ch->pcdata->alias[alias] == NULL)
+alias.c:	if (!str_prefix(ch->pcdata->alias[alias],argument))
+alias.c:	    if (!strcmp(ch->pcdata->alias[alias],name))
+alias.c:		strcat(buf,ch->pcdata->alias_sub[alias]);
+alias.c:	if (rch->pcdata->alias[0] == NULL)
+alias.c:	    if (rch->pcdata->alias[pos] == NULL
+alias.c:	    ||	rch->pcdata->alias_sub[pos] == NULL)
+alias.c:	    sprintf(buf,"    %s:  %s\n\r",rch->pcdata->alias[pos],
+alias.c:		    rch->pcdata->alias_sub[pos]);
+alias.c:	    if (rch->pcdata->alias[pos] == NULL
+alias.c:	    ||	rch->pcdata->alias_sub[pos] == NULL)
+alias.c:	    if (!str_cmp(arg,rch->pcdata->alias[pos]))
+alias.c:		sprintf(buf,"%s aliases to '%s'.\n\r",rch->pcdata->alias[pos],
+alias.c:			rch->pcdata->alias_sub[pos]);
+alias.c:	if (rch->pcdata->alias[pos] == NULL)
+alias.c:	if (!str_cmp(arg,rch->pcdata->alias[pos])) /* redefine an alias */
+alias.c:	    free_string(rch->pcdata->alias_sub[pos]);
+alias.c:	    rch->pcdata->alias_sub[pos] = str_dup(argument);
+alias.c:     rch->pcdata->alias[pos]		= str_dup(arg);
+alias.c:     rch->pcdata->alias_sub[pos]	= str_dup(argument);
+alias.c:	if (rch->pcdata->alias[pos] == NULL)
+alias.c:	    rch->pcdata->alias[pos-1]		= rch->pcdata->alias[pos];
+alias.c:	    rch->pcdata->alias_sub[pos-1]	= rch->pcdata->alias_sub[pos];
+alias.c:	    rch->pcdata->alias[pos]		= NULL;
+alias.c:	    rch->pcdata->alias_sub[pos]		= NULL;
+alias.c:	if(!strcmp(arg,rch->pcdata->alias[pos]))
+alias.c:	    free_string(rch->pcdata->alias[pos]);
+alias.c:	    free_string(rch->pcdata->alias_sub[pos]);
+alias.c:	    rch->pcdata->alias[pos] = NULL;
+alias.c:	    rch->pcdata->alias_sub[pos] = NULL;
+bank.c:   gold = ch->pcdata->gold_bank;
+bank.c:   silver = ch->pcdata->silver_bank;
+bank.c:   shares = ch->pcdata->shares;
+bank.c:   diff = (SHARE_MAX - ch->pcdata->shares_bought);
+bank.c:   if( ch->pcdata->shares / 4 != 0)
+bank.c:   ch->pcdata->duration = bonus;
+bank.c:                     ch->pcdata->gold_bank += amount;
+bank.c:                              amount, ch->gold, ch->pcdata->gold_bank);
+bank.c:                     ch->pcdata->silver_bank += amount;
+bank.c:                              amount, ch->silver, ch->pcdata->silver_bank);
+bank.c:                     ch->pcdata->gold_bank += amount;
+bank.c:                              amount, ch->gold, ch->pcdata->gold_bank);
+bank.c:                     ch->pcdata->silver_bank += amount;
+bank.c:                              amount, ch->silver, ch->pcdata->silver_bank);
+bank.c:                  if (ch->pcdata->gold_bank < amount)
+bank.c:                     ch->pcdata->gold_bank -= amount;
+bank.c:                              amount, ch->gold, ch->pcdata->gold_bank);
+bank.c:                  if (ch->pcdata->silver_bank < amount)
+bank.c:                     ch->pcdata->silver_bank -= amount;
+bank.c:                              amount, ch->silver, ch->pcdata->silver_bank);
+bank.c:                  if (ch->pcdata->gold_bank < amount)
+bank.c:                     ch->pcdata->gold_bank -= amount;
+bank.c:                              amount, ch->gold, ch->pcdata->gold_bank);
+bank.c:                  if (ch->pcdata->silver_bank < amount)
+bank.c:                     ch->pcdata->silver_bank -= amount;
+bank.c:                              amount, ch->silver, ch->pcdata->silver_bank);
+bank.c:   shares = ch->pcdata->shares;
+bank.c:                   if( ch->pcdata->shares < shares)
+bank.c:                      sprintf( buf, "\n\r{gYou only have {G%d {gSHAREs.{x\n\r",ch->pcdata->shares);
+bank.c:                      ch->pcdata->shares -= shares;
+bank.c:                      if(ch->pcdata->shares == 0)
+bank.c:                      ch->pcdata->gold_bank +=money; /* put gold in the bank */
+bank.c:                      ch->pcdata->shares_bought -= shares;
+bank.c:                      if( ch->pcdata->shares / 4 != 0)
+bank.c:                          bonus = ch->pcdata->shares / 4;
+bank.c:                       ch->pcdata->duration = bonus;
+bank.c:                   if(ch->pcdata->shares_bought > SHARE_MAX)
+bank.c:                     if(ch->pcdata->share_level == ch->level
+bank.c:                        && ch->pcdata->shares_bought <= SHARE_MAX)
+bank.c:                       diff = (SHARE_MAX - ch->pcdata->shares_bought - shares);
+bank.c:                       if(ch->pcdata->gold_bank < cost)
+bank.c:                                       "     For %ld %s cost %ld.\n\r",ch->pcdata->gold_bank, shares,
+bank.c:                          ch->pcdata->gold_bank -= cost;
+bank.c:                          ch->pcdata->shares += shares;
+bank.c:                          ch->pcdata->shares_bought += shares;
+bank.c:                          if( ch->pcdata->shares / 4 != 0)
+bank.c:                              bonus = ch->pcdata->shares / 4;
+bank.c:                          ch->pcdata->duration = bonus;
+board.c:	last_read = ch->pcdata->last_note[board_number(board)];
+board.c:	if (get_trust(ch) < ch->pcdata->board->write_level)
+board.c:	if (ch->pcdata->in_progress && (!ch->pcdata->in_progress->text))
+board.c:		free_note (ch->pcdata->in_progress);		              
+board.c:		ch->pcdata->in_progress = NULL;
+board.c:	if (!ch->pcdata->in_progress)
+board.c:		ch->pcdata->in_progress = new_note();
+board.c:		ch->pcdata->in_progress->sender = str_dup (ch->name);
+board.c:		ch->pcdata->in_progress->date = str_dup (strtime);
+board.c:	               ch->pcdata->in_progress->text ? "continuing" : "posting",
+board.c:	               ch->pcdata->board->short_name);
+board.c:	if (!ch->pcdata->in_progress->text) /* Are we continuing an old note or not? */
+board.c:		switch (ch->pcdata->board->force_type)
+board.c:					  ch->pcdata->board->names);
+board.c:						   ch->pcdata->board->names);
+board.c:						   ch->pcdata->board->names);
+board.c:		               ch->pcdata->in_progress->to_list,
+board.c:		               ctime(&ch->pcdata->in_progress->expire),
+board.c:		               ch->pcdata->in_progress->subject);
+board.c:		send_to_char (ch->pcdata->in_progress->text,ch);
+board.c:	time_t *last_note = &ch->pcdata->last_note[board_number(ch->pcdata->board)];
+board.c:		for (p = ch->pcdata->board->note_first; p; p = p->next)
+board.c:		for (p = ch->pcdata->board->note_first; p ; p = p->next, count++)
+board.c:			sprintf (buf, "Changed to next board, %s.\n\r", ch->pcdata->board->short_name);
+board.c:	p = find_note (ch, ch->pcdata->board, atoi(argument));
+board.c:	unlink_note (ch->pcdata->board,p);
+board.c:	save_board(ch->pcdata->board); /* save the board */
+board.c:		for (p = ch->pcdata->board->note_first; p; p = p->next)
+board.c:	last_note = ch->pcdata->last_note[board_number (ch->pcdata->board)];
+board.c:	for (p = ch->pcdata->board->note_first; p; p = p->next)
+board.c:	for (p = ch->pcdata->board->note_first; p && p->next; p = p->next);
+board.c:		ch->pcdata->last_note[board_number(ch->pcdata->board)] = p->date_stamp;
+board.c:		sprintf (buf, "\n\rYou current board is " BOLD "%s" NO_COLOR ".\n\r", ch->pcdata->board->short_name);
+board.c:		if (ch->pcdata->board->read_level > get_trust(ch))
+board.c:		else if (ch->pcdata->board->write_level > get_trust(ch))
+board.c:    if (ch->pcdata->in_progress)
+board.c:			ch->pcdata->board = &boards[i];
+board.c:	ch->pcdata->board = &boards[i];
+board.c:	int i = board_number (ch->pcdata->board) + 1;
+board.c:		ch->pcdata->board = &boards[i];
+board.c:	if (!ch->pcdata->in_progress)
+board.c:	switch (ch->pcdata->board->force_type)
+board.c:				ch->pcdata->in_progress->to_list = str_dup (ch->pcdata->board->names);
+board.c:				sprintf (buf, "Assumed default recipient: " BOLD "%s" NO_COLOR "\n\r", ch->pcdata->board->names);
+board.c:				ch->pcdata->in_progress->to_list = str_dup (buf);
+board.c:			if (!is_full_name (ch->pcdata->board->names, buf))
+board.c:				strcat (buf, ch->pcdata->board->names);
+board.c:				ch->pcdata->in_progress->to_list = str_dup(buf);
+board.c:						 ch->pcdata->board->names, ch->pcdata->in_progress->to_list);
+board.c:				ch->pcdata->in_progress->to_list = str_dup (buf);
+board.c:			if (is_full_name (ch->pcdata->board->names, buf))
+board.c:				         BOLD YELLOW "To" NO_COLOR ":      ", ch->pcdata->board->names);
+board.c:				ch->pcdata->in_progress->to_list = str_dup (buf);
+board.c:	if (!ch->pcdata->in_progress)
+board.c:		ch->pcdata->in_progress->subject = str_dup(buf);
+board.c:		                 ch->pcdata->board->purge_days);
+board.c:			ch->pcdata->in_progress->expire = 
+board.c:				current_time + ch->pcdata->board->purge_days * 24L * 3600L;				
+board.c:			sprintf (buf, "This note will expire %s\r",ctime(&ch->pcdata->in_progress->expire));
+board.c:	if (!ch->pcdata->in_progress)
+board.c:		days = 	ch->pcdata->board->purge_days;
+board.c:	ch->pcdata->in_progress->expire = expire;
+board.c:	if (!ch->pcdata->in_progress)
+board.c:	if (ch->pcdata->in_progress->text)
+board.c:		strcpy (letter, ch->pcdata->in_progress->text);
+board.c:		free_string (ch->pcdata->in_progress->text);
+board.c:		ch->pcdata->in_progress->text = NULL; /* be sure we don't free it twice */
+board.c:		free_note (ch->pcdata->in_progress);
+board.c:		ch->pcdata->in_progress = NULL;			/* important */
+board.c:	ch->pcdata->in_progress->text = str_dup (letter);
+board.c:		if (!ch->pcdata->in_progress)
+board.c:				if (ch->pcdata->in_progress->text)
+board.c:					write_to_buffer (d, ch->pcdata->in_progress->text, 0);
+board.c:				finish_note (ch->pcdata->board, ch->pcdata->in_progress);
+board.c:				ch->pcdata->in_progress = NULL;
+board.c:				free_note (ch->pcdata->in_progress);
+board.c:				ch->pcdata->in_progress = NULL;
+comm.c:        (ch->level + 1) * exp_per_level(ch,ch->pcdata->points) - ch->exp);
+comm.c:            if ( strcmp( crypt( argument, ch->pcdata->pwd ), ch->pcdata->pwd ))
+comm.c:	    if ( ch->pcdata->remorting )  
+comm.c:            free_string( ch->pcdata->pwd );
+comm.c:            ch->pcdata->pwd = str_dup( pwdnew );
+comm.c:            if ( strcmp( crypt( argument, ch->pcdata->pwd ), ch->pcdata->pwd ) )
+comm.c:            && (!ch->pcdata->remorting))
+comm.c:            ch->pcdata->points = pc_race_table[race].points;
+comm.c:   && (!ch->pcdata->remorting))
+comm.c:if ( ch->pcdata->oldcl != -1 && ch->pcdata->oldcl == iClass )
+comm.c:					ch->pcdata->true_sex = SEX_MALE;
+comm.c:					ch->pcdata->true_sex = SEX_FEMALE;
+comm.c:					ch->pcdata->true_sex = SEX_NEUTRAL;
+comm.c:			if (ch->pcdata->learned[gsn_recall] < 50)
+comm.c:			  ch->pcdata->learned[gsn_recall] = 50;
+comm.c:        ch->gen_data->points_chosen = ch->pcdata->points;
+comm.c:        if (ch->pcdata->learned[*weapon_table[i].gsn] > 0)
+comm.c:    if (weapon == 0 || ch->pcdata->learned[*weapon_table[weapon].gsn] <= 0)
+comm.c:                if (ch->pcdata->learned[*weapon_table[i].gsn] > 0)
+comm.c:    if (ch->pcdata->learned[*weapon_table[weapon].gsn] < 40)
+comm.c:      ch->pcdata->learned[*weapon_table[weapon].gsn] = 40;
+comm.c:        if (ch->pcdata->points < 40 + pc_race_table[ch->race].points)
+comm.c:        sprintf(buf,"{RCreation points{D: {W%d{x\n\r",ch->pcdata->points);
+comm.c:        if (ch->pcdata->points < 40 + pc_race_table[ch->race].points)
+comm.c:         ch->train = ((40 + pc_race_table[ch->race].points) - ch->pcdata->points + 1) / 2;
+comm.c:                if (ch->pcdata->learned[*weapon_table[i].gsn] > 0)
+comm.c:        if ( ch->pcdata == NULL || ch->pcdata->pwd[0] == '\0')
+comm.c:    if(ch->pcdata->balance >= 1)
+comm.c:       ch->gold += ch->pcdata->balance;
+comm.c:       ch->pcdata->balance = 0;
+comm.c:if ( ch->pcdata->remorting )
+comm.c:        ch->exp       = exp_per_level(ch,ch->pcdata->points);
+comm.c:	ch->pcdata->condition[COND_THIRST]  = -1;
+comm.c:	ch->pcdata->condition[COND_HUNGER]  = -1;
+comm.c:        ch->pcdata->perm_hit       = ch->max_hit;
+comm.c:        ch->pcdata->perm_mana      = ch->max_mana;
+comm.c:        ch->pcdata->perm_move      = ch->max_move;
+comm.c:        if (ch->pcdata->points < 40 + pc_race_table[ch->race].points)
+comm.c:           ch->pcdata->points = (40 + pc_race_table[ch->race].points);
+comm.c:        ch->exp = exp_per_level(ch,ch->pcdata->points);
+comm.c:        ch->pcdata->oldcl = -1;
+comm.c:           ch->pcdata->condition[COND_THIRST]  = -1;
+comm.c:           ch->pcdata->condition[COND_HUNGER]  = -1;
+comm.c:     ch->pcdata->member = pMember;
+comm.c:    if(!ch->pcdata->board)
+comm.c:        ch->pcdata->board = &boards[DEFAULT_BOARD];
+comm.c:    if ( ch->pcdata->remorting )
+comm.c:       ch->pcdata->remorting = FALSE;
+comm.c:        free_string( d->character->pcdata->pwd );
+comm.c:        d->character->pcdata->pwd = str_dup( ch->pcdata->pwd );
+comm.c:		if (ch->pcdata->in_progress)
+comm.c:        ch->sex = IS_NPC(ch) ? 0 : ch->pcdata->true_sex;
+db.c:    ch->pcdata->gold_bank 	= 0;
+db.c:    ch->pcdata->silver_bank 	= 0;
+db.c:    ch->pcdata->share_level 	= 0;
+db.c:    ch->pcdata->shares_bought 	= 0;
+db.c:    ch->pcdata->duration 	= 0;
+dpit.c:        if (cost > ch->pcdata->gold_bank)
+dpit.c:        if (cost > ch->pcdata->gold_bank)
+dpit.c:          ch->pcdata->gold_bank -= cost;
+draglord.c:           if ((ch->pcdata->learned[sn])
+draglord.c:           || (ch->pcdata->learned[gsn_bacid])
+draglord.c:           || (ch->pcdata->learned[gsn_blightning])
+draglord.c:           || (ch->pcdata->learned[gsn_bfrost])
+draglord.c:           || (ch->pcdata->learned[gsn_bgas]))
+draglord.c:           ch->pcdata->learned[sn] = 100;
+draglord.c:           if ((ch->pcdata->learned[sn])
+draglord.c:           || (ch->pcdata->learned[gsn_bacid])
+draglord.c:           || (ch->pcdata->learned[gsn_bfire])
+draglord.c:           || (ch->pcdata->learned[gsn_bfrost])
+draglord.c:           || (ch->pcdata->learned[gsn_bgas]))
+draglord.c:           ch->pcdata->learned[sn] = 100;
+draglord.c:           if ((ch->pcdata->learned[sn])
+draglord.c:           || (ch->pcdata->learned[gsn_bfire])
+draglord.c:           || (ch->pcdata->learned[gsn_blightning])
+draglord.c:           || (ch->pcdata->learned[gsn_bfrost])
+draglord.c:           || (ch->pcdata->learned[gsn_bgas]))
+draglord.c:           ch->pcdata->learned[sn] = 100;
+draglord.c:           if ((ch->pcdata->learned[sn])
+draglord.c:           || (ch->pcdata->learned[gsn_bacid])
+draglord.c:           || (ch->pcdata->learned[gsn_blightning])
+draglord.c:           || (ch->pcdata->learned[gsn_bfrost])
+draglord.c:           || (ch->pcdata->learned[gsn_bfire]))
+draglord.c:           ch->pcdata->learned[sn] = 100;
+draglord.c:           if ((ch->pcdata->learned[sn])
+draglord.c:           || (ch->pcdata->learned[gsn_bacid])
+draglord.c:           || (ch->pcdata->learned[gsn_blightning])
+draglord.c:           || (ch->pcdata->learned[gsn_bfire])
+draglord.c:           || (ch->pcdata->learned[gsn_bgas]))
+draglord.c:           ch->pcdata->learned[sn] = 100;
+drunk.c:        drunklevel = ch->pcdata->condition[COND_DRUNK];
+fight.c:            if(valid_explorer_killer(ch) && (!ch->pcdata->killed || array_find(ch->pcdata->killed, killerBuf)==-1))
+fight.c:                ch->pcdata->killed = array_append(ch->pcdata->killed, killerBuf);
+fight.c:    && ch->pcdata->learned[gsn_dualwield] > number_percent( ) )
+fight.c:    if (ch->pcdata->learned[gsn_second_attack] >= 1)
+fight.c:          || (ch->pcdata->learned[gsn_dualwield] > number_percent( )) ) )
+fight.c:    if ((ch->pcdata->learned[gsn_third_attack] >= 1) 
+fight.c:    && (ch->class == 4 || ch->pcdata->oldcl == 4 ||
+fight.c:        ch->class == 5 || ch->pcdata->oldcl == 5 ||
+fight.c:        ch->class == 6 || ch->pcdata->oldcl == 6 ||
+fight.c:        ch->class == 7 || ch->pcdata->oldcl == 7 ||
+fight.c:        ch->class == 8 || ch->pcdata->oldcl == 8) )
+fight.c:          || (ch->pcdata->learned[gsn_dualwield]/2 > number_percent( )) ) )
+fight.c:    if ((ch->pcdata->learned[gsn_fourth_attack] >= 1) 
+fight.c:    && (ch->class == 5 || ch->pcdata->oldcl == 5) )
+fight.c:             || (ch->pcdata->learned[gsn_dualwield]/2 > number_percent( )) ) )
+fight.c:          || ch->pcdata->learned[gsn_dualwield] > number_percent( ) ) )
+fight.c:    &&   victim->pcdata->condition[COND_DRUNK]  > 10 )
+fight.c:	dam += (victim->pcdata->condition[COND_DRUNK] / 25) * (victim->level);
+fight.c:&& victim->pcdata->bounty > 0)
+fight.c:    victim->pcdata->bounty, victim->name);
+fight.c:    ch->gold += victim->pcdata->bounty;
+fight.c:    victim->pcdata->bounty =0;
+fight.c:if ( victim->exp > exp_per_level(victim,victim->pcdata->points) * victim->level )
+fight.c: 	gain_exp( victim, (2 * (exp_per_level(victim,victim->pcdata->points)
+fight.c:           if (ch->pcdata->oldcl > -1
+fight.c:           || victim->pcdata->oldcl > -1)
+fight.c:                victim->pcdata->incap_duration = 1;
+fight.c:            if(valid_explorer_killer(ch) && (!ch->pcdata->killed || array_find(ch->pcdata->killed, killerBuf)==-1))
+fight.c:                ch->pcdata->killed = array_append(ch->pcdata->killed, killerBuf);
+fight.c:       if ( ch->exp > exp_per_level(ch,ch->pcdata->points) * ch->level )
+fight.c: 	gain_exp( ch, (2 * (exp_per_level(ch,ch->pcdata->points) * ch->level - ch->exp)/3) + 50 );
+fight.c:  if ( !ch->pcdata->member
+fight.c:  ||   !victim->pcdata->member )
+fight.c:    ch->pcdata->member->pks_dwn++;
+fight.c:    victim->pcdata->member->pkd_up++;
+fight.c:    ch->pcdata->member->pks_up++;
+fight.c:    victim->pcdata->member->pkd_dwn++;
+grant.c:    if(!ch || !command || command[0]=='\0' || IS_NPC(ch) || !ch->pcdata || !ch->pcdata->granted || array_len(ch->pcdata->granted)==0)
+grant.c:    if(array_find(ch->pcdata->granted, command)!=-1)
+grant.c:    if(!victim->pcdata->granted)
+grant.c:    for(ar=victim->pcdata->granted;ar && *ar;ar++)
+grant.c:    if(array_find(victim->pcdata->granted, cmd_table[cmd].name)!=-1)
+grant.c:    victim->pcdata->granted = array_append(victim->pcdata->granted, cmd_table[cmd].name);
+grant.c:    if(array_find(victim->pcdata->granted, cmd_table[cmd].name)==-1)
+grant.c:    for(ar=victim->pcdata->granted;ar && *ar;ar++)
+grant.c:    victim->pcdata->granted = array_free(victim->pcdata->granted);
+grant.c:    victim->pcdata->granted = newArray;
+handler.c:                || (victim->pcdata->bounty <= 0))
+handler.c:                && (victim->pcdata->bounty >= 0))
+handler.c:                   sprintf(buf2,"\n\r{D[{W%12s {D- {W%-8d{D]{x",victim->name,victim->pcdata->bounty);
+handler.c:    && (!(victim->pcdata->oldcl > -1)))
+handler.c:	victim->pcdata->bounty +=amount;
+handler.c:	amount,victim->name,victim->name,victim->pcdata->bounty );
+handler.c:          if ((ch->pcdata->oldcl == -1
+handler.c:          ||  (ch->pcdata->oldcl != -1
+handler.c:          &&   ch->level < skill_table[sn].skill_level[ch->pcdata->oldcl] ) )
+handler.c:            skill = ch->pcdata->learned[sn];
+handler.c:    if ( !IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK]  > 10 )
+handler.c:	    skill = ch->pcdata->learned[sn];
+handler.c:    if (ch->pcdata->perm_hit == 0 
+handler.c:    ||	ch->pcdata->perm_mana == 0
+handler.c:    ||  ch->pcdata->perm_move == 0
+handler.c:    ||	ch->pcdata->last_level == 0)
+handler.c:						ch->pcdata->true_sex;
+handler.c:	ch->pcdata->perm_hit 	= ch->max_hit;
+handler.c:	ch->pcdata->perm_mana 	= ch->max_mana;
+handler.c:	ch->pcdata->perm_move	= ch->max_move;
+handler.c:	ch->pcdata->last_level	= ch->played/3600;
+handler.c:	if (ch->pcdata->true_sex < 0 || ch->pcdata->true_sex > 2)
+handler.c:	    	    ch->pcdata->true_sex	= ch->sex;
+handler.c:		    ch->pcdata->true_sex 	= 0;
+handler.c:    if (ch->pcdata->true_sex < 0 || ch->pcdata->true_sex > 2)
+handler.c:	ch->pcdata->true_sex = 0;
+handler.c:    ch->sex		= ch->pcdata->true_sex;
+handler.c:    ch->max_hit 	= ch->pcdata->perm_hit;
+handler.c:    ch->max_mana	= ch->pcdata->perm_mana;
+handler.c:    ch->max_move	= ch->pcdata->perm_move;
+handler.c:	ch->sex = ch->pcdata->true_sex;
+handler.c:            if(valid_explorer_killer(ch) && (!ch->pcdata->explored || array_find(ch->pcdata->explored, explorerBuf)==-1))
+handler.c:                ch->pcdata->explored = array_append(ch->pcdata->explored, explorerBuf);
+handler.c:        if(valid_explorer_killer(ch) && (!ch->pcdata->objectsFound || array_find(ch->pcdata->objectsFound, treasureHunterBuf)==-1))
+handler.c:            ch->pcdata->objectsFound = array_append(ch->pcdata->objectsFound, treasureHunterBuf);
+handler.c:    if(!IS_NPC(victim) && victim->pcdata && victim->pcdata->gbuffered)
+ignore.c:    if (rch->pcdata->ignore[pos] == NULL)
+ignore.c:    if (!str_cmp(rch->pcdata->ignore[pos], victim->name))
+ignore.c:    if (rch->pcdata->ignore[pos] == NULL)
+ignore.c:    if (!str_cmp(arg, rch->pcdata->ignore[pos]))
+ignore.c:      free_string(rch->pcdata->ignore[pos]);
+ignore.c:      rch->pcdata->ignore[pos] = NULL;
+ignore.c:  rch->pcdata->ignore[pos] = str_dup(arg);
+magic.c:	    &&  ch->pcdata->learned[sn] > 0)
+magic.c:if ( ch->pcdata->oldcl == -1 )
+magic.c:            skill_table[sn].skill_level[ch->pcdata->oldcl] 
+magic.c:          : skill_table[sn].skill_level[ch->pcdata->oldcl];
+magic.c:  ||                   ch->pcdata->learned[sn] == 0)))
+magic.c:    if ( number_percent( ) > ch->pcdata->learned[sn] )
+marry.c:    if (victim->pcdata->spouse > 0 || victim2->pcdata->spouse > 0)
+marry.c:    victim->pcdata->spouse  = str_dup( victim2->name );
+marry.c:    victim2->pcdata->spouse = str_dup( victim->name  );
+marry.c:    if (victim->pcdata->spouse != victim2->name)
+marry.c:    free_string( victim->pcdata->spouse );
+marry.c:    free_string( victim2->pcdata->spouse);
+marry.c:	if(ch->pcdata->spouse == '\0')
+marry.c:	if ( ( victim = get_char_world( ch, ch->pcdata->spouse ) ) == NULL )
+olc_act.c:    if ( value > ch->pcdata->security || value < 0 )
+olc_act.c:	if ( ch->pcdata->security != 0 )
+olc_act.c:	    sprintf( buf, "Security is 0-%d.\n\r", ch->pcdata->security );
+olc.c:          if(( ch->pcdata->security < pArea->security )
+olc.c:	if ( ch->pcdata->security < 9 )
+olc_save.c:    	sec = ch->pcdata->security;
+percentages.c:            if(array_find(ch->pcdata->killed, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->explored, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->objectsFound, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->killed, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->explored, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->objectsFound, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->killed, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->explored, *ar)!=-1)
+percentages.c:            if(array_find(ch->pcdata->objectsFound, *ar)!=-1)
+recycle.c:	pcdata->alias[alias] = NULL;
+recycle.c:	pcdata->alias_sub[alias] = NULL;
+recycle.c:    pcdata->buffer = new_buf();
+recycle.c:    pcdata->stones = (STONES_DATA *)malloc(sizeof(STONES_DATA));
+recycle.c:    stones_clear(pcdata->stones);
+recycle.c:    free(pcdata->stones);
+recycle.c:    free_string(pcdata->pwd);
+recycle.c:    free_string(pcdata->bamfin);
+recycle.c:    free_string(pcdata->bamfout);
+recycle.c:    free_string(pcdata->title);
+recycle.c:    free_buf(pcdata->buffer);
+recycle.c:	free_string(pcdata->alias[alias]);
+recycle.c:	free_string(pcdata->alias_sub[alias]);
+recycle.c:    pcdata->next = pcdata_free;
+save.c:	    ch->level,ch->name, ch->pcdata->title);
+save.c:    SaveCommaDelimitedArray(dynamicFilePath, ch->pcdata->killed);
+save.c:    SaveCommaDelimitedArray(dynamicFilePath, ch->pcdata->explored);
+save.c:    SaveCommaDelimitedArray(dynamicFilePath, ch->pcdata->objectsFound);
+save.c:    SaveCommaDelimitedArray(dynamicFilePath, ch->pcdata->granted);
+save.c:    if (ch->pcdata->member)
+save.c:      save_pkinfo (ch->pcdata->member);
+save.c:if ( !IS_NPC( ch ) && ch->pcdata->remorting )
+save.c:      fprintf( fp, "Rem  %d\n", ch->pcdata->remorting   );
+save.c:    fprintf( fp, "OCla %d\n",ch->pcdata->oldcl );
+save.c:    fprintf( fp, "Sec  %d\n",    ch->pcdata->security	);	/* OLC */
+save.c:  if(ch->pcdata->spouse > 0)
+save.c:    fprintf( fp, "Spou %s~\n", ch->pcdata->spouse);
+save.c:   if (ch->pcdata->balance >= 1)
+save.c:    if (ch->pcdata->gold_bank > 0)
+save.c:      fprintf( fp, "Gold_bank %ld\n",ch->pcdata->gold_bank);
+save.c:    if (ch->pcdata->silver_bank > 0)
+save.c:	fprintf( fp, "Silv_bank %ld\n",ch->pcdata->silver_bank);
+save.c:    if (ch->pcdata->shares > 0)
+save.c:	fprintf( fp, "Shares %d\n",ch->pcdata->shares);
+save.c:    if (ch->pcdata->share_level > 0)
+save.c:	fprintf( fp, "Share_level %d\n",ch->pcdata->share_level);
+save.c:    if (ch->pcdata->shares_bought > 0)
+save.c:	fprintf( fp, "Shares_bought %d\n",ch->pcdata->shares_bought);
+save.c:    if (ch->pcdata->shares / 4 != 0)
+save.c:       ch->pcdata->duration = ch->pcdata->shares / 4;
+save.c:	 fprintf( fp, "Duration %d\n",ch->pcdata->duration);
+save.c:    fprintf( fp, "Bounty %d\n",	ch->pcdata->bounty  );
+save.c:    fprintf( fp, "House %d\n",  ch->pcdata->house   );
+save.c:	fprintf( fp, "Pass %s~\n",	ch->pcdata->pwd		);
+save.c:	if (ch->pcdata->bamfin[0] != '\0')
+save.c:	    fprintf( fp, "Bin  %s~\n",	ch->pcdata->bamfin);
+save.c:	if (ch->pcdata->bamfout[0] != '\0')
+save.c:		fprintf( fp, "Bout %s~\n",	ch->pcdata->bamfout);
+save.c:	fprintf( fp, "Titl %s~\n",	ch->pcdata->title	);
+save.c:          /*    if ( ch->pcdata->job[0] != '\0' )  */
+save.c:                        fprintf( fp, "Job %s~\n",       ch->pcdata->job );
+save.c:    	fprintf( fp, "Pnts %d\n",   	ch->pcdata->points      );
+save.c:	fprintf( fp, "TSex %d\n",	ch->pcdata->true_sex	);
+save.c:	fprintf( fp, "LLev %d\n",	ch->pcdata->last_level	);
+save.c:	fprintf( fp, "HMVP %d %d %d\n", ch->pcdata->perm_hit, 
+save.c:						   ch->pcdata->perm_mana,
+save.c:						   ch->pcdata->perm_move);
+save.c:	    ch->pcdata->condition[0],
+save.c:	    ch->pcdata->condition[1],
+save.c:	    ch->pcdata->condition[2],
+save.c:	    ch->pcdata->condition[3] );
+save.c:    if (ch->pcdata->ignore[pos] == NULL)
+save.c:    fprintf(fp, "Ignore %s~\n", ch->pcdata->ignore[pos]);
+save.c:	    if (ch->pcdata->alias[pos] == NULL
+save.c:	    ||  ch->pcdata->alias_sub[pos] == NULL)
+save.c:	    fprintf(fp,"Alias %s %s~\n",ch->pcdata->alias[pos],
+save.c:		    ch->pcdata->alias_sub[pos]);
+save.c:	    fprintf (fp, "%s %ld ", boards[i].short_name, ch->pcdata->last_note[i]);
+save.c:	    if ( skill_table[sn].name != NULL && ch->pcdata->learned[sn] > 0 )
+save.c:		    ch->pcdata->learned[sn], skill_table[sn].name );
+save.c:            if ( group_table[gn].name != NULL && ch->pcdata->group_known[gn])
+save.c:    ch->pcdata->oldcl                   = -1;
+save.c:    ch->pcdata->bounty			= 0; 
+save.c:    ch->pcdata->confirm_delete		= FALSE;
+save.c:    ch->pcdata->board                   = &boards[DEFAULT_BOARD];
+save.c:    ch->pcdata->confirm_choose		= FALSE;
+save.c:    ch->pcdata->pwd			= str_dup( "" );
+save.c:    ch->pcdata->bamfin			= str_dup( "" );
+save.c:    ch->pcdata->bamfout			= str_dup( "" );
+save.c:    ch->pcdata->title			= str_dup( "" );
+save.c:    ch->pcdata->remorting               = FALSE;
+save.c:    ch->pcdata->gbuffered               = FALSE;
+save.c:    ch->pcdata->condition[COND_THIRST]	= 48; 
+save.c:    ch->pcdata->condition[COND_FULL]	= 48;
+save.c:    ch->pcdata->condition[COND_HUNGER]	= 48;
+save.c:    ch->pcdata->security		= 0;	/* OLC */
+save.c:    ch->pcdata->house           = 0;
+save.c:	ch->pcdata->acro_answer[0] = '\0';
+save.c:	ch->pcdata->acro_voted_for = 0;
+save.c:	ch->pcdata->acro_score = 0;
+save.c:	ch->pcdata->acro_has_participated = 0;
+save.c:    ch->pcdata->killed = GetCommaDelimitedArray(dynamicFilePath);
+save.c:    ch->pcdata->explored = GetCommaDelimitedArray(dynamicFilePath);
+save.c:    ch->pcdata->objectsFound = GetCommaDelimitedArray(dynamicFilePath);
+save.c:    ch->pcdata->granted = GetCommaDelimitedArray(dynamicFilePath);
+save.c:	ch->pcdata->learned[gsn_recall] = 50;
+save.c:        ch->pcdata->alias[count] 	= str_dup(fread_word(fp));
+save.c:        ch->pcdata->alias_sub[count]	= str_dup(fread_word(fp));
+save.c:        ch->pcdata->alias[count]        = str_dup(fread_word(fp));
+save.c:        ch->pcdata->alias_sub[count]    = fread_string(fp);
+save.c:	    KEY( "Bamfin",	ch->pcdata->bamfin,	fread_string( fp ) );
+save.c:	    KEY( "Bamfout",	ch->pcdata->bamfout,	fread_string( fp ) );
+save.c:	    KEY( "Bin",		ch->pcdata->bamfin,	fread_string( fp ) );
+save.c:	    KEY( "Bout",	ch->pcdata->bamfout,	fread_string( fp ) );
+save.c:            KEY( "Bounty",	ch->pcdata->bounty,	fread_number( fp ) );
+save.c:	    KEY( "Balance",	ch->pcdata->balance,	fread_number( fp )); 
+save.c:			ch->pcdata->last_note[i] = fread_number (fp);
+save.c:		ch->pcdata->condition[0] = fread_number( fp );
+save.c:		ch->pcdata->condition[1] = fread_number( fp );
+save.c:		ch->pcdata->condition[2] = fread_number( fp );
+save.c:                ch->pcdata->condition[0] = fread_number( fp );
+save.c:                ch->pcdata->condition[1] = fread_number( fp );
+save.c:                ch->pcdata->condition[2] = fread_number( fp );
+save.c:		ch->pcdata->condition[3] = fread_number( fp );
+save.c:	    KEY( "Duration", ch->pcdata->duration,  fread_number(fp));
+save.c:	    KEY( "Gold_bank", ch->pcdata->gold_bank,  fread_number(fp));
+save.c:        KEY( "House",   ch->pcdata->house,  fread_number( fp ) );
+save.c:                ch->pcdata->perm_hit	= fread_number( fp );
+save.c:                ch->pcdata->perm_mana   = fread_number( fp );
+save.c:                ch->pcdata->perm_move   = fread_number( fp );
+save.c:    ch->pcdata->ignore[count]        =      fread_string(fp);
+save.c:                        ch->pcdata->job = fread_string( fp );
+save.c:                        sprintf( buf, "%s", ch->pcdata->job );
+save.c:                        free_string( ch->pcdata->job );
+save.c:                        ch->pcdata->job = str_dup( buf );
+save.c:	    KEY( "LastLevel",	ch->pcdata->last_level, fread_number( fp ) );
+save.c:	    KEY( "LLev",	ch->pcdata->last_level, fread_number( fp ) );
+save.c:	    KEY( "OCla",   ch->pcdata->oldcl,     fread_number( fp ) );
+save.c:	    KEY( "Password",	ch->pcdata->pwd,	fread_string( fp ) );
+save.c:	    KEY( "Pass",	ch->pcdata->pwd,	fread_string( fp ) );
+save.c:	    KEY( "Points",	ch->pcdata->points,	fread_number( fp ) );
+save.c:	    KEY( "Pnts",	ch->pcdata->points,	fread_number( fp ) );
+save.c:	    KEY( "Rem",         ch->pcdata->remorting,  fread_number( fp ) );
+save.c:	    KEY( "Shares",	ch->pcdata->shares,	fread_number(fp));
+save.c: 	    KEY( "Shares_bought",	ch->pcdata->shares_bought,	fread_number(fp));
+save.c:	    KEY( "Share_level",	ch->pcdata->share_level,	fread_number(fp));
+save.c:	    KEY( "Sec",         ch->pcdata->security,	fread_number( fp ) );	/* OLC */
+save.c:	    KEY( "Silv_bank", ch->pcdata->silver_bank,  fread_number(fp));
+save.c:	    KEY( "Spou",        ch->pcdata->spouse,     fread_string( fp ) );
+save.c:		    ch->pcdata->learned[sn] = value;
+save.c:            KEY( "TrueSex",     ch->pcdata->true_sex,  	fread_number( fp ) );
+save.c:	    KEY( "TSex",	ch->pcdata->true_sex,   fread_number( fp ) );
+save.c:		ch->pcdata->title = fread_string( fp );
+save.c:    		if (ch->pcdata->title[0] != '.' && ch->pcdata->title[0] != ',' 
+save.c:		&&  ch->pcdata->title[0] != '!' && ch->pcdata->title[0] != '?')
+save.c:		    sprintf( buf, " %s", ch->pcdata->title );
+save.c:		    free_string( ch->pcdata->title );
+save.c:		    ch->pcdata->title = str_dup( buf );
+skills.c:	    if (!ch->pcdata->group_known[gn]
+skills.c:            if (!ch->pcdata->learned[sn]
+skills.c:	if (ch->pcdata->points <= 40)
+skills.c:	ch->pcdata->points -= 1;
+skills.c:	ch->exp = exp_per_level(ch,ch->pcdata->points) * ch->level;
+skills.c:	if (ch->pcdata->group_known[gn])
+skills.c:        if (ch->pcdata->learned[sn])
+skills.c:	ch->pcdata->learned[sn] = 1;
+skills.c:	if ( ch->pcdata->oldcl == -1 ) 
+skills.c:          if ( ch->pcdata->learned[sn] <= 0
+skills.c:          if ( ch->pcdata->learned[sn] <= 0
+skills.c:          &&   skill_table[sn].skill_level[ch->pcdata->oldcl] != level ) )
+skills.c:ch->pcdata->learned[sn]);
+skills.c:if ( ch->pcdata->oldcl == -1 )
+skills.c:          if ( ch->pcdata->learned[sn] <= 0
+skills.c:          if ( ch->pcdata->learned[sn] <= 0
+skills.c:          &&   skill_table[sn].skill_level[ch->pcdata->oldcl] != level ) )
+skills.c:		  ch->pcdata->learned[sn] );
+skills.c:if ( victim->pcdata->oldcl == -1 )
+skills.c:          if ( victim->pcdata->learned[sn] <= 0
+skills.c:          if ( victim->pcdata->learned[sn] <= 0
+skills.c:          &&   skill_table[sn].skill_level[victim->pcdata->oldcl] != level ) )
+skills.c:victim->name,capitalize(class_table[victim->pcdata->oldcl].name));
+skills.c:		  ch->pcdata->learned[sn] );
+skills.c:	  if (!ch->pcdata->group_known[gn]
+skills.c:	  if ( ch->pcdata->learned[sn] == 0
+skills.c:    sprintf(buf,"{RCreation points{D: {W%d{x\n\r",ch->pcdata->points);
+skills.c:     if ( ch->pcdata->oldcl != -1 )
+skills.c:    if ( ch->pcdata->oldcl != -1 )
+skills.c:	    ||  ch->pcdata->group_known[gn])
+skills.c:	    ch->pcdata->points += group_table[gn].rating[ch->class];
+skills.c:	    ||  ch->pcdata->learned[sn] > 0)
+skills.c:	    ch->pcdata->learned[sn] = 1;
+skills.c:	    ch->pcdata->points += skill_table[sn].rating[ch->class];
+skills.c:    if (ch->pcdata->oldcl != -1)
+skills.c:	    ch->pcdata->points -= group_table[gn].rating[ch->class];
+skills.c:	    ch->pcdata->learned[sn] = 0;
+skills.c:	    ch->pcdata->points -= skill_table[sn].rating[ch->class];
+skills.c:      sprintf(buf,"\n\r{cCreation {Rpoints{w: {W%d{w\n\r",ch->pcdata->points);
+skills.c:            ||  ch->pcdata->learned[sn] == 0
+skills.c:            ||  ch->pcdata->learned[sn] == 100)
+skills.c:        	chance = URANGE(5,100 - ch->pcdata->learned[sn], 95);
+skills.c:        	    ch->pcdata->learned[sn]++;
+skills.c:        	chance = URANGE(5,ch->pcdata->learned[sn]/2,30);
+skills.c:        	    ch->pcdata->learned[sn] += number_range(1,3);
+skills.c:        	    ch->pcdata->learned[sn] = UMIN(ch->pcdata->learned[sn],100);
+skills.c:    else if(ch->pcdata->oldcl != -1 && skill_table[sn].rating[ch->pcdata->oldcl]!=0)
+skills.c:        if (ch->level < skill_table[sn].skill_level[ch->pcdata->oldcl]
+skills.c:            ||  skill_table[sn].rating[ch->pcdata->oldcl] == 0
+skills.c:            ||  ch->pcdata->learned[sn] == 0
+skills.c:            ||  ch->pcdata->learned[sn] == 100)
+skills.c:    		*	skill_table[sn].rating[ch->pcdata->oldcl] 
+skills.c:        	chance = URANGE(5,100 - ch->pcdata->learned[sn], 95);
+skills.c:        	    ch->pcdata->learned[sn]++;
+skills.c:        	    gain_exp(ch,2 * skill_table[sn].rating[ch->pcdata->oldcl]);
+skills.c:        	chance = URANGE(5,ch->pcdata->learned[sn]/2,30);
+skills.c:        	    ch->pcdata->learned[sn] += number_range(1,3);
+skills.c:        	    ch->pcdata->learned[sn] = UMIN(ch->pcdata->learned[sn],100);
+skills.c:        	    gain_exp(ch,2 * skill_table[sn].rating[ch->pcdata->oldcl]);
+skills.c:    ch->pcdata->group_known[gn] = TRUE;
+skills.c:    ch->pcdata->group_known[gn] = FALSE;
+skills.c:	if (ch->pcdata->learned[sn] == 0) /* i.e. not known */
+skills.c:	    ch->pcdata->learned[sn] = 1;
+skills.c:	   	ch->pcdata->points += skill_table[sn].rating[ch->class]; 
+skills.c:	if (ch->pcdata->group_known[gn] == FALSE)  
+skills.c:	    ch->pcdata->group_known[gn] = TRUE;
+skills.c:		ch->pcdata->points += group_table[gn].rating[ch->class];
+skills.c:	ch->pcdata->learned[sn] = 0;
+skills.c:    if (gn != -1 && ch->pcdata->group_known[gn] == TRUE)
+skills.c:	ch->pcdata->group_known[gn] = FALSE;
+skills.c:  || ( ch->pcdata->oldcl != -1 && ch->level >=skill_table[sn].skill_level[ch->pcdata->oldcl]) )
+skills.c:  if ( number_percent( ) > ch->pcdata->learned[gsn_blightning] )
+skills.c:  if ( number_percent( ) > ch->pcdata->learned[gsn_bfire] )
+skills.c:  if ( number_percent( ) > ch->pcdata->learned[gsn_bacid] )
+skills.c:  if ( number_percent( ) > ch->pcdata->learned[gsn_bfrost] )
+skills.c:  if ( number_percent( ) > ch->pcdata->learned[gsn_bgas] )
+skills.c:    if (ch->pcdata->house != 0)
+skills.c:        location = get_room_index(ch->pcdata->house);
+skills.c:  ||   ch->pcdata->oldcl != -1 )
+skills.c:  ch->pcdata->remorting = TRUE;
+skills.c:  ch->pcdata->oldcl = ch->class;
+StonesOfWisdom.c:    for(i=0;i<ch->pcdata->stones->diceLeft;i++)
+StonesOfWisdom.c:        if(ch->pcdata->stones->dice[i]==type)
+StonesOfWisdom.c:    for(i=0;i<playing->pcdata->stones->diceLeft;i++)
+StonesOfWisdom.c:        if(playing->pcdata->stones->dice[i]==type)
+StonesOfWisdom.c:    if(ch->pcdata->stones->objectWager)
+StonesOfWisdom.c:        act("{BYou wagered{W: {x$p{B.{x", ch, ch->pcdata->stones->objectWager, NULL, TO_CHAR);
+StonesOfWisdom.c:    else if(ch->pcdata->stones->moneyWager)
+StonesOfWisdom.c:        sprintf(buf, "{BYou wagered{W: {Y%ld gold{B.{x", ch->pcdata->stones->moneyWager);
+StonesOfWisdom.c:    else if(ch->pcdata->stones->questPointWager)
+StonesOfWisdom.c:        sprintf(buf, "{BYou wagered{W: {G%ld quest points{B.{x", ch->pcdata->stones->questPointWager);
+StonesOfWisdom.c:        if(playing->pcdata->stones->objectWager)
+StonesOfWisdom.c:            act("{C$N{B wagered{W: {x$p{B.{x", ch, playing->pcdata->stones->objectWager, playing, TO_CHAR);
+StonesOfWisdom.c:        else if(playing->pcdata->stones->moneyWager)
+StonesOfWisdom.c:            sprintf(buf, "{C$N{B wagered{W: {Y%ld gold{B.{x", playing->pcdata->stones->moneyWager);
+StonesOfWisdom.c:        else if(playing->pcdata->stones->questPointWager)
+StonesOfWisdom.c:            sprintf(buf, "{C$N{B wagered{W: {G%ld quest points{B.{x", playing->pcdata->stones->questPointWager);
+StonesOfWisdom.c:    playing = ch->pcdata->stones->playing;
+StonesOfWisdom.c:    if(ch->pcdata->stones->objectWager)
+StonesOfWisdom.c:        obj_to_char(ch->pcdata->stones->objectWager, ch);
+StonesOfWisdom.c:    else if(ch->pcdata->stones->moneyWager)
+StonesOfWisdom.c:        ch->gold+=ch->pcdata->stones->moneyWager;
+StonesOfWisdom.c:    else if(ch->pcdata->stones->questPointWager)
+StonesOfWisdom.c:        ch->questpoints+=ch->pcdata->stones->questPointWager;
+StonesOfWisdom.c:    if(playing->pcdata->stones->objectWager)
+StonesOfWisdom.c:        act("{BYou win{W: {x$p{B!!!{x", ch, playing->pcdata->stones->objectWager, playing, TO_CHAR);
+StonesOfWisdom.c:        act("{C$n{B wins{W: {x$p{B!!!{x", ch, playing->pcdata->stones->objectWager, playing, TO_VICT);
+StonesOfWisdom.c:        obj_to_char(playing->pcdata->stones->objectWager, ch);
+StonesOfWisdom.c:    else if(playing->pcdata->stones->moneyWager)
+StonesOfWisdom.c:        sprintf(buf, "{BYou win{W: {Y%ld gold{B!!!{x", playing->pcdata->stones->moneyWager);
+StonesOfWisdom.c:        sprintf(buf, "{C$n{B wins{W: {Y%ld gold{B!!!{x", playing->pcdata->stones->moneyWager);
+StonesOfWisdom.c:        ch->gold+=playing->pcdata->stones->moneyWager;
+StonesOfWisdom.c:    else if(playing->pcdata->stones->questPointWager)
+StonesOfWisdom.c:        sprintf(buf, "{BYou win{W: {G%ld quest points{B!!!{x", playing->pcdata->stones->questPointWager);
+StonesOfWisdom.c:        sprintf(buf, "{C$n{B wins{W: {G%ld quest points{B!!!{x", playing->pcdata->stones->questPointWager);
+StonesOfWisdom.c:        ch->questpoints+=playing->pcdata->stones->questPointWager;
+StonesOfWisdom.c:    stones_clear(ch->pcdata->stones);
+StonesOfWisdom.c:    stones_clear(playing->pcdata->stones);
+StonesOfWisdom.c:	if(!ch || !ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:	if(ch->pcdata->stones->playing)
+StonesOfWisdom.c:	    stones_winner(ch->pcdata->stones->playing);
+StonesOfWisdom.c:        if(ch->pcdata->stones->objectWager)
+StonesOfWisdom.c:            obj_to_char(ch->pcdata->stones->objectWager, ch);
+StonesOfWisdom.c:        else if(ch->pcdata->stones->moneyWager)
+StonesOfWisdom.c:            ch->gold+=ch->pcdata->stones->moneyWager;
+StonesOfWisdom.c:        else if(ch->pcdata->stones->questPointWager)
+StonesOfWisdom.c:            ch->questpoints+=ch->pcdata->stones->questPointWager;
+StonesOfWisdom.c:		if(!original || !original->pcdata || !original->pcdata->stones)
+StonesOfWisdom.c:		if(original->pcdata->stones->invited==ch)
+StonesOfWisdom.c:            if(original->pcdata->stones->objectWager)
+StonesOfWisdom.c:                obj_to_char(original->pcdata->stones->objectWager, original);
+StonesOfWisdom.c:            else if(original->pcdata->stones->moneyWager)
+StonesOfWisdom.c:                original->gold+=original->pcdata->stones->moneyWager;
+StonesOfWisdom.c:            else if(original->pcdata->stones->questPointWager)
+StonesOfWisdom.c:                original->questpoints+=original->pcdata->stones->questPointWager;
+StonesOfWisdom.c:            ch->questpoints+=ch->pcdata->stones->questPointWager;
+StonesOfWisdom.c:		    stones_clear(original->pcdata->stones);
+StonesOfWisdom.c:	stones_clear(ch->pcdata->stones);
+StonesOfWisdom.c:    sprintf(buf, "stones->state: %d\n\r", ch->pcdata->stones->state);
+StonesOfWisdom.c:    sprintf(buf, "stones->invited: %s\n\r", ch->pcdata->stones->invited ? ch->pcdata->stones->invited->name : "Invalid");
+StonesOfWisdom.c:    sprintf(buf, "stones->playing: %s\n\r", ch->pcdata->stones->playing ? ch->pcdata->stones->playing->name : "Invalid");
+StonesOfWisdom.c:    sprintf(buf, "stones->objectWager: %s\n\r", ch->pcdata->stones->objectWager ? ch->pcdata->stones->objectWager->name : "Invalid");
+StonesOfWisdom.c:    sprintf(buf, "stones->moneyWager: %ld\n\r", ch->pcdata->stones->moneyWager);
+StonesOfWisdom.c:    sprintf(buf, "stones->questPointWager: %ld\n\r", ch->pcdata->stones->questPointWager);
+StonesOfWisdom.c:    sprintf(buf, "stones->diceLeft: %d\n\r", ch->pcdata->stones->diceLeft);
+StonesOfWisdom.c:    sprintf(buf, "stones->dice: %d %d %d %d %d\n\r", ch->pcdata->stones->dice[0], ch->pcdata->stones->dice[1], ch->pcdata->stones->dice[2], ch->pcdata->stones->dice[3], ch->pcdata->stones->dice[4]);
+StonesOfWisdom.c:    sprintf(buf, "stones->myTurn: %s\n\r", ch->pcdata->stones->myTurn ? "True" : "False");
+StonesOfWisdom.c:    sprintf(buf, "stones->bidDiceCount: %d\n\r", ch->pcdata->stones->bidDiceCount);
+StonesOfWisdom.c:    sprintf(buf, "stones->bidDiceType: %d\n\r", ch->pcdata->stones->bidDiceType);
+StonesOfWisdom.c:    sprintf(buf, "stones->bidDiceTypeFriendly: %s\n\r", ch->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:    sprintf(buf, "stones->issuedChallenge: %s\n\r", ch->pcdata->stones->issuedChallenge ? "True" : "False");
+StonesOfWisdom.c:    sprintf(buf, "stones->challengeWorked: %s\n\r", ch->pcdata->stones->challengeWorked ? "True" : "False");
+StonesOfWisdom.c:    sprintf(buf, "stones->pulse: %d\n\r", ch->pcdata->stones->pulse);
+StonesOfWisdom.c:    sprintf(buf, "stones->movementWarning: %s\n\r", ch->pcdata->stones->movementWarning ? "True" : "False");
+StonesOfWisdom.c:    sprintf(buf, "stones->diceBeingUsed: %s\n\r", ch->pcdata->stones->diceBeingUsed ? ch->pcdata->stones->diceBeingUsed->name : "Invalid");
+StonesOfWisdom.c:    if(!ch->pcdata->stones->playing)
+StonesOfWisdom.c:        if(ch->pcdata->stones->invited)
+StonesOfWisdom.c:            act("{BYou have invited {C$N{B to a match of Stones.{x", ch, NULL, ch->pcdata->stones->invited, TO_CHAR);
+StonesOfWisdom.c:    		if(!victim || !victim->pcdata || !victim->pcdata->stones)
+StonesOfWisdom.c:    		if(victim->pcdata->stones->invited==ch)
+StonesOfWisdom.c:                if(victim->pcdata->stones->objectWager)
+StonesOfWisdom.c:                    act("{C$N{B has wagered{W: {x$p{B.{x", ch, victim->pcdata->stones->objectWager, victim, TO_CHAR);
+StonesOfWisdom.c:                else if(victim->pcdata->stones->moneyWager)
+StonesOfWisdom.c:                    sprintf(buf, "{C$N{B has wagered{W: {Y%ld gold{B.{x", victim->pcdata->stones->moneyWager);
+StonesOfWisdom.c:                else if(victim->pcdata->stones->questPointWager)
+StonesOfWisdom.c:                    sprintf(buf, "{C$N{B has wagered{W: {G%ld quest points{B.{x", victim->pcdata->stones->questPointWager);
+StonesOfWisdom.c:        playing = ch->pcdata->stones->playing;
+StonesOfWisdom.c:        act("{BYou are playing a match with {C$N{B.{x", ch, NULL, ch->pcdata->stones->playing, TO_CHAR);
+StonesOfWisdom.c:        sprintf(buf, "{BYou have {W%d{B dice left.{x", ch->pcdata->stones->diceLeft);
+StonesOfWisdom.c:        sprintf(buf, "{C$N{B has {W%d{B dice left.{x", playing->pcdata->stones->diceLeft);
+StonesOfWisdom.c:        switch(ch->pcdata->stones->state)
+StonesOfWisdom.c:                if(ch->pcdata->stones->myTurn)
+StonesOfWisdom.c:                if(ch->pcdata->stones->myTurn)
+StonesOfWisdom.c:                    if(playing->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:                        sprintf(buf, "{BIt is currently your turn. {C$N{B bid {W%d %s{B. Either bid higher, or {Rchallenge{C $N{B's bid!{x", playing->pcdata->stones->bidDiceCount, playing->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:                    if(ch->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:                        sprintf(buf, "{BIt is currently {C$N{B's turn. Your last bid was {W%d %s{B. {C$N{B will either bid higher, or {Rchallenge{B your bid!{x", ch->pcdata->stones->bidDiceCount, ch->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:                if(ch->pcdata->stones->diceLeft==0 || playing->pcdata->stones->diceLeft==0)
+StonesOfWisdom.c:        if(ch->pcdata->stones->state>=STONES_STATE_ROLL_DICE && ch->pcdata->stones->state<=STONES_STATE_LOSE_DIE)
+StonesOfWisdom.c:            diceDisplay = stones_print_dice(ch->pcdata->stones->dice, 0);
+StonesOfWisdom.c:        if(ch->pcdata->stones->state>=STONES_STATE_REVEAL_DICE && ch->pcdata->stones->state<=STONES_STATE_LOSE_DIE)
+StonesOfWisdom.c:            diceDisplay = stones_print_dice(playing->pcdata->stones->dice, 0);
+StonesOfWisdom.c:    act("\n\r{BYou accept {C$N{B's invitation to play a match of Stones.{x", ch, NULL, ch->pcdata->stones->invited, TO_CHAR);
+StonesOfWisdom.c:    ch->pcdata->stones->state = STONES_STATE_ACCEPTING;
+StonesOfWisdom.c:    act("{C$n{B has accepted your invitation to play a match of Stones.{x", ch, NULL, ch->pcdata->stones->invited, TO_VICT);
+StonesOfWisdom.c:    if(ch->pcdata->stones->invited->pcdata->stones->state==STONES_STATE_ACCEPTING)  // Other player has already accepted, let's begin!!
+StonesOfWisdom.c:        act("{BYou and {C$N{B are beginning a new match of Stones!{x", ch, NULL, ch->pcdata->stones->invited, TO_CHAR);
+StonesOfWisdom.c:        ch->pcdata->stones->playing = ch->pcdata->stones->invited;
+StonesOfWisdom.c:        ch->pcdata->stones->diceLeft = STONES_DICE_IN_GAME;
+StonesOfWisdom.c:        ch->pcdata->stones->state = STONES_STATE_MATCH_STARTING;
+StonesOfWisdom.c:        ch->pcdata->stones->pulse = STONES_DELAY_MATCH_STARTING*PULSE_PER_SECOND;
+StonesOfWisdom.c:        act("{BYou and {C$n{B are beginning a new match of Stones!{x", ch, NULL, ch->pcdata->stones->invited, TO_VICT);
+StonesOfWisdom.c:        ch->pcdata->stones->playing->pcdata->stones->playing = ch;
+StonesOfWisdom.c:        ch->pcdata->stones->playing->pcdata->stones->diceLeft = STONES_DICE_IN_GAME;
+StonesOfWisdom.c:        ch->pcdata->stones->playing->pcdata->stones->state = STONES_STATE_MATCH_STARTING;
+StonesOfWisdom.c:        ch->pcdata->stones->playing->pcdata->stones->pulse = STONES_DELAY_MATCH_STARTING*PULSE_PER_SECOND;
+StonesOfWisdom.c:        act("{BAccept {C$n{B's invitation to a match of Stones when you are ready to play.{x", ch, NULL, ch->pcdata->stones->invited, TO_VICT);
+StonesOfWisdom.c:    if(ch->pcdata->stones->invited && ch->pcdata->stones->invited->pcdata->stones->invited==ch && ch->pcdata->stones->invited->pcdata->stones->state==STONES_STATE_ACCEPTING)
+StonesOfWisdom.c:        ch->pcdata->stones->invited->pcdata->stones->state = STONES_STATE_INVITING;
+StonesOfWisdom.c:        act("{C$n{B has changed their invite. Your acceptance of their invite has been cancelled.{x", ch, NULL, ch->pcdata->stones->invited, TO_VICT);
+StonesOfWisdom.c:    if(ch->pcdata->stones->objectWager)
+StonesOfWisdom.c:        obj_to_char(ch->pcdata->stones->objectWager, ch);
+StonesOfWisdom.c:    else if(ch->pcdata->stones->moneyWager)
+StonesOfWisdom.c:        ch->gold+=ch->pcdata->stones->moneyWager;
+StonesOfWisdom.c:    else if(ch->pcdata->stones->questPointWager)
+StonesOfWisdom.c:        ch->questpoints+=ch->pcdata->stones->questPointWager;
+StonesOfWisdom.c:    stones_clear(ch->pcdata->stones);
+StonesOfWisdom.c:        ch->pcdata->stones->objectWager = objectWager;
+StonesOfWisdom.c:        obj_from_char(ch->pcdata->stones->objectWager);
+StonesOfWisdom.c:        ch->pcdata->stones->moneyWager = moneyWager;
+StonesOfWisdom.c:        ch->gold-=ch->pcdata->stones->moneyWager;
+StonesOfWisdom.c:        ch->pcdata->stones->questPointWager = questPointWager;
+StonesOfWisdom.c:        ch->questpoints-=ch->pcdata->stones->questPointWager;
+StonesOfWisdom.c: 	ch->pcdata->stones->diceBeingUsed = diceToUse;
+StonesOfWisdom.c:    ch->pcdata->stones->invited = victim;
+StonesOfWisdom.c:    ch->pcdata->stones->state = STONES_STATE_INVITING;
+StonesOfWisdom.c:    if(victim->pcdata->stones->invited!=ch)     // One sided invitation so far
+StonesOfWisdom.c:        if(ch->pcdata->stones->objectWager)
+StonesOfWisdom.c:            act("{C$n{B has put up for wager{W: {x$p{B.{x", ch, ch->pcdata->stones->objectWager, victim, TO_VICT);
+StonesOfWisdom.c:        else if(ch->pcdata->stones->moneyWager)
+StonesOfWisdom.c:            sprintf(buf, "{C$n{B has put up for wager {Y%ld gold{B.{x", ch->pcdata->stones->moneyWager);
+StonesOfWisdom.c:        else if(ch->pcdata->stones->questPointWager)
+StonesOfWisdom.c:            sprintf(buf, "{C$n{B has put up for wager {G%ld quest points{B.{x", ch->pcdata->stones->questPointWager);
+StonesOfWisdom.c:        stones_show_wagers(ch, ch->pcdata->stones->invited);
+StonesOfWisdom.c:        stones_show_wagers(ch->pcdata->stones->invited, ch);
+StonesOfWisdom.c:    playing = ch->pcdata->stones->playing;
+StonesOfWisdom.c:    lastNumber = playing->pcdata->stones->bidDiceCount;
+StonesOfWisdom.c:    lastType = playing->pcdata->stones->bidDiceType;
+StonesOfWisdom.c:    maxNumber = (ch->pcdata->stones->diceLeft+playing->pcdata->stones->diceLeft);
+StonesOfWisdom.c:        sprintf(buf, "{BYou must bid higher than standing bid of {W%d %s{B or {Rchallenge{B the bid.{x", lastNumber, playing->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:    ch->pcdata->stones->bidDiceCount = num;
+StonesOfWisdom.c:    ch->pcdata->stones->bidDiceType = type;
+StonesOfWisdom.c:        sprintf(ch->pcdata->stones->bidDiceTypeFriendly, "%s", type==1 ? "one" : (type==2 ? "two" : (type==3 ? "three" : (type==4 ? "four" : (type==5 ? "five" : (type==6 ? "six" : ""))))));
+StonesOfWisdom.c:        sprintf(ch->pcdata->stones->bidDiceTypeFriendly, "%s", type==1 ? "ones" : (type==2 ? "twos" : (type==3 ? "threes" : (type==4 ? "fours" : (type==5 ? "fives" : (type==6 ? "sixes" : ""))))));
+StonesOfWisdom.c:    sprintf(buf, "{BYou bid {W%d %s{B.{x", ch->pcdata->stones->bidDiceCount, ch->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:    sprintf(buf, "{C$n{B bids {W%d %s{B.{x", ch->pcdata->stones->bidDiceCount, ch->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:    ch->pcdata->stones->myTurn = FALSE;
+StonesOfWisdom.c:    ch->pcdata->stones->state = STONES_STATE_ROLL_DICE;
+StonesOfWisdom.c:    ch->pcdata->stones->pulse = STONES_DELAY_BID_MADE*PULSE_PER_SECOND;
+StonesOfWisdom.c:    playing->pcdata->stones->myTurn = TRUE;
+StonesOfWisdom.c:    playing->pcdata->stones->state = STONES_STATE_ROLL_DICE;
+StonesOfWisdom.c:    playing->pcdata->stones->pulse = STONES_DELAY_BID_MADE*PULSE_PER_SECOND;
+StonesOfWisdom.c:    playing = ch->pcdata->stones->playing;
+StonesOfWisdom.c:    if(playing->pcdata->stones->bidDiceType<1)
+StonesOfWisdom.c:    ch->pcdata->stones->issuedChallenge = TRUE;
+StonesOfWisdom.c:    ch->pcdata->stones->myTurn = FALSE;
+StonesOfWisdom.c:    ch->pcdata->stones->state = STONES_STATE_CHALLENGE_MADE;
+StonesOfWisdom.c:    ch->pcdata->stones->pulse = STONES_DELAY_CHALLENGE_MADE*PULSE_PER_SECOND;
+StonesOfWisdom.c:    playing->pcdata->stones->issuedChallenge = FALSE;
+StonesOfWisdom.c:    playing->pcdata->stones->myTurn = TRUE;
+StonesOfWisdom.c:    playing->pcdata->stones->state = STONES_STATE_CHALLENGE_MADE;
+StonesOfWisdom.c:    playing->pcdata->stones->pulse = STONES_DELAY_CHALLENGE_MADE*PULSE_PER_SECOND;
+StonesOfWisdom.c:		if(!original || !original->pcdata || !original->pcdata->stones || !original->pcdata->stones->diceBeingUsed)
+StonesOfWisdom.c:		if(original->pcdata->stones->diceBeingUsed==obj)
+StonesOfWisdom.c:    if(!ch || !ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:    if(!ch->pcdata->stones->invited)
+StonesOfWisdom.c:    if(ch->pcdata->stones->invited && !ch->pcdata->stones->playing)
+StonesOfWisdom.c:    playing = ch->pcdata->stones->playing;
+StonesOfWisdom.c:    if(ch->pcdata->stones->movementWarning==FALSE)
+StonesOfWisdom.c:        ch->pcdata->stones->movementWarning = TRUE;
+StonesOfWisdom.c:    if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:    if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:	if(ch->pcdata->stones->playing)
+StonesOfWisdom.c:	if(!victim->pcdata->stones)
+StonesOfWisdom.c:	if(victim->pcdata->stones->playing && victim->pcdata->stones->playing!=ch)
+StonesOfWisdom.c:    if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:    if(!ch->pcdata->stones->invited)
+StonesOfWisdom.c:    if(ch->pcdata->stones->invited->pcdata->stones->invited!=ch)
+StonesOfWisdom.c:        act("\n\r{C$N{B as not invited you to play yet.{x", ch, NULL, ch->pcdata->stones->invited, TO_CHAR);
+StonesOfWisdom.c:    if(ch->pcdata->stones->state==STONES_STATE_ACCEPTING)
+StonesOfWisdom.c:        act("\n\r{BYou have already accepted the invitation from {C$N{B.{x", ch, NULL, ch->pcdata->stones->invited, TO_CHAR);
+StonesOfWisdom.c:   if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:   if(!ch->pcdata->stones->playing)
+StonesOfWisdom.c:   if(ch->pcdata->stones->state!=STONES_STATE_PLACE_BID && ch->pcdata->stones->state!=STONES_STATE_PLACE_BID_WARNING)
+StonesOfWisdom.c:   if(ch->pcdata->stones->myTurn==FALSE)
+StonesOfWisdom.c:    if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:    if(!ch->pcdata->stones->playing)
+StonesOfWisdom.c:    if(ch->pcdata->stones->state!=STONES_STATE_PLACE_BID && ch->pcdata->stones->state!=STONES_STATE_PLACE_BID_WARNING)
+StonesOfWisdom.c:    if(ch->pcdata->stones->myTurn==FALSE)
+StonesOfWisdom.c:    if(!ch->pcdata || !ch->pcdata->stones)
+StonesOfWisdom.c:    if(!ch->pcdata->stones->playing)
+StonesOfWisdom.c:    stones_winner(ch->pcdata->stones->playing);
+StonesOfWisdom.c:		if(!original || !original->pcdata || !original->pcdata->stones || !(playing=original->pcdata->stones->playing))
+StonesOfWisdom.c:        if(original->pcdata->stones->state<STONES_STATE_MATCH_STARTING)
+StonesOfWisdom.c:	    if(original->pcdata->stones->pulse>0)
+StonesOfWisdom.c:    	    original->pcdata->stones->pulse--;
+StonesOfWisdom.c:	    switch(original->pcdata->stones->state)
+StonesOfWisdom.c:	           original->pcdata->stones->state = STONES_STATE_STAKES_SHOWN;
+StonesOfWisdom.c:	           original->pcdata->stones->pulse = STONES_DELAY_STAKES_SHOWN*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           original->pcdata->stones->dice[0] = number_range(1, 6);
+StonesOfWisdom.c:	           original->pcdata->stones->state = STONES_STATE_ROLL_GO_FIRST;
+StonesOfWisdom.c:	           original->pcdata->stones->pulse = STONES_DELAY_ROLL_GO_FIRST*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           diceDisplay = stones_print_dice(original->pcdata->stones->dice, 0);
+StonesOfWisdom.c:	           sprintf(buf, "{BYou rolled a {W%d{B.{x", original->pcdata->stones->dice[0]);
+StonesOfWisdom.c:	           sprintf(buf, "{C$n{B rolled a {W%d{B.{x", original->pcdata->stones->dice[0]);
+StonesOfWisdom.c:	           original->pcdata->stones->state = STONES_STATE_BEGINNING_ROUND;
+StonesOfWisdom.c:	           original->pcdata->stones->pulse = STONES_DELAY_BEGINNING_ROUND*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           if(original->pcdata->stones->diceLeft==STONES_DICE_IN_GAME && playing->pcdata->stones->diceLeft==STONES_DICE_IN_GAME)
+StonesOfWisdom.c:	               if(original->pcdata->stones->dice[0]==playing->pcdata->stones->dice[0])
+StonesOfWisdom.c:        	           original->pcdata->stones->state = STONES_STATE_STAKES_SHOWN;
+StonesOfWisdom.c:        	           original->pcdata->stones->pulse = STONES_DELAY_REROLL_TIE*PULSE_PER_SECOND;
+StonesOfWisdom.c:	               else if(original->pcdata->stones->dice[0]>playing->pcdata->stones->dice[0])
+StonesOfWisdom.c:	                   original->pcdata->stones->myTurn = TRUE;
+StonesOfWisdom.c:	                   original->pcdata->stones->myTurn = FALSE;
+StonesOfWisdom.c:	           if(original->pcdata->stones->myTurn==TRUE)
+StonesOfWisdom.c:	           original->pcdata->stones->bidDiceCount = 0;
+StonesOfWisdom.c:	           original->pcdata->stones->bidDiceType = 0;
+StonesOfWisdom.c:	           original->pcdata->stones->bidDiceTypeFriendly[0] = '\0';
+StonesOfWisdom.c:	           original->pcdata->stones->issuedChallenge = FALSE;
+StonesOfWisdom.c:	           original->pcdata->stones->challengeWorked = FALSE;
+StonesOfWisdom.c:	           original->pcdata->stones->state = STONES_STATE_WHO_GOES_FIRST;
+StonesOfWisdom.c:	           original->pcdata->stones->pulse = STONES_DELAY_WHO_GOES_FIRST*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           for(i=0;i<original->pcdata->stones->diceLeft;i++)
+StonesOfWisdom.c:	               original->pcdata->stones->dice[i] = number_range(1, 6);
+StonesOfWisdom.c:	               original->pcdata->stones->dice[i] = 0;
+StonesOfWisdom.c:	           sprintf(buf, "\n\r{C$n{B rolls {W%d{B %s.{x\n\r", original->pcdata->stones->diceLeft, original->pcdata->stones->diceLeft==1 ? "die" : "dice");
+StonesOfWisdom.c:               sprintf(buf, "{BYou roll {W%d {B%s, they are{W:{x", original->pcdata->stones->diceLeft, original->pcdata->stones->diceLeft==1 ? "die" : "dice");
+StonesOfWisdom.c:	           diceDisplay = stones_print_dice(original->pcdata->stones->dice, 0);
+StonesOfWisdom.c:	           original->pcdata->stones->state = STONES_STATE_ROLL_DICE;
+StonesOfWisdom.c:	           original->pcdata->stones->pulse = STONES_DELAY_ROLL_DICE*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           if(original->pcdata->stones->myTurn==FALSE)
+StonesOfWisdom.c:                           original->pcdata->stones->bidDiceCount ? ", or {Rchallenge{B your last bid" : "");
+StonesOfWisdom.c:	               if(playing->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:               original->pcdata->stones->state = STONES_STATE_PLACE_BID;
+StonesOfWisdom.c:               original->pcdata->stones->pulse = STONES_DELAY_PLACE_BID*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           if(original->pcdata->stones->myTurn==FALSE)
+StonesOfWisdom.c:	               if(original->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:	               if(original->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:               original->pcdata->stones->state = STONES_STATE_PLACE_BID_WARNING;
+StonesOfWisdom.c:               original->pcdata->stones->pulse = STONES_DELAY_PLACE_BID_WARNING*PULSE_PER_SECOND;
+StonesOfWisdom.c:	           if(original->pcdata->stones->myTurn==FALSE)
+StonesOfWisdom.c:	           diceDisplay = stones_print_dice(original->pcdata->stones->dice, original->pcdata->stones->issuedChallenge ? playing->pcdata->stones->bidDiceType : original->pcdata->stones->bidDiceType);
+StonesOfWisdom.c:	           diceDisplay = stones_print_dice(playing->pcdata->stones->dice, original->pcdata->stones->issuedChallenge ? playing->pcdata->stones->bidDiceType : original->pcdata->stones->bidDiceType);
+StonesOfWisdom.c:               original->pcdata->stones->state = STONES_STATE_REVEAL_DICE;
+StonesOfWisdom.c:               original->pcdata->stones->pulse = STONES_DELAY_REVEAL_DICE*PULSE_PER_SECOND;               
+StonesOfWisdom.c:	            if(original->pcdata->stones->issuedChallenge==FALSE)
+StonesOfWisdom.c:                    sprintf(buf, "{BThe {Rchallenged{B bid was {W%d %s{B, bid by you!{x", original->pcdata->stones->bidDiceCount, original->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:                    actualCount = stones_count_dice(original, playing, original->pcdata->stones->bidDiceType);
+StonesOfWisdom.c:                        sprintf(friendlyDiceType, "%s", original->pcdata->stones->bidDiceType==1 ? "one" : (original->pcdata->stones->bidDiceType==2 ? "two" : (original->pcdata->stones->bidDiceType==3 ? "three" : (original->pcdata->stones->bidDiceType==4 ? "four" : (original->pcdata->stones->bidDiceType==5 ? "five" : (original->pcdata->stones->bidDiceType==6 ? "six" : ""))))));
+StonesOfWisdom.c:                        sprintf(friendlyDiceType, "%s", original->pcdata->stones->bidDiceType==1 ? "ones" : (original->pcdata->stones->bidDiceType==2 ? "twos" : (original->pcdata->stones->bidDiceType==3 ? "threes" : (original->pcdata->stones->bidDiceType==4 ? "fours" : (original->pcdata->stones->bidDiceType==5 ? "fives" : (original->pcdata->stones->bidDiceType==6 ? "sixes" : ""))))));
+StonesOfWisdom.c:                    sprintf(buf, "{BThe {Rchallenged{B bid was {W%d %s{B, bid by {C$N{B.{x", playing->pcdata->stones->bidDiceCount, playing->pcdata->stones->bidDiceTypeFriendly);
+StonesOfWisdom.c:                    actualCount = stones_count_dice(original, playing, playing->pcdata->stones->bidDiceType);                
+StonesOfWisdom.c:                        sprintf(friendlyDiceType, "%s", playing->pcdata->stones->bidDiceType==1 ? "one" : (playing->pcdata->stones->bidDiceType==2 ? "two" : (playing->pcdata->stones->bidDiceType==3 ? "three" : (playing->pcdata->stones->bidDiceType==4 ? "four" : (playing->pcdata->stones->bidDiceType==5 ? "five" : (playing->pcdata->stones->bidDiceType==6 ? "six" : ""))))));
+StonesOfWisdom.c:                        sprintf(friendlyDiceType, "%s", playing->pcdata->stones->bidDiceType==1 ? "ones" : (playing->pcdata->stones->bidDiceType==2 ? "twos" : (playing->pcdata->stones->bidDiceType==3 ? "threes" : (playing->pcdata->stones->bidDiceType==4 ? "fours" : (playing->pcdata->stones->bidDiceType==5 ? "fives" : (playing->pcdata->stones->bidDiceType==6 ? "sixes" : ""))))));
+StonesOfWisdom.c:	            if(original->pcdata->stones->issuedChallenge==FALSE)
+StonesOfWisdom.c:                    if(actualCount>=original->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:                        original->pcdata->stones->challengeWorked = FALSE;
+StonesOfWisdom.c:                        original->pcdata->stones->challengeWorked = TRUE;
+StonesOfWisdom.c:                    if(actualCount>=playing->pcdata->stones->bidDiceCount)
+StonesOfWisdom.c:                        original->pcdata->stones->challengeWorked = FALSE;
+StonesOfWisdom.c:                        original->pcdata->stones->challengeWorked = TRUE;
+StonesOfWisdom.c:               original->pcdata->stones->state = STONES_STATE_CHALLENGE_OUTCOME;
+StonesOfWisdom.c:               original->pcdata->stones->pulse = STONES_DELAY_CHALLENGE_OUTCOME*PULSE_PER_SECOND;               
+StonesOfWisdom.c:	           if(original->pcdata->stones->issuedChallenge==FALSE)
+StonesOfWisdom.c:	                if(original->pcdata->stones->challengeWorked==TRUE)
+StonesOfWisdom.c:	                   original->pcdata->stones->diceLeft--;
+StonesOfWisdom.c:	                if(original->pcdata->stones->challengeWorked==TRUE)
+StonesOfWisdom.c:	                   original->pcdata->stones->diceLeft--;
+StonesOfWisdom.c:               original->pcdata->stones->state = STONES_STATE_LOSE_DIE;
+StonesOfWisdom.c:               original->pcdata->stones->pulse = STONES_DELAY_LOSE_DIE*PULSE_PER_SECOND;               
+StonesOfWisdom.c:	           if(original->pcdata->stones->diceLeft==0 || playing->pcdata->stones->diceLeft==0)
+StonesOfWisdom.c:                   if(original->pcdata->stones->diceLeft==0)
+StonesOfWisdom.c:                   else if(playing->pcdata->stones->diceLeft==0)
+StonesOfWisdom.c:                   original->pcdata->stones->state = STONES_STATE_MATCH_OUTCOME;
+StonesOfWisdom.c:                   original->pcdata->stones->pulse = STONES_DELAY_MATCH_OUTCOME*PULSE_PER_SECOND;               
+StonesOfWisdom.c:                   original->pcdata->stones->state = STONES_STATE_BEGINNING_ROUND;
+StonesOfWisdom.c:                   original->pcdata->stones->pulse = STONES_DELAY_BETWEEN_ROUNDS*PULSE_PER_SECOND;               
+StonesOfWisdom.c:	           if(original->pcdata->stones->diceLeft==0)
+StonesOfWisdom.c:	           else if(playing->pcdata->stones->diceLeft==0)
+track.c:	 ch->pcdata->learned[gsn_track] ) )
+track.c:  if (!IS_NPC(ch) && number_percent() > ch->pcdata->learned[gsn_track])
+update.c:  ch->pcdata->share_level = ch->level;
+update.c:  ch->pcdata->shares_bought = 0;
+update.c:    ch->pcdata->last_level = 
+update.c:    ch->pcdata->perm_hit	+= add_hp;
+update.c:    ch->pcdata->perm_mana	+= add_mana;
+update.c:    ch->pcdata->perm_move	+= add_move;
+update.c:    ch->exp = UMAX( exp_per_level(ch,ch->pcdata->points), ch->exp + gain );
+update.c:	exp_per_level(ch,ch->pcdata->points) * (ch->level+1) )
+update.c:	if ( ch->pcdata->condition[COND_HUNGER]   == 0 )
+update.c:	if ( ch->pcdata->condition[COND_THIRST] == 0 )
+update.c:	if ( ch->pcdata->condition[COND_HUNGER]   == 0 )
+update.c:	if ( ch->pcdata->condition[COND_THIRST] == 0 )
+update.c:	if ( ch->pcdata->condition[COND_HUNGER]   == 0 )
+update.c:	if ( ch->pcdata->condition[COND_THIRST] == 0 )
+update.c:    condition				= ch->pcdata->condition[iCond];
+update.c:    ch->pcdata->condition[iCond]	= URANGE( 0, condition + value, 48 );
+update.c:    if ( ch->pcdata->condition[iCond] == 0 )
+update.c:        ch->pcdata->incap_duration++;
+update.c:        if(ch->pcdata->incap_duration>30)   // kill them after 30 ticks

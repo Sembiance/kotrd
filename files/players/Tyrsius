@@ -1,0 +1,582 @@
+#PLAYER
+Name Tyrsius~
+Id   1091196086
+LogO 1091738710
+Vers 5
+Prom %hmp %mmn %ggp %Xexp %Kleft %e ~
+Race Human~
+Sex  1
+Cla  1
+OCla -1
+Levl 16
+OldLvl 16
+Sec  0
+Plyd 23602
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  168 168 32 192 92 190
+Gold 208
+Silv 7219
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 16
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  16630
+PAct  EFGHQTd
+Empower  0
+WName Tyrsius~
+Comm NO
+Deaf D
+Pos  4
+Prac 6
+Trai 3
+Alig  1000
+ACs 0 4 -3 82
+Wimp  23
+Attr 13 18 21 14 18
+AMod 0 1 1 0 0
+Pass TyhsqxR6Z.QNg~
+Titl  is laying down righteous fury~
+Pnts 40
+TSex 1
+PSize 2
+LLev 5
+HMVP 168 192 190
+Cnd  0 6 2 15
+Sk 1 'lightning bolt'
+Sk 78 'cure light'
+Sk 76 'cause light'
+Sk 75 'bless'
+Sk 76 'cause serious'
+Sk 82 'cure serious'
+Sk 1 'cause critical'
+Sk 1 'cure critical'
+Sk 1 'remove curse'
+Sk 1 'heal'
+Sk 1 'harm'
+Sk 1 'frenzy'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 75 'detect evil'
+Sk 75 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 75 'continual light'
+Sk 1 'control weather'
+Sk 76 'create food'
+Sk 1 'create rose'
+Sk 76 'create spring'
+Sk 75 'create water'
+Sk 67 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'faerie fire'
+Sk 75 'faerie fog'
+Sk 75 'farsight'
+Sk 77 'floating disc'
+Sk 1 'identify'
+Sk 75 'infravision'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'refresh'
+Sk 76 'mace'
+Sk 1 'bash'
+Sk 1 'fast healing'
+Sk 75 'haggle'
+Sk 80 'meditation'
+Sk 75 'recall'
+Sk 1 'create zombie'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'detection'
+Gr 'harmful'
+Gr 'healing'
+Gr 'weather'
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 0
+Wear -1
+Time 493
+Cost 270
+Spell 1 'refresh'
+Spell 2 'refresh'
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 0
+Wear -1
+Cost 390
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear 17
+Time 354
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9221
+Nest 0
+Cond 0
+Wear -1
+Cost 2800
+Spell 3 'harm'
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4221
+Nest 0
+Cond 0
+Wear 16
+Cost 750
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4237
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4243
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 9215
+Nest 0
+Cond 0
+Wear -1
+Cost 3900
+Spell 3 'fireball'
+End
+
+#O
+Vnum 16006
+Nest 0
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  8 16 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  8 16 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  8 16 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  8 16 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  8 16 0 0 0
+End
+
+#END

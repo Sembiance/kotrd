@@ -1,0 +1,601 @@
+Tue Aug 30 10:37:42 2005 :: ROM is ready to rock on port 5000.
+Tue Aug 30 16:26:01 2005 :: Sock.sinaddr:  67.19.185.236
+Tue Aug 30 16:26:04 2005 :: Loading Sembiance.
+Tue Aug 30 16:26:05 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Tue Aug 30 16:35:32 2005 :: Sembiance has quit.
+Tue Aug 30 18:01:18 2005 :: Sock.sinaddr:  68.10.72.226
+Tue Aug 30 18:01:20 2005 :: Loading Sirk.
+Tue Aug 30 18:01:21 2005 :: Sirk@ip68-10-72-226.hr.hr.cox.net has connected.
+Tue Aug 30 18:03:10 2005 :: Sirk has quit.
+Tue Aug 30 18:59:03 2005 :: Sock.sinaddr:  67.77.46.196
+Tue Aug 30 18:59:04 2005 :: EOF encountered on read.
+Tue Aug 30 21:30:21 2005 :: Sock.sinaddr:  4.236.24.56
+Tue Aug 30 21:30:24 2005 :: Loading Golddragon.
+Tue Aug 30 21:30:27 2005 :: Golddragon@dialup-4.236.24.56.Dial1.NewYork1.Level3.net has connected.
+Tue Aug 30 21:52:10 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Tue Aug 30 21:52:10 2005 :: Golddragon has quit.
+Tue Aug 30 22:18:46 2005 :: Sock.sinaddr:  24.168.219.184
+Tue Aug 30 22:18:47 2005 :: Loading Lena.
+Tue Aug 30 22:18:48 2005 :: Lena@cpe-024-168-219-184.sc.res.rr.com has connected.
+Tue Aug 30 22:20:04 2005 :: Lena has quit.
+Tue Aug 30 23:01:03 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Aug 30 23:01:03 2005 :: EOF encountered on read.
+Wed Aug 31 03:49:42 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Aug 31 03:49:42 2005 :: EOF encountered on read.
+Wed Aug 31 09:04:09 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Aug 31 09:04:29 2005 :: Sock.sinaddr:  172.138.116.122
+Wed Aug 31 09:08:03 2005 :: Narconosis@AC8A747A.ipt.aol.com new player.
+Wed Aug 31 09:10:17 2005 :: Narconosis killed by the newbie monster at 18600
+Wed Aug 31 09:11:49 2005 :: Narconosis has quit.
+Wed Aug 31 12:31:25 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Aug 31 12:31:32 2005 :: Loading Ender.
+Wed Aug 31 12:31:37 2005 :: Ender@65.170.3.132 has connected.
+Wed Aug 31 12:33:30 2005 :: Ender has quit.
+Wed Aug 31 12:33:34 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Aug 31 12:34:39 2005 :: Lankin@65.170.3.132 new player.
+Wed Aug 31 12:36:00 2005 :: 65.170.3.132 input spamming!
+Wed Aug 31 12:37:06 2005 :: Lankin has quit.
+Wed Aug 31 14:20:29 2005 :: Sock.sinaddr:  69.161.161.206
+Wed Aug 31 14:20:40 2005 :: Loading Divia.
+Wed Aug 31 14:20:40 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Aug 31 14:20:41 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Wed Aug 31 14:30:41 2005 :: Divia killed by the young snarling dragon at 3721
+Wed Aug 31 14:31:05 2005 :: Divia has quit.
+Wed Aug 31 14:31:09 2005 :: Sock.sinaddr:  69.161.161.206
+Wed Aug 31 14:31:12 2005 :: Loading Divia.
+Wed Aug 31 14:31:12 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Aug 31 14:31:13 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Wed Aug 31 14:31:17 2005 :: Log Divia: delete
+Wed Aug 31 14:31:23 2005 :: Log Divia: delete
+Wed Aug 31 14:31:23 2005 :: Divia has quit.
+Wed Aug 31 14:31:25 2005 :: Sock.sinaddr:  69.161.161.206
+Wed Aug 31 14:33:25 2005 :: Divia@69-161-161-206.miamfl.adelphia.net new player.
+Read_from_descriptor: Connection timed out
+Wed Aug 31 14:51:30 2005 :: Closing link to Divia.
+Wed Aug 31 16:06:43 2005 :: Sock.sinaddr:  69.161.161.206
+Wed Aug 31 16:07:49 2005 :: Divia@69-161-161-206.miamfl.adelphia.net new player.
+Wed Aug 31 16:41:54 2005 :: Divia killed by the boar at 3746
+Wed Aug 31 16:44:00 2005 :: Divia has quit.
+Wed Aug 31 23:04:57 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Aug 31 23:04:57 2005 :: EOF encountered on read.
+Thu Sep  1 03:51:09 2005 :: Sock.sinaddr:  204.209.44.14
+Thu Sep  1 03:51:09 2005 :: EOF encountered on read.
+Thu Sep  1 16:19:55 2005 :: Sock.sinaddr:  69.161.161.206
+Thu Sep  1 16:20:04 2005 :: Loading Divia.
+Thu Sep  1 16:20:06 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Thu Sep  1 17:36:02 2005 :: Divia has quit.
+Thu Sep  1 18:00:52 2005 :: Sock.sinaddr:  69.161.161.206
+Thu Sep  1 18:01:07 2005 :: Loading Divia.
+Thu Sep  1 18:01:08 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Thu Sep  1 18:01:21 2005 :: Divia has quit.
+Thu Sep  1 23:00:49 2005 :: Sock.sinaddr:  67.19.238.52
+Thu Sep  1 23:00:49 2005 :: EOF encountered on read.
+Fri Sep  2 03:49:36 2005 :: Sock.sinaddr:  204.209.44.14
+Fri Sep  2 03:49:37 2005 :: EOF encountered on read.
+Fri Sep  2 09:50:23 2005 :: Sock.sinaddr:  69.161.161.206
+Fri Sep  2 09:50:28 2005 :: Loading Divia.
+Fri Sep  2 09:50:29 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Fri Sep  2 10:15:55 2005 :: Divia killed by the Pawn of the White Court at 4228
+Fri Sep  2 10:15:57 2005 :: Divia has quit.
+Fri Sep  2 10:16:02 2005 :: Sock.sinaddr:  69.161.161.206
+Fri Sep  2 10:16:04 2005 :: Loading Divia.
+Fri Sep  2 10:16:06 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Fri Sep  2 10:34:28 2005 :: Sock.sinaddr:  68.58.200.238
+Fri Sep  2 10:34:36 2005 :: Loading Stasya.
+Fri Sep  2 10:34:38 2005 :: Stasya@pcp02799432pcs.goosck01.sc.comcast.net has connected.
+Fri Sep  2 10:41:38 2005 :: Stasya has quit.
+Fri Sep  2 10:57:37 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  2 10:57:41 2005 :: Loading Ender.
+Fri Sep  2 10:57:42 2005 :: Ender@65.170.3.132 has connected.
+Fri Sep  2 10:58:50 2005 :: Ender has quit.
+Fri Sep  2 11:05:26 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Divia RVNUM: ] ref A009
+Fri Sep  2 11:05:26 2005 :: Divia has quit.
+Fri Sep  2 11:26:44 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  2 11:27:22 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  2 11:27:22 2005 :: EOF encountered on read.
+Fri Sep  2 11:27:22 2005 :: Closing link to Ryu.
+Fri Sep  2 11:28:23 2005 :: EOF encountered on read.
+Fri Sep  2 11:28:23 2005 :: Closing link to Touche.
+Fri Sep  2 11:31:15 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  2 11:31:17 2005 :: EOF encountered on read.
+Fri Sep  2 11:44:31 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  2 11:44:33 2005 :: EOF encountered on read.
+Fri Sep  2 13:01:41 2005 :: Sock.sinaddr:  69.161.161.206
+Fri Sep  2 13:01:46 2005 :: Loading Divia.
+Fri Sep  2 13:01:48 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Fri Sep  2 13:02:19 2005 :: Divia has quit.
+Fri Sep  2 15:52:24 2005 :: Sock.sinaddr:  24.168.219.83
+Fri Sep  2 15:52:28 2005 :: Loading Lena.
+Fri Sep  2 15:52:28 2005 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Fri Sep  2 15:52:48 2005 :: Lena has quit.
+Fri Sep  2 17:53:29 2005 :: Sock.sinaddr:  69.161.161.206
+Fri Sep  2 17:53:34 2005 :: Loading Divia.
+Fri Sep  2 17:53:35 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Fri Sep  2 17:56:52 2005 :: Divia has quit.
+New_descriptor: getpeername: Transport endpoint is not connected
+Fri Sep  2 22:53:23 2005 :: Sock.sinaddr:  24.168.219.83
+Read_from_descriptor: Connection reset by peer
+Fri Sep  2 22:53:24 2005 :: Loading Lena.
+Fri Sep  2 22:53:25 2005 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Fri Sep  2 22:53:29 2005 :: Lena has quit.
+Fri Sep  2 23:01:15 2005 :: Sock.sinaddr:  67.19.238.52
+Fri Sep  2 23:01:15 2005 :: EOF encountered on read.
+Sat Sep  3 02:51:25 2005 :: Sock.sinaddr:  24.178.111.7
+Sat Sep  3 02:51:45 2005 :: EOF encountered on read.
+Sat Sep  3 03:50:08 2005 :: Sock.sinaddr:  204.209.44.14
+Sat Sep  3 03:50:08 2005 :: EOF encountered on read.
+Sat Sep  3 18:53:00 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep  3 18:53:02 2005 :: EOF encountered on read.
+Sat Sep  3 23:00:14 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep  3 23:00:15 2005 :: EOF encountered on read.
+Sun Sep  4 03:49:31 2005 :: Sock.sinaddr:  204.209.44.14
+Sun Sep  4 03:49:31 2005 :: EOF encountered on read.
+Sun Sep  4 08:12:27 2005 :: Sock.sinaddr:  69.161.161.206
+Sun Sep  4 08:13:08 2005 :: Loading Divia.
+Sun Sep  4 08:13:10 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Sun Sep  4 08:15:24 2005 :: Divia has quit.
+Sun Sep  4 11:29:33 2005 :: Sock.sinaddr:  24.168.219.83
+Sun Sep  4 11:29:35 2005 :: Loading Lena.
+Sun Sep  4 11:29:36 2005 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Sun Sep  4 11:29:38 2005 :: Lena has quit.
+Sun Sep  4 13:55:15 2005 :: Sock.sinaddr:  172.194.229.161
+Sun Sep  4 13:59:09 2005 :: Therik@ACC2E5A1.ipt.aol.com new player.
+Sun Sep  4 14:04:53 2005 :: Therik has quit.
+Sun Sep  4 16:49:41 2005 :: Sock.sinaddr:  67.180.159.176
+Sun Sep  4 16:49:42 2005 :: EOF encountered on read.
+Sun Sep  4 17:59:25 2005 :: Sock.sinaddr:  81.37.56.127
+Sun Sep  4 17:59:34 2005 :: EOF encountered on read.
+Sun Sep  4 18:59:04 2005 :: Sock.sinaddr:  81.37.56.127
+Sun Sep  4 18:59:22 2005 :: EOF encountered on read.
+Sun Sep  4 19:08:42 2005 :: Sock.sinaddr:  67.71.36.138
+Sun Sep  4 19:08:42 2005 :: EOF encountered on read.
+Sun Sep  4 20:02:34 2005 :: Sock.sinaddr:  81.37.56.127
+Sun Sep  4 20:02:50 2005 :: EOF encountered on read.
+Sun Sep  4 23:01:37 2005 :: Sock.sinaddr:  67.19.238.52
+Sun Sep  4 23:01:37 2005 :: EOF encountered on read.
+Sun Sep  4 23:24:39 2005 :: Sock.sinaddr:  66.38.119.15
+Sun Sep  4 23:25:16 2005 :: Loading Rinaldus.
+Sun Sep  4 23:25:17 2005 :: Rinaldus@119-015.dsl.nctc.com has connected.
+Sun Sep  4 23:29:18 2005 :: Rinaldus has quit.
+Sun Sep  4 23:32:49 2005 :: Sock.sinaddr:  81.37.56.127
+Sun Sep  4 23:33:02 2005 :: EOF encountered on read.
+Mon Sep  5 03:39:13 2005 :: Sock.sinaddr:  81.37.56.127
+Mon Sep  5 03:39:28 2005 :: EOF encountered on read.
+Mon Sep  5 03:50:28 2005 :: Sock.sinaddr:  204.209.44.14
+Mon Sep  5 03:50:29 2005 :: EOF encountered on read.
+Mon Sep  5 07:38:47 2005 :: Sock.sinaddr:  68.201.26.13
+Mon Sep  5 07:38:51 2005 :: Loading Ender.
+Mon Sep  5 07:38:54 2005 :: Ender@13-26.201-68.swfla.res.rr.com has connected.
+Mon Sep  5 07:39:03 2005 :: Ender has quit.
+Mon Sep  5 12:02:28 2005 :: Sock.sinaddr:  24.168.219.83
+Mon Sep  5 12:02:29 2005 :: Loading Lena.
+Mon Sep  5 12:02:30 2005 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Mon Sep  5 12:02:34 2005 :: Lena has quit.
+Mon Sep  5 16:41:51 2005 :: Sock.sinaddr:  81.37.56.127
+Mon Sep  5 16:42:05 2005 :: EOF encountered on read.
+Mon Sep  5 19:38:47 2005 :: Sock.sinaddr:  24.168.219.83
+Mon Sep  5 19:38:50 2005 :: Loading Lena.
+Mon Sep  5 19:38:51 2005 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Mon Sep  5 19:40:00 2005 :: Lena has quit.
+Mon Sep  5 22:59:39 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep  5 22:59:39 2005 :: EOF encountered on read.
+Mon Sep  5 23:28:35 2005 :: Sock.sinaddr:  81.37.56.127
+Mon Sep  5 23:29:14 2005 :: EOF encountered on read.
+Tue Sep  6 03:46:21 2005 :: Sock.sinaddr:  204.209.44.14
+Tue Sep  6 03:46:21 2005 :: EOF encountered on read.
+Tue Sep  6 10:05:41 2005 :: Sock.sinaddr:  81.37.56.127
+Tue Sep  6 10:06:15 2005 :: EOF encountered on read.
+Tue Sep  6 12:46:32 2005 :: Sock.sinaddr:  81.37.56.127
+Tue Sep  6 12:47:07 2005 :: EOF encountered on read.
+Tue Sep  6 12:48:08 2005 :: Sock.sinaddr:  69.161.161.206
+Tue Sep  6 12:48:11 2005 :: Loading Divia.
+Tue Sep  6 12:48:13 2005 :: Divia@69-161-161-206.miamfl.adelphia.net has connected.
+Tue Sep  6 12:48:25 2005 :: Divia has quit.
+Tue Sep  6 15:00:49 2005 :: Sock.sinaddr:  81.37.56.127
+Tue Sep  6 15:01:22 2005 :: EOF encountered on read.
+Tue Sep  6 17:22:36 2005 :: Sock.sinaddr:  81.37.56.127
+Tue Sep  6 17:23:06 2005 :: EOF encountered on read.
+Tue Sep  6 18:47:42 2005 :: Sock.sinaddr:  151.205.150.8
+Tue Sep  6 18:49:20 2005 :: EOF encountered on read.
+Tue Sep  6 20:30:47 2005 :: Sock.sinaddr:  81.37.56.127
+Tue Sep  6 20:31:19 2005 :: EOF encountered on read.
+Tue Sep  6 22:59:18 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Sep  6 22:59:19 2005 :: EOF encountered on read.
+Wed Sep  7 03:49:11 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Sep  7 03:49:11 2005 :: EOF encountered on read.
+Wed Sep  7 15:32:54 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Sep  7 15:32:58 2005 :: Loading Ender.
+Wed Sep  7 15:32:59 2005 :: Ender@65.170.3.132 has connected.
+Wed Sep  7 15:33:04 2005 :: Ender has quit.
+Wed Sep  7 19:50:22 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Sep  7 19:50:24 2005 :: EOF encountered on read.
+Wed Sep  7 19:51:11 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Sep  7 19:51:11 2005 :: EOF encountered on read.
+Wed Sep  7 20:59:45 2005 :: Sock.sinaddr:  68.54.4.189
+Wed Sep  7 20:59:49 2005 :: Loading Spatula.
+Wed Sep  7 20:59:53 2005 :: Spatula@pcp0012187225pcs.albqrq01.nm.comcast.net has connected.
+Wed Sep  7 21:21:33 2005 :: Log Spatula: cast summon golem worker
+Wed Sep  7 21:25:59 2005 :: Log Spatula: cast summon drakyri guardian spirit form ghost
+Wed Sep  7 21:32:17 2005 :: Log Spatula: cast summon bloody severed nose
+Wed Sep  7 21:40:55 2005 :: Spatula killed by a gauntlet cleric  at 25308
+Wed Sep  7 22:02:40 2005 :: Spatula has quit.
+Wed Sep  7 22:59:17 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Sep  7 22:59:18 2005 :: EOF encountered on read.
+Thu Sep  8 03:36:54 2005 :: Sock.sinaddr:  220.77.150.53
+Thu Sep  8 03:37:26 2005 :: Malikai@220.77.150.53 new player.
+Thu Sep  8 03:39:09 2005 :: Malikai has quit.
+Thu Sep  8 03:50:46 2005 :: Sock.sinaddr:  204.209.44.14
+Thu Sep  8 03:50:48 2005 :: EOF encountered on read.
+Thu Sep  8 13:03:44 2005 :: Sock.sinaddr:  67.19.238.52
+Thu Sep  8 13:03:47 2005 :: EOF encountered on read.
+Thu Sep  8 15:21:31 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:21:35 2005 :: Loading Ender.
+Thu Sep  8 15:21:37 2005 :: Ender@65.170.3.132 has connected.
+Thu Sep  8 15:23:34 2005 :: Ender has quit.
+Thu Sep  8 15:23:37 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:23:41 2005 :: Loading Xion.
+Thu Sep  8 15:23:42 2005 :: Xion@65.170.3.132 has connected.
+Thu Sep  8 15:23:57 2005 :: Xion has quit.
+Thu Sep  8 15:23:59 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:24:02 2005 :: Loading Malthod.
+Thu Sep  8 15:24:04 2005 :: Malthod@65.170.3.132 has connected.
+Thu Sep  8 15:24:24 2005 :: Malthod has quit.
+Thu Sep  8 15:24:26 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:24:31 2005 :: Loading Lacinated.
+Thu Sep  8 15:24:32 2005 :: Lacinated@65.170.3.132 has connected.
+Thu Sep  8 15:25:25 2005 :: Lacinated has quit.
+Thu Sep  8 15:25:31 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:25:34 2005 :: Loading Lacinated.
+Thu Sep  8 15:25:35 2005 :: Lacinated@65.170.3.132 has connected.
+Thu Sep  8 15:26:16 2005 :: Lacinated has quit.
+Thu Sep  8 15:26:18 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Sep  8 15:27:02 2005 :: EOF encountered on read.
+Thu Sep  8 22:58:43 2005 :: Sock.sinaddr:  67.19.238.52
+Thu Sep  8 22:58:43 2005 :: EOF encountered on read.
+Fri Sep  9 03:53:51 2005 :: Sock.sinaddr:  204.209.44.14
+Fri Sep  9 03:53:53 2005 :: EOF encountered on read.
+Fri Sep  9 07:04:56 2005 :: Sock.sinaddr:  65.170.3.132
+Fri Sep  9 07:05:00 2005 :: Loading Ender.
+Fri Sep  9 07:05:04 2005 :: Ender@65.170.3.132 has connected.
+Fri Sep  9 07:05:10 2005 :: Ender has quit.
+Fri Sep  9 22:58:27 2005 :: Sock.sinaddr:  67.19.238.52
+Fri Sep  9 22:58:27 2005 :: EOF encountered on read.
+Sat Sep 10 01:54:40 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep 10 01:54:42 2005 :: EOF encountered on read.
+Sat Sep 10 03:48:38 2005 :: Sock.sinaddr:  204.209.44.14
+Sat Sep 10 03:48:38 2005 :: EOF encountered on read.
+Sat Sep 10 18:57:25 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 18:58:51 2005 :: Otrant@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:10:21 2005 :: Otrant killed by the young snarling dragon at 3721
+Sat Sep 10 19:11:31 2005 :: Otrant has quit.
+Sat Sep 10 19:11:38 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:12:49 2005 :: Nargoth@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:14:50 2005 :: EOF encountered on read.
+Sat Sep 10 19:14:50 2005 :: Closing link to Nargoth.
+Sat Sep 10 19:14:51 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:15:10 2005 :: Nargoth@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:16:45 2005 :: EOF encountered on read.
+Sat Sep 10 19:16:45 2005 :: Closing link to Nargoth.
+Sat Sep 10 19:16:46 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:22:38 2005 :: Mordrake@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:32:00 2005 :: Log Mordrake: delete
+Sat Sep 10 19:32:03 2005 :: Log Mordrake: delete
+Sat Sep 10 19:32:03 2005 :: Mordrake has quit.
+Sat Sep 10 19:32:11 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:32:26 2005 :: Mordrake@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:33:33 2005 :: EOF encountered on read.
+Sat Sep 10 19:33:33 2005 :: Closing link to Mordrake.
+Sat Sep 10 19:33:34 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:33:48 2005 :: Mordrake@c-24-12-31-214.hsd1.in.comcast.net new player.
+Sat Sep 10 19:39:10 2005 :: c-24-12-31-214.hsd1.in.comcast.net input spamming!
+Sat Sep 10 19:43:40 2005 :: Mordrake has quit.
+Sat Sep 10 19:43:44 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:43:49 2005 :: Loading Otrant.
+Sat Sep 10 19:43:49 2005 :: [*****] BUG: Fread_char: No FMatch
+Sat Sep 10 19:43:50 2005 :: Otrant@c-24-12-31-214.hsd1.in.comcast.net has connected.
+Sat Sep 10 19:47:38 2005 :: Log Otrant: delete
+Sat Sep 10 19:47:39 2005 :: Log Otrant: delete
+Sat Sep 10 19:47:39 2005 :: Otrant has quit.
+Sat Sep 10 19:47:42 2005 :: Sock.sinaddr:  24.12.31.214
+Sat Sep 10 19:47:52 2005 :: EOF encountered on read.
+Sat Sep 10 19:47:52 2005 :: Closing link to Otrant.
+Sat Sep 10 22:57:41 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep 10 22:57:41 2005 :: EOF encountered on read.
+Sun Sep 11 03:50:01 2005 :: Sock.sinaddr:  204.209.44.14
+Sun Sep 11 03:50:01 2005 :: EOF encountered on read.
+Sun Sep 11 11:38:39 2005 :: Sock.sinaddr:  66.38.119.15
+Sun Sep 11 11:38:42 2005 :: Loading Rinaldus.
+Sun Sep 11 11:38:43 2005 :: Rinaldus@119-015.dsl.nctc.com has connected.
+Sun Sep 11 11:39:57 2005 :: Rinaldus has quit.
+Sun Sep 11 16:19:23 2005 :: Sock.sinaddr:  24.225.29.143
+Sun Sep 11 16:20:26 2005 :: EOF encountered on read.
+Sun Sep 11 16:20:26 2005 :: Closing link to Zardoz.
+Sun Sep 11 16:20:27 2005 :: Sock.sinaddr:  24.225.29.143
+Sun Sep 11 16:21:03 2005 :: Zardoz@p143n29.ruraltel.net new player.
+Sun Sep 11 16:27:53 2005 :: Zardoz killed by the boar at 3739
+Sun Sep 11 16:32:00 2005 :: EOF encountered on read.
+Sun Sep 11 16:32:00 2005 :: Closing link to Zardoz.
+Sun Sep 11 16:47:46 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Zardoz RVNUM: ] ref A009
+Sun Sep 11 16:47:46 2005 :: Zardoz has quit.
+Sun Sep 11 21:39:52 2005 :: Sock.sinaddr:  172.139.180.137
+Sun Sep 11 21:40:04 2005 :: Loading Madhkon.
+Sun Sep 11 21:40:07 2005 :: Madhkon@AC8BB489.ipt.aol.com has connected.
+Sun Sep 11 21:41:01 2005 :: Log Madhkon: delete
+Sun Sep 11 21:41:04 2005 :: Log Madhkon: delete
+Sun Sep 11 21:41:05 2005 :: Log Madhkon: delete
+Sun Sep 11 21:41:05 2005 :: Madhkon has quit.
+Sun Sep 11 22:58:14 2005 :: Sock.sinaddr:  67.19.238.52
+Sun Sep 11 22:58:15 2005 :: EOF encountered on read.
+Mon Sep 12 03:46:46 2005 :: Sock.sinaddr:  204.209.44.14
+Mon Sep 12 03:46:46 2005 :: EOF encountered on read.
+Mon Sep 12 14:29:46 2005 :: Sock.sinaddr:  67.19.185.236
+Mon Sep 12 14:29:49 2005 :: Loading Sembiance.
+Mon Sep 12 14:29:51 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Mon Sep 12 14:30:33 2005 :: Sembiance has quit.
+Mon Sep 12 21:53:18 2005 :: Sock.sinaddr:  70.110.43.148
+Mon Sep 12 21:54:15 2005 :: Eledriel@pool-70-110-43-148.sea.dsl-w.verizon.net new player.
+Mon Sep 12 21:55:30 2005 :: Log Eledriel: delete
+Mon Sep 12 21:55:31 2005 :: Log Eledriel: delete
+Mon Sep 12 21:55:31 2005 :: Eledriel has quit.
+Mon Sep 12 21:57:56 2005 :: Sock.sinaddr:  68.54.4.189
+Mon Sep 12 21:58:01 2005 :: Loading Spatula.
+Mon Sep 12 21:58:04 2005 :: Spatula@pcp0012187225pcs.albqrq01.nm.comcast.net has connected.
+Mon Sep 12 22:57:37 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 12 22:57:37 2005 :: EOF encountered on read.
+Mon Sep 12 23:27:04 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Mon Sep 12 23:27:04 2005 :: Spatula has quit.
+Tue Sep 13 03:41:43 2005 :: Sock.sinaddr:  204.209.44.14
+Tue Sep 13 03:41:44 2005 :: EOF encountered on read.
+Tue Sep 13 10:04:50 2005 :: Sock.sinaddr:  151.205.150.8
+Tue Sep 13 10:05:03 2005 :: Loading Serpterion.
+Tue Sep 13 10:05:03 2005 :: Serpterion@pool-151-205-150-8.hag.east.verizon.net has connected.
+Tue Sep 13 10:48:45 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Serpterion RVNUM: ] ref A009
+Tue Sep 13 10:48:45 2005 :: Serpterion has quit.
+Tue Sep 13 11:35:20 2005 :: Sock.sinaddr:  151.205.150.8
+Tue Sep 13 11:35:27 2005 :: Loading Serpterion.
+Tue Sep 13 11:35:27 2005 :: Serpterion@pool-151-205-150-8.hag.east.verizon.net has connected.
+Tue Sep 13 11:36:14 2005 :: Serpterion has quit.
+Tue Sep 13 13:35:11 2005 :: Sock.sinaddr:  65.170.3.132
+Tue Sep 13 13:35:20 2005 :: Loading Ender.
+Tue Sep 13 13:35:29 2005 :: Ender@65.170.3.132 has connected.
+Tue Sep 13 13:36:15 2005 :: Ender has quit.
+Tue Sep 13 19:08:16 2005 :: Sock.sinaddr:  69.252.192.3
+Tue Sep 13 19:08:59 2005 :: Loading Spatula.
+Tue Sep 13 19:09:03 2005 :: Spatula@69.252.192.3 has connected.
+Tue Sep 13 19:10:22 2005 :: Spatula has quit.
+Tue Sep 13 21:35:16 2005 :: Sock.sinaddr:  66.38.119.15
+Tue Sep 13 21:35:20 2005 :: Loading Rinaldus.
+Tue Sep 13 21:35:21 2005 :: Rinaldus@119-015.dsl.nctc.com has connected.
+Tue Sep 13 21:36:01 2005 :: Rinaldus has quit.
+Tue Sep 13 22:58:01 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Sep 13 22:58:02 2005 :: EOF encountered on read.
+Wed Sep 14 03:37:58 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Sep 14 03:37:59 2005 :: EOF encountered on read.
+Wed Sep 14 05:48:48 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Sep 14 05:49:23 2005 :: Sock.sinaddr:  217.44.200.129
+Wed Sep 14 05:49:38 2005 :: Mara@host217-44-200-129.range217-44.btcentralplus.com new player.
+Wed Sep 14 06:01:43 2005 :: Mara killed by the boar at 3728
+Wed Sep 14 06:06:10 2005 :: Mara killed by the fox at 3726
+Wed Sep 14 06:06:27 2005 :: Mara has quit.
+Wed Sep 14 08:27:14 2005 :: Sock.sinaddr:  80.122.170.165
+Wed Sep 14 08:27:14 2005 :: Sock.sinaddr:  80.122.170.165
+Wed Sep 14 08:27:44 2005 :: Loading Sephiroth.
+Wed Sep 14 08:27:44 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Sep 14 08:27:44 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Sep 14 08:27:49 2005 :: EOF encountered on read.
+Wed Sep 14 08:27:49 2005 :: Closing link to Sephiroth.
+Wed Sep 14 08:27:49 2005 :: [*****] BUG: Norm-Apply: 0
+Wed Sep 14 08:27:52 2005 :: Sock.sinaddr:  80.122.170.165
+Read_from_descriptor: Connection reset by peer
+Wed Sep 14 08:29:54 2005 :: Lorn@80.122.170.165 new player.
+Wed Sep 14 08:30:13 2005 :: EOF encountered on read.
+Wed Sep 14 08:30:13 2005 :: Closing link to Lorn.
+Wed Sep 14 14:19:25 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Sep 14 14:19:27 2005 :: Loading Ender.
+Wed Sep 14 14:19:28 2005 :: Ender@65.170.3.132 has connected.
+Wed Sep 14 14:20:03 2005 :: Ender has quit.
+Wed Sep 14 18:10:33 2005 :: Sock.sinaddr:  68.91.68.106
+Wed Sep 14 18:15:54 2005 :: Lagu@adsl-68-91-68-106.dsl.stlsmo.swbell.net new player.
+Wed Sep 14 18:28:03 2005 :: EOF encountered on read.
+Wed Sep 14 18:28:03 2005 :: Closing link to Lagu.
+Wed Sep 14 18:42:07 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lagu RVNUM: ] ref A009
+Wed Sep 14 18:42:07 2005 :: Lagu has quit.
+Wed Sep 14 19:54:01 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 19:54:06 2005 :: Loading Hocklar.
+Wed Sep 14 19:54:09 2005 :: Hocklar@69.252.192.3 has connected.
+Wed Sep 14 20:12:53 2005 :: Hocklar killed by {cA big snake{x at 6706
+Wed Sep 14 20:22:35 2005 :: Hocklar killed by {cA {mAmethyst{c Dragon{x at 6712
+Wed Sep 14 20:27:27 2005 :: Hocklar killed by {cA {YYellow {cDragon{x at 6712
+Wed Sep 14 20:30:11 2005 :: Hocklar has quit.
+Wed Sep 14 20:30:19 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 20:30:23 2005 :: Loading Spatula.
+Wed Sep 14 20:30:25 2005 :: Spatula@69.252.192.3 has connected.
+Wed Sep 14 20:31:03 2005 :: Spatula has quit.
+Wed Sep 14 20:31:08 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 20:31:10 2005 :: Loading Hocklar.
+Wed Sep 14 20:31:13 2005 :: Hocklar@69.252.192.3 has connected.
+Wed Sep 14 20:33:39 2005 :: Hocklar killed by {cA {yBronze{c Dragon{x at 6711
+Wed Sep 14 20:37:21 2005 :: Hocklar killed by {cA {yBronze{c Dragon{x at 6711
+Wed Sep 14 20:50:20 2005 :: 69.252.192.3 input spamming!
+Wed Sep 14 20:53:46 2005 :: 69.252.192.3 input spamming!
+Wed Sep 14 21:04:22 2005 :: Hocklar killed by {ca Dragon hatchling{x at 6712
+Wed Sep 14 21:10:49 2005 :: 69.252.192.3 input spamming!
+Wed Sep 14 21:11:52 2005 :: Hocklar killed by {cA {mAmethyst{c Dragon{x at 6712
+Wed Sep 14 21:18:53 2005 :: Hocklar killed by {cA {YYellow {cDragon{x at 6711
+Wed Sep 14 21:26:56 2005 :: Hocklar killed by {cA {YYellow {cDragon{x at 6711
+Wed Sep 14 21:32:49 2005 :: Hocklar killed by {cA {mF{Ma{ce{yr{ri{De{x {DDragon{x at 6717
+Wed Sep 14 21:36:03 2005 :: Hocklar has quit.
+Wed Sep 14 21:36:08 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 21:36:12 2005 :: Loading Fidelity.
+Wed Sep 14 21:36:15 2005 :: Closing link to Fidelity.
+Wed Sep 14 21:36:21 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 21:36:27 2005 :: Loading Gumbercules.
+Wed Sep 14 21:36:29 2005 :: Closing link to Gumbercules.
+Wed Sep 14 21:36:34 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 21:36:39 2005 :: Loading Vernon.
+Wed Sep 14 21:36:40 2005 :: Closing link to Vernon.
+Wed Sep 14 21:36:49 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 21:36:53 2005 :: Loading Stumpy.
+Wed Sep 14 21:36:56 2005 :: Stumpy@69.252.192.3 has connected.
+Wed Sep 14 21:42:57 2005 :: Stumpy has quit.
+Wed Sep 14 21:43:01 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 14 21:43:05 2005 :: Loading Hocklar.
+Wed Sep 14 21:43:07 2005 :: Hocklar@69.252.192.3 has connected.
+Wed Sep 14 21:46:04 2005 :: Hocklar has quit.
+Wed Sep 14 22:56:31 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Sep 14 22:56:31 2005 :: EOF encountered on read.
+Thu Sep 15 03:38:54 2005 :: Sock.sinaddr:  204.209.44.14
+Thu Sep 15 03:38:54 2005 :: EOF encountered on read.
+Thu Sep 15 17:12:08 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 15 17:12:12 2005 :: Loading Spatula.
+Thu Sep 15 17:12:14 2005 :: Spatula@69.252.192.3 has connected.
+Thu Sep 15 17:19:00 2005 :: Spatula has quit.
+Thu Sep 15 20:10:05 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 15 20:10:08 2005 :: Loading Spatula.
+Thu Sep 15 20:10:11 2005 :: Spatula@69.252.192.3 has connected.
+Thu Sep 15 20:11:27 2005 :: Spatula has quit.
+Thu Sep 15 20:11:32 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 15 20:11:37 2005 :: Loading Gumbercules.
+Thu Sep 15 20:11:40 2005 :: Gumbercules@69.252.192.3 has connected.
+Thu Sep 15 21:54:34 2005 :: Gumbercules has quit.
+Thu Sep 15 22:57:21 2005 :: Sock.sinaddr:  67.19.238.52
+Thu Sep 15 22:57:21 2005 :: EOF encountered on read.
+Fri Sep 16 03:37:33 2005 :: Sock.sinaddr:  204.209.44.14
+Fri Sep 16 03:37:34 2005 :: EOF encountered on read.
+Fri Sep 16 22:56:52 2005 :: Sock.sinaddr:  67.19.238.52
+Fri Sep 16 22:56:52 2005 :: EOF encountered on read.
+Fri Sep 16 23:26:47 2005 :: Sock.sinaddr:  4.229.15.107
+Fri Sep 16 23:28:36 2005 :: Rubetz@dialup-4.229.15.107.Dial1.Detroit1.Level3.net new player.
+Fri Sep 16 23:42:49 2005 :: Rubetz has quit.
+Sat Sep 17 03:36:46 2005 :: Sock.sinaddr:  204.209.44.14
+Sat Sep 17 03:36:47 2005 :: EOF encountered on read.
+Sat Sep 17 22:08:42 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep 17 22:08:45 2005 :: EOF encountered on read.
+Sat Sep 17 22:56:58 2005 :: Sock.sinaddr:  67.19.238.52
+Sat Sep 17 22:56:58 2005 :: EOF encountered on read.
+Sun Sep 18 03:41:25 2005 :: Sock.sinaddr:  204.209.44.14
+Sun Sep 18 03:41:26 2005 :: EOF encountered on read.
+Sun Sep 18 04:31:56 2005 :: Sock.sinaddr:  67.44.47.154
+Sun Sep 18 04:31:56 2005 :: EOF encountered on read.
+Sun Sep 18 04:33:22 2005 :: Sock.sinaddr:  67.44.47.154
+Sun Sep 18 04:33:22 2005 :: EOF encountered on read.
+Sun Sep 18 22:56:32 2005 :: Sock.sinaddr:  67.19.238.52
+Sun Sep 18 22:56:32 2005 :: EOF encountered on read.
+Mon Sep 19 03:36:24 2005 :: Sock.sinaddr:  204.209.44.14
+Mon Sep 19 03:36:24 2005 :: EOF encountered on read.
+Mon Sep 19 14:56:26 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 14:56:29 2005 :: Loading Spatula.
+Mon Sep 19 14:56:33 2005 :: Spatula@69.252.192.3 has connected.
+Mon Sep 19 14:58:23 2005 :: Spatula has quit.
+Mon Sep 19 14:58:28 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 14:58:32 2005 :: Loading Vernon.
+Mon Sep 19 14:58:35 2005 :: Closing link to Vernon.
+Mon Sep 19 14:58:39 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 14:58:43 2005 :: Loading Vernon.
+Mon Sep 19 14:58:55 2005 :: Vernon@69.252.192.3 has connected.
+Mon Sep 19 15:03:38 2005 :: Vernon has quit.
+Mon Sep 19 15:03:42 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 15:03:46 2005 :: Loading Fidelity.
+Mon Sep 19 15:03:50 2005 :: Closing link to Fidelity.
+Mon Sep 19 15:03:59 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 15:04:02 2005 :: Loading Fidelity.
+Mon Sep 19 15:04:05 2005 :: Closing link to Fidelity.
+Mon Sep 19 15:04:18 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 15:04:28 2005 :: Loading Fidelity.
+Mon Sep 19 15:05:10 2005 :: Closing link to Fidelity.
+Mon Sep 19 15:05:15 2005 :: Sock.sinaddr:  69.252.192.3
+Mon Sep 19 15:05:21 2005 :: Loading Gumbercules.
+Mon Sep 19 15:05:24 2005 :: Gumbercules@69.252.192.3 has connected.
+Mon Sep 19 16:59:16 2005 :: Gumbercules has quit.
+Mon Sep 19 20:41:21 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 20:41:24 2005 :: EOF encountered on read.
+Mon Sep 19 21:57:50 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 21:57:53 2005 :: EOF encountered on read.
+Mon Sep 19 21:58:15 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 21:58:18 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 21:58:18 2005 :: EOF encountered on read.
+Mon Sep 19 21:58:21 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 21:58:21 2005 :: EOF encountered on read.
+Mon Sep 19 21:58:23 2005 :: EOF encountered on read.
+Mon Sep 19 22:56:35 2005 :: Sock.sinaddr:  67.19.238.52
+Mon Sep 19 22:56:36 2005 :: EOF encountered on read.
+Tue Sep 20 03:38:49 2005 :: Sock.sinaddr:  204.209.44.14
+Tue Sep 20 03:38:50 2005 :: EOF encountered on read.
+Tue Sep 20 22:56:55 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Sep 20 22:56:56 2005 :: EOF encountered on read.
+Wed Sep 21 03:40:24 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Sep 21 03:40:24 2005 :: EOF encountered on read.
+Wed Sep 21 15:39:41 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 15:39:47 2005 :: Loading Fidelity.
+Wed Sep 21 15:39:51 2005 :: Closing link to Fidelity.
+Wed Sep 21 15:40:05 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 15:40:09 2005 :: Loading Fidelity.
+Wed Sep 21 15:40:13 2005 :: Fidelity@69.252.192.3 has connected.
+Wed Sep 21 15:43:58 2005 :: Fidelity has quit.
+Wed Sep 21 15:44:16 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 15:44:20 2005 :: Loading Spatula.
+Wed Sep 21 15:44:24 2005 :: Spatula@69.252.192.3 has connected.
+Wed Sep 21 15:54:36 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Sep 21 15:54:39 2005 :: Loading Ender.
+Wed Sep 21 15:54:40 2005 :: Ender@65.170.3.132 has connected.
+Wed Sep 21 16:13:34 2005 :: Ender has quit.
+Wed Sep 21 16:15:40 2005 :: Spatula has quit.
+Wed Sep 21 16:15:44 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 16:15:49 2005 :: Loading Gumbercules.
+Wed Sep 21 16:15:51 2005 :: Gumbercules@69.252.192.3 has connected.
+Wed Sep 21 18:05:01 2005 :: Gumbercules has quit.
+Wed Sep 21 18:05:06 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 18:05:09 2005 :: Loading Spatula.
+Wed Sep 21 18:05:12 2005 :: Spatula@69.252.192.3 has connected.
+Wed Sep 21 18:05:25 2005 :: Log Spatula: cast summon golem child
+Wed Sep 21 18:08:51 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 18:08:55 2005 :: Loading Gumbercules.
+Wed Sep 21 18:08:57 2005 :: Gumbercules@69.252.192.3 has connected.
+Wed Sep 21 18:09:07 2005 :: Gumbercules has quit.
+Wed Sep 21 18:12:11 2005 :: Log Spatula: cast summon treasurer
+Wed Sep 21 18:13:44 2005 :: Log Spatula: cast summon Old pooh bear
+Wed Sep 21 18:52:23 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Wed Sep 21 18:52:23 2005 :: Spatula has quit.
+Wed Sep 21 19:26:04 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 19:26:09 2005 :: Loading Spatula.
+Wed Sep 21 19:26:12 2005 :: Spatula@69.252.192.3 has connected.
+Wed Sep 21 19:26:47 2005 :: Log Spatula: cast summon baby rainbow dragon
+Wed Sep 21 20:03:08 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Spatula RVNUM: ] ref A009
+Wed Sep 21 20:03:08 2005 :: Spatula has quit.
+Wed Sep 21 20:23:22 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 20:23:26 2005 :: Loading Gumbercules.
+Wed Sep 21 20:23:30 2005 :: Gumbercules@69.252.192.3 has connected.
+Wed Sep 21 20:23:54 2005 :: Sock.sinaddr:  69.252.192.3
+Wed Sep 21 20:23:59 2005 :: Loading Spatula.
+Wed Sep 21 20:24:00 2005 :: Spatula@69.252.192.3 has connected.
+Wed Sep 21 20:25:07 2005 :: Spatula has quit.
+Wed Sep 21 21:17:22 2005 :: 69.252.192.3 input spamming!
+Wed Sep 21 21:21:02 2005 :: Gumbercules has quit.
+Wed Sep 21 22:55:22 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Sep 21 22:55:22 2005 :: EOF encountered on read.
+Thu Sep 22 03:40:55 2005 :: Sock.sinaddr:  204.209.44.14
+Thu Sep 22 03:40:55 2005 :: EOF encountered on read.
+Thu Sep 22 17:55:35 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 22 17:55:39 2005 :: Loading Spatula.
+Thu Sep 22 17:55:44 2005 :: Spatula@69.252.192.3 has connected.
+Thu Sep 22 18:34:24 2005 :: Spatula has quit.
+Thu Sep 22 18:34:30 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 22 18:34:40 2005 :: Loading Gumbercules.
+Thu Sep 22 18:34:41 2005 :: Gumbercules@69.252.192.3 has connected.
+Thu Sep 22 18:47:52 2005 :: [*****] BUG: Set_fighting: already fighting
+Thu Sep 22 18:47:55 2005 :: [*****] BUG: Set_fighting: already fighting
+Thu Sep 22 18:47:57 2005 :: [*****] BUG: Set_fighting: already fighting
+Thu Sep 22 19:28:18 2005 :: Gumbercules has quit.
+Thu Sep 22 19:28:24 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 22 19:28:27 2005 :: Loading Spatula.
+Thu Sep 22 19:28:29 2005 :: Spatula@69.252.192.3 has connected.
+Thu Sep 22 19:29:03 2005 :: Log Spatula: cast summon Baruch
+Thu Sep 22 19:30:50 2005 :: Spatula has quit.
+Thu Sep 22 19:30:54 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 22 19:30:59 2005 :: Loading Gumbercules.
+Thu Sep 22 19:31:00 2005 :: Gumbercules@69.252.192.3 has connected.
+Read_from_descriptor: Connection reset by peer
+Thu Sep 22 19:32:02 2005 :: Closing link to Gumbercules.
+Thu Sep 22 19:32:05 2005 :: Sock.sinaddr:  69.252.192.3
+Thu Sep 22 19:32:08 2005 :: Loading Spatula.
+Thu Sep 22 19:32:11 2005 :: Spatula@69.252.192.3 has connected.

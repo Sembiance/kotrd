@@ -1,0 +1,73 @@
+#PLAYER
+Name Dylen~
+Id   1108229778
+LogO 1108230219
+Vers 5
+Prom %h/%H %m/%M %v/%V ~
+Race Elf~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 441
+Scro 33
+Room 25300
+HMV  20 20 100 100 80 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1562
+PAct  QTd
+AfBy J
+WName Dylen~
+Comm MNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 17 13 16 17 13
+AMod 0 0 0 0 0
+Pass DyczoSvBTW3ws~
+Titl  I rock~
+Pnts 48
+TSex 1
+PSize 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 38 43 43
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+End
+
+#END

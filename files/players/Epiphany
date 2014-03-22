@@ -1,0 +1,73 @@
+#PLAYER
+Name Epiphany~
+Id   1104936087
+LogO 1104938117
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Golem~
+Sex  2
+Cla  7
+AlertMe  0
+Hardcore  1
+CasterScore   0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 2030
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1750
+PAct  DFGQTd
+AfBy c
+WName Epiphany~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 2
+Trai 1
+Alig  -1000
+ACs 100 100 100 100
+Attr 27 11 12 10 21
+AMod 0 0 0 0 0
+Pass Epv3jVAch.VaM~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 55
+TSex 2
+PSize 4
+LLev 0
+HMVP 48 104 112
+Cnd  0 24 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'armor'
+Sk 1 'stone skin'
+Sk 75 'sword'
+Sk 1 'whip'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 7 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+End
+
+#END

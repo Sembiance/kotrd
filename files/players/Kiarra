@@ -1,0 +1,535 @@
+#PLAYER
+Name Kiarra~
+Id   1101096342
+LogO 1101181337
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Golem~
+Sex  2
+Cla  5
+OCla -1
+Levl 11
+OldLvl 11
+Sec  0
+Plyd -63883
+Scro 33
+Room 3770
+HMV  221 221 120 120 160 160
+Gold 218
+Silv 7952
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 11
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  26434
+PAct  DEFGQTd
+AfBy CEGJTce
+WName Kiarra~
+Comm NO
+Deaf DP
+Pos  8
+Prac 13
+Trai 8
+Save  -1
+Alig  0
+Hit   124
+Dam   125
+ACs -195 -193 -192 -184
+Wimp  8
+Attr 26 12 14 10 21
+AMod 6 1 1 1 0
+Pass KigbFNPjRqdu6~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 63
+TSex 2
+PSize 4
+LLev -18
+HMVP 201 120 160
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'armor'
+Sk 1 'stone skin'
+Sk 75 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 15 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Affc 'combat mind'   0 486  74 100  18          0
+Affc 'combat mind'   0 488  74 -255  17          0
+Affc 'combat mind'   0 485  74 100  19          0
+Affc 'golden aura'   0 488  19   0   0 1073741824
+Affc 'giant strength'   0  91  35   4   1          0
+Affc 'energy shield'   0  82  43 -20  17          0
+Affc 'fly'   0  87  39   0   0     524288
+Affc 'detect good'   0  85  36   0   0         64
+Affc 'detect evil'   0  88  36   0   0          4
+Affc 'detect magic'   0  90  36   0   0         16
+Affc 'infravision'   0  81 136   0   0        512
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 86 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2910
+Nest 1
+Cond 0
+Wear -1
+Time 760
+Cost 4580
+Spell 1 'armor'
+Spell 2 'bless'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 13206
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Cost 1000
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 25108
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9225
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 9222
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 9225
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 9231
+Nest 1
+Cond 0
+Wear -1
+Time 676
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 3021
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 9217
+Nest 0
+Cond 0
+Wear 17
+Cost 1000
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 9218
+Nest 0
+Cond 0
+Wear -1
+Cost 12600
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  1
+Cost 205
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 9218
+Nest 0
+Cond 0
+Wear -1
+Cost 12600
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 9215
+Nest 0
+Cond 0
+Wear -1
+Cost 3900
+Spell 3 'fireball'
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear 3
+Cost 510
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 7721
+Nest 0
+Cond 0
+Wear -1
+Time 950
+Cost 760
+Spell 1 'blindness'
+Spell 2 'shield block'
+End
+
+#O
+Vnum 7721
+Nest 0
+Cond 0
+Wear -1
+Time 795
+Cost 760
+Spell 1 'blindness'
+Spell 2 'shield block'
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 7704
+Nest 0
+Cond 0
+Wear -1
+Cost 2600
+Spell 3 'energy drain'
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 0
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#END

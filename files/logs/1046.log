@@ -1,0 +1,255 @@
+Thu Mar 22 22:36:50 2007 :: ROM is ready to rock on port 5000.
+New_descriptor: getpeername: Transport endpoint is not connected
+Read_from_descriptor: Connection reset by peer
+Fri Mar 23 02:19:37 2007 :: Sock.sinaddr:  204.209.44.14
+Fri Mar 23 02:19:37 2007 :: EOF encountered on read.
+Fri Mar 23 19:15:49 2007 :: Sock.sinaddr:  70.177.226.42
+Fri Mar 23 19:15:51 2007 :: Loading Rinaldus.
+Fri Mar 23 19:15:53 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Fri Mar 23 19:15:56 2007 :: Rinaldus has quit.
+Fri Mar 23 19:29:52 2007 :: Sock.sinaddr:  71.176.162.163
+Fri Mar 23 19:29:53 2007 :: Loading Crovax.
+Fri Mar 23 19:29:53 2007 :: Crovax@pool-71-176-162-163.hgrtmd.east.verizon.net has connected.
+Fri Mar 23 19:29:58 2007 :: Crovax has quit.
+Fri Mar 23 21:50:03 2007 :: Sock.sinaddr:  67.19.238.52
+Fri Mar 23 21:50:03 2007 :: EOF encountered on read.
+Sat Mar 24 02:19:03 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar 24 02:19:03 2007 :: EOF encountered on read.
+Sat Mar 24 18:24:31 2007 :: Sock.sinaddr:  71.176.162.163
+Sat Mar 24 18:24:38 2007 :: Loading Crovax.
+Sat Mar 24 18:24:39 2007 :: Crovax@pool-71-176-162-163.hgrtmd.east.verizon.net has connected.
+Sat Mar 24 18:33:16 2007 :: EOF encountered on read.
+Sat Mar 24 18:33:16 2007 :: Closing link to Crovax.
+Sat Mar 24 18:47:52 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Sat Mar 24 18:47:52 2007 :: Crovax has quit.
+Sat Mar 24 21:49:44 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 24 21:49:45 2007 :: EOF encountered on read.
+Sun Mar 25 00:50:31 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar 25 00:50:33 2007 :: EOF encountered on read.
+Sun Mar 25 02:22:20 2007 :: Sock.sinaddr:  204.209.44.14
+Sun Mar 25 02:22:21 2007 :: EOF encountered on read.
+Sun Mar 25 21:31:18 2007 :: Sock.sinaddr:  70.177.226.42
+Sun Mar 25 21:31:22 2007 :: Loading Rinaldus.
+Sun Mar 25 21:31:23 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Sun Mar 25 21:31:32 2007 :: Rinaldus has quit.
+Sun Mar 25 21:49:09 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar 25 21:49:09 2007 :: EOF encountered on read.
+Sun Mar 25 23:21:32 2007 :: Sock.sinaddr:  71.176.136.123
+Sun Mar 25 23:21:32 2007 :: Loading Crovax.
+Sun Mar 25 23:21:33 2007 :: Crovax@pool-71-176-136-123.hag.east.verizon.net has connected.
+Sun Mar 25 23:21:59 2007 :: Crovax has quit.
+Mon Mar 26 02:05:59 2007 :: Sock.sinaddr:  65.96.82.238
+Mon Mar 26 02:06:06 2007 :: Loading Azhul.
+Mon Mar 26 02:06:11 2007 :: Azhul@c-65-96-82-238.hsd1.ma.comcast.net has connected.
+Mon Mar 26 02:07:51 2007 :: Azhul has quit.
+Mon Mar 26 02:08:00 2007 :: Sock.sinaddr:  65.96.82.238
+Mon Mar 26 02:08:05 2007 :: EOF encountered on read.
+Mon Mar 26 02:20:02 2007 :: Sock.sinaddr:  204.209.44.14
+Mon Mar 26 02:20:02 2007 :: EOF encountered on read.
+Mon Mar 26 10:48:52 2007 :: Sock.sinaddr:  69.158.10.108
+Mon Mar 26 10:50:18 2007 :: Lusien@bas13-toronto12-1167985260.dsl.bell.ca new player.
+Mon Mar 26 10:56:44 2007 :: Lusien has quit.
+Mon Mar 26 10:56:46 2007 :: Sock.sinaddr:  69.158.10.108
+Mon Mar 26 10:56:53 2007 :: Loading Lusien.
+Mon Mar 26 10:56:53 2007 :: [*****] BUG: Fread_char: No FMatch
+Mon Mar 26 10:56:57 2007 :: Lusien@bas13-toronto12-1167985260.dsl.bell.ca has connected.
+Mon Mar 26 10:57:41 2007 :: Lusien has quit.
+Mon Mar 26 10:57:42 2007 :: Sock.sinaddr:  69.158.10.108
+Mon Mar 26 10:59:22 2007 :: Tristan@bas13-toronto12-1167985260.dsl.bell.ca new player.
+Mon Mar 26 11:22:56 2007 :: Tristan has quit.
+Mon Mar 26 21:41:40 2007 :: Sock.sinaddr:  71.176.156.203
+Mon Mar 26 21:41:40 2007 :: Loading Crovax.
+Mon Mar 26 21:41:41 2007 :: Crovax@pool-71-176-156-203.hgrtmd.east.verizon.net has connected.
+Mon Mar 26 21:41:44 2007 :: Crovax has quit.
+Mon Mar 26 21:50:15 2007 :: Sock.sinaddr:  67.19.238.52
+Mon Mar 26 21:50:15 2007 :: EOF encountered on read.
+Tue Mar 27 02:20:08 2007 :: Sock.sinaddr:  204.209.44.14
+Tue Mar 27 02:20:08 2007 :: EOF encountered on read.
+Tue Mar 27 16:02:24 2007 :: Sock.sinaddr:  70.177.226.42
+Tue Mar 27 16:02:28 2007 :: Loading Rinaldus.
+Tue Mar 27 16:02:29 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Tue Mar 27 16:02:36 2007 :: Rinaldus has quit.
+Tue Mar 27 17:14:29 2007 :: Sock.sinaddr:  71.176.152.176
+Tue Mar 27 17:14:30 2007 :: Loading Crovax.
+Tue Mar 27 17:14:38 2007 :: Crovax@pool-71-176-152-176.hgrtmd.east.verizon.net has connected.
+Tue Mar 27 17:14:51 2007 :: Crovax has quit.
+Tue Mar 27 21:49:54 2007 :: Sock.sinaddr:  67.19.238.52
+Tue Mar 27 21:49:54 2007 :: EOF encountered on read.
+Wed Mar 28 02:20:43 2007 :: Sock.sinaddr:  204.209.44.14
+Wed Mar 28 02:20:43 2007 :: EOF encountered on read.
+Wed Mar 28 16:21:50 2007 :: Sock.sinaddr:  70.177.226.42
+Wed Mar 28 16:21:55 2007 :: Loading Rinaldus.
+Wed Mar 28 16:21:56 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Wed Mar 28 16:21:59 2007 :: Rinaldus has quit.
+Wed Mar 28 21:49:35 2007 :: Sock.sinaddr:  67.19.238.52
+Wed Mar 28 21:49:36 2007 :: EOF encountered on read.
+Thu Mar 29 02:20:14 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar 29 02:20:15 2007 :: EOF encountered on read.
+Thu Mar 29 15:32:04 2007 :: Sock.sinaddr:  70.177.226.42
+Thu Mar 29 15:32:06 2007 :: Loading Rinaldus.
+Thu Mar 29 15:32:07 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Thu Mar 29 15:32:13 2007 :: Rinaldus has quit.
+Thu Mar 29 21:14:28 2007 :: Sock.sinaddr:  71.176.151.210
+Thu Mar 29 21:14:29 2007 :: Loading Crovax.
+Thu Mar 29 21:14:29 2007 :: Crovax@pool-71-176-151-210.hgrtmd.east.verizon.net has connected.
+Thu Mar 29 21:14:36 2007 :: EOF encountered on read.
+Thu Mar 29 21:14:36 2007 :: Closing link to Crovax.
+Thu Mar 29 21:29:26 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Thu Mar 29 21:29:26 2007 :: Crovax has quit.
+Thu Mar 29 21:50:08 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar 29 21:50:08 2007 :: EOF encountered on read.
+Fri Mar 30 02:22:06 2007 :: Sock.sinaddr:  204.209.44.14
+Fri Mar 30 02:22:07 2007 :: EOF encountered on read.
+Fri Mar 30 13:09:17 2007 :: Sock.sinaddr:  208.58.69.174
+Fri Mar 30 13:09:19 2007 :: Loading Macphisto.
+Fri Mar 30 13:09:19 2007 :: [*****] BUG: Fread_char: No FMatch
+Fri Mar 30 13:09:22 2007 :: Closing link to Macphisto.
+Fri Mar 30 13:09:24 2007 :: Sock.sinaddr:  208.58.69.174
+Fri Mar 30 13:09:26 2007 :: Loading Macphisto.
+Fri Mar 30 13:09:26 2007 :: [*****] BUG: Fread_char: No FMatch
+Fri Mar 30 13:09:27 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Fri Mar 30 13:10:23 2007 :: Macphisto has quit.
+Fri Mar 30 16:18:27 2007 :: Sock.sinaddr:  67.19.185.236
+Fri Mar 30 16:18:29 2007 :: Loading Sembiance.
+Fri Mar 30 16:18:31 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Fri Mar 30 16:18:35 2007 :: Sembiance has quit.
+Fri Mar 30 20:51:03 2007 :: Sock.sinaddr:  71.176.155.210
+Fri Mar 30 20:51:03 2007 :: Loading Crovax.
+Fri Mar 30 20:51:03 2007 :: Crovax@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Fri Mar 30 20:51:09 2007 :: EOF encountered on read.
+Fri Mar 30 20:51:09 2007 :: Closing link to Crovax.
+Fri Mar 30 21:06:00 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Fri Mar 30 21:06:00 2007 :: Crovax has quit.
+Fri Mar 30 21:49:30 2007 :: Sock.sinaddr:  67.19.238.52
+Fri Mar 30 21:49:30 2007 :: EOF encountered on read.
+Sat Mar 31 02:19:05 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar 31 02:19:05 2007 :: EOF encountered on read.
+Sat Mar 31 06:33:08 2007 :: Sock.sinaddr:  70.177.226.42
+Sat Mar 31 06:33:11 2007 :: Loading Rinaldus.
+Sat Mar 31 06:33:12 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Sat Mar 31 06:33:15 2007 :: Rinaldus has quit.
+Sat Mar 31 16:26:15 2007 :: Sock.sinaddr:  71.176.155.210
+Sat Mar 31 16:26:15 2007 :: Loading Crovax.
+Sat Mar 31 16:26:16 2007 :: Crovax@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Sat Mar 31 16:26:55 2007 :: Crovax has quit.
+Sat Mar 31 17:49:51 2007 :: Sock.sinaddr:  71.176.155.210
+Sat Mar 31 17:49:52 2007 :: Loading Crovax.
+Sat Mar 31 17:49:52 2007 :: Crovax@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Sat Mar 31 17:50:07 2007 :: EOF encountered on read.
+Sat Mar 31 17:50:07 2007 :: Closing link to Crovax.
+Sat Mar 31 18:05:04 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Sat Mar 31 18:05:04 2007 :: Crovax has quit.
+Sat Mar 31 21:49:24 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 31 21:49:24 2007 :: EOF encountered on read.
+Sun Apr  1 03:23:03 2007 :: Sock.sinaddr:  204.209.44.14
+Sun Apr  1 03:23:03 2007 :: EOF encountered on read.
+Sun Apr  1 12:52:41 2007 :: Sock.sinaddr:  208.58.69.174
+Sun Apr  1 12:52:46 2007 :: Loading Macphisto.
+Sun Apr  1 12:52:46 2007 :: [*****] BUG: Fread_char: No FMatch
+Sun Apr  1 12:52:47 2007 :: Macphisto@208-58-69-174.c3-0.161-ubr2.lnh-161.md.cable.rcn.com has connected.
+Sun Apr  1 12:53:15 2007 :: Macphisto has quit.
+Sun Apr  1 13:47:58 2007 :: Sock.sinaddr:  70.177.226.42
+Sun Apr  1 13:48:05 2007 :: Loading Rinaldus.
+Sun Apr  1 13:48:06 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Sun Apr  1 13:48:20 2007 :: Rinaldus has quit.
+Sun Apr  1 14:00:21 2007 :: Sock.sinaddr:  71.176.155.210
+Sun Apr  1 14:00:26 2007 :: Loading Serpterion.
+Sun Apr  1 14:00:26 2007 :: Serpterion@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Sun Apr  1 14:03:01 2007 :: Sock.sinaddr:  71.176.155.210
+Sun Apr  1 14:03:02 2007 :: Loading Crovax.
+Sun Apr  1 14:03:02 2007 :: Crovax@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Sun Apr  1 14:24:03 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Sun Apr  1 14:24:03 2007 :: Crovax has quit.
+Sun Apr  1 14:24:03 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Serpterion RVNUM: ] ref A009
+Sun Apr  1 14:24:03 2007 :: Serpterion has quit.
+Sun Apr  1 14:33:04 2007 :: Sock.sinaddr:  208.58.69.174
+Sun Apr  1 14:33:09 2007 :: Loading Macphisto.
+Sun Apr  1 14:33:09 2007 :: [*****] BUG: Fread_char: No FMatch
+Sun Apr  1 14:33:10 2007 :: Closing link to Macphisto.
+Sun Apr  1 14:44:53 2007 :: Sock.sinaddr:  71.176.155.210
+Sun Apr  1 14:44:56 2007 :: Loading Serpterion.
+Sun Apr  1 14:44:57 2007 :: Serpterion@pool-71-176-155-210.hgrtmd.east.verizon.net has connected.
+Sun Apr  1 14:45:29 2007 :: EOF encountered on read.
+Sun Apr  1 14:45:29 2007 :: Closing link to Serpterion.
+Sun Apr  1 15:00:12 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Serpterion RVNUM: ] ref A009
+Sun Apr  1 15:00:12 2007 :: Serpterion has quit.
+Sun Apr  1 18:25:47 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 18:25:52 2007 :: Loading Spatula.
+Sun Apr  1 18:25:55 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Sun Apr  1 18:33:01 2007 :: Spatula has quit.
+Sun Apr  1 18:33:05 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 18:33:08 2007 :: Loading Stumpy.
+Sun Apr  1 18:33:10 2007 :: Stumpy@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Sun Apr  1 18:34:23 2007 :: Stumpy has quit.
+Sun Apr  1 18:34:26 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 18:34:29 2007 :: Loading Spatula.
+Sun Apr  1 18:34:31 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Sun Apr  1 18:38:07 2007 :: Log Spatula: cast summon samantha
+Sun Apr  1 18:44:50 2007 :: Log Spatula: cast summon bloody severed nose
+Sun Apr  1 18:52:14 2007 :: Spatula killed by Loryn at 11865
+Sun Apr  1 18:54:59 2007 :: Log Spatula: cast summon golem worker
+Sun Apr  1 18:55:55 2007 :: Spatula killed by Loryn at 11865
+Sun Apr  1 18:58:52 2007 :: Log Spatula: cast summon golem worker
+Sun Apr  1 19:08:47 2007 :: Log Spatula: cast summon antelope
+Sun Apr  1 19:09:07 2007 :: Spatula has quit.
+Sun Apr  1 19:09:13 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 19:09:23 2007 :: Loading Hocklar.
+Sun Apr  1 19:09:24 2007 :: Hocklar@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Sun Apr  1 19:11:38 2007 :: Hocklar has quit.
+Sun Apr  1 19:11:42 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 19:11:44 2007 :: Loading Spatula.
+Sun Apr  1 19:11:46 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Sun Apr  1 19:12:14 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:12:17 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:12:20 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:12:23 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:26 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:28 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:12:31 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:34 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:37 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:12:39 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:42 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:45 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:48 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:51 2007 :: Log Spatula: cast summon anarchy dragon
+Sun Apr  1 19:12:53 2007 :: Log Spatula: cast summon dragon anarchy
+Sun Apr  1 19:13:05 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:08 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:11 2007 :: Log Spatula: cast summon dragon virtue
+Sun Apr  1 19:13:13 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:16 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:19 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:24 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:27 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:30 2007 :: Log Spatula: cast summon dragon virtue
+Sun Apr  1 19:13:33 2007 :: Log Spatula: cast summon virtue
+Sun Apr  1 19:13:38 2007 :: Log Spatula: cast summon dragon virtue
+Sun Apr  1 19:13:41 2007 :: Log Spatula: cast summon dragon virtue
+Sun Apr  1 19:13:44 2007 :: Log Spatula: cast summon dragon virtue
+Write_to_descriptor: Resource temporarily unavailable
+Sun Apr  1 19:14:06 2007 :: Closing link to Spatula.
+Sun Apr  1 19:14:11 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 19:14:13 2007 :: Loading Spatula.
+Sun Apr  1 19:14:16 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net reconnected.
+Sun Apr  1 19:16:20 2007 :: Sock.sinaddr:  69.247.79.124
+Sun Apr  1 19:16:25 2007 :: Loading Spatula.
+Sun Apr  1 19:16:28 2007 :: Closing link to Spatula.
+Sun Apr  1 19:16:28 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net reconnected.
+Sun Apr  1 19:17:05 2007 :: Log Spatula: cast summon drakyri healer
+Sun Apr  1 19:26:18 2007 :: Log Spatula: cast summon githyanki gish
+Sun Apr  1 19:54:22 2007 :: Sock.sinaddr:  67.19.185.236
+Sun Apr  1 19:54:24 2007 :: Loading Sembiance.
+Sun Apr  1 19:54:25 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sun Apr  1 19:58:55 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 19:59:02 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 19:59:34 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 19:59:41 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:00:08 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:00:15 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:00:41 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:00:48 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:01:16 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:01:22 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:02:52 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!
+Sun Apr  1 20:03:23 2007 :: c-69-247-79-124.hsd1.nm.comcast.net input spamming!

@@ -1,0 +1,329 @@
+#PLAYER
+Name Mercutio~
+Id   1091781977
+LogO 1149277737
+Vers 5
+Prom <%h/%Hhp  %m/%Mm  %v/%Vmv><%Xxp to level><%k%K> ~
+Race Nephilim~
+Sex  1
+Cla  1
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 3
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 155435
+Scro 33
+Room 3054
+HMV  105 105 171 171 181 181
+Gold 297
+Silv 8859
+Gold_bank 27500
+Silv_bank 0
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  14768
+QuestPnts -2000
+PAct  DGQTbd
+AfBy DFHUV
+WName Mercutio~
+Comm KMNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 7
+Trai 1
+Save  -32
+Alig  889
+Hit   94
+Dam   33
+ACs -73 -77 -72 -45
+Attr 15 16 20 13 18
+AMod 0 3 7 10 10
+Pass MeFXfKNF74ZDM~
+Titl , the little Cleric.~
+Pnts 43
+TSex 1
+PSize 2
+LLev 43
+HMVP 105 171 181
+Cnd  0 0 -1 -1
+Alias say neph~
+Alias chat askljdaklsjd~
+Boards       4 General 1147447507 Ideas 1146808373 Announce 0 Personal 0 
+Sk 75 'cure light'
+Sk 1 'change sex'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 1 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 78 'identify'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'weaken'
+Sk 88 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 1 'polearm'
+Sk 100 'backstab'
+Sk 1 'bash'
+Sk 100 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 87 'kick'
+Sk 94 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 75 'envenom'
+Sk 77 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 1 'meditation'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 75 'sneak'
+Sk 75 'steal'
+Sk 1 'scrolls'
+Sk 75 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Sk 75 'quicken'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'thief basics'
+Gr 'cleric default'
+Gr 'thief default'
+Gr 'warrior default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'identify spell'
+Affc 'frenzy'   0  72  11  60  17          0
+Affc 'frenzy'   0  73  11  12  19          0
+Affc 'frenzy'   0  70  11  12  18          0
+Affc 'bio fortress'   0  95   8   0   0        128
+Affc 'mental barrier'   2  98  25   0   0      32768
+Affc 'combat mind'   0  96   8  20  19          0
+Affc 'combat mind'   0  97   8 -55  17          0
+Affc 'combat mind'   0  93   8  20  18          0
+Affc 'adrenaline control'   3  96  70   0   0         16
+Affc 'adrenaline control'   0  93  70  12   5          0
+Affc 'adrenaline control'   0  94  70  12   2          0
+Affc 'flesh armor'   3  97  75   0   0         64
+Affc 'flesh armor'   3  96  75   0   0         32
+Affc 'flesh armor'   0  96  75 -20  17          0
+Affc 'displacement'   0  87  25   0   0    1048576
+Affc 'displacement'   0  94  71  12   2          0
+Affc 'displacement'   0  94  71 -96  17          0
+Affc 'bless'   0 240  92  62  18          0
+Affc 'bless'   0 242  92 -31  20          0
+Affc 'armor'   0 243  58 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 142 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear 16
+Cost 140
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear 1
+Cost 200
+End
+
+#O
+Vnum 18603
+Nest 0
+Cond 0
+Wear 6
+Cost 220
+End
+
+#O
+Vnum 18604
+Nest 0
+Cond 0
+Wear 12
+Cost 180
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear 2
+Cost 200
+End
+
+#END

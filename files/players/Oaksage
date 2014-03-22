@@ -1,0 +1,616 @@
+#PLAYER
+Name Oaksage~
+Id   1096216726
+LogO 1105580485
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Seraph~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 8651
+Scro 33
+Room 3054
+HMV  126 126 199 199 184 184
+Gold 62
+Silv 1041
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  24706
+PAct  CDEFGQTd
+AfBy FTV
+WName Oaksage~
+Comm FNO
+RaceChan 0
+Deaf DP
+Pos  4
+Prac 28
+Trai 11
+Alig  1000
+Hit   4
+Dam   3
+ACs -5 -2 -8 85
+Attr 16 19 17 12 15
+AMod 0 0 0 1 0
+Pass OaZgyj3TkcHxQ~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 52
+TSex 1
+PSize 2
+LLev 1
+HMVP 126 199 184
+Cnd  0 0 0 0
+Alias f ca 'faerie fire'~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'lightning bolt'
+Sk 1 'change sex'
+Sk 1 'blindness'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 1 'curse'
+Sk 1 'energy drain'
+Sk 75 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'invisibility'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'slow'
+Sk 1 'weaken'
+Sk 42 'dagger'
+Sk 1 'enhanced damage'
+Sk 1 'fast healing'
+Sk 1 'staves'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'beguiling'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'offensive'
+Gr 'weather'
+Affc 'haste'   0   9   1   1   2    2097152
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear 16
+Cost 600
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4237
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 4243
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 3077
+Nest 0
+Cond 0
+Wear 10
+Cost 420
+End
+
+#O
+Vnum 16013
+Nest 0
+Cond 0
+Wear 7
+Cost 2380
+End
+
+#O
+Vnum 16002
+Nest 0
+Cond 0
+Wear 17
+Cost 2399
+Spell 3 'flamestrike'
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear -1
+Cost 1299
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#END

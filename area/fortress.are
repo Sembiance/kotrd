@@ -1,0 +1,2985 @@
+#AREADATA
+Name The Fortress of Goblins~
+Builders Brant~
+VNUMs 17000 17099
+Credits 40 -  60~
+Security 8
+Flags F
+LEVELs 40 60
+End
+
+
+
+#MOBILES
+#17000
+goblin guard~
+The goblin guard~
+{cThe goblin guard is here guarding something.{x
+~
+The goblin guard looks very strong, and very fierce.  He is about six 
+feet tall, and extremely muscular.
+~
+Human~
+AGT CGJ -500 0
+0
+50 1 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B ADQS CJ
+stand stand either 1250
+AHMV ABCDEFGHIJKLMV medium unknown
+#17001
+goblin visitor~
+The goblin visitor~
+{cThe goblin visitor is sitting here playing cards.{x
+~
+The goblin visitor is just sitting here playing cards, but looks up in 
+surprise as you enter the room.
+~
+Human~
+AGT CGJ 10 0
+0
+42 5 25d10+2250 1d4+0 3d12+14 punch
+-20 -20 -20 -20
+CEFIKNR B ADQS CJ
+stand stand either 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17002
+goblin child~
+The goblin child~
+{cThe goblin child is sitting here playing with his pretend sword.{x
+~
+The goblin child is small, but looks surprisingly strong for his age.  
+His wooden sword also looks very strong for a child to be playing with.
+~
+Human~
+ABGT CGJ 0 0
+0
+40 0 15d10+1850 1d1+0 4d8+13 punch
+-13 -13 -13 -13
+CEFIKN B ADQS CJ
+stand stand either 1500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17003
+bathing guard~
+The guard~
+{cThere is a guard here bathing himself.{x
+~
+The guard is bathing himself, and he doesn't look too pleased about 
+your intrusion.
+~
+Human~
+ABGT CGJ -500 0
+0
+50 10 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+ACDEFIKNR B ADQS CJ
+stand stand male 2500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17004
+ballroom dancer woman~
+The dancer~
+{cThere is a woman here dancing away.{x
+~
+She is wearing a beautiful hoop dress and seems to be and excellent 
+dancer.
+~
+Human~
+ABGT CGJ -100 0
+0
+42 5 25d10+2250 1d1+0 3d12+14 punch
+-14 -14 -14 -14
+CEFIKNR B ADQS CJ
+stand stand female 1500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17005
+ballroom dancer man~
+The dancer~
+{cThere is a man here dancing.{x
+~
+He is wearing a nice suit and looks pretty strong...strong enough to 
+beat you up!
+~
+Human~
+ABGT CGJ -100 0
+0
+42 5 25d10+2250 1d1+0 3d12+14 punch
+-14 -14 -14 -14
+CEFIKNR B ADQS CJ
+stand stand male 1500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17006
+goblin cook~
+The cook~
+{cThere is a mighty cook standing here preparing and elegant dish.{x
+~
+The cook is a short ugly goblin, but he seems to enjoy what he is doing here at 
+the fortress.
+~
+Human~
+ABGT CGJ -200 0
+0
+47 1 25d10+3500 1d1+0 6d6+17 punch
+-17 -17 -17 -17
+CEFIK B ADQS CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17007
+diner goblin~
+The goblin~
+{cThere is a goblin here eating dinner.{x
+~
+The goblin is sitting here eating something that looks faintly familiar, 
+but smells really good.  You suddenly realize that it is eating one of 
+your kind!
+~
+Human~
+ABGT CGJ -400 0
+0
+42 2 25d10+2250 1d1+0 3d12+14 punch
+-14 -14 -14 -14
+CFIKN B ADQS CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17008
+cook assistant~
+The assistant~
+{cThe cooks assistant is here assisting the cook.{x
+~
+The assistant looks almost as nasty as the cook himself but you can tell 
+that he hasn't been worked as badly as the cook.
+~
+Human~
+ABGT CGJ -200 0
+0
+45 7 25d10+3000 1d1+0 8d4+16 punch
+-15 -15 -15 -15
+CDEFIKNR B ADQS CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17009
+goblin servant~
+The goblin servant~
+{cA goblin servant is here waiting to be called upon.{x
+~
+The goblin looks extremely tired and overworked, but such is the brutality 
+of goblin royalty.
+~
+Human~
+AGT CGJ -200 0
+0
+47 5 25d10+3500 1d1+0 6d6+17 punch
+-17 -17 -17 -17
+CDEFIKN B ADQS CJ
+stand stand either 2500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17010
+servant cook goblin~
+The cook~
+{cThe servant's cook is here preparing a meal.{x
+~
+The cook looks very dirty, and just by looking you can tell that whatever 
+meal is being prepared will be disgusting.
+~
+Human~
+ABGT CGJ -200 0
+0
+45 1 25d10+3000 1d1+0 8d4+16 punch
+-15 -15 -15 -15
+CDEFIKN B ADQS CJ
+stand stand either 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17011
+bathing goblin servant~
+The goblin~
+{cA goblin servant is here bathing himself.{x
+~
+The goblin is bathing himself to the best of his ability, which you notice 
+is not a very well learned ability.
+~
+Human~
+ABGT CGJ -300 0
+0
+47 5 25d10+3500 1d1+0 6d6+17 punch
+-17 -17 -17 -17
+CDEFIKNR B ADQS CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17012
+orc trophy~
+The trophy~
+{cThere is a trophy of an orc's head here.{x
+~
+The orc's head has a strange look to it, almost as though it is still 
+alive...
+~
+orc~
+ABGT CGJ -1000 0
+0
+52 5 50d10+5500 1d1+0 6d7+20 bite
+-22 -22 -22 -22
+CDEFIKNR B AQS S
+stand stand either 3000
+AHMV ABCDEFGHIJKMV small unknown
+#17013
+bathing elite guard~
+The guard~
+{cThere is an elite goblin guard here bathing himself.{x
+~
+The guard is bathing himself and really does not appreciate you barging in 
+like you did.
+~
+Human~
+ABGT CGJ -500 0
+0
+55 10 50d10+7000 1d1+0 10d4+23 punch
+-25 -25 -25 -25
+ACDEFIKNR B ADQS CJ
+stand stand male 3200
+AHMV ABCDEFGHIJKLMV medium unknown
+#17014
+elite goblin guard~
+The elite guard~
+{cThere is an elite goblin guard standing here waiting to kill you.{x
+~
+The guard is huge!  He is pure muscle, and is wearing the most exquisite 
+armor you have ever seen.
+~
+Human~
+AGT CGJ -200 0
+0
+55 2 50d10+7000 1d1+0 10d4+23 smash
+-25 -25 -25 -25
+CDEFIKNR B ADQS CJ
+stand stand either 3500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17015
+watch goblin guard~
+The guard~
+{cThere is a watch guard standing here watching you intently.{x
+~
+The guard seems very alert, and is staring at you from underneath his 
+helmet.
+~
+Human~
+ABGT CGJ -200 0
+0
+50 1 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B ADQS CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17016
+goblin scientist~
+The scientist~
+{cThere is a goblin here performing many scientific experiments.{x
+~
+The goblin is wearing a white lab coat which makes it easily identified 
+as a scientist.
+~
+Human~
+ABGT CGJ -500 0
+0
+50 2 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKN B ADQS CJ
+stand stand either 2000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17017
+goblin healer~
+The healer~
+{cThere is a healer hear casting healing spells at all in the room.{x
+~
+The healer looks almighty, almost godly, as she casts her spells.
+~
+Human~
+ABGa CGJ -1000 0
+0
+60 500 100d50+100 100d100+100 100d100+100 punch
+-900 -900 -900 -900
+ACDEFIKNR ABCD ADNQS CJ
+stand stand female 9999
+AHMV ABCDEFGHIJKLMV medium unknown
+#17018
+goblin war planner~
+The war planner~
+{cThere is a goblin here planning wars.{x
+~
+The goblin is wearing a military outfit and has many medals of war upon 
+his uniform.
+~
+Human~
+ABGT CGJ -1000 0
+0
+56 10 50d10+7500 1d1+0 10d4+24 punch
+-26 -26 -26 -26
+CDEFIKNR B ADQS CJ
+stand stand either 2750
+AHMV ABCDEFGHIJKLMV medium unknown
+#17019
+bard~
+The bard~
+{cThere is a bard here playing music.{x
+~
+The bard is very small and frail looking, though he has an evil gleam in 
+his eye.
+~
+Human~
+ABGT CGJ -500 0
+0
+55 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B ADQS CJ
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17020
+jester court~
+The jester~
+{cThe court jester is here performing his many antics.{x
+~
+The Jester looks rather strange, almost insane.  He has penetrating blue 
+eyes, and strange, bright red colored hair.
+~
+Human~
+ABGT CGJ 0 0
+0
+55 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B ADQS CJ
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17021
+deformity~
+The deformity~
+{cThere is an awful deformity standing here grossing you out.{x
+~
+The deformity looks as though it used to be a human, but now it's body 
+has been ravaged by some evil thing.
+~
+Human~
+ABGT CGJ 0 0
+0
+56 3 50d10+7500 1d1+0 10d4+24 punch
+-26 -26 -26 -26
+CDEFIKN B AQS 0
+stand stand either 4025
+AHMV ABCDEFGHIJKLMV medium unknown
+#17022
+king~
+The King~
+{cThe King of the goblins is sitting here on his mighty throne.{x
+~
+The King of the goblins looks to be more powerful than any other goblin you 
+have ever encountered.  His muscles look like steel, his body like concrete, 
+and he has the stern look of a mighty king on his face.
+~
+Human~
+ABGT CGJ -1000 0
+0
+60 10 50d10+9500 1d1+0 8d6+28 punch
+-30 -30 -30 -30
+CDEFIKNR B ADQS CJ
+stand stand male 5500
+AHMV ABCDEFGHIJKLMV medium unknown
+#17023
+queen~
+The Queen~
+{cThe Queen of the goblins is sitting here on her beautiful throne.{x
+~
+The Queen of the goblins is almost beautiful!  If it wasn't for her 
+distinct goblin features, you might have thought she is beautiful.
+~
+Human~
+ABGT CGJ -1000 0
+0
+60 10 50d10+9500 1d1+0 8d6+28 punch
+-30 -30 -30 -30
+CDEFIKNR B ADQS CJ
+stand stand female 6000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17024
+tortured soul~
+The tortured soul~
+{cThere is tortured soul here waiting to get his revenge.{x
+~
+The tortured soul is almost transparent, and is extremely dark in 
+appearance.
+~
+Human~
+ABGT CGJ 500 0
+0
+57 15 50d10+8000 1d1+0 6d8+24 punch
+-27 -27 -27 -27
+CDEFIKNR B ADQS CJ
+stand stand either 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17025
+orc prisoner~
+The prisoner~
+{cThere is an orcish prisoner here waiting to die.{x
+~
+The prisoner has been here for years...it is a miracle he hasn't died of
+some horrible disease already.
+~
+orc~
+ABGT CGJ -1000 0
+0
+50 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B AQS S
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17026
+human prisoner~
+The prisoner~
+{cThere is a human prisoner here waiting to die.{x
+~
+The prisoner has been here for years...it is a miracle he hasn't died of
+some horrible disease already.
+~
+Human~
+ABGT CGJ -1000 0
+0
+50 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B AQS 0
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17027
+dwarf prisoner~
+The prisoner~
+{cThere is a dwarven prisoner here waiting to die.{x
+~
+The prisoner has been here for years...it is a miracle he hasn't died of
+some horrible disease already.
+~
+Dwarf~
+ABGT CFGJ -1000 0
+0
+50 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR BL ALOQS PR
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17028
+elf prisoner~
+The prisoner~
+{cThere is an elven prisoner here waiting to die.{x
+~
+The prisoner has been here for years...it is a miracle he hasn't died of
+some horrible disease already.
+~
+Elf~
+ABGT CFGJ -1000 0
+0
+50 5 50d10+4500 1d1+0 5d8+19 punch
+-20 -20 -20 -20
+CDEFIKNR B ABPQS Z
+stand stand male 3000
+AHMV ABCDEFGHIJKLMV medium unknown
+#17029
+executioner goblin~
+The executioner~
+{cThe executioner stands here, awaiting his next victim.{x
+~
+The executioner is the only human to live in this castle, also the only 
+human to offer his services to the goblin kingdom.  He is about six feet 
+tall, and looks to be pure muscle, perhaps weighing three hundred pounds.
+~
+Human~
+ABT DF -1000 0
+0
+58 5 50d10+8000 0d0+0 6d8+24 smash
+-27 -27 -27 -27
+CFK AB EMN 0
+stand stand male 300
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#17000
+goblin sword~
+a goblin sword~
+A goblin sword has been dropped here.~
+IRON weapon 0 AN
+sword 10 5 slash D
+47 100 7500 P
+A
+18 5
+A
+19 4
+#17001
+goblin chain mail chainmail~
+goblin chainmail~
+A suit of goblin chainmail is lying here.~
+SELECT_A_MATERIAL armor 0 AD
+CD CD CD CD C
+47 300 5000 P
+A
+2 1
+A
+17 -15
+#17002
+goblin leggings~
+a pair of goblin leggings~
+A pair of steel leggings was carelessly left here.~
+SELECT_A_MATERIAL armor 0 AF
+BD BD BD BD B
+47 50 1000 P
+A
+5 1
+#17003
+goblin gauntlets~
+a pair of goblin gauntlets~
+A pair of strong gauntlets has been thrown here.~
+SELECT_A_MATERIAL armor 0 AH
+BD BD BD BD A
+47 20 1300 P
+A
+13 40
+#17004
+goblin helmet helm~
+a goblin helm~
+A steel helmet is lying here.~
+SELECT_A_MATERIAL armor 0 AE
+ABD ABD ABD ABD A
+47 30 1300 P
+A
+3 1
+#17005
+goblin boots~
+a pair of goblin boots~
+A strong pair of boots has been left here.~
+SELECT_A_MATERIAL armor 0 AG
+BD BD BD BD B
+47 30 1300 P
+A
+2 2
+#17006
+goblin shield~
+a goblin shield~
+A large shield is lying here.~
+SELECT_A_MATERIAL armor 0 AJ
+BD BD BD BD B
+47 100 1300 P
+A
+17 -10
+#17007
+goblin sleeves~
+a pair of goblin sleeves~
+A pair of sleeves has been discarded here.~
+SELECT_A_MATERIAL armor 0 AI
+BD BD BD BD A
+47 5 1800 P
+A
+1 2
+#17008
+toy sword~
+a toy sword~
+A small toy sword has been thrown here.~
+IRON weapon B AN
+sword 6 6 slice H
+37 25 1000 P
+A
+4 2
+#17009
+towel~
+a towel~
+A large towel is lying here looking comfortable.~
+SELECT_A_MATERIAL armor 0 AL
+A AB AB AB A
+47 5 100 P
+A
+2 2
+#17010
+hoop dress~
+a hoop dress~
+A large, flowing hoop dress has been left here.~
+SELECT_A_MATERIAL armor 0 AL
+B B B B B
+39 10 150 P
+#17011
+suit~
+a suit~
+A dancing suit is lying here.~
+SELECT_A_MATERIAL armor 0 AK
+B B B B B
+39 10 150 P
+#17012
+cleaver meat~
+a meat cleaver~
+A large, nasty meat cleaver is lying here.~
+SELECT_A_MATERIAL weapon A AN
+axe 6 7 chop C
+44 100 1000 P
+A
+18 5
+A
+13 10
+#17013
+fork~
+a fork~
+A small fork is lying here.~
+SELECT_A_MATERIAL wand 0 AO
+45 10 10 'create food' 0
+39 2 1200 P
+#17014
+steak knife~
+a steak knife~
+A large steak knife is here gleaming in the light.~
+SELECT_A_MATERIAL weapon 0 AN
+dagger 6 6 stab H
+39 10 150 P
+#17015
+large knife~
+a large knife~
+A huge knife is lying here.~
+SELECT_A_MATERIAL weapon 0 AN
+dagger 10 7 stab 0
+42 5 200 P
+#17016
+elite sword~
+an elite sword~
+A beautiful sword is here.~
+IRON weapon B AN
+sword 8 16 slice C
+53 125 3000 P
+A
+18 15
+A
+19 10
+A
+1 -1
+#17017
+plate platemail elite~
+elite platemail~
+A beautiful suit of powerful armor has carelessly been left here.~
+SELECT_A_MATERIAL armor B AD
+ABE ABE ABE ABE AC
+53 300 2000 P
+A
+17 -23
+A
+4 2
+#17018
+elite greaves~
+a pair of elite greaves~
+A powerful pair of greaves has been left here.~
+SELECT_A_MATERIAL armor B AF
+BE BE BE BE B
+53 150 2000 P
+A
+17 -10
+A
+3 2
+#17019
+elite gauntlets~
+a pair of elite gauntlets~
+A powerful pair of gauntlets has been set here.~
+SELECT_A_MATERIAL armor B AH
+BE BE BE BE A
+53 50 2000 P
+A
+17 -4
+A
+1 3
+A
+13 10
+#17020
+elite helmet~
+an elite helmet~
+A wondrous helmet lies here.~
+SELECT_A_MATERIAL armor B AE
+BE BE BE BE A
+53 50 2000 P
+A
+12 25
+A
+3 3
+#17021
+elite combat boots~
+a pair of elite combat boots~
+A strong pair of boots lie here.~
+SELECT_A_MATERIAL armor B AG
+BE BE BE BE A
+53 50 2000 P
+A
+17 -15
+A
+14 20
+A
+18 3
+#17022
+elite tower shield~
+an elite tower shield~
+A huge, powerful shield lies here.~
+SELECT_A_MATERIAL armor B AJ
+BE AE BE BE AB
+53 150 2000 P
+A
+17 -18
+A
+14 25
+#17023
+elite sleeves~
+a pair of elite sleeves~
+A strong pair of sleeves lies here.~
+SELECT_A_MATERIAL armor B AI
+AE AE AE AE A
+53 10 2000 P
+A
+17 -8
+A
+5 3
+#17024
+labcoat~
+a labcoat~
+A small labcoat lies here.~
+SELECT_A_MATERIAL armor 0 AK
+ACD ACD ACD ACD 0
+47 5 2000 P
+A
+3 5
+#17025
+gurgling potion~
+a gurgling potion~
+A strange potion rests here.~
+SELECT_A_MATERIAL potion 0 AO
+50 'refresh' 'sanctuary' 'bless' ''
+47 5 700 P
+#17026
+scroll war~
+a scroll of war~
+A small scroll is here.~
+SELECT_A_MATERIAL scroll 0 AO
+60 'giant strength' '' '' ''
+53 1 1400 P
+#17027
+lute~
+a lute~
+A small musical instrument lies here.~
+SELECT_A_MATERIAL wand 0 AO
+55 25 20 'sleep' 0
+52 20 175 P
+A
+19 3
+#17028
+jester's cap~
+a jester's cap~
+A funny looking cap lies here.~
+SELECT_A_MATERIAL armor Y AE
+BD BD BD BD A
+51 10 1000 P
+A
+5 2
+#17029
+king's cape~
+the king's cape~
+A billowing cape is here fluttering in the wind.~
+SELECT_A_MATERIAL armor Y AC
+ABCD ABCD ABCD ABCD A
+57 130 1000 P
+A
+12 20
+A
+4 3
+#17030
+king's crown~
+the king's crown~
+A shining crown has been dropped here.~
+SELECT_A_MATERIAL armor Y AE
+BD BE BE BE A
+57 80 1000 P
+A
+4 3
+#17031
+king's staff kings king~
+the king's staff~
+A large staff is here.~
+SELECT_A_MATERIAL weapon Y AN
+polearm 6 20 thrust 0
+57 200 1000 P
+#17032
+queen's ring queens queen~
+the queen's ring~
+A shiny gold ring is on the ground here.~
+SELECT_A_MATERIAL armor Y ABO
+AC AC AC AC AC
+57 5 1150 P
+A
+4 2
+#17033
+large black key~
+a large black key~
+A large black key is on the ground here.~
+SELECT_A_MATERIAL key Y AO
+0 0 0 0 0
+52 5 0 P
+#17034
+iron shackles~
+A pair of iron shackles~
+A pair of iron shackles has been left here.~
+SELECT_A_MATERIAL armor Y AM
+AC AC AC AC AC
+47 30 250 P
+#17035
+executioners axe~
+an executioners axe~
+A huge axe is here.~
+SELECT_A_MATERIAL weapon Y AN
+axe 9 19 chop CF
+55 350 2050 P
+A
+19 7
+A
+18 7
+A
+1 2
+#17036
+throne~
+the king's throne~
+The king's mighty throne is here.~
+SELECT_A_MATERIAL furniture 0 0
+A BDEFGH BEHKN BCEH BCEH
+0 0 0 P
+E
+throne~
+The throne is seven feet high, and is made of a comfortable red velvet.
+~
+#17037
+throne~
+the queens throne~
+The queen's throne is here, next to the king's.~
+SELECT_A_MATERIAL furniture 0 0
+A BDEFGH BEHKN CFG CFG
+0 0 0 P
+#17038
+mask execution executioners~
+the executioners hood~
+The executioners hood lies here.~
+SELECT_A_MATERIAL armor AY AE
+ADE ADE ADE ADE AC
+55 5 0 P
+A
+19 3
+A
+5 2
+E
+hood~
+The executioners hood is what he wears so that the prisoner being 
+executed does not have to see his evil face.~
+#17039
+elite dagger~
+an elite dagger~
+A beautiful dagger is here.~
+MET_GENERIC weapon B AN
+dagger 10 9 stab CD
+53 30 3000 P
+A
+18 9
+A
+19 9
+#17040
+goblin dagger~
+a goblin dagger~
+A goblin dagger has been dropped here.~
+MET_GENERIC weapon 0 AN
+dagger 10 5 stab D
+47 28 7500 P
+A
+18 5
+A
+19 4
+#0
+
+
+
+#ROOMS
+#17000
+{MEntrance to the Goblin Fortress{x~
+When you enter through the large black doors, you see a long dark hallway 
+heading to the east with doors set into the northern and southern walls.  
+There are murals depicting grand battles on the grey stone walls, and there 
+is a long red carpet leading east down the hallway.
+~
+0 262153 0
+E
+mural murals picture pictures~
+The murals depict great battles between the goblins of the fortress and 
+their many foes, such as humans, orcs, dragons, and trolls. 
+~
+D0
+To the north is a guard room.~
+door doors~
+1 -1 17017
+D1
+To the east lies the hallway.~
+~
+0 -1 17001
+D2
+~
+~
+0 0 17018
+D3
+~
+~
+0 -1 17006
+C 0
+S
+#17001
+{MThe Hallway{x~
+The hallway here is decorated with murals much like the ones to the west, 
+and it is very dark.  You here some noises farther east.  The hallway 
+leads east and west.
+~
+0 262153 0
+E
+mural murals~
+The murals depict great battles between the goblins of the fortress and 
+their many foes, such as humans, orcs, dragons, and trolls. 
+~
+D1
+The hallway lies to the east.~
+~
+0 -1 17002
+D3
+The entrance to the goblin fortress lies to the west.
+~
+~
+0 -1 17000
+C 0
+S
+#17002
+{MThe Hallway{x~
+The murals stop here, and are replaced by morbid drawings on the walls.  
+The sounds that were heard to the east lead through some doors to the 
+south, and are louder here.  You can tell that the sounds are voices 
+talking to one another.
+~
+0 262153 0
+E
+pictures drawings drawing picture~
+The drawings are of people of all races being tortured and beaten 
+mercilessly.
+~
+D1
+The hallway lies to the east.~
+~
+0 -1 17003
+D2
+The visitor's lobby lies to the south.~
+door doors~
+1 -1 17019
+D3
+The hallway lies to the west.~
+~
+0 -1 17001
+C 0
+S
+#17003
+{MThe Hallway{x~
+The hallway here suddenly becomes very plain.  There are no drawings and 
+no murals, but there are more noises behind a door to the south. The 
+voices you hear are of children.  The hallway leads east and west.
+~
+0 262157 0
+D1
+The hallway lies to the east.~
+~
+0 -1 17004
+D2
+The sound of children can be heard to the south.~
+door ~
+1 -1 17020
+D3
+The hallway lies to the west.~
+~
+0 -1 17002
+C 0
+S
+#17004
+{MThe Hallway{x~
+The stone that the walls here are made of appear to be much older 
+and more unkept than the stone to the west, and you notice water 
+coming out from beneath a door to the south.  There is also a sound 
+of splashing behind the southern door.
+~
+0 262153 0
+E
+walls wall~
+The walls here appear to be made of very old stone.~
+D1
+The hallway lies to the east.~
+~
+0 -1 17005
+D2
+The sound of splashing can be heard to the south.~
+door~
+1 -1 17021
+D3
+The hallway lies to the west.~
+~
+0 -1 17003
+C 0
+S
+#17005
+{MDeep in the Hallway{x~
+As you look to the west from here you realize that you can no longer see 
+the light of day from the double doors that you entered through.  You do 
+not know whether this is because the doors to the entrance of the fortress 
+have been closed, of if it is because you are too deep into the fortress 
+to see the doors. There is a door to the south.
+~
+0 262153 0
+D1
+The hallway lies to the east.~
+~
+0 -1 17006
+D2
+The guards quarters lie to the south.~
+door~
+1 -1 17022
+D3
+The hallway lies to the west.~
+~
+0 -1 17004
+C 0
+S
+#17006
+{MDeep in the Hallway{x~
+You are in a deep part of the main hallway leading east and west, from 
+the door to the outside which you can't see, and towards who knows what 
+to the east.  There are torches on both walls of the hallway, shedding 
+a little light on what would be an otherwise pitch black hallway.  You 
+can see a small door to the north.
+~
+0 262153 0
+E
+torches torch~
+The torches here look to be about ready to fizzle off.~
+D0
+A storage room lies to the north.~
+door~
+1 -1 17026
+D1
+The hallway lies to the east.~
+~
+0 -1 17007
+D3
+The hallway lies to the west.~
+~
+0 -1 17005
+C 0
+S
+#17007
+{MDeep in the Hallway{x~
+You are in a deep part of the main hallway leading east and west.  It is 
+very dark here, even with the help of the torches on the walls.  You can 
+see a small door to the north through the faint glow of the torch light.
+~
+0 262153 0
+E
+torch torches~
+The torches here are very week, and look like they won't last much longer.~
+D0
+A storage room lies to the north.~
+door~
+1 -1 17024
+D1
+The hallway lies to the east.~
+~
+0 -1 17008
+D3
+The hallway lies to the west.
+~
+~
+0 -1 17006
+C 0
+S
+#17008
+{MIn the Main Hallway{x~
+The hallway here is brighter than to the west, as there are more torches 
+on the walls, and the stone that the walls are made of is also more kept 
+than to the west.  This makes you realize that there must be an important 
+room farther to the east.  There is a large door to the south.
+~
+0 262153 0
+E
+torch torches~
+The torches here are improved from those to the west.~
+D1
+The hallway lies to the east.~
+~
+0 -1 17009
+D2
+The guard quarters lie to the south.~
+door~
+1 -1 17025
+D3
+The hallway lies to the west.~
+~
+0 -1 17007
+C 0
+S
+#17009
+{MIn the Main Hallway{x~
+The hallway is starting to look much nicer as you head to the east, 
+but less spectacular to the west.  You can here some noise through a 
+large set of doors to the north.
+~
+0 262153 0
+D0
+The visitor's quarters lie to the north.~
+doors door~
+1 -1 17023
+D1
+A dark hallway lies to the east.~
+~
+0 -1 17010
+D3
+The hallway lies to the west.~
+~
+0 -1 17008
+C 0
+S
+#17010
+{MIn the Dark Hallway{x~
+The hallway is once again starting to get darker to the east, but is no 
+less spectacular.  The torches here are burning brightly, but there are 
+too few to make the hallway very bright.  There is a set of large doors 
+to the north.
+~
+0 262153 0
+D0
+The visitor's chambers lie to the north.~
+door doors~
+1 -1 17027
+D1
+The dark hallway lies to the east.~
+~
+0 -1 17011
+D3
+The hallway lies to the west.~
+~
+0 -1 17009
+C 0
+S
+#17011
+{MIn the Dark Hallway{x~
+The hallway here is very cean and kept, but still very dark.  You can hear 
+the sounds of talk and other noises behind a large door to the south.  
+There are only a few torches covering the walls here, but as you look to 
+the east you see that there are more torches, and they burn more brightly.
+~
+0 262153 0
+D1
+The dark hallway lies to the east.~
+~
+0 -1 17012
+D2
+The royal ballroom lies to the south.~
+door~
+1 -1 17028
+D3
+The dark hallway lies to the west.~
+~
+0 -1 17010
+C 0
+S
+#17012
+{MIn the Dark Hallway{x~
+The Hallway here is so clean, that you can see your reflection in the 
+stone!  There is a small door to the north, and the hallway continues 
+east and west, darkening to the west, and brightening to the east.
+~
+0 262153 0
+D0
+A storage room lies to the north.~
+door~
+1 -1 17029
+D1
+To the east is more of the hallway.~
+~
+0 -1 17013
+D3
+The dark hallway lies to the west.~
+~
+0 -1 17011
+C 0
+S
+#17013
+{MThe Hallway{x~
+The hallway here looks very cleen and kept, and is much brighter than 
+the hallway to the west.  The torches and the sconces in which they 
+rest seem to be made of better quality material; perhaps this is why 
+the lighting is better.
+~
+0 262153 0
+D0
+A storage room lies to the north.~
+door~
+1 -1 17030
+D1
+The hallway lies to the east.~
+~
+0 -1 17014
+D3
+To the west is the hallway which you are now in.~
+~
+0 -1 17012
+C 0
+S
+#17014
+{MThe Hallway{x~
+The hallway here is lined with large torches in silver sconces.  The 
+walls are made of a grey stone, which are well taken care of.  There 
+is a red carpet leading east, and the hallway lies to the west.
+~
+0 262157 0
+D1
+To the east lies the hallway.~
+~
+0 -1 17015
+D3
+To the west is the hallway which you are now in.~
+~
+0 -1 17013
+C 0
+S
+#17015
+{MThe Hallway{x~
+The hallway here is very neat and well kept, except for a small trail 
+of black spots in the red carpet leading to a door on the south wall.  
+The sound of sizzling can be heard through the wall, and the hallway 
+leads east and west.
+~
+0 262153 0
+E
+trail balck spot spots carpet red~
+The red carpet has a trail of black grease spots leading to a door 
+on the south wall.~
+D1
+The hallway continues to the east.~
+~
+0 -1 17031
+D2
+You can smell food being cooked in the royal kitchen to the south.~
+door doors~
+1 -1 17016
+D3
+To the west is the hallway which you are now in.~
+~
+0 -1 17014
+C 0
+S
+#17016
+{MThe Royal Kitchen{x~
+This is where to food for the entire fortress is made.  There are 
+cupboards which line the walls, and there are grease spots all over 
+the floor, and there is an oven and a stove on the north wall.  There 
+is a door on the north wall leading back to the hallway.
+~
+0 262152 0
+D0
+North lies the hallway.~
+door~
+1 -1 17015
+C 0
+S
+#17017
+{MThe Guardroom{x~
+The guardroom is very sparsely furnished, having only one table with 
+a couple of chairs.  The walls and floor are bare and made of stone, 
+and the room is quite cold.  There is a window looking out to the north, 
+and a door leading back into the hallway on the south wall.
+~
+0 262152 0
+E
+window ~
+Through the window you can see plains of grass and weeds.~
+E
+table chair chairs~
+The table and chairs are made of wood and do not look sturdy.~
+D2
+To the south lies the hallway.~
+door doors~
+1 -1 17000
+C 0
+S
+#17018
+{MThe Guardroom{x~
+The guardroom is very sparsely furnished, having only one table with 
+a couple of chairs.  The walls and floor are bare and made of stone, 
+and the room is quite cold.  There is a window looking out to the south, 
+and a door leading back into the hallway on the north wall.
+~
+0 262152 0
+E
+window~
+Through the window you can see plains of grass and weeds.~
+E
+table chair chairs~
+The table and chairs are made of wood and do not look sturdy.~
+D0
+~
+~
+0 0 17000
+C 0
+S
+#17019
+{MThe Visitor's Lobby{x~
+This is where all of the visitors to the fortress go to relax, chat, 
+or play games.  There is a round table surrounded by chairs in the 
+center of the room, paintings line the walls, and the floor is covered 
+by a plush red carpet.  A door leads north back into the hallway.
+~
+0 262152 0
+E
+painting paintings~
+The paintings depict great scenes of beauty.~
+E
+carpet~
+The carpet is a bright color red, and is quite comfortable beneath your feet.~
+E
+table chair chairs~
+The table is round and polished, and is surrounded by finely crafted chairs.~
+D0
+To the north lies the hallway.~
+door doors~
+1 -1 17002
+C 0
+S
+#17020
+{MThe Daycare{x~
+You are in the daycare, where all of the visitors children play.  
+There are toys everywhere, and the sounds of children playing can 
+be heard everywhere.  The walls have markings all over them from when 
+the children have drawn on them.  To the north is the hallway.
+~
+0 262152 0
+D0
+To the north lies the hallway.~
+door~
+1 -1 17003
+C 0
+S
+#17021
+{MThe Guard Bath{x~
+You have stumbled upon the guards bath!  The walls and floor are 
+covered in mildew from the water which constantly covers them, 
+which makes it difficult to walk.  There is a large tub in the center 
+of the room.  There is a door leading north.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17004
+C 0
+S
+#17022
+{MThe Guards Quarters{x~
+This is where the guards come to sleep or just rest when they are 
+off duty.  There are beds against the southern wall, and there are 
+nightstands next to the beds.  There is a door to the north heading 
+back to the hallway.
+~
+0 262152 0
+E
+night stand stands nightstand nightstands~
+The nightstands are made of polished wood, and each has a lamp set upon it.~
+E
+bed beds~
+The beds look very comfortable, and are covered with dark red 
+sheets and pillows.~
+D0
+The hallway lies to the north.~
+door doors~
+1 -1 17005
+C 0
+S
+#17023
+{MThe Visitor's Quarters{x~
+This is where the visitors of the castle go to sleep.  Beds line the 
+northern wall, and there are paintings hainging along the western wall.  
+The hallway lies to the south, and the visitor's chambers continue to 
+the east.
+~
+0 262152 0
+E
+painting paintings ~
+The paintings depict beautiful scenes of nature.~
+E
+bed beds~
+The beds look very comfortable and are covered by soft golden sheets.~
+D1
+The visitor's quarters continue to the east.~
+~
+0 -1 17027
+D2
+The hallway lies to the south.~
+door~
+1 -1 17009
+C 0
+S
+#17024
+{MA Storage Room{x~
+There are large boxes, crates, and sacks everywhere.  The boxes have 
+no markings, like the crates and sacks.  There are no windows, and the 
+walls are bare.  There is a door to the south leading back to the 
+hallway.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17007
+C 0
+S
+#17025
+{MThe Guards Quarters{x~
+This is where the guards come to sleep or just rest when they are off 
+duty.  There are beds against the southern wall, and there are nightstands 
+next to the beds.  There is a door to the north heading back to the 
+hallway.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17008
+C 0
+S
+#17026
+{MA Storage Room{x~
+There are large boxes, crates, and sacks everywhere.  The boxes have 
+no markings, like the crates and sacks.  There are no windows, and the 
+walls are bare.  There is a door to the south leading back to the hallway.
+~
+0 8 1
+D2
+The hallway lies to the south.~
+door~
+1 -1 17006
+C 0
+S
+#17027
+{MThe Visitor's Quarters{x~
+This is where the visitors of the castle go to sleep.  Beds line the 
+northern wall, and there are paintings hainging along the eastern wall.  
+The hallway lies to the south, and the visitor's chambers continue to 
+the west.
+~
+0 262152 0
+E
+paintinG paintings~
+The paintings depict beatiful scenes of nature.~
+E
+bed beds~
+The beds look very comfortable and are covered by golden sheets.~
+D2
+The hallway lies to the south.~
+door~
+1 -1 17010
+D3
+The visitor's quarters continue to the west.~
+~
+0 -1 17023
+C 0
+S
+#17028
+{MThe Royal Ballroom{x~
+This is the royal ballroom, where all of the royal dances and festivities 
+are held.  The floor is made of hard gray stone, but is covered with a soft, 
+plush carpet.  Murals adorn the walls, and crystal chandeliers hang from 
+the high ceiling.  There is a door leading north back into the hallway.
+~
+0 262152 0
+E
+mural murals~
+The murals upon the walls show the past kings and queens of the fortress.~
+E
+chandelier chandeliers crystal crystals~
+The chandeliers are made of a clear crystal, which is surrounded by gold.~
+D0
+The hallway lies to the north.~
+door doors~
+1 -1 17011
+C 0
+S
+#17029
+{MA Storage Room{x~
+There are large boxes, crates, and sacks everywhere.  The boxes have 
+no markings, like the crates and sacks.  There are no windows, and the 
+walls are bare.  There is a door to the south leading back to the hallway.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17012
+C 0
+S
+#17030
+{MA Storage Room{x~
+There are large boxes, crates, and sacks everywhere.  The boxes have 
+no markings, like the crates and sacks.  There are no windows, and the 
+walls are bare.  There is a door to the south leading back to the hallway.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17013
+C 0
+S
+#17031
+{MThe Hallway{x~
+At this point in the hallway, many noises can be heard to the south.  
+The noises consist of metal clanging, people shouting, and many other 
+noises. A door leads south, and the hallway continues east and west.
+~
+0 262153 0
+D1
+~
+~
+0 -1 17034
+D2
+The royal dining hall lies to the south.~
+door doors~
+1 -1 17035
+D3
+The hallway continues to the west.~
+~
+0 -1 17015
+C 0
+S
+#17033
+{MThe Royal Dining Hall{x~
+The citizens of the castle meet in this royal dining room to dine 
+and have their conversations over a warm meal.  There is a very long 
+table in the center of the room leading to the west, the floor is 
+covered by a lush red carpet, and the walls are adorned by murals.  
+There is a door leading north, and the dining hall continues to the west.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door doors~
+1 -1 17034
+D3
+The royal dining hall continues to the west.~
+~
+0 -1 17035
+C 0
+S
+#17034
+{MThe Hallway{x~
+The hallway here is well kept.  There are doors leading to the south 
+and north, and the hallway continues east and west.
+~
+0 262157 0
+D0
+The throne room lies to the north.~
+door doors~
+1 -1 17036
+D1
+~
+~
+0 -1 17037
+D2
+The royal dining room lies to the south, beyond a door.~
+door doors~
+1 -1 17033
+D3
+The hallway continues to the west.~
+~
+0 -1 17031
+C 0
+S
+#17035
+{MThe Royal Dining Hall{x~
+This is where the citizens of the castle meet eat their meals.  There 
+is an extremely long table here, extending to the east, the floor 
+is covered in a lush red carpet, and the walls are adorned with murals.  
+There is a door leading north, and the dining room continues to the east.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door doors~
+1 -1 17031
+D1
+The royal dining hall continues to the east.~
+~
+0 -1 17033
+C 0
+S
+#17036
+{MThe Throne Room{x~
+You have entered the throne room, where the King and Queen come to 
+perform their royal duty.  There is a red carpet leading to the thrones, 
+the walls are decorated with rugs, and there are torches lining the walls.  
+There is a door to the south leading back to the hallway.
+~
+0 262152 0
+E
+murals mural~
+The murals bear the coat of arms of the goblins.~
+E
+red carpet~
+The red carpet is long and leads right to the thrones.~
+D2
+To the south lies the hallway.~
+door doors~
+1 -1 17034
+C 0
+S
+#17037
+{MThe Hallway{x~
+The hallway here is well kept, but sparsly furnished.  The walls 
+are made of gray stone, as is the floor.  Upon the walls are torches, 
+illuminating the way.  The hallway leads east and west.
+~
+0 262153 0
+D1
+~
+~
+0 -1 17038
+D3
+The hallway continues to the west.~
+~
+0 -1 17034
+C 0
+S
+#17038
+{MThe End of the Hallway{x~
+This is the eastern end of the hallway.  There are torches lining 
+the wall, casting light upon the hallway, and creating strange shadows.  
+There is a door leading to the east, and the hallway continues to the 
+west.
+~
+0 262153 0
+D1
+The stairwell lies to the east.~
+door doors~
+1 -1 17039
+D3
+The hallway continues to the west.~
+~
+0 -1 17037
+C 0
+S
+#17039
+{MThe Stairwell{x~
+You are standing in the stairwell of the castle, leading down into 
+the dungeon, and up to the second level of the fortress.  The hallway 
+lies to the west, the stairwell leads up, and there is a trapdoor at 
+your feet.
+~
+0 262153 1
+D3
+The hallway lies to the west.~
+door doors~
+1 -1 17038
+D4
+~
+~
+0 -1 17055
+D5
+The dungeon lies below you.~
+door trapdoor trap~
+1 -1 17040
+C 0
+S
+#17040
+{MThe Dungeon{x~
+You have entered the dungeon, where the fortress keeps its prisoners.  
+It is dank and smelly in here, with moss growing on the damp stone walls. 
+Every once in a while a small animal can be seen scurring across the 
+floor, seeking shelter.  There are no windows, and it smells horrible.  
+There is a trapdoor leading up, and there are doors all around you.
+~
+0 262152 0
+D0
+The execution chamber lies to the north.~
+door~
+1 -1 17041
+D1
+~
+~
+1 -1 17049
+D2
+The torture chamber lies to the south.~
+door~
+1 -1 17042
+D3
+The west prison wing lies to the west.~
+door~
+1 -1 17043
+D4
+The stairwell lies above you.~
+door trapdoor trap~
+1 -1 17039
+C 0
+S
+#17041
+{MThe Execution Chamber{x~
+This is where all of the prisoners are taken to be executed.  There 
+is a small table in the center of the room, completely covered with 
+blood.  The walls are damp and covered with moss, and there are various 
+weapons hanging from the walls.  There is a door leading south.
+~
+0 262152 0
+D2
+The dungeon lies to the south.~
+door~
+1 -1 17040
+C 0
+S
+#17042
+{MThe Torture Chamber{x~
+This is the torture chamber, a prisoner's most feared room.  There are 
+various torture devices here, including the iron maiden, the stretcher, 
+and the rack.  There is blood covering the walls, and there is the horrible 
+stench of death.
+~
+0 262152 0
+D0
+The dungeon lies to the north.~
+door~
+1 -1 17040
+C 0
+S
+#17043
+{MThe West Prison Wing{x~
+You are standing at the beginning of the west prison wing, where the 
+prison cells are.  It is extremely filthy, the walls are covered with 
+moss and are damp, and rats can be seen scurrying across the floor.  
+There are doors to the north, south, and east.
+~
+0 262152 0
+D0
+A prison cell lies to the north.~
+door~
+1 -1 17044
+D1
+The dungeon lies to the east.~
+door doors~
+1 -1 17040
+D2
+A prison cell lies to the south.~
+door~
+1 -1 17045
+D3
+The west prison wing continues to the west.~
+~
+0 -1 17046
+C 0
+S
+#17044
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading south.
+~
+0 262152 0
+D2
+The west prison wing lies to the south.~
+door~
+1 -1 17043
+C 0
+S
+#17045
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading north.
+~
+0 262152 0
+D0
+The west prison wing lies to the north.~
+door~
+1 -1 17043
+C 0
+S
+#17046
+{MThe End of the West Prison Wing{x~
+You are at the end of the west prison wing, where some of the prisoners 
+are held.  The walls and floor are covered with moss, and they are very 
+damp.  You can hear and see rats here, scrurrying acroos the floor.
+~
+0 262152 0
+D0
+A prison cell lies to the north.~
+door doors~
+1 -1 17048
+D1
+The west prison wing continues to the east.~
+~
+0 -1 17043
+D2
+A prison cell lies to the south.~
+door doors~
+1 -1 17047
+C 0
+S
+#17047
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading south.
+~
+0 262152 0
+D0
+The west prison wing lies to the north.~
+door doors~
+1 -1 17046
+C 0
+S
+#17048
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading south.
+~
+0 262152 0
+D2
+The west prison wing lies to the south.~
+door doors~
+1 -1 17046
+C 0
+S
+#17049
+{MThe East Prison Wing{x~
+You are standing at the beginning of the east prison wing, where the 
+prison cells are.  It is extremely filthy, the walls are covered with 
+moss and are damp, and rats can be seen scurrying across the floor.  
+There are doors to the north, south, and west.
+~
+0 262152 0
+D0
+A prison cell lies to the north.~
+door~
+1 -1 17050
+D1
+~
+~
+0 -1 17052
+D2
+A prison cell lies to the south.~
+door doors~
+1 -1 17051
+D3
+The dungeon lies to the west.~
+door~
+1 -1 17040
+C 0
+S
+#17050
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading south.
+~
+0 262152 0
+D2
+The east prison wing lies to the south.~
+door~
+1 -1 17049
+C 0
+S
+#17051
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading north.
+~
+0 262152 0
+D0
+The east prison wing lies to the north.~
+door~
+1 -1 17049
+C 0
+S
+#17052
+{MThe End of the Eastern Prison Wing{x~
+You are at the end of the east prison wing, where some of the prisoners 
+are held.  The walls and floor are covered with moss, and they are very 
+damp.  You can hear and see rats here, scrurrying acroos the floor.  There 
+are doors to the north and south, and the prison wing continues to the west.
+~
+0 262152 0
+D0
+A prison cell lies to the north.~
+door~
+1 -1 17053
+D2
+A prison cell lies to the south.~
+door~
+1 -1 17054
+D3
+The dungeon lies to the west.~
+door~
+0 -1 17049
+C 0
+S
+#17053
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading south.
+~
+0 262152 0
+D2
+The east prison wing lies to the south.~
+door~
+1 -1 17052
+C 0
+S
+#17054
+{MA Prison Cell{x~
+You are in one of the prinson cells of the fortress.  The walls are 
+very damp and covered with moss, and there are feces and other 
+substances covering the floor.  There is a door leading north.
+~
+0 262152 0
+D0
+The eastern prison wing lies to the north.~
+door~
+1 -1 17052
+C 0
+S
+#17055
+{MThe Stairwell{x~
+You are at the top of the stairwell, on the second floor.  It is very 
+dark, but for one lone torch on the eastern wall lighting the stairwell. 
+There is a door to the west, and the stairwell leads south.
+~
+0 262153 0
+D3
+The hallway lies to the west.~
+door~
+1 -1 17056
+D5
+The stairwell continues down.~
+~
+0 -1 17039
+C 0
+S
+#17056
+{MThe Beginning of the Hallway{x~
+You are in the beginning of the upstairs hallway. The floor of the 
+hallway is covered by a red carpet, which continues to the west.  
+There are paintings on both the northern and southern walls.  The 
+hallway continues west, and there is a door to the east.
+~
+0 262153 0
+E
+painting paintings ~
+The paintings are of people who may have been important to the making 
+of this fortress.~
+E
+red carpet~
+The red carpet covers the floor and leads to the west.~
+D0
+The servant's quarters lie to the north.~
+door~
+1 -1 17057
+D1
+The stairwell lies to the east.~
+door~
+1 -1 17055
+D3
+~
+~
+0 -1 17058
+C 0
+S
+#17057
+{MThe Servant's Quarters{x~
+This is where the servants go to sleep and chat while they are off duty.  
+There are beds lining the northern wall, each with a rickity nightstand 
+next to it.  The floor and walls are bare, and it is very dirty in here.  
+There is a door to the south, and the servant's quarters continue to the 
+west.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17056
+D3
+The servant's quarters continue to the west.~
+~
+1 -1 17059
+C 0
+S
+#17058
+{MThe Hallway{x~
+There is a red carpet here, leading east and west down the hallway.  
+The walls are lined with paintings of important, but next to this 
+the hallway is quite plain.  The hallway leads east and west, and 
+there is a door to the north.
+~
+0 262153 0
+D0
+The servant's quarters lie to the north.~
+door~
+1 -1 17059
+D1
+The beginning of the hallway lies to the east.~
+~
+0 -1 17056
+D3
+~
+~
+0 -1 17060
+C 0
+S
+#17059
+{MThe Servant's Quarters{x~
+This is where the servants go to sleep and chat while they are off 
+duty.  There are beds lining the northern wall, each with a rickity 
+nightstand next to it.  The floor and walls are bare, and it is very 
+dirty in here.  There is a door to the south, and the servant's 
+quarters continue to the east.
+~
+0 262152 0
+D1
+The servant's quarters continue to the east.~
+~
+0 -1 17057
+D2
+The hallway lies to the south.~
+door~
+1 -1 17058
+C 0
+S
+#17060
+{MThe Hallway{x~
+The walls here are bare, except for the torches which line them, 
+illuminating the hallway.  There is a red carpet leading east and 
+west covering the floor of the hallway.  The hallway continues east 
+and west, and there is a door to the north.
+~
+0 262153 0
+D0
+The servant's kitchen and dining areas are to the north.~
+door~
+1 -1 17061
+D1
+The hallway continues to the east.~
+~
+0 -1 17058
+D3
+The hallway continues to the west.~
+~
+0 -1 17063
+C 0
+S
+#17061
+{MThe Servant's Kitchen{x~
+This is where the food for the lowly servants is prepared.  There 
+is a fireplace to the north, with a couldron hanging above the fire, 
+and the floor is covered with trash.  There is a door leading south, 
+and the servant's dining area is to the west.
+~
+0 262152 0
+E
+trash~
+The trash is composed of pieces of food, paper, and other unrecognizable 
+articles.~
+E
+fireplace~
+The fireplace is where all of the cooking takes place.~
+E
+couldron~
+The couldron is a large black pot, and it has some kind of fluid 
+boiling in it.~
+D2
+The hallway lies to the south.~
+door~
+1 -1 17060
+D3
+~
+~
+0 -1 17062
+C 0
+S
+#17062
+{MThe Servant's Dining Area{x~
+This is where the servant's come to eat their disgusting meals.  
+There is a table in the center of the room, which is covered by 
+what could be a tablecloth, and chairs surround that.  The servant's 
+kitchen is to the east.
+~
+0 262152 0
+D1
+The hallway continues to the east.~
+~
+0 -1 17061
+C 0
+S
+#17063
+{MThe Hallway{x~
+The hallway here is bare, except for the torches on the walls, and 
+the red carpet covering on the floor.  The hallway continues to the 
+east and west.
+~
+0 262153 0
+D1
+The hallway continues to the east.~
+~
+0 -1 17060
+D3
+The hallway continues to the west.~
+~
+0 -1 17064
+C 0
+S
+#17064
+{MThe Hallway{x~
+The floor here is covered by a red carpet which leads east and west 
+along the hallway, and the walls are lined with torches.  The sound 
+of splashing can be heard to the north.  The hallway continues to the 
+east and west, and there is a door to the north.
+~
+0 262157 0
+D0
+The servant's bath lies to the north.~
+door~
+1 -1 17065
+D1
+The hallway continues to the east.~
+~
+0 -1 17063
+D3
+The hallway continues to the west.~
+~
+0 -1 17066
+C 0
+S
+#17065
+{MThe Servant's Bath{x~
+This is where the servants come when they need to bathe themselves, 
+which is quite frequently.  There is a bath tub in the center of the 
+room.  The walls and floor here are covered with moss and are quite 
+damp.  There is a door to the south.
+~
+0 262152 0
+E
+bath tub~
+The bath tub is filled with dirty water.~
+D2
+The hallway lies to the south.~
+door~
+1 -1 17064
+C 0
+S
+#17066
+{MThe Hallway{x~
+The hallway here is bare, except for the torches lining the wall, 
+and the red carpet on the floor leading east and west.  The hallway 
+leads east and west.
+~
+0 262153 0
+D1
+The hallway continues to the east.~
+~
+0 -1 17064
+D3
+The hallway continues to the west.~
+~
+0 -1 17067
+C 0
+S
+#17067
+{MThe Hallway{x~
+The floor here is covered by a red carpet which leads east and west, 
+and which also seems to be heavily used towards the door to the north.  
+Torches line the walls here.  The hallway leads east and west, and 
+there are doors to the north and south.
+~
+0 262153 0
+D0
+The trophy room lies to the north.~
+door~
+1 -1 17068
+D1
+The hallway continues to the east.~
+~
+0 -1 17066
+D2
+The elite bath lies to the south.~
+door~
+1 -1 17070
+D3
+~
+~
+0 -1 17071
+C 0
+S
+#17068
+{MThe Trophy Room{x~
+This is where all of the trophies are held for the castle.  In this 
+western section, the smaller trophies are held, mostly personal 
+trophies for knights.  The trophy room continues to the east, and 
+there is a door to the south.
+~
+0 262152 0
+D1
+The trophy room continues to the east.~
+~
+0 -1 17069
+D2
+The hallway lies to the south.~
+door~
+1 -1 17067
+C 0
+S
+#17069
+{MThe Trophy Room{x~
+This is where the larger trophies are held for the castle.  These 
+include some personal hunting trophies, as well as trophies from 
+competetions which the knights of this castle have competed in.  
+The trophy room continues to the west.
+~
+0 262152 0
+D3
+The trophy room continues to the west.~
+~
+0 -1 17068
+C 0
+S
+#17070
+{MThe Elite Bath{x~
+This is where the elite guards of the castle go to bathe themselves.  
+There is a large bath in the center of the room, and the walls and 
+floor are nice and dry, very well kept.  There is a door to the north.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17067
+C 0
+S
+#17071
+{MThe Hallway{x~
+The floor here is covered by a red rug which leads east and west, and 
+the walls are lined with torches.  The hallway leads east and west, 
+and there are doors to the north and south.
+~
+0 262153 0
+D0
+The Queen's bath lies to the north.~
+door~
+1 -1 17072
+D1
+The hallway continues to the east.~
+~
+0 -1 17067
+D2
+The Elite Guard's Quarters lie to the south.~
+door~
+1 -1 17073
+D3
+~
+~
+0 -1 17074
+C 0
+S
+#17072
+{MThe Queen's Bath{x~
+This is where the royal Queen herself is bathed by her servants.  
+There is an exquisite bath in the center of the room, and the room 
+is very well kept.  There is a door to the south.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17071
+C 0
+S
+#17073
+{MThe Elite Guard's Quarters{x~
+All of the elite guards come here when they are off duty to sleep 
+or just talk.  The floor is covered with a plush blue carpet, with 
+the emblem of the elite guard embroidered into it.  Beds line the 
+southern wall, and there is a door to the north.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17071
+C 0
+S
+#17074
+{MThe Hallway{x~
+The floor here is covered by a red carpet which leads east and west.  
+The walls are lined with torches.  The hallway leads east and west, 
+and there is a door to the north.
+~
+0 262153 0
+D0
+The Queen's Bedroom lies to the north.~
+door~
+1 -1 17075
+D1
+The hallway continues to the east.~
+~
+0 -1 17071
+D3
+~
+~
+0 -1 17077
+C 0
+S
+#17075
+{MThe Queen's Room{x~
+This is where the Queen of the fortress sleeps and spends her 
+free time.  The floor is covered by a plush red and blue carpet,
+ and the walls are decorated with beautiful paintings.  On the 
+western wall there is a huge bed, with a large nightstand next 
+to it.  There are doors to the north and south.
+~
+0 262152 0
+E
+painting paintings ~
+The paintings depict scenes of nature.~
+E
+bed~
+The bed is huge, it could fit 20 people in it!~
+D0
+The Queen's closet lies behind the door.~
+door~
+1 17033 17076
+D2
+The hallway lies to the south.~
+door~
+1 -1 17074
+C 0
+S
+#17076
+{MThe Queen's Closet{x~
+This is the Queen's closet, where she keeps all of her personal 
+belongings.  There are small boxes littering the floor, and there 
+are clothes strewn about.  There is a door to the south.
+~
+0 262152 0
+D2
+The Queen's Bedroom lies to the south.~
+door~
+1 17033 17075
+C 0
+S
+#17077
+{MThe Hallway{x~
+The hallway here is well kept.  There is a red carpet covering the 
+floor, leading east and west, and the walls are lined with torches, 
+shining brightly.  There are doors to the north and south.
+~
+0 262153 0
+D0
+The King's bedroom lies to the north.~
+door~
+1 -1 17078
+D1
+The hallway continues to the east.~
+~
+0 -1 17074
+D2
+The elite guard's quarters lie to the south.~
+door~
+1 -1 17079
+D3
+~
+~
+0 -1 17080
+C 0
+S
+#17078
+{MThe King's Bedroom{x~
+This is where the King comes to do his personal business.  There is 
+a giant bed by the northern wall, and the walls are decorated with 
+elegant paintings and murals.  There is a door to the south.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17077
+C 0
+S
+#17079
+{MThe Elite Guard's Quarters{x~
+All of the elite guards come here when they are off duty to sleep or 
+just talk.  The floor is covered with a plush blue carpet, with the 
+emblem of the elite guard embroidered into it.  Beds line the southern 
+wall, and there is a door to the north.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17077
+C 0
+S
+#17080
+{MThe Hallway{x~
+The floor of the hallway here is covered by a red carpet which 
+continues to the east and west, and the walls are lined with torches.  
+You can hear sombody talking to himself to the north, behind a closed 
+door.  The hallway leads east and west, and there is a door to the 
+north.
+~
+0 262153 0
+D0
+The war planning room lies to the north.~
+door~
+1 -1 17081
+D1
+The hallway continues to the east.~
+~
+0 -1 17077
+D3
+The hallway continues to the west.~
+~
+0 -1 17082
+C 0
+S
+#17081
+{MThe War Planning Room{x~
+This is where the goblin kingdom comes up with their cruel plans 
+for taking over other kingdoms. There is a large table in the center 
+of the room with plans laid out over it, and there are weapons 
+hanging on the walls.  There is a door to the south.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17080
+C 0
+S
+#17082
+{MThe Hallway{x~
+The floor of the hallway here is covered by a red carpet which 
+continues to the east and west, and the walls are lined with torches.  
+You can hear some music to the north, behind a closed door.  The 
+hallway leads east and west, and there is a door to the north.
+~
+0 262153 0
+D0
+The entertainment room lies to the north.~
+door~
+1 -1 17083
+D1
+The hallway continues to the east.~
+~
+0 -1 17080
+D2
+The laboritory lies to the south.~
+door~
+1 -1 17087
+D3
+The hallway lies to the west.~
+~
+0 -1 17084
+C 0
+S
+#17083
+{MThe Entertainment Room{x~
+This is where the denizens of the castle come to be entertained.  
+The floor is covered with a bright multicolord rug, and the walls 
+are bare.  There is a door to the south.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17082
+C 0
+S
+#17084
+{MThe End of the Hallway{x~
+You have reached the end of the upstairs hallway. The red carpet 
+ends at the western door.  The walls here are lined with torches 
+in silver sconces.  There are doors to the south, north, and west.
+~
+0 262153 0
+D0
+The room of oddities lies to the north.~
+door~
+1 -1 17085
+D1
+The hallway continues to the east.~
+~
+0 -1 17082
+D3
+The healer lies to the west.~
+door~
+1 -1 17086
+C 0
+S
+#17085
+{MThe Room of Oddities{x~
+This is where the deformed persons of the castle have been taken to.  
+This is another cruel charactersitic of the Goblin kingdom.  There 
+is a table in the center of the room.  There is a door leading south.
+~
+0 262152 0
+D2
+The hallway lies to the south.~
+door~
+1 -1 17084
+C 0
+S
+#17086
+{MThe Healing Room{x~
+This is where the citizens of the castle go to recieve healing, 
+perhaps after a cut, or after a long battle.  The walls and floor 
+seem to be magical, and are a pure white.  There is a door leading 
+east.
+~
+0 262152 0
+D1
+The hallway continues to the east.~
+door~
+1 -1 17084
+C 0
+S
+#17087
+{MThe Laboritory{x~
+This is where the scientists of the Goblin kingdom do all 
+of their experiments.  There are lab tables around the room, 
+and many viles and beakers are lying about.  There is a door 
+leading north.
+~
+0 262152 0
+D0
+The hallway lies to the north.~
+door~
+1 -1 17082
+C 0
+S
+#17088
+{DA dark path{x~
+Dark trees surround both sides of this eerie path and from within the
+trees, many strange animal like sounds can be heard, some of which seem
+very close. Towards the north, the path continues to darken until it almost
+appears to become nothing but pure blackness. Looking south, some sunlight
+can just be seen, attempting to penetrate this darkness but failing miserably.
+~
+0 1 3
+D0
+~
+~
+0 0 17089
+D3
+~
+~
+0 0 3556
+C 0
+S
+#17089
+{DA dark path{x~
+The forest around you is alive with the sounds of animals and other, much more
+mysterious, things. Southwardly, the path heads towards some very faint sunlight
+that is trying to force itself upon the darkness, and failing miserably. Looking
+north the path seems even less appealing as it continues to get darker and
+darker the futher along the path you go. 
+~
+0 1 3
+D0
+~
+~
+0 0 17090
+D2
+~
+~
+0 0 17088
+C 0
+S
+#17090
+{DA dark path{x~
+Towards the north, the path appears to exit in to a large clearing where there
+looks to be a large stone structure, possibly a castle of somesorts. Looking to
+the south, the blackness of the forest seems to swallow the path as if it were
+a hungry predator.  Needless to say, heading to the south does not seem to be
+very appealling.
+~
+0 1 3
+D0
+~
+~
+0 0 17000
+D2
+~
+~
+0 0 17089
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 17017 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 17000 0 1
+D 0 17002 2 1
+D 0 17003 2 1
+D 0 17004 2 1
+D 0 17005 2 1
+D 0 17006 0 1
+D 0 17007 0 1
+D 0 17009 0 1
+D 0 17010 0 1
+D 0 17012 0 1
+D 0 17013 0 1
+D 0 17015 2 1
+D 0 17016 0 1
+D 0 17017 2 1
+D 0 17019 0 1
+D 0 17020 0 1
+D 0 17021 0 1
+D 0 17022 0 1
+D 0 17023 2 1
+D 0 17024 2 1
+D 0 17025 0 1
+D 0 17026 2 1
+D 0 17027 2 1
+D 0 17028 0 1
+D 0 17029 2 1
+D 0 17030 2 1
+D 0 17031 2 1
+D 0 17034 0 1
+D 0 17034 2 1
+D 0 17035 0 1
+D 0 17036 2 1
+D 0 17038 1 1
+D 0 17039 3 1
+D 0 17039 5 1
+D 0 17040 0 1
+D 0 17040 2 1
+D 0 17040 3 1
+D 0 17040 4 1
+D 0 17041 2 1
+D 0 17042 0 1
+D 0 17043 0 1
+D 0 17043 1 1
+D 0 17043 2 1
+D 0 17044 2 1
+D 0 17045 0 1
+D 0 17046 0 1
+D 0 17046 2 1
+D 0 17047 0 1
+D 0 17048 2 1
+D 0 17049 0 1
+D 0 17049 2 1
+D 0 17049 3 1
+D 0 17050 2 1
+D 0 17051 0 1
+D 0 17052 0 1
+D 0 17052 2 1
+D 0 17053 2 1
+D 0 17054 0 1
+D 0 17055 3 1
+D 0 17056 0 1
+D 0 17056 1 1
+D 0 17057 2 1
+D 0 17058 0 1
+D 0 17059 2 1
+D 0 17060 0 1
+D 0 17061 2 1
+D 0 17064 0 1
+D 0 17065 2 1
+D 0 17067 0 1
+D 0 17067 2 1
+D 0 17068 2 1
+D 0 17070 0 1
+D 0 17071 0 1
+D 0 17071 2 1
+D 0 17072 2 1
+D 0 17073 0 1
+D 0 17074 0 1
+D 0 17075 0 2
+D 0 17076 2 2
+D 0 17077 0 1
+D 0 17077 2 1
+D 0 17078 2 1
+D 0 17079 0 1
+D 0 17080 0 1
+D 0 17081 2 1
+D 0 17082 0 1
+D 0 17082 2 1
+D 0 17083 2 1
+D 0 17084 0 1
+D 0 17084 3 1
+D 0 17085 2 1
+D 0 17086 1 1
+D 0 17087 0 1
+M 0 17015 20 17000 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17009 15 17001 1
+M 0 17000 15 17002 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17040 0 16
+M 0 17000 15 17004 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17009 15 17004 3
+M 0 17000 15 17007 1
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17040 0 16
+M 0 17009 15 17007 2
+M 0 17000 15 17011 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17010 1 17016 1
+E 0 17012 0 16
+M 0 17008 1 17016 1
+E 0 17015 0 16
+M 0 17015 20 17017 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17015 20 17018 2
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17001 4 17019 2
+M 0 17002 8 17020 2
+E 0 17008 0 16
+M 0 17002 8 17020 2
+E 0 17008 0 16
+M 0 17002 8 17020 2
+E 0 17008 0 16
+M 0 17003 10 17021 1
+E 0 17009 0 13
+M 0 17000 50 17022 3
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17000 50 17025 3
+E 0 17001 0 5
+E 0 17004 0 6
+E 0 17002 0 7
+E 0 17005 0 8
+E 0 17003 0 9
+E 0 17007 0 10
+E 0 17006 0 11
+E 0 17000 0 16
+M 0 17004 1 17028 1
+E 0 17011 0 12
+M 0 17004 1 17028 1
+E 0 17011 0 12
+M 0 17005 1 17028 1
+E 0 17010 0 13
+M 0 17009 15 17031 3
+M 0 17007 10 17033 2
+E 0 17014 0 16
+E 0 17013 0 17
+M 0 17007 10 17035 2
+E 0 17014 0 16
+E 0 17013 0 17
+M 0 17007 10 17035 2
+E 0 17014 0 16
+E 0 17013 0 17
+O 0 17036 0 17036
+O 0 17037 0 17036
+M 0 17022 1 17036 1
+E 0 17029 0 3
+E 0 17030 0 6
+E 0 17031 0 16
+M 0 17023 1 17036 1
+E 0 17032 0 1
+E 0 17032 0 2
+G 0 17033 0
+M 0 17014 50 17036 2
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17009 15 17038 2
+M 0 17029 1 17041 1
+E 0 17035 0 16
+M 0 17029 1 17041 1
+E 0 17038 0 6
+E 0 17035 0 16
+M 0 17024 1 17042 1
+M 0 17025 2 17044 1
+E 0 17034 0 14
+M 0 17026 1 17045 1
+E 0 17034 0 14
+M 0 17026 2 17045 1
+E 0 17034 0 14
+M 0 17027 2 17047 1
+E 0 17034 0 14
+M 0 17027 2 17047 1
+E 0 17034 0 14
+M 0 17028 2 17048 1
+E 0 17034 0 14
+M 0 17025 2 17050 1
+E 0 17034 0 14
+M 0 17026 2 17051 1
+E 0 17034 0 14
+M 0 17027 2 17053 1
+E 0 17034 0 14
+M 0 17028 2 17054 1
+E 0 17034 0 14
+M 0 17014 15 17056 2
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17039 0 16
+M 0 17009 50 17057 2
+M 0 17009 50 17059 3
+M 0 17014 15 17060 1
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17006 2 17061 1
+E 0 17012 0 16
+M 0 17009 50 17062 2
+M 0 17009 50 17062 2
+M 0 17011 5 17065 1
+M 0 17014 15 17066 2
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17009 15 17066 1
+M 0 17012 1 17069 1
+M 0 17013 5 17070 1
+E 0 17009 0 13
+M 0 17014 15 17071 2
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17039 0 16
+M 0 17014 50 17073 2
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17014 50 17079 3
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17014 15 17080 3
+E 0 17017 0 5
+E 0 17020 0 6
+E 0 17018 0 7
+E 0 17021 0 8
+E 0 17019 0 9
+E 0 17023 0 10
+E 0 17022 0 11
+E 0 17016 0 16
+M 0 17018 1 17081 1
+G 0 17026 0
+M 0 17020 1 17083 1
+E 0 17028 0 6
+E 0 17027 0 17
+M 0 17021 5 17085 1
+M 0 17017 1 17086 1
+M 0 17016 1 17087 1
+G 0 17025 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,46 @@
+Wed Jan  5 00:10:15 2005 :: ROM is ready to rock on port 5000.
+Wed Jan  5 00:10:33 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan  5 00:10:36 2005 :: Sock.sinaddr:  69.240.65.225
+Write_to_descriptor: Connection reset by peer
+Wed Jan  5 00:10:41 2005 :: Sock.sinaddr:  67.19.185.236
+Wed Jan  5 00:10:42 2005 :: Sock.sinaddr:  67.141.86.144
+Wed Jan  5 00:10:42 2005 :: Sock.sinaddr:  4.237.2.70
+Wed Jan  5 00:10:42 2005 :: Loading Sembiance.
+Wed Jan  5 00:10:42 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan  5 00:10:42 2005 :: Loading Argon.
+Wed Jan  5 00:10:42 2005 :: Argon@67.141.86.144 has connected.
+Wed Jan  5 00:10:43 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Wed Jan  5 00:10:45 2005 :: Sock.sinaddr:  66.222.216.154
+Wed Jan  5 00:10:45 2005 :: Loading Spatula.
+Wed Jan  5 00:10:45 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Jan  5 00:10:50 2005 :: Loading Seclar.
+Wed Jan  5 00:10:50 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Jan  5 00:10:52 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Jan  5 00:10:55 2005 :: Loading Chame.
+Wed Jan  5 00:10:55 2005 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Wed Jan  5 00:10:56 2005 :: Loading Garet.
+Wed Jan  5 00:10:58 2005 :: Garet@dialup-4.237.2.70.Dial1.NewYork1.Level3.net has connected.
+Wed Jan  5 00:10:59 2005 :: Loading Venus.
+Wed Jan  5 00:11:00 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Wed Jan  5 00:11:11 2005 :: Spatula has quit.
+Wed Jan  5 00:11:15 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Jan  5 00:11:31 2005 :: Seclar has quit.
+Wed Jan  5 00:11:36 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan  5 00:11:58 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Jan  5 00:12:11 2005 :: Sock.sinaddr:  66.222.216.154
+Wed Jan  5 00:12:11 2005 :: Ergo@pcp09766644pcs.albqrq01.nm.comcast.net new player.
+Wed Jan  5 00:12:15 2005 :: Loading Chame.
+Wed Jan  5 00:12:16 2005 :: Closing link to Chame.
+Wed Jan  5 00:12:16 2005 :: Chame@d66-222-216-154.abhsia.telus.net reconnected.
+Wed Jan  5 00:12:50 2005 :: Ceclar@dsl093-033-134.snd1.dsl.speakeasy.net new player.
+Wed Jan  5 00:14:25 2005 :: Log Argon: advance ergo 10
+Wed Jan  5 00:14:32 2005 :: Ergo killed by A statue of the Fallen Red Dragon at 3001
+Wed Jan  5 00:15:48 2005 :: Log Sembiance: plzap ergo
+Wed Jan  5 00:15:48 2005 :: Ergo has quit.
+Wed Jan  5 00:15:53 2005 :: Closing link to Chame.
+Wed Jan  5 00:15:53 2005 :: Closing link to Ceclar.
+Wed Jan  5 00:15:53 2005 :: Closing link to Venus.
+Wed Jan  5 00:15:53 2005 :: Closing link to Garet.
+Wed Jan  5 00:15:53 2005 :: Closing link to Argon.
+Wed Jan  5 00:15:53 2005 :: Closing link to Sembiance.
+Wed Jan  5 00:15:54 2005 :: Normal termination of game.

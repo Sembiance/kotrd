@@ -1,0 +1,383 @@
+#PLAYER
+Name Messhu~
+Id   1156731118
+LogO 1159553145
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Sidhe Elf~
+Sex  1
+Cla  8
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  100
+Legend -1
+OCla 1
+Levl 75
+OldLvl 75
+Sec  0
+Plyd 3366
+Scro 33
+Room 3054
+HMV  1954 1954 521 521 744 744
+Gold 6
+Silv 531
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 75
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  450000
+PAct  DQTbd
+AfBy DFV
+WName Messhu~
+Comm MNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 7
+Alig  -417
+ACs 100 100 100 100
+Attr 18 27 27 22 18
+AMod 0 0 0 0 0
+Pass Me6Okrqg/So3k~
+Titl  {x~
+Pnts 70
+TSex 1
+PSize 2
+LLev 0
+HMVP 1954 521 744
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'lightning bolt'
+Sk 1 'cure light'
+Sk 75 'change sex'
+Sk 1 'cause light'
+Sk 75 'cure blindness'
+Sk 75 'bless'
+Sk 1 'cause serious'
+Sk 1 'cure serious'
+Sk 75 'protection evil'
+Sk 75 'protection good'
+Sk 75 'earthquake'
+Sk 1 'cause critical'
+Sk 1 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure poison'
+Sk 75 'dispel evil'
+Sk 75 'dispel good'
+Sk 75 'heat metal'
+Sk 75 'remove curse'
+Sk 75 'flamestrike'
+Sk 75 'heal'
+Sk 75 'harm'
+Sk 75 'frenzy'
+Sk 75 'demonfire'
+Sk 75 'ray of truth'
+Sk 75 'holy word'
+Sk 75 'mass healing'
+Sk 75 'golden aura'
+Sk 75 'detect evil'
+Sk 75 'detect good'
+Sk 75 'detect hidden'
+Sk 75 'armor'
+Sk 75 'blindness'
+Sk 75 'call lightning'
+Sk 75 'calm'
+Sk 75 'cancellation'
+Sk 41 'continual light'
+Sk 75 'control weather'
+Sk 75 'create food'
+Sk 75 'create rose'
+Sk 75 'create spring'
+Sk 1 'create water'
+Sk 75 'curse'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 75 'energy drain'
+Sk 75 'faerie fire'
+Sk 1 'faerie fog'
+Sk 75 'farsight'
+Sk 75 'fly'
+Sk 1 'floating disc'
+Sk 75 'gate'
+Sk 75 'identify'
+Sk 1 'infravision'
+Sk 1 'know alignment'
+Sk 75 'locate object'
+Sk 75 'mass invis'
+Sk 75 'plague'
+Sk 75 'poison'
+Sk 75 'refresh'
+Sk 75 'sanctuary'
+Sk 75 'energy shield'
+Sk 75 'slow'
+Sk 75 'stone skin'
+Sk 75 'summon'
+Sk 75 'teleport'
+Sk 75 'weaken'
+Sk 75 'word of recall'
+Sk 88 'sword'
+Sk 82 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 75 'flail'
+Sk 75 'polearm'
+Sk 75 'exotic'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 87 'dual wield'
+Sk 88 'enhanced damage'
+Sk 76 'hand to hand'
+Sk 76 'kick'
+Sk 78 'dodge'
+Sk 77 'parry'
+Sk 75 'shield block'
+Sk 75 'rescue'
+Sk 75 'trip'
+Sk 82 'second attack'
+Sk 77 'third attack'
+Sk 75 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 75 'meditation'
+Sk 75 'sneak'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 75 'spellcraft'
+Sk 75 'companion'
+Sk 75 'track'
+Sk 81 'whirlwind'
+Sk 75 'create zombie'
+Sk 1 'metamorph'
+Sk 75 'divine wrath'
+Sk 75 'scribe'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'ranger basics'
+Gr 'cleric default'
+Gr 'ranger default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'cleric transport'
+Gr 'weather'
+Gr 'ranger spells'
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 3035
+Enchanted
+Nest 1
+ExtF 4161
+Cond 0
+Wear -1
+Lev  91
+Cost 22342
+Val  1 17 19 1 93
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1 200  14          0
+Affc 'reserved'   1  90  -1 150  13          0
+Affc 'reserved'   1  90  -1 -500  12          0
+Affc 'reserved'   1  90  -1  50  18          0
+Affc 'reserved'   1  90  -1  50  19          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'psharp blade'   5   0  -1   0   0          8
+End
+
+#O
+Vnum 6732
+Nest 1
+ExtF 524547
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 6732
+Nest 1
+ExtF 524547
+Cond 0
+Wear -1
+Cost 55000
+End
+
+#O
+Vnum 20420
+Enchanted
+Nest 1
+ExtF 16777283
+Cond 0
+Wear -1
+Cost 40000
+Affc 'reserved'   1 100  -1  50  18          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1   8   2          0
+Affc 'reserved'   1 100  -1 350  14          0
+Affc 'reserved'   1 100  -1  10   1          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 6728
+Nest 1
+ExtF 524353
+Cond 0
+Wear -1
+Cost 25000
+Val  62 62 62 62 0
+End
+
+#O
+Vnum 6736
+Nest 1
+ExtF 17301571
+Cond 0
+Wear -1
+Cost 50000
+Val  62 62 62 62 1
+End
+
+#O
+Vnum 6708
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#O
+Vnum 6799
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6726
+Nest 1
+ExtF 524291
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 3099
+Nest 1
+ExtF 524291
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 25324
+Nest 1
+Cond 0
+Wear -1
+Cost 26362
+End
+
+#O
+Vnum 6754
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6702
+Nest 1
+Cond 0
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 6701
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 3099
+Nest 1
+ExtF 524291
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 53
+Nest 1
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 25321
+Nest 1
+Cond 0
+Wear -1
+Cost 3868
+End
+
+#END

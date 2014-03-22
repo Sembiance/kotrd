@@ -1,0 +1,80 @@
+#PLAYER
+Name Leopaldon~
+Id   1132893083
+LogO 1132896064
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Seraph~
+Sex  1
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 2981
+Scro 33
+Room 3001
+HMV  44 44 103 103 106 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  6785
+PAct  EQTd
+AfBy FT
+WName Leopaldon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Alig  1000
+ACs 100 100 100 100
+Attr 21 13 16 12 17
+AMod 0 0 0 0 0
+Pass LePHYoPpjXFF.~
+Titl  the Arch Angel~
+Pnts 73
+TSex 1
+PSize 2
+LLev 0
+HMVP 44 103 106
+Cnd  0 0 5 5
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 1 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 75 'sword'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 25 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+End
+
+#END

@@ -1,0 +1,554 @@
+#PLAYER
+Name Valinyre~
+Id   1132252968
+LogO 1138491465
+Vers 5
+Prom <%hhp/%Hhp %mmp/%Mmp %vspc/%Vspc {GN{gext:{x%X %K> ~
+Race Draconian~
+Sex  1
+Cla  1
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 27
+OldLvl 27
+Sec  0
+Plyd 119263
+Scro 33
+Room 23207
+HMV  368 368 329 378 326 326
+Gold 8
+Silv 1
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 27
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  46394
+PAct  DEGQTd
+AfBy JT
+WName Valinyre~
+Comm FINO
+RaceChan 0
+Deaf DP
+Pos  4
+Alig  -1000
+Hit   11
+Dam   6
+ACs -19 -24 -23 72
+Attr 22 17 19 12 18
+AMod 5 1 1 7 1
+Pass VaJT0YEjxBtSA~
+Titl  {c[{RR{rebirth{c]{x~
+Pnts 54
+TSex 1
+PSize 3
+LLev 32
+HMVP 250 248 256
+Cnd  0 4 13 30
+Alias sco scoreold~
+Alias 1 bli~
+Alias qr quest request~
+Alias qs quest stop~
+Alias ii l in back~
+Alias r rest~
+Alias st stand~
+Alias cl 'cure light'~
+Alias h c 'cure critical' sniper~
+Alias 2 c 'cure serious'~
+Alias qc quest complete~
+Alias m c 'cure critical' dral~
+Boards       4 General 1138461685 Ideas 1126580477 Announce 1104975611 Personal 0 
+Sk 80 'cure light'
+Sk 1 'change sex'
+Sk 75 'bless'
+Sk 81 'cure serious'
+Sk 75 'protection evil'
+Sk 75 'protection good'
+Sk 77 'earthquake'
+Sk 80 'cure critical'
+Sk 75 'dispel evil'
+Sk 75 'dispel good'
+Sk 78 'heat metal'
+Sk 1 'remove curse'
+Sk 75 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 82 'armor'
+Sk 75 'blindness'
+Sk 75 'calm'
+Sk 73 'cancellation'
+Sk 75 'continual light'
+Sk 75 'create food'
+Sk 1 'create rose'
+Sk 74 'create spring'
+Sk 75 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'fly'
+Sk 75 'floating disc'
+Sk 1 'gate'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 75 'poison'
+Sk 1 'refresh'
+Sk 75 'sanctuary'
+Sk 1 'energy shield'
+Sk 75 'slow'
+Sk 74 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 75 'weaken'
+Sk 1 'word of recall'
+Sk 100 'blightning'
+Sk 87 'mace'
+Sk 1 'bash'
+Sk 1 'fast healing'
+Sk 76 'meditation'
+Sk 50 'recall'
+Sk 55 'spellcraft'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'cleric transport'
+End
+
+#O
+Vnum 16085
+Nest 0
+Cond 0
+Wear 15
+Cost 2300
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 4246
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4242
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 21263
+Nest 0
+Cond 0
+Wear 6
+Cost 1500
+End
+
+#O
+Vnum 21270
+Nest 0
+Cond 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+Val  200 104 0 0 0
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 3351
+Nest 0
+Cond 0
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear -1
+Cost 380
+End
+
+#O
+Vnum 6515
+Nest 0
+Cond 0
+Wear 16
+Cost 500
+End
+
+#END

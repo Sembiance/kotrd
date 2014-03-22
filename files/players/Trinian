@@ -1,0 +1,128 @@
+#PLAYER
+Name Trinian~
+Id   1091657464
+LogO 1091772770
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Seraph~
+Sex  1
+Cla  0
+OCla -1
+Levl 4
+OldLvl 4
+Sec  0
+Plyd 2630
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  33 45 120 120 56 118
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 4
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  6964
+PAct  DEGQTd
+AfBy FT
+Empower  0
+WName Trinian~
+Comm NO
+Deaf DP
+Pos  8
+Prac 2
+Alig  1000
+ACs 100 100 100 100
+Wimp  22
+Attr 15 19 19 11 20
+AMod 0 0 0 0 0
+Pass Trx7mYLEbUAwQ~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 55
+TSex 1
+PSize 2
+LLev 0
+HMVP 45 120 118
+Cnd  0 28 38 7
+Sk 75 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'identify'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 75 'dagger'
+Sk 1 'enhanced damage'
+Sk 1 'fast healing'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'illusion'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Time 903
+Cost 0
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear -1
+Time 903
+Cost 0
+End
+
+#END

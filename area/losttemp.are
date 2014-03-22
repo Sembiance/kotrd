@@ -1,0 +1,419 @@
+#AREADATA
+Name Lost Temples~
+Builders Lydia~
+VNUMs 8300 8399
+Credits 15 -  25~
+Security 8
+Flags F
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#8300
+sprite fluttering~
+a Sprite~
+A fluttering Sprite is here.
+~
+~
+school monster~
+AU DFQTV 250 0
+0
+12 22 5d5+5 5d5+5 5d5+5 scratch
+0 0 0 0
+0 AB CEJVd B
+stand stand female 100
+AMV ABCDEFHJK small unknown
+F par QU
+#0
+
+
+
+#OBJECTS
+#8300
+shimmering fire portal~
+{ra {RS{rh{Ri{rm{Rm{re{Rr{ri{Rn{rg Portal of {RFire{x~
+{ra {RS{rh{Ri{rm{Rm{re{Rr{ri{Rn{rg Portal of {RFire{x~
+FIRE_ELEM portal 0 P
+0 0 0 0 0
+1 1 1000000 P
+#8301
+shimmering portal pearl~
+{wa {WS{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg Portal of {WLight{x~
+{wa {WS{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg Portal of {WLight{x~
+PEARL portal 0 P
+0 0 0 0 0
+1 1 1000000 P
+#8302
+frozen shimmering portal ice~
+{ba {BF{br{Bo{bz{Be{bn {BPortal {bof {BIce{x~
+{ba {BF{br{Bo{bz{Be{bn {BPortal {bof {BIce{x~
+WATER_ELEM portal 0 P
+0 0 0 0 0
+1 1 10000000 P
+#0
+
+
+
+#ROOMS
+#8300
+{Ma Moonlit Path~
+~
+0 4 0
+D3
+~
+~
+0 0 8301
+C 0
+S
+#8301
+{Ma Moonlit Path~
+~
+0 0 0
+D1
+~
+~
+0 0 8300
+D2
+~
+~
+0 0 8302
+C 0
+S
+#8302
+{Ma Moonlit Path~
+~
+0 0 0
+D0
+~
+~
+0 0 8301
+D2
+~
+~
+0 0 8303
+C 0
+S
+#8303
+{MBefore the {DDark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8302
+D2
+~
+~
+0 0 8304
+C 0
+S
+#8304
+{MInto the {DDark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8303
+D2
+~
+~
+0 0 8307
+D3
+~
+~
+0 0 8305
+C 0
+S
+#8305
+{DDeep in the Dark {gForest~
+~
+0 0 0
+D1
+~
+~
+0 0 8304
+D3
+~
+~
+0 0 8306
+C 0
+S
+#8306
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8308
+D1
+~
+~
+0 0 8305
+C 0
+S
+#8307
+{DDeep in the Dark {gForest~
+~
+0 0 0
+D0
+~
+~
+0 0 8304
+D1
+~
+~
+0 0 8312
+C 0
+S
+#8308
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8309
+D2
+~
+~
+0 0 8306
+C 0
+S
+#8309
+{Dan {BIcey {DPath in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8310
+D2
+~
+~
+0 0 8308
+C 0
+S
+#8310
+{DBefore the {BIce {DAlter~
+~
+0 0 0
+D0
+~
+~
+0 0 8311
+D2
+~
+~
+0 0 8309
+C 0
+S
+#8311
+{DAtop the {BIce {DAlter{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8310
+C 0
+S
+#8312
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8313
+D3
+~
+~
+0 0 8307
+C 0
+S
+#8313
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8312
+D1
+~
+~
+0 0 8314
+D3
+~
+~
+0 0 8319
+C 0
+S
+#8314
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D2
+~
+~
+0 0 8315
+D3
+~
+~
+0 0 8313
+C 0
+S
+#8315
+{Da {WSmoke Filled {DPath in the Dark {gForest~
+~
+0 0 0
+D0
+~
+~
+0 0 8314
+D2
+~
+~
+0 0 8316
+C 0
+S
+#8316
+{Da {RBurning {DPath in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8315
+D1
+~
+~
+0 0 8317
+C 0
+S
+#8317
+{DBefore the {RFire {DAlter{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8318
+D3
+~
+~
+0 0 8316
+C 0
+S
+#8318
+{DAtop the {RFire {DAlter{x~
+~
+0 0 0
+D3
+~
+~
+0 0 8317
+C 0
+S
+#8319
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8313
+D2
+~
+~
+0 0 8320
+C 0
+S
+#8320
+{DDeep in the Dark {gForest{x~
+~
+0 0 0
+D0
+~
+~
+0 0 8319
+D3
+~
+~
+0 0 8321
+C 0
+S
+#8321
+{Da {WS{wh{Wi{wm{Wm{we{Wr{wi{Wn{wg {DPath in the Dark {gForest{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8320
+D3
+~
+~
+0 0 8322
+C 0
+S
+#8322
+{DBefore the {WPearl {DAlter{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8321
+D3
+~
+~
+0 0 8323
+C 0
+S
+#8323
+{DAtop the {WPearl {DAlter{x~
+~
+0 0 0
+D1
+~
+~
+0 0 8322
+C 0
+S
+#8399
+{gLydia's Bedroom~
+~
+0 4 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 8302 0 8311
+O 0 8300 0 8318
+O 0 8301 0 8323
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

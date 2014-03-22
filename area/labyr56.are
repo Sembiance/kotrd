@@ -1,0 +1,7319 @@
+#AREADATA
+Name The Labyrinth of Kronos~
+Builders Blade~
+VNUMs 20600 20999
+Credits 75 - 85 Blade~
+Security 9
+Flags 0
+LEVELs 75 85
+End
+
+
+
+#MOBILES
+#20601
+skeletal warrior skeleton~
+{Wa skeletal warrior{x~
+{WA skeletal warrior stands here menacingly.{x
+~
+{WBare bones clad in armor.  It's eyes glow red, the bones clack together
+as it starts for you.  {x 
+~
+doll~
+ABF 0 0 0
+0
+75 350 1d1+17000 75d10+85 1d1+225 pound
+-75 -75 -75 -45
+0 ILMNPQR ES GHJKO
+stand stand none 8500
+EIJM ABCGHK medium unknown
+F for c
+M GRALL 20601 100~
+M FIGHT 20602 50~
+#20602
+skeletal guardian~
+{Wa skeletal guardian{x~
+{WA skeletal guardian bars passage.{x
+~
+{wBuilt of the bones of slaves, this skeletal guardian blocks passage to
+all who dare the Labyrinth.  {x 
+~
+doll~
+ABF 0 0 0
+0
+75 350 1d1+17000 75d10+85 1d1+225 pound
+-75 -75 -75 -40
+0 ILMNPQR ES GHJKO
+stand stand none 7500
+EJMc ABCGHK medium unknown
+#20603
+doomsphere beholder undead~
+{wa doomsphere{x~
+{wA doomsphere gazes balefully at you.{x
+~
+{wA great round floating sphere, it's tentacles writhe as it turns
+towards you, one great eye blinks balefully in the ochre puce skin that
+covers the floating being.  A large gaping maw opens below the immense
+single eye, twin nostrils set to either side flare in anticipation.  {x 
+~
+doll~
+ABF 0 0 0
+0
+80 400 1d1+20000 80d10+85 1d1+200 drain
+-44 -44 -44 -28
+0 ILMNPQR ES GHJKO
+stand stand none 8000
+EJMc AKN medium unknown
+F par BCGH
+#20604
+heucuva skeleton ~
+{ra heucuva{x~
+{rA robed skeleton stands here.{x
+~
+{rThe heucuva is an undead spirit similar in appearance to a skeleton. 
+The heucuva is a brown robed humanoid skeletal figure, their feet wrapped in
+the rotting remains of their footwear.  {x 
+~
+doll~
+ABF 0 0 0
+0
+80 400 1d1+20000 80d11+95 1d1+250 scratch
+-48 -48 -48 -32
+0 ILMNPQR ES GHJKO
+stand stand none 4000
+EJMc ABCGHK medium unknown
+#20605
+skeletal warrior guardian~
+{wa skeletal guardian{x~
+{wConstructed of human bone, a skeletal guardian stands here.{x
+~
+{wFour legs ending in bony feet hold this animated warrior upright.  Four
+matching arms atop a torso of bone, capable of holding many varied weapons
+writhe in unconcious warding as the monstrous guardian of the halls prepares
+to do battle.  {x 
+~
+doll~
+AFG 0 0 0
+0
+85 450 1d1+25000 85d10+85 1d1+300 claw
+-48 -48 -48 -30
+0 ILMNPQR ES GHJKO
+stand stand none 4200
+EJMc ABCGHK medium unknown
+#20606
+fire healer~
+{Ra living flame{x~
+{RA living {Yflame{R burns here.{x
+~
+{RThis living flame burns within the confines of a large bowl set within
+the altar.  {x 
+~
+doll~
+ABa 0 0 0
+0
+100 100 206d34+2021 100d11+95 34d2+74 flbite
+-62 -62 -62 -42
+0 ILMNPQR ES GHJKO
+stand stand none 5000
+EJMc ABCGHK medium unknown
+#20607
+spirit ghost wailing~
+{ba wailing spirit{x~
+{bA wailing spirits floats towards you.{x
+~
+{bVaguely humanoid in shape, this spirit screeches a bone chilling wail
+as it floats in midair.  {x 
+~
+doll~
+AFG 0 0 0
+0
+90 500 1d1+30000 90d11+95 1d1+350 frbite
+-55 -55 -55 -37
+0 ILMNPQR ES GHJKO
+stand stand none 4500
+EJMc ABCGHK medium unknown
+#0
+
+
+
+#OBJECTS
+#20601
+dark blade~
+{wa dark blade{x~
+{wA dark blade lies here.{x~
+STEEL weapon E AN
+sword 9 15 slice H
+75 60 1500 P
+A
+19 10
+A
+18 15
+A
+13 100
+#20602
+armor chain~
+{wdark chainmail{x~
+{wA darksuit of chainmail armor lies here.{x~
+STEEL armor EY AD
+BCE BCE BCE CD 0
+75 70 1500 P
+#20603
+helm steel dark~
+{wa dark metal helm{x~
+{wA dark metal helm lies here.{x~
+STEEL armor E AE
+BCE BCE BCE CD 0
+75 25 1500 P
+#20604
+boots chain dark~
+{wdark chain boots{x~
+{wA pair of dark chain boots.{x~
+STEEL armor EY AG
+BCE BCE BCE CD 0
+75 25 1500 P
+#20605
+wand stone~
+{wa stone wand{x~
+{wA smooth stone wand.{x~
+ROCK_GENERIC wand 0 AO
+80 9 9 'harm' 0
+80 30 5000 P
+A
+19 5
+A
+18 5
+#20606
+chest~
+{ra wooden chest{x~
+{rA wooden chest lies here.{x~
+WOOD container 0 0
+20 AC 0 100 10
+80 30 100 P
+#20607
+gold coin~
+{Ya pile of gold coins{x~
+{YA pile of yellow golden coins lies here.{x~
+GOLD money 0 AO
+EIJKN 0 0 0 0
+1 10 9000 P
+#20609
+portal~
+{Ca glowing portal{x~
+{CA glowing portal hangs in midair.{x~
+SELECT_A_MATERIAL portal 0 0
+999 K K 6700 0
+1 0 0 P
+#20610
+blade frost~
+{Wa blade of frost{x~
+{WA blade of ice lies here glittering.{x~
+WATER_ELEM weapon 0 ANO
+sword 11 20 frbite BD
+90 80 1800 P
+A
+18 12
+A
+19 8
+#20611
+black opal shard legend~
+{Da legendary {cblack-opal {Dshard{x~
+A legendary quest shard lies here.~
+BLACK_OPAL gem CT AO
+0 0 0 0 0
+69 3 50 P
+E
+pickupmessage~
+You just found your Level {c69 {xLegendary Shard! You can now advance to Level {c70{x!
+~
+#0
+
+
+
+#ROOMS
+#20600
+{wNear the Cliff{x~
+{wTo the north, tall cliffs of grey stone rise high above the plain.  The
+escarpment flowing east and west as far as the eye can see.  Grey stunted
+shrubs grow in sparse clumps, while a faint narrow trail runs northward.  {x
+{x 
+{CA small sign stands next to the trail.{x
+~
+0 0 5
+E
+sign~
+{y*****************************************************************{x
+{y*****************************************************************{x
+{y**                                                             **{x
+{y**   The Labyrinth was built for {CCreatia{y by {cBlade{y for          **{x
+{y**         anyone who wishes to utilize the area. The only     **{x
+{y**         thing that we ask is the credits remain as          **{x
+{y**         they are in their original form.                    **{x
+{y**                                                             **{x
+{y**         Copyright Jan 2001                                  **{x
+{y**                      by Blade                               **{x
+{y**                               {ccreatia.funcity.org 7500{y      **{x
+{y**                                                             **{x
+{y**         {rSome people want to rule the world......... {y        **{x
+{y**              {GWe just want to build it!!!!!!!!      {y         **{x
+{y**                                                             **{x
+{y*****************************************************************{x
+{y*****************************************************************{x
+~
+D0
+{wA faint trail running north and south winds its way toward the
+escarpment.  {x 
+~
+~
+0 0 20601
+C 0
+S
+#20601
+{wNear the Cliffs{x~
+{wA faint path winds north and south here.  To the south, the path
+continues out into the desolate plains of the northlands.  Close to the
+north, the grey stone walls of an immense escarpment blocks the path.  The
+trail seems to wind toward a dark patch in the face of the escarpment.  {x 
+~
+0 0 5
+D0
+{wA faint trail winds through sparse brush towards the escarpment.{x
+~
+~
+0 0 20602
+D2
+{wA faint trail leading off into the plains.{x
+~
+~
+0 0 20600
+C 0
+S
+#20602
+{wNear the Cliffs{x~
+{wTo the north lies the entrance to the caverns of the Labyrinth.  The
+grey rocky cliffs of the escarpment tower overhead.  The entrance is a dark
+maw in the rock.  Sparse brush grows in clumps to either side of the faint
+trail.  {x 
+~
+0 0 5
+D0
+{wInto the Labyrinth{x
+~
+~
+0 0 20603
+D2
+{wA faint trail winds into the northern plains{x
+~
+~
+0 0 20601
+C 0
+S
+#20603
+{wThe Entrance to the Cavern{x~
+{wNorth, the cavern mouth opens wide, the interior dark and forboding. 
+To the south, a faint trail leads through the dry windswept plains.  East
+and west, the great escarpment blocks all egress from the plain.  {x 
+~
+0 0 5
+D0
+{wA dark rough cavern leads north{x
+~
+~
+0 0 20604
+D2
+{wA faint trail through the plains.{x
+~
+~
+0 0 20602
+C 0
+S
+#20604
+{wA Dark Cavern{x~
+{wWalls of dark rough stone rise to either side.  Underfoot, a thick
+layer of sand and dust covers the stone of the caverns floor.  Overhead, the
+rough stone of the cavern hides the sky.  The stone is grey, shot through
+with streaks of alternating white quartz, and dark as night obsidian.  No
+air stirs in this lightless place away from the elements.  Utter silence
+reigns.  {x 
+~
+0 8 4
+D0
+{wThe grey cavern continues.{x
+~
+~
+0 0 20605
+D2
+{wThe entrance to the cavern lies southward.  {x 
+~
+~
+0 0 20603
+C 0
+S
+#20605
+{wThe Caverns{x~
+{wRough stone walls rise up to either side, while the cavern continues
+north and south.  Towards the north, the cavern narrows, while to the south,
+the cavern widens towards the entrance.  The walls of the cavern are of grey
+stone, shot through with alternating streaks of snowy white quarts, and
+night dark obsidian.  The floor underfoot is covered with a thick layer of
+dust, small stones litter the dusty surface.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20606
+D2
+~
+~
+0 0 20604
+C 0
+S
+#20606
+{wThe Caverns{x~
+{wRough stone walls rise up to either side, while the cavern continues
+north and south.  Towards the north, the cavern narrows, while to the south,
+the cavern widens towards the entrance.  The walls of the cavern are of grey
+stone, shot through with alternating streaks of snowy white quarts, and
+night dark obsidian.  The floor underfoot is covered with a thick layer of
+dust, small stones litter the dusty surface.  {x 
+~
+0 8 0
+D0
+~
+~
+0 0 20607
+D2
+~
+~
+0 0 20605
+C 0
+S
+#20607
+{wThe Crossing{x~
+{wRough stone walls rise up to either side, To the north, the cavern
+continues north and south, while east and west, tunnels pierce the walls of
+the cavern.  To the south, the cavern widens towards the entrance.  The
+walls of the cavern are of grey stone, shot through with alternating streaks
+of snowy white quarts, and night dark obsidian.  The floor underfoot is
+covered with a thick layer of dust, small stones litter the dusty surface. 
+~
+0 8 0
+D0
+~
+~
+0 0 20630
+D1
+~
+~
+0 0 20642
+D2
+~
+~
+0 0 20606
+D3
+~
+~
+0 0 20608
+C 0
+S
+#20608
+{wThe Tunnels{x~
+{wRough stone walls rise up to either side, the tunnel runs east and
+west.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 20607
+D3
+~
+~
+0 0 20609
+C 0
+S
+#20609
+{wThe Tunnels{x~
+{wRough stone walls rise up to either side, the tunnel runs east and
+west.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 20608
+D3
+~
+~
+0 0 20610
+C 0
+S
+#20610
+{wThe Tunnels{x~
+{wRough stone walls rise up to either side, the tunnel runs east and
+west.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x {wTo the south, a {ybronze{w door lies ajar.  The door opens
+towards the south.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 20609
+D2
+~
+~
+0 0 20647
+D3
+~
+~
+0 0 20611
+C 0
+S
+#20611
+{wA Dark Passage{x~
+{wRough stone walls rise up to either side, the tunnel runs North and
+South.  To the east, a tunnel leads off from the main passage.  The walls of
+the tunnel are of grey stone, shot through with alternating streaks of snowy
+white quarts, and night dark obsidian.  The floor underfoot is covered with
+a thick layer of dust, small stones litter the dusty surface.  The tunnels
+are dark, no breath of air stirs the dust underfoot.  {x 
+~
+0 8 4
+D0
+{wA stone passageway continues northwards.{x
+~
+~
+0 0 20615
+D1
+{wA stone passageway leads off eastward.{x
+~
+~
+0 0 20610
+D2
+{wA stone passageway continues southwards.{x
+~
+~
+0 0 20612
+C 0
+S
+#20612
+{wA Slanted Passage{x~
+{wRough stone walls rise up to either side, the tunnel runs North and
+South.  Slanting downwards into the bowels of the earth towards the south. 
+The walls of the tunnel are of grey stone, shot through with alternating
+streaks of snowy white quarts, and night dark obsidian.  The floor underfoot
+is covered with a thick layer of dust, small stones litter the dusty
+surface.  The tunnels are dark, no breath of air stirs the dust underfoot. 
+{x 
+~
+0 8 4
+D0
+{wA stone passageway continues north.{x
+~
+~
+0 0 20611
+D2
+{wA stone passageway continues towards the south.{x
+~
+~
+0 0 20613
+C 0
+S
+#20613
+{wA Slanted Passage{x~
+{wRough stone walls rise up to either side, the tunnel runs North and
+South.  Slanting downwards into the bowels of the earth towards the south. 
+The walls of the tunnel are of grey stone, shot through with alternating
+streaks of snowy white quarts, and night dark obsidian.  The floor underfoot
+is covered with a thick layer of dust, small stones litter the dusty
+surface.  The tunnels are dark, no breath of air stirs the dust underfoot. 
+{x 
+~
+0 8 4
+D0
+{wThe passageway continues towards the north.{x
+~
+~
+0 0 20612
+D5
+{wA stone passageway continues downwards{x
+~
+~
+0 0 20614
+C 0
+S
+#20614
+{wA Steep Passage{x~
+{wRough stone walls rise up to either side, the tunnel runs sharpley up
+and down.  The wallss of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D4
+{wA steep passageway slanting upwards.{x
+~
+~
+0 0 20613
+D5
+{wA steep stone passageway lies below.{x
+~
+~
+0 0 20648
+C 0
+S
+#20615
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20616
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20611
+C 0
+S
+#20616
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 0 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20617
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20615
+C 0
+S
+#20617
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20618
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20616
+C 0
+S
+#20618
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20619
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20617
+C 0
+S
+#20619
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20620
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20618
+C 0
+S
+#20620
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+east.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D1
+{wA stone passageway continues.{x
+~
+~
+0 0 20621
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20619
+C 0
+S
+#20621
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and east
+of grey stone, shot through with alternating streaks of snowy white quarts,
+and night dark obsidian.  The floor underfoot is covered with a thick layer
+of dust, small stones litter the dusty surface.  The tunnels are dark, no
+breath of air stirs the dust underfoot.  {x 
+{wThe stone passageway continues.{x
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20622
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20620
+C 0
+S
+#20622
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and
+east.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  To the south an iron bound door lies open.  {x 
+~
+0 8 4
+D1
+~
+~
+0 0 20625
+D2
+{wAn iron bound door lies open.{x
+~
+~
+0 0 20623
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20621
+C 0
+S
+#20623
+{wA Broken Barracks{x~
+{wShattered and burnt bunks and lockers lie scattered about the room in
+dusty heaps.  Torn and ravelled hangings and tapestries hang about the walls
+of the broken barracks hall.  Once the living quarters of the Labyrinth's
+Guardians, the room is mute testament to the harsh nature of war.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20622
+C 0
+S
+#20625
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and
+east.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20631
+D2
+{wA stone tunnel runs southward.{x
+~
+~
+0 0 20626
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20622
+C 0
+S
+#20626
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20625
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20627
+C 0
+S
+#20627
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20626
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20628
+C 0
+S
+#20628
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20627
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20629
+C 0
+S
+#20629
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20628
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20630
+C 0
+S
+#20630
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  
+~
+0 8 4
+D0
+~
+~
+0 0 20629
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20607
+C 0
+S
+#20631
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and
+east.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20632
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20625
+C 0
+S
+#20632
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and
+east.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  A {ybrass {wbound door lies to the south.  {x 
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20634
+D2
+{wA {ybrass{w bound door lies open.{x
+~
+~
+0 0 20633
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20631
+C 0
+S
+#20633
+{wA Broken Barracks{x~
+{wShattered and burnt bunks and lockers lie scattered about the room in
+dusty heaps.  Torn and ravelled hangings and tapestries hang about the walls
+of the broken barracks hall.  Once the living quarters of the Labyrinth's
+Guardians, the room is mute testament to the harsh nature of war.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 20632
+C 0
+S
+#20634
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs west and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20635
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20632
+C 0
+S
+#20635
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20634
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20636
+C 0
+S
+#20636
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20635
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20637
+C 0
+S
+#20637
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20636
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20638
+C 0
+S
+#20638
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20637
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20639
+C 0
+S
+#20639
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north and
+south.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20638
+D2
+{wThe stone passageway continues.{x
+~
+~
+0 0 20640
+C 0
+S
+#20640
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs north,east
+and west.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D0
+{wThe stone passageway continues.{x
+~
+~
+0 0 20639
+D1
+{wThe stone passageway continues{x
+~
+~
+0 0 20643
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20641
+C 0
+S
+#20641
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads east and west.
+The walls of the tunnel are of grey stone, shot through with alternating
+streaks of snowy white quarts, and night dark obsidian.  The floor underfoot
+is covered with a thick layer of dust, small stones litter the dusty
+surface.  The tunnels are dark, no breath of air stirs the dust underfoot.  
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20640
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20642
+C 0
+S
+#20642
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, the tunnel leads east and west.
+The walls of the tunnel are of grey stone, shot through with alternating
+streaks of snowy white quarts, and night dark obsidian.  The floor underfoot
+is covered with a thick layer of dust, small stones litter the dusty
+surface.  The tunnels are dark, no breath of air stirs the dust underfoot.  
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20641
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20607
+C 0
+S
+#20643
+{wA Stone Passageway{x~
+{wRough stone walls rise up to either side, the tunnel runs east and
+west.  The walls of the tunnel are of grey stone, shot through with
+alternating streaks of snowy white quarts, and night dark obsidian.  The
+floor underfoot is covered with a thick layer of dust, small stones litter
+the dusty surface.  The tunnels are dark, no breath of air stirs the dust
+underfoot.  {x 
+~
+0 8 4
+D1
+{wThe stone passageway continues.{x
+~
+~
+0 0 20644
+D3
+{wThe stone passageway continues.{x
+~
+~
+0 0 20640
+C 0
+S
+#20644
+{wA Stone Passageway{x~
+{wRough stone walls rise up to all sides, a tunnel leads west.  The walls
+of the tunnel are of grey stone, shot through with alternating streaks of
+snowy white quarts, and night dark obsidian.  The floor underfoot is covered
+with a thick layer of dust, small stones litter the dusty surface.  The
+tunnels are dark, no breath of air stirs the dust underfoot.  {yBrass
+{wbound doors lie open both north and south.  {x 
+~
+0 0 4
+D0
+{wA {ybrass{w bound door lies open.{x
+~
+~
+0 0 20645
+D2
+{wA {ybrass{w bound door lies open.{x@
+~
+~
+0 0 20646
+D3
+{wA stone passageway leads off west.{x
+~
+~
+0 0 20643
+C 0
+S
+#20645
+{wA Broken Mess{x~
+{wBroken tables and chairs lie in dust covered mouldering heaps.  The
+walls of this room hidden by the ravelled remains of ancient tapestries and
+hangings.  Dust lies thick among mouldering rugs and carpets that are strewn
+about the floor.  {x 
+~
+0 8 4
+D2
+~
+~
+0 0 20644
+C 0
+S
+#20646
+{wA Broken Guardroom{x~
+{w Broken furniture, trash and detritus ages old lies in dust shrouded
+heaps about the floor of this large natural cavern.  Shreds of ancient
+tapestries hang in ravelling rags about the walls.  No footprints disturb
+the dust of ages in this broken hall.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20644
+C 0
+S
+#20647
+{wA Broken Guardroom{x~
+{wBroken furniture, trash and detritus ages old lies in dust shrouded
+heaps about the floor of this large natural cavern.  Shreds of ancient
+tapestries hang in ravelling rags about the walls.  No footprints disturb
+the dust of ages in this broken hall.  {x 
+~
+0 8 0
+D0
+~
+~
+0 0 20610
+C 0
+S
+#20648
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20649
+D4
+{rThe Passageway continues upwards.{x
+~
+~
+0 0 20614
+C 0
+S
+#20649
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20650
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20648
+C 0
+S
+#20650
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20651
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20649
+C 0
+S
+#20651
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20652
+D1
+~
+~
+0 0 20686
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20650
+C 0
+S
+#20652
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20653
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20651
+C 0
+S
+#20653
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20654
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20652
+C 0
+S
+#20654
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20655
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20653
+C 0
+S
+#20655
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20656
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20654
+C 0
+S
+#20656
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20657
+D2
+~
+~
+0 0 20689
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20655
+C 0
+S
+#20657
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20658
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20656
+C 0
+S
+#20658
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20659
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20657
+C 0
+S
+#20659
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20660
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20658
+C 0
+S
+#20660
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20661
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20659
+C 0
+S
+#20661
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20662
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20660
+C 0
+S
+#20662
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20663
+D2
+~
+~
+0 0 20695
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20661
+C 0
+S
+#20663
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20664
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20662
+C 0
+S
+#20664
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues south.{x
+~
+~
+0 0 20663
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20665
+C 0
+S
+#20665
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues south.{x
+~
+~
+0 0 20664
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20666
+D3
+~
+~
+0 0 20695
+C 0
+S
+#20666
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues south.{x
+~
+~
+0 0 20665
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20667
+C 0
+S
+#20667
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues south.{x
+~
+~
+0 0 20666
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20668
+C 0
+S
+#20668
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues south.{x
+~
+~
+0 0 20667
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20669
+C 0
+S
+#20669
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 0 4
+D0
+{rThe passageway continues south.{x
+{rThe passageway continues north.{x
+~
+~
+0 0 20668
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20670
+D3
+~
+~
+0 0 20700
+C 0
+S
+#20670
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20669
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20671
+C 0
+S
+#20671
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20670
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20672
+D3
+~
+~
+0 0 20702
+C 0
+S
+#20672
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20671
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20673
+C 0
+S
+#20673
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20702
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20672
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20674
+C 0
+S
+#20674
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20673
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20675
+C 0
+S
+#20675
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20674
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20676
+C 0
+S
+#20676
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20705
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20675
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20677
+C 0
+S
+#20677
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20676
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20678
+C 0
+S
+#20678
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20677
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20679
+C 0
+S
+#20679
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20708
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20678
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20680
+C 0
+S
+#20680
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20681
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20679
+C 0
+S
+#20681
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20682
+D1
+~
+~
+0 0 20708
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20680
+C 0
+S
+#20682
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20683
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20681
+C 0
+S
+#20683
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20684
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20682
+C 0
+S
+#20684
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20685
+D1
+~
+~
+0 0 20711
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20683
+C 0
+S
+#20685
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20686
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20684
+C 0
+S
+#20686
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20687
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20685
+D3
+~
+~
+0 0 20651
+C 0
+S
+#20687
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20688
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20686
+C 0
+S
+#20688
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20689
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20687
+C 0
+S
+#20689
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20656
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20690
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20688
+C 0
+S
+#20690
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20691
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20689
+C 0
+S
+#20691
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20692
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20690
+C 0
+S
+#20692
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20693
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20691
+C 0
+S
+#20693
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20694
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20692
+C 0
+S
+#20694
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20695
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20693
+C 0
+S
+#20695
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20662
+D1
+~
+~
+0 0 20665
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20696
+D3
+{rThe passageway continues south.{x
+~
+~
+0 0 20694
+C 0
+S
+#20696
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20695
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20697
+C 0
+S
+#20697
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20696
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20698
+C 0
+S
+#20698
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20697
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20699
+C 0
+S
+#20699
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20698
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20700
+C 0
+S
+#20700
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20699
+D1
+~
+~
+0 0 20669
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20701
+C 0
+S
+#20701
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20700
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20702
+C 0
+S
+#20702
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20701
+D1
+~
+~
+0 0 20671
+D2
+~
+~
+0 0 20673
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20703
+C 0
+S
+#20703
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20702
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20704
+C 0
+S
+#20704
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20703
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20705
+C 0
+S
+#20705
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20704
+D2
+~
+~
+0 0 20676
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20706
+C 0
+S
+#20706
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20705
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20707
+C 0
+S
+#20707
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20706
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20708
+C 0
+S
+#20708
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20709
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20707
+D2
+~
+~
+0 0 20679
+D3
+~
+~
+0 0 20681
+C 0
+S
+#20709
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20710
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20708
+C 0
+S
+#20710
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20711
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20709
+C 0
+S
+#20711
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20712
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20684
+C 0
+S
+#20712
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20713
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20711
+C 0
+S
+#20713
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and{x
+{wgrey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a{x
+{wmind bending whirl the color of old blood.  Dust covers the floor underfoot{x
+{win a thick carpet.  The sloughing flesh of the bones of the earth.{x
+~
+0 0 0
+D0
+~
+~
+0 0 20714
+D2
+~
+~
+0 0 20712
+C 0
+S
+#20714
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20715
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20713
+C 0
+S
+#20715
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20716
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20714
+C 0
+S
+#20716
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20717
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20715
+C 0
+S
+#20717
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20718
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20716
+C 0
+S
+#20718
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20719
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20717
+C 0
+S
+#20719
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20720
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20718
+C 0
+S
+#20720
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20719
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20721
+C 0
+S
+#20721
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20720
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20722
+C 0
+S
+#20722
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20721
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20723
+C 0
+S
+#20723
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20722
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20724
+C 0
+S
+#20724
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20723
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20725
+C 0
+S
+#20725
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20724
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20726
+C 0
+S
+#20726
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20725
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20727
+C 0
+S
+#20727
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20726
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20728
+C 0
+S
+#20728
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20729
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20727
+C 0
+S
+#20729
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20730
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20728
+C 0
+S
+#20730
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20731
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20729
+C 0
+S
+#20731
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D0
+{rThe passageway continues north.{x
+~
+~
+0 0 20732
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20730
+C 0
+S
+#20732
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20733
+D2
+{rThe passageway continues south.{x
+~
+~
+0 0 20731
+C 0
+S
+#20733
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  {x 
+~
+0 8 4
+D1
+{rThe passageway continues east.{x
+~
+~
+0 0 20734
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20732
+C 0
+S
+#20734
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the earth.  To the
+south, a {ybrass{w bound door hangs open on one hinge.{x 
+~
+0 8 4
+D1
+{rA stairwell leading down lies to the east.{x
+~
+~
+0 0 20735
+D2
+{rA {ybrass{r bound door lies open to the south.{x
+~
+~
+0 0 20736
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20733
+C 0
+S
+#20735
+{rThe Passage of Blood{x~
+{wThe tunnel walls are of striated stone, a mixture of black, red, and
+grey stone dissolving into an eye maddening blur.  The {rcrimson {wstreaks a
+mind bending whirl the color of old blood.  Dust covers the floor underfoot
+in a thick carpet.  The sloughing flesh of the bones of the Eastwards, a
+stairwell climbs deeper into the bowels of the earth.  {x 
+~
+0 8 4
+D3
+{rThe passageway continues west.{x
+~
+~
+0 0 20734
+D5
+{rA stairwell plunges downward.{x
+~
+~
+0 0 20738
+C 0
+S
+#20736
+{rA Shattered Chapel{x~
+{wTorn and ravelled hangings in once bright hues line the walls of this
+shattered room.  Piles of broken furniture and the broken bones of the
+labyrinth's inhabitants lie jumbled in dusty mouldering heaps jumbled across
+the hall's floor.  Dust lies in a thick carpet over all.  The hall silent as
+a tomb.  {x 
+~
+0 8 4
+D0
+{rA stone passageway.{x
+~
+~
+0 0 20734
+D2
+{rThe shattered hall continues.{x
+~
+~
+0 0 20737
+C 0
+S
+#20737
+{rA Shattered Chapel{x~
+{wTorn and ravelled hangings in once bright hues line the walls of this
+shattered room.  Piles of broken furniture and the broken bones of the
+labyrinth's inhabitants lie jumbled in dusty mouldering heaps jumbled across
+the hall's floor.  Dust lies in a thick carpet over all.  The hall silent as
+a tomb.  {x 
+~
+0 8 4
+D0
+{rThe meeting hall continues.{x
+~
+~
+0 0 20736
+C 0
+S
+#20738
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20739
+D4
+{rA dark staircase.{x
+~
+~
+0 0 20735
+C 0
+S
+#20739
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20738
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20740
+C 0
+S
+#20740
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20739
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20741
+C 0
+S
+#20741
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20740
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20742
+C 0
+S
+#20742
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20741
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20743
+C 0
+S
+#20743
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20742
+D3
+{RThe tunnel continues westward.{x
+~
+~
+0 0 20744
+C 0
+S
+#20744
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D0
+{RThe tunnel continues northward.{x
+~
+~
+0 0 20745
+D1
+{RThe tunnel continues eastward.{x
+~
+~
+0 0 20743
+C 0
+S
+#20745
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D0
+{RThe tunnel continues northward.{x
+~
+~
+0 0 20746
+D2
+{RThe tunnel continues south.{x
+~
+~
+0 0 20744
+C 0
+S
+#20746
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D0
+{RThe tunnel continues northward.{x
+~
+~
+0 0 20747
+D2
+{RThe tunnel continues southward.{x
+~
+~
+0 0 20745
+C 0
+S
+#20747
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnal continues to the east.{x
+~
+~
+0 0 20748
+D2
+{RThe tunnel continues southward.{x
+~
+~
+0 0 20746
+C 0
+S
+#20748
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20749
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20747
+C 0
+S
+#20749
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20750
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20748
+C 0
+S
+#20750
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20751
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20749
+C 0
+S
+#20751
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20752
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20750
+C 0
+S
+#20752
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20753
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20751
+C 0
+S
+#20753
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D1
+{RThe tunnel continues to the east.{x
+~
+~
+0 0 20754
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20752
+C 0
+S
+#20754
+{RThe Halls of Combat{x~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x 
+~
+0 8 4
+D2
+{RThe tunnel continues to the south.{x
+~
+~
+0 0 20755
+D3
+{RThe tunnel continues to the west.{x
+~
+~
+0 0 20753
+C 0
+S
+#20755
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20754
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20756
+C 0
+S
+#20756
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20755
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20757
+C 0
+S
+#20757
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20756
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20758
+C 0
+S
+#20758
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20757
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20759
+C 0
+S
+#20759
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20758
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20760
+C 0
+S
+#20760
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20759
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20761
+C 0
+S
+#20761
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20760
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20762
+C 0
+S
+#20762
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20761
+D2
+{RThe hall continues towards the south.{x
+~
+~
+0 0 20763
+C 0
+S
+#20763
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.  {x {yDoors{R of yellowed bronze are
+set into either side of the passage.  The passsage ends to the south, in a
+blank wall of fiery red stone.  {x 
+~
+0 0 4
+D0
+{RThe hall continues to the north.{x
+~
+~
+0 0 20762
+D1
+{RA {ybrass{R bound door lies to the east.{x
+~
+~
+1 0 20765
+D3
+{RA {ybrass{R bound door lies to the west.{x
+~
+~
+1 0 20764
+C 0
+S
+#20764
+{RA Shattered Mess{x~
+{RThe walls of this room are of rock, a dull glowing red the color of old
+coals.  The tables and benches of the mess are overturned and broken, lying
+about the floor in scattered heaps of broken wood.  Amidst the scattered
+furnishings, the bones of the original defenders lie shattered.  {x 
+~
+0 8 4
+D1
+{RA {ybrass{R bound door lies too the east.{x
+~
+~
+1 0 20763
+C 0
+S
+#20765
+{RThe Hall of Combat{x ~
+{RThe walls of this tunnel are polished smooth as ice.  Their surfaces
+the red of dull fire.  The floors of the tunnel are smooth underfoot, not a
+speck of dust disturbs it's surfaces.{x
+~
+0 8 4
+D0
+{RA darkened landing lies to the north.{x
+~
+~
+0 0 20766
+D3
+{RThe halls of Combat lie this way.{x
+~
+~
+1 0 20763
+C 0
+S
+#20766
+{rA Dark Landing{x~
+{yThe walls of the stone landing are of yellow stone.  To the north, lies
+a lighted staircase, south, the {RHall of Fire{y.  The landing is dark,
+sconces mounted on the wall hold the burned out remains of eons old torches.
+The landing is swept clear of dust, by a draft that blows from the stairwell
+to the north, out a natural chimney of stone above.  {x 
+~
+0 8 0
+D0
+{yA stairwell of yellow stone.{x
+~
+~
+0 0 20767
+D2
+{RA red stone tunnel lies southward.{x
+~
+~
+0 0 20765
+C 0
+S
+#20767
+{yA Stairwell{x~
+{yA well lit stairwell of yellow stone circles downwards.  The yellow
+walls of stone, have affixed globes of cold mage-light at intervals casting
+a bright sterile light upon the smooth surfaces.  {x 
+~
+0 8 4
+D2
+{rA dark hall lies to the south.{x
+~
+~
+0 0 20766
+D5
+{yA well lighted stairwell.{x
+~
+~
+0 0 20768
+C 0
+S
+#20768
+{yA Lighted Landing{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D3
+{yA well lighted hallway continues towards the west.{x
+~
+~
+0 0 20769
+D4
+{yA Stairwell{x
+~
+~
+0 0 20767
+C 0
+S
+#20769
+{yA Well Lit Hall{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20768
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20770
+C 0
+S
+#20770
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20769
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20771
+C 0
+S
+#20771
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20770
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20772
+C 0
+S
+#20772
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20771
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20773
+C 0
+S
+#20773
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20772
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20774
+C 0
+S
+#20774
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20773
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20775
+C 0
+S
+#20775
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20774
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20776
+C 0
+S
+#20776
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20775
+D2
+~
+~
+0 0 20811
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20777
+C 0
+S
+#20777
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20776
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20778
+C 0
+S
+#20778
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20777
+D1
+~
+~
+0 0 20811
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20779
+C 0
+S
+#20779
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20778
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20780
+C 0
+S
+#20780
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20779
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20781
+C 0
+S
+#20781
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20780
+D1
+~
+~
+0 0 20814
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20782
+C 0
+S
+#20782
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20781
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20783
+C 0
+S
+#20783
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20782
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20784
+C 0
+S
+#20784
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20783
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20785
+C 0
+S
+#20785
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20784
+D1
+~
+~
+0 0 20818
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20786
+C 0
+S
+#20786
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20785
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20787
+C 0
+S
+#20787
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 0 4
+D0
+~
+~
+0 0 20818
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20788
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20786
+C 0
+S
+#20788
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20789
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20787
+C 0
+S
+#20789
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20790
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20788
+C 0
+S
+#20790
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20821
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20791
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20789
+C 0
+S
+#20791
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20792
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20790
+C 0
+S
+#20792
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20793
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20791
+C 0
+S
+#20793
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20824
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20794
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20792
+C 0
+S
+#20794
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20795
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20793
+C 0
+S
+#20795
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20796
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20794
+C 0
+S
+#20796
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20797
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20795
+C 0
+S
+#20797
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20798
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20796
+D3
+~
+~
+0 0 20826
+C 0
+S
+#20798
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20799
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20797
+C 0
+S
+#20799
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20801
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20798
+C 0
+S
+#20801
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20802
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20799
+D3
+~
+~
+0 0 20830
+C 0
+S
+#20802
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20803
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20801
+C 0
+S
+#20803
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20802
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20804
+C 0
+S
+#20804
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20803
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20805
+C 0
+S
+#20805
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20804
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20806
+C 0
+S
+#20806
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20805
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20807
+C 0
+S
+#20807
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20806
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20808
+C 0
+S
+#20808
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20807
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20809
+C 0
+S
+#20809
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20808
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20810
+C 0
+S
+#20810
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20809
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20811
+C 0
+S
+#20811
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+~
+~
+0 0 20776
+D1
+{yThe hall continues towards the east{x
+~
+~
+0 0 20810
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20812
+D3
+~
+~
+0 0 20778
+C 0
+S
+#20812
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20811
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20813
+C 0
+S
+#20813
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20812
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20814
+C 0
+S
+#20814
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20813
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20815
+D3
+~
+~
+0 0 20781
+C 0
+S
+#20815
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20814
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20816
+C 0
+S
+#20816
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20815
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20817
+C 0
+S
+#20817
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20816
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20818
+C 0
+S
+#20818
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north{x
+~
+~
+0 0 20817
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20819
+D2
+~
+~
+0 0 20787
+D3
+~
+~
+0 0 20785
+C 0
+S
+#20819
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20820
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20818
+C 0
+S
+#20820
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20821
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20819
+C 0
+S
+#20821
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20822
+D2
+~
+~
+0 0 20790
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20820
+C 0
+S
+#20822
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20823
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20821
+C 0
+S
+#20823
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20824
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20822
+C 0
+S
+#20824
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues to the east.{x
+~
+~
+0 0 20825
+D2
+~
+~
+0 0 20793
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20823
+C 0
+S
+#20825
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20826
+D3
+{yThe hall continues towards the west{x
+~
+~
+0 0 20824
+C 0
+S
+#20826
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20827
+D1
+~
+~
+0 0 20797
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20825
+C 0
+S
+#20827
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20828
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20826
+C 0
+S
+#20828
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20829
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20827
+C 0
+S
+#20829
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20830
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20828
+C 0
+S
+#20830
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues to the north.{x
+~
+~
+0 0 20831
+D1
+~
+~
+0 0 20801
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20829
+C 0
+S
+#20831
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D2
+{yThe hall continues towards the south{x
+~
+~
+0 0 20830
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20832
+C 0
+S
+#20832
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east.{x
+~
+~
+0 0 20831
+D3
+~
+~
+0 0 20833
+C 0
+S
+#20833
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+~
+~
+0 0 20832
+D3
+~
+~
+0 0 20834
+C 0
+S
+#20834
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east.{x
+~
+~
+0 0 20833
+D3
+{yThe hall continues to the west.{x
+~
+~
+0 0 20835
+C 0
+S
+#20835
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D1
+{yThe hall continues towards the east.{x
+~
+~
+0 0 20834
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20836
+C 0
+S
+#20836
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north.{x
+~
+~
+0 0 20835
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20837
+C 0
+S
+#20837
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north.{x
+~
+~
+0 0 20836
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20838
+C 0
+S
+#20838
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north.{x
+~
+~
+0 0 20837
+D1
+{RA small chapel lies to the east.{x
+~
+~
+0 0 20841
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20839
+D3
+{yA narrow hall lies to the west.{x
+~
+~
+0 0 20842
+C 0
+S
+#20839
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north.{x
+~
+~
+0 0 20838
+D2
+{yThe hall continues to the south.{x
+~
+~
+0 0 20840
+C 0
+S
+#20840
+{yThe Hall of Light{x~
+{yThe yellowed stone of this hall is lit with many varied colors of
+mage-light, affixed to the smooth stone with fixtures of purest platinum. 
+The light cast by the many globes a sterile wan glow, bringing out and
+highlighting the dark striations in the native stone.  {x 
+~
+0 8 4
+D0
+{yThe hall continues towards the north.{x
+~
+~
+0 0 20839
+C 0
+S
+#20841
+{RThe Chapel of Flame{x~
+{RThis is a large chamber, whose vaulted ceilings lie far overhead.  The
+walls are panelled in light golden oak, polished to a high shine.  Along the
+eastern end of the chamber, a large open altar lies, upon which burns an
+immense flame.  No fuel lies in the bowl where lies the flame, which burns
+with a warm glow.  {x 
+~
+0 8 4
+D3
+~
+~
+0 0 20838
+C 0
+S
+#20842
+{bA Landing{x~
+{BA Narrow stair landing lies in this narrow hall, the stair dropping
+down into the depths of the labyrinth.  No light penetrates this deep cavern
+hall, save that brought by those who travel these halls.  Silence reigns
+over this dead placed.  {x 
+~
+0 8 0
+D1
+{YThe Hall of Light{x
+~
+~
+0 0 20838
+D5
+{BA Darkened stair lies below.{x
+~
+~
+0 0 20846
+C 0
+S
+#20846
+{bA Landing{x~
+{bThe stone of the landing is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D2
+{bA dark passage leaves towards the south.{x
+~
+~
+0 0 20847
+D4
+{bA dark stairwell climbs upwards.{x
+~
+~
+0 0 20842
+C 0
+S
+#20847
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off north.{x
+~
+~
+0 0 20846
+D2
+{bA dark passage leads off south.{x
+~
+~
+0 0 20848
+C 0
+S
+#20848
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off north.{x
+~
+~
+0 0 20847
+D2
+{bA dark passage leads off south.{x
+~
+~
+0 0 20849
+C 0
+S
+#20849
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off north.{x
+~
+~
+0 0 20848
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20850
+D2
+{bA dark passage leads off south.{x
+~
+~
+0 0 20860
+C 0
+S
+#20850
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20851
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20849
+C 0
+S
+#20851
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20852
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20850
+C 0
+S
+#20852
+{bA dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20853
+D2
+{bA dark passage leads off to the south{x
+~
+~
+0 0 20851
+C 0
+S
+#20853
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20854
+D2
+{bA dark passage leads off to the south{x
+~
+~
+0 0 20852
+C 0
+S
+#20854
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north{x
+~
+~
+0 0 20855
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20853
+C 0
+S
+#20855
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D2
+{bA dark passage leads off to the south{x
+~
+~
+0 0 20854
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20856
+C 0
+S
+#20856
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D1
+{bA dark passage leads off to the east{x
+~
+~
+0 0 20855
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20857
+C 0
+S
+#20857
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D1
+{bA dark passage leads off to the east{x
+~
+~
+0 0 20856
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20858
+C 0
+S
+#20858
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north{x
+~
+~
+0 0 20857
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20859
+C 0
+S
+#20859
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north{x
+~
+~
+0 0 20858
+C 0
+S
+#20860
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20849
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20861
+C 0
+S
+#20861
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20860
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20862
+C 0
+S
+#20862
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20863
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20861
+C 0
+S
+#20863
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20864
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20862
+C 0
+S
+#20864
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20865
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20863
+C 0
+S
+#20865
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20866
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20864
+C 0
+S
+#20866
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20867
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20865
+C 0
+S
+#20867
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20868
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20866
+C 0
+S
+#20868
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20869
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20883
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20867
+C 0
+S
+#20869
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20870
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20868
+C 0
+S
+#20870
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20871
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20869
+C 0
+S
+#20871
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20872
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20870
+C 0
+S
+#20872
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20871
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20873
+C 0
+S
+#20873
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20872
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20874
+C 0
+S
+#20874
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20875
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20873
+C 0
+S
+#20875
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20876
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20874
+C 0
+S
+#20876
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20877
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20875
+C 0
+S
+#20877
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20878
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20876
+C 0
+S
+#20878
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20877
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20879
+C 0
+S
+#20879
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20878
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20880
+C 0
+S
+#20880
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20879
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20881
+C 0
+S
+#20881
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20880
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20882
+C 0
+S
+#20882
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20881
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20894
+C 0
+S
+#20883
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20868
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20884
+C 0
+S
+#20884
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20883
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20885
+C 0
+S
+#20885
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20884
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20886
+C 0
+S
+#20886
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off towards the east.{x
+~
+~
+0 0 20885
+D3
+{bA dark passage leads off westward.{x
+~
+~
+0 0 20887
+C 0
+S
+#20887
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20886
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20888
+C 0
+S
+#20888
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20887
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20889
+C 0
+S
+#20889
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20888
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20890
+C 0
+S
+#20890
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20889
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20891
+C 0
+S
+#20891
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20890
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20892
+C 0
+S
+#20892
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20893
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20891
+C 0
+S
+#20893
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20892
+C 0
+S
+#20894
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off towards the north.{x
+~
+~
+0 0 20882
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20920
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20895
+C 0
+S
+#20895
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off towards the north.{x
+~
+~
+0 0 20894
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20896
+C 0
+S
+#20896
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off towards the north.{x
+~
+~
+0 0 20895
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20897
+C 0
+S
+#20897
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off towards the east.{x
+~
+~
+0 0 20896
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20898
+C 0
+S
+#20898
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off towards the east.{x
+~
+~
+0 0 20897
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20899
+C 0
+S
+#20899
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off towards the north.{x
+~
+~
+0 0 20898
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20900
+C 0
+S
+#20900
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off towards the north.{x
+~
+~
+0 0 20899
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20934
+D3
+{bA dark passage leads off towards the west.{x
+~
+~
+0 0 20901
+C 0
+S
+#20901
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20900
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20902
+C 0
+S
+#20902
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20901
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20903
+C 0
+S
+#20903
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20902
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20904
+C 0
+S
+#20904
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20903
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20905
+C 0
+S
+#20905
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20906
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20904
+C 0
+S
+#20906
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20907
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20905
+C 0
+S
+#20907
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20908
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20906
+C 0
+S
+#20908
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20909
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20907
+C 0
+S
+#20909
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20910
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20908
+C 0
+S
+#20910
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20911
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20909
+C 0
+S
+#20911
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20912
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20910
+C 0
+S
+#20912
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20913
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20911
+C 0
+S
+#20913
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20914
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20912
+C 0
+S
+#20914
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20915
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20913
+C 0
+S
+#20915
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20916
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20914
+C 0
+S
+#20916
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20917
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20915
+C 0
+S
+#20917
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20918
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20916
+C 0
+S
+#20918
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20919
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20917
+C 0
+S
+#20919
+{bA Large Dark Hall{x~
+{bThis is an enormous dark hall running north and south from a narrow
+dark passage that lies to the south.  The room is dusty and dank, the
+accumulated dust of ages mixing with the humidity of the earth, creating a
+slippery layer of slime underfoot.  {x 
+~
+0 8 0
+D2
+~
+~
+0 0 20918
+C 0
+S
+#20920
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20921
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20894
+C 0
+S
+#20921
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20922
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20920
+C 0
+S
+#20922
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20923
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20921
+C 0
+S
+#20923
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20922
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20924
+C 0
+S
+#20924
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20923
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20925
+C 0
+S
+#20925
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20924
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20926
+C 0
+S
+#20926
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D0
+~
+~
+0 0 20925
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20927
+C 0
+S
+#20927
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20928
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20926
+C 0
+S
+#20928
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D2
+{bA dark passage leads off to the south.{x
+~
+~
+0 0 20929
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20927
+C 0
+S
+#20929
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 0 0
+D0
+{bA dark passage leads off to the north.{x
+~
+~
+0 0 20928
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20930
+C 0
+S
+#20930
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20929
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20931
+C 0
+S
+#20931
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20930
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20932
+C 0
+S
+#20932
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20931
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20933
+C 0
+S
+#20933
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20932
+C 0
+S
+#20934
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+~
+~
+0 0 20935
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20900
+C 0
+S
+#20935
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20936
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20934
+C 0
+S
+#20936
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20937
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20935
+C 0
+S
+#20937
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D1
+{bA dark passage leads off to the east.{x
+~
+~
+0 0 20938
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20936
+C 0
+S
+#20938
+{bA Dark Passage{x~
+{bThe stone of the passage is jet black, the surface polished to a mirror
+shine.  Underfoot, a thick layer of dust covers the polished stone of the
+passage, dust, the color of old bone.  Silence reigns over the labyrinth,
+the silence of an ancient tomb.  {x 
+~
+0 8200 0
+D3
+{bA dark passage leads off to the west.{x
+~
+~
+0 0 20937
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 20603 spec_cast_undead
+M 20604 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 20763 1 1
+D 0 20763 3 1
+D 0 20764 1 1
+D 0 20765 3 1
+M 0 20602 2 20604 99
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20607 1
+E 0 20604 0 8
+E 0 20603 0 6
+E 0 20603 0 5
+E 0 20601 0 16
+M 0 20601 99 20613 1
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20617 1
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20623 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20633 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20634 1
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20637 1
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20645 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 99 20646 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20601 6 20647 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20604 99 20648 2
+M 0 20604 99 20654 2
+M 0 20604 99 20663 2
+M 0 20604 99 20672 2
+M 0 20604 99 20680 2
+M 0 20604 99 20688 2
+M 0 20604 99 20695 2
+M 0 20604 99 20702 2
+M 0 20604 99 20708 2
+M 0 20604 99 20714 2
+M 0 20604 99 20719 2
+M 0 20604 99 20724 2
+M 0 20604 99 20728 2
+M 0 20604 99 20732 2
+M 0 20604 99 20735 2
+M 0 20603 9 20737 1
+E 0 20605 0 17
+M 0 20605 99 20738 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20744 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20744 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20754 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20763 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20763 2
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20605 99 20764 6
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+O 0 20606 0 20764
+P 0 20607 1 20606 1
+M 0 20605 99 20765 4
+E 0 20601 0 16
+E 0 20602 0 5
+E 0 20603 0 6
+E 0 20604 0 8
+M 0 20606 1 20841 1
+M 0 20605 99 20842 2
+M 0 20607 1 20859 99
+E 0 20610 0 16
+M 0 20607 99 20861 2
+E 0 20610 0 16
+M 0 20607 99 20868 2
+E 0 20610 0 16
+M 0 20607 99 20896 2
+E 0 20610 0 16
+M 0 20607 99 20900 2
+E 0 20610 0 16
+M 0 20607 99 20904 2
+E 0 20610 0 16
+M 0 20607 99 20909 2
+E 0 20610 0 16
+M 0 20607 99 20913 2
+E 0 20610 0 16
+M 0 20607 99 20915 2
+E 0 20610 0 16
+M 0 20607 99 20919 6
+E 0 20610 0 16
+O 0 20609 0 20919
+O 0 20611 0 20919
+M 0 20607 1 20923 99
+E 0 20610 0 16
+M 0 20607 1 20933 99
+E 0 20610 0 16
+M 0 20607 1 20938 99
+E 0 20610 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#20601
+if ispc $n
+  mob echoat $n {WThe clacking of bone on bone is heard as a skeletal warrior attacks.{
+  mob kill $n
+else
+endif
+~
+#20602
+if ispc $n
+  say {WI walk these halls to roll the bones.{x
+  say {WYo ho ho and a tankard of Ale.{x
+  say {WI walk these halls to find more bones.{x
+  say {WYo ho ho and a tankard of Ale.{x
+else
+endif
+~
+#0
+
+#$

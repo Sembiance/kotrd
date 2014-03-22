@@ -1,0 +1,153 @@
+#PLAYER
+Name Arenas~
+Id   1170441518
+LogO 1173160641
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Myrddraal~
+Sex  0
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 5
+Levl 13
+OldLvl 13
+Sec  0
+Plyd 33645
+Scro 33
+Room 3001
+HMV  205 205 176 176 224 224
+Gold 10052
+Silv 7130
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 13
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  74609
+QuestPnts 91
+PAct  CDFGJTbd
+AfBy DFTUVc
+WName Arenas~
+Comm KNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 12
+Trai 3
+Save  -32
+Alig  -1000
+Hit   62
+ACs 98 98 98 99
+Attr 24 10 12 25 20
+AMod 0 0 0 0 0
+Pass ArVuM2Qvf57.o~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 67
+TSex 0
+PSize 2
+LLev 8
+HMVP 205 176 224
+Cnd  0 0 -1 -1
+Alias / recall~
+Alias r rescue~
+Alias g get dag~
+Alias t trip~
+Boards       4 General 1173068487 Ideas 1158582947 Announce 0 Personal 0 
+Sk 1 'portal'
+Sk 1 'gas breath'
+Sk 1 'curse'
+Sk 55 'giant strength'
+Sk 90 'sword'
+Sk 97 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 75 'flail'
+Sk 75 'whip'
+Sk 75 'polearm'
+Sk 75 'exotic'
+Sk 1 'assassinate'
+Sk 1 'backstab'
+Sk 75 'bash'
+Sk 75 'berserk'
+Sk 1 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 78 'hand to hand'
+Sk 88 'kick'
+Sk 81 'dodge'
+Sk 78 'parry'
+Sk 75 'shield block'
+Sk 75 'rescue'
+Sk 81 'trip'
+Sk 81 'second attack'
+Sk 79 'third attack'
+Sk 77 'fourth attack'
+Sk 1 'envenom'
+Sk 81 'fast healing'
+Sk 77 'haggle'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'quicken'
+Sk 75 'sharp blade'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'warrior basics'
+Gr 'warrior spells'
+Affc 'bless'   0 229  12  62  18          0
+Affc 'bless'   0 227  12 -31  20          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 76 0 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9
+Nest 0
+Name dagger Luther~
+ShD  a dager~
+Desc A dagger is here~
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9
+Nest 0
+Name breastplate Luther~
+ShD  a breastplate~
+Desc A breastplate is here~
+Cond 0
+Wear 5
+Cost 0
+End
+
+#END

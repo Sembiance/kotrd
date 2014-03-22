@@ -1,0 +1,1065 @@
+#PLAYER
+Name Sembiance~
+Id   1082762969
+LogO 1175293115
+Vers 5
+Prom {C<{W%z {G- {M%R{C> {x ~
+Race Elf~
+CTImp Valor~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 500
+OldLvl 500
+Sec  9
+Plyd 18534696
+Scro 58
+Room 20006
+HMV  4304 4304 1176 1176 3094 3094
+Gold 8312390
+Silv 40
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 500
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  700000
+QuestPnts 108371
+PAct  DNQTd
+AfBy J
+WName {WSembiance:{x~
+Comm EFKNO
+RaceChan 0
+Deaf 0
+Wizn A
+Pos  8
+Prac 100
+Trai 502
+Alig  1000
+ACs 94 94 94 104
+Wimp  860
+Attr 13 15 14 20 10
+AMod 0 0 0 0 0
+Pass SeDGjcnh5Zz.I~
+Bin  *poof* Sembiance~
+Titl  {GFish, plankton, sea greens... protein from the sea!{x~
+Job {RP{Yi{Rz{Yz{Ra! {YP{Ri{Yz{Rz{Ya!{x~
+Pnts 48
+TSex 1
+PSize 1
+LLev 2
+HMVP 4304 1166 3094
+Cnd  0 48 48 48
+Boards       4 General 1174263672 Ideas 1173698657 Announce 1104975611 Personal 1173079240 
+Sk 100 'reserved'
+Sk 100 'magic missile'
+Sk 100 'chill touch'
+Sk 100 'burning hands'
+Sk 100 'shocking grasp'
+Sk 100 'colour spray'
+Sk 100 'fireball'
+Sk 100 'acid blast'
+Sk 100 'spellfire'
+Sk 100 'orb of chaos'
+Sk 100 'chain lightning'
+Sk 100 'wyldstryke'
+Sk 100 'acid storm'
+Sk 100 'wail of the banshee'
+Sk 100 'torment of cold'
+Sk 100 'sonic scream'
+Sk 100 'ventriloquate'
+Sk 100 'recharge'
+Sk 100 'sleep'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'charm person'
+Sk 100 'haste'
+Sk 100 'pass door'
+Sk 100 'portal'
+Sk 100 'nexus'
+Sk 100 'acid breath'
+Sk 100 'frost breath'
+Sk 100 'lightning bolt'
+Sk 100 'lightning breath'
+Sk 100 'gas breath'
+Sk 100 'fire breath'
+Sk 100 'cure light'
+Sk 100 'change sex'
+Sk 100 'cause light'
+Sk 100 'cure blindness'
+Sk 100 'bless'
+Sk 100 'cause serious'
+Sk 100 'cure serious'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'earthquake'
+Sk 100 'cause critical'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'heat metal'
+Sk 100 'remove curse'
+Sk 100 'flamestrike'
+Sk 100 'heal'
+Sk 100 'harm'
+Sk 100 'frenzy'
+Sk 100 'demonfire'
+Sk 100 'ray of truth'
+Sk 100 'holy word'
+Sk 100 'mass healing'
+Sk 100 'golden aura'
+Sk 100 'fortify object'
+Sk 100 'fireproof'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'curse'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'locate object'
+Sk 100 'mass invis'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'refresh'
+Sk 100 'sanctuary'
+Sk 100 'energy shield'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'apport'
+Sk 100 'combat mind'
+Sk 100 'adrenaline control'
+Sk 100 'enhanced strength'
+Sk 100 'aura sight'
+Sk 100 'awe'
+Sk 100 'thought shield'
+Sk 100 'psychic healing'
+Sk 100 'mental barrier'
+Sk 100 'share strength'
+Sk 100 'levitation'
+Sk 100 'obfuscate'
+Sk 100 'bio fortress'
+Sk 100 'cell adjustment'
+Sk 100 'displacement'
+Sk 100 'ectoplasmic form'
+Sk 100 'lend health'
+Sk 100 'complete healing'
+Sk 100 'energy containment'
+Sk 100 'enhance armor'
+Sk 100 'flesh armor'
+Sk 100 'inertial barrier'
+Sk 100 'domination'
+Sk 100 'disintegrate'
+Sk 100 'essence drain'
+Sk 100 'agitation'
+Sk 100 'ballistic attack'
+Sk 100 'control flames'
+Sk 100 'death field'
+Sk 100 'detonate'
+Sk 100 'ego whip'
+Sk 100 'inflict pain'
+Sk 100 'mind thrust'
+Sk 100 'project force'
+Sk 100 'psionic blast'
+Sk 100 'psychic crush'
+Sk 100 'psychic drain'
+Sk 100 'ultrablast'
+Sk 100 'blightning'
+Sk 100 'bfire'
+Sk 100 'bfrost'
+Sk 100 'bacid'
+Sk 100 'bgas'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'pdrain blade'
+Sk 100 'pshocking blade'
+Sk 100 'pflame blade'
+Sk 100 'pfrost blade'
+Sk 100 'pvorpal blade'
+Sk 100 'psharp blade'
+Sk 100 'ppoison blade'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'mace'
+Sk 100 'axe'
+Sk 100 'flail'
+Sk 100 'whip'
+Sk 100 'polearm'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'circle'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'shield block'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'envenom'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'spellcraft'
+Sk 100 'companion'
+Sk 100 'track'
+Sk 100 'whirlwind'
+Sk 100 'heighten senses'
+Sk 100 'chameleon power'
+Sk 100 'create zombie'
+Sk 100 'metamorph'
+Sk 100 'shadow form'
+Sk 100 'multiburst'
+Sk 100 'forsake'
+Sk 100 'divine wrath'
+Sk 100 'immdis magic'
+Sk 100 'quicken'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'sharp blade'
+Sk 100 'critical strike'
+Sk 100 'clan recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+End
+
+#O
+Vnum 83
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'change sex'
+Spell 3 'fly'
+End
+
+#O
+Vnum 8127
+Nest 0
+Cond 0
+Wear -1
+Cost 2130
+End
+
+#O
+Vnum 10266
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1304
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 10269
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10268
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10267
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10709
+Nest 0
+Cond 0
+Wear -1
+Cost 1512
+Spell 3 'calm'
+End
+
+#O
+Vnum 1998
+Nest 0
+Cond 0
+Wear -1
+Cost 3
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 4421
+Nest 0
+Cond 0
+Wear 6
+Cost 745
+End
+
+#O
+Vnum 4432
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 10266
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16036
+Nest 0
+Cond 0
+Wear -1
+Cost 9850
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20020
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  0 0 4 0 0
+End
+
+#O
+Vnum 20021
+Nest 0
+ShD  {RHUGE defective cheery bomb{x~
+Cond 0
+Wear 0
+Cost 100
+End
+
+#O
+Vnum 20021
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20021
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20021
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 6726
+Nest 0
+ExtF 524291
+Cond 0
+Wear -1
+Cost 15875
+End
+
+#O
+Vnum 23423
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 9526
+Nest 0
+Name thong~
+ShD  {wA {Wbulging {wstudded {Mthong {wwith {W[{RP{YR{BI{WD{GE{W] {wwritten across the front{x~
+Desc A {wstudded {Mthong{x has been tossed here{x. ~
+Cond 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 65
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10708
+Nest 0
+Cond 0
+Wear -1
+Cost 1512
+Spell 1 'teleport'
+Spell 2 'teleport'
+Spell 3 'teleport'
+End
+
+#O
+Vnum 23423
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20004
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#END

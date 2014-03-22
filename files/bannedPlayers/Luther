@@ -1,0 +1,236 @@
+#PLAYER
+Name Luther~
+Id   1159576889
+LogO 1171232841
+Vers 5
+Prom %h/%H %m/%M %v/%V %gg %Xtnl %K ~
+Race Human~
+Sex  1
+Cla  3
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 54
+OldLvl 54
+Sec  0
+Plyd 95325
+Scro 33
+Room 25300
+HMV  524 524 216 216 418 418
+Gold 12041
+Silv 7732
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 54
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  54088
+PAct  CDEFGNQTd
+WName Luther~
+Comm KNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 21
+Trai 38
+Alig  -1000
+ACs 100 100 100 100
+Attr 15 12 12 18 13
+AMod 0 0 0 0 0
+Pass Lu/HdOiCIBFJw~
+Titl  {x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 17
+HMVP 524 216 418
+Cnd  0 0 7 0
+Boards       4 General 1169145680 Ideas 1158582947 Announce 0 Personal 0 
+Sk 76 'dagger'
+Sk 75 'backstab'
+Sk 75 'circle'
+Sk 78 'dodge'
+Sk 1 'trip'
+Sk 76 'second attack'
+Sk 1 'hide'
+Sk 79 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Sk 75 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+End
+
+#O
+Vnum 3154
+Nest 0
+Name beer bottle killian irish red Luther~
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3153
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3153
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3153
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 29900
+Nest 0
+Name dagger Luther~
+ShD  a dager~
+Desc A dagger is here~
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5637
+Nest 0
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5638
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5646
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5647
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5645
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5643
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 5642
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5641
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5640
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5648
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5648
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

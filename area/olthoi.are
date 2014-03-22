@@ -1,0 +1,170 @@
+#AREADATA
+Name Olthoi Caves~
+Builders Yavi~
+VNUMs 4900 4999
+Credits (null)~
+Security 9
+Flags B
+LEVELs 20 30
+End
+
+
+
+#MOBILES
+#4900
+olthoi worker~
+an olthoi worker~
+An olthoi worker carvs glyphs into the wall.
+~
+~
+centipede~
+A Z 0 0
+0
+25 0 10d10+1300 5d5+50 10d5+8 none
+-2 -2 -5 -2
+F 0 GI 0
+stand stand none 0
+ABGO ACK medium unknown
+F res F
+#4901
+olthoi soldier~
+an olthoi soldier~
+An olthoi soldier prepares to attack.
+~
+~
+centipede~
+AT VZc -100 0
+0
+32 50 10d5+1800 5d10+100 10d10+15 pierce
+-7 -7 -7 -7
+0 0 FGI 0
+stand stand none 0
+ABGO ACK medium unknown
+#0
+
+
+
+#OBJECTS
+#4999
+dabble~
+a clear potion~
+A clear potion sits on the ground.~
+SELECT_A_MATERIAL potion TUY A
+500 'combat mind' 'sanctuary' 'haste' 'giant strength'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4900
+{MA path in the forest{x~
+The well traveled road ends here, and a path leads deeper into the forest.  You hear
+the tell tale sound of insects all around you as you peer into the darkness.
+~
+0 0 4
+D1
+~
+~
+0 0 4903
+D3
+~
+~
+0 0 4901
+C 0
+S
+#4901
+{MA path through the forest{x~
+The path is small, yet clearly marked.  Ahead of you, the darkness
+begins to envelope everything, and just beyond your range of vision
+you can hear noises coming from the underbrush.
+~
+0 0 4
+D1
+~
+~
+0 0 4900
+D2
+~
+~
+0 0 4902
+C 0
+S
+#4902
+{MA path through the forest{x~
+As the path begins to turn, all signs of civilization fade into distant memory.
+~
+0 0 4
+D0
+~
+~
+0 0 4901
+D1
+~
+~
+0 0 4905
+C 0
+S
+#4903
+{MDeeper in the forest{x~
+The path through the forest is more narrow here than before.  As your eyes begin to adapt
+to the darkness, you see purple eyes watching you through the underbrush.
+~
+0 0 4
+D2
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4900
+C 0
+S
+#4904
+{MA dead end{x~
+The path here is no longer passable.  Your only choice is to turn back.
+~
+0 0 4
+D0
+~
+~
+0 0 4903
+C 0
+S
+#4905
+{MEnd of the path{x~
+The path through the forest ends at the base of a rock formation.  Upon
+closer examination, you notice a small opening just large enough to fit
+through.
+~
+0 0 0
+D3
+~
+~
+0 0 4902
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

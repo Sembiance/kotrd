@@ -1,0 +1,73 @@
+#PLAYER
+Name Juggernaut~
+Id   1141360634
+LogO 1141361339
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Titan~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  1
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 705
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 50
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1500
+PAct  DQTd
+AfBy c
+WName Juggernaut~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 20 15 16 12 15
+AMod 0 0 0 0 0
+Pass JuPhzMHCxulKc~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 50
+TSex 1
+PSize 5
+LLev 0
+HMVP 20 100 100
+Cnd  0 16 36 40
+Boards       4 General 1141355629 Ideas 1114570925 Announce 0 Personal 0 
+Sk 40 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+End
+
+#END

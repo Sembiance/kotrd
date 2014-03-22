@@ -1,0 +1,427 @@
+#PLAYER
+Name Erebus~
+Id   1088784369
+LogO 1088786713
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Inccubus~
+Sex  1
+Cla  7
+OCla -1
+Levl 8
+OldLvl 8
+Sec  0
+Plyd 2344
+Not  0 0 0 0
+Scro 33
+Room 8906
+HMV  62 126 114 114 93 142
+Gold 104
+Silv 1726
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 8
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  15472
+PAct  DEQTd
+AfBy KTV
+Empower  0
+WName Erebus~
+Comm NO
+Deaf DP
+Pos  8
+Prac 2
+Trai 1
+Save  -14
+Alig  -1000
+Hit   44
+Dam   1
+ACs 74 73 71 97
+Attr 20 10 17 16 18
+AMod 0 1 2 2 1
+Pass Er1yCXT5NpKfw~
+Titl  doesn't really know what he's doing.~
+Pnts 56
+TSex 1
+PSize 2
+LLev 0
+HMVP 126 114 142
+Cnd  0 0 13 13
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 75 'sword'
+Sk 1 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 73 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+Affc 'curse'   0  12  25  18  20       1024
+Affc 'curse'   0  13  25 -18  18       1024
+Affc 'bless'   0 248 102 -31  20          0
+Affc 'bless'   0 247 102  62  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 165 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear 16
+Cost 140
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 0
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 310
+End
+
+#END

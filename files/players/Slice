@@ -1,0 +1,650 @@
+#PLAYER
+Name Slice~
+Id   1102705237
+LogO 1142014014
+Vers 5
+Prom <%hhp %mm %vmv {G%X{wtnl><%K> ~
+Race Myrddraal~
+Clan Elite~
+Sex  0
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 3
+Levl 37
+OldLvl 37
+Sec  0
+Plyd 143436
+Scro 33
+Room 2582
+HMV  863 863 332 332 389 742
+Gold 328
+Silv 10569
+Gold_bank 98355
+Silv_bank 0
+Shares 0
+Share_level 37
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  122112
+QuestPnts 82
+PAct  DGQRTbcd
+AfBy DFTUVc
+WName Slice~
+Comm EFKNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 5
+Trai 2
+Alig  -1000
+Hit   22
+Dam   26
+ACs 66 67 67 110
+Attr 23 13 14 23 21
+AMod 1 0 0 5 1
+Pass SleanBE4V6uZ2~
+Titl .~
+Pnts 53
+TSex 0
+PSize 2
+LLev 39
+HMVP 738 232 372
+Cnd  0 0 -1 -1
+Alias wa wake~
+Alias k kill~
+Alias 1 get dag~
+Boards       4 General 1104527061 Ideas 1105592497 Announce 1104975611 Personal 1104871907 
+Sk 1 'portal'
+Sk 1 'gas breath'
+Sk 1 'curse'
+Sk 75 'identify'
+Sk 94 'sword'
+Sk 100 'dagger'
+Sk 88 'spear'
+Sk 89 'mace'
+Sk 1 'exotic'
+Sk 1 'assassinate'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 16 'berserk'
+Sk 100 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 91 'enhanced damage'
+Sk 52 'hand to hand'
+Sk 81 'kick'
+Sk 100 'dodge'
+Sk 75 'parry'
+Sk 75 'shield block'
+Sk 1 'rescue'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 67 'third attack'
+Sk 1 'fourth attack'
+Sk 85 'fast healing'
+Sk 76 'haggle'
+Sk 75 'hide'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 75 'sneak'
+Sk 75 'steal'
+Sk 75 'recall'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'warrior basics'
+Gr 'identify spell'
+Affc 'frenzy'   0  52   5   9  18          0
+Affc 'frenzy'   0  56   5   9  19          0
+Affc 'frenzy'   0  53   5  40  17          0
+End
+
+#O
+Vnum 15704
+Nest 0
+Cond 0
+Wear 5
+Cost -900
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 18611
+Nest 0
+Cond 0
+Wear 12
+Cost 366
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 1395
+Nest 0
+Cond 0
+Wear 4
+Cost 1970
+End
+
+#O
+Vnum 1395
+Nest 0
+Cond 0
+Wear 3
+Cost 1970
+End
+
+#O
+Vnum 21267
+Nest 0
+Cond 0
+Wear 7
+Cost 700
+End
+
+#O
+Vnum 21265
+Nest 0
+Cond 0
+Wear 10
+Cost 500
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  25
+Cost 1630
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'reserved'   1  24  -1  -1   1          0
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  25
+Cost 1630
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  24  -1   2  19          0
+Affc 'reserved'   1  24  -1  -1   1          0
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 0
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 2
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 1
+Cost 2000
+End
+
+#O
+Vnum 9205
+Nest 0
+Cond 0
+Wear 8
+Cost 5200
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 760
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 950
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 830
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 635
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 935
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 835
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 855
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 935
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 795
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 875
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 815
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 825
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 765
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 955
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 2588
+Nest 0
+Cond 0
+Wear -1
+Cost 785
+Spell 1 'sanctuary'
+Spell 2 'haste'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear -1
+Cost 18600
+End
+
+#END

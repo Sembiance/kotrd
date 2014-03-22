@@ -1,0 +1,636 @@
+#PLAYER
+Name Zatorn~
+Id   1105793718
+LogO 1106423527
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 13
+OldLvl 13
+Sec  0
+Plyd 19250
+Scro 33
+Room 3001
+HMV  223 223 127 127 93 172
+Gold 58
+Silv 5814
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 13
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  13817
+PAct  EQTd
+AfBy TVe
+WName Zatorn~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Save  -62
+Alig  1000
+Hit   227
+Dam   101
+ACs -228 -231 -233 -198
+Attr 21 16 15 18 16
+AMod 5 1 1 5 1
+Pass ZaDkFQhEcR.jo~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 4
+HMVP 223 127 172
+Cnd  0 0 3 7
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 10 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 71 'enhanced damage'
+Sk 1 'parry'
+Sk 75 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'giant strength'   0 498 475   4   1          0
+Affc 'fly'   0 492 478   0   0     524288
+Affc 'stone skin'   0 491 475 -40  17          0
+Affc 'combat mind'   0 493 141 100  19          0
+Affc 'combat mind'   0 496 141 -255  17          0
+Affc 'combat mind'   0 496 141 100  18          0
+Affc 'bless'   0 495 225 -62  20          0
+Affc 'bless'   0 496 225 125  18          0
+Affc 'haste'   0 493 100   4   2    2097152
+Affc 'golden aura'   0 497  86   0   0 1073741824
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 184 0 0 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 0
+Wear -1
+Cost 75
+Val  0 0 248 0 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear 0
+Cost 30
+End
+
+#O
+Vnum 3291
+Nest 0
+Cond 0
+Wear -1
+Time 745
+Cost 250
+Spell 1 'fly'
+End
+
+#O
+Vnum 5681
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+Val  100 52 0 0 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  200 184 0 0 0
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 1514
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8804
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 8804
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear 1
+Cost 200
+End
+
+#O
+Vnum 18603
+Nest 0
+Cond 0
+Wear 6
+Cost 220
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1103
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1604
+Nest 0
+Cond 0
+Wear -1
+Cost 910
+End
+
+#O
+Vnum 1604
+Nest 0
+Cond 0
+Wear -1
+Cost 910
+End
+
+#O
+Vnum 1621
+Nest 0
+Cond 0
+Wear -1
+Time 561
+Cost 320
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 1606
+Nest 0
+Cond 0
+Wear -1
+Cost 1550
+End
+
+#O
+Vnum 1606
+Nest 0
+Cond 0
+Wear -1
+Cost 1550
+End
+
+#O
+Vnum 1604
+Nest 0
+Cond 0
+Wear 16
+Cost 910
+End
+
+#O
+Vnum 1605
+Nest 0
+Cond 0
+Wear -1
+Cost 1510
+End
+
+#O
+Vnum 1616
+Nest 0
+Cond 0
+Wear 3
+Cost 100
+End
+
+#O
+Vnum 1615
+Nest 0
+Cond 0
+Wear 14
+Cost 1540
+End
+
+#O
+Vnum 1621
+Nest 0
+Cond 0
+Wear 17
+Time 767
+Cost 320
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 1901
+Nest 0
+Cond 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1914
+Nest 0
+Cond 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1904
+Nest 0
+Cond 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 9218
+Nest 0
+Cond 0
+Wear -1
+Cost 12600
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 9217
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 3 'earthquake'
+End
+
+#END

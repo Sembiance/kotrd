@@ -1,0 +1,191 @@
+#PLAYER
+Name Entropy~
+Id   1089514420
+LogO 1173573139
+Vers 5
+Prom %h-%Hhp %m-%Mm %v-%Vmv %Xtnl %e %ss %gg %K ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 7
+OldLvl 7
+Sec  0
+Plyd 5167
+Scro 33
+Room 3001
+HMV  158 158 116 116 136 136
+Gold 24
+Silv 322
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 7
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  7390
+PAct  CDEFGHQTd
+WName Entropy~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 2
+Save  -31
+Alig  -1000
+Hit   63
+ACs 64 62 62 80
+Wimp  28
+Attr 19 16 16 13 14
+AMod 0 0 0 0 0
+Pass EnhBh94a12qaU~
+Titl  {x~
+Pnts 41
+TSex 1
+PSize 2
+LLev 1
+HMVP 158 116 136
+Cnd  0 0 0 0
+Alias / recall~
+Boards       4 General 1173060044 Ideas 1126580477 Announce 0 Personal 0 
+Sk 1 'sword'
+Sk 75 'dagger'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 18 'kick'
+Sk 49 'dodge'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'bless'   0 240  62 -31  20          0
+Affc 'bless'   0 237  62  62  18          0
+Affc 'armor'   0 241  42 -20  17          0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#END

@@ -1,0 +1,774 @@
+#PLAYER
+Name Tholonious~
+Id   1095116738
+LogO 1116836761
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Giant~
+Sex  0
+Cla  6
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 81
+OldLvl 81
+Sec  0
+Plyd 213674
+Scro 33
+Room 3054
+HMV  3628 3628 1034 1034 1235 1235
+Gold 1479
+Silv 34967
+Gold_bank 12254
+Silv_bank 235090
+Shares 0
+Share_level 81
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  81031
+QuestPnts 254
+PAct  CDEFHQRTd
+AfBy JV
+WName Tholonious~
+Comm BNO
+RaceChan 0
+Deaf CD
+Pos  4
+Prac 13
+Trai 11
+Alig  1000
+Hit   119
+Dam   114
+ACs -297 -293 -293 -281
+Wimp  500
+Attr 22 15 15 17 22
+AMod 15 4 4 10 9
+Pass ThXoJK4QlE8OY~
+Titl  over the hill and dreaming~
+Pnts 40
+TSex 1
+PSize 4
+LLev 59
+HMVP 1357 284 580
+Cnd  0 0 0 0
+Ignore friar~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 100 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 75 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 98 'bash'
+Sk 92 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 100 'kick'
+Sk 96 'dodge'
+Sk 100 'parry'
+Sk 78 'shield block'
+Sk 1 'rescue'
+Sk 100 'second attack'
+Sk 97 'third attack'
+Sk 90 'fast healing'
+Sk 50 'recall'
+Sk 100 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Gr 'weaponsmaster'
+Affc 'haste'   0   9   1   1   2    2097152
+Affc 'stone skin'   0   5   0 -40  17          0
+Affc 'armor'   0  75  13 -20  17          0
+Affc 'change sex'   0  81  78  -1   6          0
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 23211
+Nest 0
+Cond 0
+Wear 12
+Cost 36000
+End
+
+#O
+Vnum 23215
+Nest 0
+Cond 0
+Wear 7
+Cost 60000
+End
+
+#O
+Vnum 25302
+Enchanted
+Nest 0
+ExtF 16793921
+Cond 0
+Wear 19
+Lev  52
+Cost 187500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  51  -1  15  19          0
+Affc 'reserved'   1  51  -1   6  18          0
+Affc 'reserved'   1  51  -1   4   1          0
+Affc 'reserved'   1  51  -1   2   2          0
+Affc 'reserved'   1  51  -1   2   4          0
+Affc 'reserved'   1  51  -1 200  12          0
+Affc 'reserved'   1  51  -1 200  13          0
+Affc 'reserved'   1  51  -1 500  14          0
+End
+
+#O
+Vnum 7303
+Nest 0
+Cond 0
+Wear 18
+Cost 18600
+End
+
+#O
+Vnum 23225
+Nest 0
+Cond 0
+Wear 6
+Cost 10000
+End
+
+#O
+Vnum 10618
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11894
+Nest 0
+Cond 0
+Wear 10
+Cost 7500
+End
+
+#O
+Vnum 11895
+Nest 0
+Cond 0
+Wear 13
+Cost 7500
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 19821
+Nest 0
+Cond 0
+Wear -1
+Cost 560
+End
+
+#O
+Vnum 19821
+Nest 0
+Cond 0
+Wear -1
+Cost 560
+End
+
+#O
+Vnum 2418
+Nest 0
+Cond 0
+Wear 0
+Cost 2300
+Val  0 0 25 0 0
+End
+
+#O
+Vnum 19821
+Nest 0
+Cond 0
+Wear -1
+Cost 560
+End
+
+#O
+Vnum 19821
+Nest 0
+Cond 0
+Wear -1
+Cost 560
+End
+
+#O
+Vnum 19821
+Nest 0
+Cond 0
+Wear -1
+Cost 560
+Val  100 88 10 0 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 19807
+Nest 0
+Cond 0
+Wear 3
+Cost 27250
+End
+
+#O
+Vnum 19807
+Nest 0
+Cond 0
+Wear 4
+Cost 27250
+End
+
+#O
+Vnum 23207
+Nest 0
+Cond 0
+Wear 2
+Cost 14000
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'fly'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 2910
+Nest 1
+Cond 0
+Wear -1
+Time 404
+Cost 4580
+Spell 1 'armor'
+Spell 2 'bless'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 2910
+Nest 1
+Cond 0
+Wear -1
+Time 654
+Cost 4580
+Spell 1 'armor'
+Spell 2 'bless'
+Spell 3 'energy shield'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 11898
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+Spell 1 'haste'
+End
+
+#O
+Vnum 11898
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+Spell 1 'haste'
+End
+
+#O
+Vnum 11898
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+Spell 1 'haste'
+End
+
+#O
+Vnum 11898
+Nest 0
+Cond 0
+Wear -1
+Cost 55000
+Spell 1 'haste'
+End
+
+#O
+Vnum 23207
+Nest 0
+Cond 0
+Wear 1
+Cost 14000
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 11836
+Nest 0
+Cond 0
+Wear -1
+Cost 75000
+Spell 1 'sanctuary'
+Spell 2 'bless'
+End
+
+#O
+Vnum 11836
+Nest 0
+Cond 0
+Wear -1
+Cost 75000
+Spell 1 'sanctuary'
+Spell 2 'bless'
+End
+
+#O
+Vnum 11836
+Nest 0
+Cond 0
+Wear -1
+Cost 75000
+Spell 1 'sanctuary'
+Spell 2 'bless'
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11894
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11895
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11894
+Nest 0
+Cond 0
+Wear -1
+Cost 7500
+End
+
+#O
+Vnum 11875
+Nest 0
+Cond 0
+Wear -1
+Cost 17800
+End
+
+#O
+Vnum 11875
+Nest 0
+Cond 0
+Wear 16
+Cost 17800
+End
+
+#O
+Vnum 20400
+Nest 0
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#END

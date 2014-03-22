@@ -1,0 +1,5467 @@
+#AREADATA
+Name Victory Towers~
+Builders Ophelia~
+VNUMs 32051 32500
+Credits (null)~
+Security 1
+Flags B
+LEVELs 1 500
+End
+
+
+
+#MOBILES
+#32051
+Kandi~
+{CK{Ya{Cn{Yd{Ci{x {Wthe Sweet-Shop Girl{x~
+{CK{Ya{Cn{Yd{Ci{x {Wthe Sweet-Shop Girl smiles and asks how she can help you today.{x
+~
+{wAs she waits on you, she hums a bright little tune and a smile spreads
+across your face.  {x 
+~
+Human~
+ABV DF 1000 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 1000000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32052
+pharmacist walter~
+{WWalter the Pharmacist{x~
+{WA friendly-looking pharmacist is here to discuss your problem.{x
+~
+{wWalter is a kind-looking old man.  He looks like the kind of person you
+could trust with anything.  {x 
+~
+Human~
+ABV DF 1000 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 1000000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32053
+george barkeep bartender~
+{WGeorge, your favorite bartender{x~
+{WGeorge smiles as you enter and asks if he should pour your "usual".{x
+~
+{wThe sleeves of his white shirt are rolled up to his elbows, and he
+always entertains you with an amusing anecdtote.  {x 
+~
+Human~
+ABV DF 0 0
+0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32054
+zachary zack waiter~
+{WZachary the Waiter{x~
+{WZachary waits patiently while you decide what to order.{x
+~
+{wAlthough he looks young, Zachary is professional and efficient and
+there never seems to be a delay when you order your dinner from him. 
+Perhaps he'll give you a suggestion on today's special, if you are having
+trouble deciding what to eat.  {x 
+~
+Human~
+ABV DF 0 0
+0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32055
+jeweller Celine~
+{WCeline, the knowledgeable jeweller{x~
+{WAn elegant woman arranges a sparkling necklace in a velvet case while you browse.{x
+~
+~
+Human~
+ABV DF 0 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32056
+lisa flower lady owner~
+{WLisa, the owner of Victory Flowers{x~
+{WLisa stands behind the counter, arranging a beautiful bouquet.{x
+~
+{wLisa meets your gaze and smiles back at you.  Her hair is pulled up
+into a loose bun and she looks hard at work, but is always ready to assist
+you when you ask.  {x 
+~
+Human~
+ABV DF 0 0
+0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 100000000
+AHMV ABCDEFGHIJK medium unknown
+#32057
+banker mr. worthington~
+{WMr. Worthington, the trustee of the bank{x~
+{WA distinguished older gentleman stands here, ready to help with your finances.{x
+~
+{wMr.  Worthington Looks up from his large mahogany desk and nods a
+greeting to you.  His suit is well-cut and is classically styled.  He looks
+every inch the typical banker.  {x 
+~
+Human~
+ABDd DF 1000 0
+0
+101 300 100d100+2000 100d100+2000 100d100+2000 none
+10 10 10 10
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#32058
+housekeeper~
+{WA housekeeper{x~
+{WA housekeeper is here, vacuuming the floor.{x
+~
+~
+Human~
+AC 0 1000 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32059
+housekeeper~
+{WA housekeeper{x~
+{WA housekeeper is here, dusting.{x
+~
+~
+Human~
+AC 0 1000 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32060
+housekeeper~
+{WA housekeeper{x~
+{WA housekeeper is here, looking for something to polish.{x
+~
+~
+Human~
+AC 0 1000 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32061
+smoothie guy Jason~
+{WJason the Smoothie Guy{x~
+{WJason stands here, whipping up a smoothie.{x
+~
+{wBuff and muscular, Jason looks like he spends his days on the beach
+surfing, not under a tent making smoothies.  He seems REALLY into his job -
+way more into smoothies than a normal person ought to be.  But his smoothies
+sure are good.  You ought to try one.  
+~
+Human~
+ABGZ DF 1000 0
+0
+101 0 1d1+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 1000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#32062
+trainer personal~
+{WYour Personal Trainer{x~
+{WYour Personal Trainer helps you with your problem areas.{x
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+Human~
+ABJKRVb DEFJZ 0 0
+0
+36 0 1d1+1999 1d1+999 3d8+24 magic
+-15 -15 -15 -15
+FG ABCD BPQ Z
+stand stand female 0
+AHMV ABCDEFGHIJKMV medium unknown
+#32064
+chef grill~
+{WThe Grill Chef{x~
+{WA man in a white chef's toque stands by the grill.{x
+~
+~
+Human~
+ABVZ DF 0 0
+0
+101 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#32051
+card key first_floor~
+{CV{cictory{C T{cowers{x {wcard-key{x~
+{wThe badge of success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32052
+key card second_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32053
+card key third_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32054
+card key fourth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32055
+card key fifth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32056
+card key sixth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+SELECT_A_MATERIAL key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32057
+card key seventh_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+1 0 0 P
+#32058
+card key eighth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32059
+card key ninth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32060
+card key tenth_floor~
+{WVictory Towers card-key{x~
+{WThe badge of Success is here...{x~
+GOLD key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32061
+card key apartment 101~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32062
+card key apartment 102~
+{CApartment card-key{x~
+{WA{C bluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32063
+card key apartment 103~
+{CApartment card-key{x~
+{WA{C bluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32064
+card key apartment 104~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32065
+card key apartment 105~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32066
+card key apartment 106~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32067
+card key apartment 107~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32068
+card key apartment 201~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32069
+card key apartment 202~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32070
+card key apartment 203~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32071
+card key apartment 204~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32072
+card key apartment 205~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32073
+card key apartment 206~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32074
+card key apartment 207~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32075
+card key apartment 301~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32076
+card key apartment 302~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32077
+card key apartment 303~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32078
+card key apartment 304~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32079
+card key apartment 305~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32080
+card key apartment 306~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32081
+card key apartment 307~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32082
+card key apartment 401~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32083
+card key apartment 402~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32084
+card key apartment 403~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32085
+card key apartment 404~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32086
+card key apartment 405~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32087
+card key apartment 406~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32088
+card key apartment 407~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32089
+card key apartment 501~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32090
+card key apartment 502~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32091
+card key apartment 503~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32092
+card key apartment 504~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32093
+card key apartment 505~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32094
+card key apartment 506~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32095
+card key apartment 507~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32096
+card key apartment 601~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32097
+card key apartment 602~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32098
+card key apartment 603~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32099
+card key apartment 604~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32100
+card key apartment 605~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32101
+card key apartment 606~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32102
+card key apartment 607~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32103
+card key apartment 701~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32104
+card key apartment 702~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32105
+card key apartment 703~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32106
+card key apartment 704~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32107
+card key apartment 705~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32108
+card key apartment 706~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32109
+card key apartment 707~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+1 0 0 P
+#32110
+card key apartment 801~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32111
+card key apartment 802~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32112
+card key apartment 803~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32113
+card key apartment 804~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32114
+card key apartment 805~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32115
+card key apartment 806~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32116
+card key apartment 807~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32117
+card key apartment 901~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32118
+card key apartment 902~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32119
+card key apartment 903~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32120
+card key apartment 904~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32121
+card key apartment 905~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32122
+card key apartment 906~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32123
+card key apartment 907~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32124
+card key apartment 1001~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32125
+card key apartment 1002~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32126
+card key apartment 1003~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32127
+card key apartment 1004~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32128
+card key apartment 1005~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32129
+card key apartment 1006~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32130
+card key apartment 1007~
+{CApartment card-key{x~
+{WA {Cbluish{W card is here.{x~
+SILVER key HOTb AOP
+0 0 0 0 0
+100 0 0 P
+#32131
+box gift fancy~
+{WA fancy {Cblue{W and {Ygold{W gift box{x~
+{WA fancy {Cblue{W and {Ygold{W gift box containing something delicious is waiting to be opened{x~
+SAPPHIRE container 0 AO
+50 AC 0 10 50
+1 1 1000 P
+#32132
+cheesecake~
+{MR{Wa{Ms{Wp{Mb{We{Mr{Wr{My {WM{Ma{Wr{Mb{Wl{Me {WC{Mh{We{Me{Ws{Me{Wc{Ma{Wk{Me{x~
+A creamy delicious {Mr{Wa{Ms{Wp{Mb{We{Mr{Wr{My {Wmarble cheesecake sits on the table.{x~
+ORGANIC food NS A
+BEF BCDE 0 0 0
+1 5 5000 P
+#32133
+marzipan fruit~
+{RM{Ya{Gr{Mz{Ci{Rp{Ya{Gn {MF{Cr{Ru{Yi{Gt{Ms{x~
+{WBeautiful {RM{Ya{Gr{Mz{Ci{Rp{Ya{Gn {MF{Cr{Ru{Yi{Gt{Ms{W almost look too good to eat.~
+ORGANIC food AN A
+ABCD AC 0 0 0
+1 0 2000 P
+#32134
+vanilla caramel~
+{WA pound of vanilla caramels{x~
+{WA big pile of vanilla caramels makes your mouth water.{x~
+ORGANIC food N A
+BD AC 0 0 0
+1 1 3000 P
+#32135
+chocolate pretzel~
+{WChocolate-dipped{x {yp{Dr{ye{Dt{yz{De{yl{Ds{x~
+{WYou suddenly have a craving for some chocolate-dipped{x {yp{Dr{ye{Dt{yz{De{yl{Ds{W!!{x~
+ORGANIC food N A
+ABCD BD 0 0 0
+1 5 1500 P
+#32136
+prozac~
+{CProzac{x~
+{YThis pill will make you feel a lot better.{x~
+ORGANIC pill A A
+300 'heal' 'heal' 'sleep' 'reserved'
+100 1 6000 P
+#32137
+xanax~
+{YXanax{x~
+{WThis pill will change your mood{x~
+ORGANIC pill B A
+100 'sanctuary' 'reserved' 'reserved' 'reserved'
+100 1 9000 P
+#32138
+penicillin~
+{MPenicillin{x~
+{WThis pill will cure what ails you.{x~
+ORGANIC pill I A
+300 'cure disease' 'cure blindness' 'remove curse' 'cure serious'
+100 1 10000 P
+#32139
+cough syrup~
+{WA bottle of {Rcough syrup{x~
+{WA bottle of {Rcough syrup{W will probably make your throat feel a little better.{X~
+ORGANIC potion A A
+300 'frenzy' 'stone skin' 'armor' 'bless'
+100 5 12000 P
+#32140
+fountain~
+a fountain~
+{WA fountain inlaid with {Ygold{W and {Cgemstones{W gurgles here.{x~
+GOLD fountain O P
+1000 1000 'water' 0 0
+500 0 0 P
+#32141
+whiskey sour~
+{YW{yhiskey{Y S{your{x~
+{WThis drink looks sour and intoxicating.{x~
+SELECT_A_MATERIAL drink B A
+3 3 'whisky' 0 0
+1 0 1000 P
+#32142
+vodka collins~
+{GV{Wodka {YC{Wollins{x~
+{WWhat a refreshing-looking drink!{X~
+SELECT_A_MATERIAL drink A A
+3 3 'vodka' 0 0
+1 0 1000 P
+#32143
+rum coke~
+{WR{yu{Wm {Wand {yC{Wo{yk{We{x~
+{WThis drink makes you think back to the glory days of Havana.{x~
+SELECT_A_MATERIAL drink B A
+3 3 'rum' 0 0
+1 0 1000 P
+#32144
+menthe l'eau mint water~
+{gM{We{gnthe{W a {gl'{WE{gau{x~
+{WA cosmopolitain specialty from France is here.{x~
+SELECT_A_MATERIAL drink B A
+4 4 'schnapps' 0 0
+1 0 1000 P
+#32145
+wine bordeaux 68~
+{WA {R'{r6{R8 {rB{Ro{rr{Rd{re{Ra{ru{Rx{x~
+{WA costly bottle of wine is here.{x~
+SELECT_A_MATERIAL drink 0 A
+10 10 'red wine' 0 0
+1 1 5000 P
+#32146
+filet mignon steak~
+{yF{Yi{ylet M{Yi{ygnon{x~
+{WA plate of filet mignon is here.{x~
+SELECT_A_MATERIAL food 0 A
+ABCD ABCD 0 0 0
+1 0 3000 P
+#32147
+soup potato vichysoise~
+{WVichys{yo{Wise{x~
+{WThis looks too fancy to only be cold potato soup!{x~
+SELECT_A_MATERIAL food 0 A
+AC AC 0 0 0
+1 1 2000 P
+#32148
+roasted brie cheese~
+{yRoasted Br{Wi{ye{x~
+{WA creamy-looking round of roasted brie sits here, giving off a pungent scent.{x~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+1 1 1000 P
+#32149
+caesar salad~
+{GC{ga{Ge{gs{Ga{gr {GS{ga{Gl{ga{Gd{x~
+{WA huge bowl containing a delicious-looking salad is here.{x~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+1 3 2000 P
+#32150
+bananas foster~
+{YB{Wa{Yn{Ya{Yn{Wa{Ys {YF{Yo{Ws{Yt{Ye{Yr{x~
+(no description)~
+SELECT_A_MATERIAL food 0 A
+BD BD 0 0 0
+1 0 1500 P
+#32151
+watch rolex gold~
+{YG{yo{Yld R{yo{Ylex Watch{x~
+{WA {YG{yo{Yld R{yo{Ylex Watch{W glitters in the sunlight{x~
+GOLD jewelry A AM
+0 0 0 0 0
+50 5 1000000 P
+#32152
+diamond ring~
+{DA huge {Wd{Ci{Wamond r{Ci{Wng{x~
+{WYou have never seen such a beautiful ring in your life!{X~
+DIAMOND jewelry A AB
+0 0 0 0 0
+50 2 900000 P
+#32153
+sapphire pendant necklace~
+{DA glittering {BS{ba{Bp{bp{Bh{bi{Br{be {BP{be{Bn{bd{Ba{bn{Bt{x~
+{WThis glittering {BS{ba{Bp{bp{Bh{bi{Br{be {BP{be{Bn{bd{Ba{bn{Bt{W takes your breath away{x~
+SAPPHIRE jewelry A AC
+0 0 0 0 0
+50 10 5000000 P
+#32154
+scarf silk painted~
+{WA {Ch{ca{Cnd {w-{C p{ca{Cinted sc{ca{Crf{x~
+{WThis silk scarf would look lovely with your finest robes.{x~
+SILK treasure G AD
+0 0 0 0 0
+50 1 60000 P
+#32155
+sweetheart rose flower~
+{RSw{Mee{Rth{Me{Rart Ros{Me{Rs{x~
+{WSome beautiful roses release their lovely scent into the air.{x~
+ORGANIC treasure 0 AO
+0 0 0 0 0
+1 5 1500 P
+#32156
+violets african~
+{MAfr{bi{Mcan V{bi{Molets{x~
+{WA dainty pot of african violets decorates the room.{x~
+ORGANIC treasure 0 AO
+0 0 0 0 0
+1 10 1000 P
+#32157
+tulip white~
+{WPure Wh{wi{Wte Tul{wi{Wps{x~
+{WElegant long-stemmed tulips grace a table nearby.{x~
+ORGANIC treasure 0 AO
+0 0 0 0 0
+1 5 2000 P
+#32158
+happy birthday balloon~
+{WA {RH{Ya{Gp{Cp{By{M-{RB{Yi{Gr{Ct{Bh{Md{Ra{Yy {GB{Ca{Bl{Ml{Ro{Yo{Gn{x~
+{WA {Rc{Yo{Gl{Co{Br{Mf{Ru{Yl{W balloon dances in the breeze.{x~
+SILVER treasure 0 AO
+0 0 0 0 0
+1 1 500 P
+#32163
+banana smoothie~
+{Wa {Yb{Wa{Yn{Wa{Yn{Wa {Ys{Wm{Yo{Wo{Yt{Wh{Yi{We{x~
+{WA refreshing {Yb{Wa{Yn{Wa{Yn{Wa {Ys{Wm{Yo{Wo{Yt{Wh{Yi{We is in this glass.{x~
+ORGANIC drink A AO
+5 5 'lemonade' 0 0
+1 3 500 P
+#32164
+strawberry smoothie~
+{Wa {Rs{rt{Rr{ra{Rw{rb{Re{rr{Rr{ry {Rs{rm{Ro{ro{Rt{rh{Ri{re{x~
+{WA {Rs{rt{Rr{ra{Rw{rb{Re{rr{Rr{ry {Rs{rm{Ro{ro{Rt{rh{Ri{re{W is in this glass.{x~
+ORGANIC drink A AO
+5 5 'lemonade' 0 0
+1 3 500 P
+#32165
+kiwi smoothie~
+{Wa {Gk{Yi{Gw{Yi {Gs{Ym{Go{Yo{Gt{Yh{Gi{Ye{x~
+{WA refreshing {Gk{Yi{Gw{Yi {Gs{Ym{Go{Yo{Gt{Yh{Gi{Ye{W is in this glass.{x~
+ORGANIC drink A AO
+5 5 'lemonade' 0 0
+1 3 500 P
+#32166
+coconut smoothie~
+{Wa {yc{Wo{yc{Wo{yn{Wu{yt {Ws{ym{Wo{yo{Wt{yh{Wi{ye{x~
+{WA refreshing {yc{Wo{yc{Wo{yn{Wu{yt {Ws{ym{Wo{yo{Wt{yh{Wi{ye{W is in this glass{x~
+ORGANIC drink A AO
+5 5 'lemonade' 0 0
+1 3 500 P
+#32167
+pool blue~
+{CT{Bh{Ce {BP{Co{Bo{Cl{x~
+{WA {Bc{Cr{By{Cs{Bt{Ca{Bl{C-{Bc{Cl{Be{Ca{Br {Ck{Bi{Cd{Bn{Ce{By {Cs{Bh{Ca{Bp{Ce{Bd {Cp{Bo{Co{Bl{x~
+ROCK_MARBLE furniture A 0
+BCDE GJOQRST CFIO CDFI CDFI
+0 0 0 P
+#32168
+hotdog~
+{Wa {Rh{Yo{Rt {Yd{Ro{Yg{x~
+{WA mouthwatering {Rh{Yo{Rt {Yd{Ro{Yg{W needs some {Ymustard{W!{x~
+ORGANIC food 0 AO
+CE BD 0 0 0
+1 0 500 P
+#32169
+hamburger~
+{Wa {rha{Rmb{yu{Rrg{rer{x~
+{WA juicy {rha{Rmb{yu{Rrg{rer{W looks almost too good to eat.{x~
+ORGANIC food 0 AO
+DF CE 0 0 0
+1 0 1000 P
+#32170
+shrimp kebob~
+{Wa {Rs{Whrimp {Rk{Webob{x~
+{WA {Rs{Whrimp{R k{Webob makes your tummy rumble with hunger.{x~
+ORGANIC food 0 AO
+CE BD 0 0 0
+1 0 1500 P
+#32171
+chicken sandwich~
+{Wa {ygr{Wi{ylled ch{Wi{ycken sandw{Wi{ych{x~
+{WA {ygr{Wi{ylled ch{Wi{ycken sandw{Wi{ych{W looks too good to just eat one!{x~
+ORGANIC food 0 AO
+BEF DF 0 0 0
+1 0 1000 P
+#32172
+table~
+{yA large teak table{x~
+{yA large teak table wiTh room for everyone sits under the canopy.{x~
+WOOD furniture 0 0
+BD GJOQRST BDGN BCEH BCEH
+0 0 0 P
+#32173
+chair lounge chaise white~
+{WA white Lounge Chair{x~
+{WA comfortable-looking white Lounge Chair{x~
+WOOD furniture 0 0
+A EIJKN EHK DGH DGH
+0 0 0 P
+#32174
+chair lounge chaise blue~
+{WA {Cblue {WLounge Chair{x~
+{WA comfortable-looking {Cblue {WLounge Chair{x~
+WOOD furniture 0 0
+A EIJKN EHK DGH DGH
+0 0 0 P
+#32175
+chair lounge chaise gold~
+{WA {Ygold {WLounge Chair{x~
+{WA comfortable-looking {Ygold {WLounge Chair{x~
+WOOD furniture 0 0
+A EIJKN EHK DGH DGH
+0 0 0 P
+#32180
+mirror~
+{WA shiny round mirror{x~
+{WGazing into a mirror like this makes you look much more beautiful than you are.{x~
+SELECT_A_MATERIAL portal A AO
+0 0 0 32261 0
+499 0 0 P
+#32182
+penthouse two portal key~
+{WA Penthouse Key{x~
+{WA shimmering object sparkles with power{x~
+SELECT_A_MATERIAL portal A AO
+0 0 0 32247 0
+110 0 0 P
+#32301
+toady bed~
+{GToady's big bed{x~
+{GA big bed with plenty of pillows is here{x~
+SILK furniture 0 0
+B DHIJM EHL 0 0
+1 0 0 P
+#32302
+toady couch~
+{GT{gOAD{GY{g'S Big Couch{x~
+{gA long corner couch that wraps around the room{x~
+LEATHER furniture 0 0
+BD EIJKN EHK 0 0
+0 0 0 P
+#32303
+whirl pool toady~
+{gTHE WHIRL POOL{X~
+{gA Whirl pool is set to high with plenty of jets of hot water and bubbles{x~
+ROCK_MARBLE furniture 0 0
+BD FJKLO CFI 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#32051
+{WLobby of Victory Towers{x~
+{wAhh...  How civilized!  Here at Victory Towers, there is no need to
+share floor space with your fellow adventurers.  In this spacious atrium, a
+{Ygolden{w chandelier hangs from a high ceiling, and polished marble floors
+seem to go on for miles.  Tall windows let in the sunlight, and all around
+the room in tasteful clusters are comfortable chairs and sofas.  Ahead to
+the north is the private elevator that will whisk you to your apartment
+smoothly and soundlessly.  
+~
+0 1032 1
+D0
+~
+~
+0 0 32052
+D1
+~
+~
+0 0 32054
+D2
+~
+~
+1 0 3083
+D3
+~
+~
+0 0 32056
+C 0
+S
+#32052
+{WIn Front of the Elevator{x~
+{wShiny {ybrass {wdoors stand closed in front of you, and your weary
+reflection makes you realize you have not rested in days.  You long to rest
+in your own space, and slip out of your bloody travelling clothes.  {x 
+~
+0 9224 1
+D0
+~
+~
+3 0 32053
+D1
+~
+~
+0 0 32069
+D2
+~
+~
+0 0 32051
+D3
+~
+~
+3 0 32275
+C 0
+S
+#32053
+{WIn the Elevator{x~
+{wSoothing music greets you into this, most plush of elevators.  The
+walls are covered in a rich wood veneer and the floor has a tasteful (and
+probably very expensive) wool oriental rug on it.  You hope you don't stain
+it with the dirt and blood that clings to your boots.  
+~
+0 9224 1
+D2
+~
+~
+3 0 32052
+D4
+~
+~
+0 0 32057
+C 0
+S
+#32054
+{WVictory Galleria{x~
+{wA wide quiet hallway stretches to the east.  In front of you is the
+entrance to a darkened, private bar for use by only adventurers of your
+station.  To the south is a reliable-looking bank.  Further down the
+hallway, you hear the gentle tinkling of silverware, and you remember how
+hungry you are after days of adventuring.  {x 
+~
+0 9224 1
+D0
+~
+~
+3 0 32072
+D1
+~
+~
+0 0 32055
+D2
+~
+~
+3 0 32215
+D3
+~
+~
+0 0 32051
+C 0
+S
+#32055
+{WVictory Galleria{x~
+{wYou have reached the end of this peaceful hallway.  To your north is a
+restaurant that only a rich adventurer can afford.  To the east, glass doors
+open up to a private balconly from which you can survey the entire realm,
+{wand to the south, the scent of freshly-cut flowers tickles your nose.  {x 
+~
+0 9224 1
+D0
+~
+~
+3 0 32071
+D1
+~
+~
+3 0 32076
+D2
+~
+~
+0 0 32218
+D3
+~
+~
+0 0 32054
+C 0
+S
+#32056
+{WVictory Galleria{x~
+{wA wide quiet hallway stretches to the west.  Before you are the doors
+to a pharmacy, catering to the Heroes of the realm.  To the west, the
+hallway stretches onward, {wand to the south, the sounds of grunting and
+straining can be heard.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32073
+D1
+~
+~
+0 0 32051
+D2
+~
+~
+3 0 32217
+D3
+~
+~
+0 0 32070
+C 0
+S
+#32057
+{WIn the Elevator, First Floor{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the First Floor.  {x 
+{wA small {ybrass{w sign catches your notice.{x
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   {y*{x
+{y*********************{x
+~
+D2
+~
+~
+4 32051 32058
+D4
+~
+~
+0 0 32061
+D5
+~
+~
+0 0 32053
+C 0
+S
+#32058
+{WFirst Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 101, and to your East is Apartment 102.  
+~
+0 9224 1
+D0
+~
+~
+4 32051 32057
+D1
+~
+~
+4 32062 32106
+D2
+~
+~
+0 0 32059
+D3
+~
+~
+4 32061 32105
+C 0
+S
+#32059
+{WFirst Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 103 and to your East is Apartment 104.  
+~
+0 9224 1
+D0
+~
+~
+0 0 32058
+D1
+~
+~
+4 32064 32110
+D2
+~
+~
+0 0 32060
+D3
+~
+~
+4 32063 32109
+C 0
+S
+#32060
+{WFirst Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 105, to your East is Apartment 106, and to your South is Apartment
+107.  
+~
+0 9224 1
+D0
+~
+~
+0 0 32059
+D1
+~
+~
+4 32066 32112
+D2
+~
+~
+4 32067 32113
+D3
+~
+~
+4 32065 32111
+C 0
+S
+#32061
+{WIn the Elevator, Second Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Second Floor.  {x
+{wA small {ybrass{w sign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32052 32062
+D4
+~
+~
+0 0 32065
+D5
+~
+~
+0 0 32057
+C 0
+S
+#32062
+{WSecond Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 201 and to your East is Apartment 202.  {x 
+~
+0 74760 1
+D0
+~
+~
+4 32052 32061
+D1
+~
+~
+4 32069 32118
+D2
+~
+~
+0 0 32063
+D3
+~
+~
+4 32068 32116
+C 0
+S
+#32063
+{WSecond Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 203 and to your East is Apartment 204.  {x 
+~
+0 74760 1
+D0
+~
+~
+0 0 32062
+D1
+~
+~
+4 32071 32121
+D2
+~
+~
+0 0 32064
+D3
+~
+~
+4 32070 32120
+C 0
+S
+#32064
+{WSecond Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 205, to your East is Apartment 206, and to your South is Apartment
+207.  {x 
+~
+0 74760 1
+D0
+~
+~
+0 0 32063
+D1
+~
+~
+4 32073 32123
+D2
+~
+~
+4 32074 32124
+D3
+~
+~
+4 32072 32122
+C 0
+S
+#32065
+{WIn the Elevator, Third Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Third Floor.  
+{wA small {ybrass{w sign catches your notice.{x
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32053 32066
+D4
+~
+~
+0 0 32077
+D5
+~
+~
+0 0 32061
+C 0
+S
+#32066
+{WThird Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 301 and to your East is Apartment 302.  {x 
+~
+0 74760 1
+D0
+~
+~
+4 32053 32065
+D1
+~
+~
+4 32076 32128
+D2
+~
+~
+0 0 32067
+D3
+~
+~
+4 32075 32127
+C 0
+S
+#32067
+{WThird Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 303 and to your East is Apartment 304.  
+~
+0 74760 1
+D0
+~
+~
+0 0 32066
+D1
+~
+~
+4 32078 32132
+D2
+~
+~
+0 0 32068
+D3
+~
+~
+4 32077 32131
+C 0
+S
+#32068
+{WThird Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 305, to your East is Apartment 306, and to your South is Apartment
+307.  {x 
+~
+0 74760 1
+D0
+~
+~
+0 0 32067
+D1
+~
+~
+4 32080 32134
+D2
+~
+~
+4 32081 32135
+D3
+~
+~
+4 32079 32133
+C 0
+S
+#32069
+{WVictory Towers Leasing Office{x~
+{wHere in the Victory Towers Leasing Office, you may learn what is needed
+to own your own piece of Victory.  To start, type "look lease."  {wTo learn
+about the special security features for our residents, type "look security."
+~
+0 9224 1
+E
+security~
+{YSecurity at Victory Towers{x {wThe good life never stays good for long
+if ruffians are about.  That's why Victory Towers residents are offered the
+amenity of {RSECURITY{w against these petty annoyances.  When you purchase
+your dwelling, you will be issued two {Ckey cards{w.  One is used to gain
+access to the floor of Victory Towers where you live, and the other is to
+enter the dwelling itself.  Please guard these cards with your life!  They
+only copies that exist will be the ones you need.  Barbarians will never
+storm through your doors un-announced - that is the Victory Towers promise! 
+{x {RTO MAINTAIN THE SECURITY OF ALL RESIDENTS:{w Card keys may not be sold
+over auction.  Doing so is a {RJAILABLE OFFENSE{x {wTo voluntarily transfer
+title of your dwelling to another adventurer, notice of the transfer must be
+made in writing to {CIMPLEMENTOR{x before transferring such title and
+exchanging card keys.  {x 
+~
+E
+living~
+{YFine living at Victory Towers starts here...{x
+{wTo customize your dwelling, you may choose to do the following things:
+{CAdd a unique description:{w There is no charge for this service. Please keep descriptions short (5 lines or less)
+{CAdd Furniture or other items:{w Limit one per room, no healing or other bonuses.  Costs for furniture/objects
+is as follows:
+ 
+{MFIRST ITEM:{w 10,000 {Ygold pieces{x
+{MSECOND ITEM:{w 15,000 {Ygold pieces{x
+{MTHIRD ITEM:{x 20,000 {Ygold pieces{x
+ 
+{wItems must be paid for in full before they are created.  Items must be unique to the realm.{x
+~
+E
+living~
+~
+E
+living~
+{YFine living at Victory Towers starts here...{x
+{wTo customize your dwelling, you may choose to do the following things:
+{CADD A DESCRIPTION:{w There is no charge for this service. Keep descriptions shorter than 5 lines please.
+{CADD FURNITURE:{w Limit one item of furniture per room. (Chair, table, sofa, bed..whatever you want.){x
+{wPrices for furniture are as follows:{X
+{CFirst item:{w 10,000 {Ygold{x
+{CSecond item:{w 15,000 {Ygold{x
+{CThird item:{w 20,000 {Ygold{x
+{wFurniture/objects can have no healing or other bonuses (there is already a bonus in each room.){x
+~
+E
+lease~
+{YWelcome to Victory Towers!{x
+{wVictory Towers is an exclusive residence for the most discriminating adventurers. Our application process
+is rigorous and thorough.  To qualify to purchase a fine living space here, the applicant must have attained
+the rank of {cREMORT HERO{w of the realm.  There are three types of units that can be purchased:
+{COne Room:{x {wCost is 50,000 {Ygold pieces{x
+{CTwo Rooms:{x {wCost is 100,000 {Ygold pieces{x
+{CThree Rooms:{x {wCost is 200,000 {Ygold pieces{x
+{wSpace is limited on larger units, so reserve them soon! For details about the fine living you can
+expect at {YVictory Towers{w, type {Blook Living{x
+~
+D3
+~
+~
+0 0 32052
+C 0
+S
+#32070
+{WVictory Galleria{x~
+{wYou have reached the end of this peaceful hallway.  {wTo the north is
+{wVictory Towers' famed sweets shop, and to the south, behind gilded doors,
+lies a lovely little boutique.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32074
+D1
+~
+~
+0 0 32056
+D2
+~
+~
+3 0 32216
+C 0
+S
+#32071
+{WVictory Cafe{x~
+{wYou almost never feel the need to cook for yourself, when such fine
+dining can be had here at the Victory Cafe.  Although it is somewhat small,
+you find it to be cozy, and the food here is the best you have ever tasted. 
+Who would have known you could get a five-course french meal so close to
+Midgaard?  {x 
+~
+0 9224 1
+D1
+~
+~
+3 0 32075
+D2
+~
+~
+3 0 32055
+C 0
+S
+#32072
+{WVictory Tavern{x~
+{wUnlike most taverns in the realm, this place is not crowded, noisy or
+dirty.  It is lit softly and feels private and inviting.  The bar is oaken
+and shiny, and behind it you see that George keeps it well-stocked with only
+the best spirits.  {x 
+~
+0 9224 1
+D2
+~
+~
+3 0 32054
+C 0
+S
+#32073
+{WVictory Towers Pharmacy{x~
+{wThe interior of this shop is cool and relaxing.  Along the walls,
+remedies of all kinds are stacked neatly on the shelves.  Just being here
+makes you feel a little better.  Victory Towers provides its residents with
+an expert pharmacist to assist with their health needs.  Perhaps you ought
+to see if he can help you.  
+~
+0 9224 1
+D2
+~
+~
+0 0 32056
+M 250 H 250
+C 0
+S
+#32074
+{WVictory Towers {YS{Cw{Ye{Ce{Yt{Cs {YS{Ch{Yo{Cp{x~
+{wAll over the realm, sweets from this shop are known and craved.  Made
+from the finest ingredients, the candies and cakes here are beyond
+comparison.  It is well known that a gift from this shop, wrapped specially
+in its signature {Cblue{w and {Ygold{w paper, is a symbol of status and
+good taste.  
+~
+0 9224 1
+D2
+~
+~
+0 0 32070
+C 0
+S
+#32075
+{WTerrace at Victory Towers{x~
+{wA gentle breeze blows through your hair as you survey the City of
+Midgaard.  It is too distant for the sounds of animals, traffic, adventuring
+and commerce to reach you, and you feel the weight of your duties slowly
+lifting from your shoulders.  On benches and at small circular tables, old
+veteran heroes tell colorful stories of days past.  The warm marble of the
+terrace reflects the sunlight, and you consider resting here a while.  {x 
+~
+0 1024 2
+D2
+~
+~
+0 0 32076
+D3
+~
+~
+3 0 32071
+C 0
+S
+#32076
+{WTerrace at Victory Towers{x~
+{wA gentle breeze blows through your hair as you survey the City of
+Midgaard.  It is too distant for the sounds of animals, traffic, adventuring
+and commerce to reach you, and you feel the weight of your duties slowly
+lifting from your shoulders.  On benches and at small circular tables, old
+veteran heroes tell colorful stories of days past.  The warm marble of the
+terrace reflects the sunlight, and you consider resting here a while.  
+~
+0 1024 2
+D0
+~
+~
+0 0 32075
+D2
+~
+~
+0 0 32219
+D3
+~
+~
+3 0 32055
+C 0
+S
+#32077
+{WIn the Elevator, Fourth Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Fourth Floor.  {wA
+small {ybrass{w sign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32054 32078
+D4
+~
+~
+0 0 32081
+D5
+~
+~
+0 0 32065
+C 0
+S
+#32078
+{WFourth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 401 and to your East is Apartment 402.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32054 32077
+D1
+~
+~
+4 32083 32140
+D2
+~
+~
+0 0 32079
+D3
+~
+~
+4 32082 32138
+C 0
+S
+#32079
+{WFourth Floor Hallway{x~
+{w The hallway is hushed and you can barely hear your own footfalls on
+the floor, because the carpet is so thick.  Wallpaper infused with golden
+and silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 403 and to your East is Apartment 404.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32078
+D1
+~
+~
+4 32085 32143
+D2
+~
+~
+0 0 32080
+D3
+~
+~
+4 32084 32142
+C 0
+S
+#32080
+{WFourth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 405, to your East is Apartment 406, and to your South is Apartment
+407.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32079
+D1
+~
+~
+4 32087 32145
+D2
+~
+~
+4 32088 32146
+D3
+~
+~
+4 32086 32144
+C 0
+S
+#32081
+{WIn the Elevator, Fifth Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Fifth Floor.  A
+small {ybrass{w sign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32055 32082
+D4
+~
+~
+0 0 32085
+D5
+~
+~
+0 0 32077
+C 0
+S
+#32082
+{WFifth Floor Hallway{x~
+{w The hallway is hushed and you can barely hear your own footfalls on
+the floor, because the carpet is so thick.  Wallpaper infused with golden
+and silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 501 and to your East is Apartment 502.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32055 32081
+D1
+~
+~
+4 32090 32151
+D2
+~
+~
+0 0 32083
+D3
+~
+~
+4 32089 32149
+C 0
+S
+#32083
+{WFifth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 503 and to your East is Apartment 504.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32082
+D1
+~
+~
+4 32092 32154
+D2
+~
+~
+0 0 32084
+D3
+~
+~
+4 32091 32153
+C 0
+S
+#32084
+{WFifth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 505, to your East is Apartment 506, and to your South is Apartment
+507.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32083
+D1
+~
+~
+4 32094 32156
+D2
+~
+~
+4 32095 32157
+D3
+~
+~
+4 32093 32155
+C 0
+S
+#32085
+{WIn the Elevator, Sixth Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Sixth Floor.  A
+small {ybrass{w sign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32056 32086
+D4
+~
+~
+0 0 32089
+D5
+~
+~
+0 0 32081
+C 0
+S
+#32086
+{WSixth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 601 and to your East is Apartment 602.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32056 32085
+D1
+~
+~
+4 32097 32162
+D2
+~
+~
+0 0 32087
+D3
+~
+~
+4 32096 32160
+C 0
+S
+#32087
+{WSixth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 603 and to your East is Apartment 604.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32086
+D1
+~
+~
+4 32099 32165
+D2
+~
+~
+0 0 32088
+D3
+~
+~
+4 32098 32164
+C 0
+S
+#32088
+{WSixth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 605, to your East is Apartment 606, and to your South is Apartment
+607.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32087
+D1
+~
+~
+4 32101 32167
+D2
+~
+~
+4 32102 32168
+D3
+~
+~
+4 32100 32166
+C 0
+S
+#32089
+{WIn the Elevator, Seventh Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Seventh Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32057 32090
+D4
+~
+~
+0 0 32093
+D5
+~
+~
+0 0 32085
+C 0
+S
+#32090
+{WSeventh Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 701 and to your East is Apartment 702.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32057 32089
+D1
+~
+~
+4 32104 32173
+D2
+~
+~
+0 0 32091
+D3
+~
+~
+4 32103 32171
+C 0
+S
+#32091
+{WSeventh Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 703 and to your East is Apartment 704.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32090
+D1
+~
+~
+4 32106 32176
+D2
+~
+~
+0 0 32092
+D3
+~
+~
+4 32105 32175
+C 0
+S
+#32092
+{WSeventh Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 705, to your East is Apartment 706 and to your South is Apartment
+707.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32091
+D1
+~
+~
+4 32108 32178
+D2
+~
+~
+4 32109 32179
+D3
+~
+~
+4 32107 32177
+C 0
+S
+#32093
+{WIn the Elevator, Eighth Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Eighth Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32058 32094
+D4
+~
+~
+0 0 32097
+D5
+~
+~
+0 0 32089
+C 0
+S
+#32094
+{WEighth Floor Hallway{x~
+{w The hallway is hushed and you can barely hear your own footfalls on
+the floor, because the carpet is so thick.  Wallpaper infused with golden
+and silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 801 and to your East is Apartment 802.  {x 
+~
+0 0 0
+D0
+~
+~
+4 32058 32093
+D1
+~
+~
+4 32111 32184
+D2
+~
+~
+0 0 32095
+D3
+~
+~
+4 32110 32182
+C 0
+S
+#32095
+{WEighth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 803 and to your East is Apartment 804.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32094
+D1
+~
+~
+4 32113 32187
+D2
+~
+~
+0 0 32096
+D3
+~
+~
+4 32112 32186
+C 0
+S
+#32096
+{WEighth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+{wApartment 805, to your East is Apartment 806, and to your South is
+Apartment 807.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32095
+D1
+~
+~
+4 32115 32189
+D2
+~
+~
+4 32116 32190
+D3
+~
+~
+4 32114 32188
+C 0
+S
+#32097
+{WIn the Elevator, Ninth Floor{x~
+{wYou listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Ninth Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32059 32098
+D4
+~
+~
+0 0 32101
+D5
+~
+~
+0 0 32093
+C 0
+S
+#32098
+{WNinth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 901 and to your East is Apartment 902.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32059 32097
+D1
+~
+~
+4 32118 32195
+D2
+~
+~
+0 0 32099
+D3
+~
+~
+4 32117 32193
+C 0
+S
+#32099
+{WNinth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 903 and to your East is Apartment 904.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32098
+D1
+~
+~
+4 32120 32198
+D2
+~
+~
+0 0 32100
+D3
+~
+~
+4 32119 32197
+C 0
+S
+#32100
+{WNinth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 905, to your East is Apartment 906, and to your South is Apartment
+907.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32099
+D1
+~
+~
+4 32122 32200
+D2
+~
+~
+4 32123 32201
+D3
+~
+~
+4 32121 32199
+C 0
+S
+#32101
+{WIn the Elevator, Tenth Floor{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Tenth Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 32060 32102
+D4
+~
+~
+0 0 32220
+D5
+~
+~
+0 0 32097
+C 0
+S
+#32102
+{WTenth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 1001 and to your East is Apartment 1002.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32060 32101
+D1
+~
+~
+4 32125 32206
+D2
+~
+~
+0 0 32103
+D3
+~
+~
+4 32124 32204
+C 0
+S
+#32103
+{WTenth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 1003 and to your East is Apartment 1004.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32102
+D1
+~
+~
+4 32127 32209
+D2
+~
+~
+0 0 32104
+D3
+~
+~
+4 32126 32208
+C 0
+S
+#32104
+{WTenth Floor Hallway{x~
+{wThe hallway is hushed and you can barely hear your own footfalls on the
+floor, because the carpet is so thick.  Wallpaper infused with golden and
+silver threads gives the hallway a soft elegant glow.  To your West is
+Apartment 1005, to your East is Apartment 1006, and to your South is
+Apartment 1007.  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32103
+D1
+~
+~
+4 32129 32211
+D2
+~
+~
+4 32130 32212
+D3
+~
+~
+4 32128 32210
+C 0
+S
+#32105
+{WApartment 101{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32107
+D1
+~
+~
+4 32061 32058
+M 200 H 200
+C 0
+S
+#32106
+{WApartment 102{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32108
+D3
+~
+~
+4 32062 32058
+M 200 H 200
+C 0
+S
+#32107
+{WApartment 101{x~
+~
+0 599048 1
+D2
+~
+~
+0 0 32105
+M 200 H 200
+C 0
+S
+#32108
+{WApartment 102{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32106
+M 200 H 200
+C 0
+S
+#32109
+{WApartment 103{x~
+~
+0 74760 1
+D1
+~
+~
+4 32063 32059
+M 200 H 200
+C 0
+S
+#32110
+{WApartment 104{x~
+~
+0 74760 1
+D3
+~
+~
+4 32064 32059
+M 200 H 200
+C 0
+S
+#32111
+{WApartment 105{x~
+~
+0 9224 1
+D1
+~
+~
+4 32065 32060
+M 200 H 200
+C 0
+S
+#32112
+{WApartment 106{x~
+~
+0 74760 1
+D3
+~
+~
+4 32066 32060
+M 200 H 200
+C 0
+S
+#32113
+{WApartment 107{x~
+~
+0 74760 1
+D0
+~
+~
+4 32067 32060
+D1
+~
+~
+0 0 32115
+D3
+~
+~
+0 0 32114
+M 200 H 200
+C 0
+S
+#32114
+{WApartment 107{x~
+~
+0 74760 1
+D1
+~
+~
+0 0 32113
+M 200 H 200
+C 0
+S
+#32115
+{WApartment 107{x~
+~
+0 74760 1
+D3
+~
+~
+0 0 32113
+M 200 H 200
+C 0
+S
+#32116
+{WApartment 201{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32117
+D1
+~
+~
+4 32068 32062
+M 200 H 200
+C 0
+S
+#32117
+{WApartment 201{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32116
+M 200 H 200
+C 0
+S
+#32118
+{WApartment 202{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32119
+D3
+~
+~
+4 32069 32062
+M 200 H 200
+C 0
+S
+#32119
+{WApartment 202{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32118
+M 200 H 200
+C 0
+S
+#32120
+{WApartment 203{x~
+~
+0 74760 1
+D1
+~
+~
+4 32070 32063
+M 200 H 200
+C 0
+S
+#32121
+{WApartment 204{x~
+~
+0 74760 1
+D3
+~
+~
+4 32071 32063
+M 200 H 200
+C 0
+S
+#32122
+{WApartment 205{x~
+~
+0 74760 1
+D1
+~
+~
+4 32072 32064
+M 200 H 200
+C 0
+S
+#32123
+{WApartment 206{x~
+~
+0 74760 1
+D3
+~
+~
+4 32073 32064
+M 200 H 200
+C 0
+S
+#32124
+{WApartment 207{x~
+~
+0 74760 1
+D0
+~
+~
+4 32074 32064
+D1
+~
+~
+0 0 32126
+D3
+~
+~
+0 0 32125
+M 200 H 200
+C 0
+S
+#32125
+{WApartment 207{x~
+~
+0 74760 1
+D1
+~
+~
+0 0 32124
+M 200 H 200
+C 0
+S
+#32126
+{WApartment 207{x~
+~
+0 74760 1
+D3
+~
+~
+0 0 32124
+M 200 H 200
+C 0
+S
+#32127
+{WApartment 301{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32129
+D1
+~
+~
+4 32075 32066
+M 200 H 200
+C 0
+S
+#32128
+{WApartment 302{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32130
+D3
+~
+~
+4 32076 32066
+M 200 H 200
+C 0
+S
+#32129
+{WApartment 301{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32127
+M 200 H 200
+C 0
+S
+#32130
+{WApartment 302{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32128
+M 200 H 200
+C 0
+S
+#32131
+{WApartment 303{x~
+~
+0 74760 1
+D1
+~
+~
+4 32077 32067
+M 200 H 200
+C 0
+S
+#32132
+{WApartment 304{x~
+~
+0 74760 1
+D3
+~
+~
+4 32078 32067
+M 200 H 200
+C 0
+S
+#32133
+{WApartment 305{x~
+~
+0 74760 1
+D1
+~
+~
+4 32079 32068
+M 200 H 200
+C 0
+S
+#32134
+{WApartment 306{x~
+~
+0 74760 1
+D3
+~
+~
+4 32080 32068
+M 200 H 200
+C 0
+S
+#32135
+{WApartment 307{x~
+~
+0 74760 1
+D0
+~
+~
+4 32081 32068
+D1
+~
+~
+0 0 32137
+D3
+~
+~
+0 0 32136
+M 200 H 200
+C 0
+S
+#32136
+{WApartment 307{x~
+~
+0 74760 1
+D1
+~
+~
+0 0 32135
+M 200 H 200
+C 0
+S
+#32137
+{WApartment 307{x~
+~
+0 74760 1
+D3
+~
+~
+0 0 32135
+M 200 H 200
+C 0
+S
+#32138
+{WApartment 401{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32139
+D1
+~
+~
+4 32082 32078
+M 200 H 200
+C 0
+S
+#32139
+{WApartment 401{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32138
+M 200 H 200
+C 0
+S
+#32140
+{WApartment 402{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32141
+D3
+~
+~
+4 32083 32078
+M 200 H 200
+C 0
+S
+#32141
+{WApartment 402{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32140
+M 200 H 200
+C 0
+S
+#32142
+{WApartment 403{x~
+~
+0 9224 1
+D1
+~
+~
+4 32084 32079
+M 200 H 200
+C 0
+S
+#32143
+{WApartment 404{x~
+~
+0 74760 1
+D3
+~
+~
+4 32085 32079
+M 200 H 200
+C 0
+S
+#32144
+{WApartment 405{x~
+~
+0 74760 1
+D1
+~
+~
+4 32086 32080
+M 200 H 200
+C 0
+S
+#32145
+{WApartment 406{x~
+~
+0 74760 1
+D3
+~
+~
+4 32087 32080
+M 200 H 200
+C 0
+S
+#32146
+{WApartment 407{x~
+~
+0 9224 1
+D0
+~
+~
+4 32088 32080
+D1
+~
+~
+0 0 32148
+D3
+~
+~
+0 0 32147
+M 200 H 200
+C 0
+S
+#32147
+{WApartment 407{x~
+~
+0 9224 1
+D1
+~
+~
+0 0 32146
+M 200 H 200
+C 0
+S
+#32148
+{WApartment 407{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32146
+M 200 H 200
+C 0
+S
+#32149
+{WApartment 501{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32150
+D1
+~
+~
+4 32089 32082
+M 200 H 200
+C 0
+S
+#32150
+{WApartment 501{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32149
+M 200 H 200
+C 0
+S
+#32151
+{WApartment 502{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32152
+D3
+~
+~
+4 32090 32082
+M 200 H 200
+C 0
+S
+#32152
+{WApartment 502{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32151
+M 200 H 200
+C 0
+S
+#32153
+{WApartment 503{x~
+~
+0 74760 1
+D1
+~
+~
+4 32091 32083
+M 200 H 200
+C 0
+S
+#32154
+{WApartment 504{x~
+~
+0 74760 1
+D3
+~
+~
+4 32092 32083
+M 200 H 200
+C 0
+S
+#32155
+{WApartment 505{x~
+~
+0 74760 1
+D1
+~
+~
+4 32093 32084
+M 200 H 200
+C 0
+S
+#32156
+{WApartment 506{x~
+~
+0 74760 1
+D3
+~
+~
+4 32094 32084
+M 200 H 200
+C 0
+S
+#32157
+{WApartment 507{x~
+~
+0 9224 1
+D0
+~
+~
+4 32095 32084
+D1
+~
+~
+0 0 32159
+D3
+~
+~
+0 0 32158
+M 200 H 200
+C 0
+S
+#32158
+{WApartment 507{x~
+~
+0 9224 1
+D1
+~
+~
+0 0 32157
+M 200 H 200
+C 0
+S
+#32159
+{WApartment 507{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32157
+M 200 H 200
+C 0
+S
+#32160
+{WApartment 601{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32161
+D1
+~
+~
+4 32096 32086
+M 200 H 200
+C 0
+S
+#32161
+{WApartment 601{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32160
+M 200 H 200
+C 0
+S
+#32162
+{WApartment 602{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32163
+D3
+~
+~
+4 32097 32086
+M 200 H 200
+C 0
+S
+#32163
+{WApartment 602{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32162
+M 200 H 200
+C 0
+S
+#32164
+{WApartment 603{x~
+~
+0 74760 1
+D1
+~
+~
+4 32098 32087
+M 200 H 200
+C 0
+S
+#32165
+{WApartment 604{x~
+~
+0 74760 1
+D3
+~
+~
+4 32099 32087
+M 200 H 200
+C 0
+S
+#32166
+{WApartment 605{x~
+~
+0 74760 1
+D1
+~
+~
+4 32100 32088
+M 200 H 200
+C 0
+S
+#32167
+{WApartment 606{x~
+~
+0 74760 1
+D3
+~
+~
+4 32101 32088
+M 200 H 200
+C 0
+S
+#32168
+{WApartment 607{x~
+~
+0 9224 1
+D0
+~
+~
+4 32102 32088
+D1
+~
+~
+0 0 32170
+D3
+~
+~
+0 0 32169
+M 200 H 200
+C 0
+S
+#32169
+{WApartment 607{x~
+~
+0 9224 1
+D1
+~
+~
+0 0 32168
+M 200 H 200
+C 0
+S
+#32170
+{WApartment 607{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32168
+M 200 H 200
+C 0
+S
+#32171
+{WApartment 701{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32172
+D1
+~
+~
+4 32103 32090
+M 200 H 200
+C 0
+S
+#32172
+{WApartment 701{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32171
+M 200 H 200
+C 0
+S
+#32173
+{WApartment 702{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32174
+D3
+~
+~
+4 32104 32090
+M 200 H 200
+C 0
+S
+#32174
+{WApartment 702{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32173
+M 200 H 200
+C 0
+S
+#32175
+{WApartment 703{x~
+~
+0 74760 1
+D1
+~
+~
+4 32105 32091
+M 200 H 200
+C 0
+S
+#32176
+{WApartment 704{x~
+~
+0 74760 1
+D3
+~
+~
+4 32106 32091
+M 200 H 200
+C 0
+S
+#32177
+{WApartment 705{x~
+~
+0 74760 1
+D1
+~
+~
+4 32107 32092
+M 200 H 200
+C 0
+S
+#32178
+{WApartment 706{x~
+~
+0 74760 1
+D3
+~
+~
+4 32108 32092
+M 200 H 200
+C 0
+S
+#32179
+{WApartment 707{x~
+~
+0 9224 1
+D0
+~
+~
+4 32109 32092
+D1
+~
+~
+0 0 32181
+D3
+~
+~
+0 0 32180
+M 200 H 200
+C 0
+S
+#32180
+{WApartment 707{x~
+~
+0 9224 1
+D1
+~
+~
+0 0 32179
+M 200 H 200
+C 0
+S
+#32181
+{WApartment 707{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32179
+M 200 H 200
+C 0
+S
+#32182
+{WApartment 801{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32183
+D1
+~
+~
+4 32110 32094
+M 200 H 200
+C 0
+S
+#32183
+{WApartment 801{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32182
+M 200 H 200
+C 0
+S
+#32184
+{WApartment 802{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32185
+D3
+~
+~
+4 32111 32094
+M 200 H 200
+C 0
+S
+#32185
+{WApartment 802{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32184
+M 200 H 200
+C 0
+S
+#32186
+{WApartment 803{x~
+~
+0 74760 1
+D1
+~
+~
+4 32112 32095
+M 200 H 200
+C 0
+S
+#32187
+{WApartment 804{x~
+~
+0 74760 1
+D3
+~
+~
+4 32113 32095
+M 200 H 200
+C 0
+S
+#32188
+{WApartment 805{x~
+~
+0 74760 1
+D1
+~
+~
+4 32114 32096
+M 200 H 200
+C 0
+S
+#32189
+{WApartment 806{x~
+~
+0 74760 1
+D3
+~
+~
+4 32115 32096
+M 200 H 200
+C 0
+S
+#32190
+{WApartment 807{x~
+{WYou have entered into the {bL{Da{wi{Wr {Wof {CO{bs{bi{cr{wi{Ws.  {WHis
+{Rapr{rt{Wm{ren{Rt {Wis clean and organized.  {WHis walls are covered with
+memories and pictures of freinds over the years of the {Bm{Wu{bd.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32116 32096
+D1
+~
+~
+0 0 32192
+D3
+~
+~
+0 0 32191
+M 200 H 200
+C 0
+S
+#32191
+{WApartment 807{x~
+{WYou have entered {CO{Bs{bi{cr{wi{Ws{r' {Ys{yl{Ye{ye{Yp{yi{Yn{yg
+{RQu{rar{Wt{rer{Rs!  {WThis is were he sleeps when he just fought
+{Mdr{mag{mon{Ms {Wand when he is tired.  {WHe sleeps on a {CS{co{wf{Wt
+{CC{wo{cm{Wf{Cy {cB{We{Cd.  {x 
+~
+0 9224 1
+D1
+~
+~
+0 0 32190
+M 200 H 200
+C 0
+S
+#32192
+{WApartment 807{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32190
+M 200 H 200
+C 0
+S
+#32193
+{WApartment 901{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32194
+D1
+~
+~
+4 32117 32098
+M 200 H 200
+C 0
+S
+#32194
+{WApartment 901{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32193
+M 200 H 200
+C 0
+S
+#32195
+{WApartment 902{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32196
+D3
+~
+~
+4 32118 32098
+M 200 H 200
+C 0
+S
+#32196
+{WApartment 902{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32195
+M 200 H 200
+C 0
+S
+#32197
+{WApartment 903{x~
+~
+0 74760 1
+D1
+~
+~
+4 32119 32099
+M 200 H 200
+C 0
+S
+#32198
+{WApartment 904{x~
+~
+0 74760 1
+D3
+~
+~
+4 32120 32099
+M 200 H 200
+C 0
+S
+#32199
+{WApartment 905{x~
+~
+0 74760 1
+D1
+~
+~
+4 32121 32100
+M 200 H 200
+C 0
+S
+#32200
+{WApartment 906{x~
+~
+0 74760 1
+D3
+~
+~
+4 32122 32100
+M 200 H 200
+C 0
+S
+#32201
+{GT{gOAD{GY{g'S Living Room{x~
+{gThis is the main room of the suite, and has a big-screen TV against the
+wall.  Off in the corner is a small mini-bar for all the "tasty" beverages. 
+In the center is a big corner couch with room enough for everyone.  {x 
+~
+0 9224 1
+D0
+~
+~
+4 32123 32100
+D1
+~
+~
+0 0 32203
+D3
+~
+~
+0 0 32202
+M 200 H 200
+C 0
+S
+#32202
+{GT{gOAD{GY{g's Bed Room{x~
+{gThis is the room where the great Toady lays his head at night.  Along
+the walls of the room are Trophy heads of dragons As it is {GT{gOAD{GY{g's
+room, all the wallpaper and carpet are green.  {x 
+~
+0 9224 1
+D1
+~
+~
+0 0 32201
+M 200 H 200
+C 0
+S
+#32203
+{GTHE CHAMPAGNE ROOM{x~
+{gTHERE IS NO SEX IN THE CHAMPAGNE ROOM!
+There is another mini-bar along the wall, but the main attaction of the room is the Whirlpool in the middle.{x
+~
+0 9224 1
+D3
+~
+~
+0 0 32201
+M 200 H 200
+C 0
+S
+#32204
+{WApartment 1001{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32205
+D1
+~
+~
+4 32124 32102
+M 200 H 200
+C 0
+S
+#32205
+{WApartment 1001{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32204
+M 200 H 200
+C 0
+S
+#32206
+{WApartment 1002{x~
+~
+0 74760 1
+D0
+~
+~
+0 0 32207
+D3
+~
+~
+4 32125 32102
+M 200 H 200
+C 0
+S
+#32207
+{WApartment 1002{x~
+~
+0 74760 1
+D2
+~
+~
+0 0 32206
+M 200 H 200
+C 0
+S
+#32208
+{WApartment 1003{x~
+~
+0 74760 1
+D1
+~
+~
+4 32126 32103
+M 200 H 200
+C 0
+S
+#32209
+{WApartment 1004{x~
+~
+0 74760 1
+D3
+~
+~
+4 32127 32103
+M 200 H 200
+C 0
+S
+#32210
+{WApartment 1005{x~
+~
+0 9224 1
+D1
+~
+~
+4 32128 32104
+M 200 H 200
+C 0
+S
+#32211
+{WApartment 1006{x~
+~
+0 9224 1
+D3
+~
+~
+4 32129 32104
+M 200 H 200
+C 0
+S
+#32212
+{WApartment 1007{x~
+~
+0 9224 1
+D0
+~
+~
+4 32130 32104
+D1
+~
+~
+0 0 32214
+D3
+~
+~
+0 0 32213
+M 200 H 200
+C 0
+S
+#32213
+{WApartment 1007{x~
+~
+0 9224 1
+D1
+~
+~
+0 0 32212
+M 200 H 200
+C 0
+S
+#32214
+{WApartment 1007{x~
+~
+0 9224 1
+D3
+~
+~
+0 0 32212
+M 200 H 200
+C 0
+S
+#32215
+{WVictory Towers Bank and Trust{x~
+~
+0 271368 1
+D0
+~
+~
+3 0 32054
+C 0
+S
+#32216
+{WVictory Towers Jewelery Boutique{x~
+{wResidents of Victory Towers enjoy the finer things in life, and while
+pilfering brings a certain amount of material wealth, there is nothing so
+special as a unique piece of jewelery to proclaim success in life.  Glass
+cases contain all manner of treasures neatly laid on deep blue velvet.  You
+might want to check your bank balance before you go any further!  {x 
+~
+0 9224 1
+E
+cases~
+{wA king's ransom in {Ygold{w, {Wdiamonds{w and other gems and finery
+fill the cases.  
+~
+D0
+~
+~
+3 0 32070
+C 0
+S
+#32217
+{WVictory Towers Spa and Fitness{x~
+{wLiving at Victory Towers does wonders for the spirit, but can be
+terrible for your figure, with all the rich food and creamy deserts
+available to you.  Because of this, the management provides all the
+residents with a complimentary Personal Trainer in this spa, who is
+available 24 hours a day, 7 days a week.  Look at the sign to see how you
+can start.  {x 
+~
+0 9224 1
+E
+sign~
+{y******************************{x
+{y*                            *{x
+{y*     {WPERSONAL TRAINING      {y*{x
+{y*                            *{x
+{y*      {wa complimentary       {y*{x
+{y*         {wservice of         {y*{x
+{y*      {YV{Cictory {YT{Cowers        {y*{x
+{y*                            *{x
+{y*        {cPlease type         {y*{x
+{y*   {C'TRAIN' {cor {C'PRACTICE'    {y*{x
+{y*         {cto see how         {y*{x
+{y*       {cI may help you       {y*{x
+{y*                            *{x
+{y******************************{x
+~
+D0
+~
+~
+3 0 32056
+C 0
+S
+#32218
+{WVictory Flowers{x~
+~
+0 9224 1
+D0
+~
+~
+0 0 32055
+D1
+~
+~
+3 0 32219
+C 0
+S
+#32219
+{WTerrace at Victory Towers{x~
+{wA gentle breeze blows through your hair as you survey the City of
+Midgaard.  It is too distant for the sounds of animals, traffic, adventuring
+and commerce to reach you, and you feel the weight of your duties slowly
+lifting from your shoulders.  On benches and at small circular tables, old
+veteran heroes tell colorful stories of days past.  The warm marble of the
+terrace reflects the sunlight, and you consider resting here a while.  
+~
+0 1024 2
+D0
+~
+~
+0 0 32076
+D3
+~
+~
+3 0 32218
+C 0
+S
+#32220
+{WIn the Elevator, Penthouse Floor 1{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Penthouse Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 0 32234
+D4
+~
+~
+0 0 32221
+D5
+~
+~
+0 0 32101
+C 0
+S
+#32221
+{WIn the Elevator, Penthouse Floor 2{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Penthouse Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 0 32247
+D4
+~
+~
+0 0 32222
+D5
+~
+~
+0 0 32220
+C 0
+S
+#32222
+{WIn the Elevator, Penthouse Floor 3{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Penthouse Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D4
+~
+~
+0 0 32223
+D5
+~
+~
+0 0 32221
+C 0
+S
+#32223
+{WIn the Elevator, Penthouse Floor 4{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Penthouse Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D4
+~
+~
+0 0 32224
+D5
+~
+~
+0 0 32222
+C 0
+S
+#32224
+{WIn the Elevator, Penthouse Floor 5{x~
+{w You listen to the soothing music in the elevator - it almost lulls you
+to sleep.  The elevator smoothly glides to a stop at the Penthouse Floor.  A
+small {ybrass {wsign catches your notice.  {x 
+~
+0 9224 1
+E
+brass~
+{y*********************{x
+{y*                   *{x
+{y*{Y RESIDENTS:        {y*{x
+{y*{W For your safety,  {y*{x
+{y*{W please close and  {y*{x
+{y*{W lock all doors    {y*{x
+{y*{W behind you.       {y*{x
+{y*{W Thank You,        {y*{x
+{y*{R     -Security     {y*{x
+{y*                   *{x
+{y*********************{x
+~
+D2
+~
+~
+4 0 32261
+D4
+~
+~
+0 0 32225
+D5
+~
+~
+0 0 32223
+C 0
+S
+#32225
+{WIn the Elevator, Roof of Victory Towers{x~
+~
+0 9224 1
+D2
+~
+~
+3 0 32226
+D5
+~
+~
+0 0 32224
+C 0
+S
+#32226
+{WVictory Towers Rooftop Pool{x~
+{wYou now stand on the center of the roof of Victory Towers, but this is
+no ordinary roof.  In fact, except for the incredible view, this is more
+like a tropical garden than a mere roof.  Huge coconut palms sway in the
+breeze and delicately-scented flowers perfume the air.  In the midst of this
+thick foliage is the most inviting pool you've ever seen.  To you it looks
+like the fountain of youth, so blue and clear.  
+~
+0 0 2
+D0
+~
+~
+3 0 32225
+D1
+~
+~
+0 0 32229
+D2
+~
+~
+0 0 32227
+D3
+~
+~
+0 0 32228
+C 0
+S
+#32227
+{WSmoothie Hut{x~
+{wUnder a {Cblue{w and {Ygold{w striped awning, it is much cooler than on
+the rest of the roof, where the sun shines brightly.  A busy counter is
+under the center of the awning, and a tanned young man in shorts is selling
+smoothies as quickly as he can make them.  They look so delicious, and would
+{wreally hit the spot -- maybe you should get one too!  {x 
+~
+0 9224 1
+D0
+~
+~
+0 0 32226
+D1
+~
+~
+0 0 32231
+D3
+~
+~
+0 0 32230
+C 0
+S
+#32228
+{WThe Roof of Victory Towers{x~
+{wOn the sunny roof of Victory Towers you can see for miles, and get a
+good tan at the same time too.  There are enough lounge chairs for everyone,
+and towels are practically free, so you should stay awhile.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 32232
+D1
+~
+~
+0 0 32226
+D2
+~
+~
+0 0 32230
+C 0
+S
+#32229
+{WThe Roof of Victory Towers{x~
+{wOn the sunny roof of Victory Towers you can see for miles, and get a
+good tan at the same time too.  There are enough lounge chairs for everyone,
+and towels are practically free, so you should stay awhile.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 32233
+D2
+~
+~
+0 0 32231
+D3
+~
+~
+0 0 32226
+C 0
+S
+#32230
+{WUnder the Shady Canopy{x~
+{wA large white canopy edged in {Cblue{w and {Ygold{w shades this corner
+of the roof.  Tables are scattered around and you see many of your friends
+relaxing here.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 32228
+D1
+~
+~
+0 0 32227
+C 0
+S
+#32231
+{WThe Corner Grill{x~
+{wIn this corner of the roof, a great smoking grill is cooking away many
+delicious treats.  Everything looks and smells so delicious, it is hard to
+decide what to buy.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 32229
+D3
+~
+~
+0 0 32227
+C 0
+S
+#32232
+{WThe Roof of Victory Towers{x~
+{wOn the sunny roof of Victory Towers you can see for miles, and get a
+good tan at the same time too.  There are enough lounge chairs for everyone,
+and towels are practically free, so you should stay awhile.  {x 
+~
+0 0 2
+D2
+~
+~
+0 0 32228
+C 0
+S
+#32233
+{WThe Roof of Victory Towers{x~
+{wOn the sunny roof of Victory Towers you can see for miles, and get a
+good tan at the same time too.  There are enough lounge chairs for everyone,
+and towels are practically free, so you should stay awhile.  {x 
+~
+0 0 2
+D2
+~
+~
+0 0 32229
+C 0
+S
+#32234
+{WHallway of Penthouse, First Level{x~
+{wAs luxurious as the other parts of Victory Towers are, this is by far
+10 times more resplendent.  The floor here is made of a solid slab of pure
+white marble, with hints of gold and silver that twinkle in the light. 
+Surely, this is the realm of the gods.  {x 
+~
+0 41992 1
+D0
+~
+~
+4 0 32220
+D1
+~
+~
+4 0 32236
+D3
+~
+~
+4 0 32235
+C 0
+S
+#32235
+{WPenthouse 1-A{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32237
+D1
+~
+~
+4 0 32234
+D2
+~
+~
+0 0 32238
+C 0
+S
+#32236
+{WPenthouse 1-B{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32242
+D2
+~
+~
+0 0 32243
+D3
+~
+~
+4 0 32234
+C 0
+S
+#32237
+{WPenthouse 1-A{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32235
+C 0
+S
+#32238
+{WPenthouse 1-A{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32235
+D1
+~
+~
+0 0 32239
+D2
+~
+~
+0 0 32240
+C 0
+S
+#32239
+{WPenthouse 1-A{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32241
+D3
+~
+~
+0 0 32238
+C 0
+S
+#32240
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32238
+D1
+~
+~
+0 0 32241
+C 0
+S
+#32241
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32239
+D3
+~
+~
+0 0 32240
+C 0
+S
+#32242
+{WPenthouse 1-B{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32236
+C 0
+S
+#32243
+{WPenthouse 1-B{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32236
+D2
+~
+~
+0 0 32245
+D3
+~
+~
+0 0 32244
+C 0
+S
+#32244
+{WPenthouse 1-B{x~
+~
+0 41992 1
+D1
+~
+~
+0 0 32243
+D2
+~
+~
+0 0 32246
+C 0
+S
+#32245
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32243
+D3
+~
+~
+0 0 32246
+C 0
+S
+#32246
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32244
+D1
+~
+~
+0 0 32245
+C 0
+S
+#32247
+{WHallway of Penthouse, Second Level{x~
+{wAs luxurious as the other parts of Victory Towers are, this is by far
+10 times more resplendent.  The floor here is made of a solid slab of pure
+white marble, with hints of gold and silver that twinkle in the light. 
+Surely, this is the realm of the gods.  {x 
+~
+0 41992 1
+D0
+~
+~
+4 0 32221
+D1
+~
+~
+4 0 32249
+D3
+~
+~
+4 0 32248
+C 0
+S
+#32248
+{WPenthouse 2-A{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32250
+D1
+~
+~
+4 0 32247
+D2
+~
+~
+0 0 32251
+C 0
+S
+#32249
+{WHaplo's Stylin' Pad{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32256
+D2
+~
+~
+0 0 32257
+D3
+~
+~
+4 0 32247
+C 0
+S
+#32250
+{WPenthouse 2-A{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32248
+C 0
+S
+#32251
+{WPenthouse 2-A{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32248
+D1
+~
+~
+0 0 32252
+D2
+~
+~
+0 0 32253
+C 0
+S
+#32252
+{WPenthouse 2-A{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32254
+D3
+~
+~
+0 0 32251
+C 0
+S
+#32253
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32251
+D1
+~
+~
+0 0 32254
+C 0
+S
+#32254
+{WThe Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32252
+D3
+~
+~
+0 0 32253
+C 0
+S
+#32255
+~
+~
+0 0 0
+D2
+~
+~
+0 0 32249
+C 0
+S
+#32256
+{WHaplo's Stylin' Pad{x~
+~
+0 41992 1
+D2
+~
+~
+0 0 32249
+C 0
+S
+#32257
+{WHaplo's Stylin' Pad{x~
+~
+0 41992 1
+D0
+~
+~
+0 0 32249
+D2
+~
+~
+0 0 32259
+D3
+~
+~
+0 0 32258
+C 0
+S
+#32258
+{WHaplo's Stylin' Pad{x~
+~
+0 41992 1
+D1
+~
+~
+0 0 32257
+D2
+~
+~
+0 0 32260
+C 0
+S
+#32259
+{WHaplo's Stylin' Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32257
+D3
+~
+~
+0 0 32260
+C 0
+S
+#32260
+{WHaplo's Stylin' Balcony{x~
+~
+0 41984 2
+D0
+~
+~
+0 0 32258
+D1
+~
+~
+0 0 32259
+C 0
+S
+#32261
+{WHallway, Penthouse Level 5{x~
+~
+0 33800 1
+D0
+~
+~
+4 0 32224
+D2
+~
+~
+4 0 32262
+C 0
+S
+#32262
+{WFoyer of Ophelia and Majere's Penthouse{x~
+~
+0 0 0
+D0
+~
+~
+4 0 32261
+D1
+~
+~
+0 0 32264
+D2
+~
+~
+0 0 32265
+D3
+~
+~
+0 0 32263
+C 0
+S
+#32263
+{WThe Kitchen{x~
+{wThis is a *really* nice kitchen...  Shiny wood floor, chrome counters,
+glass cabinets, Viking stove, SubZero refrigerator, cobalt blue tile
+backsplash -- like something out of Architectural Digeset.  Despite its
+pristine shiny-ness it is still a comfortable room.  
+~
+0 8 1
+E
+floor~
+{wThe floor is made of fine sanded pine planks, coated with a shiny
+substance to keep them from getting stained or worn.  
+~
+D0
+~
+~
+0 0 32266
+D1
+~
+~
+0 0 32262
+C 0
+S
+#32264
+{WThe Living Room{x~
+~
+0 0 0
+D0
+~
+~
+0 0 32268
+D3
+~
+~
+0 0 32262
+C 0
+S
+#32265
+{WThe Solarium{x~
+~
+0 0 0
+D0
+~
+~
+0 0 32262
+D1
+~
+~
+0 0 32270
+D3
+~
+~
+0 0 32271
+C 0
+S
+#32266
+{WOphelia's Sitting Room{x~
+{wThis sitting room is spare and modern.  Ophelia's most prized 1950's
+furniture is here.  In one corner is a black leather Mies lounger and in the
+center of the room, tastefully arranged, are an Eames sofa and two Barcelona
+chairs clustered around Ophelia's favorite thing in the world, an Isamo
+Noguchi glass-topped coffee table.  The west wall of this room is one big
+floor-to ceiling plate glass window.  
+~
+0 0 0
+D0
+~
+~
+0 0 32267
+D2
+~
+~
+0 0 32263
+D4
+~
+~
+0 0 32274
+C 0
+S
+#32267
+{WOphelia and Majere's Bedroom{x~
+{wThis room is quiet, cozy and calming.  A low queen-sized bed covered in
+cool white is centered on the north wall.  There is little else in the room.
+~
+0 0 0
+D2
+~
+~
+0 0 32266
+C 0
+S
+#32268
+{WThe Library{x~
+~
+0 0 0
+D0
+~
+~
+0 0 32269
+D2
+~
+~
+0 0 32264
+D4
+~
+~
+0 0 32272
+C 0
+S
+#32269
+{WMajere's Thundercats Room{x~
+{wThis is Majere's secret sanctum, dedicated to his favorite cartoon,
+ThunderCats.  
+~
+0 0 0
+D2
+~
+~
+0 0 32268
+C 0
+S
+#32270
+{WEast Balcony{x~
+~
+0 0 0
+D3
+~
+~
+0 0 32265
+C 0
+S
+#32271
+{WWest Balcony{x~
+~
+0 0 0
+D1
+~
+~
+0 0 32265
+C 0
+S
+#32272
+{WThe Loft{x~
+~
+0 0 0
+D3
+~
+~
+0 0 32273
+D5
+~
+~
+0 0 32268
+C 0
+S
+#32273
+{WThe Loft{x~
+~
+0 0 0
+D1
+~
+~
+0 0 32272
+D3
+~
+~
+0 0 32274
+C 0
+S
+#32274
+{WThe Loft{x~
+~
+0 0 0
+D1
+~
+~
+0 0 32273
+D5
+~
+~
+0 0 32266
+C 0
+S
+#32275
+{WThe Stairwell{x~
+{wThis is a dark stairwell leading down to the basement of Victory Towers{x 
+~
+0 9 1
+D1
+~
+~
+3 0 32052
+D5
+~
+~
+0 0 32276
+C 0
+S
+#32276
+{WDark Landing{x~
+{wThis landing is cold, damp and dark, and you hope there aren't any
+scary monsters down here...  {x 
+~
+0 9 1
+D1
+~
+~
+0 0 32277
+D4
+~
+~
+0 0 32275
+C 0
+S
+#32277
+{WDark Landing{x~
+{wThis landing is cold, damp and dark, and you hope there aren't any
+scary monsters down here...  {x 
+~
+0 9 1
+D3
+~
+~
+0 0 32276
+D5
+~
+~
+0 0 32278
+C 0
+S
+#32278
+{WThe Basement of Victory Towers{x~
+{wThe basement is nothing like the rest of Victory Towers.  Cold, damp
+and abandonned-looking, it is actually sort of creepy down here...  Not cozy
+at all.  
+~
+0 9 1
+D2
+~
+~
+0 0 32279
+D4
+~
+~
+0 0 32277
+C 0
+S
+#32279
+{WThe Boiler Room{x~
+{wA huge cast iron boiler is here, steaming and making creaking and
+whooshing noises.  A vent in the front glows orangey-red and looks like a
+big, hungry lethal mouth.  {x 
+~
+0 9 1
+D0
+~
+~
+0 0 32278
+D3
+~
+~
+0 0 32280
+C 0
+S
+#32280
+{WA Little Corner near the Boiler{x~
+{wPiles of old cardboard boxes, newspapers, broken lamps and dingy
+suitcases sit in disorganized piles around the walls near the boiler.  Looks
+like a fire hazard actually!  Luckily you neither see nor hear any rats, so
+it must be reasonably clean.  {wSome scratches are on the wall...  The place
+looks strangely "lived-in."  
+~
+0 524297 1
+E
+scratch~
+{wOn the concrete wall, written in something red (...blood?) you vaguely make out:{x
+ 
+ 
+ 
+                   {RSpyRo WuZ HeeeeeeeeeeeeeRe{x
+ 
+ 
+~
+D1
+~
+~
+0 0 32279
+M 400 H 400
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 32062 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 32051 2 1
+D 0 32052 0 1
+D 0 32052 3 1
+D 0 32053 2 1
+D 0 32054 0 1
+D 0 32054 2 1
+D 0 32055 0 1
+D 0 32055 1 1
+D 0 32056 2 1
+D 0 32057 2 2
+D 0 32058 0 2
+D 0 32058 1 2
+D 0 32058 3 2
+D 0 32059 1 2
+D 0 32059 3 2
+D 0 32060 1 2
+D 0 32060 2 2
+D 0 32060 3 2
+D 0 32061 2 2
+D 0 32062 0 2
+D 0 32062 1 2
+D 0 32062 3 2
+D 0 32063 1 2
+D 0 32063 3 2
+D 0 32064 1 2
+D 0 32064 2 2
+D 0 32064 3 2
+D 0 32065 2 2
+D 0 32066 0 2
+D 0 32066 1 2
+D 0 32066 3 2
+D 0 32067 1 2
+D 0 32067 3 2
+D 0 32068 1 2
+D 0 32068 2 2
+D 0 32068 3 2
+D 0 32070 2 1
+D 0 32071 1 1
+D 0 32071 2 1
+D 0 32072 2 1
+D 0 32075 3 1
+D 0 32076 3 1
+D 0 32077 2 2
+D 0 32078 0 2
+D 0 32078 1 2
+D 0 32078 3 2
+D 0 32079 1 2
+D 0 32079 3 2
+D 0 32080 1 2
+D 0 32080 2 2
+D 0 32080 3 2
+D 0 32081 2 2
+D 0 32082 0 2
+D 0 32082 1 2
+D 0 32082 3 2
+D 0 32083 1 2
+D 0 32083 3 2
+D 0 32084 1 2
+D 0 32084 2 2
+D 0 32084 3 2
+D 0 32085 2 2
+D 0 32086 0 2
+D 0 32086 1 2
+D 0 32086 3 2
+D 0 32087 1 2
+D 0 32087 3 2
+D 0 32088 1 2
+D 0 32088 2 2
+D 0 32088 3 2
+D 0 32089 2 2
+D 0 32090 0 2
+D 0 32090 1 2
+D 0 32090 3 2
+D 0 32091 1 2
+D 0 32091 3 2
+D 0 32092 1 2
+D 0 32092 2 2
+D 0 32092 3 2
+D 0 32093 2 2
+D 0 32094 0 2
+D 0 32094 1 2
+D 0 32094 3 2
+D 0 32095 1 2
+D 0 32095 3 2
+D 0 32096 1 2
+D 0 32096 2 2
+D 0 32096 3 2
+D 0 32097 2 2
+D 0 32098 0 2
+D 0 32098 1 2
+D 0 32098 3 2
+D 0 32099 1 2
+D 0 32099 3 2
+D 0 32100 1 2
+D 0 32100 2 2
+D 0 32100 3 2
+D 0 32101 2 2
+D 0 32102 0 2
+D 0 32102 1 2
+D 0 32102 3 2
+D 0 32103 1 2
+D 0 32103 3 2
+D 0 32104 1 2
+D 0 32104 2 2
+D 0 32104 3 2
+D 0 32105 1 2
+D 0 32106 3 2
+D 0 32109 1 2
+D 0 32110 3 2
+D 0 32111 1 2
+D 0 32112 3 2
+D 0 32113 0 2
+D 0 32116 1 2
+D 0 32118 3 2
+D 0 32120 1 2
+D 0 32121 3 2
+D 0 32122 1 2
+D 0 32123 3 2
+D 0 32124 0 2
+D 0 32127 1 2
+D 0 32128 3 2
+D 0 32131 1 2
+D 0 32132 3 2
+D 0 32133 1 2
+D 0 32134 3 2
+D 0 32135 0 2
+D 0 32138 1 2
+D 0 32140 3 2
+D 0 32142 1 2
+D 0 32143 3 2
+D 0 32144 1 2
+D 0 32145 3 2
+D 0 32146 0 2
+D 0 32149 1 2
+D 0 32151 3 2
+D 0 32153 1 2
+D 0 32154 3 2
+D 0 32155 1 2
+D 0 32156 3 2
+D 0 32157 0 2
+D 0 32160 1 2
+D 0 32162 3 2
+D 0 32164 1 2
+D 0 32165 3 2
+D 0 32166 1 2
+D 0 32167 3 2
+D 0 32168 0 2
+D 0 32171 1 2
+D 0 32173 3 2
+D 0 32175 1 2
+D 0 32176 3 2
+D 0 32177 1 2
+D 0 32178 3 2
+D 0 32179 0 2
+D 0 32182 1 2
+D 0 32184 3 2
+D 0 32186 1 2
+D 0 32187 3 2
+D 0 32188 1 2
+D 0 32189 3 2
+D 0 32190 0 2
+D 0 32193 1 2
+D 0 32195 3 2
+D 0 32197 1 2
+D 0 32198 3 2
+D 0 32199 1 2
+D 0 32200 3 2
+D 0 32201 0 2
+D 0 32204 1 2
+D 0 32206 3 2
+D 0 32208 1 2
+D 0 32209 3 2
+D 0 32210 1 2
+D 0 32211 3 2
+D 0 32212 0 2
+D 0 32215 0 1
+D 0 32216 0 1
+D 0 32217 0 1
+D 0 32218 1 1
+D 0 32219 3 1
+D 0 32220 2 2
+D 0 32221 2 2
+D 0 32224 2 2
+D 0 32225 2 1
+D 0 32226 0 1
+D 0 32234 0 2
+D 0 32234 1 2
+D 0 32234 3 2
+D 0 32235 1 2
+D 0 32236 3 2
+D 0 32247 0 2
+D 0 32247 1 2
+D 0 32247 3 2
+D 0 32248 1 2
+D 0 32249 3 2
+D 0 32261 0 2
+D 0 32261 2 2
+D 0 32262 0 2
+D 0 32275 1 1
+O 0 32140 0 32051
+M 0 32058 1 32052 100
+M 0 32058 5 32052 1
+M 0 32059 5 32052 1
+M 0 32060 5 32052 1
+M 0 32054 1 32071 1
+G 0 32145 0
+G 0 32150 0
+G 0 32148 0
+G 0 32146 0
+G 0 32149 0
+G 0 32147 0
+M 0 32053 1 32072 1
+G 0 32141 0
+G 0 32142 0
+G 0 32143 0
+G 0 32144 0
+M 0 32052 1 32073 1
+G 0 32136 0
+G 0 32137 0
+G 0 32138 0
+G 0 32139 0
+M 0 32051 1 32074 1
+G 0 32131 0
+G 0 32132 0
+G 0 32133 0
+G 0 32134 0
+G 0 32135 0
+O 0 32302 0 32201
+O 0 32301 0 32202
+O 0 32303 0 32203
+M 0 32057 1 32215 1
+M 0 32057 1 32215 1
+M 0 32055 1 32216 1
+G 0 32151 0
+G 0 32152 0
+G 0 32153 0
+G 0 32154 0
+M 0 32062 1 32217 1
+M 0 32056 1 32218 1
+G 0 32155 0
+G 0 32156 0
+G 0 32157 0
+G 0 32158 0
+O 0 32167 0 32226
+M 0 32061 1 32227 1
+G 0 32166 0
+G 0 32165 0
+G 0 32164 0
+G 0 32163 0
+O 0 32173 0 32228
+O 0 32174 0 32228
+O 0 32175 0 32228
+O 0 32173 0 32229
+O 0 32174 0 32229
+O 0 32175 0 32229
+O 0 32172 0 32230
+M 0 32064 1 32231 1
+G 0 32168 0
+G 0 32169 0
+G 0 32170 0
+G 0 32171 0
+O 0 32173 0 32232
+O 0 32174 0 32232
+O 0 32175 0 32232
+O 0 32173 0 32233
+O 0 32174 0 32233
+O 0 32175 0 32233
+S
+
+
+
+#SHOPS
+32051 19 15 0 0 0 100 100 0 23
+32052 10 26 0 0 0 100 100 8 18
+32053 17 0 0 0 0 100 100 0 23
+32054 19 17 0 0 0 100 100 8 18
+32055 32 33 8 0 0 100 100 8 18
+32056 8 0 0 0 0 100 100 8 18
+32061 17 0 0 0 0 100 100 0 23
+32064 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

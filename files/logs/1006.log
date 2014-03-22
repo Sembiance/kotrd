@@ -1,0 +1,612 @@
+Tue Feb  1 20:34:26 2005 :: ROM is ready to rock on port 5000.
+Tue Feb  1 20:34:51 2005 :: Sock.sinaddr:  67.170.53.94
+Tue Feb  1 20:34:55 2005 :: Sock.sinaddr:  69.240.65.225
+Tue Feb  1 20:34:55 2005 :: Sock.sinaddr:  139.55.227.108
+Tue Feb  1 20:34:56 2005 :: Loading Argon.
+Tue Feb  1 20:34:56 2005 :: Argon@h139-055-227-108.adsl.navix.net has connected.
+Tue Feb  1 20:35:00 2005 :: Loading Gumbercules.
+Tue Feb  1 20:35:04 2005 :: Gumbercules@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Feb  1 20:35:13 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:14 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:14 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:14 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:14 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:15 2005 :: Sock.sinaddr:  66.93.33.134
+Tue Feb  1 20:35:32 2005 :: Loading Venus.
+Tue Feb  1 20:35:32 2005 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Tue Feb  1 20:57:13 2005 :: Sock.sinaddr:  139.55.227.108
+Tue Feb  1 20:57:14 2005 :: Loading Argon.
+Tue Feb  1 20:57:16 2005 :: Closing link to Argon.
+Tue Feb  1 20:57:16 2005 :: Argon@h139-055-227-108.adsl.navix.net reconnected.
+Tue Feb  1 20:58:40 2005 :: Sock.sinaddr:  67.176.56.86
+Tue Feb  1 20:58:44 2005 :: Loading Nevada.
+Tue Feb  1 20:58:44 2005 :: Nevada@c-67-176-56-86.client.comcast.net has connected.
+Tue Feb  1 21:02:21 2005 :: Sock.sinaddr:  161.253.41.103
+Tue Feb  1 21:02:23 2005 :: Loading Dorian.
+Tue Feb  1 21:02:24 2005 :: Dorian@161.253.41.103 has connected.
+Tue Feb  1 21:06:07 2005 :: Dorian has quit.
+Tue Feb  1 21:08:23 2005 :: Sock.sinaddr:  67.176.56.86
+Tue Feb  1 21:08:26 2005 :: Loading Nevada.
+Tue Feb  1 21:08:28 2005 :: Closing link to Nevada.
+Tue Feb  1 21:08:28 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 21:12:18 2005 :: Sock.sinaddr:  67.176.56.86
+Read_from_descriptor: Connection reset by peer
+Tue Feb  1 21:12:19 2005 :: Closing link to Nevada.
+Tue Feb  1 21:12:21 2005 :: Loading Nevada.
+Tue Feb  1 21:12:21 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 21:26:18 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Feb  1 21:26:20 2005 :: Loading Raxin.
+Tue Feb  1 21:26:21 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Feb  1 21:27:01 2005 :: Sock.sinaddr:  67.141.243.227
+Tue Feb  1 21:27:02 2005 :: Loading Lena.
+Tue Feb  1 21:27:02 2005 :: Lena@67.141.243.227 has connected.
+Tue Feb  1 21:30:13 2005 :: Nevada killed by Draconian Villager at 24129
+Tue Feb  1 21:44:27 2005 :: Sock.sinaddr:  67.176.56.86
+Tue Feb  1 21:44:30 2005 :: Loading Nevada.
+Tue Feb  1 21:44:32 2005 :: Closing link to Nevada.
+Tue Feb  1 21:44:32 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 21:57:04 2005 :: Gumbercules has quit.
+Read_from_descriptor: Connection reset by peer
+Tue Feb  1 22:07:19 2005 :: Closing link to Nevada.
+Tue Feb  1 22:07:20 2005 :: Sock.sinaddr:  67.176.56.86
+Tue Feb  1 22:07:25 2005 :: Loading Nevada.
+Tue Feb  1 22:07:25 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 22:23:36 2005 :: Log Raxin: cast summon golem husband
+Tue Feb  1 22:23:51 2005 :: Log Raxin: cast summon golem husband
+Tue Feb  1 22:26:16 2005 :: Log Argon: snoop rax
+Tue Feb  1 22:26:55 2005 :: Log Argon: snoop self
+Tue Feb  1 22:27:21 2005 :: Sock.sinaddr:  67.176.56.86
+Read_from_descriptor: Connection reset by peer
+Tue Feb  1 22:27:21 2005 :: Closing link to Nevada.
+Tue Feb  1 22:27:24 2005 :: Loading Nevada.
+Tue Feb  1 22:27:24 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 22:29:13 2005 :: Sock.sinaddr:  66.223.183.232
+Tue Feb  1 22:31:04 2005 :: Guvwen@232-183-223-66.gci.net new player.
+Tue Feb  1 22:34:22 2005 :: Sock.sinaddr:  67.176.56.86
+Read_from_descriptor: Connection reset by peer
+Tue Feb  1 22:34:23 2005 :: Closing link to Nevada.
+Tue Feb  1 22:34:26 2005 :: Loading Nevada.
+Tue Feb  1 22:34:26 2005 :: Nevada@c-67-176-56-86.client.comcast.net reconnected.
+Tue Feb  1 22:41:19 2005 :: Log Argon: bonus all 1 qp
+Tue Feb  1 22:42:38 2005 :: Sock.sinaddr:  66.223.183.232
+Tue Feb  1 22:42:58 2005 :: Ieqdar@232-183-223-66.gci.net new player.
+Tue Feb  1 22:45:11 2005 :: Log Argon: mset argon race titan
+Tue Feb  1 22:45:21 2005 :: Sock.sinaddr:  66.222.216.154
+Tue Feb  1 22:45:55 2005 :: Loading Chame.
+Tue Feb  1 22:45:55 2005 :: Chame@66.222.216.154 has connected.
+Tue Feb  1 22:45:55 2005 :: Log Argon: snoop rax
+Tue Feb  1 22:47:33 2005 :: Log Argon: snoop self
+Tue Feb  1 22:50:22 2005 :: Ieqdar has quit.
+Tue Feb  1 22:50:43 2005 :: Guvwen killed by the fox at 3725
+Tue Feb  1 22:52:37 2005 :: Nevada has quit.
+Tue Feb  1 22:53:15 2005 :: Log Argon: bonus all 50
+Tue Feb  1 23:00:49 2005 :: Argon has quit.
+Tue Feb  1 23:22:08 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Raxin RVNUM: ] ref A009
+Tue Feb  1 23:22:08 2005 :: Raxin has quit.
+Tue Feb  1 23:22:15 2005 :: Sock.sinaddr:  68.149.97.236
+Tue Feb  1 23:22:43 2005 :: Loading Raxin.
+Tue Feb  1 23:22:43 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Tue Feb  1 23:33:12 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Chame RVNUM: ] ref A009
+Tue Feb  1 23:33:12 2005 :: Chame has quit.
+Tue Feb  1 23:33:24 2005 :: Sock.sinaddr:  66.222.216.154
+Tue Feb  1 23:44:13 2005 :: Sock.sinaddr:  63.235.28.6
+Tue Feb  1 23:48:41 2005 :: Loading Vanwar.
+Tue Feb  1 23:48:43 2005 :: Vanwar@0-1pool28-6.nas40.newark2.nj.us.da.qwest.net has connected.
+Tue Feb  1 23:51:18 2005 :: Sock.sinaddr:  67.19.238.52
+Tue Feb  1 23:51:18 2005 :: EOF encountered on read.
+Tue Feb  1 23:53:38 2005 :: Raxin has quit.
+Read_from_descriptor: Connection reset by peer
+Tue Feb  1 23:53:49 2005 :: Closing link to Lena.
+Tue Feb  1 23:55:34 2005 :: Guvwen has quit.
+Tue Feb  1 23:55:45 2005 :: Sock.sinaddr:  66.223.183.232
+Tue Feb  1 23:56:05 2005 :: EOF encountered on read.
+Wed Feb  2 00:09:09 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lena RVNUM: ] ref A009
+Wed Feb  2 00:09:09 2005 :: Lena has quit.
+Wed Feb  2 00:13:52 2005 :: Vanwar has quit.
+Wed Feb  2 00:42:53 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 00:43:16 2005 :: Loading Venus.
+Wed Feb  2 00:43:17 2005 :: Closing link to Venus.
+Wed Feb  2 00:43:17 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 01:15:31 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Feb  2 01:15:35 2005 :: Loading Seclar.
+Wed Feb  2 01:15:36 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Feb  2 01:30:18 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 01:30:18 2005 :: Loading Venus.
+Wed Feb  2 01:30:20 2005 :: Closing link to Venus.
+Wed Feb  2 01:30:20 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 01:32:44 2005 :: Log Venus: startdp 1 1 100 1
+Wed Feb  2 01:33:09 2005 :: Log Venus: dpit stop
+Wed Feb  2 02:39:08 2005 :: Log Venus: startdp 1 1 100 1
+Wed Feb  2 02:39:11 2005 :: [*****] BUG: Stop_follower: null master.
+Wed Feb  2 03:01:17 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 03:01:38 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 03:01:44 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 03:01:50 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 03:01:57 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 03:14:39 2005 :: Seclar has quit.
+Wed Feb  2 03:14:42 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Feb  2 03:20:29 2005 :: Sock.sinaddr:  204.209.44.14
+Wed Feb  2 03:20:29 2005 :: EOF encountered on read.
+Read_from_descriptor: Connection timed out
+Wed Feb  2 03:32:19 2005 :: Closing link to Venus.
+Wed Feb  2 07:43:02 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Feb  2 07:43:04 2005 :: Loading Xion.
+Wed Feb  2 07:43:05 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Feb  2 07:43:52 2005 :: Xion has quit.
+Wed Feb  2 09:37:29 2005 :: Sock.sinaddr:  69.220.149.242
+Wed Feb  2 09:37:33 2005 :: Loading Mythril.
+Wed Feb  2 09:37:33 2005 :: Mythril@adsl-69-220-149-242.dsl.toldoh.ameritech.net has connected.
+Wed Feb  2 09:38:15 2005 :: Sock.sinaddr:  68.62.225.78
+Wed Feb  2 09:38:25 2005 :: Loading Remus.
+Wed Feb  2 09:38:28 2005 :: Remus@pcp01538027pcs.huntsv01.al.comcast.net has connected.
+Wed Feb  2 10:13:38 2005 :: Mythril killed by the Black Knight at 4202
+Wed Feb  2 10:22:15 2005 :: Remus has quit.
+Wed Feb  2 10:22:23 2005 :: Sock.sinaddr:  68.62.225.78
+Wed Feb  2 10:22:28 2005 :: Loading Remes.
+Wed Feb  2 10:22:28 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Feb  2 10:22:28 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Feb  2 10:22:28 2005 :: [*****] BUG: Fread_obj: bad vnum 32164.
+Wed Feb  2 10:22:31 2005 :: Remes@pcp01538027pcs.huntsv01.al.comcast.net has connected.
+Wed Feb  2 10:30:45 2005 :: Sock.sinaddr:  67.19.185.236
+Wed Feb  2 10:30:48 2005 :: Loading Sembiance.
+Wed Feb  2 10:30:49 2005 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Wed Feb  2 10:31:01 2005 :: Log Sembiance: bonus remes 500
+Wed Feb  2 10:31:05 2005 :: Log Sembiance: bonus remes 247
+Wed Feb  2 10:33:00 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Mythril RVNUM: ] ref A009
+Wed Feb  2 10:33:00 2005 :: Mythril has quit.
+Wed Feb  2 10:33:37 2005 :: Loading Seclar.
+Wed Feb  2 10:33:38 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Feb  2 10:33:50 2005 :: Seclar has quit.
+Wed Feb  2 10:34:10 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Feb  2 10:34:12 2005 :: Loading Seclar.
+Wed Feb  2 10:34:13 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Feb  2 10:36:28 2005 :: Remes has quit.
+Wed Feb  2 10:36:36 2005 :: Sock.sinaddr:  68.62.225.78
+Wed Feb  2 10:36:42 2005 :: Loading Alucinor.
+Wed Feb  2 10:36:45 2005 :: Alucinor@pcp01538027pcs.huntsv01.al.comcast.net has connected.
+Wed Feb  2 10:47:53 2005 :: Seclar has quit.
+Wed Feb  2 10:47:55 2005 :: Sock.sinaddr:  66.93.33.134
+Wed Feb  2 10:59:44 2005 :: Alucinor has quit.
+Wed Feb  2 11:00:08 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 11:00:09 2005 :: Loading Venus.
+Wed Feb  2 11:00:09 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 11:00:31 2005 :: Sock.sinaddr:  129.71.56.39
+Wed Feb  2 11:00:36 2005 :: Loading Serpterion.
+Wed Feb  2 11:00:37 2005 :: Serpterion@scn56039.shepherd.edu has connected.
+Wed Feb  2 11:13:02 2005 :: scn56039.shepherd.edu input spamming!
+Wed Feb  2 11:19:30 2005 :: Serpterion killed by A statue of the Fallen Red Dragon at 3001
+Wed Feb  2 11:23:58 2005 :: scn56039.shepherd.edu input spamming!
+Wed Feb  2 11:38:26 2005 :: Log Serpterion: choose
+Wed Feb  2 11:56:58 2005 :: Serpterion has quit.
+Wed Feb  2 12:31:37 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 12:31:39 2005 :: Loading Venus.
+Wed Feb  2 12:31:41 2005 :: Closing link to Venus.
+Wed Feb  2 12:31:41 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 12:50:47 2005 :: Sock.sinaddr:  129.71.56.39
+Wed Feb  2 12:50:50 2005 :: Loading Serpterion.
+Wed Feb  2 12:50:51 2005 :: Serpterion@scn56039.shepherd.edu has connected.
+Wed Feb  2 12:55:01 2005 :: Serpterion has quit.
+Wed Feb  2 12:55:40 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 12:55:42 2005 :: Loading Venus.
+Wed Feb  2 12:55:43 2005 :: Closing link to Venus.
+Wed Feb  2 12:55:43 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 13:08:30 2005 :: Sock.sinaddr:  129.71.56.39
+Wed Feb  2 13:08:36 2005 :: Loading Serpterion.
+Wed Feb  2 13:08:38 2005 :: Serpterion@scn56039.shepherd.edu has connected.
+Wed Feb  2 13:17:58 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Feb  2 13:18:04 2005 :: Loading Xion.
+Wed Feb  2 13:18:05 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Feb  2 13:18:37 2005 :: Xion has quit.
+Wed Feb  2 13:19:06 2005 :: Sock.sinaddr:  65.170.3.132
+Wed Feb  2 13:19:09 2005 :: Loading Xion.
+Wed Feb  2 13:19:09 2005 :: Xion@mail.carpentercontractors.com has connected.
+Wed Feb  2 13:19:51 2005 :: Xion has quit.
+Wed Feb  2 13:41:47 2005 :: Sock.sinaddr:  24.89.8.60
+Wed Feb  2 13:41:50 2005 :: Loading Crovax.
+Wed Feb  2 13:41:50 2005 :: [*****] BUG: Fread_char: No FMatch
+Wed Feb  2 13:41:54 2005 :: Closing link to Crovax.
+Wed Feb  2 13:42:00 2005 :: Sock.sinaddr:  24.89.8.60
+Wed Feb  2 13:42:17 2005 :: Peron@dyn-8-60.myactv.net new player.
+Wed Feb  2 13:52:56 2005 :: Sock.sinaddr:  146.229.32.192
+Wed Feb  2 13:53:33 2005 :: Serpterion has quit.
+Wed Feb  2 13:54:23 2005 :: Loading Alucinor.
+Wed Feb  2 13:54:25 2005 :: Alucinor@146.229.32.192 has connected.
+Wed Feb  2 14:06:09 2005 :: Peron has quit.
+Wed Feb  2 14:15:36 2005 :: Sock.sinaddr:  67.141.243.227
+Wed Feb  2 14:15:41 2005 :: Loading Lena.
+Wed Feb  2 14:15:42 2005 :: Lena@67.141.243.227 has connected.
+Wed Feb  2 14:15:48 2005 :: Lena has quit.
+Wed Feb  2 15:34:48 2005 :: Sock.sinaddr:  4.10.111.247
+Wed Feb  2 15:34:52 2005 :: Loading Sego.
+Wed Feb  2 15:34:54 2005 :: Sego@wbar2.chi1-4-10-111-247.chi1.dsl-verizon.net has connected.
+Wed Feb  2 15:34:59 2005 :: Sego has quit.
+Wed Feb  2 15:35:01 2005 :: Sock.sinaddr:  4.10.111.247
+Wed Feb  2 15:35:38 2005 :: Alucinor has quit.
+Wed Feb  2 15:35:59 2005 :: EOF encountered on read.
+Wed Feb  2 15:41:09 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 15:41:10 2005 :: Loading Venus.
+Wed Feb  2 15:41:11 2005 :: Closing link to Venus.
+Wed Feb  2 15:41:11 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 16:00:45 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Feb  2 16:00:48 2005 :: Loading Raxin.
+Wed Feb  2 16:00:49 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Feb  2 16:01:03 2005 :: Raxin has quit.
+Wed Feb  2 16:21:16 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Feb  2 16:21:21 2005 :: Loading Spatula.
+Wed Feb  2 16:21:23 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Feb  2 16:22:00 2005 :: Log Spatula: cast summon bloody severed nose
+Wed Feb  2 16:22:52 2005 :: Log Spatula: cast summon golem worker
+Wed Feb  2 16:23:18 2005 :: Log Spatula: cast summon golem worker
+Wed Feb  2 16:27:23 2005 :: Log Spatula: cast summon goblin visitor
+Wed Feb  2 16:29:47 2005 :: Sock.sinaddr:  66.223.183.232
+Wed Feb  2 16:29:50 2005 :: Spatula has quit.
+Wed Feb  2 16:29:51 2005 :: Loading Guvwen.
+Wed Feb  2 16:29:55 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Feb  2 16:29:55 2005 :: Guvwen@232-183-223-66.gci.net has connected.
+Wed Feb  2 16:29:59 2005 :: Loading Gumbercules.
+Wed Feb  2 16:30:01 2005 :: Gumbercules@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Feb  2 16:34:30 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Wed Feb  2 16:39:30 2005 :: 232-183-223-66.gci.net input spamming!
+Wed Feb  2 16:45:59 2005 :: Log Venus: snoop gu
+Wed Feb  2 16:46:03 2005 :: Log Venus: snoop guv
+Wed Feb  2 16:47:55 2005 :: Log Venus: snoop self
+Wed Feb  2 16:48:16 2005 :: EOF encountered on read.
+Wed Feb  2 17:00:16 2005 :: Guvwen killed by the enforcer eye at 16124
+Wed Feb  2 17:03:04 2005 :: Gumbercules has quit.
+Wed Feb  2 17:03:08 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Feb  2 17:03:10 2005 :: Loading Spatula.
+Wed Feb  2 17:03:12 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Feb  2 17:05:14 2005 :: Log Spatula: cast summon jacklyn captain guard cityguard
+Wed Feb  2 17:05:21 2005 :: Log Spatula: cast summon derrick captain guard cityguard
+Wed Feb  2 17:05:31 2005 :: Log Spatula: cast summon ringmaster master
+Wed Feb  2 17:05:38 2005 :: Log Spatula: cast summon ring keeper
+Wed Feb  2 17:05:45 2005 :: Log Spatula: cast summon dwarven prince
+Wed Feb  2 17:06:11 2005 :: Guvwen killed by a slaver buyer at 16092
+Wed Feb  2 17:18:44 2005 :: Log Spatula: cast summon goblin thief
+Wed Feb  2 17:31:10 2005 :: Guvwen killed by The Royal Guard at 9509
+Wed Feb  2 17:37:03 2005 :: Guvwen has quit.
+Wed Feb  2 17:48:46 2005 :: Spatula has quit.
+Wed Feb  2 18:37:11 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 18:37:13 2005 :: Loading Venus.
+Wed Feb  2 18:37:14 2005 :: Closing link to Venus.
+Wed Feb  2 18:37:14 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 19:00:56 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 19:00:58 2005 :: Loading Venus.
+Wed Feb  2 19:00:59 2005 :: Closing link to Venus.
+Wed Feb  2 19:00:59 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 19:07:20 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Feb  2 19:07:22 2005 :: Loading Raxin.
+Wed Feb  2 19:07:23 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Feb  2 19:07:29 2005 :: Raxin has quit.
+Wed Feb  2 19:45:16 2005 :: Sock.sinaddr:  67.170.53.94
+Wed Feb  2 19:45:18 2005 :: Loading Venus.
+Wed Feb  2 19:45:20 2005 :: Closing link to Venus.
+Wed Feb  2 19:45:20 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Feb  2 19:47:12 2005 :: Loading Seclar.
+Wed Feb  2 19:47:13 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Feb  2 20:27:39 2005 :: Sock.sinaddr:  146.229.32.192
+Wed Feb  2 20:27:47 2005 :: Loading Alucinor.
+Wed Feb  2 20:27:50 2005 :: Alucinor@146.229.32.192 has connected.
+Wed Feb  2 20:28:27 2005 :: Sock.sinaddr:  68.149.97.236
+Wed Feb  2 20:28:29 2005 :: Loading Raxin.
+Wed Feb  2 20:28:29 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Wed Feb  2 20:32:00 2005 :: Sock.sinaddr:  139.55.227.108
+Wed Feb  2 20:32:00 2005 :: Loading Argon.
+Wed Feb  2 20:32:00 2005 :: Argon@h139-055-227-108.adsl.navix.net has connected.
+Wed Feb  2 20:49:04 2005 :: Log Raxin: cast summon drakyri xaek yeven treye man
+Wed Feb  2 20:50:30 2005 :: Log Raxin: cast summon golem husband
+Wed Feb  2 20:53:10 2005 :: Log Raxin: cast summon golem husband
+Wed Feb  2 21:04:37 2005 :: Log Argon: snoop aluc
+Wed Feb  2 21:08:05 2005 :: Log Raxin: cast summon drakyri xaek saera ira'deia girl
+Wed Feb  2 21:09:45 2005 :: Log Alucinor: string
+Wed Feb  2 21:11:19 2005 :: Log Raxin: cast summon white lion
+Wed Feb  2 21:15:40 2005 :: Raxin killed by {rThe {wSpirit {rof the {WKing {rof Kot{RR{rD{x at 6799
+Wed Feb  2 21:31:33 2005 :: Sock.sinaddr:  69.240.65.225
+Wed Feb  2 21:31:35 2005 :: Loading Spatula.
+Wed Feb  2 21:31:37 2005 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Feb  2 21:48:27 2005 :: Log Raxin: cast summon clownfish
+Wed Feb  2 21:48:38 2005 :: Log Raxin: cast summon grey lion
+Wed Feb  2 21:49:06 2005 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Feb  2 21:51:29 2005 :: Log Argon: snoop self
+Wed Feb  2 22:16:22 2005 :: Spatula killed by The Gauntlet Master at 25310
+Wed Feb  2 22:18:51 2005 :: Raxin killed by The Gauntlet Master at 25310
+Wed Feb  2 22:22:03 2005 :: Alucinor has quit.
+Wed Feb  2 22:26:44 2005 :: Log Argon: snoop seclar
+Wed Feb  2 22:26:46 2005 :: Log Argon: snoop self
+Wed Feb  2 22:57:33 2005 :: Raxin has quit.
+Wed Feb  2 23:36:44 2005 :: Log Spatula: cast summon Seclar
+Wed Feb  2 23:43:19 2005 :: Log Spatula: cast summon granny jenkins
+Wed Feb  2 23:44:33 2005 :: Log Spatula: cast summon golem worker
+Wed Feb  2 23:44:44 2005 :: Log Spatula: cast summon golem worker
+Wed Feb  2 23:44:56 2005 :: Log Spatula: cast summon golem worker
+Wed Feb  2 23:48:14 2005 :: Spatula has quit.
+Wed Feb  2 23:50:23 2005 :: Seclar killed by the Zdreni avenger at 11740
+Read_from_descriptor: Connection timed out
+Wed Feb  2 23:53:19 2005 :: Closing link to Argon.
+Wed Feb  2 23:53:20 2005 :: Sock.sinaddr:  67.19.238.52
+Wed Feb  2 23:53:21 2005 :: EOF encountered on read.
+Thu Feb  3 01:59:50 2005 :: Sock.sinaddr:  65.148.10.39
+Thu Feb  3 01:59:55 2005 :: Loading Kalagar.
+Thu Feb  3 01:59:58 2005 :: Kalagar@0-1pool10-39.nas46.newark2.nj.us.da.qwest.net has connected.
+Thu Feb  3 02:00:48 2005 :: Kalagar has quit.
+Thu Feb  3 02:03:00 2005 :: Sock.sinaddr:  66.93.33.134
+Thu Feb  3 02:03:08 2005 :: Loading Seclar.
+Thu Feb  3 02:03:18 2005 :: Closing link to Seclar.
+Thu Feb  3 02:03:18 2005 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Thu Feb  3 02:03:33 2005 :: Sock.sinaddr:  66.93.33.134
+Thu Feb  3 02:23:53 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seclar RVNUM: ] ref A009
+Thu Feb  3 02:23:53 2005 :: Seclar has quit.
+Thu Feb  3 03:22:02 2005 :: Sock.sinaddr:  204.209.44.14
+Thu Feb  3 03:22:02 2005 :: EOF encountered on read.
+Read_from_descriptor: Connection timed out
+Thu Feb  3 04:13:02 2005 :: Closing link to Venus.
+Thu Feb  3 05:43:31 2005 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4637 RVNUM: ] ref A009
+Thu Feb  3 07:34:14 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 07:34:21 2005 :: Loading Xion.
+Thu Feb  3 07:34:22 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 07:38:46 2005 :: Xion has quit.
+Thu Feb  3 07:38:47 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 07:38:51 2005 :: Loading Ender.
+Thu Feb  3 07:38:52 2005 :: Ender@mail.carpentercontractors.com has connected.
+Thu Feb  3 07:42:36 2005 :: Ender has quit.
+Thu Feb  3 07:42:38 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 07:42:41 2005 :: Loading Xion.
+Thu Feb  3 07:42:42 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 08:03:02 2005 :: Xion has quit.
+Thu Feb  3 10:36:37 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 10:36:39 2005 :: Loading Xion.
+Thu Feb  3 10:36:40 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 10:37:11 2005 :: Xion has quit.
+Thu Feb  3 11:59:57 2005 :: Sock.sinaddr:  67.170.53.94
+Thu Feb  3 11:59:58 2005 :: Loading Venus.
+Thu Feb  3 11:59:58 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Feb  3 13:37:19 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 13:37:21 2005 :: Loading Xion.
+Thu Feb  3 13:37:22 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 13:38:09 2005 :: Xion has quit.
+Read_from_descriptor: Connection timed out
+Thu Feb  3 13:54:52 2005 :: Closing link to Venus.
+Thu Feb  3 15:23:46 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 15:23:50 2005 :: Loading Xion.
+Thu Feb  3 15:23:51 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 15:23:58 2005 :: Xion has quit.
+Thu Feb  3 15:51:37 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 15:51:40 2005 :: Loading Xion.
+Thu Feb  3 16:21:30 2005 :: EOF encountered on read.
+Thu Feb  3 16:21:30 2005 :: Closing link to Xion.
+Thu Feb  3 16:35:47 2005 :: Sock.sinaddr:  65.170.3.132
+Thu Feb  3 16:35:55 2005 :: Loading Xion.
+Thu Feb  3 16:35:55 2005 :: Xion@mail.carpentercontractors.com has connected.
+Thu Feb  3 16:35:59 2005 :: Xion has quit.
+Thu Feb  3 16:52:13 2005 :: Sock.sinaddr:  67.170.53.94
+Thu Feb  3 16:52:14 2005 :: Loading Venus.
+Thu Feb  3 16:52:15 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Feb  3 16:58:33 2005 :: Sock.sinaddr:  67.141.243.227
+Thu Feb  3 16:58:35 2005 :: Loading Lena.
+Thu Feb  3 16:58:36 2005 :: Lena@67.141.243.227 has connected.
+Thu Feb  3 16:58:39 2005 :: Lena has quit.
+Thu Feb  3 17:16:38 2005 :: Sock.sinaddr:  139.55.226.238
+Thu Feb  3 17:16:38 2005 :: Loading Argon.
+Thu Feb  3 17:16:38 2005 :: Argon@h139-055-226-238.adsl.navix.net reconnected.
+Thu Feb  3 18:01:55 2005 :: Sock.sinaddr:  139.55.226.238
+Thu Feb  3 18:01:55 2005 :: Loading Argon.
+Thu Feb  3 18:01:57 2005 :: Closing link to Argon.
+Thu Feb  3 18:01:57 2005 :: Argon@h139-055-226-238.adsl.navix.net reconnected.
+Thu Feb  3 18:09:30 2005 :: EOF encountered on read.
+Thu Feb  3 18:09:30 2005 :: Closing link to Argon.
+Read_from_descriptor: Connection timed out
+Thu Feb  3 18:20:18 2005 :: Closing link to Venus.
+Thu Feb  3 19:10:54 2005 :: Sock.sinaddr:  69.240.65.225
+Thu Feb  3 19:11:05 2005 :: Loading Gumbercules.
+Thu Feb  3 19:11:08 2005 :: Gumbercules@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Thu Feb  3 19:11:21 2005 :: Sock.sinaddr:  68.149.97.236
+Thu Feb  3 19:11:24 2005 :: Loading Raxin.
+Thu Feb  3 19:11:25 2005 :: Raxin@S0106000795eadf11.ed.shawcable.net has connected.
+Thu Feb  3 19:15:06 2005 :: Raxin has quit.
+Thu Feb  3 19:37:31 2005 :: Sock.sinaddr:  68.149.97.236
+Thu Feb  3 19:37:36 2005 :: EOF encountered on read.
+Thu Feb  3 19:40:50 2005 :: [*****] BUG: Set_fighting: already fighting
+Thu Feb  3 19:43:16 2005 :: Sock.sinaddr:  65.81.218.69
+Thu Feb  3 19:44:09 2005 :: Loading Alucinor.
+Thu Feb  3 19:44:12 2005 :: Alucinor@host-65-81-218-69.hsv.bellsouth.net has connected.
+Thu Feb  3 20:29:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:30:51 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:32:43 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:32:49 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:32:55 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:06 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:13 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:20 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:26 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:32 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:35:58 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:36:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:36:42 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:36:49 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:36:55 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:01 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:07 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:14 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:20 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:26 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:33 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:39 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:45 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:51 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:37:58 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:38:58 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:11 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:17 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:25 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:38 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:44 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:50 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:39:56 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:09 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:22 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:28 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:34 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:40 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:40:47 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:42:45 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:42:51 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:42:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:04 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:16 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:29 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:45 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:51 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:43:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:16 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:22 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:28 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:44:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:16 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:22 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:28 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:41 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:45:47 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:51:19 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:52:02 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:52:50 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:52:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:53:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:53:09 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:00 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:06 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:12 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:19 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:25 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:31 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:37 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:44 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:57:50 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:59:17 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:59:24 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 20:59:30 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:01:33 2005 :: Sock.sinaddr:  4.236.27.25
+Thu Feb  3 21:01:38 2005 :: Loading Golddragon.
+Thu Feb  3 21:01:40 2005 :: Golddragon@dialup-4.236.27.25.Dial1.NewYork1.Level3.net has connected.
+Thu Feb  3 21:01:53 2005 :: Sock.sinaddr:  139.55.226.238
+Thu Feb  3 21:01:53 2005 :: Loading Argon.
+Thu Feb  3 21:01:53 2005 :: Argon@h139-055-226-238.adsl.navix.net reconnected.
+Thu Feb  3 21:03:20 2005 :: EOF encountered on read.
+Thu Feb  3 21:03:20 2005 :: Closing link to Argon.
+Thu Feb  3 21:06:10 2005 :: Golddragon has quit.
+Thu Feb  3 21:09:49 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:09:56 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:02 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:08 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:14 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:21 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:27 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:33 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:10:39 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:11:17 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:11:24 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:11:30 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:11:36 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:11:46 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:09 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:15 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:22 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:28 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:36 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:43 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:49 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:12:55 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:13:29 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:13:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:13:41 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:13:58 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:14:04 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:14:11 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:14:17 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:14:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:14:29 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:04 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:16 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:29 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:41 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:15:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:10 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:16 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:22 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:28 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:41 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:47 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:16:53 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:00 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:33 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:39 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:45 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:51 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:17:58 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:13 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:19 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:26 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:32 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:38 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:18:44 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:19:00 2005 :: Sock.sinaddr:  67.170.53.94
+Thu Feb  3 21:19:00 2005 :: Loading Venus.
+Thu Feb  3 21:19:01 2005 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Feb  3 21:31:50 2005 :: Sock.sinaddr:  68.149.97.236
+Thu Feb  3 21:31:52 2005 :: EOF encountered on read.
+Thu Feb  3 21:37:54 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:00 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:07 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:13 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:19 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:25 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:32 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:38 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:44 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:50 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:38:57 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:39:03 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:39:41 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:39:47 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:39:53 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:00 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:06 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:12 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:18 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:25 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:31 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:37 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:44 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:50 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:40:56 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:02 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:23 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:29 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:35 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:42 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:48 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:41:54 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:00 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:07 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:13 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:19 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:25 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:42:32 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:43:02 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:43:09 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:43:15 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Feb  3 21:43:21 2005 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!

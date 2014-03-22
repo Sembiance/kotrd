@@ -1,0 +1,660 @@
+#PLAYER
+Name Stasya~
+Id   1090262352
+LogO 1164937608
+Vers 5
+Prom <%hh-%HH %mm-%Mm %vv-%VV %Xtnl %gg %ss %K> ~
+Race Sidhe Elf~
+Sex  2
+Cla  8
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 5
+Levl 14
+OldLvl 14
+Sec  0
+Spou Asteash~
+Plyd 301811
+Scro 33
+Room 3054
+HMV  339 339 210 210 278 278
+Gold 40
+Silv 910
+Gold_bank 6580
+Silv_bank 9056
+Shares 0
+Share_level 14
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  67970
+QuestPnts 329
+PAct  DEFGITbd
+AfBy DFV
+WName Stasya~
+Comm BFKN
+RaceChan A
+Deaf D
+Pos  4
+Prac 7
+Alig  819
+Hit   24
+Dam   27
+ACs 34 34 36 61
+Wimp  10
+Attr 17 27 26 20 14
+AMod 1 2 2 1 0
+Pass St.RdgF0t2k2s~
+Titl  says,"Enjoy the fun of MUDDING!"~
+Pnts 64
+TSex 2
+PSize 2
+LLev 82
+HMVP 306 200 228
+Cnd  0 0 -1 -1
+Ignore kingarthur~
+Ignore king~
+Boards       4 General 1151084271 Ideas 1146808373 Announce 1114049929 Personal 1116291234 
+Sk 1 'word of recall'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 89 'spear'
+Sk 75 'axe'
+Sk 75 'whip'
+Sk 94 'bash'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 89 'kick'
+Sk 93 'dodge'
+Sk 100 'parry'
+Sk 75 'shield block'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 93 'third attack'
+Sk 96 'fourth attack'
+Sk 79 'fast healing'
+Sk 75 'hide'
+Sk 76 'sneak'
+Sk 75 'recall'
+Sk 1 'spellcraft'
+Sk 1 'companion'
+Sk 1 'track'
+Sk 1 'metamorph'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'ranger basics'
+Gr 'ranger default'
+End
+
+#O
+Vnum 3077
+Nest 0
+Cond 0
+Wear 10
+Cost 420
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 5222
+Nest 0
+Cond 0
+Wear 12
+Cost 410
+End
+
+#O
+Vnum 5644
+Nest 0
+ExtF 65
+Cond 0
+Wear 9
+Cost 1000
+Val  6 1 1 1 1
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Time 150
+Cost 0
+End
+
+#O
+Vnum 3357
+Nest 0
+Cond 0
+Wear 7
+Cost 450
+End
+
+#O
+Vnum 5328
+Nest 0
+Cond 0
+Wear 13
+Time 46
+Cost 0
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear 11
+Cost 710
+End
+
+#O
+Vnum 3504
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 4
+Cost 1000
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#O
+Vnum 31240
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  11
+Cost 125
+Val  1 2 9 3 9
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'pflame blade'   5   0  -1   0   0          1
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   2  18          0
+Affc 'reserved'   1  10  -1   2  19          0
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 4303
+Nest 0
+Cond 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 4311
+Nest 0
+Cond 0
+Wear 6
+Cost 945
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 5639
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4715
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 25123
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9225
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4703
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4310
+Nest 1
+Cond 0
+Wear -1
+Cost 2710
+End
+
+#O
+Vnum 9219
+Nest 0
+Cond 0
+Wear -1
+Cost 1420
+Spell 3 'lightning bolt'
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9217
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 9218
+Nest 0
+Cond 0
+Wear -1
+Cost 12600
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 9217
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 9220
+Nest 0
+Cond 0
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 9222
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 9219
+Nest 0
+Cond 0
+Wear -1
+Cost 1420
+Spell 3 'lightning bolt'
+End
+
+#O
+Vnum 9221
+Nest 0
+Cond 0
+Wear -1
+Cost 2800
+Spell 3 'harm'
+End
+
+#O
+Vnum 9221
+Nest 0
+Cond 0
+Wear -1
+Cost 2800
+Spell 3 'harm'
+End
+
+#O
+Vnum 9221
+Nest 0
+Cond 0
+Wear -1
+Cost 2800
+Spell 3 'harm'
+End
+
+#O
+Vnum 9218
+Nest 0
+Cond 0
+Wear -1
+Cost 12600
+Spell 3 'gas breath'
+End
+
+#O
+Vnum 9217
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 9225
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear -1
+Cost 710
+End
+
+#END

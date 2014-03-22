@@ -1,0 +1,328 @@
+#PLAYER
+Name Candiru~
+Id   1129761968
+LogO 1159326474
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Sidhe Elf~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 3
+Levl 6
+OldLvl 6
+Sec  0
+Plyd 26043
+Scro 33
+Room 3054
+HMV  133 133 239 239 195 195
+Gold 892
+Silv 620
+Gold_bank 21600
+Silv_bank 98000
+Shares 0
+Share_level 6
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  25216
+PAct  CDGHQTbd
+AfBy DFV
+WName Candiru~
+Comm KLMNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 15
+Trai 3
+Save  -32
+Alig  -996
+Hit   90
+Dam   29
+ACs 44 48 48 50
+Attr 15 27 23 18 15
+AMod 3 5 6 1 5
+Pass CalFUFrgLAIgI~
+Titl  {gD{re{bA{gd{rl{by {GF{Ri{Bs{YH {x~
+Pnts 61
+TSex 1
+PSize 2
+LLev 7
+HMVP 79 189 180
+Cnd  0 0 -1 -1
+Boards       4 General 1158931085 Ideas 1158582947 Announce 0 Personal 0 
+Sk 75 'identify'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'apport'
+Sk 1 'combat mind'
+Sk 1 'adrenaline control'
+Sk 1 'enhanced strength'
+Sk 1 'aura sight'
+Sk 1 'awe'
+Sk 1 'thought shield'
+Sk 1 'psychic healing'
+Sk 1 'mental barrier'
+Sk 1 'share strength'
+Sk 1 'levitation'
+Sk 1 'obfuscate'
+Sk 1 'bio fortress'
+Sk 1 'cell adjustment'
+Sk 1 'displacement'
+Sk 1 'ectoplasmic form'
+Sk 1 'lend health'
+Sk 1 'complete healing'
+Sk 1 'energy containment'
+Sk 1 'enhance armor'
+Sk 1 'flesh armor'
+Sk 1 'inertial barrier'
+Sk 1 'domination'
+Sk 1 'disintegrate'
+Sk 1 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 1 'control flames'
+Sk 1 'death field'
+Sk 1 'detonate'
+Sk 1 'ego whip'
+Sk 1 'inflict pain'
+Sk 1 'mind thrust'
+Sk 1 'project force'
+Sk 1 'psionic blast'
+Sk 1 'psychic crush'
+Sk 1 'psychic drain'
+Sk 1 'ultrablast'
+Sk 15 'sword'
+Sk 100 'dagger'
+Sk 1 'spear'
+Sk 40 'mace'
+Sk 100 'backstab'
+Sk 100 'circle'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 8 'hand to hand'
+Sk 84 'kick'
+Sk 98 'dodge'
+Sk 96 'trip'
+Sk 100 'second attack'
+Sk 75 'envenom'
+Sk 82 'fast healing'
+Sk 88 'haggle'
+Sk 100 'hide'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 75 'steal'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 1 'metamorph'
+Sk 77 'quicken'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'thief basics'
+Gr 'psionic default'
+Gr 'thief default'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Gr 'identify spell'
+Affc 'armor'   0 246  67 -20  17          0
+Affc 'bless'   0 242 101 -31  20          0
+Affc 'bless'   0 246 101  62  18          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 135 0 0
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear 6
+Cost -200
+End
+
+#O
+Vnum 5813
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15124
+Nest 0
+Cond 0
+Wear 5
+Cost -200
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 10004
+Nest 0
+Cond 0
+Wear 14
+Cost 90
+End
+
+#O
+Vnum 5794
+Nest 0
+Cond 0
+Wear 12
+Cost -700
+End
+
+#O
+Vnum 15164
+Nest 0
+Cond 0
+Wear 3
+Cost -200
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 752
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 590
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 722
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 811
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 651
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 678
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Time 740
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  1
+Cost 157
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#END

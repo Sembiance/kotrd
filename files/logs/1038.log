@@ -1,0 +1,1033 @@
+Sun Apr 30 08:25:09 2006 :: ROM is ready to rock on port 5000.
+Sun Apr 30 08:25:38 2006 :: Sock.sinaddr:  67.19.185.236
+Sun Apr 30 08:25:41 2006 :: Loading Sembiance.
+Sun Apr 30 08:25:41 2006 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sun Apr 30 08:25:48 2006 :: Sembiance has quit.
+Sun Apr 30 08:26:41 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4636 RVNUM: ] ref A009
+Sun Apr 30 08:47:05 2006 :: Sock.sinaddr:  66.31.44.134
+Sun Apr 30 08:47:15 2006 :: Sock.sinaddr:  68.57.30.139
+Sun Apr 30 08:47:26 2006 :: Loading Lybre.
+Sun Apr 30 08:47:29 2006 :: Sock.sinaddr:  67.19.185.236
+Sun Apr 30 08:47:32 2006 :: Loading Sembiance.
+Sun Apr 30 08:47:33 2006 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sun Apr 30 08:47:33 2006 :: Lybre@c-68-57-30-139.hsd1.pa.comcast.net has connected.
+Sun Apr 30 08:47:50 2006 :: EOF encountered on read.
+Sun Apr 30 09:06:51 2006 :: Sock.sinaddr:  68.57.30.139
+Sun Apr 30 09:06:57 2006 :: Loading Lybre.
+Sun Apr 30 09:07:10 2006 :: Closing link to Lybre.
+Sun Apr 30 09:07:10 2006 :: Lybre@c-68-57-30-139.hsd1.pa.comcast.net reconnected.
+Sun Apr 30 10:24:56 2006 :: EOF encountered on read.
+Sun Apr 30 10:24:56 2006 :: Closing link to Lybre.
+Sun Apr 30 11:12:50 2006 :: Sock.sinaddr:  68.252.45.172
+Sun Apr 30 11:13:02 2006 :: Loading Wizport.
+Sun Apr 30 11:13:04 2006 :: Wizport@adsl-68-252-45-172.dsl.wotnoh.ameritech.net has connected.
+Sun Apr 30 11:16:21 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:18:20 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:20:19 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:22:18 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:24:21 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:26:20 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:28:49 2006 :: adsl-68-252-45-172.dsl.wotnoh.ameritech.net input spamming!
+Sun Apr 30 11:30:39 2006 :: Wizport has quit.
+Sun Apr 30 11:30:49 2006 :: Sock.sinaddr:  68.252.45.172
+Sun Apr 30 15:01:05 2006 :: Sock.sinaddr:  67.19.238.52
+Sun Apr 30 15:01:08 2006 :: EOF encountered on read.
+Sun Apr 30 16:34:18 2006 :: EOF encountered on read.
+Sun Apr 30 21:22:21 2006 :: Sembiance has quit.
+Sun Apr 30 21:28:13 2006 :: Sock.sinaddr:  66.222.54.19
+Sun Apr 30 21:28:16 2006 :: Loading Stasya.
+Sun Apr 30 21:28:17 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net has connected.
+Sun Apr 30 21:36:06 2006 :: EOF encountered on read.
+Sun Apr 30 21:36:06 2006 :: Closing link to Stasya.
+Sun Apr 30 21:36:09 2006 :: Sock.sinaddr:  66.222.54.19
+Sun Apr 30 21:36:16 2006 :: Loading Stasya.
+Sun Apr 30 21:36:21 2006 :: Closing link to Stasya.
+Sun Apr 30 21:36:25 2006 :: Sock.sinaddr:  66.222.54.19
+Sun Apr 30 21:36:31 2006 :: Loading Stasya.
+Sun Apr 30 21:36:32 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net reconnected.
+Sun Apr 30 21:36:55 2006 :: Stasya has quit.
+Sun Apr 30 22:52:18 2006 :: Sock.sinaddr:  67.19.238.52
+Sun Apr 30 22:52:18 2006 :: EOF encountered on read.
+Mon May  1 02:27:14 2006 :: Sock.sinaddr:  64.111.52.2
+Mon May  1 02:27:45 2006 :: EOF encountered on read.
+Mon May  1 03:26:17 2006 :: Sock.sinaddr:  204.209.44.14
+Mon May  1 03:26:17 2006 :: EOF encountered on read.
+Mon May  1 08:18:50 2006 :: Sock.sinaddr:  68.57.30.139
+Mon May  1 08:19:01 2006 :: Sock.sinaddr:  68.57.30.139
+Mon May  1 08:19:17 2006 :: EOF encountered on read.
+Mon May  1 08:20:00 2006 :: Sock.sinaddr:  68.57.30.139
+Mon May  1 08:20:09 2006 :: Loading Lybre.
+Mon May  1 08:20:14 2006 :: Lybre@c-68-57-30-139.hsd1.pa.comcast.net reconnected.
+Mon May  1 08:21:24 2006 :: Lybre has quit.
+Mon May  1 09:42:22 2006 :: Sock.sinaddr:  66.222.54.19
+Mon May  1 09:42:28 2006 :: Loading Stasya.
+Mon May  1 09:42:30 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net has connected.
+Mon May  1 09:58:03 2006 :: Stasya killed by the White Bishop at 4233
+Mon May  1 10:06:21 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:06:22 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:06:22 2006 :: EOF encountered on read.
+Mon May  1 10:06:22 2006 :: EOF encountered on read.
+Mon May  1 10:06:25 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 10:06:36 2006 :: Loading Silence.
+Mon May  1 10:06:38 2006 :: Silence@ign238.ign.com has connected.
+Mon May  1 10:10:33 2006 :: Silence has quit.
+Mon May  1 10:10:46 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:10:46 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:10:46 2006 :: EOF encountered on read.
+Mon May  1 10:10:46 2006 :: EOF encountered on read.
+Mon May  1 10:10:49 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 10:10:57 2006 :: EOF encountered on read.
+Mon May  1 10:11:03 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:11:03 2006 :: EOF encountered on read.
+Mon May  1 10:11:06 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 10:11:17 2006 :: Loading Mercutio.
+Mon May  1 10:11:17 2006 :: [*****] BUG: Fread_char: No FMatch
+Mon May  1 10:11:17 2006 :: [*****] BUG: Fread_char: No FMatch
+Mon May  1 10:11:19 2006 :: Mercutio@ign238.ign.com has connected.
+Mon May  1 10:13:16 2006 :: Mercutio has quit.
+Mon May  1 10:13:54 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:13:54 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 10:13:54 2006 :: EOF encountered on read.
+Mon May  1 10:13:54 2006 :: EOF encountered on read.
+Mon May  1 10:13:58 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 10:14:14 2006 :: Loading Pepsi.
+Mon May  1 10:14:14 2006 :: [*****] BUG: Fread_char: No FMatch
+Mon May  1 10:14:14 2006 :: [*****] BUG: Fread_char: No FMatch
+Mon May  1 10:14:15 2006 :: Pepsi@ign238.ign.com has connected.
+Mon May  1 10:29:09 2006 :: Pepsi has quit.
+Mon May  1 11:04:46 2006 :: Stasya has quit.
+Mon May  1 12:28:52 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 12:29:24 2006 :: Loading Mercutio.
+Mon May  1 12:29:25 2006 :: Mercutio@ign238.ign.com has connected.
+Mon May  1 12:38:35 2006 :: Mercutio has quit.
+Mon May  1 12:39:03 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 12:39:28 2006 :: EOF encountered on read.
+Mon May  1 12:41:50 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 12:41:54 2006 :: Loading Pepsi.
+Mon May  1 12:41:55 2006 :: Pepsi@ign238.ign.com has connected.
+Mon May  1 12:46:49 2006 :: Pepsi has quit.
+Mon May  1 12:46:53 2006 :: Sock.sinaddr:  64.41.179.238
+Read_from_descriptor: Connection reset by peer
+Mon May  1 12:46:58 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 12:47:02 2006 :: Loading Mercutio.
+Mon May  1 12:47:03 2006 :: Mercutio@ign238.ign.com has connected.
+Mon May  1 13:14:24 2006 :: Mercutio has quit.
+Mon May  1 14:12:57 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 14:13:06 2006 :: Loading Mercutio.
+Mon May  1 14:13:07 2006 :: Mercutio@ign238.ign.com has connected.
+Read_from_descriptor: Connection reset by peer
+Mon May  1 14:58:24 2006 :: Closing link to Mercutio.
+Mon May  1 14:58:48 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 14:58:55 2006 :: Loading Mercutio.
+Mon May  1 14:58:56 2006 :: Mercutio@ign238.ign.com reconnected.
+Mon May  1 14:59:22 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 14:59:26 2006 :: Loading Silence.
+Mon May  1 14:59:28 2006 :: Silence@ign238.ign.com has connected.
+Mon May  1 15:06:14 2006 :: Silence has quit.
+Mon May  1 15:21:37 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 15:21:39 2006 :: Loading Silence.
+Mon May  1 15:21:42 2006 :: Silence@ign238.ign.com has connected.
+Mon May  1 15:24:59 2006 :: Silence has quit.
+Mon May  1 15:46:24 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 15:46:27 2006 :: Loading Silence.
+Mon May  1 15:46:28 2006 :: Silence@ign238.ign.com has connected.
+Mon May  1 16:18:42 2006 :: ign238.ign.com input spamming!
+Mon May  1 18:02:11 2006 :: Sock.sinaddr:  71.241.255.70
+Mon May  1 18:02:49 2006 :: Rakiel@pool-71-241-255-70.washdc.fios.verizon.net new player.
+Mon May  1 18:10:21 2006 :: EOF encountered on read.
+Mon May  1 18:10:21 2006 :: Closing link to Rakiel.
+Mon May  1 18:25:06 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Rakiel RVNUM: ] ref A009
+Mon May  1 18:25:06 2006 :: Rakiel has quit.
+Mon May  1 18:30:50 2006 :: Mercutio has quit.
+Mon May  1 18:32:23 2006 :: Silence has quit.
+Mon May  1 18:32:26 2006 :: Sock.sinaddr:  64.41.179.238
+Read_from_descriptor: Connection reset by peer
+Mon May  1 18:32:30 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  1 18:32:33 2006 :: Loading Mercutio.
+Mon May  1 18:32:33 2006 :: Mercutio@ign238.ign.com has connected.
+Mon May  1 18:33:32 2006 :: Mercutio has quit.
+Mon May  1 22:52:24 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  1 22:52:24 2006 :: EOF encountered on read.
+Tue May  2 03:25:20 2006 :: Sock.sinaddr:  204.209.44.14
+Tue May  2 03:25:21 2006 :: EOF encountered on read.
+Tue May  2 03:47:32 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4638 RVNUM: ] ref A009
+Tue May  2 06:31:35 2006 :: Sock.sinaddr:  204.214.99.144
+Tue May  2 06:31:41 2006 :: Loading Morph.
+Tue May  2 06:31:44 2006 :: Morph@204.214.99.144 has connected.
+Tue May  2 06:32:02 2006 :: Morph has quit.
+Tue May  2 06:32:02 2006 :: [*****] BUG: Norm-Apply: 0
+Tue May  2 08:08:11 2006 :: Sock.sinaddr:  66.222.54.19
+Tue May  2 08:08:19 2006 :: Loading Stasya.
+Tue May  2 08:08:22 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net has connected.
+Tue May  2 08:09:04 2006 :: Stasya has quit.
+Tue May  2 10:04:39 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 10:07:10 2006 :: Dractest@ign238.ign.com new player.
+Tue May  2 10:07:22 2006 :: Log Dractest: delete
+Tue May  2 10:07:22 2006 :: Log Dractest: delete
+Tue May  2 10:07:22 2006 :: Dractest has quit.
+Tue May  2 10:07:25 2006 :: Sock.sinaddr:  64.41.179.238
+Read_from_descriptor: Connection reset by peer
+Tue May  2 10:07:36 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 10:07:40 2006 :: Loading Mercutio.
+Tue May  2 10:07:41 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  2 10:08:15 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 10:08:30 2006 :: Loading Silence.
+Tue May  2 10:08:32 2006 :: Silence@ign238.ign.com has connected.
+Tue May  2 10:42:15 2006 :: ign238.ign.com input spamming!
+Tue May  2 11:26:33 2006 :: ign238.ign.com input spamming!
+Tue May  2 11:52:03 2006 :: ign238.ign.com input spamming!
+Tue May  2 12:17:14 2006 :: ign238.ign.com input spamming!
+Tue May  2 12:54:18 2006 :: Silence has quit.
+Tue May  2 12:54:33 2006 :: Mercutio has quit.
+Tue May  2 13:55:57 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 13:56:00 2006 :: Loading Mercutio.
+Tue May  2 13:56:01 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  2 14:41:23 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 14:41:25 2006 :: Loading Silence.
+Tue May  2 14:41:27 2006 :: Silence@ign238.ign.com has connected.
+Tue May  2 14:42:16 2006 :: Silence has quit.
+Tue May  2 14:58:15 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 14:58:18 2006 :: Loading Silence.
+Tue May  2 14:58:19 2006 :: Silence@ign238.ign.com has connected.
+Tue May  2 14:58:41 2006 :: Silence has quit.
+Tue May  2 15:04:35 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 15:04:38 2006 :: Loading Silence.
+Tue May  2 15:04:39 2006 :: Silence@ign238.ign.com has connected.
+Tue May  2 15:04:51 2006 :: Silence has quit.
+Tue May  2 15:15:08 2006 :: EOF encountered on read.
+Tue May  2 15:15:08 2006 :: Closing link to Mercutio.
+Tue May  2 15:29:37 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Mercutio RVNUM: ] ref A009
+Tue May  2 15:29:37 2006 :: Mercutio has quit.
+Tue May  2 15:59:29 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 15:59:38 2006 :: Loading Mercutio.
+Tue May  2 15:59:40 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  2 16:19:04 2006 :: Mercutio has quit.
+Tue May  2 16:57:27 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 16:57:32 2006 :: Loading Mercutio.
+Tue May  2 16:57:33 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  2 17:44:02 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 17:44:17 2006 :: Loading Silence.
+Tue May  2 17:44:18 2006 :: Silence@ign238.ign.com has connected.
+Tue May  2 17:44:39 2006 :: Sock.sinaddr:  66.222.54.19
+Tue May  2 17:44:43 2006 :: Loading Stasya.
+Tue May  2 17:44:45 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net has connected.
+Tue May  2 18:10:24 2006 :: ign238.ign.com input spamming!
+Tue May  2 18:22:06 2006 :: EOF encountered on read.
+Tue May  2 18:22:06 2006 :: Closing link to Stasya.
+Tue May  2 18:23:50 2006 :: Silence has quit.
+Tue May  2 18:23:54 2006 :: Mercutio has quit.
+Tue May  2 18:28:45 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 18:28:47 2006 :: Loading Mercutio.
+Tue May  2 18:28:48 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  2 18:30:24 2006 :: ign238.ign.com input spamming!
+Tue May  2 18:30:33 2006 :: ign238.ign.com input spamming!
+Tue May  2 18:32:47 2006 :: Mercutio has quit.
+Tue May  2 18:32:52 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  2 18:32:54 2006 :: Loading Shard.
+Tue May  2 18:32:54 2006 :: [*****] BUG: Fread_char: No FMatch
+Tue May  2 18:32:54 2006 :: [*****] BUG: Fread_char: No FMatch
+Tue May  2 18:32:55 2006 :: Shard@ign238.ign.com has connected.
+Tue May  2 18:33:59 2006 :: Shard has quit.
+Tue May  2 18:36:33 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Stasya RVNUM: ] ref A009
+Tue May  2 18:36:33 2006 :: Stasya has quit.
+Tue May  2 22:57:05 2006 :: Sock.sinaddr:  67.19.238.52
+Tue May  2 22:57:05 2006 :: EOF encountered on read.
+Wed May  3 03:30:49 2006 :: Sock.sinaddr:  204.209.44.14
+Wed May  3 03:30:51 2006 :: EOF encountered on read.
+Wed May  3 09:48:14 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 09:48:24 2006 :: Loading Mercutio.
+Wed May  3 09:48:25 2006 :: Mercutio@ign238.ign.com has connected.
+Wed May  3 09:53:07 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 09:53:09 2006 :: Loading Silence.
+Wed May  3 09:53:10 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 10:43:21 2006 :: ign238.ign.com input spamming!
+Wed May  3 10:47:48 2006 :: Silence has quit.
+Wed May  3 10:52:36 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 10:52:38 2006 :: Loading Silence.
+Wed May  3 10:52:39 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 11:00:53 2006 :: Silence has quit.
+Wed May  3 11:03:13 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 11:03:17 2006 :: Loading Pepsi.
+Wed May  3 11:03:18 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May  3 11:03:26 2006 :: Log Pepsi: cast summon babbling sculptor
+Wed May  3 11:06:02 2006 :: Log Pepsi: cast summon science police
+Wed May  3 11:06:49 2006 :: Log Pepsi: cast summon science police
+Wed May  3 11:22:12 2006 :: Log Pepsi: cast summon fire flame elemental
+Wed May  3 11:42:33 2006 :: Pepsi has quit.
+Wed May  3 11:54:52 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 11:54:58 2006 :: Loading Silence.
+Wed May  3 11:54:59 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 11:55:31 2006 :: Silence has quit.
+Wed May  3 12:02:12 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 12:02:15 2006 :: Loading Pepsi.
+Wed May  3 12:02:16 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May  3 12:02:24 2006 :: Log Pepsi: cast summon tired adventurer
+Wed May  3 12:14:12 2006 :: Log Pepsi: cast summon wight emur
+Wed May  3 12:37:50 2006 :: Pepsi has quit.
+Wed May  3 12:53:29 2006 :: Mercutio has quit.
+Wed May  3 14:04:32 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:04:41 2006 :: Loading Mercutio.
+Wed May  3 14:04:42 2006 :: Mercutio@ign238.ign.com has connected.
+Wed May  3 14:12:32 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:13:04 2006 :: Dractest@ign238.ign.com new player.
+Wed May  3 14:17:23 2006 :: Log Dractest: delete
+Wed May  3 14:17:23 2006 :: Log Dractest: delete
+Wed May  3 14:17:23 2006 :: Dractest has quit.
+Wed May  3 14:18:06 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:18:09 2006 :: Loading Silence.
+Wed May  3 14:18:13 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 14:18:46 2006 :: Silence has quit.
+Wed May  3 14:26:31 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:26:33 2006 :: Loading Shard.
+Wed May  3 14:26:36 2006 :: Shard@ign238.ign.com has connected.
+Wed May  3 14:27:32 2006 :: Shard has quit.
+Wed May  3 14:34:20 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:34:24 2006 :: Loading Pepsi.
+Wed May  3 14:34:25 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May  3 14:34:39 2006 :: Pepsi has quit.
+Wed May  3 14:42:45 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 14:43:00 2006 :: Loading Pepsi.
+Wed May  3 14:43:01 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May  3 14:44:17 2006 :: Pepsi has quit.
+Wed May  3 15:04:26 2006 :: Mercutio has quit.
+Wed May  3 15:09:04 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 15:09:07 2006 :: Loading Mercutio.
+Wed May  3 15:09:08 2006 :: Mercutio@ign238.ign.com has connected.
+Wed May  3 15:14:19 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 15:14:21 2006 :: Loading Silence.
+Wed May  3 15:14:22 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 15:15:29 2006 :: Silence has quit.
+Wed May  3 15:21:44 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 15:21:47 2006 :: Loading Silence.
+Wed May  3 15:21:47 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 15:21:59 2006 :: Silence has quit.
+Wed May  3 15:58:30 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 15:58:32 2006 :: Loading Silence.
+Wed May  3 15:58:33 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 15:58:58 2006 :: Silence has quit.
+Wed May  3 16:04:38 2006 :: Sock.sinaddr:  67.19.185.236
+Wed May  3 16:04:40 2006 :: Loading Sembiance.
+Wed May  3 16:04:41 2006 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Wed May  3 16:04:44 2006 :: Log Sembiance: mset
+Wed May  3 16:34:17 2006 :: Log Sembiance: mset Mercutio qp 4000
+Wed May  3 16:35:46 2006 :: Mercutio@ign238.ign.com new player.
+Wed May  3 16:42:03 2006 :: Log Sembiance: mset mercutio race Nephilim
+Wed May  3 16:42:16 2006 :: Log Sembiance: mset mecutio qp -2000
+Wed May  3 16:42:27 2006 :: Log Sembiance: mset Mercutio qp -2000
+Wed May  3 16:43:08 2006 :: Sembiance has quit.
+Wed May  3 16:43:59 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 16:44:08 2006 :: Loading Silence.
+Wed May  3 16:44:09 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 16:45:44 2006 :: Silence has quit.
+Wed May  3 16:47:28 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 16:47:41 2006 :: Testcha@ign238.ign.com new player.
+Wed May  3 16:48:16 2006 :: Log Testcha: delete
+Wed May  3 16:48:17 2006 :: Log Testcha: delete
+Wed May  3 16:48:17 2006 :: Testcha has quit.
+Wed May  3 17:04:19 2006 :: Mercutio killed by the shadowy morkoth at 7419
+Wed May  3 17:10:05 2006 :: Mercutio has quit.
+Wed May  3 17:17:47 2006 :: Sock.sinaddr:  64.41.179.238
+Read_from_descriptor: Connection reset by peer
+Wed May  3 17:19:17 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 17:24:24 2006 :: Elektra@ign238.ign.com new player.
+Read_from_descriptor: Connection reset by peer
+Wed May  3 17:32:31 2006 :: Closing link to Elektra.
+Wed May  3 17:32:41 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May  3 17:33:02 2006 :: Loading Silence.
+Wed May  3 17:33:03 2006 :: Silence@ign238.ign.com has connected.
+Wed May  3 17:44:11 2006 :: Silence has quit.
+Wed May  3 19:11:55 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:12:21 2006 :: Elektra@adsl-71-135-65-197.dsl.pltn13.pacbell.net new player.
+Wed May  3 19:17:06 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:17:17 2006 :: Testguy@adsl-71-135-65-197.dsl.pltn13.pacbell.net new player.
+Wed May  3 19:17:40 2006 :: Log Testguy: delete
+Wed May  3 19:17:40 2006 :: Log Testguy: delete
+Wed May  3 19:17:40 2006 :: Testguy has quit.
+Wed May  3 19:21:22 2006 :: Elektra killed by the young snarling dragon at 3721
+Wed May  3 19:22:59 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:23:02 2006 :: Loading Pepsi.
+Wed May  3 19:23:03 2006 :: Pepsi@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Wed May  3 19:23:42 2006 :: Pepsi has quit.
+Wed May  3 19:23:45 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:23:51 2006 :: Loading Silence.
+Wed May  3 19:23:52 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Wed May  3 19:24:18 2006 :: Silence has quit.
+Wed May  3 19:29:17 2006 :: Elektra killed by A statue of the Fallen Red Dragon at 3001
+Wed May  3 19:30:15 2006 :: Sock.sinaddr:  204.209.44.14
+Wed May  3 19:32:38 2006 :: Log Elektra: delete
+Wed May  3 19:32:43 2006 :: Log Elektra: delete
+Wed May  3 19:32:43 2006 :: Elektra has quit.
+Wed May  3 19:42:14 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:42:18 2006 :: Loading Mercutio.
+Wed May  3 19:42:19 2006 :: Mercutio@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Read_from_descriptor: Connection reset by peer
+Wed May  3 19:44:27 2006 :: Closing link to Mercutio.
+Wed May  3 19:44:31 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:44:40 2006 :: Loading Silence.
+Wed May  3 19:44:41 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Wed May  3 19:46:00 2006 :: Silence has quit.
+Wed May  3 19:46:06 2006 :: Sock.sinaddr:  71.135.65.197
+Wed May  3 19:46:09 2006 :: Loading Mercutio.
+Wed May  3 19:46:10 2006 :: Mercutio@adsl-71-135-65-197.dsl.pltn13.pacbell.net reconnected.
+Wed May  3 19:51:23 2006 :: Mercutio has quit.
+Wed May  3 22:53:46 2006 :: Sock.sinaddr:  67.19.238.52
+Wed May  3 22:53:47 2006 :: EOF encountered on read.
+Thu May  4 03:23:37 2006 :: Sock.sinaddr:  204.209.44.14
+Thu May  4 03:23:38 2006 :: EOF encountered on read.
+Thu May  4 09:48:44 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 09:49:14 2006 :: Elektra@ign238.ign.com new player.
+Thu May  4 09:52:39 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 09:53:06 2006 :: Testtt@ign238.ign.com new player.
+Thu May  4 09:53:39 2006 :: Log Testtt: delete
+Thu May  4 09:53:40 2006 :: Log Testtt: delete
+Thu May  4 09:53:40 2006 :: Testtt has quit.
+Thu May  4 10:38:14 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 10:38:19 2006 :: Loading Pepsi.
+Thu May  4 10:38:20 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 10:39:09 2006 :: Pepsi has quit.
+Thu May  4 10:39:11 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 10:39:13 2006 :: Loading Silence.
+Thu May  4 10:39:14 2006 :: Silence@ign238.ign.com has connected.
+Thu May  4 10:40:23 2006 :: Silence has quit.
+Thu May  4 10:55:46 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 10:55:53 2006 :: Loading Prizmz.
+Thu May  4 10:55:53 2006 :: [*****] BUG: Fread_char: No FMatch
+Thu May  4 10:55:53 2006 :: [*****] BUG: Fread_char: No FMatch
+Thu May  4 10:55:55 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 10:56:21 2006 :: Prizmz has quit.
+Thu May  4 11:04:06 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:04:09 2006 :: Loading Pepsi.
+Thu May  4 11:04:10 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 11:04:19 2006 :: Pepsi has quit.
+Thu May  4 11:14:05 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:14:21 2006 :: Loading Silence.
+Thu May  4 11:14:22 2006 :: Silence@ign238.ign.com has connected.
+Thu May  4 11:14:34 2006 :: Silence has quit.
+Thu May  4 11:18:38 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:18:40 2006 :: Loading Prizmz.
+Thu May  4 11:18:41 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 11:18:54 2006 :: Prizmz has quit.
+Thu May  4 11:20:33 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:20:41 2006 :: Loading Prizmz.
+Thu May  4 11:20:42 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 11:37:11 2006 :: Prizmz has quit.
+Thu May  4 11:39:39 2006 :: Elektra has quit.
+Thu May  4 11:48:13 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:48:18 2006 :: Loading Elektra.
+Thu May  4 11:48:19 2006 :: Elektra@ign238.ign.com has connected.
+Thu May  4 11:54:56 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 11:55:57 2006 :: Loading Prizmz.
+Thu May  4 11:55:58 2006 :: Prizmz@ign238.ign.com has connected.
+Read_from_descriptor: Connection reset by peer
+Thu May  4 12:00:33 2006 :: Closing link to Prizmz.
+Thu May  4 12:00:34 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 12:00:38 2006 :: Loading Silence.
+Thu May  4 12:00:39 2006 :: Silence@ign238.ign.com has connected.
+Thu May  4 12:01:06 2006 :: Silence has quit.
+Thu May  4 12:01:08 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 12:01:10 2006 :: Loading Prizmz.
+Thu May  4 12:01:11 2006 :: Prizmz@ign238.ign.com reconnected.
+Thu May  4 12:04:42 2006 :: Elektra has quit.
+Thu May  4 12:04:44 2006 :: Prizmz has quit.
+Thu May  4 12:29:06 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 12:29:08 2006 :: Loading Elektra.
+Thu May  4 12:29:09 2006 :: Elektra@ign238.ign.com has connected.
+Thu May  4 12:30:27 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 12:30:29 2006 :: Loading Prizmz.
+Thu May  4 12:30:30 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 13:08:01 2006 :: Prizmz has quit.
+Thu May  4 13:48:36 2006 :: ign238.ign.com input spamming!
+Thu May  4 14:13:46 2006 :: ign238.ign.com input spamming!
+Thu May  4 14:38:48 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 14:38:50 2006 :: Loading Prizmz.
+Thu May  4 14:38:51 2006 :: Prizmz@ign238.ign.com has connected.
+Read_from_descriptor: Connection reset by peer
+Thu May  4 14:38:58 2006 :: Closing link to Prizmz.
+Thu May  4 14:39:01 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 14:39:08 2006 :: Loading Silence.
+Thu May  4 14:39:09 2006 :: Silence@ign238.ign.com has connected.
+Thu May  4 14:39:42 2006 :: Silence has quit.
+Thu May  4 14:39:44 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 14:39:46 2006 :: Loading Prizmz.
+Thu May  4 14:39:47 2006 :: Prizmz@ign238.ign.com reconnected.
+Thu May  4 15:02:59 2006 :: Log Prizmz: cast summon cat calico familiar
+Thu May  4 15:04:41 2006 :: Prizmz has quit.
+Thu May  4 15:11:31 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 15:11:33 2006 :: Loading Prizmz.
+Thu May  4 15:11:34 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 15:28:25 2006 :: Prizmz has quit.
+Thu May  4 15:31:10 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 15:31:14 2006 :: Loading Pepsi.
+Thu May  4 15:31:15 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 15:34:23 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 15:35:06 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 16:01:26 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 16:01:29 2006 :: Log Pepsi: cast summon ice bandit
+Thu May  4 16:12:57 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 16:44:00 2006 :: Pepsi has quit.
+Thu May  4 16:44:03 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 16:44:07 2006 :: Loading Prizmz.
+Thu May  4 16:44:08 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 16:45:28 2006 :: Prizmz has quit.
+Thu May  4 17:30:50 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 17:30:54 2006 :: Loading Pepsi.
+Read_from_descriptor: Connection reset by peer
+Thu May  4 17:30:59 2006 :: Closing link to Pepsi.
+Thu May  4 17:38:09 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 17:38:11 2006 :: Loading Pepsi.
+Thu May  4 17:38:12 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 17:39:12 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 18:02:57 2006 :: Pepsi has quit.
+Thu May  4 18:03:02 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 18:03:04 2006 :: Loading Prizmz.
+Thu May  4 18:03:05 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 18:04:04 2006 :: Prizmz has quit.
+Thu May  4 18:09:42 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 18:09:46 2006 :: Loading Pepsi.
+Thu May  4 18:09:47 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 18:09:54 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 18:13:09 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 18:20:33 2006 :: Log Pepsi: forge
+Thu May  4 18:21:02 2006 :: Pepsi has quit.
+Thu May  4 18:21:47 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 18:21:55 2006 :: Loading Prizmz.
+Thu May  4 18:21:56 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May  4 18:22:19 2006 :: Prizmz has quit.
+Thu May  4 18:25:32 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May  4 18:25:35 2006 :: Loading Pepsi.
+Thu May  4 18:25:36 2006 :: Pepsi@ign238.ign.com has connected.
+Thu May  4 18:25:54 2006 :: Log Pepsi: cast summon Elektra
+Thu May  4 18:30:27 2006 :: Pepsi has quit.
+Thu May  4 18:34:33 2006 :: Elektra has quit.
+Thu May  4 21:56:33 2006 :: Sock.sinaddr:  71.135.65.197
+Read_from_descriptor: Connection reset by peer
+Thu May  4 21:56:43 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 21:56:46 2006 :: Loading Silence.
+Thu May  4 21:56:47 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 21:56:52 2006 :: Silence has quit.
+Thu May  4 21:56:57 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 21:57:11 2006 :: Loading Elektra.
+Thu May  4 21:57:12 2006 :: Elektra@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 21:57:17 2006 :: Elektra has quit.
+Thu May  4 22:55:47 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 22:55:50 2006 :: Loading Elektra.
+Thu May  4 22:55:51 2006 :: Elektra@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 22:56:14 2006 :: Sock.sinaddr:  67.19.238.52
+Thu May  4 22:56:14 2006 :: EOF encountered on read.
+Thu May  4 23:10:30 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:10:34 2006 :: Loading Shard.
+Thu May  4 23:10:36 2006 :: Shard@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:13:03 2006 :: Shard has quit.
+Thu May  4 23:16:34 2006 :: Elektra has quit.
+Thu May  4 23:16:38 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:16:40 2006 :: Loading Prizmz.
+Thu May  4 23:16:41 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:17:34 2006 :: Prizmz has quit.
+Thu May  4 23:22:59 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:23:04 2006 :: Loading Prizmz.
+Thu May  4 23:23:05 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:24:10 2006 :: Prizmz has quit.
+Thu May  4 23:28:50 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:28:53 2006 :: Loading Prizmz.
+Thu May  4 23:28:54 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:29:41 2006 :: Prizmz has quit.
+Thu May  4 23:31:18 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:31:21 2006 :: Loading Elektra.
+Thu May  4 23:31:22 2006 :: Elektra@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:39:56 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:40:01 2006 :: Loading Prizmz.
+Thu May  4 23:40:02 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:40:29 2006 :: Prizmz has quit.
+Thu May  4 23:44:25 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:44:27 2006 :: Loading Prizmz.
+Thu May  4 23:44:28 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:44:35 2006 :: Prizmz has quit.
+Thu May  4 23:47:22 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:47:24 2006 :: Loading Prizmz.
+Thu May  4 23:47:26 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:47:40 2006 :: Prizmz has quit.
+Thu May  4 23:49:52 2006 :: Elektra has quit.
+Thu May  4 23:58:50 2006 :: Sock.sinaddr:  172.130.97.212
+Thu May  4 23:59:03 2006 :: EOF encountered on read.
+Thu May  4 23:59:10 2006 :: Sock.sinaddr:  71.135.65.197
+Thu May  4 23:59:12 2006 :: Loading Prizmz.
+Thu May  4 23:59:13 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Thu May  4 23:59:25 2006 :: Prizmz has quit.
+Fri May  5 00:04:36 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 00:04:38 2006 :: Loading Prizmz.
+Fri May  5 00:04:39 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 00:04:42 2006 :: Prizmz has quit.
+Fri May  5 00:15:35 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 00:15:37 2006 :: Loading Prizmz.
+Fri May  5 00:15:39 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 00:15:52 2006 :: Prizmz has quit.
+Fri May  5 00:50:42 2006 :: Sock.sinaddr:  24.168.194.188
+Fri May  5 00:50:44 2006 :: Loading Lena.
+Fri May  5 00:50:44 2006 :: Lena@cpe-024-168-194-188.sc.res.rr.com has connected.
+Read_from_descriptor: Connection reset by peer
+Fri May  5 00:56:05 2006 :: Closing link to Lena.
+Fri May  5 01:11:14 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lena RVNUM: ] ref A009
+Fri May  5 01:11:14 2006 :: Lena has quit.
+Fri May  5 03:26:04 2006 :: Sock.sinaddr:  204.209.44.14
+Fri May  5 03:26:04 2006 :: EOF encountered on read.
+Fri May  5 08:26:42 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:26:42 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:26:42 2006 :: EOF encountered on read.
+Fri May  5 08:26:42 2006 :: EOF encountered on read.
+Fri May  5 08:26:52 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 08:26:59 2006 :: Loading Prizmz.
+Fri May  5 08:27:00 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 08:28:00 2006 :: Prizmz has quit.
+Fri May  5 08:33:38 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:33:38 2006 :: EOF encountered on read.
+Fri May  5 08:33:39 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:33:40 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:33:40 2006 :: EOF encountered on read.
+Fri May  5 08:33:40 2006 :: EOF encountered on read.
+Fri May  5 08:33:49 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 08:33:52 2006 :: Loading Prizmz.
+Fri May  5 08:33:53 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 08:34:33 2006 :: Prizmz has quit.
+Fri May  5 08:34:38 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 08:34:39 2006 :: EOF encountered on read.
+Fri May  5 08:34:42 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 08:35:09 2006 :: Loading Elektra.
+Fri May  5 08:35:10 2006 :: Elektra@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 08:36:06 2006 :: Elektra has quit.
+Fri May  5 09:53:27 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 09:53:33 2006 :: Loading Elektra.
+Fri May  5 09:53:34 2006 :: Elektra@ign238.ign.com has connected.
+Fri May  5 09:53:42 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 09:53:49 2006 :: Loading Silence.
+Fri May  5 09:53:50 2006 :: Silence@ign238.ign.com has connected.
+Fri May  5 09:54:38 2006 :: Log Silence: forge
+Fri May  5 09:54:48 2006 :: Log Silence: forge icicle drain
+Fri May  5 09:55:28 2006 :: Silence has quit.
+Fri May  5 10:13:46 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 10:13:58 2006 :: Loading Pepsi.
+Fri May  5 10:13:59 2006 :: Pepsi@ign238.ign.com has connected.
+Fri May  5 10:14:42 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 10:31:02 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 10:47:25 2006 :: Pepsi has quit.
+Fri May  5 11:08:57 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 11:09:01 2006 :: Loading Pepsi.
+Fri May  5 11:09:02 2006 :: Pepsi@ign238.ign.com has connected.
+Fri May  5 11:16:09 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 11:34:34 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Pepsi RVNUM: ] ref A009
+Fri May  5 11:34:34 2006 :: Pepsi has quit.
+Fri May  5 11:37:35 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 11:37:37 2006 :: Loading Pepsi.
+Fri May  5 11:37:38 2006 :: Pepsi@ign238.ign.com has connected.
+Fri May  5 12:50:06 2006 :: Pepsi has quit.
+Fri May  5 13:17:49 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 13:17:53 2006 :: Loading Pepsi.
+Fri May  5 13:17:56 2006 :: Pepsi@ign238.ign.com has connected.
+Fri May  5 13:18:15 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 13:36:44 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 13:53:00 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 14:12:33 2006 :: Log Pepsi: cast summon Elektra
+Fri May  5 15:08:09 2006 :: Pepsi has quit.
+Fri May  5 15:11:04 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 15:11:06 2006 :: Loading Prizmz.
+Fri May  5 15:11:08 2006 :: Prizmz@ign238.ign.com has connected.
+Fri May  5 15:11:43 2006 :: Prizmz has quit.
+Fri May  5 15:11:48 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 15:11:53 2006 :: Loading Silence.
+Fri May  5 15:11:54 2006 :: Silence@ign238.ign.com has connected.
+Fri May  5 15:12:44 2006 :: Silence has quit.
+Fri May  5 15:13:15 2006 :: Log Elektra: forge mono vamp
+Fri May  5 15:13:17 2006 :: Log Elektra: forge
+Fri May  5 15:13:22 2006 :: Log Elektra: forge drain mono
+Fri May  5 15:13:27 2006 :: Log Elektra: forge mono drain
+Fri May  5 15:14:17 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 15:14:19 2006 :: Loading Prizmz.
+Fri May  5 15:14:20 2006 :: Prizmz@ign238.ign.com has connected.
+Fri May  5 15:14:49 2006 :: Prizmz has quit.
+Fri May  5 15:40:36 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 15:40:42 2006 :: Loading Shard.
+Fri May  5 15:40:43 2006 :: Shard@ign238.ign.com has connected.
+Fri May  5 15:40:45 2006 :: Shard has quit.
+Fri May  5 15:40:50 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 15:40:54 2006 :: Loading Prizmz.
+Fri May  5 15:40:55 2006 :: Prizmz@ign238.ign.com has connected.
+Fri May  5 15:45:34 2006 :: Log Prizmz: cast summon Elektra
+Fri May  5 16:48:45 2006 :: Prizmz has quit.
+Fri May  5 17:21:47 2006 :: Elektra has quit.
+Fri May  5 17:21:50 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 17:22:03 2006 :: Loading Pepsi.
+Fri May  5 17:22:04 2006 :: Pepsi@ign238.ign.com has connected.
+Fri May  5 17:30:45 2006 :: Pepsi has quit.
+Fri May  5 17:31:15 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 17:31:17 2006 :: Loading Prizmz.
+Fri May  5 17:31:18 2006 :: Prizmz@ign238.ign.com has connected.
+Read_from_descriptor: Connection reset by peer
+Fri May  5 17:32:23 2006 :: Closing link to Prizmz.
+Fri May  5 17:32:24 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 17:32:27 2006 :: Loading Elektra.
+Fri May  5 17:32:28 2006 :: Elektra@ign238.ign.com has connected.
+Fri May  5 17:33:13 2006 :: Elektra has quit.
+Fri May  5 17:33:15 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 17:33:17 2006 :: Loading Prizmz.
+Fri May  5 17:33:18 2006 :: Prizmz@ign238.ign.com reconnected.
+Fri May  5 17:33:25 2006 :: Prizmz has quit.
+Fri May  5 17:33:30 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May  5 17:33:33 2006 :: Loading Elektra.
+Fri May  5 17:33:34 2006 :: Elektra@ign238.ign.com has connected.
+Fri May  5 17:36:03 2006 :: Elektra has quit.
+Fri May  5 22:46:01 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 22:46:03 2006 :: Loading Silence.
+Fri May  5 22:46:04 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 22:52:29 2006 :: Silence has quit.
+Fri May  5 22:55:11 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May  5 22:55:12 2006 :: EOF encountered on read.
+Fri May  5 22:58:41 2006 :: Sock.sinaddr:  71.135.65.197
+Fri May  5 22:58:44 2006 :: Loading Silence.
+Fri May  5 22:58:45 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Fri May  5 23:12:12 2006 :: Silence has quit.
+Sat May  6 03:24:54 2006 :: Sock.sinaddr:  204.209.44.14
+Sat May  6 03:24:54 2006 :: EOF encountered on read.
+Sat May  6 04:46:26 2006 :: Sock.sinaddr:  67.19.238.52
+Sat May  6 04:46:29 2006 :: EOF encountered on read.
+Sat May  6 11:04:53 2006 :: Sock.sinaddr:  83.243.70.254
+Sat May  6 11:05:17 2006 :: Falagar@c7204-ge2-500.etelecom.ru new player.
+Sat May  6 11:07:48 2006 :: Log Falagar: delete
+Sat May  6 11:07:51 2006 :: Log Falagar: delete
+Sat May  6 11:07:51 2006 :: Falagar has quit.
+Sat May  6 17:32:25 2006 :: Sock.sinaddr:  71.135.65.197
+Sat May  6 17:32:32 2006 :: Loading Pepsi.
+Sat May  6 17:32:33 2006 :: Pepsi@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Sat May  6 17:32:47 2006 :: Pepsi has quit.
+Sat May  6 17:40:30 2006 :: Sock.sinaddr:  71.135.65.197
+Sat May  6 17:40:36 2006 :: Loading Pepsi.
+Sat May  6 17:40:37 2006 :: Pepsi@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Sat May  6 17:43:00 2006 :: Sock.sinaddr:  71.135.65.197
+Sat May  6 17:43:03 2006 :: Loading Prizmz.
+Sat May  6 17:43:04 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Sat May  6 17:43:59 2006 :: Prizmz has quit.
+Sat May  6 17:44:02 2006 :: Sock.sinaddr:  71.135.65.197
+Sat May  6 17:44:04 2006 :: Loading Silence.
+Sat May  6 17:44:05 2006 :: Silence@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Sat May  6 17:51:00 2006 :: Silence killed by a statue of Venus at 3036
+Sat May  6 17:52:42 2006 :: Pepsi has quit.
+Sat May  6 17:56:38 2006 :: Silence has quit.
+Sat May  6 17:56:40 2006 :: Sock.sinaddr:  71.135.65.197
+Sat May  6 17:56:42 2006 :: Loading Prizmz.
+Sat May  6 17:56:43 2006 :: Prizmz@adsl-71-135-65-197.dsl.pltn13.pacbell.net has connected.
+Sat May  6 18:00:47 2006 :: Prizmz has quit.
+Sat May  6 22:38:24 2006 :: Sock.sinaddr:  71.135.53.60
+Sat May  6 22:38:26 2006 :: Loading Silence.
+Sat May  6 22:38:27 2006 :: Silence@adsl-71-135-53-60.dsl.pltn13.pacbell.net has connected.
+Sat May  6 22:38:38 2006 :: Silence has quit.
+Sat May  6 22:52:33 2006 :: Sock.sinaddr:  67.19.238.52
+Sat May  6 22:52:33 2006 :: EOF encountered on read.
+Sun May  7 02:56:25 2006 :: Sock.sinaddr:  161.253.22.205
+Sun May  7 02:56:34 2006 :: Loading Edge.
+Sun May  7 02:56:37 2006 :: Edge@161.253.22.205 has connected.
+Sun May  7 02:57:25 2006 :: Edge has quit.
+Sun May  7 03:25:32 2006 :: Sock.sinaddr:  204.209.44.14
+Sun May  7 03:25:32 2006 :: EOF encountered on read.
+Sun May  7 16:54:53 2006 :: Sock.sinaddr:  70.161.144.167
+Sun May  7 16:54:55 2006 :: Loading Sirk.
+Sun May  7 16:54:55 2006 :: Sirk@ip70-161-144-167.hr.hr.cox.net has connected.
+Sun May  7 16:55:23 2006 :: EOF encountered on read.
+Sun May  7 16:55:23 2006 :: Closing link to Sirk.
+Sun May  7 17:09:51 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Sirk RVNUM: ] ref A009
+Sun May  7 17:09:51 2006 :: Sirk has quit.
+Sun May  7 17:16:42 2006 :: Sock.sinaddr:  67.19.185.236
+Sun May  7 17:16:44 2006 :: Loading Sembiance.
+Sun May  7 17:16:45 2006 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sun May  7 17:17:09 2006 :: Sembiance has quit.
+Sun May  7 22:54:57 2006 :: Sock.sinaddr:  67.19.238.52
+Sun May  7 22:54:57 2006 :: EOF encountered on read.
+Mon May  8 03:21:56 2006 :: Sock.sinaddr:  204.209.44.14
+Mon May  8 03:21:57 2006 :: EOF encountered on read.
+Mon May  8 10:26:08 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 10:26:11 2006 :: Loading Silence.
+Mon May  8 10:26:12 2006 :: Silence@ign238.ign.com has connected.
+Mon May  8 10:26:15 2006 :: Silence has quit.
+Mon May  8 10:26:19 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 10:26:27 2006 :: Loading Elektra.
+Mon May  8 10:26:29 2006 :: Elektra@ign238.ign.com has connected.
+Mon May  8 10:51:12 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 10:51:16 2006 :: Loading Prizmz.
+Mon May  8 10:51:18 2006 :: Prizmz@ign238.ign.com has connected.
+Mon May  8 10:51:25 2006 :: Log Prizmz: cast summon Elektra
+Mon May  8 10:51:42 2006 :: Prizmz has quit.
+Mon May  8 11:19:00 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 11:19:02 2006 :: Loading Pepsi.
+Mon May  8 11:19:03 2006 :: Pepsi@ign238.ign.com has connected.
+Mon May  8 11:48:43 2006 :: Sock.sinaddr:  219.73.16.110
+Mon May  8 11:50:05 2006 :: Gogeka@n219073016110.netvigator.com new player.
+Mon May  8 11:51:20 2006 :: EOF encountered on read.
+Mon May  8 11:51:20 2006 :: Closing link to Gogeka.
+Mon May  8 12:53:33 2006 :: Pepsi has quit.
+Mon May  8 12:57:34 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 12:57:37 2006 :: Loading Prizmz.
+Mon May  8 12:57:40 2006 :: Prizmz@ign238.ign.com has connected.
+Mon May  8 12:59:55 2006 :: Prizmz has quit.
+Mon May  8 14:54:01 2006 :: ign238.ign.com input spamming!
+Mon May  8 16:37:29 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 16:37:35 2006 :: Loading Shard.
+Mon May  8 16:37:36 2006 :: Shard@ign238.ign.com has connected.
+Mon May  8 16:38:10 2006 :: Shard has quit.
+Mon May  8 17:27:23 2006 :: Elektra has quit.
+Mon May  8 17:27:26 2006 :: Sock.sinaddr:  64.41.179.238
+Mon May  8 17:27:29 2006 :: Loading Silence.
+Mon May  8 17:27:30 2006 :: Silence@ign238.ign.com has connected.
+Mon May  8 17:34:37 2006 :: Silence has quit.
+Mon May  8 22:53:43 2006 :: Sock.sinaddr:  67.19.238.52
+Mon May  8 22:53:43 2006 :: EOF encountered on read.
+Mon May  8 23:03:26 2006 :: Sock.sinaddr:  24.93.174.254
+Mon May  8 23:05:05 2006 :: Deeon@cpe-24-93-174-254.neo.res.rr.com new player.
+Mon May  8 23:15:16 2006 :: Deeon has quit.
+Tue May  9 03:25:38 2006 :: Sock.sinaddr:  204.209.44.14
+Tue May  9 03:25:39 2006 :: EOF encountered on read.
+Tue May  9 10:24:51 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 10:24:57 2006 :: Loading Elektra.
+Tue May  9 10:24:58 2006 :: Elektra@ign238.ign.com has connected.
+Tue May  9 10:25:54 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 10:25:57 2006 :: Loading Mercutio.
+Tue May  9 10:25:58 2006 :: Mercutio@ign238.ign.com has connected.
+Tue May  9 10:26:19 2006 :: Mercutio has quit.
+Tue May  9 11:50:30 2006 :: Sock.sinaddr:  66.222.54.19
+Tue May  9 11:50:34 2006 :: Loading Stasya.
+Tue May  9 11:50:36 2006 :: Stasya@kgldgaambas03-pool2-a19.kgldga.tds.net has connected.
+Tue May  9 11:55:07 2006 :: Stasya has quit.
+Tue May  9 12:01:44 2006 :: Elektra has quit.
+Tue May  9 14:12:54 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 14:13:01 2006 :: Loading Elektra.
+Tue May  9 14:13:02 2006 :: Elektra@ign238.ign.com has connected.
+Tue May  9 14:15:05 2006 :: Elektra has quit.
+Tue May  9 14:15:38 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 14:15:42 2006 :: EOF encountered on read.
+Tue May  9 16:52:45 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 16:52:51 2006 :: Loading Elektra.
+Tue May  9 16:52:52 2006 :: Elektra@ign238.ign.com has connected.
+Tue May  9 16:53:17 2006 :: Elektra has quit.
+Tue May  9 16:53:20 2006 :: Sock.sinaddr:  64.41.179.238
+Tue May  9 16:53:24 2006 :: Loading Silence.
+Tue May  9 16:53:25 2006 :: Silence@ign238.ign.com has connected.
+Tue May  9 18:20:20 2006 :: Sock.sinaddr:  67.19.185.236
+Tue May  9 18:20:22 2006 :: Loading Sembiance.
+Tue May  9 18:20:23 2006 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Tue May  9 18:23:37 2006 :: Log Sembiance: advance
+Tue May  9 18:24:22 2006 :: Log Sembiance: advance silence 2
+Tue May  9 18:25:30 2006 :: Log Sembiance: mset
+Tue May  9 18:25:37 2006 :: Log Sembiance: mset silence race Nephilim
+Read_from_descriptor: Connection reset by peer
+Tue May  9 18:27:41 2006 :: Closing link to Sembiance.
+Tue May  9 18:27:55 2006 :: Sock.sinaddr:  67.19.185.236
+Tue May  9 18:27:58 2006 :: Loading Sembiance.
+Tue May  9 18:27:58 2006 :: Sembiance@ec.b9.1343.static.theplanet.com reconnected.
+Tue May  9 18:33:49 2006 :: Log Sembiance: mset
+Tue May  9 18:35:46 2006 :: Silence killed by The goblin at 3015
+Tue May  9 18:41:37 2006 :: Log Sembiance: mset
+Tue May  9 18:41:47 2006 :: Log Sembiance: mset silence train 9999
+Tue May  9 18:41:52 2006 :: Log Sembiance: mset silence train 5000
+Tue May  9 18:41:57 2006 :: Log Sembiance: mset silence race assassin
+Tue May  9 18:42:28 2006 :: Log Sembiance: mset
+Tue May  9 18:42:33 2006 :: Log Sembiance: mset silence oldlvl
+Tue May  9 18:42:38 2006 :: Log Sembiance: mset silence oldlvl 100
+Tue May  9 18:42:49 2006 :: Log Sembiance: mset silence oldlvl 100
+Tue May  9 18:42:54 2006 :: Log Sembiance: mset silence race assassin
+Tue May  9 18:43:01 2006 :: Log Sembiance: mset silence class assassin
+Tue May  9 18:44:08 2006 :: Silence killed by The goblin at 3015
+Tue May  9 18:48:10 2006 :: Log Sembiance: mset silence class psionic
+Tue May  9 18:48:16 2006 :: Log Sembiance: mset silence level 100
+Tue May  9 18:48:24 2006 :: Log Sembiance: advance silence 100
+Tue May  9 18:50:23 2006 :: Log Sembiance: advance silence 101
+Tue May  9 18:50:33 2006 :: Log Sembiance: snoop silence
+Tue May  9 18:50:56 2006 :: Log Sembiance: advance silence 100
+Tue May  9 18:52:22 2006 :: Log Sembiance: snoop self
+Tue May  9 18:52:31 2006 :: Sembiance has quit.
+Tue May  9 18:54:25 2006 :: Silence has quit.
+Tue May  9 19:58:21 2006 :: Sock.sinaddr:  24.93.174.254
+Tue May  9 19:58:33 2006 :: Loading Deeon.
+Tue May  9 19:58:33 2006 :: [*****] BUG: Fread_char: No FMatch
+Tue May  9 19:58:36 2006 :: Deeon@cpe-24-93-174-254.neo.res.rr.com has connected.
+Tue May  9 20:03:09 2006 :: Deeon has quit.
+Tue May  9 20:18:15 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 20:18:18 2006 :: Loading Silence.
+Tue May  9 20:18:19 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Tue May  9 20:21:05 2006 :: EOF encountered on read.
+Tue May  9 20:21:05 2006 :: Closing link to Silence.
+Tue May  9 20:35:32 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Silence RVNUM: ] ref A009
+Tue May  9 20:35:32 2006 :: Silence has quit.
+Tue May  9 20:58:50 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 20:58:53 2006 :: Loading Silence.
+Tue May  9 20:58:54 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Read_from_descriptor: Connection reset by peer
+Tue May  9 21:00:39 2006 :: Closing link to Silence.
+Tue May  9 21:00:44 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:00:45 2006 :: Loading Silence.
+Tue May  9 21:00:46 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net reconnected.
+Tue May  9 21:01:04 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:01:06 2006 :: Loading Prizmz.
+Tue May  9 21:01:08 2006 :: Prizmz@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Tue May  9 21:01:26 2006 :: Prizmz has quit.
+Tue May  9 21:01:28 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:01:31 2006 :: Loading Pepsi.
+Tue May  9 21:01:32 2006 :: Pepsi@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Tue May  9 21:01:43 2006 :: Pepsi has quit.
+Tue May  9 21:02:27 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:02:29 2006 :: Loading Pepsi.
+Tue May  9 21:02:30 2006 :: Pepsi@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Write_to_descriptor: Resource temporarily unavailable
+Tue May  9 21:04:26 2006 :: Closing link to Silence.
+Tue May  9 21:04:30 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:04:33 2006 :: Loading Silence.
+Tue May  9 21:04:34 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net reconnected.
+Tue May  9 21:07:07 2006 :: Pepsi killed by a statue of Yavi at 3036
+Tue May  9 21:09:01 2006 :: Pepsi has quit.
+Tue May  9 21:09:24 2006 :: Silence has quit.
+Tue May  9 21:35:41 2006 :: Sock.sinaddr:  71.135.37.180
+Tue May  9 21:35:43 2006 :: Loading Silence.
+Tue May  9 21:35:44 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Tue May  9 22:10:41 2006 :: adsl-71-135-37-180.dsl.pltn13.pacbell.net input spamming!
+Tue May  9 22:11:49 2006 :: adsl-71-135-37-180.dsl.pltn13.pacbell.net input spamming!
+Tue May  9 22:11:59 2006 :: adsl-71-135-37-180.dsl.pltn13.pacbell.net input spamming!
+Tue May  9 22:12:08 2006 :: adsl-71-135-37-180.dsl.pltn13.pacbell.net input spamming!
+Tue May  9 22:19:46 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:20:37 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:21:13 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:03 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:13 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:22 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:32 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:41 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:22:57 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:23:07 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:23:16 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:23:29 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:23:43 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:24:12 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:24:24 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:25:27 2006 :: [*****] BUG: Set_fighting: already fighting
+Tue May  9 22:28:03 2006 :: Silence has quit.
+Tue May  9 22:52:02 2006 :: Sock.sinaddr:  67.19.238.52
+Tue May  9 22:52:03 2006 :: EOF encountered on read.
+Wed May 10 00:28:00 2006 :: Sock.sinaddr:  161.253.22.205
+Wed May 10 00:28:13 2006 :: Loading Edge.
+Wed May 10 00:28:16 2006 :: Edge@161.253.22.205 has connected.
+Wed May 10 00:28:22 2006 :: Edge has quit.
+Wed May 10 03:22:56 2006 :: Sock.sinaddr:  204.209.44.14
+Wed May 10 03:22:56 2006 :: EOF encountered on read.
+Wed May 10 10:07:02 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May 10 10:07:13 2006 :: Loading Silence.
+Wed May 10 10:07:14 2006 :: Silence@ign238.ign.com has connected.
+Wed May 10 10:14:20 2006 :: Silence has quit.
+Wed May 10 10:14:22 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May 10 10:14:25 2006 :: Loading Pepsi.
+Wed May 10 10:14:26 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May 10 10:15:23 2006 :: Pepsi has quit.
+Wed May 10 15:15:08 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May 10 15:15:15 2006 :: Loading Silence.
+Wed May 10 15:15:16 2006 :: Silence@ign238.ign.com has connected.
+Wed May 10 15:15:24 2006 :: Silence has quit.
+Wed May 10 16:02:33 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May 10 16:02:42 2006 :: Loading Silence.
+Wed May 10 16:02:43 2006 :: Silence@ign238.ign.com has connected.
+Wed May 10 16:02:49 2006 :: Silence has quit.
+Wed May 10 16:03:50 2006 :: Sock.sinaddr:  64.41.179.238
+Wed May 10 16:04:19 2006 :: Loading Pepsi.
+Wed May 10 16:04:20 2006 :: Pepsi@ign238.ign.com has connected.
+Wed May 10 16:04:33 2006 :: Pepsi has quit.
+Wed May 10 22:19:11 2006 :: Sock.sinaddr:  71.135.37.180
+Wed May 10 22:19:13 2006 :: Loading Silence.
+Wed May 10 22:19:14 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Wed May 10 22:20:32 2006 :: Silence has quit.
+Wed May 10 22:55:13 2006 :: Sock.sinaddr:  67.19.238.52
+Wed May 10 22:55:13 2006 :: EOF encountered on read.
+Thu May 11 03:23:44 2006 :: Sock.sinaddr:  204.209.44.14
+Thu May 11 03:23:44 2006 :: EOF encountered on read.
+Thu May 11 11:47:29 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 11:47:32 2006 :: Loading Silence.
+Thu May 11 11:47:36 2006 :: Silence@ign238.ign.com has connected.
+Thu May 11 11:47:42 2006 :: Silence has quit.
+Thu May 11 11:47:57 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 11:48:01 2006 :: Loading Mercutio.
+Thu May 11 11:48:02 2006 :: Mercutio@ign238.ign.com has connected.
+Thu May 11 11:48:21 2006 :: Mercutio has quit.
+Thu May 11 12:31:15 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 12:31:27 2006 :: Loading Silence.
+Thu May 11 12:31:28 2006 :: Silence@ign238.ign.com has connected.
+Thu May 11 12:39:57 2006 :: Silence has quit.
+Thu May 11 12:40:01 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 12:40:13 2006 :: Testangel@ign238.ign.com new player.
+Thu May 11 12:40:58 2006 :: Log Testangel: delete
+Thu May 11 12:40:59 2006 :: Log Testangel: delete
+Thu May 11 12:40:59 2006 :: Testangel has quit.
+Thu May 11 12:51:09 2006 :: Sock.sinaddr:  64.41.179.238
+Read_from_descriptor: Connection reset by peer
+Thu May 11 13:00:49 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 13:00:51 2006 :: Loading Prizmz.
+Thu May 11 13:00:52 2006 :: Prizmz@ign238.ign.com has connected.
+Thu May 11 13:02:30 2006 :: Prizmz has quit.
+Thu May 11 17:55:12 2006 :: Sock.sinaddr:  64.41.179.238
+Thu May 11 17:55:14 2006 :: Loading Silence.
+Thu May 11 17:55:15 2006 :: Silence@ign238.ign.com has connected.
+Thu May 11 18:01:52 2006 :: Silence has quit.
+Thu May 11 19:49:26 2006 :: Sock.sinaddr:  24.93.174.254
+Thu May 11 19:49:36 2006 :: Loading Deeon.
+Thu May 11 19:49:36 2006 :: [*****] BUG: Fread_char: No FMatch
+Thu May 11 19:49:39 2006 :: Deeon@cpe-24-93-174-254.neo.res.rr.com has connected.
+Thu May 11 19:53:01 2006 :: Deeon has quit.
+Thu May 11 22:55:06 2006 :: Sock.sinaddr:  67.19.238.52
+Thu May 11 22:55:06 2006 :: EOF encountered on read.
+Fri May 12 03:25:50 2006 :: Sock.sinaddr:  204.209.44.14
+Fri May 12 03:25:51 2006 :: EOF encountered on read.
+Fri May 12 10:21:46 2006 :: Sock.sinaddr:  64.41.179.238
+Fri May 12 10:21:48 2006 :: Loading Silence.
+Fri May 12 10:21:49 2006 :: Silence@ign238.ign.com has connected.
+Fri May 12 10:44:04 2006 :: Silence has quit.
+Fri May 12 18:44:04 2006 :: Sock.sinaddr:  71.135.37.180
+Fri May 12 18:44:07 2006 :: Loading Silence.
+Fri May 12 18:44:08 2006 :: Silence@adsl-71-135-37-180.dsl.pltn13.pacbell.net has connected.
+Fri May 12 18:45:46 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:45:59 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:46:08 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:46:21 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:46:43 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:49:57 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:06 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:17 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:22 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:30 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:39 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:49 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:50:59 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:51:12 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:51:18 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:51:27 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:51:40 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:54:09 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:55:21 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:55:59 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 18:56:30 2006 :: [*****] BUG: Set_fighting: already fighting
+Fri May 12 19:05:39 2006 :: Silence has quit.
+Fri May 12 22:54:48 2006 :: Sock.sinaddr:  67.19.238.52
+Fri May 12 22:54:48 2006 :: EOF encountered on read.
+Sat May 13 03:24:38 2006 :: Sock.sinaddr:  204.209.44.14
+Sat May 13 03:24:38 2006 :: EOF encountered on read.
+Sat May 13 06:37:12 2006 :: Sock.sinaddr:  67.19.238.52
+Sat May 13 06:37:15 2006 :: EOF encountered on read.
+Sat May 13 15:57:39 2006 :: Sock.sinaddr:  70.161.144.167
+Sat May 13 15:57:40 2006 :: Loading Sirk.
+Sat May 13 15:57:41 2006 :: Sirk@ip70-161-144-167.hr.hr.cox.net has connected.
+Sat May 13 15:58:17 2006 :: Sock.sinaddr:  70.161.144.167
+Sat May 13 15:58:20 2006 :: Loading Venus.
+Sat May 13 15:58:22 2006 :: Venus@ip70-161-144-167.hr.hr.cox.net has connected.
+Sat May 13 16:03:40 2006 :: Sirk killed by a gauntlet warrior at 25303
+Sat May 13 16:09:14 2006 :: Sock.sinaddr:  70.161.144.167
+Sat May 13 16:09:14 2006 :: EOF encountered on read.
+Sat May 13 16:09:14 2006 :: Closing link to Sirk.
+Sat May 13 16:09:16 2006 :: Loading Sirk.
+Sat May 13 16:09:17 2006 :: Sirk@ip70-161-144-167.hr.hr.cox.net reconnected.
+Sat May 13 16:09:18 2006 :: Sirk has quit.
+Sat May 13 16:09:19 2006 :: Sock.sinaddr:  70.161.144.167
+Sat May 13 16:09:20 2006 :: Loading Sirk.
+Sat May 13 16:09:21 2006 :: Sirk@ip70-161-144-167.hr.hr.cox.net has connected.
+Sat May 13 16:10:09 2006 :: Log Venus: pload
+Sat May 13 16:10:12 2006 :: Log Venus: pload spectra
+Sat May 13 16:10:18 2006 :: Log Venus: pload seclar
+Sat May 13 16:10:18 2006 :: Loading seclar.

@@ -1,0 +1,52 @@
+#AREADATA
+Name Open Area~
+Builders Wiffle~
+VNUMs 7500 7699
+Credits (null)~
+Security 1
+Flags BEH
+LEVELs 1 500
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#7500
+~
+~
+0 0 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

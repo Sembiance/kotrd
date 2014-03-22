@@ -1,0 +1,76 @@
+#PLAYER
+Name Kay~
+Id   1097210399
+LogO 1097746555
+Vers 5
+Desc Blank
+~
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Kender~
+Sex  2
+Cla  3
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 20275
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  177 177 136 136 184 184
+Gold 0
+Silv 0
+Gold_bank 2500
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  22576
+QuestPnts 177
+PAct  EGQTd
+AfBy FV
+Empower  0
+WName Kay~
+Comm FNO
+Deaf DP
+Pos  8
+Alig  0
+ACs 100 100 100 100
+Wimp  35
+Attr 13 15 15 23 13
+AMod 0 0 0 0 0
+Pass Kaub.xDnBp2to~
+Titl  Minx~
+Pnts 50
+TSex 2
+PSize 1
+LLev 1
+HMVP 177 136 184
+Cnd  0 0 0 0
+Alias loot get all corpse~
+Alias att score~
+Alias ex exits~
+Sk 1 'identify'
+Sk 78 'dagger'
+Sk 75 'backstab'
+Sk 51 'dirt kicking'
+Sk 51 'kick'
+Sk 1 'dodge'
+Sk 47 'trip'
+Sk 1 'second attack'
+Sk 12 'hide'
+Sk 23 'peek'
+Sk 11 'pick lock'
+Sk 21 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Gr 'identify spell'
+End
+
+#END

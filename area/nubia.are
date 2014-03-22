@@ -1,0 +1,58 @@
+#AREADATA
+Name Nubia~
+Builders Venus~
+VNUMs 200 299
+Credits (null)~
+Security 9
+Flags B
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#200
+~
+~
+0 4 0
+C 0
+S
+#252
+~
+~
+0 4 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,73 @@
+#PLAYER
+Name Aelin~
+Id   1109651267
+LogO 1109651912
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Draconian~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 645
+Scro 33
+Room 3054
+HMV  1 32 102 102 82 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3574
+PAct  DEFGHQTd
+AfBy JT
+WName Aelin~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 1
+Trai 1
+Alig  -1000
+ACs 100 100 100 100
+Attr 23 14 12 12 17
+AMod 0 0 0 0 0
+Pass AeemZ2tfAhyzM~
+Titl  The Dark Paladin~
+Pnts 54
+TSex 1
+PSize 3
+LLev 0
+HMVP 32 102 106
+Cnd  0 8 38 28
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 10 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+End
+
+#END

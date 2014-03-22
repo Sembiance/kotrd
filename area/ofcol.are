@@ -1,0 +1,390 @@
+#AREADATA
+Name Ofcol~
+Builders Argon~
+VNUMs 5500 5599
+Credits ALL   ~
+Security 8
+Flags F
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5500
+~
+~
+0 4 0
+C 0
+S
+#5550
+{MVillage street{x~
+You stand at the small village street in Ofcol.
+From here you see small houses and only few people.
+North of here the village street continues up to the small
+square where some people are gathered as always.
+~
+0 0 13
+D0
+You look up the village street noticing nothing special at all.
+~
+~
+0 -1 5551
+C 0
+S
+#5551
+{MVillage street{x~
+You are standing on the village street of Ofcol.  East from here is a
+small alley and north you enter the village square.  Towards the south you
+can leave Ofcol.  There is a dirt road that leads towards mountains in the
+distance.  
+~
+0 0 2
+D0
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+D1
+The small alley looks relative peaceful.
+~
+~
+0 -1 5553
+D2
+You see the village street eventually becoming the wide road.
+~
+~
+0 -1 5550
+D3
+~
+~
+0 0 5578
+C 0
+S
+#5552
+{MVillage square{x~
+The village square is a place where inhabitants of Ofcol gather
+to talk, trade and sell items and just have a good time.
+You see a small shop to the west and the local inn to the north.
+If you leave south you go to village street.
+~
+0 0 2
+D0
+You see a local inn called 'The Ofcol Local Inn'. Looks nice.
+~
+~
+0 -1 5556
+D2
+You see the village street of Ofcol.
+~
+~
+0 -1 5551
+D3
+A small shop with the sign 'Luxan's Mixed goods' hanging in front of it.
+~
+~
+0 -1 5555
+C 0
+S
+#5553
+{MThe small alley{x~
+You are in a small, quiet alley.  From here you see the village street
+to the west and a small room lies to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 601
+D2
+It looks like the future site of a training room.
+~
+~
+0 -1 5554
+D3
+You notice nothing but the village street.
+~
+~
+0 -1 5551
+C 0
+S
+#5554
+{MThe future training room{x~
+This is the future site of a training room.  The only exit is north
+leading to the small alley.
+~
+0 8 1
+D0
+You are able to see the small alley, really not very interesting.
+~
+~
+0 -1 5553
+C 0
+S
+#5555
+{MLuxan's mixed shop{x~
+You are standing in a small shop, filled with all kinds of goods.
+Here you might be able to find just the thing you're looking for.
+The only exit is east to village square.
+~
+0 8 1
+D1
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+C 0
+S
+#5556
+{MThe Local Inn{x~
+You are in the local inn, where the peaceful citizens of Ofcol
+gather to have a drink or 5 if they have dry throats.
+You can't help thinking that Ofcol is a dry city, when you see the
+many people here.
+The only exit is south to the village square.
+~
+0 8 1
+D2
+The village square is as usual not overcrowded.
+~
+~
+0 -1 5552
+C 0
+S
+#5577
+{MRavan's hideout{x~
+This place is a small, cosy place where no one disturbs you all
+the time. The room has little decoration except for some pictures
+on the wall.
+You notice that there are no exits from this room.
+~
+0 4 1
+E
+friend friends~
+The list include such prominent names as : God, Lottie, Kurgan,
+Ezzard, Mike, Sprocket and Stormbringer.
+~
+E
+foe foes enemies~
+There is only one picture yet... Dim.
+It pictures him hanging from a gallow, north of the town.
+It has the letters R.I.P. inscripted underneath.
+~
+E
+pictures picture decoration~
+These pictures show the friend's and foe's of Ravan.
+They are easy to separate, as most of the foe's have the letters
+R.I.P. inscripted underneath them.
+~
+C 0
+S
+#5578
+{MA small dirt road{x~
+You are on a small dirt road leading out of town.
+~
+0 0 13
+D1
+~
+~
+0 0 5551
+D3
+~
+~
+0 0 5579
+C 0
+S
+#5579
+{MA small dirt road{x~
+You are on a small dirt road leading out of town.
+~
+0 0 13
+D1
+~
+~
+0 0 5578
+D3
+~
+~
+0 0 5580
+C 0
+S
+#5580
+{MA small dirt road{x~
+You are on a small dirt road leading out of town.  You can see some hills
+ahead and mountains in the distance.  
+~
+0 0 13
+D1
+~
+~
+0 0 5579
+D3
+~
+~
+0 0 5581
+C 0
+S
+#5581
+{MYou are on a small dirt road{x~
+You are on a small dirt road in the hills.
+~
+0 0 5
+D1
+~
+~
+0 0 5580
+D3
+~
+~
+0 0 5582
+C 0
+S
+#5582
+{MA small dirt road{x~
+You are on a small dirt road in the hills.  You see the mountains ahead
+of you.  
+~
+0 0 5
+D1
+~
+~
+0 0 5581
+D3
+~
+~
+0 0 5583
+C 0
+S
+#5583
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.
+~
+0 1 6
+D1
+~
+~
+0 0 5582
+D3
+~
+~
+0 0 5584
+C 0
+S
+#5584
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.
+~
+0 1 6
+D1
+~
+~
+0 0 5583
+D3
+~
+~
+0 0 5585
+C 0
+S
+#5585
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.
+~
+0 1 6
+D1
+~
+~
+0 0 5584
+D3
+~
+~
+0 0 5586
+C 0
+S
+#5586
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.
+~
+0 1 6
+D1
+~
+~
+0 0 5585
+D3
+~
+~
+0 0 5587
+C 0
+S
+#5587
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.  Ahead of you, you can see
+a great wall.  
+~
+0 1 6
+D1
+~
+~
+0 0 5586
+D3
+~
+~
+0 0 5588
+C 0
+S
+#5588
+{MA country dirt road{x~
+You are on a small dirt road in the mountains.  Ahead of you, you can see
+a great wall.  
+~
+0 1 6
+D1
+~
+~
+0 0 5587
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 303 5 5550 3
+M 0 304 5 5552 3
+E 0 3020 0 16
+M 0 304 5 5553 3
+M 0 306 1 5555 1
+G 0 304 0
+G 0 3030 0
+M 0 303 5 5556 3
+M 0 308 1 5556 1
+G 0 3000 0
+G 0 3001 0
+M 0 350 1 5577 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1942 @@
+#AREADATA
+Name Elven Academy~
+Builders Dreamslayer~
+VNUMs 6800 6899
+Credits ALL~
+Security 9
+Flags 0
+LEVELs 5 20
+End
+
+
+
+#MOBILES
+#6800
+elf elven student young~
+{Ra young {Gelven {Rstudent{x~
+{RA young {Gelven {Rstudent sits here awaiting a lesson.{x
+~
+~
+Elf~
+ACGU J 0 0
+0
+7 10 2d6+60 0d0+0 1d6+1 none
+6 6 6 6
+0 0 PQ Z
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#6801
+elf elven apprentice~
+{Ran inspiring {Gelven {Rapprentice{x~
+{RAn inspiring {Gelven {Rapprentice stands here awaiting a Master.{x
+~
+~
+Elf~
+ACGU J 0 0
+0
+13 0 10d10+10 0d0+0 1d7+1 none
+4 4 4 7
+0 0 PQ Z
+stand stand either 750
+AHMV ABCDEFGHIJK medium unknown
+#6802
+elf elven teacher~
+{Ran {Gelven {Rteacher{x~
+{RAn {Gelven {Rteacher stands here with authority.{x
+~
+~
+Elf~
+ACGU J 0 0
+0
+19 0 2d6+85 0d0+0 1d8+1 none
+0 0 0 0
+0 0 PQ Z
+stand stand either 1200
+AHMV ABCDEFGHIJK medium unknown
+#6803
+elf elven master~
+{Ran {Gelven {Rmaster{x~
+{RAn {Gelven {Rmaster stands here giving knowledge to would be apprentices.{x
+~
+~
+Elf~
+ACGTU J 0 0
+0
+25 0 3d9+308 0d0+0 2d7+5 none
+-4 -4 -4 -4
+0 0 PQ Z
+stand stand either 1200
+AHMV ABCDEFGHIJK medium unknown
+#6804
+elf elven guard~
+{Ran {Gelven {Rguard of combat {X~
+{RAn {Gelven {Rguard of combat stands here. {X
+~
+~
+Elf~
+ACGTU J 0 0
+0
+25 0 3d9+308 0d0+0 2d4+2 none
+-2 -2 -2 -2
+0 0 PQ Z
+stand stand either 1200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#6800
+elf elven academy ring~
+{Ran {Gelvish {Wacademy {Rring{x~
+{RAn {Gelvish {Wacademy {Rring lies here.{x~
+ONYX armor 0 AB
+0 0 0 0 0
+5 0 200 P
+A
+13 5
+A
+17 -5
+#0
+
+
+
+#ROOMS
+#6800
+{GEntrance to the Elven Academy{X~
+{RYou stand before the great {WAcademy of the Elves.  {R Arrow and bow
+pits stand in your midst as well as a whole slew of other weapons.  Loud
+instruction can be heard from far away and the warmth of a {Yfire {Rcan be
+felt from where you stand.  The smell of elvish poisons and potions wonders
+your nose of its strange odor.  You wonder what great adventures await you
+in the doors where great elves onces studied.  
+~
+0 0 13
+D0
+~
+~
+0 0 6801
+C 0
+S
+#6801
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6802
+D1
+~
+~
+0 0 6810
+D2
+~
+~
+0 0 6800
+D3
+~
+~
+0 0 6826
+C 0
+S
+#6802
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6803
+D1
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6828
+C 0
+S
+#6803
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6804
+D1
+~
+~
+0 0 6814
+D2
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6830
+C 0
+S
+#6804
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6805
+D1
+~
+~
+0 0 6816
+D2
+~
+~
+0 0 6803
+D3
+~
+~
+0 0 6832
+C 0
+S
+#6805
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6806
+D1
+~
+~
+0 0 6818
+D2
+~
+~
+0 0 6804
+D3
+~
+~
+0 0 6834
+C 0
+S
+#6806
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6807
+D1
+~
+~
+0 0 6820
+D2
+~
+~
+0 0 6805
+D3
+~
+~
+0 0 6836
+C 0
+S
+#6807
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6808
+D1
+~
+~
+0 0 6822
+D2
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6838
+C 0
+S
+#6808
+{GIn the great Halls of Elf kind{X~
+{RYou stand in {Wawe{R on the floors of greatness.  Here, young elves
+learn their first trainings in the arts of combat and wisdom.  Elven
+students walk all around you following their mentors.  Above you, your eyes
+catch the sight of top students training with their masters.  Only the
+master elves may teach the young graduates and you can view their respect
+from your position.  {X 
+~
+0 0 0
+D0
+~
+~
+0 0 6809
+D1
+~
+~
+0 0 6824
+D2
+~
+~
+0 0 6807
+D3
+~
+~
+0 0 6840
+C 0
+S
+#6809
+{GAlong the stairs{x~
+{RYou are fairly deep within the Academy and have now arrived at the
+north stairwell.  The young elven halls lay behind you but you are reminded
+that all great warriors start from somewhere.  This stairwell leads to the
+second level of the Elven Academy.  The steps are of solid elven oak and
+paintings of various elvish {GRoyals {Rline the walls.  
+~
+0 0 1
+D2
+~
+~
+0 0 6808
+D4
+~
+~
+0 0 6842
+C 0
+S
+#6810
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6811
+D3
+~
+~
+0 0 6801
+C 0
+S
+#6811
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6810
+C 0
+S
+#6812
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6813
+D3
+~
+~
+0 0 6802
+C 0
+S
+#6813
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6812
+C 0
+S
+#6814
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6815
+D3
+~
+~
+0 0 6803
+C 0
+S
+#6815
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6814
+C 0
+S
+#6816
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6817
+D3
+~
+~
+0 0 6804
+C 0
+S
+#6817
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6816
+C 0
+S
+#6818
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6805
+C 0
+S
+#6819
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6818
+C 0
+S
+#6820
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6821
+D3
+~
+~
+0 0 6806
+C 0
+S
+#6821
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6820
+C 0
+S
+#6822
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6823
+D3
+~
+~
+0 0 6807
+C 0
+S
+#6823
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6822
+C 0
+S
+#6824
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6825
+D3
+~
+~
+0 0 6808
+C 0
+S
+#6825
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D3
+~
+~
+0 0 6824
+C 0
+S
+#6826
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6827
+C 0
+S
+#6827
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6826
+C 0
+S
+#6828
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6829
+C 0
+S
+#6829
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6828
+C 0
+S
+#6830
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6803
+D3
+~
+~
+0 0 6831
+C 0
+S
+#6831
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6830
+C 0
+S
+#6832
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6804
+D3
+~
+~
+0 0 6833
+C 0
+S
+#6833
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6832
+C 0
+S
+#6834
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6805
+D3
+~
+~
+0 0 6835
+C 0
+S
+#6835
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6834
+C 0
+S
+#6836
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6837
+C 0
+S
+#6837
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6836
+C 0
+S
+#6838
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6807
+D3
+~
+~
+0 0 6839
+C 0
+S
+#6839
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6838
+C 0
+S
+#6840
+{GA sidepath to an Academia{x~
+{RYou stand in an off path that leads to an Academia.  The path is filled
+with students running to attend the wise sage sessions.  You wonder if you
+can peek in on the elven secrets.  Elven {WGuards {Rstand at the ready to
+defend the academy's honor.  They stand tall and overbearing; they are
+worthy fighters.  {x 
+~
+0 0 1
+D1
+~
+~
+0 0 6808
+D3
+~
+~
+0 0 6841
+C 0
+S
+#6841
+{GInside an elvish Academia{X~
+{RYou stand in a dwelling of a {Wteacher.  {R The teachers use this area
+to mold the young strong elvish force to some day be heros.  Charts and
+graphs hang from all angles.  Symbols of old elvish techniques line the
+walls.  The students, not wanting to be rude, are at the teacher's beck and
+call and ignore your visit here.  You search through the room for artifacts
+and antiques to tinker with.  
+~
+0 0 1
+D1
+~
+~
+0 0 6840
+C 0
+S
+#6842
+{GAlong the stairs{x~
+{RYou are fairly deep within the Academy and have now arrived at the
+north stairwell.  The young elven halls lay behind you but you are reminded
+that all great warriors start from somewhere.  This stairwell leads to the
+second level of the Elven Academy.  The steps are of solid elven oak and
+paintings of various elvish {GRoyals {Rline the walls.  
+~
+0 0 1
+D2
+~
+~
+0 0 6843
+D5
+~
+~
+0 0 6809
+C 0
+S
+#6843
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6842
+D1
+~
+~
+0 0 6853
+D2
+~
+~
+0 0 6844
+D3
+~
+~
+0 0 6871
+C 0
+S
+#6844
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6843
+D1
+~
+~
+0 0 6855
+D2
+~
+~
+0 0 6845
+D3
+~
+~
+0 0 6873
+C 0
+S
+#6845
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6844
+D1
+~
+~
+0 0 6857
+D2
+~
+~
+0 0 6846
+D3
+~
+~
+0 0 6875
+C 0
+S
+#6846
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6845
+D1
+~
+~
+0 0 6859
+D2
+~
+~
+0 0 6847
+D3
+~
+~
+0 0 6877
+C 0
+S
+#6847
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6846
+D1
+~
+~
+0 0 6861
+D2
+~
+~
+0 0 6848
+D3
+~
+~
+0 0 6879
+C 0
+S
+#6848
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6847
+D1
+~
+~
+0 0 6863
+D2
+~
+~
+0 0 6849
+D3
+~
+~
+0 0 6881
+C 0
+S
+#6849
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6848
+D1
+~
+~
+0 0 6865
+D2
+~
+~
+0 0 6850
+D3
+~
+~
+0 0 6883
+C 0
+S
+#6850
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6849
+D1
+~
+~
+0 0 6867
+D2
+~
+~
+0 0 6851
+D3
+~
+~
+0 0 6885
+C 0
+S
+#6851
+{GOn the training Grounds{X~
+{RThe stairs have led you to an elevated surface with a {GDome {Rin the
+middle making it the ceilings highest point.  The sound of combat instrution
+can clearly be heard now and you find some of it very harsh from the elvish
+words you can pick up.  The masters seem to keep to themselves save they are
+helping a student while the students are curious to your visit to the
+school.  You ignore all the eyes you feel on your armor and weapon and stive
+on.  {X 
+~
+0 0 1
+D0
+~
+~
+0 0 6850
+D1
+~
+~
+0 0 6869
+D2
+~
+~
+0 0 6852
+D3
+~
+~
+0 0 6887
+C 0
+S
+#6852
+{GBack of the training Grounds{x~
+{RYou make your way to the back of the school and can peer down over the
+entire {WAcademy{R.  This is wear young elves come to relax after a long day
+of teaching.  The atmosphere is very calm and {Ysoothing{R.  You stretch
+your arms to the air and thank the gods for the good luck they have bestowed
+you.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 6851
+C 0
+S
+#6853
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6854
+D3
+~
+~
+0 0 6843
+C 0
+S
+#6854
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6853
+C 0
+S
+#6855
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6856
+D3
+~
+~
+0 0 6844
+C 0
+S
+#6856
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6855
+C 0
+S
+#6857
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6858
+D3
+~
+~
+0 0 6845
+C 0
+S
+#6858
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6857
+C 0
+S
+#6859
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6860
+D3
+~
+~
+0 0 6846
+C 0
+S
+#6860
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6859
+C 0
+S
+#6861
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6862
+D3
+~
+~
+0 0 6847
+C 0
+S
+#6862
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6861
+C 0
+S
+#6863
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6864
+D3
+~
+~
+0 0 6848
+C 0
+S
+#6864
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6863
+C 0
+S
+#6865
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6866
+D3
+~
+~
+0 0 6849
+C 0
+S
+#6866
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6865
+C 0
+S
+#6867
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6868
+D3
+~
+~
+0 0 6850
+C 0
+S
+#6868
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6867
+C 0
+S
+#6869
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6870
+D3
+~
+~
+0 0 6851
+C 0
+S
+#6870
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D3
+~
+~
+0 0 6869
+C 0
+S
+#6871
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6843
+D3
+~
+~
+0 0 6872
+C 0
+S
+#6872
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6871
+C 0
+S
+#6873
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6844
+D3
+~
+~
+0 0 6874
+C 0
+S
+#6874
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6873
+C 0
+S
+#6875
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6845
+D3
+~
+~
+0 0 6876
+C 0
+S
+#6876
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6875
+C 0
+S
+#6877
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6846
+D3
+~
+~
+0 0 6878
+C 0
+S
+#6878
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6877
+C 0
+S
+#6879
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6847
+D3
+~
+~
+0 0 6880
+C 0
+S
+#6880
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6879
+C 0
+S
+#6881
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6848
+D3
+~
+~
+0 0 6882
+C 0
+S
+#6882
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6881
+C 0
+S
+#6883
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6849
+D3
+~
+~
+0 0 6884
+C 0
+S
+#6884
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6883
+C 0
+S
+#6885
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6850
+D3
+~
+~
+0 0 6886
+C 0
+S
+#6886
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6885
+C 0
+S
+#6887
+{GBefore a combat field{X~
+{RIn the near distance, you see what resembles a combat field.  Nature is
+almost intertwined into the Academy.  The fauna still grows beneath your and
+through the fields eventhough many students fight amoung them.  Some say
+that the great elven mages created a growth spell to replace all dead fauna
+throughout the grounds.  The elven academy caretaker insist you believe it
+his way.  
+~
+0 0 3
+D1
+~
+~
+0 0 6851
+D3
+~
+~
+0 0 6888
+C 0
+S
+#6888
+{GAtop the combat field{X~
+{RYou stand on a battle field on your guard.  Top students are all around
+you training for their apprentice positions.  {WMasters {Rstand with their
+canes held in fighting positions.  Some of the greatest retired heros come
+to teach at the Academy.  In order to receive a top spot in the elven
+military, top pupils must gain a apprentice position.  Their are but few
+masters, so the positions are well sought for.  
+~
+0 0 3
+D1
+~
+~
+0 0 6887
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 6804 1 6800 1
+M 0 6804 1 6800 1
+M 0 6804 2 6804 1
+M 0 6802 2 6805 1
+M 0 6802 2 6807 1
+M 0 6804 2 6808 1
+M 0 6800 1 6811 1
+E 0 6800 0 1
+M 0 6802 1 6811 1
+M 0 6800 2 6815 1
+E 0 6800 0 2
+M 0 6800 2 6817 1
+E 0 6800 0 2
+M 0 6802 1 6817 1
+M 0 6802 2 6819 1
+M 0 6800 3 6825 1
+E 0 6800 0 2
+M 0 6800 1 6827 1
+E 0 6800 0 1
+M 0 6802 1 6827 1
+M 0 6800 2 6829 1
+E 0 6800 0 2
+M 0 6800 2 6831 1
+E 0 6800 0 1
+M 0 6800 2 6833 1
+E 0 6800 0 1
+M 0 6802 1 6833 1
+M 0 6802 2 6835 1
+M 0 6800 3 6841 1
+E 0 6800 0 1
+M 0 6804 2 6845 1
+M 0 6803 2 6846 1
+M 0 6804 2 6847 1
+M 0 6803 1 6849 1
+M 0 6801 2 6854 1
+M 0 6803 1 6854 1
+M 0 6801 3 6856 1
+M 0 6803 1 6862 1
+M 0 6801 2 6862 1
+M 0 6801 2 6866 1
+M 0 6803 1 6866 1
+M 0 6803 1 6870 1
+M 0 6801 2 6870 1
+M 0 6801 2 6872 1
+M 0 6803 11 6872 1
+M 0 6801 3 6874 1
+M 0 6801 2 6880 1
+M 0 6803 1 6880 1
+M 0 6803 1 6884 1
+M 0 6801 2 6884 1
+M 0 6803 1 6886 1
+M 0 6801 2 6888 1
+M 0 6803 1 6888 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

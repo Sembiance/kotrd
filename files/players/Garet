@@ -1,0 +1,676 @@
+#PLAYER
+Name Garet~
+Id   1092685188
+LogO 1116977871
+Vers 5
+Prom <%h/{B%HHit %m/{R%MMana %v/{M%V {Y%g:Gold {g%X:Tnl ~
+Race Sidhe Elf~
+Clan Crimson Knights~
+Sex  1
+Cla  8
+AlertMe  1
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 322103
+Scro 33
+Room 2560
+HMV  7757 8399 439 1856 207 3811
+Gold 694
+Silv 22316
+Gold_bank 91109
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200135
+QuestPnts 400
+PAct  DEFGTbcd
+AfBy DFHMTUV
+WName Garet~
+Comm EFILNO
+RaceChan H
+Deaf 0
+Pos  8
+Prac 9
+Trai 47
+Save  -225
+Alig  -1000
+Hit   583
+Dam   491
+ACs -982 -982 -982 -945
+Attr 18 27 27 22 18
+AMod 30 13 22 20 18
+Pass GaIcWufsCffis~
+Titl  lies on the floor and {RBLEEDS{  on your shoes!~
+Pnts 40
+TSex 1
+PSize 1
+LLev 75
+HMVP 1403 494 744
+Cnd  0 0 -1 -1
+Alias inv cast 'invisibility'~
+Boards       4 General 1108406864 Ideas 1106854028 Announce 1104975611 Personal 0 
+Sk 82 'cure serious'
+Sk 77 'protection evil'
+Sk 75 'cure poison'
+Sk 75 'dispel evil'
+Sk 80 'remove curse'
+Sk 78 'detect evil'
+Sk 75 'detect hidden'
+Sk 76 'detect invis'
+Sk 75 'detect poison'
+Sk 76 'farsight'
+Sk 75 'infravision'
+Sk 78 'invisibility'
+Sk 75 'word of recall'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 100 'exotic'
+Sk 100 'assassinate'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 88 'hand to hand'
+Sk 100 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 76 'envenom'
+Sk 100 'fast healing'
+Sk 91 'haggle'
+Sk 98 'hide'
+Sk 1 'peek'
+Sk 76 'pick lock'
+Sk 100 'sneak'
+Sk 1 'steal'
+Sk 75 'recall'
+Sk 1 'spellcraft'
+Sk 100 'companion'
+Sk 92 'track'
+Sk 95 'whirlwind'
+Sk 1 'metamorph'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'ranger basics'
+Gr 'invisibility spell'
+Gr 'ranger spells'
+Affc 'detect invis'   0  69  36   0   0          8
+Affc 'poison'   0  64  13 -11   1       4096
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'enhanced strength'   0 100  -1  15   1          0
+Affc 'displacement'   0 100  -1   0   0    1048576
+Affc 'displacement'   0 100  -1  12   2          0
+Affc 'displacement'   0 100  -1 -96  17          0
+Affc 'sanctuary'   0 100  -1   0   0        128
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 6718
+Nest 0
+Cond 0
+Wear 5
+Cost 65000
+End
+
+#O
+Vnum 6722
+Nest 0
+Cond 0
+Wear 7
+Cost 30000
+End
+
+#O
+Vnum 53
+Nest 0
+Cond 0
+Wear 6
+Cost 100000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 11708
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 1
+Cost 3868
+End
+
+#O
+Vnum 3035
+Enchanted
+Nest 0
+ExtF 4160
+Cond 0
+Wear 19
+Lev  91
+Cost 22342
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1 200  14          0
+Affc 'reserved'   1  90  -1 150  13          0
+Affc 'reserved'   1  90  -1 -500  12          0
+Affc 'reserved'   1  90  -1  50  18          0
+Affc 'reserved'   1  90  -1  50  19          0
+Affc 'enchant weapon'   1 375  -1   2  19          0
+Affc 'enchant weapon'   0 375  -1   5  18          0
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 20417
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 21000
+Nest 0
+Cond 0
+Wear 0
+Cost 55000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 21012
+Nest 0
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6703
+Nest 0
+Cond 0
+Wear 16
+Cost 100000
+End
+
+#O
+Vnum 2561
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 9599
+Nest 1
+Cond 0
+Wear -1
+Cost 1680
+End
+
+#O
+Vnum 23221
+Nest 1
+Cond 0
+Wear -1
+Cost 60000
+End
+
+#O
+Vnum 3356
+Nest 1
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3353
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3350
+Nest 1
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3365
+Nest 1
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 3364
+Nest 1
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 11893
+Nest 1
+Cond 0
+Wear -1
+Cost 55000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 2562
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 21071
+Nest 1
+Cond 0
+Wear -1
+Cost 180000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6715
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6755
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 6713
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6756
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6709
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6765
+Nest 1
+Cond 0
+Wear -1
+Lev  16
+Cost 10
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6717
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6704
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 5753
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5754
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+End
+
+#O
+Vnum 5753
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 5754
+Nest 0
+Cond 0
+Wear -1
+Cost -700
+End
+
+#O
+Vnum 15716
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15717
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15718
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15719
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 8425
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

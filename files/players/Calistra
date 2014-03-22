@@ -1,0 +1,122 @@
+#PLAYER
+Name Calistra~
+Id   1143438518
+LogO 1143825169
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Elf~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 667
+Scro 33
+Room 2560
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1400
+PAct  CQTd
+AfBy JK
+WName Calistra~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Save  -7
+Alig  0
+Hit   17
+ACs 80 80 80 80
+Attr 14 19 14 14 13
+AMod 0 0 0 0 0
+Pass CahCQKZLMyea2~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 48
+TSex 1
+PSize 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 30 39 39
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'identify'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 40 'dagger'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'illusion'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Affc 'armor'   0 246  84 -20  17          0
+Affc 'curse'   0   2   0  -3  18       1024
+Affc 'curse'   0   1   0   3  20       1024
+Affc 'bless'   0  80  37  20  18          0
+Affc 'bless'   0  78  37 -10  20          0
+End
+
+#END

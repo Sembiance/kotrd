@@ -1,0 +1,390 @@
+#PLAYER
+Name Stingray~
+Id   1132897112
+LogO 1133410237
+Vers 5
+Prom <%hhp %mma %vmv %Xtnl %ggp %ssp> %K ~
+Race Elf~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 9
+OldLvl 9
+Sec  0
+Plyd 12432
+Scro 33
+Room 3019
+HMV  91 91 134 134 67 148
+Gold 2506
+Silv 1025
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 9
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  11700
+PAct  CDEFGHQTd
+AfBy J
+WName Stingray~
+Comm NOQ
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 4
+Save  -32
+Alig  1000
+Hit   63
+ACs 29 23 34 66
+Wimp  20
+Attr 14 20 14 14 11
+AMod 0 0 1 0 1
+Pass St0vH2Ocx229Q~
+Titl  is here~
+Pnts 46
+TSex 1
+PSize 1
+LLev 3
+HMVP 91 134 148
+Cnd  0 0 0 27
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'magic missile'
+Sk 75 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 1 'fireball'
+Sk 1 'acid blast'
+Sk 1 'spellfire'
+Sk 1 'orb of chaos'
+Sk 1 'chain lightning'
+Sk 1 'wyldstryke'
+Sk 1 'acid storm'
+Sk 1 'wail of the banshee'
+Sk 1 'torment of cold'
+Sk 1 'sonic scream'
+Sk 1 'ventriloquate'
+Sk 1 'sleep'
+Sk 1 'charm person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'nexus'
+Sk 1 'lightning bolt'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'control weather'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 73 'faerie fire'
+Sk 75 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'identify'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 80 'dagger'
+Sk 1 'hide'
+Sk 75 'meditation'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'illusion'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Affc 'bless'   0 245  96  62  18          0
+Affc 'bless'   0 246  96 -31  20          0
+Affc 'armor'   0 246  72 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 4 0 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 15
+Cost 112
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 0
+Wear 14
+Cost 112
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear 5
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 0
+Wear 11
+Cost 810
+End
+
+#O
+Vnum 3360
+Nest 0
+Cond 0
+Wear 10
+Cost 450
+End
+
+#O
+Vnum 3357
+Nest 0
+Cond 0
+Wear 7
+Cost 450
+End
+
+#O
+Vnum 3356
+Nest 0
+Cond 0
+Wear 6
+Cost 450
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear 13
+Cost 450
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear 12
+Cost 380
+End
+
+#O
+Vnum 15716
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15717
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 15718
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#END

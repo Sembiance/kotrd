@@ -1,0 +1,65 @@
+#PLAYER
+Name Irish~
+Id   1093452229
+LogO 1093452285
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  5
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 56
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1000
+PAct  DQTd
+Empower  0
+WName Irish~
+Comm NO
+Deaf DP
+Pos  8
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 18 13 15 14 14
+AMod 0 0 0 0 0
+Pass IrzSVs/tIC.2I~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 46 47 47
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+End
+
+#END

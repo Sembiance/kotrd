@@ -1,0 +1,408 @@
+#PLAYER
+Name Dameon~
+Id   1169622005
+LogO 1169631850
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Troll~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 5705
+Scro 33
+Room 3022
+HMV  59 59 104 104 35 112
+Gold 21
+Silv 1737
+Gold_bank 50
+Silv_bank 161
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  8759
+PAct  CDEFHQTd
+AfBy J
+WName Dameon~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Save  -32
+Alig  86
+Hit   62
+ACs 83 81 81 99
+Attr 21 12 14 15 21
+AMod 0 0 1 0 1
+Pass Da4z2skGHAPo2~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 69
+TSex 1
+PSize 4
+LLev 1
+HMVP 59 104 112
+Cnd  0 28 32 40
+Boards       4 General 1158931085 Ideas 0 Announce 0 Personal 0 
+Sk 51 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 8 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'enhanced damage'
+Sk 23 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 15 'shield block'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'weaponsmaster'
+Affc 'bless'   0 246  98  62  18          0
+Affc 'bless'   0 245  98 -31  20          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 124 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18607
+Nest 0
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear -1
+Cost 275
+End
+
+#O
+Vnum 18612
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18601
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  64 32 0 0 0
+End
+
+#END

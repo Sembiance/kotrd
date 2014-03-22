@@ -1,0 +1,340 @@
+#PLAYER
+Name Malthod~
+Id   1088769956
+LogO 1145043426
+Vers 5
+Prom <%hhp %mm %vmv {g%X{wtnl><%K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  0
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 1
+Levl 80
+OldLvl 80
+Sec  0
+Plyd 203826
+Scro 33
+Room 3360
+HMV  1369 1369 1437 1437 624 624
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 80
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  160477
+QuestPnts 449
+PAct  CDFGQTbd
+AfBy DFUV
+WName Malthod~
+Comm KNO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 38
+Trai 7
+Alig  0
+Hit   78
+Dam   74
+ACs -77 -77 -77 -59
+Attr 15 26 21 18 14
+AMod 10 0 0 5 4
+Pass Ma3bZPIsyd4xQ~
+Titl  [{gST{GONE{gD{w] {GW{Yi{Gz{Ya{Gr{Yd{}~
+Pnts 40
+TSex 1
+PSize 2
+LLev 55
+HMVP 979 762 624
+Cnd  0 0 -1 -1
+Alias ga get all~
+Alias heal heal~
+Alias ma multi torm torm torm~
+Alias mh multi heal heal heal~
+Boards       4 General 1133312162 Ideas 1118031520 Announce 0 Personal 0 
+Sk 1 'magic missile'
+Sk 1 'chill touch'
+Sk 1 'burning hands'
+Sk 1 'shocking grasp'
+Sk 1 'colour spray'
+Sk 75 'fireball'
+Sk 75 'acid blast'
+Sk 75 'spellfire'
+Sk 75 'orb of chaos'
+Sk 75 'chain lightning'
+Sk 76 'wyldstryke'
+Sk 75 'acid storm'
+Sk 75 'wail of the banshee'
+Sk 98 'torment of cold'
+Sk 1 'sonic scream'
+Sk 75 'recharge'
+Sk 75 'sleep'
+Sk 75 'enchant armor'
+Sk 75 'enchant weapon'
+Sk 75 'charm person'
+Sk 75 'haste'
+Sk 75 'pass door'
+Sk 75 'portal'
+Sk 75 'nexus'
+Sk 81 'lightning bolt'
+Sk 1 'cure light'
+Sk 75 'change sex'
+Sk 78 'cure blindness'
+Sk 76 'bless'
+Sk 75 'cure serious'
+Sk 75 'protection evil'
+Sk 80 'protection good'
+Sk 1 'earthquake'
+Sk 85 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 78 'remove curse'
+Sk 81 'flamestrike'
+Sk 99 'heal'
+Sk 77 'frenzy'
+Sk 100 'demonfire'
+Sk 75 'ray of truth'
+Sk 75 'holy word'
+Sk 75 'mass healing'
+Sk 81 'golden aura'
+Sk 75 'detect evil'
+Sk 77 'detect good'
+Sk 75 'detect hidden'
+Sk 75 'armor'
+Sk 86 'blindness'
+Sk 1 'calm'
+Sk 78 'cancellation'
+Sk 1 'continual light'
+Sk 80 'create food'
+Sk 1 'create rose'
+Sk 80 'create spring'
+Sk 75 'create water'
+Sk 81 'curse'
+Sk 78 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 79 'dispel magic'
+Sk 75 'energy drain'
+Sk 75 'farsight'
+Sk 76 'fly'
+Sk 1 'floating disc'
+Sk 95 'gate'
+Sk 75 'giant strength'
+Sk 92 'identify'
+Sk 1 'infravision'
+Sk 1 'know alignment'
+Sk 77 'locate object'
+Sk 75 'mass invis'
+Sk 76 'plague'
+Sk 78 'poison'
+Sk 75 'refresh'
+Sk 87 'sanctuary'
+Sk 75 'energy shield'
+Sk 84 'slow'
+Sk 76 'stone skin'
+Sk 84 'summon'
+Sk 100 'teleport'
+Sk 83 'weaken'
+Sk 76 'word of recall'
+Sk 100 'dagger'
+Sk 89 'spear'
+Sk 100 'mace'
+Sk 91 'flail'
+Sk 90 'polearm'
+Sk 96 'hand to hand'
+Sk 100 'dodge'
+Sk 100 'second attack'
+Sk 77 'fast healing'
+Sk 80 'haggle'
+Sk 95 'meditation'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 67 'spellcraft'
+Sk 75 'create zombie'
+Sk 1 'metamorph'
+Sk 75 'multiburst'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'beguiling'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'cleric transport'
+Affc 'giant strength'   0  75  34   4   1          0
+Affc 'pass door'   0  78   8   0   0    1048576
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 23225
+Nest 0
+Cond 0
+Wear 6
+Cost 10000
+End
+
+#O
+Vnum 23218
+Nest 0
+Cond 0
+Wear 4
+Cost 65000
+End
+
+#O
+Vnum 23218
+Nest 0
+Cond 0
+Wear 3
+Cost 65000
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 11863
+Nest 0
+Cond 0
+Wear 2
+Cost 10000
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 11865
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11866
+Nest 1
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11866
+Nest 0
+Cond 0
+Wear 9
+Cost 9000
+End
+
+#O
+Vnum 11863
+Nest 0
+Cond 0
+Wear 1
+Cost 10000
+End
+
+#O
+Vnum 23209
+Nest 0
+Cond 0
+Wear 11
+Cost 35000
+End
+
+#O
+Vnum 16072
+Nest 0
+Cond 0
+Wear 0
+Cost 14380
+Val  0 0 10 0 0
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 19804
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  80
+Cost 37500
+Affc 'enchant weapon'   0  80  -1  16  18          0
+Affc 'enchant weapon'   1  80  -1   8  19          0
+End
+
+#END

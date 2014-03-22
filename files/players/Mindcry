@@ -1,0 +1,315 @@
+#PLAYER
+Name Mindcry~
+Id   1098669361
+LogO 1159471546
+Vers 5
+Prom <%hhp %mm %vmv %X %K> ~
+Race Draconian~
+Sex  1
+Cla  1
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 48
+OldLvl 48
+Sec  0
+Plyd 626573
+Scro 33
+Room 3054
+HMV  1167 1167 775 775 732 732
+Gold 959
+Silv 25488
+Gold_bank 52942
+Silv_bank 0
+Shares 0
+Share_level 48
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  82187
+QuestPnts 261
+PAct  DGHIJTad
+AfBy HJNT
+WName Mindcry~
+Comm FKNOQ
+RaceChan 0
+Deaf D
+Pos  8
+Prac 7
+Trai 3
+Save  7
+Alig  -1000
+Hit   162
+Dam   160
+ACs -476 -474 -471 -445
+Attr 22 17 19 15 19
+AMod 3 4 4 9 -1
+Pass MiBdDmoKmtWzU~
+Titl  {W[{RP{YR{BI{WD{GE{W]?! {M:D :D :D{x                {R(^_^_^_^_^){x~
+Pnts 54
+TSex 1
+PSize 3
+LLev 173
+HMVP 462 340 382
+Cnd  0 0 10 0
+Boards       4 General 1100439892 Ideas 1100221836 Announce 1099099820 Personal 0 
+Sk 89 'lightning bolt'
+Sk 86 'cure light'
+Sk 1 'bless'
+Sk 1 'cure serious'
+Sk 75 'protection evil'
+Sk 75 'protection good'
+Sk 78 'earthquake'
+Sk 77 'cure critical'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'remove curse'
+Sk 55 'flamestrike'
+Sk 73 'heal'
+Sk 75 'frenzy'
+Sk 37 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 75 'detect hidden'
+Sk 75 'armor'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'continual light'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'floating disc'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'refresh'
+Sk 74 'sanctuary'
+Sk 1 'energy shield'
+Sk 1 'stone skin'
+Sk 100 'blightning'
+Sk 89 'mace'
+Sk 100 'polearm'
+Sk 1 'bash'
+Sk 74 'dodge'
+Sk 86 'second attack'
+Sk 1 'fast healing'
+Sk 77 'meditation'
+Sk 50 'recall'
+Sk 75 'create zombie'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'detection'
+Gr 'healing'
+Gr 'full protective'
+Gr 'weather'
+Affc 'sanctuary'   0  46   1   0   0        128
+Affc 'protection evil'   0  43   7  22  20       8192
+Affc 'combat mind'   0 496 145 100  19          0
+Affc 'combat mind'   0 498 145 -255  17          0
+Affc 'combat mind'   0 496 145 100  18          0
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 12000
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  21
+Cost 3000
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  20  -1   5  18          0
+Affc 'reserved'   1  20  -1   6  19          0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15165
+Nest 0
+Cond 0
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 23216
+Nest 0
+Cond 0
+Wear 10
+Cost 40000
+End
+
+#O
+Vnum 14238
+Nest 0
+Cond 0
+Wear 17
+Cost 1200
+Spell 3 'lightning bolt'
+End
+
+#O
+Vnum 14235
+Nest 0
+Cond 0
+Wear 4
+Cost 750
+End
+
+#O
+Vnum 14235
+Nest 0
+Cond 0
+Wear 3
+Cost 750
+End
+
+#O
+Vnum 11720
+Nest 0
+Cond 0
+Wear 1
+Cost 1000
+End
+
+#O
+Vnum 14237
+Nest 0
+Cond 0
+Wear 11
+Cost 800
+End
+
+#O
+Vnum 14236
+Nest 0
+Cond 0
+Wear 6
+Cost 800
+End
+
+#O
+Vnum 11720
+Nest 0
+Cond 0
+Wear 2
+Cost 1000
+End
+
+#O
+Vnum 11644
+Nest 0
+Cond 0
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 11643
+Nest 0
+Cond 0
+Wear 13
+Cost 20
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 23211
+Nest 0
+Cond 0
+Wear 12
+Cost 36000
+End
+
+#END

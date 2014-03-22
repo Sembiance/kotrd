@@ -1,0 +1,1473 @@
+#AREADATA
+Name Heaven~
+Builders Wiffle~
+VNUMs 12000 12199
+Credits (null)~
+Security 1
+Flags BF
+LEVELs 15 45
+End
+
+
+
+#MOBILES
+#12000
+small angel~
+small angel~
+{cA small angel hovers here.{x
+~
+~
+Human~
+ABCGSZ V 1000 0
+0
+20 100 3d9+333 199d1+1 2d8+5 thwack
+-4 -4 -4 7
+EFHK A 0 T
+stand stand male 1300
+HMV ABCDEF medium unknown
+F for A
+F par GHIJK
+#12001
+Gabriel~
+Gabriel~
+{cThe Archangel Gabriel eyes you serenely.{x
+~
+~
+Human~
+ABG T 1000 0
+0
+40 100 10d10+1000 300d1+1 8d3+12 beating
+-7 -7 -7 0
+CEFIJK ABEN G P
+stand stand male 5403
+AHMV ABCDEFGHIJK medium unknown
+#12002
+serraphim~
+Serraphim~
+A small angel of the race serraphim flits about.
+~
+A small angel with bright white wings stands before you.  Her eyes wink
+merrily at you as she watches your progress.  
+~
+Human~
+AB T 1000 0
+0
+16 0 3d9+233 159d1+1 2d6+4 slash
+-2 -2 -2 7
+EK 0 0 D
+stand stand female 1200
+AHMV ABCDEFGHIJK medium unknown
+#12003
+medium angel~
+angel~
+{cAn angel hovers here helpfully.{x
+~
+~
+Human~
+AG T 1000 0
+0
+32 0 10d10+800 319d1+1 6d4+9 slash
+-10 -10 -10 5
+CFHI E 0 H
+stand stand female 4000
+AHMV ABCDEFGHIJK medium unknown
+#12004
+Solomon~
+Solomon~
+{cSolomon looks at you longingly.{x
+~
+~
+Human~
+ABC T 1000 0
+0
+35 0 12d10+900 320d1+1 7d4+9 bite
+-11 -11 -11 5
+CEF P 0 0
+stand stand male 3500
+AHMV ABCDEFGHIJK medium unknown
+#12005
+Moses~
+Moses~
+{cMoses stands here looking noble.{x
+~
+A tall man with a long beard stands before you.  His eyes watch you
+serenely and you can tell he does not fear much.  
+~
+Human~
+ABG 0 800 0
+0
+35 0 10d9+800 320d1+1 8d6+9 slap
+-10 -10 -10 4
+CFIK E 0 P
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#12006
+Ruth~
+Ruth~
+{cRuth is here, looking woebegone.{x
+~
+Through watery eyes she implores your help.  Tears run down her cheeks
+and drip soggily onto her blouse.  
+~
+Human~
+AB 0 600 0
+0
+27 0 12d4+900 300d1+1 8d5+30 slap
+-7 -7 -7 4
+FIK P 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#12007
+Leviticus~
+Leviticus~
+{cLeviticus eyes you calmly.{x
+~
+For mine is the fury of God, and you shall kneel before me.  
+~
+Human~
+AB V 800 0
+0
+35 0 10d4+1000 300d1+1 6d7+35 thwack
+-10 -10 -10 4
+CFI P 0 b
+stand stand male 5402
+AHMV ABCDEFGHIJK medium unknown
+#12008
+Hosea~
+Hosea~
+{cHosea looks at you beseechingly.{x
+~
+~
+Human~
+AB 0 800 0
+0
+35 0 10d4+1000 150d1+1 12d7+30 crush
+-10 -10 -10 4
+FIK P 0 b
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+#12009
+Judith~
+Judith~
+{cJudith eyes you lustily.{x
+~
+~
+Human~
+AB V 800 0
+0
+25 0 12d10+900 150d1+1 7d8+35 slap
+-9 -9 -9 3
+FIK 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#12010
+Cherubim~
+Cherubim~
+{cA small cherubim goes about his business.{x
+~
+Small wings grace the muscular back of this little angel.  He looks very
+efficient and business-like.  
+~
+Human~
+AG 0 1000 0
+0
+16 0 3d9+233 159d1+1 2d6+4 bite
+-2 -2 -2 7
+EK 0 0 D
+stand stand male 1200
+AHMV ABCDEFGHIJK medium unknown
+#12011
+Esther~
+Esther~
+{cEsther eyes you coolly, secure in her domain.{x
+~
+This heroine worked for the safety of her people as Queen.  Nothing seems
+to bother her much.  
+~
+Human~
+AB V 800 0
+0
+30 0 12d8+900 160d1+1 8d8+38 slap
+-13 -13 -13 0
+CFIK EP 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#12012
+Samuel~
+Samuel~
+{cSamuel is here, watching you.{x
+~
+~
+Human~
+AB V 1000 0
+0
+25 0 12d8+999 300d1+1 9d7+34 slash
+-10 -10 -10 5
+FIK E 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#12013
+Malachi~
+Malachi~
+{cMalachi stands here, contemplating the walls.{x
+~
+~
+Human~
+AB 0 800 0
+0
+30 0 12d8+988 160d1+1 8d9+40 crush
+-11 -11 -11 0
+FIK E 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#12014
+Corinthia~
+Corinthia~
+{cCorinthia ignores you.{x
+~
+~
+Human~
+AB V 800 0
+0
+30 0 12d8+900 150d1+1 9d8+40 slap
+-13 -13 -13 0
+FIK 0 0 0
+stand stand male 4001
+AHMV ABCDEFGHIJK medium unknown
+#12015
+Phoebe~
+Phoebe~
+{cPhoebe prays here.{x
+~
+~
+Human~
+AB 0 850 0
+0
+25 0 12d8+1000 150d1+1 8d9+34 thwack
+-14 -14 -14 0
+CFIK P C 0
+stand stand female 4506
+AHMV ABCDEFGHIJK medium unknown
+#12016
+Baruch~
+Baruch~
+{cBaruch stands here.{x
+~
+~
+Human~
+AB V 750 0
+0
+30 0 12d7+900 150d1+1 8d9+35 bite
+-12 -12 -12 5
+CFIK 0 0 b
+stand stand male 4500
+AHMV ABCDEFGHIJK medium unknown
+#12017
+Saint Peter~
+Saint Peter~
+{cSaint Peter is here to welcome you to Heaven.{x
+~
+~
+Human~
+AB HV 1000 0
+0
+45 0 12d9+1200 400d1+1 13d10+45 punch
+-15 -15 -15 -5
+CDEFHIK E 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#12000
+Dark Polearm~
+dark polearm~
+A dark polearm lies here.~
+HIGH_STEEL weapon A AN
+polearm 6 7 thwack C
+20 50 3000 P
+A
+18 5
+A
+19 6
+#12001
+shiny bracer~
+shiny bracer~
+A shiny bracer lies here.~
+SELECT_A_MATERIAL armor 0 AM
+BD BD BD ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+15 15 1000 P
+A
+13 10
+A
+5 2
+A
+4 1
+#12002
+Heavy Desk~
+a heavy desk~
+A large heavy desk dominates the room.~
+WOOD container 0 P
+0 A 0 -1 0
+50 2000 0 P
+#12003
+angel food cake~
+angel food cake~
+A heavenly slice of angel food cake lies here.~
+SELECT_A_MATERIAL food 0 A
+CE DF 0 0 0
+10 5 23 P
+#12004
+Song of Solomon~
+song of Solomon~
+A humming mace lies here.~
+STEEL weapon B AN
+mace 6 8 crush 0
+30 100 2000 P
+A
+18 6
+A
+19 4
+A
+13 50
+A
+12 20
+#12005
+whip of courage~
+whip of courage~
+A long whip lies coiled here.~
+SELECT_A_MATERIAL weapon A AN
+whip 6 9 whip 0
+15 50 1000 P
+A
+14 10
+A
+1 1
+A
+5 1
+#12006
+Phoebe's scarf~
+phoebe's scarf~
+A pretty scarf flaps gently in the breeze.~
+SELECT_A_MATERIAL armor 0 AE
+ABCD ABCD ABCD 0 0
+15 15 500 P
+A
+5 1
+A
+14 25
+A
+13 25
+#12007
+woven sandals~
+woven sandals~
+A pair of woven sandals rests here.~
+SELECT_A_MATERIAL armor 0 AG
+BD BD BD 0 0
+15 15 750 P
+A
+4 1
+#12009
+flail of discourse~
+flail of discourse~
+A sharply studded flail lies here.~
+SELECT_A_MATERIAL weapon 0 AN
+flail 6 7 crush A
+20 45 2000 P
+A
+19 4
+A
+18 4
+#12010
+the Queen's ring~
+queen's ring~
+A gorgeous ring glitters here.~
+STAR_SAPPHIRE jewelry A AB
+0 0 0 0 0
+15 5 1000 P
+A
+1 1
+A
+13 25
+#12011
+heavy chain~
+heavy chain~
+A heavy chain lies here.~
+GOLD jewelry 0 AC
+0 0 0 0 0
+20 15 1000 P
+A
+13 25
+A
+12 25
+#0
+
+
+
+#ROOMS
+#12000
+{MStairway to Heaven{x~
+The sun breaks through the clouds and shows you the first step on what
+seems to be an unending staircase to the stars.  Light marble forms the
+steps and you feel no fear as you take the first step toward heaven.  At the
+very top of the stairs you can see the famed Gates that guard the entrance,
+and you quicken your pace.  
+~
+0 4 6
+D4
+~
+~
+0 0 12001
+D5
+~
+~
+0 0 12054
+C 0
+S
+#12001
+{MStairway to Heaven{x~
+As you climb up these magnificent stairs you can see the entire realm
+spread below you.  Faintly you can hear angelic chords sounding from above,
+and you want to find out where the sounds are coming from.  For each step
+you take you find your spirits lifting until you feel completely giddy and
+carefree.  
+~
+0 8 6
+D4
+~
+~
+0 0 12002
+D5
+~
+~
+0 0 12000
+C 0
+S
+#12002
+{MStairway to Heaven{x~
+Finally you have reached the giant gates that guard the entrance to
+heaven.  The gates stand much taller than you but as you approach they swing
+open soundlessly.  Seemingly in welcome, a ray of sunshine lights your body
+and you stand transfixed at the glorious sight before you.  
+~
+0 8 6
+D4
+~
+~
+0 0 12003
+D5
+~
+~
+0 0 12001
+C 0
+S
+#12003
+{MThe Pearly Gates{x~
+As you pass through the gates you see soft, billowy clouds scuttering
+across the cold marble floor.  Tall sculpted pillars line the entryway,
+topped with golden statues of cherabim.  Ahead you see the first real room
+in this place.  It feels kind of creepy to be alive in heaven, but that
+might change...  
+~
+0 8 1
+D0
+~
+~
+1 0 12004
+D5
+~
+~
+0 0 12002
+C 0
+S
+#12004
+{MRay of Light{x~
+Slowly your eyes take in the beautiful wall hanging on the walls and the
+sunlight filtering down through the red-tinted skylight bathes you in holy
+light.  Exits lead off this room into paradise.  
+~
+0 8 1
+D0
+~
+~
+0 0 12010
+D1
+~
+~
+0 0 12005
+D2
+~
+~
+1 0 12003
+D3
+~
+~
+0 0 12015
+D4
+~
+~
+0 0 12018
+D5
+~
+~
+0 0 12006
+C 0
+S
+#12005
+{MParadise{x~
+The air seems to have a life of its own here, and caresses you as you
+move further into paradise.  Birds chirp sweetly and everywhere you look you
+see flowers.  The light is gentle in this place, and nothing seems to bother
+you much.  You know you came here for a reason, but what was it again?  
+~
+0 8 1
+D1
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12004
+C 0
+S
+#12006
+{MParadise{x~
+Every way you look you see beauty.  Nothing is ugly here, and you feel
+overwhelmed by the perfection.  Tears spring to your eyes and you fall to
+your knees, awed by the beauty of heaven.  Nothing seems to matter here in
+paradise, so why do you persist in walking around?  Don't you just want to
+lie back and enjoy eternity?  
+~
+0 8 1
+D0
+~
+~
+0 0 12007
+D1
+~
+~
+0 0 12010
+D2
+~
+~
+0 0 12017
+D3
+~
+~
+0 0 12005
+D4
+~
+~
+0 0 12004
+C 0
+S
+#12007
+{MParadise{x~
+Sweet music tickles your ears and whatever you wish appears in front of
+you.  The danger of this place is apparent, and you can see why people only
+come here when they're dead.  There is something odd about this place, but
+you can't put your finger on it.  This area is completely open, but no
+matter what direction you turn you cannot see much in front of you.  
+~
+0 8 1
+D1
+~
+~
+0 0 12008
+D2
+~
+~
+0 0 12006
+C 0
+S
+#12008
+{MParadise{x~
+The air seems to have a life of its own here, and caresses you as you
+move further into paradise.  Birds chirp sweetly and everywhere you look you
+see flowers.  The light is gentle in this place, and nothing seems to bother
+you much.  You know you came here for a reason, but what was it again?  
+~
+0 8 1
+D0
+~
+~
+0 0 12009
+D2
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12007
+C 0
+S
+#12009
+{MParadise{x~
+Sweet music tickles your ears and whatever you wish appears in front of
+you.  The danger of this place is apparent, and you can see why people only
+come here when they're dead.  There is something odd about this place, but
+you can't put your finger on it.  This area is completely open, but no
+matter what direction you turn you cannot see much in front of you.  
+~
+0 8 1
+D2
+~
+~
+0 0 12008
+C 0
+S
+#12010
+{MParadise{x~
+The air seems to have a life of its own here, and caresses you as you
+move further into paradise.  Birds chirp sweetly and everywhere you look you
+see flowers.  The light is gentle in this place, and nothing seems to bother
+you much.  You know you came here for a reason, but what was it again?  
+~
+0 8 1
+D0
+~
+~
+0 0 12011
+D1
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12006
+C 0
+S
+#12011
+{MParadise{x~
+Every way you look you see beauty.  Nothing is ugly here, and you feel
+overwhelmed by the perfection.  Tears spring to your eyes and you fall to
+your knees, awed by the beauty of heaven.  Nothing seems to matter here in
+paradise, so why do you persist in walking around?  Don't you just want to
+lie back and enjoy eternity?  
+~
+0 8 1
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+0 0 12012
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12010
+C 0
+S
+#12012
+{MParadise{x~
+Sweet music tickles your ears and whatever you wish appears in front of
+you.  The danger of this place is apparent, and you can see why people only
+come here when they're dead.  There is something odd about this place, but
+you can't put your finger on it.  This area is completely open, but no
+matter what direction you turn you cannot see much in front of you.  
+~
+0 8 1
+D2
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12011
+C 0
+S
+#12013
+{MParadise{x~
+Every way you look you see beauty.  Nothing is ugly here, and you feel
+overwhelmed by the perfection.  Tears spring to your eyes and you fall to
+your knees, awed by the beauty of heaven.  Nothing seems to matter here in
+paradise, so why do you persist in walking around?  Don't you just want to
+lie back and enjoy eternity?  
+~
+0 8 1
+D0
+~
+~
+0 0 12012
+D1
+~
+~
+0 0 12014
+C 0
+S
+#12014
+{MParadise{x~
+Ahh...  Paradise.  Anything that is pleasant is here, and you are filled
+with joy at just being here.  You can hear laughter echoing around you and
+you giggle, caught up in the beauty of the moment.  Life seems so boring
+now, and you can't wait to really be in heaven.  Why don't you end your
+suffering?  
+~
+0 8 1
+D3
+~
+~
+0 0 12013
+C 0
+S
+#12015
+{MParadise{x~
+Every way you look you see beauty.  Nothing is ugly here, and you feel
+overwhelmed by the perfection.  Tears spring to your eyes and you fall to
+your knees, awed by the beauty of heaven.  Nothing seems to matter here in
+paradise, so why do you persist in walking around?  Don't you just want to
+lie back and enjoy eternity?  
+~
+0 8 1
+D1
+~
+~
+0 0 12004
+D2
+~
+~
+0 0 12016
+C 0
+S
+#12016
+{MParadise{x~
+Sweet music tickles your ears and whatever you wish appears in front of
+you.  The danger of this place is apparent, and you can see why people only
+come here when they're dead.  There is something odd about this place, but
+you can't put your finger on it.  This area is completely open, but no
+matter what direction you turn you cannot see much in front of you.  
+~
+0 8 1
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 12017
+C 0
+S
+#12017
+{MParadise{x~
+Ahh...  Paradise.  Anything that is pleasant is here, and you are filled
+with joy at just being here.  You can hear laughter echoing around you and
+you giggle, caught up in the beauty of the moment.  Life seems so boring
+now, and you can't wait to really be in heaven.  Why don't you end your
+suffering?  
+~
+0 8 1
+D0
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12016
+C 0
+S
+#12018
+{MOn the Path of Salvation{x~
+This room appears to be completely made out of gold.  The walls gleam
+softly and a large fountain plays softly in the corner.  A soft breeze plays
+around your body, teasing your skin.  The room ahead seems to glow with an
+unearthly white light and your pulse throbs with the same beat.  
+~
+0 8 1
+D0
+~
+~
+0 0 12019
+D5
+~
+~
+0 0 12004
+C 0
+S
+#12019
+{MDew of God{x~
+May God give to you of the dew of the heavens and of the fertility of the
+earth.  {rCursed be those who curse you, and blessed be those who bless you.
+{x 
+~
+0 8 1
+D2
+~
+~
+0 0 12018
+D4
+~
+~
+0 0 12020
+C 0
+S
+#12020
+{MInherit the Earth{x~
+Far from the fertile earth shall be your dwelling, far from the dews of
+the heavens above!  {WBy your sword you shall live, and your brother you
+shall serve.  {x 
+~
+0 8 1
+D1
+~
+~
+0 0 12021
+D5
+~
+~
+0 0 12019
+C 0
+S
+#12021
+{MThe Fury of God{x~
+Cursed be their fury so fierce, and their rage so cruel!  I long for your
+deliverance, O Lord!  {CI will sing to thee, for you are gloriously
+triumphant!  {x 
+~
+0 8 1
+D3
+~
+~
+0 0 12020
+D4
+~
+~
+0 0 12022
+C 0
+S
+#12022
+{MSong of Strength{x~
+My strength and my courage is the Lord, and He has been my savior.  He is
+my God, I praise Him.  He is the God of my father, I extol Him.  {WThe Lord
+is a warrior, Lord is his name!  {x 
+~
+0 8 1
+D0
+~
+~
+0 0 12023
+D5
+~
+~
+0 0 12021
+C 0
+S
+#12023
+{MBe Not Ye False{x~
+You shall not repeat a false report.  Do not join the wicked in putting
+your hand, as an unjust witness, upon anyone.  You shall not deny one of
+your needy fellows his rights in lawsuit.  {WYou shall keep away from
+anything dishonest.  {x 
+~
+0 8 1
+D2
+~
+~
+0 0 12022
+D4
+~
+~
+0 0 12024
+C 0
+S
+#12024
+{MCurse of Disobedience{x~
+May you be cursed in the city, and cursed in the country!  Cursed be the
+fruit of your womb, the produce of your soil and the offspring of your
+livestock!  {gMay you be cursed in your coming in and cursed in your going
+out.  {x 
+~
+0 8 1
+D3
+~
+~
+0 0 12025
+D5
+~
+~
+0 0 12023
+C 0
+S
+#12025
+{MSong of Moses{x~
+To the heavens I raise my hand and swear as surely as I live forever, I
+will sharpen my flashing sword and my hand shall lay hold of my quiver. 
+With vengeance I will repay my foes, and requite those who hate me.  {rI
+will make my arrows drunk with blood and my sword shall gorge itself with
+flesh.  {x 
+~
+0 8 1
+D1
+~
+~
+0 0 12024
+D4
+~
+~
+0 0 12026
+C 0
+S
+#12026
+{MProverbs{x~
+Like choice silver is the just man's tongue, the heart of the wicked is
+of little worth.  {WCrime is the entertainment of the fool, so is wisdom for
+the men of sense.  {x 
+~
+0 8 1
+D0
+~
+~
+0 0 12027
+D5
+~
+~
+0 0 12025
+C 0
+S
+#12027
+{MLove's Inquiry{x~
+Ah, you are beautiful, my beloved, You are beautiful, my lover.  Yes, you
+are lovely.  Let me see you, let me hear your voice!  {WMy lover belongs to
+me and I to him, he whom my heart loves.  {x 
+~
+0 8 1
+D2
+~
+~
+0 0 12026
+D4
+~
+~
+0 0 12028
+C 0
+S
+#12028
+{MThe Hidden Counsel{x~
+All of them passed like a shadow and like a fleeting rumor, no evidence
+of its path was to be found.  The hope of the wicked is like thistledown,
+borne on the wind.  {WThe just live forever, and they shall receive the
+splendid crown.  {x 
+~
+0 8 1
+D4
+~
+~
+0 0 12029
+D5
+~
+~
+0 0 12027
+C 0
+S
+#12029
+{MSins of the Flesh{x~
+For burning passion is a blazing fire, not to be quenched till it burns
+itself out.  Man is given to sins of the flesh, and never stops until all
+the fire breaks forth.  
+~
+0 8 1
+D0
+~
+~
+0 0 12030
+D5
+~
+~
+0 0 12028
+C 0
+S
+#12030
+{MPraise{x~
+Raise up your voices in harmony and let the freedom run through you.  His
+gaze spans all the ages, to him there is nothing unexpected.  {WEverything
+is chosen to satisfy a need, for the good and for the wicked.  {x 
+~
+0 8 1
+D0
+~
+~
+0 0 12031
+D2
+~
+~
+0 0 12029
+C 0
+S
+#12031
+{MAscending to Heaven{x~
+After passing through the words of God, you have reached the first step
+on the last leg of your journey.  All around you is a nebulous light that
+surrounds you in caressing softness.  You feel virtuous and prepared to make
+the final climb to Heaven, and you take a deep breath to continue.  
+~
+0 8 1
+D2
+~
+~
+0 0 12030
+D4
+~
+~
+0 0 12032
+C 0
+S
+#12032
+{MAscending to Heaven{x~
+Up ahead you can see the light is growing much brighter, and you can hear
+hymns resounding throughout the room.  Angels of all shapes and sizes float
+around you, welcoming you to heaven.  
+~
+0 8 1
+D4
+~
+~
+0 0 12033
+D5
+~
+~
+0 0 12031
+C 0
+S
+#12033
+{MResounding Corridor{x~
+Every little sound echoes in here, and the hallway is so large you can't
+even see the walls or ceiling.  The floor is made of that same pale marble
+that you saw on the stairway, and although you know the air must be cold,
+you don't feel any discomfort.  
+~
+0 8 1
+D1
+~
+~
+0 0 12034
+D5
+~
+~
+0 0 12032
+C 0
+S
+#12034
+{MResounding Corridor{x~
+As you move along this corridor you find yourself holding your breath and
+tiptoeing across the smooth floor.  The music you heard everywhere else is
+curiously absent in this, the most sacred of foyers.  
+~
+0 8 1
+D0
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12033
+C 0
+S
+#12035
+{MAntechamber{x~
+The music that you noticed was missing in the silent corridor sounds here
+ringingly, almost sending you to your knees.  Colors in vibrant hues swirl
+around you, and suddenly you realize maybe you're not ready to be here.  
+~
+0 8 1
+D0
+~
+~
+0 0 12036
+D2
+~
+~
+0 0 12034
+C 0
+S
+#12036
+{MThe Office{x~
+A large desk dominates this room and you feel slightly disappointed at
+how mundane it looks.  Any well-off bureaucrat would have a desk like this. 
+However, there is no paperwork anywhere, and no earthly persons wander about
+here.  
+~
+0 8 1
+D0
+~
+~
+0 0 12039
+D1
+~
+~
+0 0 12037
+D2
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12038
+C 0
+S
+#12037
+{MCubicle{x~
+Here is the paperwork you expected out in the main office.  Piles and
+piles of paper lie around the room, covering any furniture that might exist
+here.  Small angels who resemble Cupid run around filing papers.  You pick
+up one paper to see it contains information on you, and your blood runs cold
+as you see you are slated to die today.  
+~
+0 8 1
+D3
+~
+~
+0 0 12036
+C 0
+S
+#12038
+{MCubicle{x~
+Here is the paperwork you expected out in the main office.  Piles and
+piles of paper lie around the room, covering any furniture that might exist
+here.  Small angels who resemble Cupid run around filing papers.  You pick
+up one paper to see it contains information on you, and your blood runs cold
+as you see you are slated to die today.  
+~
+0 8 1
+D1
+~
+~
+0 0 12036
+C 0
+S
+#12039
+{MGlass Corridor{x~
+Now you're heading on the journey that leads to God, you hope.  After
+passing through the scathing office staff, you are ready to finish this trip
+and get back to paradise.  Who would have thought that heaven would be so
+full of hard work?  
+~
+0 8 1
+D0
+~
+~
+0 0 12040
+D2
+~
+~
+0 0 12036
+C 0
+S
+#12040
+{MGlass Corridor{x~
+You proceed slowly down the hall, confused by the swirling colors that
+surround you.  At times you think you can see through the walls to the world
+below, but then you realize that you can't see anything at all.  The
+nothingness you see boggles your mind and you quicken your pace to break
+free of the mesmerizing view.  
+~
+0 8 1
+D0
+~
+~
+0 0 12041
+D2
+~
+~
+0 0 12039
+C 0
+S
+#12041
+{MGlass Corridor{x~
+You resolve to not look around you as you walk faster down this seemingly
+endless hallway.  The colors that so confused you before seem brighter, and
+your eyes water from the maelstrom.  However much you try to clear your eyes
+they keep tearing up.  You squint ahead, trying to see an end to your pain. 
+~
+0 8 1
+D0
+~
+~
+0 0 12042
+D2
+~
+~
+0 0 12040
+C 0
+S
+#12042
+{MGlass Corridor{x~
+The colors that tormented your eyes are gone from here.  In sudden
+clarity you perceive that the corridor is not really a corridor at all, but
+a pulsating tunnel that moves around you.  You feel as though you've been
+swallowed alive, which...  You have.  
+~
+0 8 1
+D2
+~
+~
+0 0 12041
+D5
+~
+~
+0 0 12043
+C 0
+S
+#12043
+{MDeeper{x~
+Although you can see again, the tunnel is dark and muffles all sound. 
+You wonder, where can I be?  You can't see the corridor behind you at all. 
+In front of you is a gaping maw of blackness that beckons you.  To proceed
+you will have to suspend all disbelief and just jump into the unknown.  
+~
+0 8 1
+D4
+~
+~
+0 0 12042
+D5
+~
+~
+0 0 12044
+C 0
+S
+#12044
+{MThe End{x~
+The tunnel has ended rather suddenly.  There is nothing before you and
+only darkness around you.  Could you have made a wrong turn somewhere? 
+Where is God?  Was your belief wrong all this time?  Or are you just
+unworthy?  The only way out is the way you have come.  
+~
+0 8201 1
+D4
+~
+~
+0 0 12043
+C 0
+S
+#12047
+{MRising Higher{x~
+Soft light bathes you in warmth and the horrors of your life fall away. 
+Majestically you can feel yourself rising faster, and you just let yourself
+relax.  
+~
+0 0 10
+D4
+~
+~
+0 0 12048
+D5
+~
+~
+0 0 10404
+C 0
+S
+#12048
+{MFurther into the Light{x~
+A stiff breeze springs up and you begin to feel cold, but the soft light
+is still caressing you and you don't want to stop going.  
+~
+0 0 10
+D4
+~
+~
+0 0 12049
+D5
+~
+~
+0 0 12047
+C 0
+S
+#12049
+{MIn the Clouds{x~
+Looking down you can see all the world spread before you, and you feel
+bigger than anything else.  You are rising quickly now, and the light which
+had seemed so soft is now really rather bright.  
+~
+0 0 10
+D4
+~
+~
+0 0 12050
+D5
+~
+~
+0 0 12048
+C 0
+S
+#12050
+{MIn the Clouds{x~
+You find yourself gazing into the light above you, stupified.  You feel
+no worry and no pain, and you are very happy just to keep going up.  
+~
+0 0 10
+D4
+~
+~
+0 0 12051
+D5
+~
+~
+0 0 12049
+C 0
+S
+#12051
+{MIn the Clouds{x~
+You are now above the first layer of the clouds, and when you look down
+you giggle because it looks like you are wearing the clouds as slippers. 
+The light is blindingly bright but doesn't hurt at all.  From far above you
+can hear soft strains of music.  
+~
+0 0 10
+D4
+~
+~
+0 0 12052
+D5
+~
+~
+0 0 12050
+C 0
+S
+#12052
+{MIn the Clouds{x~
+You can see small motes of iridescent light dancing in the air around
+you, welcoming you to this new world.  The clouds are light and fluffy and
+you find you don't need to use much effort to rise further up.  
+~
+0 0 10
+D4
+~
+~
+0 0 12053
+D5
+~
+~
+0 0 12051
+C 0
+S
+#12053
+{MIn the Clouds{x~
+Little wisps of clouds cover your body as you work your way higher.  The
+air is remarkably chilly but from above you can hear soft strains of music
+that lure you on.  
+~
+0 0 10
+D4
+~
+~
+0 0 12054
+D5
+~
+~
+0 0 12052
+C 0
+S
+#12054
+{MIn the Clouds{x~
+The air pushes against you strongly this high up, and you shiver with
+cold.  You are so far above the ground that you can't even see anything
+below you.  Who knows what is up here?  
+~
+0 0 10
+D4
+~
+~
+0 0 12000
+D5
+~
+~
+0 0 12053
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12003 0 1
+D 0 12004 2 1
+M 0 12017 1 12003 1
+E 0 12011 0 3
+M 0 12000 1 12004 1
+M 0 12003 2 12004 1
+E 0 12001 0 14
+M 0 12002 1 12005 1
+M 0 12000 1 12006 1
+M 0 12003 1 12007 1
+E 0 12001 0 15
+M 0 12000 1 12009 1
+M 0 12000 2 12010 2
+M 0 12002 2 12011 2
+M 0 12000 4 12012 4
+M 0 12000 3 12014 2
+M 0 12000 1 12015 1
+M 0 12003 1 12015 1
+E 0 12001 0 14
+M 0 12000 3 12017 3
+M 0 12003 3 12018 2
+M 0 12008 1 12019 1
+E 0 12009 0 16
+M 0 12007 1 12020 1
+M 0 12011 1 12021 1
+E 0 12010 0 1
+M 0 12004 1 12022 1
+E 0 12004 0 16
+M 0 12006 1 12023 1
+M 0 12016 1 12024 1
+E 0 12000 0 16
+M 0 12005 1 12025 1
+E 0 12005 0 16
+M 0 12015 1 12026 1
+E 0 12006 0 6
+M 0 12009 1 12027 1
+E 0 12007 0 8
+M 0 12014 1 12028 1
+M 0 12012 1 12029 1
+M 0 12013 1 12030 1
+M 0 12003 2 12031 2
+M 0 12002 2 12033 2
+M 0 12002 1 12035 1
+M 0 12010 2 12035 2
+M 0 12001 1 12036 1
+O 0 12002 0 12036
+P 0 12003 1 12002 1
+M 0 12002 1 12036 1
+M 0 12010 1 12036 1
+M 0 12002 1 12037 1
+M 0 12000 1 12037 1
+M 0 12003 1 12038 1
+M 0 12010 2 12038 2
+M 0 12003 2 12039 2
+M 0 12010 1 12041 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

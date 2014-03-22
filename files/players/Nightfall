@@ -1,0 +1,75 @@
+#PLAYER
+Name Nightfall~
+Id   1174281462
+LogO 1174282517
+Vers 5
+Prom ^)^ HP %h MA %m MV %v TNL %X ^(^ ~
+Race Inccubus~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 1055
+Scro 33
+Room 3054
+HMV  1 36 102 102 82 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3676
+PAct  DEFGQTd
+AfBy TV
+WName Nightfall~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  8
+Alig  -1000
+ACs 100 100 100 100
+Attr 17 12 17 17 16
+AMod 0 0 0 0 0
+Pass NiJu3widH6a7I~
+Titl  the Inevitable~
+Pnts 56
+TSex 1
+PSize 2
+LLev 0
+HMVP 36 102 106
+Cnd  0 26 37 37
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'charm person'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'protection good'
+Sk 1 'cause critical'
+Sk 1 'dispel good'
+Sk 1 'flamestrike'
+Sk 1 'harm'
+Sk 1 'detect good'
+Sk 1 'giant strength'
+Sk 75 'sword'
+Sk 1 'dirt kicking'
+Sk 15 'shield block'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 1 'forsake'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin spells'
+End
+
+#END

@@ -1,0 +1,504 @@
+#AREADATA
+Name Sembiance's Casino~
+Builders Sembiance~
+VNUMs 20000 20099
+Credits ALL   ~
+Security 9
+Flags J
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#20000
+chip gold teller~
+{Ya chip gold teller{x~
+{YThe chip gold teller is a hot looking chick... meow!{x
+~
+~
+Human~
+ABV 0 900 0
+0
+23 20 1d1+500000 1d1+99 1d8+20 beating
+-15 -15 -15 -15
+CDF ABCDEGHIJKLMNOPQSTUVYZabcde 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#20000
+white casino chip~
+{Wa white casino chip{x~
+{Wa white casino chip is worth {Y1 gold{x~
+WOOD trash S A
+0 0 0 0 0
+5 1 1 P
+#20001
+blue casino chip~
+{Ba blue casino chip{x~
+{Ba blue casino chip is worth {Y5 gold{x~
+WOOD trash S A
+0 0 0 0 0
+5 1 5 P
+#20002
+red casino chip~
+{Ra red casino chip{x~
+{Ra red casino chip is worth {Y10 gold{x~
+WOOD trash S A
+0 0 0 0 0
+5 1 10 P
+#20003
+green casino chip~
+{Ga green casino chip{x~
+{Ga green casino chip is worth {Y100 gold{x~
+WOOD trash S A
+0 0 0 0 0
+5 1 100 P
+#20004
+yellow casino chip~
+{Ya yellow casino chip{x~
+{Ya yellow casino chip is worth 500 gold{x~
+WOOD trash S A
+0 0 0 0 0
+5 1 500 P
+#20010
+white slot machine~
+{Wa white slot machine{x~
+{Wa white slot machine is here{x~
+STEEL furniture ABY 0
+0 0 0 0 0
+1 1 1 P
+E
+white slot machine winning payoff description~
+{M|--------------------------------------------------|
+{M|           {R^  ^       {R^  ^       {R^  ^           {M  |
+{M| {Y   3    {r( {R:  : {r)   {r( {R:  : {r)   {r( {R:  : {r)    {YJACK   {M|
+{M|{Y Dragons   {r ||        {r ||        {r ||       {YPOT!   {M|
+{M|          {r ({Roo{r)      {r ({Roo{r)      {r ({Roo{r)          {M   |
+{M|                                                  |
+{M|--------------------------------------------------|
+{M|         {w(___)      {w(___)      {w(___)             {M |
+{M|  {G  3    {w({Wo o{w)___/  {w({Wo o{w)___/  {w({Wo o{w)___/     {G3x  {M |
+{M| {G  Cows   {M@@ {W`{w   \\  {M@@ {W`{w   \\  {M@@ {W`{w   \\  {GCHIPS! {M|
+{M|          {w \\ ___{W,{w/  {w \\ ___{W,{w/  {w \\ ___{W,{w/         {M|
+{M|           {w//  //     {w//  //     {w//  //           {M|
+{M|--------------------------------------------------|
+{M|         {r __  __    {r __  __    {r __  __           {M |
+{M|  {R  3    {r/  \/  \   {r/  \/  \   {r/  \/  \      {R2x  {M |
+{M|  {RHearts {r\      /   {r\      /   {r\      /    {RCHIPS {M |
+{M|         {r \    /    {r \    /    {r \    /           {M |
+{M|         {r  \../     {r  \../     {r  \../            {M |
+{M|--------------------------------------------------|
+{M|         {c   ___     {c   ___     {c   ___             {M|
+{M|  {B  3    {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-) {B   CHIP   {M|
+{M| {B Bears  {c _( {rY {c)_   {c _( {rY {c)_   {c _( {rY {c)_  {BRETURNED {M|
+{M|         {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)          {M|
+{M|         {c (_)-(_)   {c (_)-(_)   {c (_)-(_)           {M|
+{M|--------------------------------------------------|
+{M|          {g  ,{y_{g,      {g  ,{y_{g,      {g  ,{y_{g,            {M |
+{M|   {W 3     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)   {W CHIP    {M|
+{M|   {WOwls   {y (   )     {y (   )     {y (   ) {W RETURNED  {M|
+{M|          {y  {g"{y-{g"      {y  {g"{y-{g"      {y  {g"{y-{g"            {M |
+{M|                                                  |
+{M|--------------------------------------------------|{x
+ 
+~
+E
+whiteslot~
+NOTUSED
+~
+#20011
+blue slot machine~
+{Ba blue slot machine{x~
+{Ba blue slot machine is here{x~
+STEEL furniture ABY 0
+0 0 0 0 0
+1 136 5 P
+E
+blueslot~
+hi
+~
+E
+blue slot machine winning payoff description~
+{M|--------------------------------------------------|
+{M|           {R^  ^       {R^  ^       {R^  ^           {M  |
+{M| {Y   3    {r( {R:  : {r)   {r( {R:  : {r)   {r( {R:  : {r)    {YJACK   {M|
+{M|{Y Dragons   {r ||        {r ||        {r ||       {YPOT!   {M|
+{M|          {r ({Roo{r)      {r ({Roo{r)      {r ({Roo{r)          {M   |
+{M|                                                  |
+{M|--------------------------------------------------|
+{M|         {w(___)      {w(___)      {w(___)             {M |
+{M|  {G  3    {w({Wo o{w)___/  {w({Wo o{w)___/  {w({Wo o{w)___/     {G3x  {M |
+{M| {G  Cows   {M@@ {W`{w   \\  {M@@ {W`{w   \\  {M@@ {W`{w   \\  {GCHIPS! {M|
+{M|          {w \\ ___{W,{w/  {w \\ ___{W,{w/  {w \\ ___{W,{w/         {M|
+{M|           {w//  //     {w//  //     {w//  //           {M|
+{M|--------------------------------------------------|
+{M|         {r __  __    {r __  __    {r __  __           {M |
+{M|  {R  3    {r/  \/  \   {r/  \/  \   {r/  \/  \      {R2x  {M |
+{M|  {RHearts {r\      /   {r\      /   {r\      /    {RCHIPS {M |
+{M|         {r \    /    {r \    /    {r \    /           {M |
+{M|         {r  \../     {r  \../     {r  \../            {M |
+{M|--------------------------------------------------|
+{M|         {c   ___     {c   ___     {c   ___             {M|
+{M|  {B  3    {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-) {B   CHIP   {M|
+{M| {B Bears  {c _( {rY {c)_   {c _( {rY {c)_   {c _( {rY {c)_  {BRETURNED {M|
+{M|         {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)          {M|
+{M|         {c (_)-(_)   {c (_)-(_)   {c (_)-(_)           {M|
+{M|--------------------------------------------------|
+{M|          {g  ,{y_{g,      {g  ,{y_{g,      {g  ,{y_{g,            {M |
+{M|   {W 3     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)   {W CHIP    {M|
+{M|   {WOwls   {y (   )     {y (   )     {y (   ) {W RETURNED  {M|
+{M|          {y  {g"{y-{g"      {y  {g"{y-{g"      {y  {g"{y-{g"            {M |
+{M|                                                  |
+{M|--------------------------------------------------|{x
+ 
+~
+#20012
+red slot machine~
+{Ra red slot machine{x~
+{Ra red slot machine is here{x~
+STEEL furniture ABY 0
+0 0 0 0 0
+1 11 5 P
+E
+blue slot machine winning payoff description~
+{M|--------------------------------------------------|
+{M|           {R^  ^       {R^  ^       {R^  ^           {M  |
+{M| {Y   3    {r( {R:  : {r)   {r( {R:  : {r)   {r( {R:  : {r)    {YJACK   {M|
+{M|{Y Dragons   {r ||        {r ||        {r ||       {YPOT!   {M|
+{M|          {r ({Roo{r)      {r ({Roo{r)      {r ({Roo{r)          {M   |
+{M|                                                  |
+{M|--------------------------------------------------|
+{M|         {w(___)      {w(___)      {w(___)             {M |
+{M|  {G  3    {w({Wo o{w)___/  {w({Wo o{w)___/  {w({Wo o{w)___/     {G3x  {M |
+{M| {G  Cows   {M@@ {W`{w   \\  {M@@ {W`{w   \\  {M@@ {W`{w   \\  {GCHIPS! {M|
+{M|          {w \\ ___{W,{w/  {w \\ ___{W,{w/  {w \\ ___{W,{w/         {M|
+{M|           {w//  //     {w//  //     {w//  //           {M|
+{M|--------------------------------------------------|
+{M|         {r __  __    {r __  __    {r __  __           {M |
+{M|  {R  3    {r/  \/  \   {r/  \/  \   {r/  \/  \      {R2x  {M |
+{M|  {RHearts {r\      /   {r\      /   {r\      /    {RCHIPS {M |
+{M|         {r \    /    {r \    /    {r \    /           {M |
+{M|         {r  \../     {r  \../     {r  \../            {M |
+{M|--------------------------------------------------|
+{M|         {c   ___     {c   ___     {c   ___             {M|
+{M|  {B  3    {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-) {B   CHIP   {M|
+{M| {B Bears  {c _( {rY {c)_   {c _( {rY {c)_   {c _( {rY {c)_  {BRETURNED {M|
+{M|         {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)          {M|
+{M|         {c (_)-(_)   {c (_)-(_)   {c (_)-(_)           {M|
+{M|--------------------------------------------------|
+{M|          {g  ,{y_{g,      {g  ,{y_{g,      {g  ,{y_{g,            {M |
+{M|   {W 3     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)   {W CHIP    {M|
+{M|   {WOwls   {y (   )     {y (   )     {y (   ) {W RETURNED  {M|
+{M|          {y  {g"{y-{g"      {y  {g"{y-{g"      {y  {g"{y-{g"            {M |
+{M|                                                  |
+{M|--------------------------------------------------|{x
+ 
+~
+E
+redslot~
+done
+~
+#20013
+no name~
+{Ga green slot machine{x~
+{Ga green slot machine is here{x~
+STEEL furniture ABY 0
+0 0 0 0 0
+1 200 10 P
+E
+greenslot~
+hi
+~
+E
+green slot machine winning payoff description~
+{M|--------------------------------------------------|
+{M|           {R^  ^       {R^  ^       {R^  ^           {M  |
+{M| {Y   3    {r( {R:  : {r)   {r( {R:  : {r)   {r( {R:  : {r)    {YJACK   {M|
+{M|{Y Dragons   {r ||        {r ||        {r ||       {YPOT!   {M|
+{M|          {r ({Roo{r)      {r ({Roo{r)      {r ({Roo{r)          {M   |
+{M|                                                  |
+{M|--------------------------------------------------|
+{M|         {w(___)      {w(___)      {w(___)             {M |
+{M|  {G  3    {w({Wo o{w)___/  {w({Wo o{w)___/  {w({Wo o{w)___/     {G3x  {M |
+{M| {G  Cows   {M@@ {W`{w   \\  {M@@ {W`{w   \\  {M@@ {W`{w   \\  {GCHIPS! {M|
+{M|          {w \\ ___{W,{w/  {w \\ ___{W,{w/  {w \\ ___{W,{w/         {M|
+{M|           {w//  //     {w//  //     {w//  //           {M|
+{M|--------------------------------------------------|
+{M|         {r __  __    {r __  __    {r __  __           {M |
+{M|  {R  3    {r/  \/  \   {r/  \/  \   {r/  \/  \      {R2x  {M |
+{M|  {RHearts {r\      /   {r\      /   {r\      /    {RCHIPS {M |
+{M|         {r \    /    {r \    /    {r \    /           {M |
+{M|         {r  \../     {r  \../     {r  \../            {M |
+{M|--------------------------------------------------|
+{M|    ~
+#20014
+no name~
+{Ya yellow slot macine{x~
+{Ya yellow slot machine is here{x~
+STEEL furniture ABY 0
+0 0 0 0 0
+1 46 15 P
+E
+yellowslot~
+ed add 
+~
+E
+yellow slot machine winning payoff description~
+{M|--------------------------------------------------|
+{M|           {R^  ^       {R^  ^       {R^  ^           {M  |
+{M| {Y   3    {r( {R:  : {r)   {r( {R:  : {r)   {r( {R:  : {r)    {YJACK   {M|
+{M|{Y Dragons   {r ||        {r ||        {r ||       {YPOT!   {M|
+{M|          {r ({Roo{r)      {r ({Roo{r)      {r ({Roo{r)          {M   |
+{M|                                                  |
+{M|--------------------------------------------------|
+{M|         {w(___)      {w(___)      {w(___)             {M |
+{M|  {G  3    {w({Wo o{w)___/  {w({Wo o{w)___/  {w({Wo o{w)___/     {G3x  {M |
+{M| {G  Cows   {M@@ {W`{w   \\  {M@@ {W`{w   \\  {M@@ {W`{w   \\  {GCHIPS! {M|
+{M|          {w \\ ___{W,{w/  {w \\ ___{W,{w/  {w \\ ___{W,{w/         {M|
+{M|           {w//  //     {w//  //     {w//  //           {M|
+{M|--------------------------------------------------|
+{M|         {r __  __    {r __  __    {r __  __           {M |
+{M|  {R  3    {r/  \/  \   {r/  \/  \   {r/  \/  \      {R2x  {M |
+{M|  {RHearts {r\      /   {r\      /   {r\      /    {RCHIPS {M |
+{M|         {r \    /    {r \    /    {r \    /           {M |
+{M|         {r  \../     {r  \../     {r  \../            {M |
+{M|--------------------------------------------------|
+{M|         {c   ___     {c   ___     {c   ___             {M|
+{M|  {B  3    {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-)   {c (-{Y.{c_{Y.{c-) {B   CHIP   {M|
+{M| {B Bears  {c _( {rY {c)_   {c _( {rY {c)_   {c _( {rY {c)_  {BRETURNED {M|
+{M|         {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)  {c(:_{y-{B*{y-{c_:)          {M|
+{M|         {c (_)-(_)   {c (_)-(_)   {c (_)-(_)           {M|
+{M|--------------------------------------------------|
+{M|          {g  ,{y_{g,      {g  ,{y_{g,      {g  ,{y_{g,            {M |
+{M|   {W 3     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)     {y ({wO{g,{wO{y)   {W CHIP    {M|
+{M|   {WOwls   {y (   )     {y (   )     {y (   ) {W RETURNED  {M|
+{M|          {y  {g"{y-{g"      {y  {g"{y-{g"      {y  {g"{y-{g"            {M |
+{M|                                                  |
+{M|--------------------------------------------------|{x
+ 
+~
+#20020
+defective cherry bomb~
+{Rdefective cherry bomb{x~
+{Ra defective cherry bomb{x~
+FIRE_ELEM light_source 0 AO
+0 0 AC 0 0
+50 0 100 P
+E
+=spells=~
+divine wrath
+~
+#20021
+huge defective cheery bomb~
+{RHUGE defective cherry bomb{x~
+{RA HUGE defective cherry bomb{x~
+FIRE_ELEM light_source 0 AO
+0 0 BD 0 0
+75 0 100 P
+E
+=spells=~
+divine wrath
+~
+#20030
+test shard~
+a test shard~
+A test shard~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+50 0 0 P
+#20047
+bucket dice~
+a big bucket of dice~
+A big bucket of dice is here~
+WOOD furniture ABd 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#20000
+{RC{YA{RS{YI{RN{YO{G Entrance{x~
+{gYou are at the entrance to a magnificent yet humble casino!  You have
+never heard so many voices in one place before, legends say that adventurers
+from far away lands are able to travel to this Casino.{x  
+{WTo the east you see a Stones of Wisdom room!!{x
+~
+0 1311752 1
+D0
+~
+~
+0 0 20001
+D1
+~
+~
+0 0 20010
+D5
+~
+~
+0 0 3054
+C 0
+S
+#20001
+{GCasino Hallway - South End{x~
+{gYou stand at the south end of the Casino hallway.  To the north the{x
+{ghallway continues and leads to the Casino's main office where you exchange
+{gchips for cash and vice versa.  To your south is the Casino entrance.
+~
+0 1311752 1
+D0
+~
+~
+0 0 20002
+D2
+~
+~
+0 0 20000
+C 0
+S
+#20002
+{GCasino Hallway - North End{x~
+{gYou stand at the north end of the Casino hallway.  To the south the
+hallway continues and leads to the entrance of the Casino.  To the east and
+west are entrances to the Casino's gaming floors.  The Casino's main office
+is here, where you exchange chips for cash and vice versa.{x
+ 
+{GType {Wchip{G and hit enter to see how to buy chips.{x
+{GWhen in front of a slot machine, type {Wslot{G to play that slot machine.{x
+~
+0 1311752 1
+D1
+~
+~
+0 0 20003
+D2
+~
+~
+0 0 20001
+C 0
+S
+#20003
+{WWhite Slots{x~
+{gYou are facing a wall made up of {Wwhite{g class slot machines.  You
+need {Wwhite{g casino chips to play these.  {x 
+~
+0 1311752 1
+D1
+~
+~
+0 0 20004
+D3
+~
+~
+0 0 20002
+C 0
+S
+#20004
+{BBlue Slots{x~
+{gYou are facing a wall made up of {Bblue{g class slot machines.  You
+need {Bblue{g casino chips to play these.  {x 
+~
+0 1311752 1
+D1
+~
+~
+0 0 20005
+D3
+~
+~
+0 0 20003
+C 0
+S
+#20005
+{RRed Slots{x~
+{gYou are facing a wall made up of {Rred{g class slot machines.  You need
+{Rred casino{g chips to play these.  {x 
+~
+0 1311752 1
+D1
+~
+~
+0 0 20006
+D3
+~
+~
+0 0 20004
+C 0
+S
+#20006
+{GGreen Slots{x~
+{gYou are facing a wall made up of {Ggreen{g class slot machines.  You
+need {Ggreen{g casino chips to play these.  {x 
+~
+0 1311752 1
+D1
+~
+~
+0 0 20007
+D3
+~
+~
+0 0 20005
+C 0
+S
+#20007
+{YYellow Slots{x~
+{gYou are facing a wall made up of {Yyellow{g class slot machines.  You
+need {Yyellow{g casino chips to play these.  {x 
+~
+0 1311752 1
+D3
+~
+~
+0 0 20006
+C 0
+S
+#20010
+{WStones of Wisdom Room{x~
+{gYou see a big bucket full of dice in the center of the room.{x
+{gPeople are all over the place on the floor playing{x
+{gthe hottest new dice game, {WStones of Wisdom!{x
+~
+0 1024 0
+D3
+~
+~
+0 0 20000
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20000 1 20002 1
+O 0 20010 0 20003
+O 0 20011 0 20004
+O 0 20012 0 20005
+O 0 20013 0 20006
+O 0 20014 0 20007
+O 0 20047 0 20010
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

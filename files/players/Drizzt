@@ -1,0 +1,76 @@
+#PLAYER
+Name Drizzt~
+Id   1098762719
+LogO 1098766335
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Darkelf~
+Sex  1
+Cla  4
+OCla -1
+Levl 7
+OldLvl 7
+Sec  0
+Plyd 3616
+Not  0 0 0 0
+Scro 33
+Room 3054
+HMV  77 77 118 118 136 136
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 7
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  10811
+PAct  DEFQTd
+AfBy Fe
+Empower  0
+WName Drizzt~
+Comm NO
+Deaf D
+Pos  5
+Prac 13
+Trai 6
+Save  -31
+Alig  -1000
+Hit   162
+Dam   100
+ACs -175 -175 -175 -175
+Attr 14 18 17 19 11
+AMod 0 0 0 0 0
+Pass Dr4rF.Cc92XQU~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 50
+TSex 1
+PSize 2
+LLev 0
+HMVP 77 118 136
+Cnd  0 0 0 0
+Sk 1 'detect hidden'
+Sk 75 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Affc 'armor'   0 247  77 -20  17          0
+Affc 'combat mind'   0 497 150 100  19          0
+Affc 'combat mind'   0 496 150 -255  17          0
+Affc 'combat mind'   0 495 150 100  18          0
+Affc 'golden aura'   0 495  95   0   0 1073741824
+Affc 'bless'   0 246 109 -31  20          0
+Affc 'bless'   0 246 109  62  18          0
+End
+
+#END

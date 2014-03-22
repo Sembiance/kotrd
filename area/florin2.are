@@ -1,0 +1,2817 @@
+#AREADATA
+Name The Princess Bride~
+Builders Kilmer~
+VNUMs 4500 4599
+Credits 40 -  75~
+Security 8
+Flags F
+LEVELs 35 80
+End
+
+
+
+#MOBILES
+#4500
+westley farmboy man~
+Westley~
+A man clad entirely in black lies here a victim of the "Machine."
+~
+This is the poor farmboy, with eyes like the sea before a storm and pale blond
+hair, if you like that sort of thing.  His love for Buttercup caused him to
+become the Dread Pirate Roberts.  He is ready to fight you "to the pain."
+If only he could use his limbs.
+Or can he?
+~
+Human~
+ABGTV FHNc 1000 0
+0
+75 45 50d10+19500 1d1+499 10d7+25 punch
+-50 -50 -50 -35
+CEFHIK ABLN P M
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#4501
+buttercup princess bride woman~
+Buttercup~
+Here is the most beautiful woman in the world.
+~
+Although she's been through more grief than anything recently, it has only
+made Buttercup more beautiful.  Her hair is still the color of autumn, her
+skin still like cream.  It's a shame that she sits here planning her own
+death, when there's already a shortage of perfect breasts in the world.
+~
+Human~
+ABG CN 1000 0
+0
+60 5 50d10+9500 1d1+499 8d6+8 scratch
+-30 -30 -30 -20
+EFJN B N MR
+stand stand female 6000
+AHMV ABCDEFGHIJKMV medium unknown
+#4502
+king lotharon~
+King Lotharon~
+King Lotharon wishes you a "numble dumble."
+~
+It's surprising to see a 97-year-old king wandering around his own castle,
+mumbling.  Nevertheless, he is still physically fit.  Well, as fit as one 
+can be so close to the century mark.
+~
+Human~
+ACGH IP 350 0
+0
+55 2 50d10+7000 1d1+499 10d4+23 bite
+-20 -20 -20 -10
+CEIK 0 HN IMP
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#4503
+queen bella~
+The Queen of Florin~
+The Queen is looking for her husband, since no one else understands him.
+~
+Queen Bella is known throughout Florin as "E.S."--Evil Stepmother.  This has
+nothing to do with her personality.  It's just that she's Lotharon's second
+wife and Humperdinck's stepmother.  And everyone in Florin knows that 
+stepmothers are supposed to be evil.
+~
+Human~
+ABG 0 350 0
+0
+50 8 50d10+4500 1d1+499 5d8+19 slap
+-20 -20 -20 -15
+EFKN OP BHN ILM
+stand stand female 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#4504
+prince humperdinck man~
+Prince Humperdinck~
+A man is here, busily planning his bride-to-be's murder.
+~
+He looks like a man who doesn't want to be bothered.  After all, he has to
+plan his country's 500th anniversary, his wedding, the murder of his bride,
+and the war with Guilder.  He just wishes he had more time for his true love:
+hunting.
+~
+Human~
+ABFGHS DFPc -1000 0
+0
+70 30 50d10+17000 1d1+499 10d6+30 charge
+-35 -35 -35 -25
+ABDFHKQ AB IM NO
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#4505
+count rugen man~
+Count Rugen~
+A six-fingered man is here.
+~
+Count Rugen has made it his life's work to study the nature of pain.  He is
+probably the second most powerful man in Florin.  He is definitely the most
+feared.
+~
+Human~
+ABGHS PUV -750 0
+0
+69 25 50d10+14500 1d1+499 10d6+20 thrust
+-30 -30 -30 -25
+EFHJK B MP NS
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#4506
+fezzik turk~
+Fezzik~
+Fezzik is looking for some more rhymes.
+~
+At over seven feet tall, this giant makes a mighty intimidating presence.
+Even so, he has good intentions.  It's just that he's not often bright
+enough to think for himself.
+~
+Giant~
+ABGT HJNQUc 650 0
+0
+73 35 50d10+19000 1d1+499 10d7+24 beating
+-50 -50 -50 -20
+ACIK AHX EGHIN BCJMP
+stand stand male 5000
+AHMV ABCDEFGHIJKMV huge unknown
+#4507
+inigo montoya spaniard~
+Inigo Montoya~
+Inigo is looking for the six-fingered man.
+~
+Inigo is perhaps the best swordsman since the famed Wizard of Corsica,
+perhaps even better.  He has spent the bulk of his life searching for the
+six-fingered man who killed his father--Domingo.  Don't let his looks fool
+you.  He may be almost as thin as his blade, but with it, he is unexcelled. 
+
+~
+Human~
+ABGT CDFNVc 700 0
+0
+71 20 50d10+16500 1d1+499 10d6+25 slice
+-40 -40 -40 -30
+EFHK B NP FM
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#4508
+vizzini sicilian man~
+Vizzini~
+A man is here, telling you how much smarter he is.
+~
+A small man, almost hunchbacked, with a brilliant mind challenges you to a
+battle of wits.  It's almost unfair for you to even try.  After all, you 
+couldn't beat him.  It would be inconceivable...
+~
+Human~
+ABCG CDFGP -650 0
+0
+67 0 50d10+12500 1d1+499 10d5+20 wrath
+-30 -30 -30 -20
+EFHJN BP M LNR
+stand stand male 3500
+AHMV ABCDEFGHIJKMV small unknown
+#4509
+white horse~
+A white horse~
+One of Humperdinck's four fine white horses is here.
+~
+This is one of Humperdinck's "whites."  The whites are the finest horses in
+all of Florin, actually this side of Araby.  They are giant, tireless beasts.
+~
+Human~
+AGU VZc 0 0
+0
+40 2 15d10+1850 1d1+99 4d8+13 charge
+-10 -10 -10 -5
+DFHIU 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJKMQV large unknown
+#4510
+r.o.u.s. rodent~
+A R.O.U.S.~
+The Fire Swamp's most fearsome creature stares hungrily at you.
+~
+The R.O.U.S., rodent of unusual size, was long thought to be no more than
+a legend.  Unfortunately for you, they are indeed real.  This one looked
+up long enough from gnawing a corpse to see you.
+Uh-oh.
+~
+Human~
+ACFG OVZ -700 0
+0
+57 5 50d10+8250 1d1+199 6d8+24 chomp
+-25 -25 -25 -17
+DFHU 0 0 0
+stand stand either 0
+ABGHMV ABCDEFGHIJKMQUV medium unknown
+#4511
+clergyman archdean~
+The Archdean of Florin~
+An impressive clergyman is here, extolling the virtues of "twu wuv."
+~
+This man is easily the most respected of all the clergy in Florin.  But
+as the years have gone by, his speech impediment has worsened.  It's hard to
+listen to him now and keep a "stwait" face.  
+~
+Human~
+ABGQW HN 800 0
+0
+54 3 50d10+6500 1d1+499 7d6+22 divine
+-20 -20 -20 -30
+EFKQ 0 N 0
+stand stand male 5400
+AHMV ABCDEFGHIJKMV medium unknown
+#4512
+miracle max~
+Miracle Max~
+Miracle Max takes one look at you and says, "Go away!"
+~
+Max was the miracle man at Florin Castle for years.  Prince Humperdinck
+fired him upon the decline of the king's health, and poor Max hasn't 
+been the same since.  Still, he's a damn fine miracle man and can
+whip up miracle pills in a pinch.
+~
+Human~
+ABGV DF 0 0
+0
+60 50 75d10+25000 1d1+9999 10d9+50 magic
+-10 -10 -10 -10
+0 ACD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJKMV medium unknown
+#4513
+valerie witch~
+Valerie~
+Valerie is here, covering the miracle pills with chocolate.
+~
+Valerie is Max's wife, but everyone in Florin thinks she is a witch.
+This is because every good miracle man is supposed to have a witch.  She 
+doesn't mind though.  Anything to help Max's struggling business.
+~
+Human~
+ABGR DFPVZ 300 0
+0
+52 2 50d10+5500 1d1+499 6d7+20 scratch
+-22 -22 -22 -16
+DEFH 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#4514
+yellin guard~
+Yellin~
+Yellin is here guarding the castle gate.
+~
+Yellin's family has served the Crown for many generations.  This one is no
+different.  As Chief of All Enforcement, he is Humperdinck's most trusted
+non-noble.  He leads a group of Brute Squad members in the security
+preparations for the upcoming festivities.
+~
+Human~
+ABGH P -400 0
+0
+52 5 50d10+5500 1d1+399 6d7+20 thwack
+-18 -18 -18 -14
+EFKN 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#4515
+albino zookeeper~
+The zookeeper~
+The zookeeper is pushing a wheelbarrow through the woods.
+~
+This is Yellin's cousin.  It's his job to tend to all the creatures in the
+Zoo of Death.  His eyes, hair, and skin are all completely white.  
+Although he seldom communicates with more than a nod or a shrug, he 
+always knows of Humperdinck and Rugen's torture schemes.
+~
+Human~
+ABCGQ PQZ -300 0
+0
+50 3 50d10+4000 1d1+399 6d6+19 grep
+-20 -20 -20 -17
+FJKNQ 0 0 S
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#4516
+shark~
+A shark~
+A shark glides through the dark waters.
+~
+Just your ordinary, everyday shark, this one is swimming through the channel.
+Just one drop of blood in the water can draw it, and all the others,
+from miles away.
+~
+Human~
+AFGU VZbc 0 0
+0
+48 11 25d10+3750 1d1+99 5d8+19 bite
+-10 -10 -10 -7
+DFHP R 0 0
+stand stand either 0
+AGHMVbc ABCDEFGHIJKMOV medium unknown
+#4517
+angry woman booer~
+An angry woman~
+A woman is here, criticizing the future Queen.
+~
+This is the woman Buttercup dreamt about.  She thinks that Buttercup
+betrayed both Westley and the institution of love--making her the "Queen of
+Garbage."  She refuses to bow down to such.  
+~
+Human~
+ABG V -200 0
+0
+45 3 25d10+3000 1d1+399 8d4+16 acbite
+-15 15 -15 -7
+DFHIJ 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJKMV medium unknown
+#4518
+horse~
+Buttercup's horse~
+A horse is here, exquisitely groomed for such surroundings.
+~
+Buttercup may not have always taken proper care of herself, but she certainly 
+looked after her horse.  Lacking any kind of imagination at all, Buttercup
+named her horse simply "Horse."
+~
+Human~
+ABGU VZc 0 0
+0
+40 5 15d10+1850 1d1+99 4d8+13 charge
+-10 -10 -10 -4
+DFHI 0 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJKMV large unknown
+#4519
+falkbridge thief~
+Falkbridge~
+Falkbridge is sitting here, confident of his control of the Quarter.
+~
+Falkbridge has controlled the Thieves Quarter for over twenty years.  Almost
+everyone in Florin thinks he must be paying someone to stay out of jail.
+He and Yellin _know_ he's paying someone--Yellin.
+~
+Human~
+ABCGS PQU -400 0
+0
+46 3 25d10+3250 1d1+199 6d6+16 stab
+-13 -13 -13 -7
+BEFJKQ 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#4520
+giant eel~
+A giant eel~
+One of the famed giant eels of Florin Channel swims here.
+~
+The giant eels of these waters are so famous that there's even a bay named 
+after them.  They're pretty much like any other eels except they are over
+twenty feet long and can crush small boats with their tails.
+~
+Human~
+ABFGUY VZb 0 0
+0
+42 2 25d10+2250 1d1+99 3d12+14 chomp
+-9 -9 -9 -5
+DFH R 0 0
+stand stand either 0
+ABGHMVbc ABCDEFGHIJKMOV huge unknown
+#4521
+arabian garstini snake~
+The Arabian Garstini~
+An Arabian garstini strikes with quick and deadly accuracy.
+~
+Perhaps not the most famous of the constricter family, the Arabian garstina is
+definitely the deadliest.  It's not the size of the snake that makes it 
+fearsome, although specimens can rival other, more famous snakes.  The 
+remarkable thing about this species is its speed, not to mention a completely 
+insatiable appetite.
+~
+snake~
+ABFGU Z 0 0
+0
+45 5 25d10+3000 1d1+99 8d4+18 bite
+-13 -13 -13 -8
+DFHP L LQ I
+stand stand either 0
+AGXYc ADEFGKLQVXYc large unknown
+#4522
+king bat~
+A king bat~
+A king bat swoops and attacks.
+~
+The king bat is the largest known of all bats.  Wingspans can reach up to ten
+feet.  More importantly, as even the dumbest Turk knows, these bats are
+carriers of rabies.
+Duck!
+~
+Human~
+ABFGUW TVc 0 0
+0
+47 4 25d10+3900 1d1+99 6d6+17 claw
+-9 -9 -9 -5
+DFHU Q 0 GST
+stand stand either 0
+AGHMV ABCDEFGHIJKMPV small unknown
+#4523
+green-speckled recluse spider~
+A green-speckled recluse~
+A small spider almost blends in with the doorknob.
+~
+The green-speckled recluse is a tiny spider whose back is dotted with small
+green blotches.  Its poison is ten times deadlier than that of the black
+widow.  One bite could fell a giant.  Think of what it could do to you!
+~
+Human~
+ABFGU QZc 0 0
+0
+49 0 50d10+4000 1d1+149 4d10+18 none
+-11 -11 -11 -7
+DFP L 0 H
+stand stand either 0
+ABGHMPVc ABCDEFGHIJKMV tiny unknown
+#4524
+grandfather~
+A grandfather~
+A grandfather is reading his grandson a wonderful fairy tale.
+~
+The grandfather is a funny little man who speaks very poor English. 
+Nevertheless, he is reading his grandson the greatest existing piece of
+Florinese literature.
+~
+Human~
+ABGV DFHVc 1000 0
+0
+80 50 50d10+21000 1d1+1999 10d8+27 smash
+-60 -60 -60 -60
+CDEFHIKQ AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#4525
+grandson boy~
+The grandson~
+A young boy is in bed listening to what will soon be his favorite story.
+~
+The boy is home from school, sick in bed.  He is a typical boy who likes
+sports and video games (and muds!).  He doesn't really want to hear the 
+story, but he decided to humor his grandfather.
+~
+Human~
+ABG 0 750 0
+0
+35 0 10d10+1300 1d1+199 4d7+11 bite
+-7 -7 -7 -7
+FINR 0 0 0
+stand stand male 1100
+AHMV ABCDEFGHIJKMV medium unknown
+#4526
+mother woman~
+Buttercup's mother~
+Buttercup's mother is fixing stew and arguing with her husband.
+~
+Buttercup's mother is quite unremarkable.  She's a short, gnarled woman
+who's a terrible cook and a terrible housekeeper.  How she could conceive
+the most beautiful woman in the world is beyond her.  But she knows she
+did; she was there.
+~
+Human~
+ABG 0 300 0
+0
+44 0 25d10+2750 1d1+199 8d4+15 slap
+-10 -10 -10 -7
+DFKN 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#4527
+father man~
+Buttercup's father~
+Buttercup's father is waiting for his lunch.
+~
+Buttercup's father is a poor dairy farmer.  He's a runt of a man who spends
+most of his time arguing with his wife.  Today, like most days, he's behind,
+already having lost thirty-three out of forty-nine arguments.  And it's not
+even noon!
+~
+Human~
+ABGR 0 300 0
+0
+43 0 25d10+2250 1d1+349 3d12+14 scratch
+-9 -9 -9 -6
+FKNR 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#4528
+brute member~
+A Brute Squad member~
+A member of the Brute Squad is trying to enforce the laws.
+~
+Humperdinck wanted a group of law enforcers to make sure everything was safe
+for his wedding.  Who better than a brute?  These large men are perfectly
+quaflified; they're large and stupid.
+~
+Human~
+AGTUY c 0 0
+0
+48 5 5d10+4000 1d1+99 5d8+19 beating
+-15 -15 -15 -8
+CDFIKT 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV large unknown
+#4529
+countess rugen wife~
+The Countess~
+Count Rugen's wife is here, looking quite colorful.
+~
+The Countess is the most famous woman in all of Florin.  She is both admired
+and respected for her taste in all things fine.  In fact, many believe that
+the word glamour was invented just to describe her.
+~
+Human~
+ABGW IT -200 0
+0
+41 0 25d10+2000 1d1+199 4d8+14 slap
+-10 -10 -10 -7
+FKN 0 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#4530
+flame spurt~
+A burst of fire~
+One of the terrors of the Fire Swamp is here.
+~
+The flame spurt is a ten-foot high geyser of pure fire.  Right before it
+rises, there's always a gurgling sound.  Too bad fire extinguishers haven't 
+been invented in Florin yet.
+~
+Human~
+AFGR TVZc 0 0
+0
+55 0 50d10+7000 1d1+249 10d4+23 flame
+-20 -20 -20 -10
+FHP HX J IR
+stand stand none 0
+ADEHKMV ABCDEFGHIJKMV medium unknown
+#4531
+snow sand~
+A pool of snow sand~
+Snow sand tries to suffocate you.
+~
+Another of the terrors of the Fire Swamp, snow sand is really neither snow
+nor sand.  It is fine and powdery, thus snow.  It has been compared to
+quicksand, but it is nothing like that.  It slowly sucks its unfortunate
+victims down.....Forever.
+~
+Human~
+ABFGU Z 0 0
+0
+53 0 50d10+6000 1d1+199 6d7+21 drain
+-18 -18 -18 -9
+AHJP 0 0 0
+stand stand none 0
+ADEHMV ABCDEFGHIJKMV large unknown
+#4532
+barkeep bartender~
+A barkeep~
+A barkeep stands behind the counter, polishing glasses.
+~
+The bartender in the village serves several kinds of drinks.  That doesn't
+really matter though.  They all serve the same purpose:  to get you drunk.
+~
+Human~
+ABGV DF 0 0
+0
+40 0 1d1+2499 1d1+99 1d1+50 punch
+-9 -9 -9 -9
+0 CD 0 0
+stand stand either 15000
+AHMV ABCDEFGHIJKMV medium unknown
+#4533
+innkeeper~
+The innkeeper~
+An innkeeper offers you a warm bed and a hot meal.
+~
+This innkeeper has both a meal for you and a place to stay on your visit to
+Florin.  The innkeeper wishes you "Bon appetit and pleasant dreams."
+~
+Human~
+ABGV DF 0 0
+0
+40 0 1d1+2499 0d0+0 1d1+99 none
+-9 -9 -9 -9
+0 CD 0 0
+stand stand either 15000
+AHMV ABCDEFGHIJKMV medium unknown
+#4534
+soryp~
+Pyris is here.~
+Pyros is really here.
+~
+~
+Human~
+A 0 0 0
+0
+68 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4500
+stew spoon~
+a wooden stew spoon~
+A spoon lies here, needing to be washed.~
+SELECT_A_MATERIAL weapon Y AN
+mace 6 12 pound A
+44 25 4000 P
+A
+18 8
+A
+2 3
+#4501
+florinese dagger~
+a Florinese dagger~
+A triangular dagger with jagged edges lies here.~
+HIGH_STEEL weapon AGLM AN
+dagger 9 13 stab DH
+60 40 10000 P
+A
+12 25
+A
+19 6
+A
+18 4
+#4502
+crown~
+the Florinese Royal Crown~
+An exquisitely jewelled crown is here.~
+SELECT_A_MATERIAL jewelry AGI AE
+0 0 0 0 0
+50 250 2500 P
+A
+13 30
+A
+19 3
+A
+18 6
+A
+1 3
+#4503
+ring emerald~
+an emerald ring~
+A beautiful gold ring with a large emerald sparkles here.~
+SELECT_A_MATERIAL jewelry AGWY AB
+0 0 0 0 0
+45 20 15000 P
+A
+12 35
+A
+20 -9
+A
+4 2
+A
+3 3
+#4504
+heavy boots~
+heavy boots~
+Some large boots look very sturdy.~
+SELECT_A_MATERIAL armor Y AG
+ABE E ACD AE 0
+68 100 2000 P
+A
+13 45
+A
+19 12
+A
+14 -100
+A
+5 4
+#4505
+throwing knife~
+a throwing knife~
+This knife looks very sharp and deadly.~
+SELECT_A_MATERIAL weapon EGJM AN
+dagger 9 14 pierce DH
+63 38 7500 P
+A
+19 7
+A
+18 7
+#4506
+finger gloves six-fingered~
+six-fingered gloves~
+These gloves look different from most you've seen.~
+SELECT_A_MATERIAL armor E AH
+AE BE E ABCD 0
+67 50 5000 P
+A
+13 25
+A
+20 -10
+A
+17 -10
+#4507
+holocaust cloak~
+a holocaust cloak~
+A long cloak reeks of sulfur.~
+SELECT_A_MATERIAL armor Y AK
+AE E ABCD ABD 0
+68 110 8500 P
+A
+0 0
+A
+5 5
+A
+1 3
+A
+13 25
+A
+18 6
+#4508
+six-fingered sword~
+a finely balanced sword~
+A sword designed for a six-fingered man glints.~
+STEEL weapon IK AN
+sword 9 15 slice 0
+71 55 5000 P
+A
+19 10
+A
+18 12
+A
+5 3
+A
+2 6
+#4509
+goblet~
+a goblet~
+A goblet looks as if it contains something thirst-quenching.~
+SELECT_A_MATERIAL drink 0 A
+20 18 'red wine' 1 0
+60 80 100 P
+#4510
+black shirt~
+a black shirt~
+A nice long-sleeved button-up shirt is here.~
+SELECT_A_MATERIAL armor 0 AD
+CE ACE ABE ABCE 0
+75 50 2000 P
+A
+13 20
+A
+19 3
+A
+18 5
+#4511
+black pants~
+a pair of black pants~
+A nice pair of black pants look pretty durable.~
+SELECT_A_MATERIAL armor 0 AF
+CE ACE BCE ABE 0
+73 220 2000 P
+A
+14 75
+#4512
+hat~
+a hat~
+A hat fell off someone's head~
+SELECT_A_MATERIAL trash 0 AE
+0 0 0 0 0
+62 20 1000 P
+A
+18 3
+A
+19 2
+#4513
+princess bride book~
+a copy of _The Princess Bride_.~
+A copy of _The Princess Bride_~
+SELECT_A_MATERIAL treasure AI AO
+0 0 0 0 0
+80 100 10000 P
+A
+24 -5
+A
+22 -5
+A
+23 -5
+A
+20 -5
+A
+20 -5
+A
+17 -5
+A
+19 5
+A
+18 5
+A
+14 50
+A
+12 50
+A
+13 50
+A
+4 3
+A
+3 3
+A
+2 3
+A
+5 3
+A
+1 3
+E
+book~
+Read the book!
+ 
+Kilmer :)
+~
+#4514
+sign~
+a sign stands here.~
+A sign stands here.~
+SELECT_A_MATERIAL furniture O 0
+0 0 0 0 0
+0 -15536 0 P
+E
+sign~
+Does this area have anything in it?
+ 
+"Fencing. Fighting. Torture. Poison. True love. Hate. Revenge. Giants.
+Hunters. Bad men. Good men. Beautifulest ladies. Snakes. Spiders.
+Beasts of all natures and descriptions. Pain. Death. Brave men. Coward men.
+Strongest men. Chases. Escapes. Lies. Truths. Passion. Miracles."
+ 
+So please enjoy,
+Kilmer ;)
+ 
+P.S.  This area has some high level aggressive mobs, so be careful.
+~
+#4515
+mitre~
+the Archdean's mitre~
+Something that looks as if it belonged on the Pope.~
+SELECT_A_MATERIAL armor GIKY AE
+ACD ABD CD AD 0
+50 30 2000 P
+A
+3 -2
+A
+4 2
+A
+18 12
+A
+19 -6
+#4516
+mawidge vows~
+mawidge vows~
+You wonder, at the last moment, if you really want to recite it.~
+SELECT_A_MATERIAL scroll Q AO
+50 'frenzy' 'cure blindness' 'curse' 'reserved'
+50 10 0 P
+E
+vows~
+They say love is blind but that marriage curse it.
+~
+#4517
+miracle pill~
+a miracle pill~
+A small brown lump lies here.~
+SELECT_A_MATERIAL pill G A
+60 'cure poison' '' '' ''
+60 10 3250 P
+#4518
+castle key~
+the key to Florin Castle~
+A large key lies here.~
+SELECT_A_MATERIAL key 0 AO
+0 0 0 0 0
+0 10 0 P
+#4519
+horseshoes shoes~
+a set of horseshoes~
+You wonder how you'll wear four shoes.~
+SELECT_A_MATERIAL armor Y AG
+ABD AD BD AD 0
+35 230 400 P
+#4520
+bifocals glasses~
+a pair of bifocals~
+You never thought you'd need these, huh?~
+SELECT_A_MATERIAL armor 0 AE
+CE CE CE CE 0
+75 20 500 P
+A
+3 4
+A
+4 3
+A
+18 8
+#4521
+pajama pants bottoms~
+a pair of pajama pants~
+A pair of pants with cartoon animals all over them?~
+SELECT_A_MATERIAL armor 0 AF
+AD D ABC AD 0
+35 100 250 P
+#4522
+brute badge~
+a Brute Squad badge~
+A large badge that says "Don't mess with me!"~
+SELECT_A_MATERIAL armor 0 AC
+ABD CD ACD D 0
+45 150 0 P
+A
+3 -3
+A
+4 -2
+A
+1 3
+A
+5 3
+#4523
+jewelled bracelet~
+a jewelled bracelet~
+This bracelet sparkles from every kind of precious gem imaginable.~
+SELECT_A_MATERIAL jewelry A AM
+0 0 0 0 0
+37 80 2000 P
+A
+17 -5
+A
+20 -5
+A
+13 30
+#4524
+straw mattress~
+buttercup's bed~
+A mattress stuffed with straw lies in the corner of the room.~
+SELECT_A_MATERIAL furniture 0 0
+B CEFGHI EHK ACDEFG ACDEFG
+0 800 1 P
+#4525
+milk pail bucket~
+a milk pail~
+A large dented pail sits next to a three-legged stool.~
+SELECT_A_MATERIAL drink 0 A
+350 300 'milk' 0 0
+25 200 0 P
+#4526
+tankard mead~
+a tankard of mead~
+A large glass sits here.~
+SELECT_A_MATERIAL drink N A
+20 19 'mead' 1 0
+0 20 40 P
+#4527
+bottle wine red~
+a bottle of red wine~
+A nice (?) bottle of wine, a '38, I believe.~
+SELECT_A_MATERIAL drink N A
+100 75 'red wine' 0 0
+0 80 300 P
+#4528
+brandy snifter~
+a snifter of cheap brandy~
+There's nothing like good brandy, and this is nothing like good brandy.~
+SELECT_A_MATERIAL drink N A
+16 15 'brandy' 0 0
+0 20 100 P
+#4529
+bowl porridge~
+a bowl of porridge~
+A bowl that Goldilocks must have missed is here.~
+SELECT_A_MATERIAL food N A
+AC C 0 0 0
+0 30 10 P
+#4530
+roast mutton flank~
+a flank of roast mutton~
+This is what became of Mary's little lamb.~
+SELECT_A_MATERIAL food N A
+CD D 0 0 0
+0 160 200 P
+#4531
+key innkey~
+an innkey~
+A key to your room.~
+SELECT_A_MATERIAL key NV A
+0 0 0 0 0
+30 10 750 P
+#4532
+bed~
+a comfortable single bed~
+The bed in the center of the room looks surprisingly comfortable.~
+SELECT_A_MATERIAL furniture 0 0
+A CDFI EHK ACFH ADEFH
+0 3000 0 P
+#4533
+fountain water~
+a gurgling fountain~
+A fountain babbles in the middle of the courtyard.~
+SELECT_A_MATERIAL fountain 0 0
+10000 10000 'water' 0 0
+0 10000 0 P
+#4534
+kiss~
+the most passionate kiss in history~
+Don't you wish it had been you?~
+SELECT_A_MATERIAL light_source AGIY A
+0 0 BDEFGH 0 0
+60 10 2000 P
+A
+14 35
+A
+2 2
+#4535
+cloud smoke~
+a cloud of smoke~
+A mysterious cloud of smoke hovers here.~
+SELECT_A_MATERIAL armor AGM AQ
+E ABCD E ABCD 0
+51 10 0 P
+A
+18 6
+A
+19 7
+A
+12 -42
+A
+13 -25
+#4536
+leather belt~
+a leather belt~
+A belt, like most fathers have, looks like it would sting.~
+SELECT_A_MATERIAL armor 0 AL
+CD ABD ACD BD 0
+42 20 0 P
+A
+13 30
+#4537
+royal shield florin~
+a Florin army shield~
+A large shield with the Florin Coat of Arms is here.~
+SELECT_A_MATERIAL armor Y AJ
+AE E BE ABCD 0
+49 250 1200 P
+A
+17 -5
+A
+14 -25
+A
+5 2
+A
+20 -3
+#4538
+sleeves falkbridge~
+falkbridge's sleeves~
+A set of snakeskin sleeves lies here.~
+SELECT_A_MATERIAL armor FG AI
+ABD ACD CD BD 0
+43 160 250 P
+A
+9 6
+A
+3 2
+A
+4 2
+A
+18 5
+#4539
+altar~
+a large altar~
+A large altar stands at the head of the room.~
+SELECT_A_MATERIAL furniture AI 0
+0 0 0 0 0
+0 10000 0 P
+#4540
+broken dishes~
+broken dishes~
+A pile of broken dishes are here. There must have been another spat.~
+SELECT_A_MATERIAL trash 0 A
+0 0 0 0 0
+0 60 0 P
+#4541
+signpost~
+a signpost~
+A signpost is here giving you directions!~
+SELECT_A_MATERIAL furniture 0 0
+0 0 0 0 0
+0 800 0 P
+E
+signpost~
+<----- Guilder
+<----- The Sea
+ 
+-----> Florin Village
+-----> Florin Castle
+-----> The Fire Swamp
+~
+#4542
+well~
+a well~
+A well stands in the middle of the square.~
+SELECT_A_MATERIAL drink 0 0
+1000 1000 'water' 0 0
+0 5000 0 P
+#4543
+aquamarine shard legend~
+{Da legendary {Baquamarine {Dshard{x~
+A legendary quest shard lies here.~
+AQUAMARINE gem CT AO
+0 0 0 0 0
+64 3 50 P
+E
+pickupmessage~
+You just found your Level {C64 {xLegendary Shard! You can now advance to Level {C65{x!
+~
+#0
+
+
+
+#ROOMS
+#4500
+{MEntrance to Princess Bride{x~
+Welcome to Florin!
+This area is full of action and adventure and romance and....
+Well just read the sign....
+~
+0 4 3
+D0
+~
+~
+0 0 4501
+D1
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 4501
+D4
+~
+~
+1 0 4514
+C 0
+S
+#4501
+{MIn front of Buttercup's farm{x~
+So this is the Florin you've heard about.  It could certainly be a lot
+more impressive.  Hopefully things will get better.  There's a small
+farmhouse to your north.  It looks kind of interesting.  And the path that
+leads east and west is bound to go _somewhere_.  
+~
+0 0 3
+D0
+~
+~
+0 0 4503
+D1
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4500
+D3
+~
+~
+0 0 4506
+C 0
+S
+#4502
+{MThe path{x~
+This is the Path that goes through the whole of Florin.  From it, you can
+go to almost every inch of the country.  Going in either direction, if you
+stay on it, you're bound to end up in the same place again.  If you can make
+it through the Fire Swamp.  
+~
+0 0 3
+D1
+~
+~
+0 0 4507
+D3
+~
+~
+0 0 4501
+C 0
+S
+#4503
+{MThe farmyard{x~
+This is the yard in front of a small dairy farm.  You can hear chickens
+squawking and cows lowing in the distance.  To the north is the house
+itself.  You hear more racket coming from there than anywhere.  To the east
+is a small shack.  West is the barn.  
+~
+0 0 3
+D0
+~
+~
+0 0 4504
+D1
+~
+~
+0 0 4509
+D2
+~
+~
+0 0 4501
+D3
+~
+~
+0 0 4510
+C 0
+S
+#4504
+{MThe kitchen{x~
+Ack!  This room is a mess.  You thought _your_ housekeeping skills were
+bad...  There are pots sitting on the stove with weeks-old stew.  You just
+can't imagine how things got so bad until you actually watch this couple
+interact.  
+~
+0 8 1
+D1
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4503
+C 0
+S
+#4505
+{MButtercup's room{x~
+Buttercup's room is small but much tidier than the rest of the house. 
+After she realized she loved Westley, she decided to take better care of
+herself and the farm.  The room is simple but comfortable.  There is a
+dresser with her old clothes, a washbasin, letters from Westly, and a mighty
+comfortable looking straw mattress.  Go ahead and rest if you feel like it. 
+~
+0 8 1
+D3
+~
+~
+0 0 4504
+C 0
+S
+#4506
+{MThe path{x~
+The path just keeps going and going and going.  Florin must have been the
+place where Engergizer was invented.  There's not much to see right now, but
+you can go further both east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 4501
+D3
+~
+~
+0 0 4511
+C 0
+S
+#4507
+{MThe path{x~
+Even more of the path.  Aren't you tired of these generic room names and
+descriptions yet?  Why don't you go somewhere cool?  This area has places
+like Florin Castle, the Fire Swamp, and the Zoo of Death.  
+~
+0 0 3
+D1
+~
+~
+0 0 4586
+D3
+~
+~
+0 0 4502
+C 0
+S
+#4508
+{MOutskirts of Florin{x~
+This is the outskirts of Florin City.  From here, you can go into the
+city or back down the path.  For a country that's preparing to celebrate its
+five hundredth anniversary, things are awfully quiet around here.  
+~
+0 0 3
+D0
+~
+~
+0 0 4579
+D2
+~
+~
+0 0 4586
+C 0
+S
+#4509
+{MWestley's hovel{x~
+This is a tiny one-room hut.  It's hard to imagine someone actually
+living in a place so small.  But it does have everything Westley needed when
+he worked as the farmboy here.  Even more than that.  As you glance around,
+you see bookshelves lined with good literature and several burnt down
+candles to read them by.  
+~
+0 8 1
+D3
+~
+~
+0 0 4503
+C 0
+S
+#4510
+{MThe Barn{x~
+The barn floor is covered with straw.  This is the place where the family
+keeps their cows and where Buttercup keeps her horse.  Like most barns, it's
+not overly interesting, but it serves its purpose.  
+~
+0 8 1
+D1
+~
+~
+0 0 4503
+C 0
+S
+#4511
+{MThe path{x~
+This is where the path ends, for the moment at least, and the sea begins.
+The road goes straight to the sea, looking like it was meant as a boat ramp.
+Even in medieval times, people were very practical with their roadways.  
+~
+0 0 3
+D0
+~
+~
+0 0 4512
+D1
+~
+~
+0 0 4506
+C 0
+S
+#4512
+{MThe edge of the sea{x~
+The water here isn't very deep and the sea is quite calm.  Further out to
+sea, however, it looks quite choppy, if not stormy.  The path back toward
+the farm looks safer, but this may be the way you're heading.  
+~
+0 4 7
+D0
+~
+~
+0 0 4513
+D2
+~
+~
+0 0 4511
+C 0
+S
+#4513
+{MThe Sea{x~
+The sea is really raging in this part.  It's also extremely dark.  This
+certainly doesn't look like the brochures for the ocean printed by the
+Florin Travel Council.  Maybe you could sue for false advertising.  
+~
+0 1 8
+D1
+~
+~
+0 0 4566
+D2
+~
+~
+0 0 4512
+C 0
+S
+#4514
+{MOutside the Story{x~
+This is a typical young boy's room.  You see a television, video games,
+sports cards, toy army men, the lot.  The boy's bed is designed to look like
+a race car.  A chair sits beside the bed so that the grandfather can read to
+him.  
+~
+0 8200 1
+D5
+~
+~
+1 0 4500
+C 0
+S
+#4515
+{MFlorin Channel{x~
+This is Florin Channel, or, as it's called in Guilder, the Channel of
+Guilder.  Since we're dealing primarily with Florin though, it's Florin
+Channel here.  It links Giant Eel Bay to the shore beside Florin City
+itself.  
+~
+0 5 8
+C 0
+S
+#4516
+{MThe sea before the Cliffs{x~
+You are at the base of the Cliffs of Insanity.  It has been said that
+there's no way to climb them.  They are extremely steep and sheer.  Unless
+you've got a death wish, you'd better not try to climb them.  Why not fly
+instead?  
+~
+0 1 8
+D1
+~
+~
+0 0 4572
+D4
+~
+~
+0 0 4517
+C 0
+S
+#4517
+{MClimbing the Cliffs of Insanity{x~
+This is the lower section of the cliffs.  There's only one way for you to
+go--up.  Even though you had to fly to get here, it'd be almost impossible
+to go back down.  
+~
+0 1 6
+D4
+~
+~
+0 0 4571
+C 0
+S
+#4518
+{MClimbing the Cliffs of Insanity{x~
+Higher and higher, you can almost see the top from here.  Hopefully it's
+not far.  This place is kinda creepy even if you're not scaling the cliffs
+with your bare hands, as the man in black is reputed to have done.  
+~
+0 1 6
+D4
+~
+~
+0 0 4519
+C 0
+S
+#4519
+{MAtop the Cliffs{x~
+You see signs of a great sword battle.  There are footprints all over the
+place.  It looks as both men were masters, at the least.  They fought over
+the rocky terrain as if they knew exactly what they were doing.  A huge tree
+stands at the edge of the cliff, with a large rope tied to it.  
+~
+0 0 6
+D0
+~
+~
+0 0 4551
+C 0
+S
+#4520
+{MMiracle Max's{x~
+The miracle man's home is the inside of a tree.  It's small and cramped,
+but so are he and his wife.  There's a cauldron bubbling in the fireplace. 
+The smoke is a green wisp.  There are shelves all around the room with
+little bottles of God knows what.  Then you think to yourself, he'd _really_
+be a miracle man if he could get rid of that smell.  
+~
+0 1032 1
+D1
+~
+~
+1 0 4582
+D5
+~
+~
+1 0 4534
+M 110 H 110
+C 0
+S
+#4521
+{MThe Bull and Finch{x~
+This is the local tavern in Florin.  There's no telling what kind of
+characters you could find in this place.  It's small and smoky.  This side
+of the tavern holds the restaurant and inn.  The other side has the bar.  
+~
+0 8 1
+D0
+~
+~
+0 0 4522
+D1
+~
+~
+0 0 4579
+D4
+~
+~
+2 4531 4523
+C 0
+S
+#4522
+{MThe Bull and Finch{x~
+This is the bar side of the Bull and Finch.  Right now it's empty and
+quiet.  That's probably a good thing; because on some nights, the entire
+Thieves Quarter is here.  That's a rough crowd!  
+~
+0 8 1
+D1
+~
+~
+0 0 4537
+D2
+~
+~
+0 0 4521
+C 0
+S
+#4523
+{MA guest room in The Bull and Finch{x~
+It's small.  It's dingy.  It's completely uninteresting.  It's also
+quiet, warm, and comfortable.  You've heard that these beds are a lot more
+comfortable than they look.  Well, heck, you paid for the room for a night,
+go ahead and try it out.  
+~
+0 1036 1
+D5
+~
+~
+2 0 4521
+C 0
+S
+#4524
+{MThe Bottom Floor of the Zoo of Death{x~
+Well, you've made it through the Zoo.  Here is where the Prince keeps his
+dreaded "Machine."  It is capable of sucking years of life off its victims. 
+Only one creature in the entire world has proved worthy to be here on the
+bottom level.  That creature is, of course, Westley.  
+~
+0 9 1
+D4
+~
+~
+0 0 4575
+C 0
+S
+#4525
+{MButtercup's Bedroom{x~
+This is an exquisitely decorated bedroom.  It will be the Bridal Suite
+after the honeymoon.  `&If`7 there's a honeymoon, `&if`7 there's a wedding. 
+~
+0 8 1
+D1
+~
+~
+1 0 4576
+D3
+~
+~
+0 0 4531
+C 0
+S
+#4526
+{MA Corridor{x~
+This is the center of the corridor encompassing the entire top floor of
+Florin Castle.  Admittedly it's not as big as most castles are, but it's
+still a castle and extremely impressive to the poor villagers.  The corridor
+leads east and west.  A large staircase is down, and a door is to your
+north.  
+~
+0 8 1
+D0
+~
+~
+1 0 4560
+D1
+~
+~
+0 0 4549
+D3
+~
+~
+0 0 4576
+D5
+~
+~
+0 0 4565
+C 0
+S
+#4527
+{MHumperdinck's Battle Room{x~
+This is the dungeon where Humperdinck and Count Rugen make their many
+plans.  You can see a large table in the middle of the room, strewn with all
+kinds of maps and documents.  There are suits of armor along the walls and
+battle axes and things of that ilk.  The west wall has a large tapestry
+depicting the founding of Florin.  
+~
+0 13 1
+E
+tapestry~
+The tapestry shows a man seeing a nice little grassy spot close to the sea.
+ 
+Well, what else did you think it would be?
+~
+D4
+~
+~
+0 0 4565
+C 0
+S
+#4528
+{MThe Castle Courtyard{x~
+This is the center of Florin Castle.  There is a fountain here for
+refreshment.  To the north you see a doorway leading into the Great Hall. 
+To the south, you see the castle gate.  You wonder why there are two men
+fighting here.  
+~
+0 0 3
+D0
+~
+~
+1 0 4533
+D2
+~
+~
+0 0 4581
+C 0
+S
+#4529
+{MAmbush{x~
+You've come to a bend in the path, the highest point of the cliff.  There
+are large rocks and boulders all over the place.  It seems like it would be
+a great place to hide.  Even for a giant....  
+~
+0 1 6
+D2
+~
+~
+0 0 4551
+D3
+~
+~
+0 0 4552
+C 0
+S
+#4530
+{MA Test of Wits{x~
+A nice little picnic has been set up.  There is a blanket spread, a
+basket of food, and plenty of wine.  It looks like such a pleasant space to
+put your life on the line in a battle of wits.  
+~
+0 0 3
+D2
+~
+~
+0 0 4552
+D3
+~
+~
+0 0 4573
+C 0
+S
+#4531
+{MThe Royal Stables{x~
+You fell down out the window, didn't ya....
+Oh, well, you're stuck in the stables now.
+~
+0 9 1
+D2
+~
+~
+0 0 4564
+C 0
+S
+#4532
+{MThe Fire Swamp{x~
+The third terror of the Fire Swamp is the snow sand.  It can best be
+described as something along the lines of "slow quicksand."  Like quicksand,
+it's hard to escape when you unwittingly fall into it.  Unlike quicksand,
+though, its pace is extremely S L O W.  
+~
+0 8193 7
+D2
+~
+~
+0 0 4567
+D3
+~
+~
+0 0 4569
+C 0
+S
+#4533
+{MThe Great Hall{x~
+This is, by far, the largest room in the castle.  This is where the all
+of the royal gatherings are held, including the upcoming wedding.  There is
+enough room in here to seat all of Florin, if everyone in Florin were so
+lucky.  To the north is a beautiful staircase.  The door south leads into
+the castle courtyard.  
+~
+0 8 1
+D0
+~
+~
+0 0 4565
+D2
+~
+~
+1 0 4528
+C 0
+S
+#4534
+{MMax's Dungeon{x~
+This is where Max keeps his "witch."  It's dark and smoky.  There are of
+course, no bottles of potions and things around here though.  Just a pot of
+chocolate, which is used to coat the miracle pills.  
+~
+0 9 1
+D4
+~
+~
+1 0 4520
+C 0
+S
+#4535
+{MBefore Castle Florin{x~
+This is the castle's only entrance.  To the north stands a huge door with
+a portcullis.  Since it's so close to the wedding, and there's an ever-
+increasing threat of war with Guilder, the gate is being guarded around the
+clock.  
+~
+0 0 3
+D0
+~
+~
+1 4518 4581
+D2
+~
+~
+0 0 4588
+C 0
+S
+#4536
+{MIn the Forest before the Zoo of Death{x~
+The northern edge of the forest contains a building that's shaped like a
+giant human skull.  Its entrance, to the east, stands wide open in the place
+the mouth of a real skull would be.  From the doorway, there are sounds of
+exotic animals.  
+~
+0 1 4
+D0
+~
+~
+0 0 4586
+D1
+~
+~
+0 0 4546
+D2
+~
+~
+0 0 4575
+C 0
+S
+#4537
+{MThe Village Square{x~
+This square was built by King Lotharon's grandfather, Remlik, due to
+public outcry against the erection of a fountain in the castle courtyard. 
+Sure, it's not as fancy as a marble fountain, but a well in the center of
+town has certainly helped the people of Florin in their everyday lives.  
+~
+0 0 2
+D0
+~
+~
+0 0 4588
+D2
+~
+~
+0 0 4579
+D3
+~
+~
+0 0 4522
+C 0
+S
+#4538
+{MFalkbridge's Home{x~
+This is Falkbridge's home.  It's almost as nice as the rooms in the
+castle.  That's probably because much of Falkbridge's wealth came from
+stealing from the nobility of Florin.  You see English furniture, Persian
+rugs, Dutch China, French wines, and many other fine things around the room.
+Maybe stealing isn't that bad of a career move?  
+~
+0 9 1
+D0
+~
+~
+1 0 4580
+C 0
+S
+#4539
+{MGiant Eel Bay{x~
+Giant Eel Bay got its name from the giant eels that inhabit these waters.
+What other way could it have gotten such a name anyway?  It provides the
+quickest water route between Florin and Guilder.  But, like the Bermuda
+Triangle, boats rarely leave it once it entered.  Maybe it has something to
+do with the eels that are as big as boats.  
+~
+0 1 8
+D1
+~
+~
+0 0 4587
+D3
+~
+~
+0 0 4555
+C 0
+S
+#4540
+{MLevel 2{x~
+The second level of the Zoo is devoted to creatures of speed.  There are
+sounds of cheetahs, eagles, and hummingbirds (?)  .  The prince has, of
+course, beaten all of them quite easily.  But that doesn't matter to you. 
+You need to find a way to get past the snake that just dropped on your head.
+~
+0 9 1
+D5
+~
+~
+0 0 4541
+M 85 H 85
+C 0
+S
+#4541
+{MLevel 3{x~
+The third level of the Zoo is dedicated to large creatures.  You think
+you spy a rhinocerous horn to your left.  To your right you hear the bellow
+of a hippopotamus.  When you first see the bats, you don't see how they can
+be considered large when compared to such beasts.  But then you compare them
+to normal bats...  
+~
+0 9 1
+D5
+~
+~
+0 0 4542
+M 85 H 85
+C 0
+S
+#4542
+{MLevel 4{x~
+The fourth level of the Zoo houses venomous creatures of all kinds.  You
+see deadly cobras, gila monsters, stonefish, and snakes and spiders of all
+shapes and sizes.  You just can't understand why this level is so terrible
+since they're all in cages.....  
+~
+0 9 1
+D5
+~
+~
+0 0 4524
+C 0
+S
+#4543
+{MThe Countess's Bedroom{x~
+This room is full of all kinds of finery.  The Countess was glamorous
+before the word glamour was invented.  She has all of her things imported
+from Paris.  (This was after Paris, but, then again, isn't everything?)  
+~
+0 8 1
+D3
+~
+~
+1 0 4549
+C 0
+S
+#4544
+{MThe Fire Swamp{x~
+All their lives, the Florinese children have had nightmares due to the
+Fire Swamp.  It is getting easier and easier to see why.  There are so many
+creatures and natural phenomena that it's hard to think straight.  
+~
+0 8193 7
+D0
+~
+~
+0 0 4553
+D2
+~
+~
+0 0 4570
+C 0
+S
+#4545
+{MThe Fire Swamp{x~
+The Fire Swamp is an experience that no one would ever forget.  No one
+would forget it, if they ever made it out alive.  Cheer up, though.  To the
+south you can see daylight!  
+~
+0 8193 7
+D1
+~
+~
+0 0 4568
+D2
+~
+~
+0 0 4555
+D3
+~
+~
+0 0 4570
+C 0
+S
+#4546
+{MThe Entrance to the Zoo of Death{x~
+This is the entrance and first level of the Zoo of Death.  This is where 
+Humperdinck keeps the animals that test his hunting and fighting skills.  Each 
+level is themed toward one particular type of skill.  And since the door 
+just slammed behind you, you've only got one choice.  Down....
+~
+0 8205 1
+D5
+~
+~
+0 0 4540
+C 0
+S
+#4547
+{MThe Fire Swamp{x~
+~
+0 8197 7
+C 0
+S
+#4548
+{MA Corridor{x~
+You are at a junction in the hallway.  This time you have four choices. 
+East and west continue along the corridor.  Down leads to the castle foyer. 
+And there's a door to the south.  
+~
+0 8 1
+D1
+~
+~
+0 0 4583
+D2
+~
+~
+1 0 4561
+D3
+~
+~
+0 0 4578
+D5
+~
+~
+0 0 4581
+C 0
+S
+#4549
+{MA Corridor{x~
+Here, due to some sort of incantation or something, the carpet comes to
+life and suddenly attacks you.  You thought this was just like the other
+sections of the hall didn't you?  Well, you were right.  The carpet doesn't
+really do anything.  Oh, yeah, there's a door to the east.  
+~
+0 8 1
+D1
+~
+~
+1 0 4543
+D2
+~
+~
+0 0 4584
+D3
+~
+~
+0 0 4526
+C 0
+S
+#4550
+{MThe Forest{x~
+The forest is getting a little lighter, and you think you may even see
+some light trying to come between the thickly tangled branches overhead. 
+However, the trees are still to close together to go any direction other
+than north or south.  
+~
+0 1 4
+D0
+~
+~
+0 0 4575
+D2
+~
+~
+0 0 4582
+C 0
+S
+#4551
+{MThe Path to Guilder{x~
+This is the path that leads to Guilder.  You've heard quite a bit about
+Guilder in your wanderings in Florin.  Maybe it makes you wonder if you'll
+actually ever go there.  Uh-huh.  
+~
+0 0 3
+D0
+~
+~
+0 0 4529
+D2
+~
+~
+0 0 4519
+C 0
+S
+#4552
+{MThe Path to Guilder{x~
+This is the path that leads ever onward towards Guilder.  To the east, is
+the top of the mountain above the Cliffs of Insanity.  To the north, you see
+a short little man sitting on a blanket.  
+~
+0 0 3
+D0
+~
+~
+0 0 4530
+D1
+~
+~
+0 0 4529
+C 0
+S
+#4553
+{MThe Fire Swamp{x~
+Another of the many dangers of the Fire Swamp is the creature known as
+the dreaded R.  O.  U.  S.  -- rodent of unusual size.  They look very much
+like human-sized rats.  And, like all rats, will eat just about anything. 
+The only catch is that they're big enough to try that with just about
+anybody.  
+~
+0 8193 7
+D1
+~
+~
+0 0 4569
+D2
+~
+~
+0 0 4544
+C 0
+S
+#4554
+{MThe Entrance to the Fire Swamp{x~
+You've heard about it; you've dreaded it; you've laughed at its dangers. 
+It doesn't really matter, because now you're actually here--the Fire Swamp. 
+To get any further, you must go through it.  Maybe everything you've heard
+about the place was really just folklore.  *Gulp* 
+~
+0 1029 7
+D0
+~
+~
+0 0 4557
+D2
+~
+~
+0 0 4569
+C 0
+S
+#4555
+{MOutside the Fire Swamp{x~
+You're one of the few, the proud, the lucky.  You've seen the other side
+of the Fire Swamp.  This is a rare occurrence.  What lies next you ask? 
+Giant Eel Bay.  
+~
+0 1028 3
+D0
+~
+~
+0 0 4545
+D1
+~
+~
+0 0 4539
+C 0
+S
+#4556
+{MIn the Ravine{x~
+F
+   A
+    L
+     L
+      I
+       N
+        G
+          DOWN!
+ 
+Well, you had to do it, didn't you.  Now you can't get back up to the top.
+You have to go south from here.  And you can already smell the sulfur.
+~
+0 1 6
+D2
+~
+~
+0 0 4557
+C 0
+S
+#4557
+{MIn the Ravine{x~
+The ravine continues along, following a small creek.  Here, the sides are
+even steeper, making any kind of ascent completely impossible.  Your only
+choice is to continue southward.  
+~
+0 1 6
+D0
+~
+~
+0 0 4556
+D2
+~
+~
+0 0 4554
+C 0
+S
+#4558
+{MAbove the Ravine{x~
+You finally left the path for Guilder.  Which is a good thing, since
+Guilder isn't even half as interesting as Florin is.  You can go back to the
+north or down into a ravine.  
+~
+0 0 3
+D0
+~
+~
+0 0 4573
+D5
+~
+~
+0 0 4556
+C 0
+S
+#4559
+{MTo the Castle{x~
+~
+0 4 3
+C 0
+S
+#4560
+{MThe King's Bedroom{x~
+This is the sleeping chamber for the king of the land.  For someone with
+that much power, this room is somewhat of a letdown.  One would expect the
+finest room in the realm.  But Lotharon's a simple man.  All he has is a
+wardrobe, a washbasin, and, what else, a king-sized bed.  
+~
+0 8 1
+D2
+~
+~
+1 0 4526
+C 0
+S
+#4561
+{MThe Queen's Bedroom{x~
+Bella's bedroom belongs to someone of the utmost grace and fashion sense.
+It is elegantly furnished, yet refined.  Being the Queen of a country
+doesn't give her many duties, but it certainly gives her enough wealth to
+decorate as she sees fit.  
+~
+0 8 1
+D0
+~
+~
+1 0 4548
+C 0
+S
+#4562
+{MThe Count's Bedroom{x~
+The Count's bedroom is lined with bookshelves.  Taking the time to glance
+at a few titles, you notice: "The Joy of Pain," "One Too Many: How to Cope
+with Extra Digits," "How to Win Friends (in a Poker Game)," and "The Cat in
+the Hat."  
+~
+0 12 1
+D3
+~
+~
+1 0 4583
+C 0
+S
+#4563
+{MHumperdinck's Bedroom{x~
+This is the prince's bedroom.  It definitely belongs to a man's man. 
+There are animal heads along every wall.  You count no less than seven gun
+racks.  Looking under the bed at a stack of magazines, you're not surprised
+to see a stack of Guns'N'Ammo.  
+~
+0 8 1
+D1
+~
+~
+1 0 4578
+C 0
+S
+#4564
+{MThe Royal Stables{x~
+The stables aren't the nicest part of the castle.  In fact, it stinks....
+~
+0 12 1
+D0
+~
+~
+0 0 4531
+C 0
+S
+#4565
+{MThe Main Stairway{x~
+In front of you, stands a grand staircase.  It's like something you've
+only seen in movies.  The bannisters are made of solid gold, and the steps
+are covered with fine velvety carpet.  The stairway will take you up and
+down.  South leads to the Great Hall.  
+~
+0 12 1
+D2
+~
+~
+0 0 4533
+D4
+~
+~
+0 0 4526
+D5
+~
+~
+0 0 4527
+C 0
+S
+#4566
+{MThe Sea{x~
+The sea is getting even rougher.  It's hard to tell which direction
+you're going.  You think you can go north and west, but a quick change in
+the wind could really get confusing.  
+~
+0 1 8
+D0
+~
+~
+0 0 4572
+D3
+~
+~
+0 0 4513
+C 0
+S
+#4567
+{MThe Fire Swamp{x~
+The named terrors of the Fire Swamp have been discussed in Guilder and
+Florin for years.  There's one, however, that they weren't warned about. 
+Probably because no one had made it through safely and remembered the fact. 
+YOU CAN'T RECALL!  
+~
+0 8193 7
+D0
+~
+~
+0 0 4532
+D2
+~
+~
+0 0 4568
+C 0
+S
+#4568
+{MThe Fire Swamp{x~
+It'd be easy for someone to get lost in the Fire Swamp.  It all looks the
+same, smells the same, evything.  But, as luck would have, all the rooms
+here have different descriptions.  ;) 
+~
+0 8193 7
+D0
+~
+~
+0 0 4567
+D3
+~
+~
+0 0 4545
+C 0
+S
+#4569
+{MThe Fire Swamp{x~
+Well, this is it.  There's no turning back now.  You're in the Fire Swamp
+and how.  The Fire Swamp got it's name because it's, surprise, a swamp with,
+surprise again, sulfurous geysers.  Every once in a while, the sulfur
+catches fire and creates flame spurts.  In fact, there's a gurgling off to
+the east.  
+~
+0 8193 7
+D1
+~
+~
+0 0 4532
+D3
+~
+~
+0 0 4553
+C 0
+S
+#4570
+{MThe Fire Swamp{x~
+Here, the accessible part of the swamp takes another turn.  This time it
+leads east.  Maybe it will lead to the exit really soon.  
+~
+0 8193 7
+D0
+~
+~
+0 0 4544
+D1
+~
+~
+0 0 4545
+C 0
+S
+#4571
+{MClimbing the Cliffs of Insanity{x~
+Well, you're about half-way up the cliffs now.  It wasn't as hard as
+you've heard, was it?  Still, half is only half.  Keep going!  
+~
+0 1 6
+D4
+~
+~
+0 0 4518
+C 0
+S
+#4572
+{MThe Sea{x~
+The sea is a little calmer here, and visibility is clearing.  To the
+northwest, you can see what looks to be a wall of solid rock.  That
+certainly doesn't look like a good place to go.  To the south, you think you
+see fins in the water.  Hmmm...  Maybe the wall of rock isn't so bad-looking
+after all.  
+~
+0 1 8
+D2
+~
+~
+0 0 4566
+D3
+~
+~
+0 0 4516
+C 0
+S
+#4573
+{MThe Path to Guilder{x~
+There's another turn in the path to Guilder.  To the east is an area that
+looks like it'd be a nice spot for a picnic.  To the south, there's a high
+point that would serve as a good lookout spot.  
+  
+~
+0 0 3
+D1
+~
+~
+0 0 4530
+D2
+~
+~
+0 0 4558
+C 0
+S
+#4574
+{MThe Edge of the Forest{x~
+Here's where the beach meets the trees.  It's a wonderfully tranquil
+spot.  It looks like the perfect place to have a nice romantic picnic. 
+However, if you are intent on continuing your journey for experience, you
+may go either north or south.  
+~
+0 1 3
+D0
+~
+~
+0 0 4582
+D2
+~
+~
+0 0 4587
+C 0
+S
+#4575
+{MThe Forest{x~
+On either side of you, the trees are too dense to even think about
+passing through.  Instead, you must go either north or south as you wind
+your way through the Great Southern Forest.  
+~
+0 1 4
+D0
+~
+~
+0 0 4536
+D2
+~
+~
+0 0 4550
+C 0
+S
+#4576
+{MA Corridor{x~
+The corridor wraps around the second floor of the castle.  All of the
+bedrooms are located on this floor.  You can go east and south to continue
+along the hallway.  To your west, you see a mahogany door.  
+~
+0 8 1
+D1
+~
+~
+0 0 4526
+D2
+~
+~
+0 0 4577
+D3
+~
+~
+1 0 4525
+C 0
+S
+#4577
+{MA Corridor{x~
+This is the midpoint of the western corridor.  A fine carpet runs along
+beneath your fee There are torches lined along the walls.  You may continue
+north or south.  
+~
+0 8 1
+D0
+~
+~
+0 0 4576
+D2
+~
+~
+0 0 4578
+C 0
+S
+#4578
+{MA Corridor{x~
+The southwest corner of the hall is just like any other, except it's in a
+different location.  You may continue to the north and east.  Or you may
+choose what's behind door number three--the western one.  
+~
+0 8 1
+D0
+~
+~
+0 0 4577
+D1
+~
+~
+0 0 4548
+D3
+~
+~
+1 0 4563
+C 0
+S
+#4579
+{MThe Village Common{x~
+Yup, it's just a little pasture within the city limits.  Well, that is
+what a common is.  A place for the farmers to let their sheep graze, for the
+kids to play, or even for a Sunday afternoon nap.  
+~
+0 0 2
+D0
+~
+~
+0 0 4537
+D1
+~
+~
+0 0 4580
+D2
+~
+~
+0 0 4508
+D3
+~
+~
+0 0 4521
+C 0
+S
+#4580
+{MThe Thieves Quarter{x~
+This is the dark section the city.  Here, all the bandits, murderers, and
+lawyers make their residence.  Fortunately, most of them are in jail right
+now due to the security precautions recently taken.  That's quite a relief,
+because no one in his right mind wants to run upon a lawyer in a dark alley.
+To the south you see a very fine house for this side of town.
+~
+0 9 1
+D2
+~
+~
+1 0 4538
+D3
+~
+~
+0 0 4579
+C 0
+S
+#4581
+{MThe Castle Entryway{x~
+This is the foyer of the castle, the place where you leave your coat and
+hat and rubbers, um galoshes, and things of that sort.  It's rather fancy
+for such a small room.  North leads out into the courtyard.  South is the
+entrance to the castle.  And up leads to the living quarters of the nobles. 
+~
+0 8 1
+D0
+~
+~
+0 0 4528
+D2
+~
+~
+1 0 4535
+D4
+~
+~
+0 0 4548
+C 0
+S
+#4582
+{MIn the Forest in Front of Max's Miracle Shop{x~
+You've stumbled upon a cottage at the edge of the woods.  There is a
+small wisp of smoke coming from the chimney, so there's probably someone
+home.  Why not just open the door and go inside?  
+~
+0 0 4
+D0
+~
+~
+0 0 4550
+D2
+~
+~
+0 0 4574
+D3
+~
+~
+1 0 4520
+C 0
+S
+#4583
+{MA Corridor{x~
+This hallway has seen many generations of kings and queens.  The castle
+is almost as old as the country, which is fixing to turn five hundred.  The
+ghosts of the previous royals are said to inhabit this particular section of
+the castle.  Maybe that's why Count Rugen chose the room to your east.  
+~
+0 8 1
+D0
+~
+~
+0 0 4584
+D1
+~
+~
+1 0 4562
+D3
+~
+~
+0 0 4548
+C 0
+S
+#4584
+{MA Corridor{x~
+The hallway here is a little more interesting than the rest.  Along the
+walls, you can see the family portraits from generations ago.  For the most
+part, they're all rather distinguished.  Then you come to the one titled
+"Where's Uncle Waldo?"  
+~
+0 8 1
+D0
+~
+~
+0 0 4549
+D2
+~
+~
+0 0 4583
+C 0
+S
+#4585
+{MMore of the Path{x~
+~
+0 4 3
+C 0
+S
+#4586
+{MThe Path Continues{x~
+It seems that there's a path in Florin to take you no matter where you
+need to go.  Here, you've met a junction and must choose which way you want
+to go.  To your north, you see a village in the foreground.  Further north,
+you can make out the towers of a castle.  South, all you see is a dark
+forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 4508
+D2
+~
+~
+0 0 4536
+D3
+~
+~
+0 0 4507
+C 0
+S
+#4587
+{MThe Coast at the Bay{x~
+The tide playfully laps the shore.  Here, is one of the nicest beaches in
+all of Thera.  The climate is moderate.  The sun is nice.  The sand is
+comfortable.  Too bad the waters to the west are infested with giant eels.  
+~
+0 4 3
+D0
+~
+~
+0 0 4574
+D3
+~
+~
+0 0 4539
+C 0
+S
+#4588
+{MThe path to Florin Castle{x~
+My, my, my.  The Florinese sure do love their paths.  They seem to have
+one to almost everhything in the kingdom.  This is one you can expect
+though.  It leads north to the castle and south to the village.  
+~
+0 0 3
+D0
+~
+~
+0 0 4535
+D2
+~
+~
+0 0 4537
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 4511 spec_cast_cleric
+M 4513 spec_breath_acid
+M 4519 spec_thief
+M 4523 spec_poison
+M 4528 spec_guard
+M 4530 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 4500 4 1
+D 0 4514 5 1
+D 0 4520 1 1
+D 0 4520 5 1
+D 0 4521 4 2
+D 0 4523 5 2
+D 0 4525 1 1
+D 0 4526 0 1
+D 0 4528 0 1
+D 0 4533 2 1
+D 0 4534 4 1
+D 0 4535 0 2
+D 0 4538 0 1
+D 0 4543 3 1
+D 0 4548 2 1
+D 0 4549 1 1
+D 0 4560 2 1
+D 0 4561 0 1
+D 0 4562 3 1
+D 0 4563 1 1
+D 0 4576 3 1
+D 0 4578 3 1
+D 0 4580 2 1
+D 0 4581 2 2
+D 0 4582 3 1
+D 0 4583 1 1
+O 0 4514 0 4500
+O 0 4541 0 4501
+M 0 4526 1 4504 1
+E 0 4500 0 16
+M 0 4527 1 4504 1
+E 0 4536 0 13
+O 0 4540 0 4504
+O 0 4524 0 4505
+O 0 4525 0 4510
+M 0 4518 1 4510 1
+E 0 4519 0 8
+M 0 4516 3 4513 3
+M 0 4524 1 4514 1
+E 0 4513 0 17
+E 0 4520 0 20
+M 0 4525 1 4514 1
+E 0 4521 0 7
+M 0 4512 1 4520 1
+G 0 4517 0
+M 0 4533 1 4521 1
+G 0 4529 0
+G 0 4530 0
+G 0 4531 0
+M 0 4532 1 4522 1
+G 0 4526 0
+G 0 4528 0
+G 0 4527 0
+O 0 4532 0 4523
+M 0 4500 1 4524 1
+E 0 4510 0 5
+E 0 4511 0 7
+M 0 4501 1 4525 1
+E 0 4534 0 0
+E 0 4501 0 16
+M 0 4502 1 4526 1
+E 0 4502 0 6
+M 0 4503 1 4526 1
+E 0 4503 0 1
+M 0 4504 1 4527 1
+E 0 4504 0 8
+M 0 4505 1 4528 1
+E 0 4505 0 16
+E 0 4506 0 9
+O 0 4533 0 4528
+M 0 4507 1 4528 1
+E 0 4508 0 16
+G 0 4543 0
+M 0 4506 1 4529 1
+E 0 4507 0 12
+M 0 4508 1 4530 1
+E 0 4509 0 17
+M 0 4509 4 4531 4
+M 0 4510 4 4532 4
+M 0 4511 1 4533 1
+E 0 4515 0 6
+O 0 4539 0 4533
+M 0 4513 1 4534 1
+E 0 4535 0 18
+M 0 4514 1 4535 1
+E 0 4518 0 17
+E 0 4537 0 11
+M 0 4528 2 4535 2
+E 0 4522 0 3
+M 0 4515 1 4536 1
+M 0 4517 1 4537 1
+O 0 4542 0 4537
+M 0 4519 1 4538 1
+E 0 4538 0 10
+M 0 4520 3 4539 3
+M 0 4521 1 4540 1
+M 0 4522 4 4541 4
+M 0 4523 1 4542 1
+M 0 4529 1 4543 1
+E 0 4523 0 14
+M 0 4530 2 4544 1
+M 0 4531 2 4545 1
+S
+
+
+
+#SHOPS
+4512 26 10 3 2 4 150 75 0 23
+4532 17 0 0 0 0 150 75 0 23
+4533 19 0 0 0 0 150 75 0 23
+0
+
+
+
+#MOBPROGS
+#4500
+say Inconceivable!
+drink goblet
+~
+#0
+
+#$

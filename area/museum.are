@@ -1,0 +1,52 @@
+#AREADATA
+Name Need New Area Here 100 rooms~
+Builders None~
+VNUMs 6800 6899
+Credits ALL~
+Security 9
+Flags 0
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6800
+{CEntrance to the {RKOTRD {CMuseum{x~
+~
+0 12 1
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

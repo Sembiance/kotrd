@@ -1,0 +1,60 @@
+Fri Dec 31 14:46:38 2004 :: ROM is ready to rock on port 5000.
+Fri Dec 31 14:46:54 2004 :: Sock.sinaddr:  67.19.185.236
+Fri Dec 31 14:46:57 2004 :: Sock.sinaddr:  67.141.86.144
+Fri Dec 31 14:46:58 2004 :: Sock.sinaddr:  67.170.53.94
+Fri Dec 31 14:47:03 2004 :: Sock.sinaddr:  66.93.33.134
+Fri Dec 31 14:47:03 2004 :: Sock.sinaddr:  66.93.33.134
+Fri Dec 31 14:47:03 2004 :: Loading Argon.
+Fri Dec 31 14:47:03 2004 :: Argon@67.141.86.144 has connected.
+Fri Dec 31 14:47:04 2004 :: Loading Sembiance.
+Fri Dec 31 14:47:05 2004 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Fri Dec 31 14:47:08 2004 :: Sock.sinaddr:  24.7.44.192
+Fri Dec 31 14:47:08 2004 :: Loading Fnor.
+Fri Dec 31 14:47:08 2004 :: Loading Venus.
+Fri Dec 31 14:47:09 2004 :: Fnor@c-24-7-44-192.client.comcast.net has connected.
+Fri Dec 31 14:47:09 2004 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Fri Dec 31 14:47:10 2004 :: Loading Seclar.
+Fri Dec 31 14:47:12 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Fri Dec 31 14:47:19 2004 :: A nomad merchant got toasted by Fnor at {MThe Eastern Market Square{x [room 9517]
+Fri Dec 31 14:47:42 2004 :: Sock.sinaddr:  67.141.86.144
+Fri Dec 31 14:47:54 2004 :: Wrath@67.141.86.144 new player.
+Fri Dec 31 14:48:13 2004 :: Log Venus: snoop wrath
+Fri Dec 31 14:51:28 2004 :: {BA sleepy dragon hatchling{x got toasted by Wrath at {MA Cage{x [room 3715]
+Fri Dec 31 14:52:10 2004 :: the bodyguard got toasted by Fnor at {MThe Eastern Market Square{x [room 9517]
+Fri Dec 31 14:52:14 2004 :: the bodyguard got toasted by Fnor at {MThe Eastern Market Square{x [room 9517]
+Fri Dec 31 14:52:22 2004 :: Raistlin got toasted by Fnor at {MThe Center of Market Square{x [room 9506]
+Fri Dec 31 14:52:23 2004 :: Log Wrath: delete
+Fri Dec 31 14:52:24 2004 :: Log Wrath: delete
+Fri Dec 31 14:52:24 2004 :: Wrath has quit.
+Fri Dec 31 14:52:41 2004 :: the cityguard got toasted by Seclar at {WMarket {MSquare{x [room 3014]
+Fri Dec 31 14:52:46 2004 :: Log Argon: snoop fnor
+Fri Dec 31 14:53:15 2004 :: the cityguard got toasted by Fnor at {MInside {Wthe East Gate of {MMidgaard{x [room 3041]
+Fri Dec 31 14:53:41 2004 :: Log Argon: snoop self
+Fri Dec 31 14:58:04 2004 :: Log Argon: guild argon shadow
+Fri Dec 31 14:59:05 2004 :: A statue of the Fallen Red Dragon got toasted by Argon at {MThe {WTemple {Mof Immortals{x [room 3001]
+Fri Dec 31 14:59:06 2004 :: a dragon guard got toasted by Fnor at {MThe Court{x [room 23207]
+Fri Dec 31 14:59:39 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23213]
+Fri Dec 31 15:00:21 2004 :: a dragon lieutenant got toasted by Fnor at {MThe Court{x [room 23213]
+Fri Dec 31 15:00:36 2004 :: a dragon lieutenant got toasted by Fnor at {MThe Court{x [room 23213]
+Fri Dec 31 15:01:19 2004 :: A statue of the Fallen Red Dragon got toasted by Argon at {MThe {WTemple {Mof Immortals{x [room 3001]
+Fri Dec 31 15:01:36 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23222]
+Fri Dec 31 15:03:30 2004 :: Drakknar got toasted by Fnor at {MDrakknor's Home{x [room 23225]
+Fri Dec 31 15:05:43 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23218]
+Fri Dec 31 15:05:52 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23218]
+Fri Dec 31 15:06:07 2004 :: a dragon lieutenant got toasted by Fnor at {MThe Court{x [room 23218]
+Fri Dec 31 15:06:37 2004 :: Seclar has quit.
+Fri Dec 31 15:06:37 2004 :: Commander Gauzrah got toasted by Fnor at {MThe Court{x [room 23218]
+Fri Dec 31 15:06:43 2004 :: Sock.sinaddr:  66.93.33.134
+Fri Dec 31 15:06:47 2004 :: Loading Seclar.
+Fri Dec 31 15:06:49 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Fri Dec 31 15:07:01 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23219]
+Fri Dec 31 15:07:04 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23219]
+Fri Dec 31 15:07:13 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23219]
+Fri Dec 31 15:07:34 2004 :: The captain got toasted by Fnor at {MThe Court{x [room 23219]
+Fri Dec 31 15:09:02 2004 :: a dragon soldier got toasted by Fnor at {MThe Court{x [room 23213]
+Fri Dec 31 15:11:19 2004 :: Closing link to Seclar.
+Fri Dec 31 15:11:19 2004 :: Closing link to Fnor.
+Fri Dec 31 15:11:19 2004 :: Closing link to Venus.
+Fri Dec 31 15:11:19 2004 :: Closing link to Argon.
+Fri Dec 31 15:11:19 2004 :: Closing link to Sembiance.
+Fri Dec 31 15:11:19 2004 :: Normal termination of game.

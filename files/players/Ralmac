@@ -1,0 +1,517 @@
+#PLAYER
+Name Ralmac~
+Id   1094525857
+LogO 1094538432
+Vers 5
+Prom < HP: %h  Mana: %m  Move: %v  TNL: %X X: %e>  %K ~
+Race Lamia~
+Sex  2
+Cla  4
+OCla -1
+Levl 10
+OldLvl 10
+Sec  0
+Plyd 12575
+Not  1093220800 0 0 0
+Scro 33
+Room 3028
+HMV  148 148 122 122 180 204
+Gold 146
+Silv 7850
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 10
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  15336
+PAct  QTd
+AfBy D
+Empower  0
+WName Ralmac~
+Comm NO
+Deaf DP
+Pos  8
+Prac 13
+Save  -32
+Alig  -1000
+Hit   68
+Dam   5
+ACs -1 -8 -7 41
+Wimp  8
+Attr 15 18 18 21 21
+AMod 0 2 1 3 0
+Pass RabQ/ew5dgEBU~
+Titl  dying but HP stuck at -6~
+Pnts 49
+TSex 2
+PSize 3
+LLev 3
+HMVP 133 122 154
+Cnd  0 40 46 2
+Alias scr score~
+Alias pr practice~
+Alias rs read sign~
+Alias sc scan~
+Alias gc get all corpse~
+Alias sa sac all~
+Alias dw drink water~
+Sk 1 'acid blast'
+Sk 1 'stone skin'
+Sk 76 'dagger'
+Sk 1 'assassinate'
+Sk 1 'enhanced damage'
+Sk 71 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'bless'   0 245  96 -31  20          0
+Affc 'bless'   0 243  96  62  18          0
+Affc 'armor'   0 243  54 -20  17          0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 0
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3066
+Nest 0
+Cond 0
+Wear -1
+Time 571
+Cost 0
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Time 210
+Cost 0
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4232
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5207
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8801
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 18611
+Nest 0
+ExtF 64
+Cond 0
+Wear 12
+Cost 366
+Val  6 6 6 0 3
+End
+
+#O
+Vnum 10014
+Nest 0
+Cond 0
+Wear -1
+Time 194
+Cost 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 18609
+Nest 0
+Cond 0
+Wear -1
+Cost 120
+Val  0 0 8 0 0
+End
+
+#O
+Vnum 10307
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  20 18 7 0 0
+End
+
+#O
+Vnum 312
+Nest 0
+Cond 0
+Wear -1
+Time 1265
+Cost 640
+Spell 1 'protection evil'
+End
+
+#O
+Vnum 3291
+Nest 0
+Cond 0
+Wear -1
+Time 655
+Cost 0
+Spell 1 'fly'
+End
+
+#O
+Vnum 10307
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+Val  20 18 7 0 0
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+Val  0 0 397 0 0
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Time 844
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 8804
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9231
+Nest 0
+Cond 0
+Wear -1
+Time 627
+Cost 250
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 85 0 0
+End
+
+#O
+Vnum 18606
+Nest 0
+Cond 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 18613
+Nest 0
+Cond 0
+Wear 10
+Cost 275
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 18614
+Nest 0
+Cond 0
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 18605
+Nest 0
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 3
+Cost 1510
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear 16
+Cost 600
+End
+
+#O
+Vnum 7802
+Nest 0
+Cond 0
+Wear -1
+Cost 670
+End
+
+#O
+Vnum 5215
+Nest 0
+Cond 0
+Wear -1
+Time 1051
+Cost 1280
+Spell 1 'enchant weapon'
+End
+
+#O
+Vnum 5252
+Nest 0
+Cond 0
+Wear -1
+Time 773
+Cost 0
+End
+
+#O
+Vnum 4234
+Nest 0
+Cond 0
+Wear 4
+Time 917
+Cost 0
+End
+
+#O
+Vnum 4701
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Time 954
+Cost 0
+End
+
+#END

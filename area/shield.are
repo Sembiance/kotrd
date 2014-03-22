@@ -1,0 +1,551 @@
+#AREADATA
+Name The Shielding~
+Builders Lok~
+VNUMs 11100 11199
+Credits NONE~
+Security 9
+Flags F
+LEVELs 95 110
+End
+
+
+
+#MOBILES
+#11101
+marblefist~
+Marblefist~
+{cMarblefist, reknowned guardian of the Shielding towers over you.{x
+~
+Marblefist is a giant golem, carved from a 50' high by 30' diameter
+marble block and enchanted by Drizzt to watch over his flock.
+~
+Golem~
+ABGTZ DFHNYZc 1000 0
+0
+100 500 1d1+30000 1d1+99 1d1+400 smash
+-110 -110 -110 -110
+CDFOQ BGHIKLQRd FP JO
+stand stand male 20000
+CHJM ABCGHIJK huge unknown
+#11102
+Harmony~
+Harmony~
+{cHarmony, the healer of the Shielding smiles at you.{x
+~
+~
+Human~
+ABQ DFe 1000 0
+0
+80 300 1d1+14000 1d1+14000 1d1+225 none
+-200 -200 -200 -200
+0 ABCDNPU 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#11103
+Niles~
+Niles the Weaponmaker~
+{cNiles the Weaponmaker of the Shielding looks like he could train you.{x
+~
+You shouldnt be able to read this, because I intentionally omitted 
+the name.
+~
+Human~
+ABGKL FHNV 1000 0
+0
+100 500 1d1+28500 1d1+99 1d1+400 punch
+-110 -110 -110 -110
+EFGKQ BMN P 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#11104
+helm armorer~
+Helm the Armorer~
+{cHelm the Armorer of the Shielding looks like he could help you practice.{x
+~
+~
+Human~
+ABGLb DHNVc 1000 0
+0
+100 500 1d1+27500 1d1+99 1d1+400 punch
+-110 -110 -110 -110
+CEFHKQ ABMN P 0
+stand stand male 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#11105
+Vector~
+Vector the Mysterious~
+{cVector the Mysterious sells holy artifacts here.{x
+~
+~
+Human~
+ABGJRb DFHNTVc 1000 0
+0
+100 500 1d1+27000 1d1+14000 1d1+400 blast
+-90 -90 -90 -90
+FGHQ MNP ABI H
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#11101
+amulet shielding~
+{WA Holy Amulet of the Shielding{x~
+{WA silver amulet that glows with a heavenly light has been left here.{x~
+PLATINUM armor AGHIKLTWY AC
+ABF ABF ABF ABF 0
+99 1 75000 P
+A
+3 8
+A
+4 8
+A
+12 400
+A
+17 -300
+A
+20 -125
+E
+holy amulet silver~
+The Holy Amulet of the  Shielding is of highly polished silver, which
+reflects all light striking it in a radiant rainbow glow. You 
+get the feeling you better not be evil or neutral with it. On it is the 
+insignia of the Shielding, a Silver shield on a field of blue.
+~
+#11103
+statue~
+{WA statue of Drizzt{x~
+{WA statue of Drizzt has been erected in this room.{x~
+ROCK_MARBLE treasure AI 0
+0 0 0 0 0
+99 1000 9900 P
+E
+drizzt~
+Drizzt, the mighty patron of the Shielding comes to life and says:
+Go forth and trample evil. Convert the innocent. Peace be with you!
+ 
+The statue is carved from opal and dazzles you with its rainbow light.
+Drizzt is dressed in chain armor, has white hair and the purple eyes
+of the drow, and wields a scimitar in each hand.
+~
+#11104
+statue~
+a statue of Lok stands here.~
+A granite statue of Lok, founder of the Shielding has been erected here.{x~
+SELECT_A_MATERIAL treasure I 0
+0 0 0 0 0
+99 1000 9900 P
+E
+lok~
+Lok whispers in your mind 'Join the Brotherhood of War and eliminate
+those wormy thieves, assassins, vampires and Dark Knights!'
+ 
+Lok is a muscled giant, and armed as a paladin would be. in one hand
+he holds nightsplitter, and in the other a holy avenger.
+~
+#11105
+fountain basin holy water~
+{WA marble fountain{x~
+{WAn exquisite marble fountain filled with sweet water is here.{x~
+ROCK_MARBLE fountain AI 0
+10000 10000 'water' 0 0
+99 1000 9900 P
+E
+basin~
+The basin is strangely, always full.
+~
+#11106
+loaf holy~
+{WA blessed loaf of bread{x~
+{WA loaf of Holy bread has been left on the ground here.{x~
+ORGANIC food I A
+AG EF 0 0 0
+99 1 9900 P
+#11107
+orb holy~
+{WA Holy Orb of the Shielding{x~
+{WSomeone careless has left a beautiful glowing orb on the ground here.{x~
+MAGIC_ENERGY light_source AHIKL AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+99 5 25000 P
+A
+12 400
+A
+20 -50
+A
+4 10
+E
+orb~
+The orb sings a song of the Shielding.
+~
+#0
+
+
+
+#ROOMS
+#11101
+{MOn a white marble staircase{x~
+You stand on a white marble staircase which ascends upwards to the
+massive cathedral of the Shielding.  Each step is engraved with a
+pictographic story of those who have fallen in the service of the Shielding.
+High up is the gleaming white ediface of the cathedral.  A long dusty trail
+is to the west.  
+~
+0 1028 1
+E
+step stairs staircase~
+The Shielding 1995 by Lok. 
+~
+D3
+~
+~
+0 0 3906
+D4
+The ivory gates of the cathedral~
+~
+0 -1 11102
+C 0
+S
+#11102
+{MAt the ivory gates{x~
+You stand at the ivory gates of the Cathedral of the Shielding. Strange
+runes have been carved into them. They stand some 30'tall and 30'wide. 
+Gilded ironwork frames the doorway in a wreath of holy leaves. 10 massive
+marble pillars soar upwards to support the entryway.
+~
+0 136 1
+E
+pillars~
+It must have taken a team of giants to erect those!
+~
+D0
+The ivory gates~
+gates ivory~
+1 11101 11103
+D5
+On the marble staircase~
+~
+0 -1 11101
+C 0
+S
+#11103
+{MWithin the cathedral{x~
+You stand within the cathedral of the Shielding. A deep bass voice booms
+in your head 'LOCK THE DOOR!'. On either side of the red carpeted aisle 
+on which you stand are simple pews for pilgrims. But most impressive of
+all are the stained glass windows that run from ceiling to the floor. To
+the east is a window showing a deep subterranean city, and a Paladin 
+locked in combat with a murderer. To the west is a window of a warrior
+cutting his way through a swamp filled with green trolls. There are plaques
+under each window.
+~
+0 271368 0
+E
+plaques~
+To the east is the city of underdark. It is very evil, and a no recall place.
+Look for flickering orbs in the room description. You can recall there. To
+the west is the swamp of Haon Dor. Be sure to get the murky green potions.
+~
+D0
+Within the cathedral~
+~
+0 -1 11104
+D2
+~
+~
+0 0 11102
+C 0
+S
+#11104
+{MWithin the cathedral{x~
+You stand upon the plush red carpeted aisle which runs through the Shielding.
+Above you you can see the strong support columns upon which the mass of the
+cathedral rests. Your eyes follow them to the ground, but pause to look at
+the elaborate stained glass windows. To the east is a picture of a cleric
+incinerating a devil, and to the west is a picture of a Psionicist blasting
+the brain of a mesomaster. There are plaques beneath each window.
+~
+0 271368 0
+E
+columns pillars~
+The east column ends in a statue of a cleric, and the west in a statue of
+a psionicist.
+~
+D0
+Within the cathedral~
+~
+0 -1 11105
+D2
+Within the cathedral~
+~
+0 -1 11103
+C 0
+S
+#11105
+{MWithin the cathedral{x~
+You stand upon the plush red carpeted aisle which runs through the Shielding.
+Above you you can see the strong support columns upon which the mass of the
+cathedral rests. Your eyes follow them to the ground, but pause to look at
+the elaborate stained glass windows. To the east is a picture of a mage
+incinerating a drow matron, and to the west is a picture of a ranger tracking 
+some ogres. There are plaques beneath each window.
+~
+0 271368 0
+E
+columns pillars~
+The east column ends in a statue of a mage, and the west in a statue of
+a ranger.
+~
+E
+plaques~
+The drow are extremely evil. Ask Drizzit sometime. Avoid the matrons. The
+ogre villagers are also evil. Be sure to get the gauntlets of the chieftain.
+~
+D0
+~
+~
+0 0 11106
+D2
+Within the cathedral~
+~
+0 -1 11104
+C 0
+S
+#11106
+{MWithin the cathedral{x~
+You stand upon the plush red carpeted aisle which runs through the Shielding.
+Above you you can see the strong support columns upon which the mass of the
+cathedral rests. Your eyes follow them to the ground, but pause to look at
+the elaborate stained glass windows. To the east is a picture of a bard
+charming a draconian, and to the west is a picture of a warrior splitting
+a minotaur in two. There are plaques beneath each window.
+~
+0 271368 0
+E
+columns pillars~
+The east column ends in a statue of a bard, and the west in a statue of
+a warrior.
+~
+E
+plaques~
+Dragon tower is good experience, but full of aggressives. Beware of the
+massed bodyguards. Mahn Tor has some really great gear in the inner 
+chambers. Mahn-Tor himself is invisible.
+~
+D0
+~
+~
+0 0 11107
+D2
+~
+~
+0 0 11105
+C 0
+S
+#11107
+{MWithin the cathedral{x~
+You stand upon the plush red carpeted aisle which runs through the Shielding.
+Above you you can see the strong support columns upon which the mass of the
+cathedral rests. Your eyes follow them to the ground, but pause to look at
+the elaborate stained glass windows. To the east is a picture of Lok leading
+the shielding against a terrible vampire, and to the west is a picture of a 
+Paladin skewering a spider on his bastard sword. There are plaques beneath 
+each window.
+~
+0 271368 0
+E
+columns pillars~
+The east column ends in a statue of Zaknafien, and the west in a statue of
+a paladin. Zak created several of the shieldings most holy weapons.
+~
+E
+plaques~
+Ciquala's lair can be very interesting. It gets hard west fast. Go down to
+enter the final level of ultima. Arachnos is fun to explore. The spiders
+have blue potions which heal 100 hp each.
+~
+D0
+At the pulpit~
+~
+0 -1 11108
+D2
+~
+~
+0 0 11106
+C 0
+S
+#11108
+{MAt the pulpit of the Shielding{x~
+You stand at the pulpit of the Shielding, where Harmony tends to the souls
+and bodies of the order. You feel paticularily at home here, and your spirts
+perk up as you listen to the hymns Harmony continually sings. Far above you
+rises the great dome of the cathedral, painted with a mural of the gods.
+~
+0 271368 1
+E
+mural dome~
+Above you is a mural of the gods. You see Johnnus. Take a long look. This
+is what he looks like. You wont see him much otherwise. You see Ryu trying
+out some new special mob on Lok, who is squirming. You see Shelby, the 
+sweetheart, helping out every mortal in sight. You see Redneck blasting
+masters in a room called 'Redneck's wet dream'. Asmodean is riding his
+cow forth to battle those who have an ethical view. You see Zak at his forge
+crafting a weapon of great power. There are others, but the god who stands
+out most to you is Drizzit, patron god of the Shielding who is smiting
+down thieves and asses and dark knights who belong to other, worthless clans.
+~
+D0
+The north wing~
+~
+0 -1 11113
+D1
+The east wing~
+~
+0 -1 11109
+D2
+The south wing~
+~
+0 -1 11107
+D3
+The west wing~
+~
+1 -1 11111
+C 0
+S
+#11109
+{MOn the battle grounds{x~
+You stand on the battle grounds where knights of the Shielding train and
+hone their bodies in a series of strenuous excercises. Niles the Weaponmaker
+supervises their progress and that of his apprentices who forge the arsenal
+of the Shielding.
+~
+0 270344 0
+D1
+The east wing~
+~
+0 -1 11110
+D3
+The pulpit~
+~
+0 -1 11108
+C 0
+S
+#11110
+{MOn the battle grounds{x~
+Here amid the clang and clatter of the forge, you see Helm the Armorer
+patiently showing a member of the shielding how to parry. You get the
+feeling you too could learn new skills from Helm. To the east is a glowing
+golden archway, leading to the east gate of Midgaard. This is Arch of War , 
+erected by the Brotherhood of War. There is an inscription engraved into
+the arch.
+~
+0 10 1
+D3
+The east wing~
+~
+0 -1 11109
+C 0
+S
+#11111
+{MIn the great library{x~
+You stand in the great library of the Shielding, where students of the arts
+study from well preserved parchments under the watchful eye of Vector. Vector
+spies you and greets you with great joy, asking you to guess what he has to
+offer today.
+~
+0 8 1
+D1
+The pulpit~
+~
+0 -1 11108
+D3
+The vault~
+~
+0 -1 11112
+C 0
+S
+#11112
+{MIn the vault{x~
+You stand in the vault of the Shielding, were the treasury resides. Next to
+you is a giant stone tablet, which lists all the members of the Shielding.
+~
+0 287752 0
+D1
+The library~
+~
+0 -1 11111
+C 0
+S
+#11113
+{MAt the spiral staircase{x~
+You stand in the north wing of the Shielding at the spiral staircase which
+winds upwards to the knights quarters. Unfortunately, that area is under
+heavy construction and has been roped off to protect you from the marble dust.
+To the north is the Altar to Drizzt.
+~
+0 271368 0
+D0
+The altar~
+~
+0 -1 11114
+D2
+The pulpit~
+~
+0 -1 11108
+C 0
+S
+#11114
+{MAt the altar{x~
+You stand at the altar to Drizzt. Around you the walls dance with a rainbow
+light, which moves like a living being. On the ground is a huge donation pit
+where members leave things for the furtherment of the Shielding.
+~
+0 271368 0
+D2
+The staircase~
+~
+0 -1 11113
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 11101 spec_guard
+M 11102 spec_cast_adept
+M 11105 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 11102 0 2
+D 0 11108 3 1
+M 0 11101 1 11102 1
+O 0 11104 0 11104
+M 0 11102 1 11108 1
+G 0 11101 0
+G 0 11106 0
+G 0 11107 0
+O 0 11105 0 11108
+M 0 11103 1 11109 1
+M 0 11104 1 11110 1
+M 0 11105 1 11111 1
+O 0 11103 0 11114
+S
+
+
+
+#SHOPS
+11102 18 19 1 0 0 105 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1388 @@
+#AREADATA
+Name The Quest Area~
+Builders Arioch~
+VNUMs 25300 25499
+Credits N/A   ~
+Security 8
+Flags J
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#25300
+quest questmaster~
+The Questmaster~
+{cThe Questmaster is here, waiting to send you on a journey.{x
+~
+This man looks like nothing more than a very old, and very wrinkled human.
+Little to nothing is remarkable about him save for his eyes, these look as if
+they hold the wisdom of the anicents and the power of the gods.
+~
+Human~
+ABDXe DFJT 0 0
+0
+100 0 1d1+1 1d1+23499 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+M GRALL 25300 100~
+M SPEECH 25301 quest~
+M SPEECH 25302 gauntlet~
+#25301
+old man~
+an old man~
+An old man is here, waiting to test your skills.
+~
+This man looks like nothing more than a very old, and very wrinkled human.
+Little to nothing is remarkable about him save for his eyes, these look as if
+they hold the wisdom of the anicents and the power of the gods.
+~
+Human~
+ABDe DFJT 0 0
+0
+150 0 1d1+1 1d1+23499 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+M SPEECH 25306 yes~
+M GRALL 25305 100~
+M SPEECH 25326 no~
+#25302
+gauntlet warrior~
+a gauntlet warrior~
+A gauntlet warrior lunges for you!
+~
+A gauntlet warrior stands lunges for you!
+~
+Human~
+ABFT DEFJ 0 0
+0
+100 525 1d1+35000 1d1+909 1d1+400 punch
+-65 -65 -65 -65
+DFIK A EId JP
+stand stand male 2200
+ADHMV ABCDEFGHIJKM medium unknown
+M DEATH 25307 100~
+#25303
+gauntlet mage~
+a gauntlet mage~
+A gauntlet mage lunges for you!
+~
+A gauntlet mage luges for you!
+~
+Human~
+ABFR DFHJUV -1500 0
+0
+110 500 1d1+30000 1d1+15000 1d1+350 magic
+-120 -120 -120 -120
+FH ABP BCLMQ 0
+stand stand female 10000
+ADHMV ABCDEFGHIJK medium unknown
+M DEATH 25309 100~
+M FIGHT 25308 25~
+#25304
+gauntlet thief~
+a gauntlet thief~
+A gauntlet thief lunges at you!
+~
+A gauntlet thief lunges at you!
+~
+Human~
+ABFS DFHQV 0 0
+0
+110 600 1d1+40000 1d1+500 1d1+400 pierce
+-80 -80 -80 -80
+EFIJKN AB 0 0
+stand stand male 20000
+ADHMV ABCDEFGHIJK medium unknown
+M DEATH 25311 100~
+M FIGHT 25310 10~
+#25305
+gauntlet cleric~
+a gauntlet cleric ~
+A gauntlet cleric lunges at you!
+~
+A gauntlet cleric lunges at you!
+~
+Human~
+ABFQZ DFHTUV 0 0
+0
+115 600 1d1+45000 1d10+1800 1d1+425 divine
+-70 -70 -70 -70
+FHJ 0 CNS 0
+stand stand male 2000
+ADHMV ABCDEFGHIJK medium unknown
+M DEATH 25313 100~
+M FIGHT 25312 10~
+#25306
+gauntlet paladin~
+a gauntlet paladin~
+A gauntlet paladin ATTACKS YOU!
+~
+A gauntlet paladin lunges at you!
+~
+Human~
+ABFYe BDFHTVc 0 0
+0
+115 600 1d1+50000 1d1+29000 1d1+450 slash
+-130 -130 -130 -130
+EFIKX ABEL F NYZ
+stand stand female 95000
+ADFHMUV ABCDEFGHIJK medium unknown
+M DEATH 25314 100~
+M FIGHT 25315 20~
+#25307
+master gauntlet man~
+The Gauntlet Master~
+{DA frail old man stands here.{x
+~
+This man looks like nothing more than a very old, and very wrinkled
+human.  Little to nothing is remarkable about him save for his eyes, these
+look as if they hold the wisdom of the anicents and the power of the gods.  
+~
+Human~
+ABCFe DFHQVc 0 0
+0
+118 200 1d1+50000 1d100+15000 1d1+300 smash
+-150 -150 -150 -150
+CDEFGJK ABLMQ CFGT NS
+stand stand male 89800
+ADHMV ABCDEFGHIJKM medium unknown
+M DEATH 25316 100~
+M FIGHT 25317 10~
+#25308
+statue goddess~
+a statue of Lybre~
+{cA statue of Lybre the Goddess of the realm stands here.{x
+~
+As you gaze up at this golden statue of Lybre, the most loved Goddess
+ever Known to this realm, you can only begin to appreciate her physical
+beauty, but Lybre is best known for her inner beauty and kind heart.  Her
+statue stands proudly beside the likeness of that of her husband Arioch.  
+~
+unique~
+ABTe CDEFGJNTVZe 1000 0
+0
+200 1000 1d1+150000 5d10+500 50d50+500 crush
+-100 -100 -100 -100
+FJR LQ CHIMN P
+stand stand female 3000
+AHJMV ABCDEFGHIJK large unknown
+M SPEECH 25318 yes~
+M GRALL 25304 100~
+M EXALL 25303 1~
+#0
+
+
+
+#OBJECTS
+#25300
+girth hero heroism quest~
+{WA Girth of Real Heroism{x~
+{WAn enormous mithril girth lies here, filling the room with its power.{x~
+SELECT_A_MATERIAL armor AGIOY AL
+CE CE CE CE 0
+51 50 187500 P
+A
+1 5
+A
+4 2
+A
+5 4
+A
+3 2
+A
+12 100
+A
+13 100
+A
+14 500
+A
+18 10
+A
+19 10
+A
+17 -30
+#25301
+ring hero heroism quest~
+{WA Ring of Real Heroism{x~
+{WA beautiful mithril ring radiating power is lying here.{x~
+MITHRIL armor AGIOY AB
+CE CE CE CE 0
+51 1 120000 P
+A
+12 100
+A
+19 10
+A
+18 10
+A
+13 200
+A
+17 -15
+A
+14 250
+#25302
+blade hero heroism quest~
+{WA Real Hero's Blade{x~
+{WAn exquisite looking mithril blade is floating in the air here.{x~
+SELECT_A_MATERIAL weapon AIOY AN
+sword 11 9 slash E
+51 25 187500 P
+A
+19 15
+A
+18 6
+A
+1 4
+A
+2 2
+A
+4 2
+A
+12 200
+A
+13 200
+A
+14 500
+#25303
+dagger hero heroism quest~
+{WA Real Hero's Dagger{x~
+{WAn exquisite looking dagger is floating in the air here.{x~
+MAGIC_ENERGY weapon AGOY AN
+dagger 9 10 pierce D
+51 5 187500 P
+A
+19 10
+A
+18 15
+A
+1 2
+A
+2 4
+A
+3 2
+A
+12 200
+A
+13 200
+A
+14 500
+#25304
+girth evil quest~
+{DA Girth of True Evil{x~
+{DAn enormous, evil looking girth is lying here, radiating evil.{x~
+SELECT_A_MATERIAL armor BEGJOY AL
+CE CE CE CE 0
+51 50 187500 P
+A
+19 10
+A
+18 10
+A
+14 500
+A
+3 2
+A
+5 4
+A
+4 2
+A
+1 5
+A
+17 -30
+A
+13 100
+A
+12 100
+#25305
+ring evil quest~
+{DA Ring of True Evil{x~
+{DA ring of dark metal is lying here, radiating evil.{x~
+DARK_ELEM armor BEGJOY AB
+CE CE CE CE 0
+51 1 120000 P
+A
+19 10
+A
+18 10
+A
+13 200
+A
+12 100
+A
+14 250
+A
+17 -15
+#25306
+blade evil quest~
+{DA Blade of True Evil{x~
+{DA dark looking blade is floating here, filling the room with evil.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+sword 11 9 slash E
+51 25 187500 P
+A
+14 500
+A
+13 200
+A
+12 200
+A
+4 2
+A
+2 2
+A
+1 4
+A
+18 6
+A
+19 15
+#25307
+dagger evil quest~
+{DA Dagger of True Evil{x~
+{DAn exquisite looking dagger is floating in the air menacingly here.{x~
+MAGIC_ENERGY weapon BEGJOY AN
+dagger 9 10 pierce D
+51 5 187500 P
+A
+14 500
+A
+13 200
+A
+12 200
+A
+3 2
+A
+2 4
+A
+1 2
+A
+18 15
+A
+19 10
+#25308
+flame white quest~
+{WA white flame{x~
+{WA beautiful white flame is burning atop a pure white candle here.{x~
+SELECT_A_MATERIAL light_source AY A
+0 0 ABCFGHIJ 0 0
+50 5 3000 P
+A
+12 75
+A
+13 75
+A
+14 150
+A
+19 3
+A
+18 3
+#25309
+flame black quest~
+{DA black flame{x~
+{DAn evil black flame is burning atop a solid black candle here.{x~
+SELECT_A_MATERIAL light_source BY A
+0 0 ABCFGHIJ 0 0
+50 5 3000 P
+A
+12 75
+A
+13 75
+A
+14 150
+A
+18 3
+A
+19 3
+#25310
+staff questmaster quest~
+{mA Staff of the Questmaster{x~
+{mA staff made by the Questmaster has been left here.{x~
+MAGIC_ENERGY weapon ABY AN
+polearm 14 20 pound ABCH
+92 25 187500 P
+A
+12 500
+A
+13 150
+A
+18 27
+A
+19 25
+A
+14 -200
+A
+4 1
+A
+3 2
+A
+20 -5
+#25311
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key U AO
+0 0 0 0 0
+1 0 0 P
+#25312
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key UV AO
+0 0 0 0 0
+1 0 0 P
+#25313
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key UV AO
+0 0 0 0 0
+1 0 0 P
+#25314
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key UV AO
+0 0 0 0 0
+1 0 0 P
+#25315
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key UV AO
+0 0 0 0 0
+1 0 0 P
+#25316
+key chamber 1~
+{ra {Rk{De{ry{x~
+A key~
+SILVER key UV AO
+0 0 0 0 0
+1 0 0 P
+#25317
+pile coins~
+a pile of coins~
+{Ya pile of coins.{x~
+GOLD money 0 A
+DHIJM 0 0 0 0
+0 200 0 P
+#25318
+pair gauntlets~
+{ra {Rpair {Dof {wg{Wa{Du{wnt{Dl{Re{rt{Ds{x~
+A pair of gauntlets lie here.~
+ORICHALCUM armor A AH
+CDE CDE CDE ABCD 0
+100 30 4353 P
+A
+17 -15
+A
+1 5
+A
+13 67
+A
+18 50
+A
+19 33
+E
+=spells=~
+enhanced strength
+~
+#25320
+boots leather~
+{ra {Rpair {Dof leather and {wa{Wd{Da{wma{Dn{Rt{ri{Dum plate boots{x~
+Someone has left a beautiful pair of black leather boots here.~
+DELF_ADAM armor F AG
+CDE CDE CDE ABCD 0
+100 50 2453 P
+A
+2 -5
+A
+4 5
+A
+3 5
+A
+17 -18
+A
+13 67
+A
+19 33
+A
+18 50
+A
+20 -10
+E
+=spells=~
+levitation
+~
+#25321
+ring cleric gauntlet~
+{ra {wg{Wa{Du{wnt{Dl{Re{rt {Dclerics ring{x~
+A special ring lies here.~
+ORICHALCUM armor B AB
+CDE CDE CDE ABCD 0
+100 12 3868 P
+A
+17 -5
+A
+20 -15
+A
+18 50
+A
+19 33
+A
+4 5
+A
+12 100
+E
+=spells=~
+displacement
+~
+#25323
+pill pk~
+{wa {Dpill {wfor {rPK{x~
+A pill has been left here.~
+UNKNOWN pill T A
+115 'combat mind' 'adrenaline control' 'sanctuary' ''
+100 2 3521 P
+#25324
+girth master gauntlet~
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DMasters {rGirth{x~
+{cA strange piece of armor lies here.{x~
+ORICHALCUM armor B AL
+BCDE BCDE BCDE CE 0
+100 70 26362 P
+A
+1 5
+A
+2 5
+A
+14 67
+A
+12 67
+A
+13 67
+A
+19 33
+A
+18 50
+A
+4 5
+A
+17 -20
+A
+20 -20
+E
+=spells=~
+sanctuary
+~
+#25329
+legendary questcoin~
+{ga {YLegendary {gquest coin{x~
+A Legendary quest coins lies here.~
+MAGIC_ENERGY treasure T A
+0 0 0 0 0
+0 0 0 P
+#25330
+blue quest flag~
+a {BBlue{x quest flag~
+A {BBlue{x quest flag is here~
+SELECT_A_MATERIAL trash T A
+0 0 0 0 0
+0 0 0 P
+#25331
+green quest flag~
+a {GGreen{x quest flag~
+A {GGreen{x quest flag is here~
+SELECT_A_MATERIAL trash T A
+0 0 0 0 0
+0 0 0 P
+#25332
+yellow quest flag~
+a {YYellow{x quest flag~
+A {YYellow{x quest flag is here~
+SELECT_A_MATERIAL trash T A
+0 0 0 0 0
+0 0 0 P
+#25333
+red quest flag~
+a {RRed{x quest flag~
+A {RRed{x quest flag is here~
+SELECT_A_MATERIAL trash T A
+0 0 0 0 0
+0 0 0 P
+#25402
+bottle oj quest~
+{wan endless bottle of {YOJ{x~
+{ca bottle of OJ has been left here.{x~
+GLASS drink AB AO
+200000 200000 'orange juice' 0 0
+20 1 10 P
+#25403
+pewter chalice quest~
+a {Dpewter{x chalice~
+{G[TARGET]{g a {Dpewter{g chalice{x~
+SELECT_A_MATERIAL trash Tc A
+0 0 0 0 0
+110 2 0 P
+#25404
+skeleton key quest~
+a skeleton key~
+{G[TARGET] {wA skeleton key{x~
+SELECT_A_MATERIAL trash Tc A
+0 0 0 0 0
+110 1 0 P
+#25405
+scroll quest~
+a special scroll~
+{G[TARGET] {wA scroll with a royal symbol lies here.{x~
+SELECT_A_MATERIAL trash Tc A
+0 0 0 0 0
+110 1 0 P
+#25406
+quest paper weight~
+{cA {YG{yo{Yl{yd{Ye{yn{c paper weight{x~
+{cA {YG{yo{Yl{yd{Ye{yn{c paper weight lies here.{x~
+SELECT_A_MATERIAL trash BGTc A
+0 0 0 0 0
+110 1 0 P
+#25407
+quill pen quest~
+a quill ink pen~
+{G[TARGET]{w A quill ink pen lies here.{x~
+SELECT_A_MATERIAL trash Tc A
+0 0 0 0 0
+110 10 10 P
+#25410
+axe hero heroism quest~
+{WA Real Hero's Axe{x~
+{WAn exquisite looking mithril axe is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+axe 10 10 chop DF
+51 30 187500 P
+A
+14 500
+A
+13 200
+A
+12 200
+A
+19 15
+A
+18 10
+A
+1 3
+A
+2 4
+A
+4 2
+#25411
+axe evil quest~
+{DAn Axe Of True Evil{x~
+{DAn exquisite looking mithril axe is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+axe 10 10 chop DF
+51 30 187500 P
+A
+4 2
+A
+2 4
+A
+1 3
+A
+18 10
+A
+19 10
+A
+12 200
+A
+13 200
+A
+14 500
+#25412
+flail hero heroism quest~
+{WA Real Hero's Flail{x~
+{WAn exquisite looking mithril flail is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+flail 9 11 crush G
+51 25 187500 P
+A
+14 500
+A
+13 200
+A
+12 200
+A
+18 7
+A
+19 14
+A
+4 2
+A
+2 2
+A
+3 2
+#25413
+flail evil quest~
+{DA Flail Of True Evil{x~
+{DAn exquisite looking mithril flail is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+flail 9 11 crush G
+51 25 187500 P
+A
+4 3
+A
+2 2
+A
+3 2
+A
+19 14
+A
+18 7
+A
+12 200
+A
+13 200
+A
+14 500
+#25414
+spear hero heroism quest~
+{WA Real Hero's Spear{x~
+{WAn exquisite looking mithril spear is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+exotic 9 10 thrust CF
+51 15 187500 P
+A
+14 500
+A
+13 200
+A
+12 200
+A
+18 12
+A
+19 12
+A
+1 2
+A
+2 3
+A
+4 4
+#25415
+spear evil quest~
+{DA Spear Of True Evil{x~
+{DAn exquisite looking mithril spear is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+exotic 9 10 thrust CF
+51 15 187500 P
+A
+4 4
+A
+2 3
+A
+1 2
+A
+18 12
+A
+19 12
+A
+12 200
+A
+13 200
+A
+14 500
+#25416
+whip hero heroism quest~
+{WA Real Hero's Whip{x~
+{WAn exquisite looking mithril whip is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+whip 12 9 whip G
+51 10 187500 P
+A
+18 10
+A
+19 10
+A
+3 2
+A
+4 4
+A
+5 2
+A
+14 500
+A
+13 200
+A
+12 200
+#25417
+whip evil quest~
+{DA Whip Of True Evil{x~
+{DAn exquisite looking mighril whip is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+whip 12 9 whip G
+51 10 187500 P
+A
+12 200
+A
+13 200
+A
+14 500
+A
+5 2
+A
+4 4
+A
+3 2
+A
+19 10
+A
+18 10
+#25418
+mace hero heroism quest~
+{WA Real Hero's Mace{x~
+{WAn exquisite looking mithril mace is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+mace 10 11 crush C
+51 75 187500 P
+A
+19 13
+A
+18 9
+A
+2 4
+A
+4 2
+A
+1 2
+A
+14 500
+A
+13 200
+A
+12 200
+#25419
+mace evil quest~
+{DA Mace Of True Evil{x~
+{DAn exquisite looking mithril mace is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon BEGJOY AN
+mace 10 11 crush C
+51 30 187500 P
+A
+14 500
+A
+12 200
+A
+13 200
+A
+19 13
+A
+18 9
+A
+2 4
+A
+4 2
+A
+1 2
+#25420
+fauchard hero heroism quest~
+{WA Real Hero's Fauchard{x~
+{WAn exquisite looking mithril fauchard is floating menacingly in the air before you.{x~
+SELECT_A_MATERIAL weapon AGIOY AN
+polearm 10 10 slash EF
+51 20 187500 P
+A
+13 200
+A
+12 200
+A
+14 500
+A
+2 2
+A
+4 3
+A
+5 3
+A
+18 9
+A
+19 15
+#25421
+blanket power~
+{WA Blanket of {rPower{x~
+{cSomeone has dropped a blanket with strange {ysymbols {csewn into the border.{x~
+HIGH_CLOTH furniture BGYc A
+A FJKLO EHK EGHIJK DFGHIJ
+90 20 187500 P
+#0
+
+
+
+#ROOMS
+#25300
+{MThe {WQuest {MChamber{x~
+This is the chamber of the legendary QuestMaster, he who sends you out in to
+the world so that you may become better than you are now, and also pays you
+for accomplishing the task.
+ 
+ 
+To read about QUESTING and the different commands available to you type
+'HELP QUEST'
+~
+0 263180 1
+E
+east~
+{WThe great Questing Gauntlet lies through this passage.{x
+~
+D3
+~
+~
+0 0 3360
+C 0
+S
+#25301
+{rPhoenix{W: {rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt{x~
+{RWelcome to.....{x
+{x
+{x
+{x
+          {r___________{R.__               {w________                 {w    __  {D.__          {r__{x
+          {r\__    ___/{R|  |__   {D____    {w/  _____/{W_____  {D __ __  {w_____/  |_{D|  |   {R_____{r/  |_{x
+            {r|    |   {R|  |  \{D_/ __ \  {w/   \  ___{W\__  \ {D|  |  \{w/    \   __\{D  | {R_/ __ \{r   __\{x
+            {r|    |   {R|   Y  \{D  ___/  {w\    \_\  \{W/ __ \{D|  |  /{w   |  \  | {D|  |_{R\  ___/{r|  |{x
+            {r|____|   {R|___|  /{D\___  >  {w\______  {W(____  /{D____/{w|___|  /__| {D|____/{R\___  >{r__|{x
+                          {R\/     {D\/          {w\/     {W\/           {w\/               {R\/{x
+{x
+{x
+{x
+{wA sign is posted on the wall.{x
+{RREAD IT!{x
+~
+0 1036 1
+E
+sign~
+{x
+{WWelcome to {rT{Rh{De {wG{Wa{Du{Wn{wt{Dl{Re{rt{R!{x
+{x
+{wTo begin testing your skills, go east, and talk to the old man.{x
+{wTo accept his challenge, just say yes. You will be transfered to the first room.{x
+{x
+{wMake sure you are ready to fight before you talk to him.{x
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {Wis for heros, but anyone may try.{x
+{x
+{wAfter each win your prize will be dropped on the floor.{x
+{wGet you prize and move on, the gauntlet repops very fast.{x
+{x 
+{WI dont want to see any abuse or this will be closed permantley.{x
+{x
+{rGOOD LUCK!!!!{x
+{x
+~
+D1
+~
+~
+0 0 25302
+C 0
+S
+#25302
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DStarting Room{x~
+{gThe lingering smell of apprehension and fear lingers in this room.  The
+stone walls seemingly keep in the forboding {Baura{g of all the warriors who
+have entered this room before.  The portcullis leads to the arena, it's open
+visage lets in the smell of {Rblood {gand {rgore{g.  The announcer calls out the
+next {WGladiator{g to enter the arena and the roar of the crowd, hungry for more
+violence, erupts to deafening proportions.{x
+~
+0 1036 1
+D3
+~
+~
+0 0 25301
+C 0
+S
+#25303
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+{gYou enter a circular arena.  The only exits you see are the one you
+just entered from and the one from which your opponents will be released. 
+The floor is {ysand{g, having been colored {rrust{g from the spilt {Rblood{g
+that now adorns the grains.  The walls have changed from a {wlight grey{g to
+a darker color, gobbits of {rgore{g still clinging to some of the surfaces. 
+Appalling in smell the violence will make you wish to {Gvomit{g, or revel in
+the sweet {Rbloodlust{g depending on your person.  Roaring as you enter, the
+spectators cry out for {DDeath {gand{D Destruction{g and the gate across
+from you slowly begins to rise.  Your trial has begun.  {x 
+~
+0 8396812 1
+D1
+~
+~
+3 25311 25306
+C 0
+S
+#25304
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DRecovery Room{x~
+{x
+  {R*          *{x
+  {R**        **{x
+  {R***      ***{x
+  {R****{WBAMF{R****{x
+  {R***      ***{x
+  {R**        **{x
+  {R*          *{x
+{x
+{x
+{DYou are now back in the real world...{x
+~
+0 9228 1
+D1
+~
+~
+0 0 3054
+C 0
+S
+#25306
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+You enter a circular arena.  The only exits you see are the one you just
+entered from and the one from which your opponents will be released.  The
+floor is {ysand{x, having been colored {rrust {xfrom the spilt {Rblood
+{xthat now adorns the grains.  The walls have changed from a {wlight grey
+{xto a darker color, gobbits of {rgore {xstill clinging to some of the
+surfaces.  Appalling in smell the violence will make you wish to {Gvomit{x,
+or revel in the sweet {Rbloodlust {xdepending on your person.  Roaring as
+you enter, the spectators cry out for {DDeath {xand {DDestruction {xand the
+gate across from you slowly begins to rise.  Your trial has begun.  
+~
+0 8396808 1
+D1
+~
+~
+3 25312 25307
+C 0
+S
+#25307
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+You enter a circular arena.  The only exits you see are the one you just
+entered from and the one from which your opponents will be released.  The
+floor is {ysand{x, having been colored {rrust {xfrom the spilt {Rblood
+{xthat now adorns the grains.  The walls have changed from a {wlight grey
+{xto a darker color, gobbits of {rgore {xstill clinging to some of the
+surfaces.  Appalling in smell the violence will make you wish to {Gvomit{x,
+or revel in the sweet {Rbloodlust {xdepending on your person.  Roaring as
+you enter, the spectators cry out for {DDeath {xand {DDestruction {xand the
+gate across from you slowly begins to rise.  Your trial has begun.  
+~
+0 8396808 1
+D1
+~
+~
+3 25313 25308
+C 0
+S
+#25308
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+You enter a circular arena.  The only exits you see are the one you just
+entered from and the one from which your opponents will be released.  The
+floor is {ysand{x, having been colored {rrust {xfrom the spilt {Rblood
+{xthat now adorns the grains.  The walls have changed from a {wlight grey
+{xto a darker color, gobbits of {rgore {xstill clinging to some of the
+surfaces.  Appalling in smell the violence will make you wish to {Gvomit{x,
+or revel in the sweet {Rbloodlust {xdepending on your person.  Roaring as
+you enter, the spectators cry out for {DDeath {xand {DDestruction {xand the
+gate across from you slowly begins to rise.  Your trial has begun.  
+~
+0 8396808 1
+D1
+~
+~
+3 25314 25309
+C 0
+S
+#25309
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+You enter a circular arena.  The only exits you see are the one you just
+entered from and the one from which your opponents will be released.  The
+floor is {ysand{x, having been colored {rrust {xfrom the spilt {Rblood
+{xthat now adorns the grains.  The walls have changed from a {wlight grey
+{xto a darker color, gobbits of {rgore {xstill clinging to some of the
+surfaces.  Appalling in smell the violence will make you wish to {Gvomit{x,
+or revel in the sweet {Rbloodlust {xdepending on your person.  Roaring as
+you enter, the spectators cry out for {DDeath {xand {DDestruction {xand the
+gate across from you slowly begins to rise.  Your trial has begun.  
+~
+0 8396808 1
+D1
+~
+~
+3 25315 25310
+C 0
+S
+#25310
+{rT{Rh{De {wG{Wa{Du{wnt{Dl{Re{rt {DFighting Room{x~
+You enter a circular arena.  The only exits you see are the one you just
+entered from and the one from which your opponents will be released.  The
+floor is {ysand{x, having been colored {rrust {xfrom the spilt {Rblood
+{xthat now adorns the grains.  The walls have changed from a {wlight grey
+{xto a darker color, gobbits of {rgore {xstill clinging to some of the
+surfaces.  Appalling in smell the violence will make you wish to {Gvomit{x,
+or revel in the sweet {Rbloodlust {xdepending on your person.  Roaring as
+you enter, the spectators cry out for {DDeath {xand {DDestruction {xand the
+gate across from you slowly begins to rise.  Your trial has begun.  
+~
+0 8396808 1
+D1
+~
+~
+4 25316 25304
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 25300 spec_questmaster
+M 25303 spec_cast_mage
+M 25305 spec_cast_cleric
+M 25307 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 25303 1 2
+D 0 25306 1 2
+D 0 25307 1 2
+D 0 25308 1 2
+D 0 25309 1 2
+D 0 25310 1 2
+M 0 25300 1 25300 1
+E 0 25310 0 16
+M 0 25301 1 25302 1
+M 0 25302 1 25303 1
+G 0 25311 0
+M 0 25308 1 25304 1
+M 0 25303 1 25306 1
+G 0 25312 0
+M 0 25304 1 25307 1
+G 0 25313 0
+M 0 25305 1 25308 1
+G 0 25314 0
+M 0 25306 1 25309 1
+G 0 25315 0
+M 0 25307 1 25310 1
+G 0 25316 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#25300
+if level $n > 49
+say Hello $n, what shall it be today?
+say Would you like a Quest, or would you like to run the Gauntlet?
+else
+if level $n <= 49
+say Hello $n, would you like a Quest?
+say If so, just say quest or type quest request.
+end if
+end if
+~
+#25301
+MOB FORCE $n quest request
+~
+#25302
+mob echoat $n {m$I waves his hands and sends you on your journey.{x
+mob echoaround $n {m$I waves his hands and sends $N on their journey.{x
+mob transfer $n 25301
+~
+#25303
+say Congratulations $n, you have done very well!
+curt
+mob transfer $n 3054
+~
+#25304
+if exploredpercent $n > 89
+and killedpercent $n > 89
+and foundpercent $n > 89
+  say Very Nice {W$n{Y, you have explored at least {G90% {Yof the realm!{x
+  say Excellent job {W$n{Y, you have killed at least {G90% {Yof the realms mobs!{x
+  say Fantastic {W$n{Y, you have found at least {G90% {Yof the realms items!{x
+  cheer
+  say Now that you have completed at least {G90% {Yon all three top lists.....{x
+  say You can now become a {R=={r<{W({DLegend{W){r>{R=={Y......{x
+  smile
+  say Would you like to find out how?
+else
+  say You still need to get {G90% {Yin the top lists, better get going!{x
+endif
+~
+#25305
+tip
+say Welcome to The Gauntlet, would you care to test your skills?
+say Is so, say "yes"....otherwise say "no" and I will transfer you out.
+~
+#25306
+mob echoat $n {g$I utters the words 'safhar'.{x
+mob echoaround $n {g$I utters the words 'safhar'.{x
+mob echoaround $n {W$N steps through a shimmering portal and disappears!{x
+mob transfer $n 25303
+~
+#25307
+unlock east
+open east
+say Good luck on your journey....
+mob oload 25317 0 room
+mob recho {Y$I drops some coins{x
+wince
+~
+#25308
+mob cast 'heat metal' $n
+~
+#25309
+unlock east
+open east
+say You are truley powerful...
+mob oload 25318 100 room
+mob recho {Y$I drops somthing for your win.{x 
+bleed
+~
+#25310
+mob echoat $n {g$I's swift circle attack {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W367{g)> {Whp{g.{x
+mob echoat $n {g$I's swift circle attack {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W412{g)> {Whp{g.{x
+mob damage $n 367 412 lethal
+~
+#25311
+unlock east
+open east
+say I surrender....take this, and use it well...
+mob recho {m$I drops somthing on the ground.{x
+mob oload 25323 100 room
+wince
+~
+#25312
+mob echoat $n $I utters the words, 'oculowaiyucandus'.
+mob echoat $n $I calls forth the demons of Hell upon $n!
+mob echoat $n $I has assailed you with the demons of Hell!
+mob echoat $n $I's torments {Rdoes {WGODLIKE {Rdamage to {gyou for <({W909{g)> {Whp{g!{x
+mob damage $n 900 910 lethal
+~
+#25313
+unlock east
+open east
+say Good luck on your journey....
+mob oload 25321 100 room
+mob recho {mA ring falls off $I's finger, as hes falls to his death.{x
+~
+#25314
+unlock east
+open east
+beg
+say Your almost done......
+mob oload 25320 100 room
+mob recho {m$I's boots fall off his still warm body.{x
+~
+#25315
+mob echoat $n $I's {CCRITICAL STRIKE {Rdoes {WGODLIKE {Rdamage to {gyou for <({W911{g)> {Whp{g!{x
+mob damage $n 900 911 lethal
+~
+#25316
+unlock east
+open east
+say I must congratulate you young one....you are a true gauntlet master.
+say Here, take this, I wont be needing it anymore....
+mob oload 25324 100 room
+mob recho {m$I drops his famous girth to the ground, and falls over.....dead....{x
+~
+#25317
+mob echoat $n $I Whi{GrlW{Wind {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W332{g)> {Whp{g!{x
+mob echoat $n $I Whi{GrlW{Wind {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W378{g)> {Whp{g!{x
+mob echoat $n $I Whi{GrlW{Wind {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W345{g)> {Whp{g!{x
+mob echoat $n $I Whi{GrlW{Wind {Rdoes {WUNSPEAKABLE {Rthings to {gyou for <({W356{g)> {Whp{g!{x
+mob damage $n 1200 1300 lethal
+~
+#25318
+say Ok...What you need to do first is...
+say Take this item to A statue of the Fallen Red Dragon and wait for him to respond to you.
+mob recho {m$I drops an item to the floor for your quest.{x
+mob oload 25329 100 room
+say Good luck on your quest to become a Legend!
+~
+#25319
+if carries $n 25329
+say Excelent job on finishing The Gauntlet and getting 90% in the top lists $n!
+say Now I want you to take the Legendary coin to the {MPortal Shop {Yin Midgaard and wait for the owner to respond.{x
+say Good luck on your Quest!
+endif
+~
+#25320
+if carries $n 25329
+say Welcome $n, Im glad to see someone that took the time to complete the top lists...job well done!
+pat $n
+say Would you like to hear about becoming a Legend?
+say If so, say "yes i would"
+endif
+~
+#25321
+if isdelay $i
+break
+else
+say Ok.....We have two Legend races here on {rRot{RR{rD{Y, {mNephilim{Y, and {DEidolon{Y.{x
+say Your class will be considered Legend....
+say To find out more about Eidolons type "help (race name)", for Nephilims. type "help fallen".
+smile $n
+mob remember $n
+mob delay 2
+endif
+~
+#25322
+if hastarget $i
+say So what Legend race would you like to become?
+say Nephilim or Eidolon? Just say "{w(race name) please{Y" for your choice.{x
+else
+mob forget
+endif
+~
+#25323
+say So...You want to become an {DEidolon {Yeh?{x
+pat $n
+say Ok, to beomce an {DEidolon{Y, you need to take this {DEidolon {Yitem to the {DEidolon Underground{Y,{x
+say and find the special legend room, once there...type {Rlegend{Y, and you will start anew!{x
+mob oload 24099 100 room
+mob force $n get all
+say You must have the item while in the room when you type legend....Good Luck!
+break
+~
+#25324
+say So...You want to become an {mNephilim {Yeh?{x
+pat $n
+say Ok, to beomce an Nephilim, you need to take this Nephilim item to the Nephilim Stronghold,
+say and find the special legend room, once there...type {Rlegend{Y, and you will start anew!{x
+mob oload 23799 100 room
+mob force $n get all
+say You must have the item while in the room when you type legend....Good Luck!
+break
+~
+#25325
+if carries $n 25329
+mob remove $n 25329
+mob transfer $n 3257
+else
+mob transfer $n 3257
+endif
+~
+#25326
+mob echoat $n $I utters the words 'safhar'.
+mob echoaround $n {Y$I utters the words 'safhar'.{x
+mob echoaround $n {W$N steps through a shimmering portal and disappears!{x
+mob transfer $n 3054
+~
+#0
+
+#$

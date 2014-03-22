@@ -1,0 +1,626 @@
+#PLAYER
+Name Domino~
+Id   1145569746
+LogO 1145933742
+Vers 5
+Prom {r<{W%hhp %mmana %vmove{r>(({W%X{r))%K{x ~
+Race Succubus~
+Sex  2
+Cla  4
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  4
+Legend -1
+OCla -1
+Levl 46
+OldLvl 46
+Sec  0
+Plyd 59660
+Scro 33
+Room 3212
+HMV  1122 1122 495 495 514 870
+Gold 50
+Silv 53
+Gold_bank 21400
+Silv_bank 0
+Shares 0
+Share_level 46
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  81334
+PAct  DEFGHQTd
+AfBy DFT
+WName Domino~
+Comm LNO
+RaceChan 0
+Deaf DP
+Pos  6
+Prac 4
+Alig  -1000
+Hit   56
+Dam   39
+ACs -193 -167 -167 -144
+Attr 16 14 17 21 15
+AMod 1 4 5 8 -1
+Pass DoZJ5CaW8FZgM~
+Titl  the deciever.~
+Pnts 55
+TSex 2
+PSize 2
+LLev 16
+HMVP 562 200 370
+Cnd  0 19 4 40
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'charm person'
+Sk 1 'energy drain'
+Sk 1 'sword'
+Sk 78 'dagger'
+Sk 1 'mace'
+Sk 75 'assassinate'
+Sk 8 'dual wield'
+Sk 5 'enhanced damage'
+Sk 13 'kick'
+Sk 17 'dodge'
+Sk 12 'parry'
+Sk 26 'shield block'
+Sk 28 'trip'
+Sk 12 'second attack'
+Sk 5 'third attack'
+Sk 24 'fast healing'
+Sk 7 'haggle'
+Sk 100 'hide'
+Sk 19 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 2432
+Nest 0
+Cond 0
+Wear 18
+Cost 617
+End
+
+#O
+Vnum 25118
+Nest 0
+ExtF 67
+Cond 0
+Wear 7
+Cost 0
+Val  12 0 0 0 0
+End
+
+#O
+Vnum 21265
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Cost 500
+Val  7 8 8 0 0
+End
+
+#O
+Vnum 21268
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 16046
+Nest 1
+Cond 0
+Wear -1
+Cost 2150
+End
+
+#O
+Vnum 5639
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 10297
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3020
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  1
+Cost 157
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  11 23 0 0 0
+End
+
+#O
+Vnum 21254
+Nest 1
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 21254
+Nest 1
+Cond 0
+Wear -1
+Cost 1380
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10296
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  20 41 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  20 41 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  20 41 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  20 41 0 0 0
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 6304
+Nest 1
+ExtF 21497953
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10294
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   3  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+End
+
+#O
+Vnum 31417
+Nest 0
+Cond 0
+Wear 8
+Cost 120
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 2
+Cost 2000
+End
+
+#O
+Vnum 31422
+Nest 0
+Cond 0
+Wear 1
+Cost 2000
+End
+
+#O
+Vnum 4450
+Nest 0
+Cond 0
+Wear 19
+Cost 3700
+End
+
+#O
+Vnum 9227
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  25
+Cost 1630
+Val  2 7 6 11 10
+Affc 'psharp blade'   5   0  -1   0   0          8
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  15 31 0 0 0
+End
+
+#O
+Vnum 23216
+Nest 0
+Cond 0
+Wear 10
+Cost 40000
+End
+
+#O
+Vnum 14236
+Nest 0
+Cond 0
+Wear 6
+Cost 800
+End
+
+#O
+Vnum 23210
+Nest 0
+Cond 0
+Wear -1
+Cost 34000
+End
+
+#O
+Vnum 14235
+Nest 0
+Cond 0
+Wear 3
+Cost 750
+End
+
+#O
+Vnum 23222
+Nest 0
+Cond 0
+Wear 5
+Cost 9000
+End
+
+#O
+Vnum 14235
+Nest 0
+Cond 0
+Wear 4
+Cost 750
+End
+
+#O
+Vnum 23211
+Nest 0
+Cond 0
+Wear 12
+Cost 36000
+End
+
+#END

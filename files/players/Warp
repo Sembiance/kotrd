@@ -1,0 +1,137 @@
+#PLAYER
+Name Warp~
+Id   1091284294
+LogO 1095693788
+Vers 5
+Prom <%hhp %mm %vmv {g%X{w><%K> ~
+Race Draconian~
+Sex  1
+Cla  4
+OCla -1
+Levl 22
+OldLvl 22
+Sec  0
+Plyd 35666
+Not  1092915649 1092807322 1091759724 0
+Scro 33
+Room 3042
+HMV  280 280 146 146 210 226
+Gold 162
+Silv 3741
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 22
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  25358
+QuestPnts 41
+PAct  DFGQTd
+AfBy JOT
+Empower  0
+WName Warp~
+Comm NO
+Deaf DP
+Pos  8
+Prac 1
+Save  -3
+Alig  -1000
+Hit   5
+ACs 100 100 100 100
+Attr 16 12 14 15 16
+AMod 0 0 1 0 0
+Pass WayWplMFOrnHk~
+Titl  [{gSt{Gone{gd{w]~
+Pnts 43
+TSex 1
+PSize 3
+LLev 9
+HMVP 280 146 226
+Cnd  0 0 14 20
+Sk 100 'blightning'
+Sk 73 'dagger'
+Sk 1 'assassinate'
+Sk 1 'bash'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 25 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 5 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Affc 'protection good'   0  20  14  -1  20      16384
+Affc 'bless'   0  21   1   5  18          0
+Affc 'bless'   0  22   1  -2  20          0
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 18066
+Nest 0
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 14522
+Nest 0
+Cond 0
+Wear -1
+Cost 3100
+End
+
+#O
+Vnum 9214
+Nest 0
+Cond 0
+Wear -1
+Cost 1700
+End
+
+#END

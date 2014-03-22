@@ -1,0 +1,1003 @@
+#AREADATA
+Name Ice World~
+Builders Mila~
+VNUMs 5900 5999
+Credits ALL   ~
+Security 9
+Flags F
+LEVELs 93 120
+End
+
+
+
+#MOBILES
+#5902
+puffin~
+a {mc{bo{cl{ro{yr{mf{bu{gl{x {mpuffin{x~
+{mA C{bo{yl{go{cr{mf{ru{bl {mPuffin{x stands here.
+~
+This beautiful bird is the symbol of the wilderness that spans out in
+front of you.  His beak, although dangerous, is a lovely creation. 
+~
+water fowl~
+AG HQTVb 600 0
+0
+92 9 100d25+20000 4d12+300 40d21+100 slash
+0 0 0 0
+CEFHKW ABDIL JRS 0
+stand stand none 4000
+AGW ACDEFGHKPW small unknown
+#5913
+polar bear~
+a large {WPolar Bear{x~
+A fierce looking white bear sniffs you.
+~
+{WGROWL!{x He hasen't eaten in weeks now, since the harsh winter months
+set in.  His claws and teeth are as sharp as your weapon.  You should think
+twice before trying your luck with him. 
+~
+Human~
+A HOPVa -800 0
+0
+95 10 120d25+2000 10d20+100 50d10+25 slash
+500 500 500 500
+CEFIKUW CEIQ BDFGHOS 0
+stand stand male 4000
+AGHMV ABCDEFGIJKMUV medium unknown
+F par H
+#5915
+blue light~
+a small {Bblue{x streak of {Ylight{x~
+A small {Bblue{x streak of {Ylight{x is here, dancing.
+~
+{BBlue!  {bHe's light blue, {BHe's dark blue.  {bHe's {BBoth {bat
+{Bonce.{x {bDancing around you like a hurricane of colors...spinning. 
+~
+water fowl~
+A HTVb -500 0
+0
+104 10 275d20+21000 10d10+100 90d18+150 frbite
+0 0 0 0
+CEHIKNRW ACIJT OR 0
+stand stand none 1000
+AGW ACDEFGHKPW small unknown
+#5918
+gull~
+the {bIce Gull{x~
+The legendary {bIce Gull{x watches you carefully.
+~
+With the teeth of the children he has carried off, tied on a string
+around his massive throat, the {bIce Gull{x rests here, watching you.  His
+eyes quickly evaluate you and find you to be of no threat to him. 
+~
+wyvern~
+ABCFT FTVace 100 0
+0
+110 999 10d10+45000 2d15+100 10d10+450 claw
+-120 -120 -120 -120
+CEOUW BEILMRabde FP HJ
+stand stand male 8000
+ABGZ ACDEFHKQZ huge unknown
+F aff D
+F off FH
+F par JVX
+#5919
+giant walrus~
+A {yHappy Walrus{x~
+A {yHappy Walrus{x is here sun-bathing.
+~
+He is a large and lazy looking fellow, concerned only with fish and the
+occasional swim.  He would make a fierce competitor and his tucks would no
+doubt bring in a good deal of money. 
+~
+bear~
+A HNV 500 0
+0
+108 10 300d11+27500 3d15+300 60d15+150 none
+0 0 0 0
+DEO ABEFIJKR CDEILQ 0
+stand stand male 43000
+AGV ABCDEFGHJKUV large unknown
+#5927
+penguin~
+an {WE{xv{Wi{xl{x little {Wpenguin{x~
+An {WE{xv{Wi{xl little {Wpenguin{x stands here, looking like the others.
+~
+This mean little bird is all dressed up to dance with you.  He waddles up
+to you and pushes you with his featherless wing.  Hey!  He may be trying to
+start something! 
+~
+Human~
+A HOVa -1000 0
+0
+95 6 120d12+9501 3d10+100 30d18+140 none
+500 500 500 500
+CEIKUW EI CDHJKLMNQRS 0
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#5931
+green light~
+a small {Ggreen{x streak of {Ylight{x ~
+A small {Ggreen{x streak of {Ylight{x is here, dancing.
+~
+{GGreen {ggreen {Ggreen!  {gHe's light green.  {GHe's dark green. 
+He {gis {Gboth {gat {Gthe {gsame {Gt{gi{Gm{ge!{x.  {gSwirling
+around you like a {Ggreen{g {gcloud of gas...blowing.{x 
+~
+water fowl~
+A HTVabce -800 0
+0
+107 10 275d20+21000 50d11+100 90d18+150 frbite
+500 500 500 500
+CEFHIKNRW ABCEIJOS DKLQR 0
+stand stand none 7021
+AGW ACDEFGHJKPW small unknown
+#5934
+guardian ice~
+The {bIce{x Guardian~
+The {bIce{x Guardian stands here, spear in hand.
+~
+The ancient {bIce{x Guardian stands before you, dressed in thick pelts
+and wielding a mighty spear.  "If you are friend," he says, "you are
+welcome".  
+~
+Human~
+A HV 50 0
+0
+98 6 120d13+9000 1d1+2000 15d20+70 none
+0 0 0 0
+CDEHINTU CEQ DIJKLS 0
+stand stand male 5000
+AHMV ABCDEFGIJKMV large unknown
+F par H
+#5944
+Frost Demon~
+the {WHorrible {bFrost {rDemon{x~
+A horrible demon licks his lips and looks at you.
+~
+Before you stands a creature of great strength.  His legend has been sung
+from as far off as the Amber Kingdom.  He has wiped out complete worlds with
+a quick swish of his tail.  Beware the {bIce {rDemon{x.  
+~
+Human~
+A BDHTVac -500 0
+0
+109 800 10d15+25000 10d20+100 25d21+300 none
+100 100 100 100
+DFINW ABEHIN CDFGM H
+stand stand male 60000
+AHMVZ BCDEFGIJKMPV large unknown
+F par AH
+#0
+
+
+
+#OBJECTS
+#5905
+large bone~
+a large humanoid thigh bone~
+A large piece of a humanoid thigh bone has been discarded here.~
+SELECT_A_MATERIAL light_source ABG AO
+0 0 CEFGHI 0 0
+89 15 5000 P
+A
+14 150
+#5918
+necklace teeth~
+a necklace of children's teeth~
+A thin rope, strung with small teeth has been dropped in a heap here.~
+BONE armor GTWc AC
+BEF BEF BEF BEF 0
+95 10 6000 P
+A
+19 30
+A
+13 700
+A
+12 450
+A
+20 100
+A
+14 450
+#5919
+walrus tusk~
+the {yIvory{x Tusk~
+A thick piece of {yivory{x has been left here.~
+BONE weapon GKX ANO
+exotic 24 15 thrust CEF
+96 35 50000 P
+A
+19 60
+A
+18 60
+A
+13 200
+A
+12 -20
+A
+4 2
+#5928
+fish salmon~
+a stinky piece of fish~
+A large piece of half-eaten fish is here rotting.~
+ORGANIC food 0 AO
+ABCD D 0 0 0
+50 2 45 P
+#5931
+ice flail~
+{WA {bFlail of Ice{x~
+A long chuck of ice with strong frozen wires rests here.~
+SELECT_A_MATERIAL weapon B AN
+flail 21 13 scratch B
+95 35 92000 P
+A
+19 15
+A
+18 30
+#5932
+parka fur~
+a {WDark Seal Fur{x parka~
+A thick pelt of seal fur, looks warm and comfortable.~
+SELECT_A_MATERIAL armor X AD
+ACE ACE ACE ACE 0
+93 22 23400 P
+A
+12 150
+A
+14 150
+A
+13 100
+A
+5 10
+A
+1 10
+A
+2 -2
+#5933
+frozen aura~
+the magical {bfrozen aura{x~
+A soft {bblue{x light, glows here.~
+SELECT_A_MATERIAL armor AFX AQ
+ABCE ABCE ABCE ABCE 0
+89 10 32000 P
+A
+12 -100
+A
+13 100
+A
+19 15
+A
+18 15
+E
+=segment=~
+joinswith 20400 creates 23438
+{cYou have discovered a piece of the mystic {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!{x
+`
+
+$n {chas a {rP{gu{bz{yz{bl{ge{rD {clook on their face.{x
+`
+ 
+~
+#5934
+ice spear~
+the {bIce {WSpear{x~
+A spear made of solid {bblue Ice{x, slowly melts here.~
+WATER_ELEM weapon AKb AN
+spear 10 20 thrust BC
+90 50 45000 P
+A
+19 15
+A
+18 15
+#5946
+mila revenge whip~
+{mM{Mi{ml{Ma{m'{Ms R{me{Mv{me{Mn{mg{Me{x~
+{mA long purple tounge lashes out at you.{x~
+SELECT_A_MATERIAL weapon ABb AN
+whip 19 19 whip CGH
+100 19 2362 P
+A
+13 200
+A
+18 30
+A
+19 20
+#0
+
+
+
+#ROOMS
+#5900
+{bIcy Path{x~
+A quick turn in the road leads you up a thin {bicy path{x. The grass
+that grows along this area turns more brown with every step and a gradual
+chill fills the air. 
+~
+0 0 13
+D0
+~
+~
+0 0 5901
+D2
+~
+~
+0 0 5935
+C 0
+S
+#5901
+{bIcy Path{x~
+The grass that grows along this area turns a deeper brown with every step
+and a gradual chill continues to fill the air. 
+~
+0 0 5
+D0
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5900
+C 0
+S
+#5902
+Slipping on the {bIcy Path{x~
+You almost slipped to your death here.  You slow your pace a little and
+hear in the distance the frighting cry of the giant {bIce Gull{x. The
+legend, you deside, must indeed be true. 
+~
+0 0 5
+D0
+~
+~
+0 0 5903
+D2
+~
+~
+0 0 5901
+C 0
+S
+#5903
+Entrance to the {bIce Cave{x~
+You stop short of entering this cold cavern.  The walls of rock are
+coated with a thick layer of clear {bblue ice{x and frozen {gmoss{x. 
+Whatever created this frozen tunnel, did it quickly and completely. 
+~
+0 0 3
+D0
+~
+~
+0 0 5904
+D2
+~
+~
+0 0 5902
+C 0
+S
+#5904
+Inside a {bFrozen Cave{x~
+The light that you entered this dark {bcold{x cavern with, bounces
+{bblue{x shadows about you.  The cry of the ancient {bIce Gull{x becomes
+louder, as the echos dance with the shadows. 
+~
+0 1 12
+D0
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5903
+D3
+~
+~
+0 0 5905
+C 0
+S
+#5905
+{bCold Storage{x~
+The remains of a small hunting party are scattered here.  A corpse of an
+older elf, wrapped in a {bfrozen{x blanket is here, huddled in the fetal
+position.  All about the cavern floor are broken pieces of spears and
+equipment. 
+~
+0 1 12
+D1
+~
+~
+0 0 5904
+C 0
+S
+#5906
+Inside the {bBlue Chamber{x~
+Ice, cold and dry.  You shiver and wrap your cloak tight about you.
+Mirrors of Ice-glass surround this open chamber.  An exit to the north glows
+an even deeper hue of blue and a cold wind blasts in.
+~
+0 1 12
+D0
+~
+~
+0 0 5907
+D2
+~
+~
+0 0 5904
+C 0
+S
+#5907
+{BThe Chamber of Dark Blue{x~
+{BIf you thought you couldn't be colder, you were wrong.  The floor of
+this chamber is covered in a blanket of snow, heavy with ice.  Four exits
+lead out of this open cavern.  The realitive warmth of the south exit
+beckons you but your curiousity may lead you elsewhere. 
+{x
+~
+0 1 12
+D0
+~
+~
+0 0 5910
+D1
+~
+~
+0 0 5908
+D2
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5909
+C 0
+S
+#5908
+{bFrozen Pond{x~
+You slide into this room, unable to stop.  You fall to you knees and
+glance down into the face a perfectly preserved frozen fish.  The entire
+floor is a solid pool of water.  A small hole is cut into the ice, leading
+deep into the frozen water. 
+~
+0 1 12
+D3
+~
+~
+0 0 5907
+D5
+~
+~
+0 0 5911
+C 0
+S
+#5909
+{bCold{x Tunnel~
+This is a small {bcold{x tunnel, deep inside this cave of {bice{x. 
+The walls seem to have large scratch marks dug into the {bfrozen{x walls.
+You scrape your weapon against the {bice{x to see if a blade such as yours
+could have made such an impression.  It seems that something more deadly
+than you have in your posession made it's mark here. 
+~
+0 8388609 12
+D0
+~
+~
+0 0 5916
+D1
+~
+~
+0 0 5907
+C 0
+S
+#5910
+Walking on {bFrozen Water{x~
+Out beyond the {BChamber of Dark Blue{x you find yourself on a slippery
+surface.  Small ripples rise out of the ground, like waves stopped in
+motion.  The air seems warmer here, but still you wrap yourself tight in
+your cloak. 
+~
+0 8388613 12
+D0
+~
+~
+0 0 5919
+D2
+~
+~
+0 0 5907
+C 0
+S
+#5911
+{bWall{x of {bIce{x~
+A thick wall of dark {bblue ice{x surrounds you on three sides.  In a
+small hole above your head you see a small pin-point of light.  The opening
+may be large enough for you to shinny up.  To the east you see a vast
+wasteland of {bice{x and snow.  
+~
+0 5 12
+D1
+~
+~
+0 0 5912
+D4
+~
+~
+0 0 5908
+C 0
+S
+#5912
+{bFrozen Tundra{x~
+{bIce{x solid and cold.  It spreads out around you like a crisp white
+blanket.  No vegitation grows here and the sky glitters with a pink and
+yellow ribbon. 
+~
+0 0 11
+D0
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 5911
+C 0
+S
+#5913
+{bFrozen Tundra{x~
+{bIce{x It surrounds you on all sides and you search for anything on
+the horizon.  The sky begins to glow with the rich warm hues of the Northern
+Lights.  {bBlues{x mix with {rreds{x that twirl with {yyellow{x. 
+~
+0 1 11
+D0
+~
+~
+0 0 5914
+D2
+~
+~
+0 0 5912
+C 0
+S
+#5914
+{bFrozen Tundra{x~
+{YYellow{x, {ggreen{x, {mpurples{x and {bblues{x fill the sky
+with rich lights.  A soft song, plays along in your mind to the wonderous
+glow around you.  {GS{mw{yi{br{Rl{ys{x and {cw{mh{yi{br{Rl{ys{x of {yC{ro{cl{mo{br{x.
+~
+0 0 11
+D0
+~
+~
+0 0 5915
+D2
+~
+~
+0 0 5913
+C 0
+S
+#5915
+The {mN{yo{gr{bt{rh{ye{mr{gn{x {yLights{x~
+A calmness overcomes you here.  You're still extreamly {bcold{x but you
+don't seem to mind as much.  The {ylights{x that were dancing for you
+before, are lower and closer to you.  They spin about you in a controlled
+frenzy. 
+~
+0 0 11
+D0
+~
+~
+0 0 5931
+D2
+~
+~
+0 0 5914
+C 0
+S
+#5916
+{bDeeper{x~
+The floor seems sticky here...the walls of {bice{x are closer together
+than the other parts of the tunnel.  From ahead you hear a deep breathing
+and a coo of what could be the {bice gull{x. 
+
+~
+0 8197 12
+D2
+~
+~
+0 0 5909
+D3
+~
+~
+0 0 5917
+C 0
+S
+#5917
+Before the Den~
+The tunnel ends here, with a small opening into another cavern.  The
+stench of death is fresh, dispite the feeling that you could preserve food
+here for months.  Inside the caven before you, a soft {yglow{x flickers. 
+Fear in check, you deside what to do. 
+~
+0 8192 12
+D1
+~
+~
+0 0 5916
+D2
+~
+~
+0 0 5918
+C 0
+S
+#5918
+Den of the {BIce Gull{x~
+From legends told to childern when they misbehaved, comes the fearsome
+{bIce Gull{x.  His wingspan is nearly triple that of the next largest bird
+in the realm and he is said to carry off any child who does not obey their
+parents.  His den is suprisingly warm in comparison to the rest of his
+{bicy{x world. 
+~
+0 532480 6
+D0
+~
+~
+0 0 5917
+D2
+~
+secret~
+1 0 5936
+C 0
+S
+#5919
+On the {bFrozen Ocean{x~
+Small iceburgs pop up through the solid {bice{x around you.  Animals of
+some kind hide behind the {bice{x forms and peek out at you, judging if
+you are a threat of some kind.  You may head north, furter on the ocean, or
+south tword the shoreline. 
+~
+0 1 11
+D0
+~
+~
+0 0 5920
+D2
+~
+~
+0 0 5910
+C 0
+S
+#5920
+Further on the {bFrozen Ocean{x~
+More small {biceburgs{x litter this enormous waterway.  Far off in the
+distance, solid land can be seen.  Pieces of {bfrozen{x seaweeds can be
+seen below the {bicy{x surface. 
+~
+0 1 7
+D1
+~
+~
+0 0 5921
+D2
+~
+~
+0 0 5919
+C 0
+S
+#5921
+A giant {bIceBurg{x~
+A huge {bice{x formation jolts through the {bfrozen{x ocean here.  It
+looks as though it may be only the peak of an enormous mountian.  Should
+this {biceburg{x melt, it would surely submerge the world in {bwater{x. 
+~
+0 1 7
+D0
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5920
+C 0
+S
+#5922
+{bPlains of Falin-sha{x~
+The {bicy water{x turns back on to solid ground here.  The snow seems
+lighter and full of life, like sand blowing across a tropical beach.  To the
+west the white plains spread out before you. 
+~
+0 4 11
+D2
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5923
+C 0
+S
+#5923
+{bPlains of Falin-Sha{x~
+The path splits here, leading in three directions.  To the north a low
+rumble shakes like a land tremor.  To the east the plains of Falin-Sha and
+to the south, large canyons fill the horizon. 
+~
+0 4 14
+D0
+~
+~
+0 0 5924
+D1
+~
+~
+0 0 5922
+D2
+~
+~
+0 0 5925
+C 0
+S
+#5924
+Lair of the {bFrost {rDemon{x~
+Bones of the dead, scattered about without care or concern.  Here the
+great beast lives.  In the darkness that surrounds this cell, a smell of
+decay lingers. 
+~
+0 8388608 12
+D2
+~
+~
+0 0 5923
+C 0
+S
+#5925
+{bDeeper into the Plains of Falin-Sha{x~
+Here the plains are packed down with wet snow.  Flakes fall from a grey
+sky, filling you with a sadness.  To the east, ragged cliffs fill your view.
+~
+0 4 3
+D0
+~
+~
+0 0 5923
+D1
+~
+~
+0 0 5926
+C 0
+S
+#5926
+{WBeginning of Penguin Canyon{x~
+The {bice{x peaks in thick {bblue{x shards that reach to the heavens,
+forming a deep tunnel, or canyon before you.  Scratched deep in the ice on a
+peak to your left is the words, "Beware the flightless birds for they..."
+You can not make out anymore of the lettering.  
+~
+0 0 5
+D0
+~
+~
+0 0 5927
+D3
+~
+~
+0 0 5925
+C 0
+S
+#5927
+{WPenguin Canyon{x~
+Penguins, penguins, everywhere.  A small path through solid {bice{x
+leads deeper into this canyon.  It could lead you out of the frozen
+wasteland or it may trap you deep within it. 
+~
+0 0 5
+D2
+~
+~
+0 0 5926
+D3
+~
+~
+0 0 5928
+C 0
+S
+#5928
+{WPenguin Canyon{x~
+More {Wpenguins{x.  The canyon is wide here, making more room for the
+{Wpenguins{x to wander around and do the things that {Wpenguins{x do.
+Little pieces of fish, scales and bones, are piled up against the canyon
+walls.  
+~
+0 0 5
+D1
+~
+~
+0 0 5927
+D2
+~
+~
+0 0 5929
+C 0
+S
+#5929
+{WPenguin Canyon{x~
+You seem deeper into the canyon of the {Wpenguins{x.  You look behind
+you and see the exit appear to close behind you.  Now would be a good time
+to consider leaving. 
+~
+0 0 5
+D0
+~
+~
+0 0 5928
+D2
+~
+~
+0 0 5930
+C 0
+S
+#5930
+{WDead End in Penguin Canyon{x~
+Stuck, dead end.  {WPenguins{x slowly gather around you, tugging at
+your clothing and examining you as if you were the main dish on the menu. 
+You look to the walls and find them much to hard to climb. 
+~
+0 0 5
+D0
+~
+~
+0 0 5929
+C 0
+S
+#5931
+{bFrozen Tundra{x~
+The {Ylights{x that fill the sky still glow here and form a subtle
+warmth to this barren land.  A small incline blocks your way to the north. 
+The sound of civilization can be heard, far off, to the west.  
+~
+0 0 5
+D2
+~
+~
+0 0 5915
+D3
+~
+~
+0 0 5932
+C 0
+S
+#5932
+{bFrozen Tundra{x~
+{bIce{x.  In the same way that a person lost in the sand can see an
+oasis, you begin to see fire.  Warmth is all you desire.  In the distance
+you hear voices, calling people in to their warm houses and hot meals. 
+~
+0 4 3
+D1
+~
+~
+0 0 5931
+D3
+~
+~
+0 0 5933
+C 0
+S
+#5933
+{bFrozen Tundra{x~
+To the north you smell freash bread and fish baking.  To the east, only
+cold and {bice{x await you. 
+~
+0 0 14
+D0
+~
+~
+0 0 5934
+D1
+~
+~
+0 0 5932
+C 0
+S
+#5934
+{WEntrance to the Village of {BIce{x.~
+Before you lies the Village of {BIce{x.  The inhabitants of this
+Village are those of an ancient race of people who have learned to thrive on
+cold and penguin and whale meat.  You glance into the village and wonder if
+the people will take you in, feed you and give you a warm place to sleep. 
+There is only one way to find out.  {RNote: This area is currently under
+construction.  Please be patient.{x 
+~
+0 0 14
+D2
+~
+~
+0 0 5933
+C 0
+S
+#5935
+{bIce World{x~
+Suddenly the temperature drops, and your breath comes out in a great
+cloud as you struggle against an icy wind.  
+~
+0 1 6
+D0
+~
+~
+0 0 5900
+D1
+~
+~
+0 0 10020
+C 0
+S
+#5936
+{bSecret Room{x~
+This is probably the warmest place here.  No wind, and few ice.  Good
+thing for you.  
+~
+0 4 0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 5913 spec_breath_frost
+M 5915 spec_cast_mage
+M 5919 spec_breath_frost
+M 5931 spec_cast_mage
+M 5934 spec_guard
+M 5944 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 5918 2 1
+M 0 5902 2 5901 6
+M 0 5902 2 5902 6
+M 0 5902 1 5903 6
+M 0 5902 1 5904 6
+O 0 5905 0 5905
+M 0 5913 1 5913 5
+M 0 5913 1 5915 5
+M 0 5915 2 5915 2
+M 0 5918 1 5918 1
+E 0 5918 0 3
+M 0 5919 1 5919 3
+E 0 5919 0 16
+M 0 5919 1 5920 3
+E 0 5919 0 16
+M 0 5919 1 5921 3
+M 0 5944 1 5924 1
+E 0 5931 0 16
+E 0 5933 0 18
+M 0 5927 5 5927 25
+E 0 5928 0 17
+M 0 5927 5 5928 25
+M 0 5927 5 5929 25
+M 0 5927 10 5930 25
+M 0 5931 2 5931 2
+E 0 5932 0 5
+M 0 5934 2 5934 2
+E 0 5934 0 16
+E 0 5932 0 5
+O 0 5946 0 5936
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,3544 @@
+#AREADATA
+Name Red Forest~
+Builders Thanks~
+VNUMs 6700 6799
+Credits 85 - 100+~
+Security 9
+Flags BF
+LEVELs 100 200
+End
+
+
+
+#MOBILES
+#6700
+spirit red dragon~
+{rThe {wSpirit {rof the {WKing {rof Kot{RR{rD{x~
+{rThe Powerful {wSpirit {rof the {RRed {rDragon & {WKing {rof Kot{RR{rD towers over you.{x
+~
+A huge red figure with glowing eyes flys about the room.  Teeth bared,
+nostrils flaring, and claws bared, the king awaits his next victim.  
+~
+dragon~
+ABCFGSVZ DFJNOPTVace -1000 0
+0
+200 1000 1d1+166600 1d1+28000 30d15+600 claw
+-170 -170 -170 -160
+AFHKMOQR ABLQ CDEU INSTe
+stand stand male 1000000
+ABCFHKLUXZ ABCDEFGIJKPQUVWXZ giant unknown
+F res BH
+F par H
+#6701
+spirit forest~
+{WThe {CS{cpirit {Wof the {GF{go{Gr{ge{Gs{gt{x~
+{cStanding in the distance is an ancient etheral being in a trance state.
+~
+~
+dragon~
+ABG JTe 0 0
+0
+200 500 1d1+150000 1d1+600 1d1+1000 none
+-200 -200 -200 -200
+ACEF ABCDEHLNOPQRTUV BEH 0
+stand stand none 50000000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#6702
+spider mistress~
+{DThe Spider Mistress{x~
+{DThe mistress of spiders is here attending to her egg sacks.{x
+~
+~
+centipede~
+ABGQR DFHNOVZc 0 0
+0
+120 450 1d1+40000 1d1+20000 10d10+450 bite
+-120 -120 -120 -120
+CEFGHNU F FI H
+stand stand none 25000
+ABGO ACK medium unknown
+#6706
+snake~
+{cA big snake{x~
+{cA big snake is here hanging down from the trees above you.{x
+~
+~
+unique~
+ABFGQRTe DFHQVZc -1000 0
+0
+120 500 1d1+30000 1d1+3928 15d15+300 bite
+-80 -80 -80 -80
+DFHKLO ABLQ CDP 0
+stand stand male 20000
+AHMV ADEF medium unknown
+#6708
+golden dragon~
+{cA {YGolden {cDragon{x~
+{cA {YGolden {cDragon is here.{x
+~
+~
+dragon~
+AGOQTVZe CDEFGJTVZe 1000 0
+0
+135 2000 1d1+45000 1d1+3928 15d15+500 claw
+-170 -170 -170 -170
+EFHIKLMOPQ CHIJKQ BDEL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+F res H
+#6712
+yellow dragon~
+{cA {YYellow {cDragon{x~
+{cA {YYellow {cDragon is here{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZc -1000 0
+0
+125 2500 1d1+50000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+CEFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6713
+white dragon~
+{cA {WWhite {cDragon{x~
+{cA {WWhite {cDragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ -1000 0
+0
+125 2500 1d1+50000 1d1+3928 15d15+850 bite
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6715
+silver dragon~
+{cA {DSilver{c Dragon{x~
+{cA {DSilver{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 0 0
+0
+125 2500 1d1+65000 1d1+3928 15d15+850 bite
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6717
+bronze dragon~
+{cA {yBronze{c Dragon{x~
+{cA {yBronze{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 1000 0
+0
+125 2500 1d1+50000 1d1+3928 15d15+850 bite
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6721
+copper dragon~
+{cA {yCopper{c Dragon{x~
+{cA {yCopper{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 1000 0
+0
+125 2500 1d1+50000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+EFHKLOQ HIJKQ BCEHJL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6723
+brass dragon~
+{cA {yBrass{c Dragon{x~
+{cA {yBrass{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 1000 0
+0
+125 2500 1d1+55000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6725
+amethys dragon~
+{cA {mAmethyst{c Dragon{x~
+{cA {mAmethyst{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 0 0
+0
+135 2500 1d1+65000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+EFHKLOQ HIJKQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6727
+sapphire dragon~
+{cA{b Sapphire{c Dragon{x~
+{cA{b Sapphire{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 0 0
+0
+135 2500 1d1+65000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6729
+emerald dragon~
+{cA {gEmerald {cDragon{x~
+{cA {gEmerald {cDragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 0 0
+0
+135 2500 1d1+65000 1d1+3928 15d15+850 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6731
+topaz dragon~
+{cA {BTopaz{c Dragon{x~
+{cA {BTopaz{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ -1000 0
+0
+135 2500 1d1+50000 1d1+3928 15d15+900 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6733
+crystal dragon~
+{cA {WCrystal{c Dragon{x~
+{cA {WCrystal{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZ 0 0
+0
+135 2500 1d1+50000 1d1+3928 15d15+1000 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BCEHJKL O
+stand stand none 50000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6735
+green dragon~
+{cA {GGreen{c Dragon{x~
+{cA {GGreen{c Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZc -1000 0
+0
+135 2500 1d1+50000 1d1+3928 15d15+900 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BEHJKL O
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6737
+rainbow dragon~
+{cA {BR{Ya{Ci{Gn{Rb{Wo{Mw {cDragon{x~
+{cA {BR{Ya{Ci{Gn{Rb{Wo{Mw {cDragon is here.{x
+~
+~
+dragon~
+AGOTVZe CDEFGHJTVZ 0 0
+0
+135 2500 1d1+50000 1d1+3928 15d15+900 claw
+-140 -140 -140 -140
+EFHKLOQ CHIJQ BHJKLP O
+stand stand none 50000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+F res E
+#6739
+frost dragon~
+{cA {CF{Bro{dst{c {WDragon{x~
+{cA {CF{Bro{dst{c {WDragon{c is here.{x
+~
+~
+dragon~
+AFGOTZe CDEFGHJTVZ 0 0
+0
+140 3000 1d1+55000 1d1+3928 15d15+900 claw
+-140 -140 -140 -140
+ADEFHKLOQ HIJQ BCEHJKL O
+stand stand none 65000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6742
+faerie dragon~
+{cA {mF{Ma{ce{yr{ri{De{x {DDragon{x~
+{cA {mF{Ma{ce{yr{ri{De{x {DDragon{c is here.{x
+~
+~
+dragon~
+AFGOTZe CDEFGHJTVZ 0 0
+0
+140 2500 1d1+55000 1d1+3928 15d15+900 claw
+-140 -140 -140 -140
+EFHKLOQ HIJQ BEHJKL O
+stand stand none 50000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6747
+dragon hatchling~
+{ca Dragon hatchling{x~
+{cA Dragon hatchling is here.{x
+~
+~
+dragon~
+AGHTZ CDFGJTVZc 1000 0
+0
+100 750 1d1+25000 0d0+0 1d1+150 pound
+-50 -50 -50 -50
+EFHKR HIJQ BCEHJKL OP
+stand stand male 1000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ medium unknown
+#6758
+flaming phoenix dragon~
+{WThe {rPhoenix{x~
+{DThe {Yflaming{D rebirth of the {RRed {DDragon, {WPhoenix {Dis here.{x
+~
+~
+dragon~
+ABCFGSVZ DFJNOPTVace -1000 0
+0
+200 1000 1d1+176600 1d1+30000 30d15+600 flame
+-170 -170 -170 -170
+AFHKPR ABHLQS CD INTe
+stand stand female 1000000
+ABCHKLWZ ACDIJLPQU giant unknown
+F res BEH
+F par EFGHKVX
+#6759
+hatchling phoenix~
+{ra {WPhoenix {rhatchling{X~
+{rA {WPhoenix {rhatchling sits {where with {yflames {rechoing from its body.{x
+~
+~
+dragon~
+AGHTZ CDFGJTVZc 1000 0
+0
+100 750 1d1+25000 0d0+0 1d1+150 pound
+-50 -50 -50 -50
+EFHKR HIJQ BCEHJKL OP
+stand stand male 1000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ medium unknown
+#6760
+dark widow~
+{cthe {Ddark widow{X~
+{cThe web-filled {Ddark widow{c sits here prepared to bite.{X
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+Human~
+AFGZe DEFGHJQTVZa -1000 0
+0
+130 4000 1d1+50000 1d1+20000 15d15+450 bite
+-110 -110 -110 -110
+DEHKNOQU AB CHIJKLPQ N
+stand stand female 25000
+AHMV ABCDEFGIJKMV medium unknown
+F par H
+#6792
+black dragon pissed~
+{DA Black Dragon{x~
+{DA pissed off Black Dragon is here.{x
+~
+~
+dragon~
+AFGOTVZe CDEFGHJTVZc -1000 0
+0
+140 2700 1d1+60000 1d1+3928 15d15+1000 claw
+-150 -150 -150 -150
+DEFHKLOQ HIJQ BEFGHJKLOP 0
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#6796
+queen spider~
+{Dthe Queen Spider{x~
+{DThe huge, bulky Queen Spider is here.{x
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+Human~
+AFGZe DEFGHJQTVZa -1000 0
+0
+130 4000 1d1+50000 1d1+20000 15d15+450 bite
+-110 -110 -110 -110
+DEHKNOQU AB CHIJKLPQ N
+stand stand female 25000
+AHMV ABCDEFGIJKMV medium unknown
+F par H
+#6798
+blue dragon guard~
+{BA Blue Dragon Guard{x~
+{BA large Blue Dragon stands guard here.{x
+~
+~
+dragon~
+ABFRVZe CDEFGHJNOTVZac -1000 0
+0
+150 2000 1d1+55000 1d1+27000 30d30+900 claw
+-140 -140 -140 -140
+DEFHKLOQ CHIJQ BEHJKLOP 0
+stand stand none 25000
+ABCHILMVZ ABCDEFGHIJKPQUVWXZ large unknown
+#0
+
+
+
+#OBJECTS
+#6700
+egg sack black~
+{WA {Dblack {Wcolored egg sack{x~
+An egg sack has been left here on the ground, it appears hollow.~
+SILK container TYc AR
+2000 A 0 2000 50
+50 25 10000 P
+A
+18 5
+A
+19 5
+A
+13 75
+A
+13 75
+#6701
+leg legplates~
+{rDragonScale LegPlates made from the {wSpirit {rof {RBigRed{x~
+{rA pair of DragonScale LegPlates have been left here... Somoene was too stupid.{x~
+DIVINE_ELEM armor BOTWZc AF
+CFG CFG CFG CFG 0
+100 100 50000 P
+A
+19 20
+A
+18 18
+A
+20 -35
+A
+1 10
+A
+2 10
+A
+13 500
+A
+12 -200
+A
+14 -300
+#6702
+dragonscale breastplate breast~
+{rDragonScale BreastPlate made from the {wSpirit {rof {RBigRed{x~
+{rSomeone stupid has left a DragonScale breastplate lying on the ground here...{x~
+DIVINE_ELEM armor BOTWZc AD
+DGH DGH DGH DGH 0
+100 130 75000 P
+A
+1 15
+A
+14 -350
+A
+12 -300
+A
+19 50
+A
+18 -20
+A
+13 1000
+#6703
+claws~
+{rA BLOODY Claw torn from {RBigRed{x~
+{rAn expensive looking weapon has been left here... looks like a claw..{x~
+DIVINE_ELEM weapon BGOTWZc AN
+exotic 20 20 claw ACEG
+100 60 100000 P
+A
+19 65
+A
+18 55
+A
+1 20
+A
+5 20
+A
+13 1000
+A
+20 -100
+A
+12 -750
+A
+14 -750
+#6704
+gold chipped tooth~
+{WA chipped {YGold {Wtooth{x~
+{WSomeone has left part of a tooth from the {YGold Dragon {Wlying here on the ground.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6705 creates 6706
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6705
+yellow chipped tooth~
+{WA chipped {YYellow {Wtooth{x~
+{WSomeone has left part of a tooth from the {YYellow Dragon {Wlying here on the ground.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6706
+piece amber shaft~
+{WAn {Ya{ym{Yb{ye{Yr {Wcolored bone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+E
+=segment=~
+joinswith 6757 creates 6766
+You connect $p with $P to create A Quarter of an Unadorned Weapon Shaft
+`
+ 
+$n connects $p with $P to create A Quarter of an Unadorned Weapon Shaft
+`
+ 
+~
+#6707
+chipped amethyst tooth~
+{WA chipped {mAmethyst {Wtooth{x~
+{WSomeone has left part of a tooth from the {mAmethyst Draggon {Wlying here on the ground.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6710 creates 6757
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6708
+golden cloud~
+{YA Golden Cloud{x~
+{YA large Golden Cloud floats here.{x~
+ORICHALCUM armor AT AQ
+AC AC AC AC 0
+85 5 500000 P
+A
+19 20
+A
+18 30
+A
+14 350
+A
+12 350
+A
+1 4
+A
+13 500
+E
+=segment=~
+joinswith 11903 creates 23437
+{cYou have discovered a piece of the mystic {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!{x
+`
+
+$n {chas a {rP{gu{bz{yz{bl{ge{rD {clook on their face.{x
+`
+ 
+~
+#6709
+gold dragon golden claws~
+{Wa pair of {YGolden Dragon{W claws{x~
+{Wa pair of {YGolden Dragon{W claws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6710
+sapphire tooth chipped~
+{WA chipped {bSapphire {Wtooth{x~
+{WSomeone has left part of a tooth from the {BSaphire Dragon {Wlying here on the ground.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6711
+emerald chipped tooth~
+{WA chipped {gEmerald {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6719 creates 6760
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6712
+yellow dragon claws~
+{Wa pair of {YYellow Dragon {Wclaws{x~
+{Wa pair of {YYellow Dragon {Wclaws lie here{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6713
+white dragon claw~
+{Da pair of {WWhite Dragon {Dclaws{x~
+{Da pair of {WWhite Dragon {Dclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABTY AN
+exotic 15 15 stab EH
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6714
+horn horns~
+{DThe horns of a {WWhite Dragon{x~
+{DThe horns of a {WWhite Dragon {Dlie here.{x~
+SELECT_A_MATERIAL armor T AE
+DF DF DF DF A
+90 75 50000 P
+A
+13 250
+A
+12 250
+A
+19 8
+A
+18 6
+A
+1 4
+A
+17 -20
+A
+20 -15
+#6715
+silver dragon claws~
+{Wa pair of {DSilver Dragon {Wclaws{x~
+{Wa pair of {DSilver Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon AITY AN
+exotic 15 15 slice BCE
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6716
+silver dragonscale chain~
+{Wa {DSilver Dragonscale {WChain{x~
+{Wa {DSilver Dragonscale {WChainlies here.{x~
+SELECT_A_MATERIAL armor AGITY AC
+DF DF DF DF 0
+95 50 10000 P
+A
+17 -10
+A
+19 15
+A
+18 15
+A
+12 1000
+A
+12 250
+A
+14 250
+A
+4 2
+A
+3 2
+#6717
+bronze dragon claws~
+{Wa pair of {yBronze Dragon {Wclaws{x~
+{Wa pair of {yBronze Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 cleave CEH
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6718
+bronze dragon armor~
+{Wa suit of {yBronze Dragon{W armor{x~
+{Wa suit of {yBronze Dragon{W armor lies here.{x~
+SELECT_A_MATERIAL armor ABTY AD
+AG AG AG AG A
+90 5 65000 P
+A
+13 350
+A
+13 250
+A
+5 8
+A
+1 8
+A
+17 -18
+A
+19 10
+A
+18 10
+#6719
+rainbow chipped tooth~
+{WA chipped {BR{Ya{Ci{Gn{Rb{Wo{Mw {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6720
+faerie chipped tooth~
+{WA chipped {mF{Ma{ce{yr{ri{De {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6743 creates 6761
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6721
+copper dragon claws~
+{Wa pair of {yCopper Dragon{W claws{x~
+{Wa pair of {yCopper Dragon{W claws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 cleave BEG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+#6722
+copper dragon legplates~
+{Wa pair of {yCopper Dragon {WLegplates{x~
+{Wa pile of {yCopper Dragon {Wscales lie here.{x~
+SELECT_A_MATERIAL armor BTY AF
+ABF ABF ABF ABF 0
+90 150 30000 P
+A
+20 20
+A
+19 15
+A
+18 15
+A
+13 350
+A
+18 6
+A
+17 -17
+#6723
+brass dragon claws~
+{Wa pair of {yBrass Dragon {Wclaws{x~
+{Wa pair of {yBrass Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AC
+80 50 150000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6724
+brass draogn girth~
+{Wa tarnished {yBrass Dragons {Wgirth{x~
+{Wa tarnished {yBrass Dragons {Wgirth lies here.{x~
+SELECT_A_MATERIAL armor BT AL
+BEF BEF BEF BEF 0
+90 250 22500 P
+A
+18 15
+A
+14 450
+A
+12 450
+A
+13 450
+A
+19 15
+A
+20 -12
+A
+17 -15
+A
+5 4
+#6725
+amethyst dragon claws~
+{Wa pair of {mAmeythyst Dragon {Wclaws{x~
+{Wa pair of {mAmeythyst Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6726
+amethyst dragonscale scale cloak~
+{WAn {mAmethyst DragonScale {WCloak{x~
+{WAn {mAmethyst Dragonscale {Wcloak is lying on the ground here.{x~
+SELECT_A_MATERIAL armor BT AK
+AG AG AG AG 0
+100 30 25000 P
+A
+19 25
+A
+18 20
+A
+14 650
+A
+12 850
+A
+13 650
+A
+17 -40
+A
+20 -12
+#6727
+sapphire dragon claws~
+{Wa pair of {bSapphire Dragon {Wclaws{x~
+{Wa pair of {bSapphire Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 slice BCE
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6728
+sapphire dragon ring~
+{Wa {bSapphire Dragons{W ring{x~
+{Wa {bSapphire Dragons{W ring lies here.{x~
+SELECT_A_MATERIAL armor AT AB
+BEF BEF BEF BEF 0
+90 5 25000 P
+A
+17 -20
+A
+19 30
+A
+18 35
+A
+14 400
+A
+12 400
+A
+13 400
+A
+20 -10
+A
+3 3
+#6729
+emerald dragon claws~
+{Wa pair of {gEmerald Dragon {Wclaws{x~
+{Wa pair of {gEmerald Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 cleave CEH
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6730
+emerald dragon ring~
+{Wa {gEmerald Dragons{W ring{x~
+{Wa {gEmerald Dragons{W ring lies here.{x~
+EMERALD armor AT AB
+ABF ABF ABF ABF 0
+90 5 25000 P
+A
+17 10
+A
+19 -10
+A
+18 -10
+A
+14 750
+A
+13 750
+A
+12 750
+A
+20 -10
+A
+3 3
+#6731
+topaz dragon claws~
+{Wa pair of {BTopaz Dragon {Wclaws{x~
+{Wa pair of {BTopaz Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw BEG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6732
+ID tag~
+{Wa {BTopaz Dragons{W ID tag{x~
+{Wa {BTopaz Dragons{W ID tag lies here.{x~
+SELECT_A_MATERIAL armor BIT AM
+ABF ABF ABF ABF 0
+100 0 55000 P
+A
+17 30
+A
+12 300
+A
+13 350
+A
+14 200
+A
+19 16
+A
+2 4
+A
+1 4
+A
+18 18
+#6733
+crystal dragon claws~
+{Da pair of {WCrystal Dragon {Dclaws{x~
+{Da pair of {WCrystal Dragon {Dclaws lies here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AB
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+18 9
+A
+19 9
+#6734
+crystal dragon ball~
+{Da {WCrystal Dragons {Dcrystal ball{x~
+{Da {WCrystal Dragons {Dcrystal ball lies here.{x~
+GLASS armor AGITY AO
+ADE ADE ADE ADE 0
+90 100 8000 P
+A
+17 -30
+A
+12 600
+A
+20 -20
+A
+13 200
+A
+19 6
+A
+18 8
+#6735
+green dragon claws~
+{Wa pair of {GGreen Dragon {Wclaws{x~
+{Wa pair of {GGreen Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw AG
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6736
+green dragon skin boots~
+{Wa pair of {GGreen Dragon {Wskin boots{x~
+{Wa pair of {GGreen Dragon {Wskin boots lie here.{x~
+SELECT_A_MATERIAL armor ABTY AG
+BEF BEF BEF BEF A
+90 15 50000 P
+A
+20 -10
+A
+13 350
+A
+12 350
+A
+14 700
+A
+18 10
+A
+19 15
+A
+2 8
+#6737
+rainbow dragon claw~
+{Wa pair of {BR{Ya{Ci{Gn{Rb{Wo{Mw {RDragon {Wclaws{x~
+{Wa pair of {BR{Ya{Ci{Gn{Rb{Wo{Mw {RDragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 cleave CEH
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6738
+shield rainbow dragon~
+{Wshield of {BR{Ya{Ci{Gn{Rb{Wo{Mw {RDragon{x~
+{WA shield of {BR{Ya{Ci{Gn{Rb{Wo{Mw {RDragon{W lies here.{x~
+SELECT_A_MATERIAL armor T AJ
+ABCEF ABCEF ABCEF ABCEF 0
+75 40 15000 P
+A
+17 -15
+A
+20 -7
+A
+2 2
+A
+1 5
+A
+18 30
+A
+19 30
+A
+13 400
+A
+12 500
+#6739
+ice nails~
+{CI{BC{dE {WNails{x ~
+{Wa pair of {CI{BC{dE {WNails lie here.{x ~
+SELECT_A_MATERIAL armor ATY AH
+BCDE BCDE BCDE BCDE ABE
+90 1 20000 P
+A
+19 10
+A
+18 15
+A
+4 -5
+A
+2 5
+A
+12 350
+A
+14 350
+A
+13 350
+E
+drought~
+Dry weather, want of rain.~
+E
+drout~
+You possess the power to reward or destroy the farmer.~
+#6740
+ice dragon claws~
+{Wa pair of {CI{Bc{We Dragon claws{x~
+{Wa pair of {CI{Bc{We Dragon claws are here{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 15 claw BC
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6741
+black dragon claws~
+{Wa pair of {DBlack Dragon {Wclaws{x~
+{Wa pair of {DBlack Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon ABITY AN
+exotic 15 17 claw BC
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6742
+faerie dragon claws~
+{Wa pair of {mF{Ma{ce{yr{ri{De{x {DDragon{W claws{x~
+{Wa pair of {mF{Ma{ce{yr{ri{De{x {DDragon{W claws lie here.{x~
+SELECT_A_MATERIAL weapon ABIY AN
+exotic 15 15 claw AC
+80 50 50000 P
+A
+12 50
+A
+13 150
+A
+14 -100
+A
+17 35
+A
+18 9
+A
+19 9
+A
+24 -10
+#6743
+black chipped tooth~
+{WA chipped {DBlack {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6744
+topaz chipped tooth~
+{WA chipped {BTopaz {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6745 creates 6762
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6745
+crystal chipped tooth~
+{WA chipped {WCrystal {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6746
+green chipped tooth~
+{WA chipped {GGreen {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6747 creates 6763
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6747
+copper chipped tooth~
+{WA chipped {yCopper {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6748
+frost chipped tooth~
+{WA chipped {CF{Bro{wst {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6749 creates 6764
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6749
+brass chipped tooth~
+{WA chipped {yBrass {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6750
+chest~
+a beautiful chest~
+A beautiful chest is here~
+SELECT_A_MATERIAL container A 0
+1000 ABCD 6751 10 50
+0 0 0 P
+#6751
+red key~
+a {rred {Wskeleton{x key~
+A key made out of {rred {xbones is here~
+SELECT_A_MATERIAL key A A
+0 0 0 0 0
+98 0 0 P
+#6752
+vial of dragon blood~
+{rA Vial of Dragon Blood{x~
+{WSomeone has dropped a {rblood red vial {Wof substance on the ground.{x~
+SELECT_A_MATERIAL gem W AO
+0 0 0 0 0
+0 10 500000 P
+#6753
+treasure coins~
+a huge treasure~
+There is a huge treasure here, looking very valuable.~
+SELECT_A_MATERIAL money 0 A
+FJKLO AB 0 0 0
+0 80 0 P
+E
+treasure~
+This looks like a whole lot of coins.
+~
+#6754
+Faerie Dragon Spirit~
+{WThe {RSpirit {WOf The {mF{Ma{ce{yr{ri{De Dragon{x~
+{WThe {RSpirit {WOf The {mF{Ma{ce{yr{ri{De Dragon{W lies here.{x~
+MAGIC_ENERGY light_source ATY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+90 10 50000 P
+A
+14 350
+A
+19 15
+A
+18 15
+A
+13 350
+A
+12 350
+A
+5 3
+A
+4 3
+A
+3 3
+A
+2 3
+A
+1 3
+#6755
+chipped silver tooth~
+{WA chipped {WSilver {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+E
+=segment=~
+joinswith 6756 creates 6765
+You join $p and $P to make a bone shaft piece.
+`
+ 
+$n joins $p and $P to make a bone shaft piece.
+`
+ 
+~
+#6756
+white chipped tooth~
+{WA chipped {WWhite {Wtooth{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 3 5 P
+#6757
+crimson bone shaft~
+{WA {Rc{rr{Ri{rm{Rs{ro{Rn {Wcolored bone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+#6758
+eyes phoenix flaming~
+{YFlaming {Ceyes {Wof the {rPhoenix{x~
+{WA blinding light is here, piercing your eyes.{x~
+MAGIC_ENERGY light_source ATY AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+95 10 50050 P
+A
+1 3
+A
+2 3
+A
+3 3
+A
+4 3
+A
+5 4
+A
+12 400
+A
+13 400
+A
+14 300
+A
+18 11
+A
+19 9
+#6759
+talon phoenix flaming~
+{YFlaming {Ctalons {Wof the {rPhoenix{x~
+{WA blinding light is here, piercing your eyes.{x~
+DIVINE_ELEM weapon BGOTWZc AN
+exotic 20 20 pierce ACDG
+100 45 100000 P
+A
+19 65
+A
+18 55
+A
+1 20
+A
+5 20
+A
+13 1000
+A
+20 -100
+A
+12 -750
+A
+14 -750
+#6760
+pitch black bone shaft~
+{WA {Dpitch black {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+E
+=segment=~
+joinswith 6761 creates 6767
+You connect $p with $P to create A Quarter of an Unadorned Weapon Shaft
+`
+ 
+$n connects $p with $P to create A Quarter of an Unadorned Weapon Shaft
+`
+ 
+~
+#6761
+dark maroon shaft~
+{WA {md{Ma{mr{Mk {mm{Ma{mr{Mo{mo{Mn {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+#6762
+light blue bone shaft~
+{WA {Cl{bi{Cg{bh{Ct {bb{Cl{bu{Ce {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+E
+=segment=~
+joinswith 6763 creates 6768
+You connect $p with $P to create {WA Quarter of an Unadorned Weapon Shaft{x
+`
+ 
+$n connects $p with $P to create {WA Quarter of an Unadorned Weapon Shaft{x
+`
+ 
+~
+#6763
+dark brown bone shaft~
+{WA {ydark brown {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+#6764
+dark blue bone shaft piece~
+{WA {bdark blue {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+E
+=segment=~
+joinswith 6765 creates 6769
+You connect $p with $P to create {WA Quarter of an Unadorned Weapon Shaft{x
+`
+ 
+$n connects $p with $P to create {WA Quarter of an Unadorned Weapon Shaft{x
+`
+ 
+~
+#6765
+white frosted bone shaft piece~
+{WA {Ww{Chite {Wf{Crosted {Wbone shaft piece{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 5 10 P
+#6766
+quarter unadorned weapon shaft~
+{WA Quarter of an Unadorned Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 15 P
+E
+=segment=~
+joinswith 6767 creates 6770
+You connect $p with $P to create {WOne-Half of a Weapon Shaft{x
+`
+ 
+{W$n{x connects $p with $P to create {WOne-Half of a Weapon Shaft{x
+`
+ 
+~
+#6767
+quarter unadorned weapon shaft~
+{WA Quarter of an Unadorned Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 15 P
+#6768
+quarter unadorned weapon shaft~
+{WA Quarter of an Unadorned Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 15 P
+E
+=segment=~
+joinswith 6769 creates 6771
+You connect $p with $P to create {WOne-Half of a Weapon Shaft{x
+`
+ 
+{W$n{x connects $p with $P to create {WOne-Half of a Weapon Shaft{x
+`
+ 
+~
+#6769
+quarter unadorned weapon shaft~
+{WA Quarter of an Unadorned Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 15 P
+#6770
+one half weapon shaft~
+{WOne-Half of a Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 15 P
+E
+=segment=~
+joinswith 6771 creates 6772
+You connect $p with $P to create a {WFinished Weapon Shaft{x
+`
+ 
+{W$n {xconnects $p with $P to create a {WFinished Weapon Shaft{x
+`
+ 
+~
+#6771
+one half weapon shaft~
+{WOne-Half of a Weapon Shaft{x~
+{WSomeone has dropped an object made from bone on the ground here.{x~
+BONE segment HY A
+CEFGJLM BEFGJLM 0 0 0
+100 0 0 P
+#6772
+finished weapon shaft~
+{WFinished Weapon Shaft{x~
+{wSomeone has dropped an object made from bone on the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 15 20 P
+E
+=segment=~
+joinswith 6776 creates 6780
+You slowly ease the $p into the $P to complete the uber {^{RS{WW{RO{WR{RD{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+{W$n{x places the $p into the $P to complete the uber {^{RS{WW{RO{WR{RD{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+joinswith 6777 creates 6782
+You slowly ease the $p into the $P to complete the uber {^{RD{WA{RG{WG{RE{WR{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+{W$n{x places the $p into the $P to complete the uber {^{RD{WA{RG{WG{RE{WR{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+joinswith 6778 creates 6783
+You slowly ease the $p into the $P to complete the uber {^{RA{WX{RE{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+{W$n{x places the $p into the $P to complete the uber {^{RA{WX{RE{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+joinswith 6779 creates 6781
+You slowly ease the $p into the $P to complete the uber {^{RM{WA{RC{WE{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+{W$n{x places the $p into the $P to complete the uber {^{RM{WA{RC{WE{x {cof the {RD{rragon {xSlayers{B!{Y!{M!{x
+`
+ 
+~
+#6773
+left side key~
+{WLeft half of a {CC{ce{Cl{ce{Cs{ct{Ci{ca{Cl {WKey{x~
+{WSomeone has half of a celestial key on the ground here. {x~
+WOOD gem HYc A
+0 0 0 0 0
+100 1 50 P
+E
+=segment=~
+joinswith 6774 creates 6775
+You slap $p together with $P to complete {WThe {CC{ce{Cl{ce{Cs{ct{Ci{ca{Cl {WKey{B!!{x
+`
+ 
+{W$n {xslaps $p together with $P to complete {WThe {CC{ce{Cl{ce{Cs{ct{Ci{ca{Cl {WKey{B!!{x
+`
+ 
+~
+#6774
+right side key~
+{WRight half of a {CC{ce{Cl{ce{Cs{ct{Ci{ca{Cl {WKey{x~
+Someone has half of a celestial key on the ground here.~
+WOOD gem HYc A
+0 0 0 0 0
+100 1 50 P
+#6775
+celestial key~
+{WThe {CC{ce{Cl{ce{Cs{ct{Ci{ca{Cl {WKey{x~
+{WSomeone has dropped a key of pure energy here.{x~
+SILVER key HOTb AP
+0 0 0 0 0
+100 0 0 P
+#6776
+sword hilt ~
+{CHilt {Wof the {RD{rragon {RS{Ww{Ro{Wr{Rd{x~
+{WSomeone has droped a sword hilt onto the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 20000000 P
+#6777
+dagger hilt~
+{CHilt {Wof the {RD{rragon {RD{Wa{Rg{Wg{Re{Wr{x~
+{WSomeone has droped a dagger hilt onto the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 20000000 P
+#6778
+axe hilt~
+{CHilt {Wof the {RD{rragon {RA{Wx{Re{x~
+{WSomeone has droped an axe hilt onto the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 20000000 P
+#6779
+mace hilt~
+{CHilt {Wof the {RD{rragon {RM{Wa{Rc{We{x~
+{WSomeone has droped a mace hilt onto the ground here.{x~
+BONE gem TY A
+0 0 0 0 0
+100 10 17500000 P
+#6780
+sword dragon slayers~
+{RS{Ww{Ro{Wr{Rd {cof the {RD{rragon {GS{glayers{x~
+{WSomeone has dropped an ancient sword of long ago here on the ground.{x~
+BONE weapon ABHIYc AN
+sword 21 21 slice ACEGH
+100 150 20000000 P
+A
+17 -75
+A
+19 75
+A
+18 75
+A
+12 1000
+A
+14 1000
+A
+13 1000
+E
+removemessage~
+{wYou feel a little weaker.{x
+~
+E
+wearmessage~
+As you grip the handle you writhe and scream, '{WThe PPppppPOOOOoooWWWwwwErrRRR!{x'.
+~
+#6781
+mace dragon slayers~
+{RM{Wa{Rc{We {cof the {RD{rragon {GS{glayers{x~
+{WSomeone has dropped an ancient mace of long ago here on the ground.{x~
+BONE weapon ABHIYc AN
+mace 21 21 crush BCGH
+100 100 20000000 P
+A
+17 -75
+A
+19 75
+A
+18 75
+A
+14 1000
+A
+12 1000
+A
+13 1000
+E
+removemessage~
+{wYou feel a little weaker{x
+~
+E
+wearmessage~
+As you grip the handle you writhe and scream, '{WThe PPppppPOOOOoooWWWwwwErrRRR!{x'.
+~
+#6782
+dagger dragon slayers~
+{RD{Wa{Rg{Wg{Re{Wr {cof the {RD{rragon {GS{glayers{x~
+{WSomeone has dropped an ancient dagger of long ago here on the ground.{x~
+BONE weapon ABHIYc AN
+dagger 21 21 pierce BCDGH
+100 50 20000000 P
+A
+17 -75
+A
+19 75
+A
+18 75
+A
+14 1000
+A
+12 1000
+A
+13 1000
+E
+removemessage~
+{wYou feel a little weaker.{x
+~
+E
+wearmessage~
+As you grip the handle you writhe and scream, '{WThe PPppppPOOOOoooWWWwwwErrRRR!{x'.
+~
+#6783
+axe dragon slayers~
+{RA{Wx{Re {cof the {RD{rragon {GS{glayers{x~
+{WSomeone has dropped an ancient axe of long ago here on the ground.{x~
+BONE weapon ABHIYc AN
+axe 21 21 cleave ACEGH
+100 90 20000000 P
+A
+17 -75
+A
+19 75
+A
+18 75
+A
+12 1000
+A
+14 1000
+A
+13 1000
+E
+removemessage~
+{wYou feel a little weaker{x
+~
+E
+wearmessage~
+As you grip the handle you writhe and scream, '{WThe PPppppPOOOOoooWWWwwwErrRRR!{x'.
+~
+#6796
+backpack spider~
+{ca backpack made from {Dblack silk {cwebbing{x ~
+{ca backpack made from {Dblack silk {cwebbing{x is here~
+LEATHER container TY AR
+2000 A 0 2000 50
+75 25 10000 P
+A
+12 200
+A
+13 200
+#6797
+soul stone shard legend~
+{Da legendary {rsoulstone {Dshard{x~
+A legendary quest shard lies here.~
+SOULSTONE gem CT AO
+0 0 0 0 0
+99 3 50 P
+E
+pickupmessage~
+{YYou just found your Level {W99 {YLegendary Shard! You can now advance to Level {W100{Y!{x
+~
+#6798
+blue dragon claws~
+{Wa pair of {BBlue Dragon {Wclaws{x~
+{Wa pair of {BBlue Dragon {Wclaws lie here.{x~
+SELECT_A_MATERIAL weapon BTY AN
+exotic 15 18 claw ACGH
+95 100 50000 P
+A
+20 -5
+A
+17 -45
+A
+19 45
+#6799
+blue dragonscale armband~
+{Wa {BBlue Dragonscale {Warmband{x~
+{WA {BBlue Dragonscale {Warmband lies here.{x~
+SELECT_A_MATERIAL armor AIT AI
+ABCEF ABCEF ABCEF ABCEF 0
+90 50 10000 P
+A
+17 -10
+A
+18 20
+A
+19 20
+A
+12 850
+A
+13 850
+A
+14 850
+A
+20 -10
+A
+2 8
+A
+1 8
+E
+dark crimson armbands arm bands pair circles blood~
+Engraved in the blood red metal is the inscription:  "Ir'vekire zai'Zdreni",
+above an engraving of a stooping hawk over two crossed daggers.
+~
+#0
+
+
+
+#ROOMS
+#6700
+{yA breezy field{x~
+You are at the end of a breezy field. You see a thick forest
+to the north. You sense something different about this forest,
+something magical. You don't know weather it is good or bad.
+You notice this forest is not the average green foliage. All the
+trees and plants have a red glow.
+               {rBEWARE OF THE RED DRAGON{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6701
+D2
+~
+~
+0 0 1720
+C 0
+S
+#6701
+{yA path in the {rRed {GForest{x~
+You enter the forest. It gets thicker as you go further. You think
+you hear noises in the distance. The path continues north and 
+branches off to the east.
+~
+0 8192 4
+D0
+~
+~
+0 0 6704
+D1
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6700
+D3
+~
+~
+0 0 6700
+C 0
+S
+#6702
+{yA path in the {rRed {GForest{x~
+{YThe path continues on to the east.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6703
+D3
+~
+~
+0 0 6701
+C 0
+S
+#6703
+{DDEAD END{X~
+{YThe path is blocked by a large wall.....nothing to do but turn around.{x
+~
+0 8192 4
+D3
+~
+~
+0 0 6702
+C 0
+S
+#6704
+{yA path in the {rRed {GForest{x~
+You wonder further into this enchanted forest. You can smell a 
+strange odor coming from the west. The path continues north and
+goes west.
+~
+0 8192 4
+D0
+~
+~
+0 0 6706
+D1
+~
+~
+3 6775 6783
+D2
+~
+~
+0 0 6701
+D3
+~
+~
+0 0 6705
+C 0
+S
+#6705
+{yStuck in a huge pile of dragon shit{x~
+{YEWWWWWW.....You are stuck in dragon shit...There is nothing you can do!{x
+~
+0 5 4
+E
+dt~
+You are sinking in dragon crap. It stinks and you are dying.
+~
+E
+dt~
+This is by far the worst imaginable way to DIE!!!!
+~
+D1
+~
+~
+0 0 6704
+M -2000 H -2000
+C 0
+S
+#6706
+{yA path in the {rRed {GForest{x~
+{A{YAS you move deeper into the forest the trees get thicker{x{x
+{YThe path starts to turn to the east{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6707
+D2
+~
+~
+0 0 6704
+C 0
+S
+#6707
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6708
+D3
+~
+~
+0 0 6706
+C 0
+S
+#6708
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6709
+D3
+~
+~
+0 0 6707
+C 0
+S
+#6709
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6710
+D3
+~
+~
+0 0 6708
+C 0
+S
+#6710
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6711
+D3
+~
+~
+0 0 6709
+C 0
+S
+#6711
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6712
+D3
+~
+~
+0 0 6710
+C 0
+S
+#6712
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6711
+C 0
+S
+#6713
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6714
+D2
+~
+~
+0 0 6712
+C 0
+S
+#6714
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6715
+D2
+~
+~
+0 0 6713
+C 0
+S
+#6715
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6716
+D2
+~
+~
+0 0 6714
+C 0
+S
+#6716
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6717
+D2
+~
+~
+0 0 6715
+C 0
+S
+#6717
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6718
+D2
+~
+~
+0 0 6716
+C 0
+S
+#6718
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6719
+D2
+~
+~
+0 0 6717
+C 0
+S
+#6719
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6720
+D2
+~
+~
+0 0 6718
+C 0
+S
+#6720
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6719
+C 0
+S
+#6721
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6722
+D2
+~
+~
+0 0 6720
+C 0
+S
+#6722
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6723
+D2
+~
+~
+0 0 6721
+C 0
+S
+#6723
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6724
+D2
+~
+~
+0 0 6722
+C 0
+S
+#6724
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6725
+D2
+~
+~
+0 0 6723
+C 0
+S
+#6725
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6726
+D2
+~
+~
+0 0 6724
+C 0
+S
+#6726
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6727
+D2
+~
+~
+0 0 6725
+C 0
+S
+#6727
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6728
+D2
+~
+~
+0 0 6726
+C 0
+S
+#6728
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6729
+D2
+~
+~
+0 0 6727
+C 0
+S
+#6729
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6730
+D2
+~
+~
+0 0 6728
+C 0
+S
+#6730
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6729
+C 0
+S
+#6731
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6730
+C 0
+S
+#6732
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6731
+D3
+~
+~
+0 0 6743
+C 0
+S
+#6733
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6732
+C 0
+S
+#6734
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6735
+D2
+~
+~
+0 0 6733
+D3
+~
+~
+0 0 6746
+C 0
+S
+#6735
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6736
+D2
+~
+~
+0 0 6734
+C 0
+S
+#6736
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6790
+D2
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6737
+C 0
+S
+#6737
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6736
+D3
+~
+~
+0 0 6738
+C 0
+S
+#6738
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6739
+D1
+~
+~
+0 0 6737
+C 0
+S
+#6739
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6740
+D2
+~
+~
+0 0 6738
+C 0
+S
+#6740
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6741
+D2
+~
+~
+0 0 6739
+C 0
+S
+#6741
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6791
+D3
+~
+~
+0 0 6740
+C 0
+S
+#6742
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6745
+D2
+~
+~
+0 0 6744
+C 0
+S
+#6743
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6732
+D3
+~
+~
+0 0 6744
+C 0
+S
+#6744
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6742
+D1
+~
+~
+0 0 6743
+C 0
+S
+#6745
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6742
+C 0
+S
+#6746
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D1
+~
+~
+0 0 6734
+D3
+~
+~
+0 0 6745
+C 0
+S
+#6747
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8196 4
+C 0
+S
+#6757
+{wMouth of a huge cave{x~
+{YThe entrance to this cave is dark and damp, and you smell the horrible stench of a dragon's breath not
+too far away...
+{x
+~
+0 8205 1
+D0
+~
+~
+0 0 6799
+D2
+~
+~
+0 0 6798
+C 0
+S
+#6758
+{DA {rscintillating {Dpit of coals{x~
+{DThe {Ylight{D in this room is piercing to the eyes.  The air is damp
+and sickening from the immense heat.  It is comparable to the flame of the
+brightest {Wwhite{D star.  What creature could survive in this intense
+inferno, let alone thrive in it?  A creature like that is one to be
+{ravoided{D.  
+~
+0 532493 1
+D2
+~
+~
+0 0 6759
+C 0
+S
+#6759
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6758
+D1
+~
+~
+0 0 6776
+D2
+~
+~
+0 0 6760
+D3
+~
+~
+0 0 6782
+C 0
+S
+#6760
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6759
+D1
+~
+~
+0 0 6775
+D2
+~
+~
+0 0 6761
+D3
+~
+~
+0 0 6781
+C 0
+S
+#6761
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6760
+D1
+~
+~
+0 0 6774
+D2
+~
+~
+0 0 6762
+D3
+~
+~
+0 0 6780
+C 0
+S
+#6762
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6761
+D1
+~
+~
+0 0 6773
+D2
+~
+~
+0 0 6763
+D3
+~
+~
+0 0 6779
+C 0
+S
+#6763
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6762
+D1
+~
+~
+0 0 6772
+D2
+~
+~
+0 0 6764
+D3
+~
+~
+0 0 6778
+C 0
+S
+#6764
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6763
+D1
+~
+~
+0 0 6771
+D2
+~
+~
+0 0 6765
+D3
+~
+~
+0 0 6777
+C 0
+S
+#6765
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6764
+D1
+~
+~
+0 0 6769
+D2
+~
+~
+0 0 6766
+D3
+~
+~
+0 0 6770
+C 0
+S
+#6766
+{Da {rfiery {Dpath through flames{X~
+{DYou stand upon a path of intense heat.  {YFlames{D burst up in the air
+all around you as you struggle to stay the course.  The sweat from your brow
+{Ctrickles {Ddown your head where it meets the hard ground below.  Sounds of
+creatures can be heard from a distance as you march on with your hand
+gripping your weapon.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 6765
+D1
+~
+~
+0 0 6767
+D3
+~
+~
+0 0 6768
+C 0
+S
+#6767
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8196 0
+D1
+~
+~
+0 0 6793
+D3
+~
+~
+0 0 6766
+C 0
+S
+#6768
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6766
+C 0
+S
+#6769
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6765
+C 0
+S
+#6770
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6765
+C 0
+S
+#6771
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6764
+C 0
+S
+#6772
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6763
+C 0
+S
+#6773
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6762
+C 0
+S
+#6774
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6761
+C 0
+S
+#6775
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6760
+C 0
+S
+#6776
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6784
+D3
+~
+~
+0 0 6759
+C 0
+S
+#6777
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6764
+C 0
+S
+#6778
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6763
+C 0
+S
+#6779
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6762
+C 0
+S
+#6780
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6761
+C 0
+S
+#6781
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6760
+C 0
+S
+#6782
+{Da {rchared{D surface off the path{X~
+{DBelow your tight strapped boots rest the {rheated {Dsurface of the
+{WPhoenix.  {D Your boots begin to stick to the floor because of the heat. 
+You find the strength to walk on this flat surface hoping to find the end. 
+The {Ycrackling {Dof {ysparks{D jump out at your head as you continue your
+journey.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 6759
+C 0
+S
+#6783
+{BThe Calling{x~
+{cEntering here the etheral winds break as mortal presence exerts from
+the entrance.  The sight of a wraith like being can be seen in a trance like
+state.  He seems friendly to talk to but that isn't suggested.  {x 
+~
+0 9220 1
+D3
+~
+~
+3 6775 6704
+C 0
+S
+#6784
+{yA path in the {rRed {GForest{x~
+{cEntering the smell of freshly laid spider eggs can be senced on the
+southern walls.  The sound of spider clicking sounds can be heard in the
+shadows of this room.  The room exits to the north.  {x 
+~
+0 8192 0
+D3
+~
+~
+0 0 6776
+C 0
+S
+#6789
+{DA huge cave{x~
+{YYou have entered the home of the king of the realm.{x
+{YThere is a large chest sitting on the floor filled with the kings treasures.{x
+~
+0 1089548 4
+C 0
+S
+#6790
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6791
+D2
+~
+~
+0 0 6736
+C 0
+S
+#6791
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6792
+D2
+~
+~
+0 0 6790
+D3
+~
+~
+0 0 6741
+C 0
+S
+#6792
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6793
+D2
+~
+~
+0 0 6791
+C 0
+S
+#6793
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6794
+D2
+~
+~
+0 0 6792
+D3
+~
+~
+0 0 6767
+C 0
+S
+#6794
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6795
+D2
+~
+~
+0 0 6793
+C 0
+S
+#6795
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6796
+D2
+~
+~
+0 0 6794
+C 0
+S
+#6796
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+{YLook out for that giant spider web!{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6797
+D2
+~
+~
+0 0 6795
+M 0 H 0
+C 0
+S
+#6797
+{yA path in the {rRed {GForest{x~
+{YDeeper into the forest.{x
+~
+0 8192 4
+D0
+~
+~
+0 0 6798
+D2
+~
+~
+0 0 6796
+M 0 H 0
+C 0
+S
+#6798
+{DEntrance to a huge cave{x~
+{YYou find yourself at a entrance to a huge cave.{x
+{YWhat could be inside?{x
+~
+0 8196 4
+D0
+~
+~
+0 0 6757
+D2
+~
+~
+0 0 6797
+C 0
+S
+#6799
+{DA huge cave{x~
+{YYou have entered the home of the king of the realm.{x
+{YThere is a large chest sitting on the floor filled with the kings treasures.{x
+~
+0 8200 4
+D2
+~
+~
+0 0 6757
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 6700 spec_breath_any
+M 6708 spec_breath_any
+M 6712 spec_breath_fire
+M 6713 spec_breath_frost
+M 6715 spec_breath_gas
+M 6717 spec_breath_lightning
+M 6721 spec_breath_acid
+M 6723 spec_breath_fire
+M 6725 spec_breath_acid
+M 6727 spec_breath_fire
+M 6729 spec_breath_fire
+M 6731 spec_breath_fire
+M 6733 spec_breath_fire
+M 6735 spec_breath_fire
+M 6737 spec_breath_any
+M 6739 spec_breath_frost
+M 6742 spec_breath_any
+M 6758 spec_breath_fire
+M 6760 spec_poison
+M 6792 spec_breath_acid
+M 6796 spec_poison
+M 6798 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 6704 1 2
+D 0 6783 3 2
+M 0 6747 50 6700 1
+M 0 6747 50 6700 1
+M 0 6747 50 6702 1
+M 0 6706 2 6703 1
+M 0 6706 2 6706 1
+G 0 6797 0
+M 0 6747 50 6707 1
+M 0 6747 50 6707 1
+M 0 6747 50 6707 1
+M 0 6747 50 6707 1
+M 0 6708 1 6708 1
+E 0 6708 0 18
+G 0 6709 0
+G 0 6704 0
+M 0 6747 50 6709 1
+M 0 6747 50 6709 1
+M 0 6747 50 6709 1
+M 0 6747 50 6709 1
+M 0 6706 1 6711 1
+M 0 6712 1 6712 1
+G 0 6712 0
+G 0 6705 0
+M 0 6713 1 6713 1
+G 0 6756 0
+E 0 6714 0 6
+G 0 6713 0
+M 0 6747 50 6713 1
+M 0 6747 50 6713 1
+M 0 6747 50 6713 1
+M 0 6747 50 6713 1
+M 0 6715 1 6715 1
+E 0 6716 0 3
+G 0 6715 0
+G 0 6755 0
+M 0 6747 50 6716 1
+M 0 6747 50 6716 1
+M 0 6747 50 6716 1
+M 0 6747 50 6716 1
+M 0 6717 1 6717 1
+E 0 6717 0 16
+E 0 6718 0 12
+M 0 6706 1 6719 1
+M 0 6747 50 6720 1
+M 0 6747 50 6720 1
+M 0 6747 50 6720 1
+M 0 6747 50 6720 1
+M 0 6721 1 6721 1
+E 0 6722 0 7
+G 0 6721 0
+G 0 6747 0
+M 0 6723 1 6723 1
+E 0 6724 0 13
+G 0 6723 0
+G 0 6749 0
+M 0 6747 50 6724 1
+M 0 6747 50 6724 1
+M 0 6747 50 6724 1
+M 0 6747 50 6724 1
+M 0 6725 1 6725 1
+E 0 6726 0 12
+G 0 6725 0
+G 0 6707 0
+M 0 6727 1 6727 1
+E 0 6728 0 2
+G 0 6727 0
+G 0 6710 0
+M 0 6747 1 6727 1
+M 0 6747 50 6727 1
+M 0 6747 50 6727 1
+M 0 6747 50 6727 1
+M 0 6747 50 6727 1
+M 0 6729 1 6729 1
+E 0 6730 0 2
+G 0 6729 0
+G 0 6711 0
+M 0 6747 50 6730 1
+M 0 6747 50 6730 1
+M 0 6747 50 6730 1
+M 0 6747 50 6730 1
+M 0 6731 1 6731 1
+E 0 6732 0 15
+G 0 6731 0
+G 0 6744 0
+M 0 6733 1 6733 1
+G 0 6733 0
+E 0 6734 0 18
+G 0 6745 0
+M 0 6735 1 6735 1
+E 0 6736 0 8
+G 0 6735 0
+G 0 6746 0
+M 0 6737 1 6737 1
+E 0 6738 0 11
+G 0 6737 0
+G 0 6719 0
+M 0 6739 1 6739 1
+E 0 6739 0 9
+G 0 6740 0
+G 0 6748 0
+M 0 6742 1 6742 1
+G 0 6742 0
+G 0 6754 0
+G 0 6720 0
+M 0 6758 1 6758 1
+E 0 6758 0 6
+G 0 6759 0
+G 0 6774 0
+M 0 6759 20 6759 1
+M 0 6759 20 6760 1
+M 0 6759 20 6761 1
+M 0 6759 20 6762 1
+M 0 6759 20 6763 1
+M 0 6759 20 6764 1
+M 0 6759 20 6765 1
+M 0 6759 20 6766 1
+M 0 6759 20 6771 1
+M 0 6760 3 6774 1
+G 0 6700 0
+M 0 6759 20 6775 1
+M 0 6759 20 6777 1
+M 0 6760 3 6778 1
+G 0 6700 0
+M 0 6759 20 6779 1
+M 0 6760 3 6782 1
+G 0 6700 0
+M 0 6701 1 6783 1
+G 0 6779 0
+G 0 6778 0
+G 0 6777 0
+G 0 6776 0
+M 0 6702 1 6784 1
+G 0 6700 0
+M 0 6747 50 6790 1
+M 0 6747 50 6790 1
+M 0 6747 50 6790 1
+M 0 6747 50 6790 1
+M 0 6792 1 6792 1
+G 0 6741 0
+G 0 6743 0
+M 0 6747 50 6795 1
+M 0 6747 50 6795 1
+M 0 6747 50 6795 1
+M 0 6747 50 6795 1
+M 0 6747 50 6795 1
+M 0 6796 1 6796 1
+G 0 6796 0
+M 0 6798 2 6798 2
+E 0 6799 0 10
+M 0 6798 2 6798 2
+G 0 6798 0
+P 0 6752 0 6750 1
+P 0 6752 0 6750 1
+P 0 6752 0 6750 1
+P 0 6752 0 6750 1
+P 0 6752 0 6750 1
+M 0 6747 50 6799 1
+M 0 6700 1 6799 1
+G 0 6701 0
+G 0 6773 0
+G 0 6702 0
+G 0 6703 0
+G 0 6751 0
+O 0 6750 0 6799
+P 0 6753 1 6750 1
+P 0 6752 3 6750 1
+S
+
+
+
+#SHOPS
+6701 34 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

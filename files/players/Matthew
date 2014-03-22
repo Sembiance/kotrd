@@ -1,0 +1,263 @@
+#PLAYER
+Name Matthew~
+Id   1087399254
+LogO 1097685548
+Vers 5
+Desc Matthew is a beautifully vested knight of Eastern Orthodoxy. He is a Protector and Defender of Orthodoxy.
+~
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Seraph~
+Sex  1
+Cla  6
+OCla -1
+Levl 17
+OldLvl 17
+Sec  0
+Spou Stasya~
+Plyd 174480
+Not  1092500052 1092534010 1091759724 0
+Scro 33
+Room 3001
+HMV  319 319 174 174 89 171
+Gold 0
+Silv 0
+Gold_bank 12417
+Silv_bank 58
+Shares 0
+Share_level 17
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  111974
+QuestPnts 82
+PAct  CDEFGIQTd
+AfBy FT
+Empower  0
+WName Matthew~
+Comm INO
+Deaf 0
+Pos  8
+Trai 1
+Alig  1000
+Hit   22
+Dam   13
+ACs -9 28 28 92
+Wimp  66
+Attr 21 19 20 15 20
+AMod 1 1 5 1 1
+Pass MakSQz3p4zNwI~
+Titl  The Protector and Defender of Orthodoxy~
+Pnts 92
+TSex 1
+PSize 2
+LLev 32
+HMVP 269 154 196
+Cnd  0 0 0 0
+Sk 88 'cure light'
+Sk 72 'bless'
+Sk 76 'cure serious'
+Sk 77 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 1 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 91 'sword'
+Sk 1 'disarm'
+Sk 23 'enhanced damage'
+Sk 91 'kick'
+Sk 78 'dodge'
+Sk 1 'parry'
+Sk 76 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 79 'meditation'
+Sk 12 'scrolls'
+Sk 50 'recall'
+Sk 1 'critical strike'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Gr 'paladin spells'
+End
+
+#O
+Vnum 4235
+Nest 0
+Cond 0
+Wear 4
+Cost 1510
+End
+
+#O
+Vnum 4237
+Nest 0
+Cond 0
+Wear 6
+Cost 1150
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4243
+Nest 0
+Cond 0
+Wear 9
+Cost 950
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 7715
+Nest 0
+Cond 0
+Wear 5
+Cost 2100
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+Val  200 72 0 0 0
+End
+
+#O
+Vnum 1616
+Nest 0
+Cond 0
+Wear 3
+Cost 100
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear 11
+Cost 1210
+End
+
+#O
+Vnum 13202
+Nest 0
+Cond 0
+Wear 15
+Cost 500
+End
+
+#O
+Vnum 13205
+Nest 0
+Cond 0
+Wear 14
+Cost 500
+End
+
+#O
+Vnum 13204
+Nest 0
+Cond 0
+Wear 2
+Cost 500
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 0
+Wear 1
+Cost 10000
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  1
+Cost 250
+Affc 'enchant weapon'   0  90  -1  22  18          0
+Affc 'enchant weapon'   1  90  -1  13  19          0
+End
+
+#O
+Vnum 5232
+Nest 0
+Cond 0
+Wear 18
+Cost 550
+End
+
+#O
+Vnum 25119
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 25118
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#END

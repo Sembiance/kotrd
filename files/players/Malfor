@@ -1,0 +1,77 @@
+#PLAYER
+Name Malfor~
+Id   1140948128
+LogO 1140951731
+Vers 5
+Prom <%h/%Hhp %m/%Mm %v/%Vmv %Xtnl %Kmob hp> ~
+Race Draconian~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 3580
+Scro 33
+Room 3001
+HMV  48 48 104 104 112 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  5176
+PAct  CDEFGQTd
+AfBy JT
+WName Malfor~
+Comm MNO
+RaceChan 0
+Deaf DP
+Pos  5
+Save  -31
+Alig  -1000
+Hit   62
+ACs 80 80 80 80
+Attr 21 17 14 10 18
+AMod 0 0 0 0 0
+Pass Ma7MBWEOhPxM6~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 54
+TSex 1
+PSize 3
+LLev 0
+HMVP 48 104 112
+Cnd  0 0 0 18
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 100 'bacid'
+Sk 75 'sword'
+Sk 1 'backstab'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 54 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Gr 'antipaladin default'
+Affc 'armor'   0 247  81 -20  17          0
+Affc 'bless'   0 250 118  62  18          0
+Affc 'bless'   0 248 118 -31  20          0
+End
+
+#END

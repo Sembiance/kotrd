@@ -1,0 +1,77 @@
+#PLAYER
+Name Zamir~
+Id   1159275747
+LogO 1159784269
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 10983
+Scro 33
+Room 3054
+HMV  41 41 105 105 112 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  5188
+PAct  QTd
+AfBy JT
+WName Zamir~
+Comm NO
+RaceChan D
+Deaf DP
+Pos  5
+Prac 3
+Save  -31
+Alig  -1000
+Hit   62
+ACs 80 80 80 80
+Attr 21 12 12 15 14
+AMod 0 0 0 0 0
+Pass ZaJgS3ahqGVqI~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 54
+TSex 1
+PSize 3
+LLev 1
+HMVP 41 105 112
+Cnd  0 0 0 0
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 100 'bgas'
+Sk 75 'dagger'
+Sk 1 'assassinate'
+Sk 1 'bash'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'envenom'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'assassin default'
+Affc 'bless'   0 247 113 -31  20          0
+Affc 'bless'   0 247 113  62  18          0
+Affc 'armor'   0 247  78 -20  17          0
+End
+
+#END

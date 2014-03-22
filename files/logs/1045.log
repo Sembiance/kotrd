@@ -1,0 +1,152 @@
+Fri Mar 16 13:46:07 2007 :: ROM is ready to rock on port 5000.
+New_descriptor: getpeername: Transport endpoint is not connected
+New_descriptor: getpeername: Transport endpoint is not connected
+Read_from_descriptor: Connection reset by peer
+New_descriptor: getpeername: Transport endpoint is not connected
+Write_to_descriptor: Connection reset by peer
+Fri Mar 16 13:46:38 2007 :: Sock.sinaddr:  68.222.234.81
+Write_to_descriptor: Connection reset by peer
+Fri Mar 16 13:46:41 2007 :: Loading Lydia.
+Fri Mar 16 13:46:41 2007 :: Lydia@adsl-068-222-234-081.sip.cae.bellsouth.net has connected.
+Fri Mar 16 13:46:45 2007 :: Lydia has quit.
+Fri Mar 16 21:49:21 2007 :: Sock.sinaddr:  67.19.238.52
+Fri Mar 16 21:49:21 2007 :: EOF encountered on read.
+Fri Mar 16 23:15:00 2007 :: Sock.sinaddr:  71.176.158.45
+Fri Mar 16 23:15:00 2007 :: Loading Crovax.
+Fri Mar 16 23:15:00 2007 :: Crovax@pool-71-176-158-45.hgrtmd.east.verizon.net has connected.
+Fri Mar 16 23:16:39 2007 :: Crovax has quit.
+Sat Mar 17 02:18:55 2007 :: Sock.sinaddr:  204.209.44.14
+Sat Mar 17 02:18:55 2007 :: EOF encountered on read.
+Sat Mar 17 05:13:28 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 17 05:13:31 2007 :: EOF encountered on read.
+Sat Mar 17 07:00:49 2007 :: Sock.sinaddr:  67.162.125.224
+Sat Mar 17 07:00:53 2007 :: Loading Lenneth.
+Sat Mar 17 07:00:54 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net has connected.
+Sat Mar 17 07:16:43 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Sat Mar 17 07:16:43 2007 :: Lenneth has quit.
+Sat Mar 17 14:04:43 2007 :: Sock.sinaddr:  67.19.185.236
+Sat Mar 17 14:04:47 2007 :: Loading Sembiance.
+Sat Mar 17 14:04:48 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Sat Mar 17 14:05:09 2007 :: Sembiance has quit.
+Sat Mar 17 21:27:00 2007 :: Sock.sinaddr:  71.176.133.128
+Sat Mar 17 21:27:01 2007 :: Loading Crovax.
+Sat Mar 17 21:27:01 2007 :: Crovax@pool-71-176-133-128.hag.east.verizon.net has connected.
+Sat Mar 17 21:27:06 2007 :: Crovax has quit.
+Sat Mar 17 21:48:56 2007 :: Sock.sinaddr:  67.19.238.52
+Sat Mar 17 21:48:57 2007 :: EOF encountered on read.
+Sun Mar 18 02:18:57 2007 :: Sock.sinaddr:  204.209.44.14
+Sun Mar 18 02:18:57 2007 :: EOF encountered on read.
+Sun Mar 18 18:09:40 2007 :: Sock.sinaddr:  70.177.226.42
+Sun Mar 18 18:09:44 2007 :: Loading Rinaldus.
+Sun Mar 18 18:09:45 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Sun Mar 18 18:21:21 2007 :: Rinaldus has quit.
+Sun Mar 18 21:48:37 2007 :: Sock.sinaddr:  67.19.238.52
+Sun Mar 18 21:48:37 2007 :: EOF encountered on read.
+Sun Mar 18 23:13:59 2007 :: Sock.sinaddr:  71.199.65.187
+Sun Mar 18 23:16:41 2007 :: Nightfall@c-71-199-65-187.hsd1.ma.comcast.net new player.
+Sun Mar 18 23:17:24 2007 :: EOF encountered on read.
+Sun Mar 18 23:17:24 2007 :: Closing link to Nightfall.
+Sun Mar 18 23:17:30 2007 :: Sock.sinaddr:  71.199.65.187
+Sun Mar 18 23:19:16 2007 :: Nightfall@c-71-199-65-187.hsd1.ks.comcast.net new player.
+Sun Mar 18 23:34:50 2007 :: Nightfall killed by the lost newbie at 18645
+Sun Mar 18 23:35:17 2007 :: Nightfall has quit.
+Mon Mar 19 02:19:41 2007 :: Sock.sinaddr:  204.209.44.14
+Mon Mar 19 02:19:41 2007 :: EOF encountered on read.
+Mon Mar 19 07:56:13 2007 :: Sock.sinaddr:  67.162.125.224
+Mon Mar 19 07:56:20 2007 :: Loading Lenneth.
+Mon Mar 19 07:56:22 2007 :: Lenneth@c-67-162-125-224.hsd1.il.comcast.net has connected.
+Mon Mar 19 08:03:01 2007 :: EOF encountered on read.
+Mon Mar 19 08:03:01 2007 :: Closing link to Lenneth.
+Mon Mar 19 08:17:38 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Lenneth RVNUM: ] ref A009
+Mon Mar 19 08:17:38 2007 :: Lenneth has quit.
+Mon Mar 19 14:08:21 2007 :: Sock.sinaddr:  70.177.226.42
+Mon Mar 19 14:08:26 2007 :: Loading Rinaldus.
+Mon Mar 19 14:08:27 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Mon Mar 19 14:08:47 2007 :: Rinaldus has quit.
+Mon Mar 19 18:06:10 2007 :: Sock.sinaddr:  70.177.226.42
+Mon Mar 19 18:06:14 2007 :: Loading Rinaldus.
+Mon Mar 19 18:06:14 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Read_from_descriptor: Connection reset by peer
+Mon Mar 19 18:32:46 2007 :: Closing link to Rinaldus.
+Mon Mar 19 18:33:31 2007 :: Sock.sinaddr:  70.177.226.42
+Mon Mar 19 18:33:46 2007 :: EOF encountered on read.
+Mon Mar 19 18:48:27 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Rinaldus RVNUM: ] ref A009
+Mon Mar 19 18:48:27 2007 :: Rinaldus has quit.
+Mon Mar 19 21:51:11 2007 :: Sock.sinaddr:  67.19.238.52
+Mon Mar 19 21:51:12 2007 :: EOF encountered on read.
+Tue Mar 20 02:21:35 2007 :: Sock.sinaddr:  204.209.44.14
+Tue Mar 20 02:21:36 2007 :: EOF encountered on read.
+Tue Mar 20 15:45:47 2007 :: Sock.sinaddr:  71.176.160.40
+Tue Mar 20 15:45:47 2007 :: Loading Crovax.
+Tue Mar 20 15:45:48 2007 :: Crovax@pool-71-176-160-40.hgrtmd.east.verizon.net has connected.
+Tue Mar 20 16:00:57 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Crovax RVNUM: ] ref A009
+Tue Mar 20 16:00:57 2007 :: Crovax has quit.
+Tue Mar 20 16:55:13 2007 :: Sock.sinaddr:  70.177.226.42
+Tue Mar 20 16:55:16 2007 :: Loading Rinaldus.
+Tue Mar 20 16:55:17 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Tue Mar 20 16:55:23 2007 :: Rinaldus has quit.
+Tue Mar 20 21:52:08 2007 :: Sock.sinaddr:  67.19.238.52
+Tue Mar 20 21:52:09 2007 :: EOF encountered on read.
+Wed Mar 21 02:22:28 2007 :: Sock.sinaddr:  204.209.44.14
+Wed Mar 21 02:22:28 2007 :: EOF encountered on read.
+Wed Mar 21 03:56:42 2007 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 4638 RVNUM: ] ref A009
+Wed Mar 21 15:44:00 2007 :: Sock.sinaddr:  24.94.106.215
+Wed Mar 21 15:47:54 2007 :: Obilesk@215-106.94-24.tampabay.res.rr.com new player.
+Wed Mar 21 15:55:57 2007 :: Log Obilesk: delete
+Wed Mar 21 15:56:00 2007 :: Log Obilesk: delete
+Wed Mar 21 15:56:00 2007 :: Obilesk has quit.
+Wed Mar 21 15:57:45 2007 :: Sock.sinaddr:  70.177.226.42
+Wed Mar 21 15:57:49 2007 :: Loading Rinaldus.
+Wed Mar 21 15:57:52 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Wed Mar 21 15:58:15 2007 :: Rinaldus has quit.
+Wed Mar 21 21:49:54 2007 :: Sock.sinaddr:  75.23.46.251
+Wed Mar 21 21:50:26 2007 :: Sock.sinaddr:  67.19.238.52
+Wed Mar 21 21:50:26 2007 :: EOF encountered on read.
+Wed Mar 21 21:52:34 2007 :: Zanaomina@adsl-75-23-46-251.dsl.lgvwtx.sbcglobal.net new player.
+Wed Mar 21 21:54:29 2007 :: Log Zanaomina: delete
+Wed Mar 21 21:54:30 2007 :: Log Zanaomina: delete
+Wed Mar 21 21:54:30 2007 :: Zanaomina has quit.
+Thu Mar 22 02:20:45 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar 22 02:20:45 2007 :: EOF encountered on read.
+Thu Mar 22 09:49:47 2007 :: Sock.sinaddr:  204.209.44.14
+Thu Mar 22 09:50:07 2007 :: Sock.sinaddr:  128.210.40.144
+Thu Mar 22 09:50:14 2007 :: Loading Myserie.
+Thu Mar 22 09:50:19 2007 :: Myserie@enad302pc22.ics.purdue.edu has connected.
+Thu Mar 22 09:52:00 2007 :: EOF encountered on read.
+Thu Mar 22 09:52:00 2007 :: Closing link to Myserie.
+Thu Mar 22 14:39:11 2007 :: Sock.sinaddr:  70.177.226.42
+Thu Mar 22 14:39:17 2007 :: Loading Rinaldus.
+Thu Mar 22 14:39:19 2007 :: Rinaldus@ip70-177-226-42.hr.hr.cox.net has connected.
+Thu Mar 22 14:39:36 2007 :: Rinaldus has quit.
+Thu Mar 22 15:30:16 2007 :: Sock.sinaddr:  217.44.16.72
+Thu Mar 22 15:30:31 2007 :: Loading Mara.
+Thu Mar 22 15:30:34 2007 :: Mara@host217-44-16-72.range217-44.btcentralplus.com has connected.
+Thu Mar 22 15:36:22 2007 :: Mara killed by The factory worker at 9420
+Thu Mar 22 15:37:46 2007 :: Mara has quit.
+Thu Mar 22 17:43:07 2007 :: Sock.sinaddr:  67.19.185.236
+Thu Mar 22 17:43:09 2007 :: Loading Sembiance.
+Thu Mar 22 17:43:10 2007 :: Sembiance@ec.b9.1343.static.theplanet.com has connected.
+Thu Mar 22 18:19:08 2007 :: Sock.sinaddr:  63.229.132.54
+Thu Mar 22 18:19:24 2007 :: Loading Hatchet.
+Thu Mar 22 18:19:24 2007 :: [*****] BUG: Fread_char: No FMatch
+Thu Mar 22 18:19:26 2007 :: Hatchet@63-229-132-54.ptld.qwest.net has connected.
+Thu Mar 22 18:19:30 2007 :: Hatchet has quit.
+Thu Mar 22 18:46:10 2007 :: Sock.sinaddr:  70.155.174.218
+Thu Mar 22 18:46:13 2007 :: Loading Lydia.
+Thu Mar 22 18:46:13 2007 :: Lydia@adsl-070-155-174-218.sip.cae.bellsouth.net has connected.
+Thu Mar 22 18:47:41 2007 :: Lydia has quit.
+Thu Mar 22 19:56:42 2007 :: Sock.sinaddr:  67.19.185.236
+Thu Mar 22 19:56:45 2007 :: Loading Sembiance.
+Thu Mar 22 19:56:48 2007 :: Closing link to Sembiance.
+Thu Mar 22 19:56:48 2007 :: Sembiance@ec.b9.1343.static.theplanet.com reconnected.
+Thu Mar 22 19:56:52 2007 :: Sembiance has quit.
+Thu Mar 22 21:50:35 2007 :: Sock.sinaddr:  67.19.238.52
+Thu Mar 22 21:50:36 2007 :: EOF encountered on read.
+Thu Mar 22 22:33:12 2007 :: Sock.sinaddr:  69.247.79.124
+Thu Mar 22 22:33:16 2007 :: Loading Spatula.
+Thu Mar 22 22:33:20 2007 :: Spatula@c-69-247-79-124.hsd1.nm.comcast.net has connected.
+Read_from_descriptor: Connection reset by peer
+Thu Mar 22 22:36:10 2007 :: Closing link to Spatula.
+Thu Mar 22 22:36:14 2007 :: Sock.sinaddr:  69.247.79.124
+Thu Mar 22 22:36:17 2007 :: Loading Stumpy.
+Thu Mar 22 22:36:20 2007 :: Stumpy@c-69-247-79-124.hsd1.nm.comcast.net has connected.

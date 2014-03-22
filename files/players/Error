@@ -1,0 +1,72 @@
+#PLAYER
+Name Error~
+Id   1093501633
+LogO 1096427233
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Inccubus~
+Sex  1
+Cla  7
+OCla -1
+Levl 3
+OldLvl 3
+Sec  0
+Plyd 1269
+Not  1094435953 0 0 0
+Scro 33
+Room 3701
+HMV  47 47 104 104 32 112
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 3
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  8009
+PAct  DFQTd
+AfBy TV
+Empower  0
+WName Error~
+Comm NO
+Deaf DP
+Pos  8
+Prac 6
+Trai 5
+Alig  -1000
+ACs 80 80 80 80
+Wimp  4
+Attr 20 9 12 14 15
+AMod 0 0 0 0 0
+Pass ErC8cmM7n6EyU~
+Titl  dar not to touch~
+Pnts 65
+TSex 1
+PSize 2
+LLev 0
+HMVP 47 104 112
+Cnd  0 16 32 32
+Sk 1 'charm person'
+Sk 1 'flamestrike'
+Sk 1 'sword'
+Sk 40 'axe'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+Affc 'armor'   0 248  86 -20  17          0
+End
+
+#END

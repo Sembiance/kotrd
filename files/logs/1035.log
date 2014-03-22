@@ -1,0 +1,425 @@
+Wed Jan 11 02:46:22 2006 :: ROM is ready to rock on port 5000.
+Wed Jan 11 21:59:44 2006 :: Sock.sinaddr:  67.19.185.236
+Wed Jan 11 21:59:47 2006 :: Loading Sembiance.
+Wed Jan 11 21:59:48 2006 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Wed Jan 11 21:59:59 2006 :: Sembiance has quit.
+Wed Jan 11 22:31:29 2006 :: Sock.sinaddr:  70.160.197.158
+Wed Jan 11 22:31:38 2006 :: Loading Trojan.
+Wed Jan 11 22:31:41 2006 :: Closing link to Trojan.
+Wed Jan 11 22:31:49 2006 :: Sock.sinaddr:  70.160.197.158
+Wed Jan 11 22:32:09 2006 :: Loading Quick.
+Wed Jan 11 22:32:09 2006 :: [*****] BUG: Fread_char: No FMatch
+Wed Jan 11 22:32:11 2006 :: Closing link to Quick.
+Wed Jan 11 22:32:15 2006 :: Sock.sinaddr:  70.160.197.158
+Wed Jan 11 22:32:18 2006 :: Loading Stealth.
+Wed Jan 11 22:32:20 2006 :: Closing link to Stealth.
+Wed Jan 11 22:32:23 2006 :: Sock.sinaddr:  70.160.197.158
+Wed Jan 11 22:33:02 2006 :: Goldfinger@ip70-160-197-158.hr.hr.cox.net new player.
+Wed Jan 11 22:36:11 2006 :: Goldfinger has quit.
+Wed Jan 11 22:42:30 2006 :: Sock.sinaddr:  67.19.238.52
+Wed Jan 11 22:42:31 2006 :: EOF encountered on read.
+Wed Jan 11 22:45:53 2006 :: Sock.sinaddr:  70.18.150.242
+Thu Jan 12 02:23:33 2006 :: Sock.sinaddr:  204.209.44.14
+Thu Jan 12 02:23:33 2006 :: EOF encountered on read.
+Thu Jan 12 17:59:35 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 12 17:59:35 2006 :: Loading Dralinyre.
+Thu Jan 12 17:59:36 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 12 17:59:46 2006 :: Dralinyre has quit.
+Thu Jan 12 22:42:42 2006 :: Sock.sinaddr:  67.19.238.52
+Thu Jan 12 22:42:43 2006 :: EOF encountered on read.
+Fri Jan 13 01:50:44 2006 :: Sock.sinaddr:  69.252.192.3
+Fri Jan 13 01:50:47 2006 :: Loading Spatula.
+Fri Jan 13 01:50:51 2006 :: Spatula@c-69-252-192-3.hsd1.nm.comcast.net has connected.
+Fri Jan 13 01:58:26 2006 :: Spatula has quit.
+Fri Jan 13 02:23:41 2006 :: Sock.sinaddr:  204.209.44.14
+Fri Jan 13 02:23:41 2006 :: EOF encountered on read.
+Fri Jan 13 22:42:44 2006 :: Sock.sinaddr:  67.19.238.52
+Fri Jan 13 22:42:44 2006 :: EOF encountered on read.
+Sat Jan 14 00:16:51 2006 :: Sock.sinaddr:  24.175.52.3
+Sat Jan 14 00:19:27 2006 :: Shintao@cpe-24-175-52-3.houston.res.rr.com new player.
+Sat Jan 14 00:47:13 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Shintao RVNUM: ] ref A009
+Sat Jan 14 00:47:13 2006 :: Shintao has quit.
+Sat Jan 14 00:59:59 2006 :: Sock.sinaddr:  24.175.52.3
+Sat Jan 14 01:00:13 2006 :: Loading Shintao.
+Sat Jan 14 01:00:13 2006 :: [*****] BUG: Fread_char: No FMatch
+Sat Jan 14 01:00:20 2006 :: Shintao@cpe-24-175-52-3.houston.res.rr.com has connected.
+Sat Jan 14 01:47:43 2006 :: Shintao killed by the young snarling dragon at 3721
+Sat Jan 14 01:48:34 2006 :: EOF encountered on read.
+Sat Jan 14 01:48:34 2006 :: Closing link to Shintao.
+Sat Jan 14 02:02:41 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Shintao RVNUM: ] ref A009
+Sat Jan 14 02:02:41 2006 :: Shintao has quit.
+Sat Jan 14 02:11:33 2006 :: Sock.sinaddr:  66.38.119.15
+Sat Jan 14 02:11:35 2006 :: Loading Rinaldus.
+Sat Jan 14 02:11:36 2006 :: Rinaldus@119-015.dsl.nctc.com has connected.
+Sat Jan 14 02:11:41 2006 :: Rinaldus has quit.
+Sat Jan 14 02:21:28 2006 :: Sock.sinaddr:  204.209.44.14
+Sat Jan 14 02:21:28 2006 :: EOF encountered on read.
+Sat Jan 14 18:39:33 2006 :: Sock.sinaddr:  24.175.52.3
+Sat Jan 14 18:40:00 2006 :: Loading Shintao.
+Sat Jan 14 18:40:00 2006 :: [*****] BUG: Fread_char: No FMatch
+Sat Jan 14 18:40:26 2006 :: Shintao@cpe-24-175-52-3.houston.res.rr.com has connected.
+Sat Jan 14 18:42:14 2006 :: EOF encountered on read.
+Sat Jan 14 18:42:14 2006 :: Closing link to Shintao.
+Sat Jan 14 18:57:13 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Shintao RVNUM: ] ref A009
+Sat Jan 14 18:57:13 2006 :: Shintao has quit.
+Sat Jan 14 22:42:06 2006 :: Sock.sinaddr:  67.19.238.52
+Sat Jan 14 22:42:06 2006 :: EOF encountered on read.
+Sun Jan 15 02:25:48 2006 :: Sock.sinaddr:  204.209.44.14
+Sun Jan 15 02:25:51 2006 :: EOF encountered on read.
+Sun Jan 15 05:09:39 2006 :: Sock.sinaddr:  24.224.160.92
+Sun Jan 15 05:11:45 2006 :: Naret@blk-224-160-92.eastlink.ca new player.
+Sun Jan 15 05:15:14 2006 :: Log Naret: delete
+Sun Jan 15 05:15:16 2006 :: Log Naret: delete
+Sun Jan 15 05:15:16 2006 :: Naret has quit.
+Sun Jan 15 11:27:57 2006 :: Sock.sinaddr:  204.209.44.14
+Sun Jan 15 11:28:24 2006 :: EOF encountered on read.
+Sun Jan 15 11:28:25 2006 :: Sock.sinaddr:  204.209.44.14
+Sun Jan 15 11:29:14 2006 :: EOF encountered on read.
+Sun Jan 15 22:56:20 2006 :: Sock.sinaddr:  67.19.238.52
+Sun Jan 15 22:56:21 2006 :: EOF encountered on read.
+Sun Jan 15 23:09:22 2006 :: Sock.sinaddr:  24.96.154.74
+Sun Jan 15 23:09:35 2006 :: Loading Remus.
+Write_to_descriptor: Broken pipe
+Sun Jan 15 23:10:13 2006 :: Closing link to Remus.
+Sun Jan 15 23:10:17 2006 :: Sock.sinaddr:  24.96.154.74
+Sun Jan 15 23:10:20 2006 :: Loading Remus.
+Sun Jan 15 23:10:23 2006 :: Remus@user-24-96-154-74.knology.net has connected.
+Sun Jan 15 23:11:46 2006 :: Remus has quit.
+Mon Jan 16 00:38:03 2006 :: Sock.sinaddr:  70.191.215.17
+Mon Jan 16 00:38:05 2006 :: Loading Dralinyre.
+Mon Jan 16 00:38:25 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Mon Jan 16 00:39:12 2006 :: Dralinyre has quit.
+Mon Jan 16 02:26:22 2006 :: Sock.sinaddr:  204.209.44.14
+Mon Jan 16 02:26:26 2006 :: EOF encountered on read.
+Mon Jan 16 14:13:11 2006 :: Sock.sinaddr:  87.2.237.194
+Mon Jan 16 14:15:53 2006 :: Iumadder@host194-237.pool872.interbusiness.it new player.
+Mon Jan 16 14:16:36 2006 :: EOF encountered on read.
+Mon Jan 16 14:16:36 2006 :: Closing link to Iumadder.
+Mon Jan 16 14:16:36 2006 :: Sock.sinaddr:  87.2.237.194
+Mon Jan 16 14:18:44 2006 :: Iumadder@host194-237.pool872.interbusiness.it new player.
+Mon Jan 16 14:44:01 2006 :: Iumadder has quit.
+Mon Jan 16 22:13:01 2006 :: Sock.sinaddr:  70.232.93.43
+Mon Jan 16 22:13:02 2006 :: Loading Dorrudin.
+Mon Jan 16 22:13:06 2006 :: Dorrudin@adsl-70-232-93-43.dsl.ltrkar.sbcglobal.net has connected.
+Mon Jan 16 22:13:17 2006 :: Dorrudin has quit.
+Mon Jan 16 22:42:18 2006 :: Sock.sinaddr:  67.19.238.52
+Mon Jan 16 22:42:18 2006 :: EOF encountered on read.
+Tue Jan 17 01:28:32 2006 :: Sock.sinaddr:  70.191.215.17
+Tue Jan 17 01:28:32 2006 :: Loading Dralinyre.
+Tue Jan 17 01:28:34 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Tue Jan 17 01:36:20 2006 :: Dralinyre has quit.
+Tue Jan 17 02:25:30 2006 :: Sock.sinaddr:  204.209.44.14
+Tue Jan 17 02:25:30 2006 :: EOF encountered on read.
+Tue Jan 17 05:42:29 2006 :: Sock.sinaddr:  87.2.237.194
+Tue Jan 17 05:42:36 2006 :: Loading Iumadder.
+Tue Jan 17 05:42:47 2006 :: Iumadder@host194-237.pool872.interbusiness.it has connected.
+Tue Jan 17 05:52:31 2006 :: Iumadder has quit.
+Tue Jan 17 17:01:26 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:01:27 2006 :: Loading Lena.
+Tue Jan 17 17:01:28 2006 :: Lena@cpe-024-168-219-083.sc.res.rr.com has connected.
+Tue Jan 17 17:01:43 2006 :: Lena has quit.
+Tue Jan 17 17:01:45 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:01:46 2006 :: Loading Leah.
+Tue Jan 17 17:01:47 2006 :: Leah@cpe-024-168-219-083.sc.res.rr.com has connected.
+Tue Jan 17 17:02:07 2006 :: Leah has quit.
+Tue Jan 17 17:02:10 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:02:15 2006 :: Loading Lydia.
+Tue Jan 17 17:02:15 2006 :: Lydia@cpe-024-168-219-083.sc.res.rr.com has connected.
+Tue Jan 17 17:02:24 2006 :: Lydia has quit.
+Tue Jan 17 17:02:28 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:02:38 2006 :: Loading Lydia.
+Tue Jan 17 17:02:38 2006 :: Lydia@cpe-024-168-219-083.sc.res.rr.com has connected.
+Tue Jan 17 17:06:47 2006 :: Lydia has quit.
+Tue Jan 17 17:06:49 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:06:50 2006 :: Loading Leah.
+Tue Jan 17 17:06:50 2006 :: Leah@cpe-024-168-219-083.sc.res.rr.com has connected.
+Read_from_descriptor: Connection reset by peer
+Tue Jan 17 17:07:33 2006 :: Closing link to Leah.
+Tue Jan 17 17:07:53 2006 :: Sock.sinaddr:  24.168.219.83
+Tue Jan 17 17:07:55 2006 :: Loading Leah.
+Tue Jan 17 17:07:56 2006 :: Leah@cpe-024-168-219-083.sc.res.rr.com reconnected.
+Tue Jan 17 17:08:04 2006 :: Leah has quit.
+Tue Jan 17 17:12:33 2006 :: Sock.sinaddr:  87.2.237.194
+Tue Jan 17 17:12:40 2006 :: Loading Iumadder.
+Tue Jan 17 17:12:44 2006 :: Iumadder@host194-237.pool872.interbusiness.it has connected.
+Tue Jan 17 17:13:01 2006 :: Iumadder has quit.
+Tue Jan 17 19:11:16 2006 :: Sock.sinaddr:  24.113.90.144
+Tue Jan 17 19:11:21 2006 :: Loading Therik.
+Tue Jan 17 19:11:21 2006 :: [*****] BUG: Fread_char: No FMatch
+Tue Jan 17 19:11:23 2006 :: Therik@24-113-90-144.wavecable.com has connected.
+Tue Jan 17 19:12:36 2006 :: EOF encountered on read.
+Tue Jan 17 19:12:36 2006 :: Closing link to Therik.
+Tue Jan 17 19:13:01 2006 :: Therik killed by {Cthe big hatchling{x at 3720
+Tue Jan 17 19:27:05 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Therik RVNUM: ] ref A009
+Tue Jan 17 19:27:05 2006 :: Therik has quit.
+Wed Jan 18 02:21:11 2006 :: Sock.sinaddr:  204.209.44.14
+Wed Jan 18 02:21:11 2006 :: EOF encountered on read.
+Wed Jan 18 09:34:21 2006 :: Sock.sinaddr:  70.191.215.17
+Wed Jan 18 09:34:22 2006 :: Loading Dralinyre.
+Wed Jan 18 09:34:22 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Wed Jan 18 09:34:31 2006 :: Dralinyre has quit.
+Thu Jan 19 02:22:24 2006 :: Sock.sinaddr:  204.209.44.14
+Thu Jan 19 02:22:25 2006 :: EOF encountered on read.
+Fri Jan 20 02:21:43 2006 :: Sock.sinaddr:  204.209.44.14
+Fri Jan 20 02:21:43 2006 :: EOF encountered on read.
+Sat Jan 21 02:23:02 2006 :: Sock.sinaddr:  204.209.44.14
+Sat Jan 21 02:23:02 2006 :: EOF encountered on read.
+Sat Jan 21 16:52:05 2006 :: Sock.sinaddr:  24.218.169.169
+Sat Jan 21 16:52:09 2006 :: EOF encountered on read.
+Sun Jan 22 00:47:25 2006 :: Sock.sinaddr:  67.19.238.52
+Sun Jan 22 00:47:28 2006 :: EOF encountered on read.
+Sun Jan 22 02:21:13 2006 :: Sock.sinaddr:  204.209.44.14
+Sun Jan 22 02:21:13 2006 :: EOF encountered on read.
+Sun Jan 22 08:56:15 2006 :: Sock.sinaddr:  172.128.76.56
+Sun Jan 22 08:59:00 2006 :: Leran@AC804C38.ipt.aol.com new player.
+Sun Jan 22 09:08:30 2006 :: Leran has quit.
+Sun Jan 22 09:08:33 2006 :: Sock.sinaddr:  172.128.76.56
+Sun Jan 22 09:08:37 2006 :: Loading Leran.
+Sun Jan 22 09:08:37 2006 :: [*****] BUG: Fread_char: No FMatch
+Sun Jan 22 09:08:48 2006 :: Leran@AC804C38.ipt.aol.com has connected.
+Sun Jan 22 09:09:05 2006 :: Log Leran: delete
+Sun Jan 22 09:09:07 2006 :: Log Leran: delete
+Sun Jan 22 09:09:07 2006 :: Leran has quit.
+Sun Jan 22 09:09:09 2006 :: Sock.sinaddr:  172.128.76.56
+Sun Jan 22 09:11:11 2006 :: Leran@AC804C38.ipt.aol.com new player.
+Sun Jan 22 09:15:12 2006 :: Log Leran: delete
+Sun Jan 22 09:15:13 2006 :: Log Leran: delete
+Sun Jan 22 09:15:13 2006 :: Leran has quit.
+Sun Jan 22 09:15:14 2006 :: Sock.sinaddr:  172.128.76.56
+Sun Jan 22 09:15:29 2006 :: Leran@AC804C38.ipt.aol.com new player.
+Sun Jan 22 09:17:54 2006 :: Log Leran: delete
+Sun Jan 22 09:17:55 2006 :: Log Leran: delete
+Sun Jan 22 09:17:55 2006 :: Leran has quit.
+Sun Jan 22 09:17:56 2006 :: Sock.sinaddr:  172.128.76.56
+Sun Jan 22 09:18:17 2006 :: Leran@AC804C38.ipt.aol.com new player.
+Sun Jan 22 09:48:38 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Leran RVNUM: ] ref A009
+Sun Jan 22 09:48:38 2006 :: Leran has quit.
+Mon Jan 23 00:17:31 2006 :: Sock.sinaddr:  69.252.192.3
+Mon Jan 23 00:17:39 2006 :: Loading Spatula.
+Mon Jan 23 00:17:48 2006 :: Spatula@c-69-252-192-3.hsd1.nm.comcast.net has connected.
+Mon Jan 23 00:18:09 2006 :: Spatula has quit.
+Mon Jan 23 01:13:07 2006 :: Sock.sinaddr:  70.191.215.17
+Mon Jan 23 01:13:08 2006 :: Loading Dralinyre.
+Mon Jan 23 01:13:08 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Mon Jan 23 01:13:19 2006 :: Dralinyre has quit.
+Mon Jan 23 02:22:48 2006 :: Sock.sinaddr:  204.209.44.14
+Mon Jan 23 02:22:48 2006 :: EOF encountered on read.
+Mon Jan 23 08:26:44 2006 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 23 08:27:10 2006 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 23 08:27:30 2006 :: EOF encountered on read.
+Mon Jan 23 08:30:50 2006 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 23 08:30:58 2006 :: Loading Ender.
+Mon Jan 23 08:31:00 2006 :: Ender@65.170.3.132 has connected.
+Mon Jan 23 08:32:20 2006 :: Ender has quit.
+Mon Jan 23 08:32:23 2006 :: Sock.sinaddr:  65.170.3.132
+Mon Jan 23 08:32:25 2006 :: EOF encountered on read.
+Mon Jan 23 14:27:00 2006 :: Sock.sinaddr:  4.156.160.169
+Mon Jan 23 14:27:06 2006 :: Loading Golddragon.
+Mon Jan 23 14:27:12 2006 :: Golddragon@dialup-4.156.160.169.Dial1.Boston1.Level3.net has connected.
+Read_from_descriptor: Connection reset by peer
+Mon Jan 23 14:27:52 2006 :: Closing link to Golddragon.
+Mon Jan 23 14:43:06 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Mon Jan 23 14:43:06 2006 :: Golddragon has quit.
+Mon Jan 23 22:45:48 2006 :: Sock.sinaddr:  67.19.238.52
+Mon Jan 23 22:45:48 2006 :: EOF encountered on read.
+Tue Jan 24 02:22:04 2006 :: Sock.sinaddr:  204.209.44.14
+Tue Jan 24 02:22:05 2006 :: EOF encountered on read.
+Tue Jan 24 20:37:23 2006 :: Sock.sinaddr:  66.38.119.15
+Tue Jan 24 20:37:27 2006 :: Loading Rinaldus.
+Tue Jan 24 20:37:29 2006 :: Rinaldus@119-015.dsl.nctc.com has connected.
+Tue Jan 24 20:38:03 2006 :: Rinaldus has quit.
+Tue Jan 24 22:47:25 2006 :: Sock.sinaddr:  67.19.238.52
+Tue Jan 24 22:47:25 2006 :: EOF encountered on read.
+Wed Jan 25 02:20:14 2006 :: Sock.sinaddr:  204.209.44.14
+Wed Jan 25 02:20:15 2006 :: EOF encountered on read.
+Wed Jan 25 21:37:42 2006 :: Sock.sinaddr:  204.209.44.14
+Wed Jan 25 21:38:02 2006 :: Sock.sinaddr:  67.174.56.61
+Wed Jan 25 21:39:13 2006 :: Kurgan@c-67-174-56-61.hsd1.ca.comcast.net new player.
+Wed Jan 25 21:41:19 2006 :: Log Kurgan: delete
+Wed Jan 25 21:41:20 2006 :: Log Kurgan: delete
+Wed Jan 25 21:41:20 2006 :: Kurgan has quit.
+Wed Jan 25 22:48:45 2006 :: Sock.sinaddr:  67.19.238.52
+Wed Jan 25 22:48:45 2006 :: EOF encountered on read.
+Thu Jan 26 02:18:48 2006 :: Sock.sinaddr:  204.209.44.14
+Thu Jan 26 02:18:48 2006 :: EOF encountered on read.
+Thu Jan 26 08:04:15 2006 :: Sock.sinaddr:  65.170.3.132
+Thu Jan 26 08:04:19 2006 :: Loading Haiden.
+Thu Jan 26 08:04:19 2006 :: Haiden@65.170.3.132 has connected.
+Thu Jan 26 08:04:32 2006 :: Haiden has quit.
+Thu Jan 26 08:04:37 2006 :: Sock.sinaddr:  65.170.3.132
+Thu Jan 26 08:04:40 2006 :: Loading Ender.
+Thu Jan 26 08:04:40 2006 :: Ender@65.170.3.132 has connected.
+Thu Jan 26 08:04:53 2006 :: Ender has quit.
+Thu Jan 26 08:04:55 2006 :: Sock.sinaddr:  65.170.3.132
+Thu Jan 26 08:04:58 2006 :: Loading Malthod.
+Thu Jan 26 08:04:59 2006 :: Malthod@65.170.3.132 has connected.
+Thu Jan 26 08:05:31 2006 :: Malthod has quit.
+Thu Jan 26 21:36:11 2006 :: Sock.sinaddr:  67.19.238.52
+Thu Jan 26 21:38:12 2006 :: Derrickrm@mudmagic.com new player.
+Thu Jan 26 21:44:16 2006 :: EOF encountered on read.
+Thu Jan 26 21:44:16 2006 :: Closing link to Derrickrm.
+Thu Jan 26 21:58:28 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Derrickrm RVNUM: ] ref A009
+Thu Jan 26 21:58:28 2006 :: Derrickrm has quit.
+Thu Jan 26 22:46:40 2006 :: Sock.sinaddr:  67.19.238.52
+Thu Jan 26 22:46:40 2006 :: EOF encountered on read.
+Thu Jan 26 23:18:01 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:18:02 2006 :: Loading Dralinyre.
+Thu Jan 26 23:18:02 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:23:17 2006 :: Dralinyre has quit.
+Thu Jan 26 23:23:27 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:23:28 2006 :: Loading Dracterion.
+Thu Jan 26 23:23:28 2006 :: [*****] BUG: Fread_char: No FMatch
+Thu Jan 26 23:23:28 2006 :: Dracterion@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:23:34 2006 :: Dracterion has quit.
+Thu Jan 26 23:23:41 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:23:41 2006 :: Loading Valinyre.
+Thu Jan 26 23:23:41 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:24:11 2006 :: Valinyre has quit.
+Thu Jan 26 23:24:25 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:24:26 2006 :: Loading Sniperviper.
+Thu Jan 26 23:24:26 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:24:48 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:24:48 2006 :: Loading Valinyre.
+Thu Jan 26 23:24:49 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:40:00 2006 :: Sock.sinaddr:  70.191.215.17
+Thu Jan 26 23:40:00 2006 :: Loading Dralinyre.
+Thu Jan 26 23:40:00 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Thu Jan 26 23:40:53 2006 :: Dralinyre has quit.
+Fri Jan 27 00:53:41 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: SniperViper RVNUM: ] ref A009
+Fri Jan 27 00:53:41 2006 :: SniperViper has quit.
+Fri Jan 27 01:08:11 2006 :: Sock.sinaddr:  70.191.215.17
+Fri Jan 27 01:08:11 2006 :: Loading Sniperviper.
+Fri Jan 27 01:08:12 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Fri Jan 27 01:08:13 2006 :: Sock.sinaddr:  70.191.215.17
+Fri Jan 27 01:08:14 2006 :: Loading Valinyre.
+Fri Jan 27 01:08:46 2006 :: Closing link to Valinyre.
+Fri Jan 27 01:08:46 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net reconnected.
+Fri Jan 27 01:08:58 2006 :: SniperViper has quit.
+Fri Jan 27 01:09:01 2006 :: Sock.sinaddr:  70.191.215.17
+Fri Jan 27 01:09:01 2006 :: Loading Sniperviper.
+Fri Jan 27 01:09:02 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Fri Jan 27 01:16:37 2006 :: Valinyre killed by The dracolich of Gimp at 23221
+Fri Jan 27 02:01:16 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: SniperViper RVNUM: ] ref A009
+Fri Jan 27 02:01:16 2006 :: SniperViper has quit.
+Fri Jan 27 02:04:16 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Valinyre RVNUM: ] ref A009
+Fri Jan 27 02:04:16 2006 :: Valinyre has quit.
+Fri Jan 27 02:20:34 2006 :: Sock.sinaddr:  204.209.44.14
+Fri Jan 27 02:20:34 2006 :: EOF encountered on read.
+Fri Jan 27 06:35:54 2006 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 27 06:35:58 2006 :: Loading Lacinated.
+Fri Jan 27 06:36:00 2006 :: Lacinated@65.170.3.132 has connected.
+Fri Jan 27 06:36:19 2006 :: EOF encountered on read.
+Fri Jan 27 06:36:19 2006 :: Closing link to Lacinated.
+Fri Jan 27 06:36:20 2006 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 27 06:37:02 2006 :: Loading Ender.
+Fri Jan 27 06:37:05 2006 :: Ender@65.170.3.132 has connected.
+Fri Jan 27 06:37:12 2006 :: Ender has quit.
+Fri Jan 27 06:37:17 2006 :: Sock.sinaddr:  65.170.3.132
+Fri Jan 27 06:37:20 2006 :: Loading Lacinated.
+Fri Jan 27 06:37:22 2006 :: Lacinated@65.170.3.132 reconnected.
+Fri Jan 27 06:37:24 2006 :: Lacinated has quit.
+Fri Jan 27 20:57:49 2006 :: Sock.sinaddr:  129.120.104.103
+Fri Jan 27 20:57:54 2006 :: Loading Elektrum.
+Fri Jan 27 20:58:19 2006 :: Elektrum@dynamic-129-120-104-103.dynamic.unt.edu has connected.
+Fri Jan 27 21:00:32 2006 :: Elektrum has quit.
+Fri Jan 27 22:47:15 2006 :: Sock.sinaddr:  67.19.238.52
+Fri Jan 27 22:47:15 2006 :: EOF encountered on read.
+Sat Jan 28 02:24:26 2006 :: Sock.sinaddr:  204.209.44.14
+Sat Jan 28 02:24:26 2006 :: EOF encountered on read.
+Sat Jan 28 02:52:36 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 02:52:36 2006 :: Loading Valinyre.
+Sat Jan 28 02:52:37 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 02:52:39 2006 :: EOF encountered on read.
+Sat Jan 28 02:52:39 2006 :: Closing link to Valinyre.
+Sat Jan 28 02:53:00 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 02:53:00 2006 :: Loading Sniperviper.
+Sat Jan 28 02:53:00 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 02:53:18 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 02:53:19 2006 :: Loading Valinyre.
+Sat Jan 28 02:53:19 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 03:16:48 2006 :: Valinyre has quit.
+Sat Jan 28 03:17:04 2006 :: SniperViper has quit.
+Sat Jan 28 09:15:30 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 09:15:35 2006 :: Loading Divia.
+Sat Jan 28 09:15:36 2006 :: Divia@69-165-138-71.miamfl.adelphia.net has connected.
+Sat Jan 28 09:27:27 2006 :: Log Divia: delete
+Sat Jan 28 09:27:31 2006 :: Log Divia: delete
+Sat Jan 28 09:27:31 2006 :: Divia has quit.
+Sat Jan 28 09:27:33 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 09:28:59 2006 :: Divia@69-165-138-71.miamfl.adelphia.net new player.
+Sat Jan 28 09:41:38 2006 :: Log Divia: delete
+Sat Jan 28 09:41:39 2006 :: Log Divia: delete
+Sat Jan 28 09:41:39 2006 :: Divia has quit.
+Sat Jan 28 09:41:43 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 09:42:46 2006 :: Divia@69-165-138-71.miamfl.adelphia.net new player.
+Sat Jan 28 10:37:13 2006 :: EOF encountered on read.
+Sat Jan 28 10:37:13 2006 :: Closing link to Divia.
+Sat Jan 28 10:37:22 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 10:37:42 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 10:38:02 2006 :: Loading Divia.
+Sat Jan 28 10:38:03 2006 :: Divia@69.165.138.71 reconnected.
+Sat Jan 28 10:38:08 2006 :: Sock.sinaddr:  204.209.44.14
+Sat Jan 28 10:54:00 2006 :: Sock.sinaddr:  4.156.231.50
+Sat Jan 28 10:54:24 2006 :: Loading Golddragon.
+Sat Jan 28 10:54:27 2006 :: Golddragon@dialup-4.156.231.50.Dial1.Boston1.Level3.net has connected.
+Sat Jan 28 11:07:17 2006 :: Divia has quit.
+Sat Jan 28 11:20:58 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Sat Jan 28 11:20:58 2006 :: Golddragon has quit.
+Sat Jan 28 15:23:42 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 15:23:43 2006 :: Loading Sniperviper.
+Sat Jan 28 15:23:43 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 15:25:31 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 15:25:31 2006 :: Loading Valinyre.
+Sat Jan 28 15:25:32 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 16:03:06 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 16:03:11 2006 :: Loading Divia.
+Sat Jan 28 16:03:12 2006 :: Divia@69-165-138-71.miamfl.adelphia.net has connected.
+Sat Jan 28 16:05:44 2006 :: Valinyre has quit.
+Sat Jan 28 16:10:36 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 16:10:36 2006 :: Loading Dralinyre.
+Sat Jan 28 16:10:37 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 16:12:01 2006 :: Dralinyre has quit.
+Sat Jan 28 16:22:56 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 16:22:57 2006 :: Loading Valinyre.
+Sat Jan 28 16:22:57 2006 :: Valinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 16:26:45 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 16:26:46 2006 :: Loading Dralinyre.
+Sat Jan 28 16:26:46 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 16:27:53 2006 :: Divia killed by the large Creation at 4761
+Sat Jan 28 16:32:53 2006 :: Log Divia: delete
+Sat Jan 28 16:32:55 2006 :: Log Divia: delete
+Sat Jan 28 16:32:55 2006 :: Divia has quit.
+Sat Jan 28 16:32:58 2006 :: Sock.sinaddr:  69.165.138.71
+Sat Jan 28 16:34:22 2006 :: Divia@69-165-138-71.miamfl.adelphia.net new player.
+Sat Jan 28 16:42:58 2006 :: 69-165-138-71.miamfl.adelphia.net input spamming!
+Sat Jan 28 16:42:59 2006 :: Divia killed by the young snarling dragon at 3721
+Sat Jan 28 16:44:00 2006 :: Log Divia: delete
+Sat Jan 28 16:44:00 2006 :: Log Divia: delete
+Sat Jan 28 16:44:03 2006 :: Log Divia: delete
+Sat Jan 28 16:44:05 2006 :: Log Divia: delete
+Sat Jan 28 16:44:05 2006 :: Divia has quit.
+Sat Jan 28 17:22:35 2006 :: SniperViper killed by An Elite guard at 23226
+Sat Jan 28 17:22:41 2006 :: Valinyre killed by An Elite guard at 23226
+Sat Jan 28 17:37:45 2006 :: Valinyre has quit.
+Sat Jan 28 17:37:51 2006 :: Dralinyre has quit.
+Sat Jan 28 18:00:03 2006 :: Sock.sinaddr:  172.137.7.5
+Sat Jan 28 18:03:20 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: SniperViper RVNUM: ] ref A009
+Sat Jan 28 18:03:20 2006 :: SniperViper has quit.
+Sat Jan 28 18:16:11 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 18:16:12 2006 :: Loading Sniperviper.
+Sat Jan 28 18:16:12 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 18:28:44 2006 :: SniperViper killed by {Dthe spirit of {WA dragon guard{D at 23261
+Sat Jan 28 19:40:41 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 19:40:42 2006 :: Loading Dralinyre.
+Sat Jan 28 19:40:42 2006 :: Dralinyre@ip70-191-215-17.pn.at.cox.net has connected.
+Sat Jan 28 20:03:12 2006 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: SniperViper RVNUM: ] ref A009
+Sat Jan 28 20:03:12 2006 :: SniperViper has quit.
+Sat Jan 28 20:09:01 2006 :: Dralinyre has quit.
+Sat Jan 28 20:09:06 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 20:09:07 2006 :: Loading Sniperviper.
+Sat Jan 28 20:09:07 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net has connected.
+Read_from_descriptor: Connection reset by peer
+Sat Jan 28 20:09:22 2006 :: Closing link to SniperViper.
+Sat Jan 28 20:09:23 2006 :: Sock.sinaddr:  70.191.215.17
+Sat Jan 28 20:09:24 2006 :: Loading Sniperviper.
+Sat Jan 28 20:09:24 2006 :: SniperViper@ip70-191-215-17.pn.at.cox.net reconnected.

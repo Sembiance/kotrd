@@ -1,0 +1,81 @@
+#PLAYER
+Name HypererViper~
+Id   1130385926
+LogO 1130387752
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 2
+OldLvl 2
+Sec  0
+Plyd 1826
+Scro 33
+Room 3054
+HMV  1 36 102 102 97 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3876
+PAct  EFGQTd
+AfBy JT
+WName HypererViper~
+Comm INO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 2
+Alig  -1000
+ACs 100 100 100 100
+Attr 24 11 14 11 17
+AMod 0 0 0 0 0
+Pass HySt53110kYug~
+Titl  Password Reset Desired On Old Name~
+Pnts 58
+TSex 1
+PSize 3
+LLev 0
+HMVP 36 102 106
+Cnd  0 0 18 0
+Boards       4 General 1130386610 Ideas 0 Announce 0 Personal 0 
+Sk 100 'blightning'
+Sk 75 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+End
+
+#END

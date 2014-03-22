@@ -1,0 +1,73 @@
+#PLAYER
+Name Magko~
+Id   1133128802
+LogO 1133130261
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Draconian~
+Sex  1
+Cla  7
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  2
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1459
+Scro 33
+Room 3054
+HMV  1 34 102 102 57 106
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 2
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1950
+PAct  CQTd
+AfBy JT
+WName Magko~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 2
+Trai 1
+Alig  -1000
+ACs 100 100 100 100
+Attr 24 14 11 10 16
+AMod 0 0 0 0 0
+Pass MaNc/i.uv1icg~
+Titl  {wthe {DA{wn{Wt{wi-{DP{wa{Wl{wa{Dd{wi{Wn~
+Pnts 59
+TSex 1
+PSize 3
+LLev 0
+HMVP 34 102 106
+Cnd  0 0 27 6
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'sword'
+Sk 1 'bash'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'antipaladin basics'
+End
+
+#END

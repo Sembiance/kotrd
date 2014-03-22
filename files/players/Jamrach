@@ -1,0 +1,529 @@
+#PLAYER
+Name Jamrach~
+Id   1127779157
+LogO 1140166734
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Sidhe Elf~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 4
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 96130
+Scro 33
+Room 3054
+HMV  8142 8142 4290 4290 6244 6244
+Gold 8743
+Silv 7148
+Gold_bank 77600
+Silv_bank 754000
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200121
+PAct  CDGHQTbcd
+AfBy DFHPUV
+WName Jamrach~
+Comm KMNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 262
+Trai 44
+Save  -160
+Alig  -990
+Hit   394
+Dam   369
+ACs -876 -874 -876 -876
+Wimp  20
+Attr 11 24 24 15 13
+AMod -4 9 3 17 11
+Pass JaPw7uX1tSbl2~
+Titl  lost in a dream~
+Pnts 40
+TSex 1
+PSize 2
+LLev 26
+HMVP 982 890 744
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'identify'
+Sk 75 'teleport'
+Sk 86 'word of recall'
+Sk 75 'apport'
+Sk 81 'combat mind'
+Sk 76 'adrenaline control'
+Sk 76 'enhanced strength'
+Sk 75 'aura sight'
+Sk 78 'awe'
+Sk 75 'thought shield'
+Sk 75 'psychic healing'
+Sk 76 'mental barrier'
+Sk 76 'share strength'
+Sk 75 'levitation'
+Sk 75 'obfuscate'
+Sk 75 'bio fortress'
+Sk 78 'cell adjustment'
+Sk 75 'displacement'
+Sk 77 'ectoplasmic form'
+Sk 75 'lend health'
+Sk 75 'complete healing'
+Sk 77 'energy containment'
+Sk 75 'enhance armor'
+Sk 75 'flesh armor'
+Sk 75 'inertial barrier'
+Sk 75 'domination'
+Sk 82 'disintegrate'
+Sk 1 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 1 'control flames'
+Sk 83 'death field'
+Sk 1 'detonate'
+Sk 1 'ego whip'
+Sk 1 'inflict pain'
+Sk 1 'mind thrust'
+Sk 1 'project force'
+Sk 83 'psionic blast'
+Sk 1 'psychic crush'
+Sk 1 'psychic drain'
+Sk 76 'ultrablast'
+Sk 75 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 100 'assassinate'
+Sk 75 'dirt kicking'
+Sk 82 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 100 'kick'
+Sk 99 'dodge'
+Sk 100 'parry'
+Sk 75 'shield block'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 99 'third attack'
+Sk 1 'envenom'
+Sk 81 'fast healing'
+Sk 76 'haggle'
+Sk 76 'hide'
+Sk 83 'meditation'
+Sk 75 'pick lock'
+Sk 80 'sneak'
+Sk 75 'scrolls'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 1 'spellcraft'
+Sk 75 'heighten senses'
+Sk 76 'chameleon power'
+Sk 1 'metamorph'
+Sk 75 'shadow form'
+Gr 'rom basics'
+Gr 'psionic basics'
+Gr 'assassin basics'
+Gr 'psionic default'
+Gr 'assassin default'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Affc 'enhanced strength'   0  79   2  14   1          0
+Affc 'displacement'   0  76  13 -91  17          0
+Affc 'displacement'   0  79  13  11   2          0
+Affc 'flesh armor'   0  76  22 -20  17          0
+Affc 'flesh armor'   3  81  22   0   0         32
+Affc 'flesh armor'   3  85  22   0   0         64
+Affc 'share strength'   0  86  33  -7   1          0
+Affc 'share strength'   0  79  35  -7   1          0
+Affc 'share strength'   0  86  36  -7   1          0
+Affc 'energy containment'   0  93  35 -48  20          0
+Affc 'energy containment'   3  91  19   0   0      16384
+Affc 'energy containment'   3  92  19   0   0        512
+Affc 'bio fortress'   0  94   4   0   0        128
+Affc 'combat mind'   0  89   4  19  18          0
+Affc 'combat mind'   0  92   4 -53  17          0
+Affc 'combat mind'   0  92   4  19  19          0
+Affc 'ectoplasmic form'   0  88  20   0   0    1048576
+Affc 'mental barrier'   2  93  32   0   0      32768
+Affc 'sneak'   0  99  95   0   0      32768
+Affc 'share strength'   0 100  98  -8   1          0
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 10617
+Nest 1
+Cond 0
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1119
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 20410
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 19222
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 20400
+Nest 1
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 11863
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11861
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11865
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11864
+Nest 1
+Cond 0
+Wear -1
+Cost 7900
+End
+
+#O
+Vnum 23225
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11860
+Nest 1
+Cond 0
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 11672
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  71
+Cost 6230
+Affc 'reserved'   1  70  -1   4  19          0
+Affc 'reserved'   1  70  -1   3  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'enchant weapon'   0 100  -1  25  18          0
+End
+
+#O
+Vnum 11859
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11859
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 4504
+Nest 1
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 25308
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19804
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  80
+Cost 37500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  79  -1   4  18          0
+Affc 'reserved'   1  79  -1   2  19          0
+End
+
+#O
+Vnum 20416
+Enchanted
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Lev  86
+Cost 30000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  85  -1  10  18          0
+Affc 'reserved'   1  85  -1  10  19          0
+Affc 'reserved'   1  85  -1 100  12          0
+End
+
+#O
+Vnum 11858
+Nest 0
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#O
+Vnum 7531
+Nest 0
+Cond 0
+Wear 9
+Cost 4500
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6708
+Nest 0
+Cond 0
+Wear 18
+Cost 500000
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 2
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 0
+Cond 0
+Wear 1
+Cost 25000
+End
+
+#O
+Vnum 6718
+Nest 0
+Cond 0
+Wear 5
+Cost 65000
+End
+
+#O
+Vnum 6722
+Nest 0
+Cond 0
+Wear 7
+Cost 30000
+End
+
+#O
+Vnum 6724
+Nest 0
+Cond 0
+Wear 13
+Cost 22500
+End
+
+#O
+Vnum 6714
+Nest 0
+Cond 0
+Wear 6
+Cost 50000
+End
+
+#O
+Vnum 6736
+Nest 0
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  91
+Cost 12500
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3155
+Nest 0
+Cond 0
+Wear 19
+Cost 500
+End
+
+#END

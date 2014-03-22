@@ -1,0 +1,611 @@
+#PLAYER
+Name Enkindu~
+Id   1105911306
+LogO 1106459247
+Vers 5
+Prom <%hhp| %mm| %vmv| %X> ~
+Race Titan~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  21
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 37582
+Scro 33
+Room 3054
+HMV  11 391 163 163 206 257
+Gold 1001
+Silv 1671
+Gold_bank 1500
+Silv_bank 0
+Shares 0
+Share_level 21
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  1350
+QuestPnts 115
+PAct  DEFGQTd
+AfBy c
+WName Enkindu~
+Comm FNO
+RaceChan 0
+Deaf DP
+Pos  4
+Save  -1
+Alig  -1000
+ACs 79 79 79 79
+Wimp  100
+Attr 23 20 20 16 18
+AMod 0 1 2 0 3
+Pass EnSmZJCt/nLYA~
+Titl  Maior~
+Pnts 47
+TSex 1
+PSize 5
+LLev 10
+HMVP 391 163 232
+Cnd  0 11 22 19
+Boards       4 General 1106439442 Ideas 1106439475 Announce 1104975611 Personal 0 
+Sk 92 'sword'
+Sk 75 'bash'
+Sk 75 'disarm'
+Sk 17 'dual wield'
+Sk 86 'enhanced damage'
+Sk 49 'hand to hand'
+Sk 93 'kick'
+Sk 75 'parry'
+Sk 76 'shield block'
+Sk 75 'trip'
+Sk 79 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Affc 'armor'   0 250  87 -20  17          0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Time 877
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Time 911
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Time 675
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Time 888
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 2270
+Nest 1
+Cond 0
+Wear -1
+Time 1908
+Cost 1960
+Spell 1 'armor'
+Spell 2 'protection evil'
+Spell 3 'shield block'
+End
+
+#O
+Vnum 2220
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+End
+
+#O
+Vnum 626
+Nest 1
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 16084
+Nest 1
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 1
+Cond 0
+Wear -1
+Cost 1903
+End
+
+#O
+Vnum 623
+Nest 1
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3043
+Nest 1
+Cond 0
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 10309
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+Val  20 15 33 0 0
+End
+
+#O
+Vnum 10307
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+Val  20 18 7 0 0
+End
+
+#O
+Vnum 3012
+Nest 1
+Cond 0
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3012
+Nest 1
+Cond 0
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3012
+Nest 1
+Cond 0
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3012
+Nest 1
+Cond 0
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 18024
+Nest 1
+Cond 0
+Wear -1
+Cost 1260
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 0
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 9535
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 815
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 3030
+Nest 1
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 9538
+Nest 0
+Cond 0
+Wear 13
+Cost 27
+End
+
+#O
+Vnum 9534
+Nest 0
+Cond 0
+Wear 17
+Cost 12
+End
+
+#O
+Vnum 14516
+Nest 0
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 14516
+Nest 0
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 18 0 0
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 5222
+Nest 0
+Cond 0
+Wear -1
+Cost 410
+End
+
+#O
+Vnum 5215
+Nest 0
+Cond 0
+Wear -1
+Time 1225
+Cost 1280
+Spell 1 'enchant weapon'
+End
+
+#O
+Vnum 15142
+Nest 0
+Cond 0
+Wear 5
+Cost -200
+End
+
+#O
+Vnum 15144
+Nest 0
+Cond 0
+Wear 7
+Cost -200
+End
+
+#O
+Vnum 13206
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  11
+Cost 1000
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 624
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 15719
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 15719
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 2260
+Nest 0
+Cond 0
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 2260
+Nest 0
+Cond 0
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 2260
+Nest 0
+Cond 0
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 2252
+Nest 0
+Cond 0
+Wear -1
+Time 657
+Cost 600
+Spell 1 'cure critical'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 506
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 942
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 979
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 882
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 964
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 990
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Time 554
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#END

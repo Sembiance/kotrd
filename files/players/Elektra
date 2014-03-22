@@ -1,0 +1,873 @@
+#PLAYER
+Name Elektra~
+Id   1149294887
+LogO 1150818063
+Vers 5
+Prom <%h/%Hhp  %m/%Mm  %v/%Vmv><%a aln><%Xxp tnl><%K> ~
+Race Lamia~
+Sex  2
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 268695
+Scro 33
+Room 3360
+HMV  4118 4118 1066 1066 790 794
+Gold 3011
+Silv 1171
+Gold_bank 107000
+Silv_bank 0
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  100050
+QuestPnts 4092
+QuestNext 5
+PAct  DGQTd
+WName Elektra~
+Comm MNO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 22
+Trai 18
+Save  -20
+Alig  1000
+Hit   261
+Dam   256
+ACs -303 -302 -303 -303
+Wimp  800
+Attr 18 14 15 18 18
+AMod 20 2 0 16 0
+Pass El9mmNJjrYuLI~
+Titl  is probably busy.~
+Pnts 40
+TSex 2
+PSize 3
+LLev 64
+HMVP 1748 336 694
+Cnd  0 0 0 0
+Boards       4 General 1150588928 Ideas 1146808373 Announce 0 Personal 0 
+Sk 95 'acid blast'
+Sk 75 'giant strength'
+Sk 76 'stone skin'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 75 'mace'
+Sk 75 'axe'
+Sk 75 'flail'
+Sk 75 'whip'
+Sk 84 'polearm'
+Sk 78 'exotic'
+Sk 75 'bash'
+Sk 77 'berserk'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 75 'kick'
+Sk 90 'dodge'
+Sk 91 'parry'
+Sk 75 'shield block'
+Sk 75 'rescue'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 94 'third attack'
+Sk 90 'fourth attack'
+Sk 84 'fast healing'
+Sk 75 'haggle'
+Sk 75 'recall'
+Sk 75 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'weaponsmaster'
+Gr 'warrior spells'
+End
+
+#O
+Vnum 23225
+Nest 0
+Cond 0
+Wear 6
+Cost 10000
+End
+
+#O
+Vnum 11858
+Nest 0
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#O
+Vnum 11864
+Nest 0
+Cond 0
+Wear 13
+Cost 7900
+End
+
+#O
+Vnum 11865
+Nest 0
+Cond 0
+Wear 2
+Cost 10000
+End
+
+#O
+Vnum 11861
+Nest 0
+Cond 0
+Wear 7
+Cost 10000
+End
+
+#O
+Vnum 11856
+Nest 0
+Cond 0
+Wear 10
+Cost 9900
+End
+
+#O
+Vnum 20400
+Nest 0
+Cond 0
+Wear 18
+Cost 5000
+End
+
+#O
+Vnum 11855
+Nest 0
+Cond 0
+Wear 0
+Cost 11500
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 20416
+Enchanted
+Nest 0
+ExtF 66
+Cond 0
+Wear 19
+Lev  86
+Cost 30000
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  85  -1  10  18          0
+Affc 'reserved'   1  85  -1  10  19          0
+Affc 'reserved'   1  85  -1 100  12          0
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 20412
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 6700
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 23203
+Enchanted
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Lev  51
+Cost 29001
+Affc 'reserved'   1  50  -1   5   2          0
+Affc 'reserved'   1  50  -1   9  19          0
+Affc 'reserved'   1  50  -1   9  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 1107
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3079
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'remove curse'
+Spell 2 'remove curse'
+End
+
+#O
+Vnum 3079
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'remove curse'
+Spell 2 'remove curse'
+End
+
+#O
+Vnum 3079
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'remove curse'
+Spell 2 'remove curse'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 3039
+Nest 1
+Cond 0
+Wear -1
+Cost 934
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 4513
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3288
+Nest 1
+Cond 0
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 3287
+Nest 1
+Cond 0
+Wear -1
+Cost 400
+Spell 1 'cure blindness'
+Spell 2 'cure blindness'
+End
+
+#O
+Vnum 11897
+Enchanted
+Nest 1
+ExtF 321
+Cond 0
+Wear -1
+Lev  63
+Cost 7500
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  62  -1   5  19          0
+Affc 'reserved'   1  62  -1   5  18          0
+End
+
+#O
+Vnum 11865
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 20408
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 20407
+Nest 0
+Cond 0
+Wear 4
+Cost 12500
+End
+
+#O
+Vnum 20407
+Nest 0
+Cond 0
+Wear 3
+Cost 12500
+End
+
+#O
+Vnum 11888
+Nest 0
+Cond 0
+Wear 8
+Cost 50000
+End
+
+#O
+Vnum 11887
+Nest 0
+Cond 0
+Wear 9
+Cost 50000
+End
+
+#O
+Vnum 11889
+Nest 0
+Cond 0
+Wear 5
+Cost 50000
+End
+
+#O
+Vnum 11885
+Nest 0
+Cond 0
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 20405
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  87
+Cost 45000
+Affc 'enchant weapon'   0  92  -1  23  18          0
+Affc 'enchant weapon'   1  92  -1  13  19          0
+Affc 'reserved'   1  86  -1  40  18          0
+Affc 'reserved'   1  86  -1  40  19          0
+Affc 'reserved'   1  86  -1 100  13          0
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 0
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#END

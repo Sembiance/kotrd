@@ -1,0 +1,364 @@
+#PLAYER
+Name Slyth~
+Id   1094478963
+LogO 1094850653
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Seraph~
+Sex  1
+Cla  6
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 18003
+Not  0 0 0 0
+Scro 33
+Room 3013
+HMV  245 245 140 140 183 184
+Gold 608
+Silv 17178
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  41441
+PAct  DEFGQTd
+AfBy FNT
+Empower  0
+WName Slyth~
+Comm NO
+Deaf DP
+Pos  8
+Save  4
+Alig  1000
+Hit   8
+Dam   3
+ACs -45 -42 -47 39
+Attr 21 19 20 14 18
+AMod -1 1 2 6 1
+Pass SlCiYYGksZziQ~
+Titl  Low level forever...~
+Pnts 67
+TSex 1
+PSize 2
+LLev 4
+HMVP 245 140 184
+Cnd  0 0 2 14
+Sk 78 'cure light'
+Sk 1 'bless'
+Sk 81 'cure serious'
+Sk 75 'protection evil'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'dispel evil'
+Sk 1 'heal'
+Sk 76 'detect evil'
+Sk 1 'sanctuary'
+Sk 1 'word of recall'
+Sk 80 'sword'
+Sk 1 'bash'
+Sk 75 'enhanced damage'
+Sk 87 'kick'
+Sk 1 'parry'
+Sk 76 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 75 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin spells'
+Affc 'protection evil'   0   8  14   4  20       8192
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  64 16 0 0 0
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 7803
+Nest 0
+Cond 0
+Wear 4
+Cost 900
+End
+
+#O
+Vnum 7803
+Nest 0
+Cond 0
+Wear 3
+Cost 900
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 14518
+Nest 0
+Cond 0
+Wear 11
+Cost 2000
+End
+
+#O
+Vnum 14536
+Nest 0
+Cond 0
+Wear 5
+Cost 2456
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 0
+Wear 9
+Cost 800
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 14517
+Nest 0
+Cond 0
+Wear 6
+Cost 1500
+End
+
+#O
+Vnum 14516
+Nest 0
+Cond 0
+Wear 16
+Cost 1500
+End
+
+#END

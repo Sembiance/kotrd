@@ -1,0 +1,7034 @@
+#AREADATA
+Name Seeker's Hold~
+Builders Velt~
+VNUMs 21200 21399
+Credits 30 -  60~
+Security 8
+Flags F
+LEVELs 15 65
+End
+
+
+
+#MOBILES
+#21200
+shop apprentice mira daughter~
+Mira~
+{cThe blacksmith's apprentice stands behind the counter.{x
+~
+Mira is the daughter and apprentice of her father, the blacksmith. She
+shares her father's same fiery red hair. 
+~
+Human~
+AB 0 700 0
+0
+30 0 30d4+100 0d0+0 0d0+0 none
+0 0 0 0
+0 Q 0 0
+stand stand female 100
+AHMV ABCDEFGHIJKMV medium unknown
+#21201
+jaek smith blacksmith~
+The Blacksmith~
+{cThe Blacksmith{x
+~
+Jaek is the blacksmith of the hold and runs the forge with the help of
+his daughter. His fiery red beard is singed at the bottom, and he
+wipes his grimy hand on his apron before extending a hand in
+greeting.
+~
+Human~
+AB a 500 0
+0
+40 0 10d140+700 40d10+100 5d8+20 crush
+-15 -17 -15 -5
+JKO H 0 I
+stand stand male 100
+AHMV ABCDEFGHIJKMV large unknown
+#21202
+skeleton son~
+{WSkeleton{x~
+{cThe skeleton in Jaek's closet is happy to see you!{x
+~
+The charred remains moving towards you are all that remains of Jaek's
+son. His body may have died in a horrible fire at the last forge where
+Jaek worked, but his soul lives on...
+~
+Human~
+AO DFV -750 0
+0
+50 0 10d169+1100 50d10+100 5d11+27 slash
+-20 -15 -20 -10
+EFK ABLQR F EN
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#21203
+town guard~
+Town Guard~
+{cA guard patrols the town here.{x
+~
+A citizen of the hold has slipped on some armor, grabbed a weapon and
+takes turn standing watch here.
+~
+Human~
+AB 0 500 0
+0
+43 0 12d140+700 43d10+100 5d8+25 cleave
+-17 -17 -17 -7
+IKRTU A HJ CLQ
+stand stand either 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21204
+keeper maker candle shop~
+The candle maker~
+{cThe candle maker waits to sell you something.{x
+~
+This fat little man is here dipping wicks into buckets of hot wax and cold
+water in order to make his candles.
+~
+Human~
+AB 0 0 0
+0
+0 0 3d4+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 Q 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKMV medium unknown
+#21205
+pig~
+{Ma pig{x~
+{cA muddy pig wallows here.{x
+~
+This little piggy was brought to the town to be sold at the market,
+and was left in the holding pen for safe keeping.
+~
+pig~
+A 0 0 0
+0
+20 0 10d50+400 20d10+100 5d5+10 charge
+-10 -11 -10 -2
+CJ Q 0 0
+stand stand either 50
+AGV ACDEFGHJKV medium unknown
+#21206
+sheep~
+{Wsheep{x~
+{cA white sheep meanders about here.{x
+~
+A sheep has been left here by its owner.
+~
+Human~
+A 0 0 0
+0
+22 0 10d5+300 10d10+100 5d5+15 bite
+-10 -10 -10 2
+I 0 0 0
+stand stand either 40
+AGHMV ABCDEFGHIJKMV medium unknown
+#21207
+wife ~
+Jaek's wife~
+{cJaek's wife is here, horribly mutilated.{x
+~
+Jaek's wife was horribly mutilated and blinded in the same fire that killed
+their son. After moving here, he dug this room and imprisoned her here.
+What little sanity she had now is surely gone.
+~
+Human~
+AH AH -1000 0
+0
+50 0 8d169+600 45d10+100 5d9+35 scratch
+-17 -17 -17 -5
+J 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21208
+minstrel~
+Minstrel~
+{cA traveling minstrel is here playing for the town.{x
+~
+This thin minstrel is disguised by his odd mask and long flowing cloak.
+He plays his lute superbly, only breaking his concentration to accept
+applause, gold, or a mug of ale.
+~
+Human~
+ABP H 250 0
+0
+35 0 10d70+450 35d10+100 5d6+25 magic
+-12 -12 -12 -3
+FN T B 0
+stand stand male 150
+AHMV ABCDEFGHIJKMV medium unknown
+#21209
+maker shop~
+Wagon Maker~
+{cA dwarf is here ready to sell you a wagon.{x
+~
+A shifty, bald little black bearded dwarf is here trying to convince you
+to buy a wagon. He is decked out in a finely cut green leather outfit,
+gold necklaces and a jeweled belt. Business must be good for him.
+~
+Dwarf~
+AB FJ -150 0
+0
+40 0 10d10+500 0d0+0 0d0+0 none
+0 0 0 0
+0 LQ LOQ PR
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#21210
+merchant apprentice~
+Glassware Merchant~
+{cA merchant invites you to inspect his glasswares.{x
+~
+The merchant tells you of the great protection provided by his firefly
+bulbs, and the offensive punch of his grenade-like bulbs and bottles. 
+More mundane glass items are also available...
+~
+Human~
+AB 0 0 0
+0
+0 0 10d10+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKMV medium unknown
+#21211
+goblin thief~
+goblin thief~
+{cA goblin horse thief waits to steal a horse.{x
+~
+Don't be fooled by this goblin's small size... He is very dangerous and
+very mean... especially after hiding in a stall with a horse all day.
+~
+Human~
+ABS HJQV -800 0
+0
+55 0 11d170+900 55d10+100 5d12+30 pierce
+-20 -20 -20 -10
+EFHIN 0 DQ CJ
+stand stand male 1500
+AHMV ABCDEFGHIJKMV small unknown
+#21212
+knight sir harold~
+Sir Harold~
+{cThe knight Sir Harold awaits his fate.{x
+~
+Sir Harold is on trial for running through a ruffian with his lance while
+drunk after a tournament one night. He appears tired, probably from 
+being in his heavy armor during the lengthy trial process.
+~
+Human~
+ABT HV 750 0
+0
+50 0 10d169+920 50d10+100 5d10+30 thrust
+-15 -15 -15 -2
+CEFK 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKMV large unknown
+#21213
+Town Archer~
+Town Archer~
+{cAn archer keeps an eye out for enemies of the town.{x
+~
+This archer used to be a town guard, but was selected for additional
+training.
+~
+Human~
+A V 650 0
+0
+47 0 12d140+1000 47d10+100 5d9+35 pierce
+-20 -20 -20 -6
+CFHQ 0 J Q
+stand stand either 750
+AHMV ABCDEFGHIJKMV medium unknown
+#21214
+seeker~
+The Seeker~
+{cThe Seeker is here meditating.{x
+~
+The Seeker is surrounded by an aura of timeless magical power. He sits
+here carving a staff in his long brown robes.
+~
+Human~
+AB DU 1000 0
+0
+10 0 2d100+1000 10d10+10 0d0+0 none
+0 0 0 0
+0 LQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21215
+mate first~
+First Mate~
+{cA retired first mate is here, swabbing the... floor.{x
+~
+This man used to be a pirate, but now lives in the hold and takes good
+care of his captain's house.
+~
+Human~
+AB V -300 0
+0
+40 0 10d61+566 30d10+100 5d7+40 punch
+-11 -11 -11 -2
+FJ 0 0 0
+stand stand male 350
+AHMV ABCDEFGHIJKMV medium unknown
+#21216
+captain~
+Pirate Captain~
+{cA pirate captain enjoys her pool.{x
+~
+A retired pirate captain is here in her salt water pool, swimming, playing
+with her pool toys and drinking rum. Despite her cascade of red hair and
+sparkling green eyes, you think it unwise to underestimate her.
+Her bikini appears to have been made from a very real pirate flag...
+~
+Human~
+AB HTV -500 0
+0
+45 0 10d140+800 10d100+10 5d9+20 slap
+-18 -18 -18 -4
+FKNQ R 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJKMV medium unknown
+#21217
+pirate~
+Pirate~
+{cA pirate guards his captain.{x
+~
+This old pirate moved to the hold with the other pirates when they retired.
+He now constantly watches over his captain and keeps her safe.
+~
+Human~
+ABS V -500 0
+0
+30 0 10d61+416 30d10+100 5d6+15 punch
+-9 -9 -9 0
+EKQ R 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#21218
+peasant~
+Peasant~
+{cA peasant working here.{x
+~
+A nondescript peasant of the hold goes about their work here.
+~
+Human~
+AG 0 200 0
+0
+32 0 10d80+550 30d10+100 5d7+18 pound
+-14 -14 -14 0
+CFI 0 0 0
+stand stand either 200
+AHMV ABCDEFGHIJKMV medium unknown
+#21219
+merchant~
+Wine merchant~
+{cAn elven wine merchant greets you from her seat on an empty barrel.{x
+~
+The elven lady that runs the shop is dressed in a simple blue and silver
+dress. You guess from her behavior that she samples her stock of wine
+on a regular basis.
+~
+Elf~
+AB DFJ 200 0
+0
+40 0 1d100+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BPQ Z
+stand stand female 100
+AHMV ABCDEFGHIJKMV medium unknown
+#21220
+golem glass~
+a glass golem~
+{cA towering crystalline golem.{x
+~
+The glass golem is a massive glass statue brought to life by Zebo's magic.
+Its only purpose is to protect him and bring in tourists.
+~
+Human~
+AB V 0 0
+0
+48 0 10d180+800 10d50+100 5d10+30 scratch
+-25 -15 -25 -7
+EK ABJLQR 0 EH
+stand stand none 100
+AHMV ABCDEFGHIJKMV large unknown
+#21221
+Zebo~
+Zebo~
+{cZebo does not like to be disturbed!{x
+~
+Zebo's gray beard and long green robes sparkle more from glass dust than
+any magic present. The large, bulbous glass goggles he uses to protect
+his eyes while he is working make them look huge.
+~
+Human~
+AFR D -500 0
+0
+51 0 11d170+1000 50d10+100 5d10+40 magic
+-22 -22 -22 -10
+F 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV small unknown
+#21222
+sheperd~
+a sheperd~
+{cA sheperd watches the flock...{x
+~
+A sheperd from the lands surrounding the hold has come into town to
+trade sheep and wool for supplies.
+~
+Human~
+ABP 0 500 0
+0
+35 0 10d70+700 35d10+100 5d8+20 beating
+-13 -13 -13 -4
+JKR 0 0 0
+stand stand male 60
+AHMV ABCDEFGHIJKMV medium unknown
+#21223
+gnome~
+Gnome~
+{cA humble gnome is here cooking stew.{x
+~
+The gnome thanks you for visiting and helping to protect him from 
+the giant ants he has been having so much trouble with lately.
+~
+Dwarf~
+ABR FJ 300 0
+0
+40 0 10d80+650 30d10+100 5d7+20 punch
+-11 -11 -11 -3
+FNS L LOQ PR
+stand stand male 1000
+AHMV ABCDEFGHIJKMV medium unknown
+#21224
+ant~
+Giant Ant~
+{cAn angry giant ant looks for something to eat.{x
+~
+This black wolf sized ant has had it with stupid gnomes and miners
+invading its territory and is out for blood!
+~
+centipede~
+ABFH Z -200 0
+0
+27 0 10d61+400 27d10+100 5d6+12 bite
+-8 -8 -8 3
+ILR 0 FILQ EIR
+stand stand none 0
+ABGO ABCDEGJKO small unknown
+#21225
+innkeeper~
+Innkeeper~
+{cThe demon innkeeper cleans a goblet here.{x
+~
+The demon eyes you suspiciously, then pauses to examine his reflection in
+the goblet. Without looking up from the goblet he asks you what you would
+like.
+~
+unique~
+AB DFGJTV -750 0
+0
+40 0 10d10+10 10d10+10 0d0+0 none
+0 0 0 0
+0 HLQ K IN
+stand stand male 150
+AHZ ACDEFGHIJKPQUVX medium unknown
+#21226
+maid~
+French Maid~
+{cAn elven lady in a french maid's outfit waits to serve you.{x
+~
+She is very cute, in a very tight outfit, and is very willing to serve.
+(She is also very willing to overcharge you.)
+~
+Elf~
+AB FIJ -500 0
+0
+100 0 10d10+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BPQ Z
+stand stand female 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#21227
+butcher~
+Butcher~
+{cThe butcher is here chopping up some meat.{x
+~
+The succubus butcher is quite naked under her apron, and seems to 
+enjoy her job just a little too much...
+~
+Succubus~
+AB DFJTV -900 0
+0
+15 50 10d10+10000 0d0+0 0d0+0 punch
+-500 -500 -500 -500
+0 BHILQ DHLQ CN
+stand stand female 0
+ABHMZ ABCDEFGHIJKMPQUVX medium unknown
+#21228
+baker dragon~
+Baker~
+{cA dragon is here baking some bread.{x
+~
+You watch the baker for a moment as he prepares to bake a few dozen
+loaves of bread at once. The dragon closes the oven door and opens
+a small hatch on top, then proceeds to breathe fire through the hatch,
+baking the bread! The dragon gets the bread out of the oven and flaps
+his wings a few times to cool it off.
+~
+dragon~
+AB FJT 400 0
+0
+50 0 10d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 HIJQ BEHJKL FIOP
+stand stand male 0
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ medium unknown
+#21229
+sir andrew~
+Sir Andrew~
+{cSir Andrew is here cooking something by the fire.{x
+~
+Sir Andrew is a knight only by title, he is neither very skilled at
+battle nor courageous. He was knighted only to keep him from mucking
+up the higher administrative functions of the land with his 
+incompetance. He sits here now roasting a kill from his latest hunt.
+He got lucky and got the jump on a sheep...
+~
+Human~
+AB 0 -100 0
+0
+50 34 10d88+842 10d35+100 7d7+27 punch
+-20 -20 -20 -20
+JKR 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#21230
+emily~
+Emily~
+{cEmily is here trying to make a new bed.{x
+~
+Emily is wife to Sir Andrew, a formidable task in itself. She is here
+stuffing a mattress for a new bed. She sighs as she tells you the 
+trophy head downstairs was the result of her husband's encounter
+with a ranger's trained bear. Just when you think she shall break
+into tears, you see a twinkle in her eye as she suddenly cheers up
+and takes comfort in the fact that this is the second new mattress
+the couple has needed this month.
+~
+Human~
+AB 0 300 0
+0
+35 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+FIR 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21231
+assistant~
+{cA panicked assistant hides under a desk here.{x~
+A panicked assistant hides under a desk here.
+~
+You see a terribly frightened lady in long blue robes here hiding 
+under the desk. From talking to her you manage to glean the information
+that she is the assistant of a man called Simon, who has apparently
+gone insane. From the looks of her, she isn't far behind him. She
+gibbers something about Simon thinking the world isn't flat before
+her words become unintelligible.
+~
+Human~
+ABQ QV 300 0
+0
+38 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+FNR BP 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21232
+simon~
+Simon~
+{cSimon stands here, making notes about the sky.{x
+~
+Simon swings his telescope this way and that, all the time mumbling to
+himself and pausing to stroke his scragly white beard with one hand
+and his bald head with the other, only to find himself confused and
+switch hands. "Have you seen my assistant?", he asks, "No matter.",
+he quickly follows up, "...you'll do well enough.". With that, he
+points out a rival skygazer on top of the glass shop roof and demands
+you destroy them.
+~
+Human~
+ABR V 200 0
+0
+35 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+EFR 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21233
+ariel~
+Ariel~
+{cAriel practices with her bow.{x
+~
+Ariel is a skinny young girl with short blonde hair. Some day she hopes
+to become an archer like her mother.
+~
+Human~
+AB 0 500 0
+0
+42 0 10d88+742 10d35+100 5d7+35 punch
+-15 -15 -15 -2
+FIR 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21234
+kevon~
+Kevon~
+{cKevon sits here fashioning arrows.{x
+~
+Kevon is Ariel's older brother, and makes arrows used by the archers of
+the town. 
+~
+Human~
+AB V 150 0
+0
+35 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+FR 0 0 0
+stand stand male 2250
+AHMV ABCDEFGHIJKMV medium unknown
+#21235
+andrea~
+Andrea~
+{cAndrea is here cleaing the barracks.{x
+~
+Andrea is crawling about on her hands and knees, scrubbing the floor with
+a brush. She is being punished for using a 'fly' spell during a training
+exercise. She looks up at you, blows a curl of black hair out of her
+eyes and asks you what you think about it..
+~
+Human~
+ABR T 600 0
+0
+35 0 10d88+542 10d35+100 5d7+20 magic
+-15 -15 -15 -2
+FR 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21236
+phillip~
+Phillip~
+{cPhillip practices to be a scout.{x
+~
+Phillip has been hiding in this hole for half the day, training to be 
+part of a special forces unit. He looks disheartened when he realizes
+you have found him.
+~
+Human~
+ABQ Q -250 0
+0
+35 0 10d88+542 10d35+100 5d7+20 stab
+-15 -15 -15 -2
+FIR 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21237
+quartermaster~
+Quartermaster~
+{cThe quartermaster is here going over requisitions.{x
+~
+The quartermaster is responsible for keeping the guards fed, housed,
+and clothed. He is having a harder time of it than usual, as military
+spending has been cut despite growing prosperity in the domestic
+sector.
+~
+Human~
+ABT V 600 0
+0
+35 0 10d88+542 10d35+100 5d7+20 pound
+-15 -15 -15 -2
+CFR 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJKMV medium unknown
+#21238
+barber~
+Barber~
+{cA dwarven barber floats about the room!{x
+~
+This old dwarf barber never was very tall, and his old age made climbing
+up on stools just too much for him. In respect for him, the townspeople
+gave him the ability to fly for his 300th birthday.
+~
+Dwarf~
+ABH FJTd 150 0
+0
+45 0 10d88+792 10d35+100 5d7+30 punch
+-15 -15 -15 -2
+FR L LOQ PR
+stand stand male 1200
+AHMV ABCDEFGHIJKMV medium unknown
+#21239
+painter giant~
+Painter~
+{cA giant painter makes paint here.{x
+~
+The giant gathers together a giant sized handful of colorful dye leaves
+and places them on a boulder sized rock. He grabs another boulder and
+smashes it down against the first. A trickle of colorful dye runs down
+a crevice in the rock to fill a bucket.
+~
+Giant~
+ABT HJcd 650 0
+0
+37 0 15d88+660 10d35+100 5d7+20 crush
+-15 -15 -15 -2
+CFOR H EGHI JP
+stand stand male 2000
+AHMV ABCDEFGHIJKMV giant unknown
+#21240
+astrologer~
+Astrologer~
+{cAn astrologer is here prophesying doom.{x
+~
+This guy is going on about some planet being in the house of the ram and
+Jupiter being in opposition to Venus. He really ought to be killed 
+before he can predict any more horrible things.
+~
+Human~
+ABR V -1000 0
+0
+37 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+FR 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21241
+marketeer~
+Black Marketeer~
+{cA black market salesman is looking to make a deal.{x
+~
+A shifty looking drow wearing a black overcoat lurks in the shadows here.
+~
+Elf~
+AB DFJQ -1000 0
+0
+100 0 10d400+500 10d100+10 0d0+0 none
+0 0 0 0
+0 A BPQ Z
+stand stand male 1000000
+AHMV ABCDEFGHIJKMV medium unknown
+#21242
+lookout~
+Lookout~
+{cA lookout watches the door here.{x
+~
+This goblin is here guarding the way to the underground and looks very
+bored. He is just waiting for someone to try something.
+~
+Human~
+ABT HJQV -800 0
+0
+62 0 15d169+1000 60d10+100 6d10+35 stab
+-27 -27 -27 -9
+EFJ 0 DQ CJ
+stand stand male 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#21243
+swordmaster goblin~
+Goblin Swordmaster~
+{cThe goblin swordmaster is here to kill you.{x
+~
+The goblin swordmaster is very skilled, he has to be to use his rapier.
+And use it he will, to keep you from reaching his boss.
+~
+Human~
+ABFS DFJQV -1000 0
+0
+65 10 15d169+1150 65d10+100 5d12+35 pierce
+-37 -37 -37 -18
+BEFK 0 DQ CJ
+stand stand male 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#21244
+cook~
+Cook~
+{cA cook is busy preparing a meal here.{x
+~
+A cook is here busy cooking, her long dark hair tucked up under her 
+white chef's hat. She looks very harried but appears to enjoy her
+job.
+~
+Human~
+AB V 900 0
+0
+35 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+INR 0 H 0
+stand stand female 1500
+AHMV ABCDEFGHIJKMV medium unknown
+#21245
+bum~
+Bum~
+{cA bum tries to take a nap here.{x
+~
+This guy was banished from his homeland and has come to live in Seeker's
+Hold, getting what work and food he can.
+~
+Human~
+AB 0 -100 0
+0
+35 0 10d88+542 10d35+100 5d7+20 punch
+-15 -15 -15 -2
+CFR 0 0 0
+stand stand male 70
+AHMV ABCDEFGHIJKMV medium unknown
+#21247
+potter~
+Potter~
+{cA potter bakes clay goods in the kiln.{x
+~
+The potter makes clay items for the hold. Her hair is full of clay dust
+and her face is sweaty from the heat of the kiln.
+~
+Human~
+AB DF 200 0
+0
+37 0 10d88+542 10d35+100 5d7+20 pound
+-15 -15 -15 -2
+EN 0 H 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21248
+guard~
+Water Guard~
+{cA guard tends to the water tower.{x
+~
+The water guard is really not a guard at all, but a healer specially
+trained to be able to detect poisons and other water contaminants.
+He keeps the waterwheel working and keeps people from tampering with
+the water tower. 
+~
+Human~
+ABQ HV 1000 0
+0
+39 0 10d88+542 10d35+100 5d7+20 suction
+-15 -15 -15 -2
+FR LQ 0 0
+stand stand male 3500
+AHMV ABCDEFGHIJKMV medium unknown
+#21249
+officer dwarf~
+Keep Officer~
+{cA dwarven officer of the keep is here.{x
+~
+A veteran warrior of the war with the mountain goblins, this dwarf
+was driven out of his home and is determined to fall back no further.
+He is here to meet those storming the keep in close quarters combat.
+~
+Human~
+ABT Da 800 0
+0
+55 0 12d180+1500 10d50+100 7d10+30 beating
+-21 -21 -21 -5
+EIKR AB LQ R
+stand stand male 8000
+AHMV ABCDEFGHIJKMV medium unknown
+#21250
+keep archer~
+Keep Archer~
+{cAn archer guards the keep here.{x
+~
+Unlike the town archers, this one doesn't have some other job to worry
+about. This archer is here to kill you.
+~
+Human~
+ABFT F 700 0
+0
+50 0 10d180+1000 10d50+100 5d12+30 beating
+-22 -22 -22 -4
+EFR A 0 0
+stand stand either 5000
+AHMV ABCDEFGHIJKMV medium unknown
+#21251
+gunner dwarf ballista~
+Ballista Gunner~
+{cA ballista gunner is here taking careful aim...{x
+~
+The ballista gunner is sitting on a chair at the back of the ballista
+and getting ready to fire.
+~
+Human~
+ABFT DFHTc 1000 0
+0
+65 0 20d180+2000 10d50+100 7d12+50 pound
+-33 -33 -33 -13
+KR AB LQ R
+stand stand male 35000
+AHMV ABCDEFGHIJKMV medium unknown
+#21252
+crew catapult~
+Catapult Crew~
+{cThe catapult crew is reloading the catapult.{x
+~
+The catapult crew is made up of a combination of experienced members and
+those undergoing training. Though a relatively simple piece of machinery,
+the catapult can be difficult to aim accurately, and improper use can
+have disastrous consequences.
+~
+Human~
+ABFT DFH 1000 0
+0
+60 0 15d180+1500 10d50+100 7d12+40 crush
+-30 -30 -30 -8
+CJKR A E 0
+stand stand male 17500
+AHMV ABCDEFGHIJKMV huge unknown
+#21253
+alchemist~
+Alchemist~
+{cAn alchemist cooks up something vile and deadly here.{x
+~
+The alchemist is very happy to see you. She loves to try out new batches
+of acids and poisons, and just can't wait to use the latest one she has
+concocted.
+~
+Human~
+ABFHR H -750 0
+0
+60 0 10d180+1000 10d50+100 5d12+45 acbite
+-22 -22 -22 -4
+FIR KLQ 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#21254
+dragon white~
+White Dragon~
+{cA white dragon enjoys the view here.{x
+~
+This white dragon is young and likes to get away from his lair in the
+mountains to the northeast to sit and watch and learn from the 
+citizens of the hold. He prefers to stay high in the clouds where the
+coldness of the air is comforting to him. He floats here more using more
+magic than his wings, occasionally using his icy breath to plug holes
+in his not so perfect illusion of clouds his magic has created.
+~
+dragon~
+ABT FHJT 0 0
+0
+47 0 10d180+100 10d50+100 5d12+30 frbite
+-22 -22 -22 -4
+AC AHIJQ BEHJKL FIOP
+stand stand male 11000
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ large unknown
+#21255
+mouse~
+Mouse~
+{cA mouse tries to hide from you here.{x
+~
+This little white mouse ussually gets away with murder when it comes
+to stealing bits of food, since the tower is mostly white too. 
+~
+Human~
+ABH Q 300 0
+0
+15 0 5d30+151 10d10+100 3d5+12 bite
+-3 -3 -3 2
+FH 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKMV tiny unknown
+#21256
+franklin~
+Sir Franklin~
+{cSir Franklin stands here staring at the sky.{x
+~
+Sir Franklin is a truly immense man. While by no means slim, his size is
+not due to overeating. He tells you how he was knighted for disrupting
+a band goblin thieves that were attacking wagons on the road to the
+hold. He told everyone a dragon did most of the work for him, but no one
+believed him.
+~
+Human~
+ABT V 700 0
+0
+45 0 10d100+700 10d35+100 5d7+30 beating
+-15 -15 -15 -2
+IKR 0 0 0
+stand stand male 2750
+AHMV ABCDEFGHIJKMV large unknown
+#21257
+teacher~
+Music Teacher~
+{cA music teacher is here trying to control the students.{x
+~
+You'd think a music teacher would enjoy music to its utmost, but this one
+would just like some peace and quiet away from the noise the students
+make. The desire to put an end to the noise motivates the teacher to
+push the students to play better more than anything else.
+~
+Human~
+ABH V 100 0
+0
+47 0 10d180+100 10d50+100 5d12+30 punch
+-22 -22 -22 -4
+FR T 0 0
+stand stand either 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#21258
+student~
+Music Student~
+{cA music student is here making horrendous noises.{x
+~
+This youngster was sent here to learn something about music, and maybe
+even study to become a bard if they showed any talent for it. Judging
+from the sounds this little hellion is making, you seriously doubt that
+will happen.
+~
+Human~
+ABH d -150 0
+0
+34 0 10d88+542 10d35+100 5d7+20 blast
+-15 -15 -15 -2
+FR T 0 0
+stand stand either 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21259
+kelly~
+Kelly~
+{cKelly is here playing her flute.{x
+~
+Kelly is here practicing for the weekly performance given by the music
+students. She is a good flutist, but has trouble keeping up at the quicker
+tempos.
+~
+Human~
+AB HV 200 0
+0
+45 0 8d180+100 10d50+100 5d12+30 slap
+-22 -22 -22 -4
+FNR T 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJKMV medium unknown
+#21260
+jacob~
+Jacob~
+{cJacob is having problems with his lyre.{x
+~
+Jaccob is an excellent musician who can play the harp and lute as well.
+Although he favors his lyre over other instruments, he has had it for
+quite a few years andnd has been saving up to buy himself a new, better
+lyre than the simple one he has now.
+~
+Human~
+AB V 400 0
+0
+48 0 10d300+900 10d50+100 5d12+30 punch
+-22 -22 -22 -4
+FHR T 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJKMV medium unknown
+#21261
+samantha~
+Samantha~
+{cSamantha is here weaving.{x
+~
+Samantha is here weaving in a dusty, worn dress. She wears a heavy looking
+money pouch at her waist and looks at you with disdain.
+~
+Human~
+ABH 0 0 0
+0
+35 0 10d88+542 10d35+100 5d7+20 pierce
+-15 -15 -15 -2
+FJR 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJKMV medium unknown
+#21262
+ellen~
+Ellen~
+{cEllen is here spinning thread.{x
+~
+Ellen is an elderly woman who has been spinning thread here since 
+the place was built. She taught Emily how to spin and wonders if you
+would care to learn as well.
+~
+Human~
+AB d 0 0
+0
+35 0 10d88+620 10d35+100 5d7+20 scratch
+-15 -15 -15 -2
+IR 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKMV medium unknown
+#21263
+sharon~
+Sharon~
+{cSharon is here dyeing a length of cloth.{x
+~
+Sharon is here kneeling over a vat of dye in a short skirt and a stained
+blouse with the sleeves cut off. Her hair is a sea of red, blue, and green
+waves, having dyed it herself.
+~
+Human~
+AB 0 -500 0
+0
+32 0 10d88+542 10d35+100 5d7+20 beating
+-15 -15 -15 -2
+FR S 0 0
+stand stand female 800
+AHMV ABCDEFGHIJKMV small unknown
+#21264
+arrows storm~
+storm of arrows~
+{cA storm of arrows sails down upon you!{x
+~
+A hail of arrows streaks down on you from the keep above!
+~
+Human~
+ABF DFQ 0 0
+0
+50 0 5d180+500 10d50+100 10d12+60 pierce
+-22 -22 -22 -4
+A ABFLQRT 0 CHJ
+stand stand none 0
+AHJMV ABCDEFGHIJKMV tiny unknown
+#21265
+mouth gargoyle~
+gargoyle's mouth~
+{cA pair of gargoyles spray acid on you.{x
+~
+A pair of gargoyle statues above the keep door empty their supply of
+acid on you.
+~
+Human~
+ABF BT 0 0
+0
+55 0 10d180+900 10d50+100 8d10+30 acbite
+-20 -20 -20 -4
+A ABHLPQT 0 EI
+stand stand none 0
+AHMV ABCDEFGHIJKMV huge unknown
+#21266
+stones~
+a volley of stones~
+{cA volley of stones hurled from above crash down on you.{x
+~
+Someone above you has decided they don't want you around and is tossing 
+dozens of fist sized stones at you.
+~
+Human~
+ABF DFQ 0 0
+0
+50 0 14d180+1400 10d50+100 5d11+25 smash
+-20 -20 -20 -4
+0 ABILPQRT H CEG
+stand stand none 0
+AHJMV ABCDEFGHIJKMV medium unknown
+#21267
+burning oil~
+a cloud of burning oil~
+{cBurning oil drifts down to engulf you.{x
+~
+Someone above you is pouring flaming oil on your head.
+~
+Human~
+ABF BDFQd 0 0
+0
+45 10 10d180+900 10d50+100 7d12+30 flame
+-20 -20 -20 -4
+A ABHLPQT 0 IR
+stand stand none 0
+AHJMV ABCDEFGHIJKMV tiny unknown
+#21268
+archmage mage~
+Archmage~
+{cThe archmage is surprised to see you.{x
+~
+The archmage has to cast his spells from the roof of the keep because
+he was blowing too many holes in the keep walls with his spells.
+~
+Human~
+ABHR DHT 1000 0
+0
+60 0 12d180+1200 10d50+100 5d12+50 wrath
+-22 -22 -22 -4
+FR 0 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJKMV medium unknown
+#21269
+cleric~
+War Cleric~
+{cA cleric is here praying to the gods of war.{x
+~
+This cleric appears very humble, but you know he must be rich from all the
+donations and sacrifices the people around here make to their war gods.
+You wonder what he does with it all..
+~
+Human~
+ABQ H 400 0
+0
+50 0 9d180+900 10d50+100 5d12+30 divine
+-21 -21 -21 -3
+FR 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21270
+mage~
+War Mage~
+{A mage is studying battle spells here.{x
+~
+This mage isn't very useful or desirable to have around the hold most of
+the time, since he can't help with crops, healing, or matters of the
+heart, but his prescence is well appreciated by the residents of the
+keep.
+~
+Human~
+ABHR TV 300 0
+0
+53 0 9d180+900 10d50+100 5d12+30 magic
+-26 -26 -26 -8
+FR 0 J 0
+stand stand male 7000
+AHMV ABCDEFGHIJKMV medium unknown
+#21271
+scribe~
+Scribe~
+{cThe town scribe is here writing some bills.{x
+~
+Many people are forced to place their trust in the scribe... those who
+can't write ussually can't read what they have the scribe write for them.
+More than once the scribe has used his access to other people's affairs
+towards his own nefarious ends. He deserves to die.
+~
+Human~
+ABH V -1000 0
+0
+40 0 10d100+800 10d35+100 5d7+20 charge
+-15 -15 -15 -2
+FIR 0 S 0
+stand stand male 4250
+AHMV ABCDEFGHIJKMV medium unknown
+#21272
+fire elemental~
+Fire Elemental~
+{cA fire elemental is here keeping the stove hot.{x
+~
+This fire elemental was captured and locked in the stove many years ago.
+~
+Human~
+ABFT BDFV -500 0
+0
+40 0 10d100+600 10d35+100 5d9+25 flame
+-16 -16 -16 -3
+F ABH J I
+stand stand none 2000
+AHMV ABCDEFGHIJKMV small unknown
+#21273
+dwarf mercenary~
+Dwarf Mercenary~
+{cA dwarven mercenary is loyal to the wagon maker's gold.{x
+~
+This dwarf seems like he is hiding something. Mercenaries are perfectly
+legal in this area as long as they operate within the law, something you
+suspect this one has not been doing.
+~
+Dwarf~
+ABFT FJ -700 0
+0
+38 0 10d88+700 10d35+100 5d9+25 cleave
+-15 -15 -15 -2
+CFKR L LOQ PR
+stand stand male 1000
+AHMV ABCDEFGHIJKMV small unknown
+#21274
+chest living~
+chest~
+{cA chest is here hoping you won't notice it.{x
+~
+You weren't sure at first, but now you are sure you saw the chest move.
+As it sees you coming closer, the chest snaps its lid at you a few
+times hoping to scare you off.
+~
+Human~
+ABHT Q 0 0
+0
+40 0 20d88+1000 10d35+100 5d9+35 chomp
+-15 -15 -15 -2
+CFN ABLQ 0 0
+stand stand none 12700
+AHMV ABCDEFGHIJKMV medium unknown
+#21275
+ranger~
+Elf Ranger~
+{cAn elven ranger goes about his business in town.{x
+~
+This ranger appears friendly enough, sociable despite spending so much
+time alone with the animals. He tells you he is never alone with the
+animals. He finds many of them much more civilized than demihumans,
+and you find yourself in agreement with him.
+~
+Elf~
+A FJV 750 0
+0
+39 0 10d90+600 10d35+100 5d8+24 punch
+-18 -18 -18 -3
+EFKR 0 BPQ Z
+stand stand male 100
+AHMV ABCDEFGHIJKMV medium unknown
+#21276
+test~
+Testmob~
+Test mob 76
+~
+~
+Human~
+ABT 0 -1000 0
+0
+120 80 1d10+10 10d50+100 5d12+30 punch
+-22 -22 -22 -4
+FKR AB 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJKMV medium unknown
+#21335
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21338
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21341
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKMV medium unknown
+#21343
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#21200
+wagon small two~
+a Small Wagon~
+A two wheeled wagon~
+SELECT_A_MATERIAL container 0 A
+600 0 0 600 0
+30 1500 60000 P
+#21201
+large wagon~
+a Large Wagon~
+A large 4 wheeled wagon~
+SELECT_A_MATERIAL container 0 A
+1125 0 0 1125 0
+30 2000 90000 P
+#21202
+town key~
+the town key~
+A key to the town~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 10 0 P
+#21203
+spring pool~
+a small spring~
+A small spring feeds a round stone pool.~
+SELECT_A_MATERIAL fountain A 0
+999 999 'water' 0 0
+0 0 0 P
+#21204
+cart tinker's~
+a Tinker's Cart~
+A small tinker's cart.~
+SELECT_A_MATERIAL container 0 A
+300 0 0 300 0
+15 1000 30000 P
+#21205
+chainmail mail shirt~
+{CChainmail Shirt{x~
+A shirt made of polished metal rings.~
+SELECT_A_MATERIAL armor A AD
+CD CD ABCD CD 0
+35 400 4000 P
+A
+20 -2
+A
+19 1
+A
+5 1
+#21206
+halberd double~
+a {rDouble Halberd{x~
+A wicked halberd with twin blades.~
+SELECT_A_MATERIAL weapon A AN
+axe 4 12 cleave D
+41 260 6000 P
+A
+17 -12
+A
+19 4
+A
+18 4
+#21207
+tower shield~
+{bTower Shield{x~
+A large, full body shield rests here.~
+SELECT_A_MATERIAL armor AI AJ
+ABD ABD ABD BC 0
+37 200 2500 P
+A
+18 2
+A
+13 20
+A
+20 -2
+#21208
+swamp boots~
+{gSwamp Boots{x~
+A pair of shiny green boots.~
+SELECT_A_MATERIAL armor AG AG
+AD AD AD AD 0
+35 50 2250 P
+A
+20 2
+A
+2 1
+A
+14 50
+#21209
+flail two~
+a {mTwo Headed Flail{x~
+A guard lost its flail.~
+SELECT_A_MATERIAL weapon BI AN
+flail 4 24 thwack 0
+45 120 3500 P
+A
+17 -8
+A
+18 4
+A
+19 6
+#21210
+horshoes~
+a set of horseshoes~
+A set of four horseshoes.~
+SELECT_A_MATERIAL wand A AO
+20 24 24 'refresh' 0
+25 100 7200 P
+#21211
+nails bag~
+a {ybag {xof {Dnails{x~
+A bag of crunchy nails.~
+SELECT_A_MATERIAL pill 0 AO
+60 'giant strength' 'reserved' 'reserved' 'reserved'
+25 150 3000 P
+A
+17 -8
+A
+13 20
+A
+19 4
+#21212
+leather apron~
+{yLeather Apron{x~
+A smith's pocketed leather apron is here.~
+SELECT_A_MATERIAL container Y AK
+50 A 0 50 75
+35 120 3000 P
+A
+17 -15
+A
+13 25
+A
+23 -5
+#21213
+hammer iron~
+a {GF{glaming {GI{gron {GH{gammer{x~
+A hammer fresh from being used in a forge lays glowing here.~
+SELECT_A_MATERIAL weapon AIKY AN
+mace 11 6 smash A
+43 170 7000 P
+A
+18 4
+A
+19 -8
+A
+1 2
+#21214
+pot helmet~
+{BPot Helmet{x~
+A simple round helmet lays here unused.~
+SELECT_A_MATERIAL armor AG AE
+CD AD CD CD 0
+36 90 2500 P
+A
+12 20
+A
+18 2
+A
+3 1
+A
+4 1
+#21215
+blue candle~
+a {Bblue{x candle~
+A {Bblue{x candle sits here.~
+SELECT_A_MATERIAL light_source AG A
+0 0 CE 0 0
+20 10 1500 P
+A
+17 -40
+A
+20 -5
+A
+13 40
+A
+4 1
+#21216
+white candle~
+a {Wwhite{x candle~
+A {Wwhite{x candle flickers here.~
+SELECT_A_MATERIAL light_source AGI A
+0 0 BCDE 0 0
+20 20 2000 P
+A
+17 -10
+A
+12 80
+A
+3 1
+#21217
+red candle~
+a {rred{x candle~
+A {rred{x candle burns furiously.~
+SELECT_A_MATERIAL light_source ABGM A
+0 0 AC 0 0
+20 120 3500 P
+A
+20 4
+A
+18 36
+A
+19 12
+A
+2 4
+A
+1 4
+A
+3 -4
+A
+17 120
+A
+12 -60
+A
+14 -60
+#21218
+clear candle~
+a clear candle~
+A clear, colorless candle.~
+SELECT_A_MATERIAL light_source ABGM A
+0 0 AC 0 0
+25 50 5000 P
+A
+17 -150
+A
+20 -15
+A
+4 -10
+A
+14 -100
+A
+19 -50
+A
+18 -50
+#21219
+soul lash whip~
+the {DSoul Lash{x~
+A strand of pure evil is coiled here.~
+SELECT_A_MATERIAL weapon BEJ AN
+whip 7 7 whip C
+48 140 9000 P
+A
+18 4
+A
+19 4
+#21220
+closet key~
+a closet key~
+The key to Jaek's closet.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 50 0 P
+#21221
+skeleton key~
+a {Wskeleton{x key~
+A skeleton key on a neckchain.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 50 0 P
+#21222
+ring wedding~
+a {Ywedding ring{x~
+A gold wedding ring.~
+SELECT_A_MATERIAL armor IM AB
+BD BD BD AC 0
+35 10 10000 P
+A
+4 1
+A
+19 2
+A
+12 40
+#21223
+irons leg~
+a pair of {DLeg Irons{x~
+A pair of iron shackles lay here.~
+SELECT_A_MATERIAL armor JM AG
+BCD BCD BCD ABC 0
+45 300 1000 P
+A
+9 20
+A
+2 -2
+A
+12 50
+A
+14 -250
+#21224
+wrist irons~
+a pair of {DWrist Irons{x~
+A pair of wrist irons are set here.~
+SELECT_A_MATERIAL armor JM AH
+ABCD ABCD ABCD BD 0
+50 250 1500 P
+A
+13 30
+A
+17 -30
+A
+9 15
+A
+19 -15
+#21225
+red portal ~
+a shimmering red portal.~
+A shimmering red portal in one corner.~
+SELECT_A_MATERIAL portal 0 0
+7 0 0 0 0
+0 0 0 P
+#21226
+lute dischord~
+the {MLute{x of {MDischord{x~
+A lute sits here impatiently.~
+SELECT_A_MATERIAL weapon BG AN
+exotic 6 7 magic G
+30 100 2000 P
+A
+12 15
+A
+3 1
+A
+19 -6
+#21227
+cloak storm~
+{bStorm Cloak{x~
+A stormy cloak billows on the ground.~
+SELECT_A_MATERIAL potion AGY AK
+42 'chain lightning' '' '' ''
+32 120 1500 P
+A
+12 20
+A
+17 -10
+#21228
+mask fear face~
+{GFace{x of {GFear{x~
+A hungry, scary looking mask.~
+SELECT_A_MATERIAL pill AGUY AE
+30 'teleport' 'reserved' 'reserved' 'reserved'
+35 60 1800 P
+A
+13 15
+A
+17 -10
+#21229
+note sour~
+a {MSour Note{x~
+A sour note hangs in the air here.~
+MAGIC_ENERGY armor B AQ
+ABC BC AC C 0
+20 0 1000 P
+A
+12 10
+A
+18 2
+#21230
+iron spear~
+an {DIron Spear{x~
+A short hafted iron spear.~
+SELECT_A_MATERIAL weapon I AN
+spear 10 9 stab 0
+50 170 4000 P
+A
+13 20
+A
+18 8
+A
+19 10
+#21231
+iron mace~
+an {DIron Mace{x~
+A heavy iron mace.~
+SELECT_A_MATERIAL weapon I AN
+mace 8 7 pound 0
+38 240 6000 P
+A
+18 3
+A
+13 30
+A
+19 3
+#21232
+iron helm~
+an {DIron Helm{x~
+A round iron helmet.~
+SELECT_A_MATERIAL armor I AE
+D ABC D AC 0
+25 120 5000 P
+A
+20 2
+A
+13 25
+#21233
+iron bracer~
+an {DIron Bracer{x~
+A thick iron bracer.~
+SELECT_A_MATERIAL armor I AM
+AD D AD BC 0
+30 70 1500 P
+A
+19 2
+A
+20 2
+A
+13 15
+A
+1 1
+#21234
+grapes~
+a bunch of grapes~
+A bunch of fresh grapes.~
+SELECT_A_MATERIAL food I A
+ABCD ABCD 0 0 0
+1 10 50 P
+#21235
+raisins~
+a bag of raisins~
+A small bag of raisins.~
+SELECT_A_MATERIAL food I A
+ADE ADE 0 0 0
+5 20 80 P
+#21236
+bowl jelly~
+a bowl full of jelly~
+A bowl of grape jelly.~
+SELECT_A_MATERIAL food 0 0
+BCG BCG 0 0 0
+10 50 250 P
+#21237
+potion grape~
+a grape flavored potion~
+A bottle of purple liquid.~
+SELECT_A_MATERIAL potion I A
+15 'cure serious' 'reserved' 'reserved' 'reserved'
+5 150 300 P
+#21238
+wine bottle~
+a bottle of wine~
+A wine bottle.~
+SELECT_A_MATERIAL drink I A
+20 20 'red wine' 0 0
+10 100 500 P
+#21239
+cask wine~
+a cask of wine~
+A wine cask.~
+SELECT_A_MATERIAL drink I A
+100 100 'red wine' 0 0
+10 400 2000 P
+#21240
+vial quicksand~
+a {WVial{x of {yQuicksand{x~
+A vial of mucky sand.~
+SELECT_A_MATERIAL wand G AO
+65 1 1 'slow' 0
+30 50 2000 P
+A
+17 -9
+A
+18 3
+A
+2 1
+#21241
+bulb oil~
+a Glass Bulb of Oil~
+An oil bulb is here.~
+SELECT_A_MATERIAL wand AG AO
+50 1 1 'fireball' 0
+40 100 2500 P
+#21242
+bulb ether~
+a Glass Bulb of Ether~
+An either filled bulb.~
+SELECT_A_MATERIAL wand BG AO
+55 1 1 'sleep' 0
+45 100 3000 P
+#21243
+bulb fireflies~
+a {YBulb {xof {RFireflies{x~
+A bulb full of live fireflies.~
+SELECT_A_MATERIAL light_source AG A
+0 0 CDFI 0 0
+70 450 15000 P
+A
+17 -110
+A
+14 -150
+A
+12 -150
+A
+20 -10
+#21244
+bottle acid~
+a bottle of acid~
+A bottle of acid.~
+SELECT_A_MATERIAL wand A AO
+60 1 1 'acid breath' 0
+55 100 2000 P
+#21245
+poison bottle~
+a bottle of poison~
+A bottle of poison.~
+SELECT_A_MATERIAL wand A AO
+65 1 1 'gas breath' 0
+60 100 2500 P
+#21246
+key glass~
+a glass key~
+A narrow glass key.~
+SELECT_A_MATERIAL key U A
+0 0 0 0 0
+0 100 100 P
+#21247
+sword glass~
+a {WGlass Sword{x~
+A shimmering glass sword.~
+GLASS weapon AG AN
+sword 8 6 slice E
+45 60 10000 P
+A
+18 5
+A
+19 5
+#21248
+knife glass~
+a {WGlass Knife{x~
+A shimmering glass knife.~
+SELECT_A_MATERIAL weapon AG AN
+dagger 7 7 pierce D
+45 150 10000 P
+A
+19 2
+A
+18 7
+#21249
+amulet crystal~
+{WCrystal Amulet{x~
+A sparkling crystal amulet.~
+SELECT_A_MATERIAL armor I AC
+BD BD BD BD 0
+42 60 4000 P
+A
+12 20
+A
+17 -10
+#21250
+shard glass~
+{WGlass Shard{x~
+A shard of glass.~
+SELECT_A_MATERIAL armor AU AO
+BC ABC BC 0 0
+35 10 5000 P
+A
+13 30
+A
+19 3
+#21251
+goggles Zebo~
+{YZebo's Goggles{x~
+A pair of goggles.~
+SELECT_A_MATERIAL armor 0 AE
+CD CD CD BC 0
+50 40 5500 P
+A
+2 1
+A
+3 1
+A
+12 25
+#21252
+robes zebo~
+{gGreen Robes of Zebo!{x~
+A long green robe.~
+SELECT_A_MATERIAL armor A AK
+ABCD ABCD ABCD ABCD 0
+50 120 8000 P
+A
+20 3
+A
+18 5
+A
+14 50
+A
+12 50
+#21253
+bottle~
+a bottle~
+A glass bottle.~
+SELECT_A_MATERIAL drink I A
+20 0 'water' 0 0
+0 100 100 P
+#21254
+glass ring~
+a glass ring~
+A glass ring.~
+SELECT_A_MATERIAL armor 0 AB
+AC AC AC 0 0
+10 50 2000 P
+A
+19 1
+A
+5 1
+A
+4 1
+#21255
+cloak wolfskin~
+{DWolfskin Cloak{x~
+A cloak of wolfskin.~
+SELECT_A_MATERIAL armor I AC
+CD CD CD 0 0
+34 150 2500 P
+A
+13 12
+A
+19 2
+#21256
+wolf boots~
+{DWolf Boots{x~
+A pair of wolfskin boots.~
+SELECT_A_MATERIAL armor I AG
+ABC ABC ABC 0 0
+28 120 2000 P
+A
+14 28
+A
+2 1
+#21257
+staff~
+a {ySpiked Staff{x~
+A spiked staff.~
+SELECT_A_MATERIAL weapon A AN
+exotic 5 9 thrust 0
+30 200 3000 P
+A
+1 1
+A
+19 3
+#21258
+gloves sticky~
+{cSticky Gloves{x~
+A pair of sticky thieving gloves.~
+SELECT_A_MATERIAL armor AG AH
+CD BCD BCD D 0
+50 30 7000 P
+A
+18 6
+A
+2 2
+#21259
+black blue potion~
+a lumpy {Dblack{x and {Bblue{x potion~
+A black and blue potion full of lumps looks unappeasing.~
+SELECT_A_MATERIAL potion F A
+30 'floating disc' 'reserved' 'reserved' 'reserved'
+30 50 1500 P
+#21260
+dirk serrated~
+a {rSerrated Dirk{x~
+A dirk with a serrated edge.~
+SELECT_A_MATERIAL weapon B AN
+dagger 5 11 stab D
+50 70 5000 P
+A
+18 -4
+A
+19 8
+#21261
+shield dark magic~
+{DDark Magic{x~
+A shield of dark magic forms a shadow here.~
+SELECT_A_MATERIAL armor EFGJ AJ
+BD BD BD 0 0
+45 10 3000 P
+A
+13 30
+A
+20 -2
+#21262
+ring mail~
+{YRing Mail{x~
+A suit of polished ring mail.~
+SELECT_A_MATERIAL armor A AD
+BD CD BCD 0 0
+47 300 6000 P
+A
+18 3
+A
+19 3
+#21263
+headband steel~
+{CSteel Headband{x~
+A narrow steel headband.~
+SELECT_A_MATERIAL armor 0 AE
+BD BD BD 0 0
+25 100 1500 P
+A
+12 15
+A
+3 1
+#21264
+blood~
+{rSpilt Blood of the Innocent{x~
+A pool of blood left by an innocent victim.~
+SELECT_A_MATERIAL armor AEJL AG
+D ABC D 0 0
+50 10 500 P
+A
+14 30
+A
+18 3
+A
+19 3
+#21265
+sleeves blue leather~
+{BBlue Leather Sleeves{x~
+A pair of blue leather sleeves.~
+SELECT_A_MATERIAL armor 0 AI
+BC ABC ABC 0 0
+20 50 500 P
+A
+1 1
+A
+13 20
+#21266
+ring venom~
+{GVenom Ring{x~
+A venom filled ring.~
+SELECT_A_MATERIAL pill AJY AB
+60 'poison' 'reserved' 'reserved' 'reserved'
+40 10 300 P
+A
+19 2
+A
+17 -10
+#21267
+blue leather leggings~
+{BBlue Leather Leggings{x~
+A pair of blue leather leggings~
+SELECT_A_MATERIAL armor 0 AF
+ABC D D 0 0
+20 80 700 P
+A
+13 20
+A
+14 20
+#21268
+belt blue leather~
+{BBlue Leather Belt{x~
+A wide blue leather belt.~
+SELECT_A_MATERIAL container 0 AL
+20 AC 0 20 100
+20 60 1000 P
+A
+13 20
+A
+17 -5
+#21269
+ring bone~
+{WRuned Bone Ring{x~
+A rune covered ring of bone.~
+SELECT_A_MATERIAL armor BEJ AB
+AD AD AD AD 0
+45 20 1800 P
+A
+12 30
+A
+18 3
+A
+20 3
+#21270
+cloak straw~
+{YStraw Cloak{x~
+A woven cloak of straw.~
+SELECT_A_MATERIAL armor 0 AC
+B AD AC A 0
+10 70 50 P
+#21271
+honor~
+{WA Knight's Honor{x~
+A knight's honor hovers here.~
+SELECT_A_MATERIAL light_source AIK A
+0 0 DGH 0 0
+45 10 1 P
+A
+17 -10
+A
+13 45
+A
+20 -1
+A
+1 1
+#21272
+motive secret~
+{DA Secret Motive{x~
+A secret motive is exposed here.~
+SELECT_A_MATERIAL armor BF AQ
+CD CD CD BC 0
+45 10 1000 P
+A
+18 3
+A
+19 3
+E
+=segment=~
+joinswith 10620 creates 23442
+{cYou have discovered a piece of the mystic {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!{x
+`
+
+$n {chas a {rP{gu{bz{yz{bl{ge{rD {clook on their face.{x
+`
+ 
+~
+#21273
+plate steel armor~
+{CSteel Plate Armor{x~
+A steel plate breastplate.~
+SELECT_A_MATERIAL armor AI AD
+ABCD ABCD ABCD BD 0
+45 400 4000 P
+A
+13 40
+A
+14 -40
+A
+1 2
+A
+2 -1
+#21274
+steel plates arm~
+{CSteel Arm Plates{x~
+A pair of steel arm plates.~
+SELECT_A_MATERIAL armor AI AI
+CD CD CD BC 0
+45 200 2000 P
+A
+13 20
+A
+1 1
+A
+18 -2
+A
+19 2
+#21275
+steel plates leg~
+{CSteel Leg Plates{x~
+A pair of steel leg plates.~
+SELECT_A_MATERIAL armor AI AF
+BCD BCD BCD ABC 0
+45 200 2000 P
+A
+18 -2
+A
+19 2
+A
+14 -20
+A
+13 20
+#21276
+steel helmet~
+{CSteel Plumed Helmet{x~
+A plumed steel helmet is here.~
+SELECT_A_MATERIAL armor AI AE
+ABCD ABCD ABCD CD 0
+45 150 1500 P
+A
+18 3
+A
+13 30
+A
+12 -30
+#21277
+steel spurs~
+{CSteel Riding Spurs{x~
+A set of steel spurs is here.~
+SELECT_A_MATERIAL armor AI AG
+BD BD BD AC 0
+45 100 1500 P
+A
+19 3
+A
+14 30
+A
+13 15
+#21278
+steel gauntlets~
+{CSteel Gauntlets{x~
+Two steel gauntlets are here.~
+SELECT_A_MATERIAL armor AI AH
+CD CD CD BC 0
+45 150 2000 P
+A
+1 1
+A
+18 3
+A
+19 3
+#21279
+steel collar~
+{CSteel Collar{x~
+A steel collar rests here.~
+SELECT_A_MATERIAL armor AI AC
+BD BD BD AC 0
+45 100 1500 P
+A
+20 -2
+A
+13 20
+#21280
+steel yoke~
+{CSteel Yoke{x~
+A steel helmet yoke.~
+SELECT_A_MATERIAL armor AI AC
+ABCD ABCD ABCD AC 0
+45 150 2000 P
+A
+5 1
+A
+13 30
+A
+1 2
+#21281
+lance~
+{ra Bloodied Lance{x~
+A gore encrusted lance.~
+SELECT_A_MATERIAL weapon BI AN
+exotic 5 12 thrust 0
+45 200 6000 P
+A
+19 3
+A
+18 6
+A
+2 -1
+#21282
+steel kite shield~
+{CSteel Kite Shield{x~
+A steel kite shaped shield is here.~
+SELECT_A_MATERIAL armor AI AJ
+E E E D 0
+45 250 4000 P
+A
+20 -5
+A
+13 50
+#21283
+sash~
+{RRed Sash{x~
+A red waist sash is here.~
+SELECT_A_MATERIAL armor BI AL
+AD AD AD 0 0
+45 50 1250 P
+A
+1 1
+A
+2 1
+A
+20 -3
+#21284
+bow frost~
+{WFrost Bow{x~
+An icy bow collects condensation here.~
+SELECT_A_MATERIAL weapon AGI AN
+exotic 6 8 pierce B
+44 150 4700 P
+A
+19 2
+A
+18 2
+#21285
+bow speed~
+{bSpeed Bow{x~
+A softly vibrating bow is ready to go here.~
+SELECT_A_MATERIAL weapon BG AN
+exotic 8 5 pierce 0
+42 120 3200 P
+A
+18 4
+A
+19 2
+A
+2 2
+#21286
+banded mail~
+{yBanded Mail{x~
+A mail formed by bands of armor.~
+SELECT_A_MATERIAL armor A AD
+AE ABE AE AD 0
+40 350 4800 P
+A
+20 -2
+A
+13 20
+A
+19 2
+#21287
+buckler~
+{GArcher's Buckler{x~
+An archer's oval buckler.~
+SELECT_A_MATERIAL armor 0 AJ
+ABD AD ABD BC 0
+25 80 1200 P
+A
+20 -2
+A
+13 25
+#21288
+coif leather~
+{gGreen Leather Coif{x~
+A green leather coif is here.~
+SELECT_A_MATERIAL armor 0 AE
+BD CD CD D 0
+34 60 1100 P
+A
+18 2
+A
+12 20
+A
+4 1
+#21289
+sabre~
+{ran Oiled Sabre{x~
+A well oiled sabre.~
+SELECT_A_MATERIAL weapon B AN
+sword 5 10 slash E
+42 120 3000 P
+A
+19 3
+A
+18 6
+#21290
+anchor~
+{cAnchor{x~
+An old ship's anchor.~
+SELECT_A_MATERIAL armor A AO
+ABC ABC ABC 0 0
+40 200 150 P
+A
+19 2
+A
+13 20
+A
+1 1
+#21291
+mop swabbing~
+{ya Mop of Swabbing{x~
+A large mop is here.~
+SELECT_A_MATERIAL weapon 0 AN
+mace 7 7 pound 0
+40 140 1500 P
+A
+17 -5
+A
+18 8
+A
+19 8
+#21292
+legs~
+{bA Pirate's Sea Legs{x~
+A pair of seaworthy legs are here.~
+SELECT_A_MATERIAL boat A AF
+0 0 0 0 0
+30 20 1000 P
+A
+18 2
+A
+2 1
+A
+17 -7
+#21293
+toy ship~
+{ya toy pirate ship{x~
+A pirate ship toy.~
+SELECT_A_MATERIAL container 0 AQ
+1 AC 0 1 100
+40 30 100 P
+A
+17 -10
+#21294
+rum bottle~
+a bottle of rum~
+A bottle of rum.~
+SELECT_A_MATERIAL drink 0 AO
+20 20 'rum' 0 0
+5 50 350 P
+#21295
+flask hip~
+a hip flask~
+A hip flask of rum.~
+SELECT_A_MATERIAL drink 0 AL
+10 10 'rum' 0 0
+20 50 200 P
+A
+14 20
+A
+20 -2
+A
+17 -7
+#21296
+clear salty potion~
+clear Salty Potion~
+A salty potion.~
+SELECT_A_MATERIAL potion AF AO
+30 'heal' 'frenzy' 'reserved' 'reserved'
+30 100 1200 P
+#21297
+bikini~
+{DBlack {WSkull & Crossbones {DBikini{x~
+A small bikini cut from a pirate flag.~
+SELECT_A_MATERIAL armor B AD
+A A B A 0
+45 10 5000 P
+A
+12 20
+A
+13 40
+A
+19 4
+A
+18 4
+A
+2 2
+#21298
+eyepatch~
+{DBlack Eyepatch{x~
+A black eyepatch.~
+SELECT_A_MATERIAL armor 0 AE
+AB B B 0 0
+25 10 300 P
+A
+20 -3
+A
+19 3
+A
+18 -3
+A
+4 1
+A
+9 3
+#21299
+dagger rust~
+{Ra Rusty Dagger{x~
+A rust covered dagger.~
+IRON weapon 0 AN
+dagger 5 6 stab 0
+25 45 450 P
+A
+19 1
+A
+18 1
+#21300
+ruby~
+a ruby~
+A ruby sparkles here.~
+SELECT_A_MATERIAL treasure 0 A
+0 0 0 0 0
+1 10 8500 P
+#21301
+bed~
+a king sized bed~
+A king sized bed.~
+SELECT_A_MATERIAL furniture B 0
+AB EGHIJK EHK ADE BD
+0 1 0 P
+#21302
+table dining~
+a table~
+A long rectangular table and chairs.~
+SELECT_A_MATERIAL furniture 0 0
+BC EGHIJK D BD AC
+0 0 0 P
+#21303
+table~
+a round table~
+A round table and four chairs.~
+SELECT_A_MATERIAL furniture 0 0
+C EGHIJK D BD AC
+0 0 0 P
+#21304
+desk~
+a desk~
+A wood desk and chair.~
+SELECT_A_MATERIAL furniture 0 0
+A BCDFGHJ D BD AC
+0 0 0 P
+#21305
+bed straw~
+a bed~
+A straw mattress bed.~
+SELECT_A_MATERIAL furniture 0 0
+B CDEGHIK EHK ABCD BD
+0 0 0 P
+#21306
+cotton bed~
+a bed~
+A cotton mattress bed.~
+SELECT_A_MATERIAL furniture 0 0
+B CDEGHIK EHK ADE ABCD
+0 0 0 P
+#21307
+fireplace~
+a fireplace~
+A brick fireplace.~
+SELECT_A_MATERIAL furniture AY 0
+B CDEGHIK EH BD ABCD
+0 0 0 P
+#21308
+fireplace~
+a fireplace~
+A polished stone fireplace.~
+SELECT_A_MATERIAL furniture 0 0
+B CDEGHIK EH CD BE
+0 0 0 P
+#21309
+clay hearth~
+a hearth~
+A crude clay hearth.~
+SELECT_A_MATERIAL furniture A 0
+B CDEGHIK EH BC AD
+0 0 0 P
+#21310
+room key~
+a room key~
+A key to a room at the inn.~
+SELECT_A_MATERIAL key 0 A
+0 0 0 0 0
+0 10 2000 P
+#21311
+suite key~
+a suite key~
+A key to the suite at the inn.~
+SELECT_A_MATERIAL key A A
+0 0 0 0 0
+0 10 7500 P
+#21312
+bar~
+the bar~
+A long polished cedar bar and stools is here.~
+SELECT_A_MATERIAL furniture 0 0
+BD EFGIJKM D BD AC
+0 0 0 P
+#21313
+wine~
+a goblet of wine~
+A goblet of wine.~
+SELECT_A_MATERIAL drink 0 A
+10 10 'red wine' 0 0
+10 50 200 P
+#21314
+sandwiches tray~
+a tray of bar sandwiches~
+A tray of yummy sandwiches.~
+SELECT_A_MATERIAL food 0 A
+CDEF CDEF 0 0 0
+10 150 250 P
+#21315
+staff~
+{bStaff of Seeking{x~
+A magical staff.~
+SELECT_A_MATERIAL staff BGY AO
+30 20 20 'detect magic' 0
+15 120 6500 P
+A
+12 25
+A
+17 -5
+#21316
+stew vegetable~
+a pot of vegetable stew~
+A pot of hot vegetable stew.~
+SELECT_A_MATERIAL food 0 A
+BCDE BCDE 0 0 0
+0 70 100 P
+#21317
+bacon slab~
+a slab of bacon~
+A slab of bacon is here.~
+SELECT_A_MATERIAL food 0 A
+CE CE 0 0 0
+0 30 75 P
+#21318
+goblet ale~
+a goblet of ale~
+A goblet of ale.~
+SELECT_A_MATERIAL drink 0 A
+10 10 'ale' 0 0
+5 50 150 P
+#21319
+steak~
+a thick juicy steak~
+A thick juicy steak.~
+SELECT_A_MATERIAL food 0 A
+BCDE BCDE 0 0 0
+0 40 120 P
+#21320
+mutton leg~
+a leg of mutton~
+A meaty leg of mutton.~
+SELECT_A_MATERIAL food 0 A
+DF DF 0 0 0
+0 50 150 P
+#21321
+pig roast~
+a roast pig~
+A whole roast pig.~
+SELECT_A_MATERIAL food 0 A
+EG EG 0 0 0
+0 80 350 P
+#21322
+milk bottle~
+a bottle of milk~
+A bottle of milk.~
+SELECT_A_MATERIAL drink 0 A
+20 20 'milk' 0 0
+0 100 200 P
+#21323
+cheese wheel~
+a cheese wheel~
+A wheel of cheese.~
+SELECT_A_MATERIAL food 0 A
+DF DF 0 0 0
+0 60 140 P
+#21324
+butter stick~
+a stick of butter~
+A stick of creamy butter.~
+SELECT_A_MATERIAL food 0 A
+ABCD ABCD 0 0 0
+0 20 50 P
+#21325
+bread corn~
+a pan of cornbread~
+A pan of hot, crumbly cornbread.~
+SELECT_A_MATERIAL food 0 A
+DE DE 0 0 0
+0 50 90 P
+#21326
+jelly donut~
+a jelly filled donut~
+A donut with jelly in the middle.~
+SELECT_A_MATERIAL food 0 A
+BE BE 0 0 0
+0 30 70 P
+#21327
+carrot cake~
+a slice of carrot cake~
+A slice of carrot cake with white icing.~
+SELECT_A_MATERIAL food 0 A
+CD CD 0 0 0
+0 20 35 P
+#21328
+platinum key~
+a heavy platinum key~
+A big platinum key.~
+SELECT_A_MATERIAL key BFY A
+0 0 0 0 0
+0 100 0 P
+#21329
+rapier~
+{Cthe {cR{Capier of the {cS{Cwordmaster{x~
+A swordmaster's rapier is here.~
+STEEL weapon ABY AN
+sword 8 15 slash DG
+65 50 10000 P
+A
+17 40
+A
+12 -400
+A
+18 -10
+A
+19 20
+A
+1 -5
+#21330
+fieldplate~
+fieldplate armor~
+A suit of armor made of plates and mail.~
+SELECT_A_MATERIAL armor A AD
+CE BE BCE CD 0
+50 600 5700 P
+A
+13 125
+A
+14 -50
+A
+20 -5
+A
+19 5
+#21331
+bow black~
+a black bow~
+A simple black short bow.~
+SELECT_A_MATERIAL weapon A AN
+exotic 12 6 pierce DH
+51 250 7700 P
+A
+19 5
+A
+2 1
+A
+13 50
+#21332
+determination~
+grim determination~
+The determination to keep going is here.~
+SELECT_A_MATERIAL armor AFY AK
+CD CD CD CD 0
+52 10 2000 P
+A
+13 100
+A
+5 2
+A
+14 100
+A
+9 5
+#21333
+catapult~
+the catapult~
+The catapult is here, ready to fire.~
+SELECT_A_MATERIAL staff Y AO
+70 55 55 'earthquake' 0
+55 1000 1000 P
+A
+12 -550
+A
+13 550
+A
+14 -220
+A
+2 -2
+A
+19 10
+A
+17 -15
+#21334
+ballista~
+the ballista~
+A ballista is here, reminding you of a giant crossbow.~
+SELECT_A_MATERIAL weapon GM AN
+exotic 24 4 pierce AD
+60 500 1000 P
+A
+14 -200
+A
+2 -2
+A
+13 600
+A
+12 -1200
+A
+17 60
+A
+18 24
+A
+19 12
+#21335
+harpsichord~
+a harpsichord~
+A heavy harpsichord.~
+SELECT_A_MATERIAL weapon BG AN
+exotic 9 7 wrath G
+45 500 2200 P
+A
+18 3
+A
+19 3
+#21336
+silver flute~
+a silver flute~
+A long silver flute.~
+SELECT_A_MATERIAL wand AY AO
+45 3 3 'enchant armor' 0
+30 60 2500 P
+A
+17 -10
+A
+20 -3
+A
+3 2
+#21337
+lyre~
+a lyre~
+A simple lyre.~
+SELECT_A_MATERIAL staff BY AO
+25 15 15 'continual light' 0
+35 150 1600 P
+A
+18 3
+A
+12 30
+A
+2 2
+#21338
+axe berserker~
+the axe of the berserker~
+A dwarven battleaxe is all fired up and ready to go.~
+SELECT_A_MATERIAL weapon BGKM AN
+axe 20 6 cleave E
+56 360 8400 P
+A
+18 -20
+A
+17 110
+A
+19 11
+A
+1 1
+#21339
+shield ~
+dwarven round shield~
+A round dwarven shield.~
+SELECT_A_MATERIAL armor A AJ
+BE BE BE AD 0
+54 300 4000 P
+A
+20 -5
+A
+19 5
+A
+13 100
+A
+5 1
+#21340
+will~
+a war god's will~
+The will of a war god is here waiting to be obeyed.~
+SELECT_A_MATERIAL container BGY AQ
+10 AC 0 10 100
+50 50 1500 P
+A
+19 5
+A
+18 5
+A
+17 -10
+E
+=segment=~
+joinswith 19216 creates 23440
+{cYou have discovered a piece of the mystic {rR{gu{bB{gi{rK{g'{ys {RC{Gu{Bb{RE{b!{x
+`
+
+$n {chas a {rP{gu{bz{yz{bl{ge{rD {clook on their face.{x
+`
+ 
+~
+#21341
+statue god~
+a jeweled statue of a war god~
+A jeweled statue of a war god.~
+SELECT_A_MATERIAL treasure Y A
+0 0 0 0 0
+20 10 9000 P
+#21342
+wave heat~
+a heat wave~
+(no description)~
+SELECT_A_MATERIAL weapon AY AN
+whip 11 5 whip A
+40 30 2400 P
+A
+18 4
+A
+19 2
+A
+20 -4
+A
+13 40
+#21343
+opal~
+a black opal~
+A beautiful black opal.~
+SELECT_A_MATERIAL treasure A A
+0 0 0 0 0
+5 20 7000 P
+#21344
+platinum ring~
+a platinum ring~
+A brilliant platinum ring.~
+SELECT_A_MATERIAL treasure 0 AB
+0 0 0 0 0
+20 30 4500 P
+A
+13 20
+A
+17 -5
+#21345
+silver long sword~
+a silver longsword~
+A sharp silver longsword of elven make.~
+ELF_STEEL weapon AG AN
+sword 9 3 slash E
+34 140 1400 P
+A
+19 3
+A
+18 3
+#21346
+crossbow~
+a crossbow~
+A heavy crossbow is cocked and ready here.~
+SELECT_A_MATERIAL weapon B AN
+exotic 5 9 pierce D
+39 320 1120 P
+A
+19 2
+A
+18 4
+A
+2 1
+#21347
+shadow spear velt~
+{bthe Shadow Spear{x~
+A shadowy spear of legendary power.~
+SELECT_A_MATERIAL weapon BHY AN
+spear 15 19 thrust CDE
+100 100 1 P
+A
+13 350
+A
+19 30
+A
+18 30
+#21348
+shock whip~
+{wA {YS{yh{Yo{yc{Yk{yi{Yn{yg {wWhip~
+{wA {YS{yh{Yo{yc{Yk{yi{Yn{yg {wWhip was left here.{x~
+SELECT_A_MATERIAL weapon 0 AN
+whip 67 2 whip G
+65 10 54000 P
+A
+18 10
+A
+19 5
+#0
+
+
+
+#ROOMS
+#21200
+{MSouthwest Tower{x~
+The tower is circular and completely enclosed. The chimney of the large
+furnace in the middle of the tower rises to support the slanted conical
+roof above. Shuttered archer's slits have been placed evenly in the
+tower wall. A wood ladder follows the chimney to a small platform near
+the ceiling where small sections of the roof can be swung open for a
+greater field of view. Doors leave the tower to the north and east.
+~
+0 8 1
+D0
+~
+~
+1 0 21219
+D1
+~
+~
+1 0 21201
+C 0
+S
+#21201
+{MSouth Wall{x~
+The wall enters the southwest tower to the west and continues to the 
+east. About forty feet south of the wall is the west end of the hold's
+rampart. The rampart gradually slopes upwards as it approaches the
+hold wall before making a sudden fifteen foot drop at its closest
+point to the wall some forty feet away. The rampart prevents most 
+siege machinery from reaching the walls, as it would surely topple.
+The rampart provides no cover for attackers, as the height of the hold
+walls allows them to shoot down on the attackers despite the slope of
+the rampart.
+~
+0 0 2
+D1
+~
+~
+0 0 21202
+D3
+~
+~
+1 0 21200
+C 0
+S
+#21202
+{MSouth Wall{x~
+The south wall continues east and west from the wood hoarding hanging
+over the south edge of the wall here. The gentle slope of the rampart
+about forty feet south of the hold wall continues here, reaching its
+peak at its closest to the hold and suddenly dropping off.
+~
+0 0 2
+D1
+~
+~
+0 0 21203
+D3
+~
+~
+0 0 21201
+C 0
+S
+#21203
+{MSouth Wall{x~
+The south wall continues from the hoarding to the west to the gate
+stairtower to the east. Roofs of some buildings and a gazebo can
+be seen to the north of the wall. To the south of the wall the rampart
+gradually peaks before suddenly dropping fifteen feet at its closest
+point some forty feet from the wall.
+~
+0 0 2
+D1
+~
+~
+1 0 21204
+D3
+~
+~
+0 0 21202
+C 0
+S
+#21204
+{MSouth Wall{x~
+This section of the south wall is completely enclosed. A thick slanted
+shingled roof sits atop the stone walls. To the north a door leads into
+the gate stairtower and to the west a door leads out to a more exposed
+section of the south wall. The interior of the gatehouse is accessable
+to the east. The south wall of this area has periodically spaced
+semicircular alcoves that overhang the wall below. Each alcove allows
+the archer within a greater field of fire and the ability to make attacks
+on those below.
+~
+0 8 2
+D0
+~
+~
+1 0 21240
+D1
+~
+~
+0 0 21205
+D3
+~
+~
+1 0 21203
+C 0
+S
+#21205
+{MMain Gatehouse{x~
+The gatehouse is completely enclosed, a door exits the gatehouse
+to the east, and the enclosed section continues to the west.
+A large semicircular tower on either side of the gates below 
+allows for flanking fire while strengthening the walls around the gates.
+Multiple cauldrons are suspended here either above fires or murder
+holes, ready to cast down their liquid death upon those inside the
+gatehouse below. Winches that control the portcullis and the spikes in
+the gatehouse floor are also located here, as is a large bell used to
+alert the hold of approaching attackers. 
+~
+0 8 1
+D1
+~
+~
+1 0 21206
+D3
+~
+~
+0 0 21204
+C 0
+S
+#21206
+{MSouth Wall{x~
+Battlements run the length of the wall here, those on the south side
+of the wall being equipped with embrasure shutters. The rampart
+continues east of the gatehouse here and follows the wall. To the
+north of the wall you can see Seeker Way and an animal pen.
+~
+0 0 2
+D1
+~
+~
+0 0 21207
+D3
+~
+~
+1 0 21205
+C 0
+S
+#21207
+{MSouth Wall{x~
+Battlements run the length of the wall here, those on the south side
+of the wall being equipped with embrasure shutters. The rampart runs
+parallel to the south wall, sloping gradually to its peak about forty
+feet away before a sudden fifteen foot drop at its closest to the wall.
+The southeast tower can be entered east of here. A vegetable patch and
+the end of Impecunious Lane are visible on the north side of the wall.
+~
+0 0 2
+D1
+~
+~
+1 0 21208
+D3
+~
+~
+0 0 21206
+C 0
+S
+#21208
+{MSoutheast Tower{x~
+The tower is circular and completely enclosed. The chimney of the large
+furnace in the middle of the tower rises to support the slanted conical
+roof above. Shuttered archer's slits have been placed evenly in the
+tower wall. Small chutes are present near each archer's slit, and small
+iron buckets and tongs are available for dumping burning coals on those
+below. Doors exit the tower to the west and north.
+~
+0 8 1
+D0
+~
+~
+1 0 21209
+D3
+~
+~
+1 0 21207
+C 0
+S
+#21209
+{MEast Wall{x~
+The east wall runs north from the southeast tower here. Battlements
+are present on either side of the wall. To the east fields of corn
+are visible and the Impecunious Lane follows the wall to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 21210
+D2
+~
+~
+1 0 21208
+C 0
+S
+#21210
+{MEast Wall{x~
+The east wall runs north and south here with battlements on both sides.
+Empty fields can be seen outside the walls to the east, and the shoddy
+huts and hovels of Impecunious Lane are inside the wall to the west.
+A tar soaked cloth hangs suspended by four wood poles tied to merlons
+on either side of the wall and serves to protect a small area of the
+wall from rain and sun.
+~
+0 0 2
+D0
+~
+~
+1 0 21211
+D2
+~
+~
+0 0 21209
+C 0
+S
+#21211
+{MEast Tower{x~
+This small square stone tower has doors that exit it to the north
+and south. Three archer's slits are in the east wall, and one is
+on either side of the doors to the north and south, allowing attacks
+against those on the wall. The east tower helps to strengthen the wall
+against catapult attacks and denies access to the east stairtower from
+those scaling the wall to the south.
+~
+0 8 1
+D0
+~
+~
+1 21202 21212
+D2
+~
+~
+1 21202 21210
+C 0
+S
+#21212
+{MEast Wall{x~
+This section of the east wall has a wood hoarding for protecting
+defenders while they attack those below. Fields of wheat are
+visible outside the wall to the east, and a door to the west goes
+into the east stairtower.
+~
+0 0 2
+D0
+~
+~
+0 0 21213
+D2
+~
+~
+1 0 21211
+D3
+~
+~
+1 0 21258
+C 0
+S
+#21213
+{MEast Wall{x~
+This part of the east wall runs between the northeast tower and the
+east stairtower. Battlements are present on both sides of the wall,
+those to the east having embrasure shutters. The end of Keep Road
+can be seen to the west, and outside the wall are field of wheat,
+with mountains just barely visible to the northeast.
+~
+0 0 2
+D0
+~
+~
+1 0 21214
+D2
+~
+~
+0 0 21212
+C 0
+S
+#21214
+{MNortheast Tower{x~
+The northeast tower is square with smaller circular areas at each of
+its corners. Archer's slits are equally spaced along the north and east
+walls. Doors near the southwest corner of the tower open west and
+south back to the walls.
+~
+0 8 1
+D2
+~
+~
+1 0 21213
+D3
+~
+~
+1 0 21215
+C 0
+S
+#21215
+{MNorth Wall{x~
+The north wall continues west towards the north stairtower and east 
+towards the east tower. The town hall, Seeker's shrine, and a mansion
+are visible south of the wall. A wood hoarding extends from the north
+edge of the wall, providing additional protection to archers, allowing
+attacks against those at the base of the wall, and a place for guards
+to take refuge from the rain. 
+~
+0 0 2
+D1
+~
+~
+1 0 21214
+D3
+~
+~
+0 0 21216
+C 0
+S
+#21216
+{MNorth Wall{x~
+You on the north wall of the hold, battlements run along either side of
+the walkway. To the west you can see where the wall meets a door to the
+keep, and a thick red line has been painted some thirty feet before
+this point on the walkway. To the south a doorway gives access to 
+the north stairtower. A large clay jug here holds a rope ladder used
+to allow scouts to easily leave and enter the hold without being seen
+by anyone watching the gates. 
+~
+0 0 2
+D1
+~
+~
+0 0 21215
+D2
+~
+~
+1 0 21280
+D3
+~
+~
+0 0 21217
+C 0
+S
+#21217
+{MWall at Moat{x~
+The moat flows under the wall here after passing through a pair of thick
+iron grates. Directly to the west is a door leading into the second
+level of the keep. To the north you can see where the moat rejoins the
+river that feeds it, and the wall continues east. Typically, a guard
+is posted here to make sure no one tampers with the grates that block
+the moat, so perhaps it would be wise not to linger too long.
+~
+0 0 2
+D1
+~
+~
+0 0 21216
+D3
+~
+~
+1 21202 21218
+C 0
+S
+#21218
+{MTop of the Stairtower{x~
+You are at the top of the keep stairtower. To the east through three
+stone arches is a door opening onto the hold wall. A stone slab is held
+by chains between the first and second arches, above the door. Another
+somewhat thinner stone slab is visible in a rectangular slot in the
+floor between the second and third arches, and is being restrained by
+two bolts. In the even the keep is under siege, the bolts are pulled,
+and the heavier slab falls to block the doorway while the lighter slab
+rises to block the doorway with yet another layer of stone. Once the
+lighter slab clears the slot, eight iron bolts at a 45 degree angle
+slide out of the slab, preventing it from going back into the floor.
+To the west is a heavy iron door, while a small wood door is to the
+south.
+~
+0 0 1
+D1
+~
+~
+1 21202 21217
+D2
+~
+~
+1 0 21356
+D3
+~
+~
+1 21202 21364
+D5
+~
+~
+0 0 21353
+C 0
+S
+#21219
+{MWest Wall{x~
+This section of the wall runs between the southwest tower and the west
+stairtower to the north. Battlements line both sides of the wall here, 
+though the battlements to the west have been equipped with wood 
+embrasure shutters. To the west you can see the vineyards and some of
+the grazing lands that support the hold. Someone has carved "Kevon
+& Mira" into one of the merlons here.
+~
+0 0 2
+D0
+~
+~
+0 0 21220
+D2
+~
+~
+1 0 21200
+C 0
+S
+#21220
+{MWest Wall{x~
+The west wall runs south from the west gatehouse here. The west stairtower
+can be entered to the east. A large wood hoarding runs along the west edge
+of the wall here, protecting defenders on the wall and blocking view of
+the stairtower. Some arrows and poles for knocking ladders away from the
+walls are stored in the hoarding. As a last resort, the removal of three
+thick iron rods will release the hoarding and send it crashing down to
+the ground below.
+~
+0 0 2
+D0
+~
+~
+0 0 21221
+D1
+~
+~
+1 0 21223
+D2
+~
+~
+0 0 21219
+C 0
+S
+#21221
+{MWest Gatehouse{x~
+The western gatehouse isn't much compared to the main gatehouse. The gates
+are only six feet wide, and can withstand more of a beating than the
+thinner, if larger, main gates. To the south the wall is met by the
+west stairtower, and to the north the wall ends at the keep wall. Mill
+Road approaches the gatehouse from the east and leaves it heading west
+towards the river and the mill. Small semicircular walls protrude on
+either side of the gate on the west side of the gatehouse to strengthen
+the wall and allow attacks on those at the gates.
+~
+0 8 1
+D0
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21220
+C 0
+S
+#21222
+{MWall at Moat{x~
+The west wall ends at the wall of the keep to the north, and proceeds
+south towards the west gatehouse. The water feeding the moat comes under
+the wall from the west and through a pair of iron grates before flowing
+into the moat to the east. Battlements line both sides of the wall. 
+A covered barrel next to the keep wall contains a net and a couple dozen
+arrows.
+~
+0 0 2
+D2
+~
+~
+0 0 21221
+C 0
+S
+#21223
+{MTop of West Stairtower{x~
+The wall of the hold is to the west, and the base of the tower is at the
+bottom of the stairs. A rope enters the room through a hole in the floor
+near the north wall and ends at a large bell hanging from a ceiling
+beam. A pair of cauldrons sits next to a stove and a pile of firewood
+for providing defenders with boiling water and hot coals to dump on
+attackers.
+~
+0 8 1
+D3
+~
+~
+1 0 21220
+D5
+~
+~
+0 0 21224
+C 0
+S
+#21224
+{MBase of West Stairtower{x~
+Stairs lead up to the hold wall at the south end of the tower, and a
+door exits to Mill Road to the north. A pair of iron shod beams are set
+in grooves in the west wall, and can be slid north to reinforce the
+west gates, or be used alone to block riders on horseback. Near the
+door to the north is a heavy rope which will ring the tower's bell when
+pulled.
+~
+0 8 1
+D0
+~
+~
+1 0 21225
+D4
+~
+~
+0 0 21223
+C 0
+S
+#21225
+{MMill Road at West Gate{x~
+Mill Road heads out the west gate towards the mill, and continues into
+town to the east. To the north the water of the moat flows through
+grates at the base of the wall. A door going into a wall tower is to
+the south.
+~
+0 0 13
+D1
+~
+~
+0 0 21226
+D2
+~
+~
+1 21202 21224
+C 0
+S
+#21226
+{MMill Road{x~
+Mill Road continues to follow the moat west and east here. To the south,
+a narrow alley passes between a tower and the bakery. Off to the north,
+the keep looms above the moat.
+~
+0 0 13
+D1
+~
+~
+0 0 21227
+D2
+~
+~
+0 0 21277
+D3
+~
+~
+0 0 21225
+C 0
+S
+#21227
+{MMill Road{x~
+Mill Road goes west and east from here. To the north is the keep moat,
+followed by the keep itself. The bakery is to the south.
+~
+0 0 13
+D1
+~
+~
+0 0 21228
+D3
+~
+~
+0 0 21226
+C 0
+S
+#21228
+{MMill Road{x~
+A small path winds its way south through a couple trees to the front
+porch of a small house. Mill Road runs west and east from here.
+~
+0 0 13
+D1
+~
+~
+0 0 21229
+D2
+~
+~
+0 0 21299
+D3
+~
+~
+0 0 21227
+C 0
+S
+#21229
+{MMill Road{x~
+Houses flank Mill Road to the north and south. A small, brown brick
+home is to the north and a larger gray stone home is off to the south
+of the road a ways.
+~
+0 0 13
+D0
+~
+~
+1 0 21296
+D1
+~
+~
+0 0 21230
+D2
+~
+~
+0 0 21298
+D3
+~
+~
+0 0 21228
+C 0
+S
+#21230
+{MMill Road{x~
+Mill road begins at Seeker Way to the east and runs west towards the
+Mill. A water tower is off the road to the north a bit, and a path
+leads south towards a white tower.
+~
+0 0 13
+D1
+~
+~
+0 0 21231
+D2
+~
+~
+0 0 21297
+D3
+~
+~
+0 0 21229
+C 0
+S
+#21231
+{MIntersection of Seeker Way and Mill Road{x~
+Mill road intersects the cobblestones of Seeker Way from the west. 
+To the east is the side of a home, and a white tower is visible
+to the southwest.
+~
+0 0 13
+D0
+~
+~
+0 0 21241
+D2
+~
+~
+0 0 21232
+D3
+~
+~
+0 0 21230
+C 0
+S
+#21232
+{MIntersection of Seeker Way and Impecunious Lane{x~
+Seeker Way goes north and south from here, its red cobblestones in
+contrast to the packed dirt of Impecunious Lane to the east. Mill
+Road interects Seeker Way to the north, and a white tower blocks
+travel to the west.
+~
+0 0 13
+D0
+~
+~
+0 0 21231
+D1
+~
+~
+0 0 21250
+D2
+~
+~
+0 0 21233
+C 0
+S
+#21233
+{MSeeker Way{x~
+The red cobblestones of Seeker Way continue here. A sign showing a
+hammer and anvil hangs over a low building to the east. To the west is
+a tall building with a sign of a bed and bottle over the entrance.
+~
+0 0 13
+D0
+~
+~
+0 0 21232
+D1
+~
+~
+1 0 21248
+D2
+~
+~
+0 0 21234
+D3
+~
+~
+1 0 21249
+C 0
+S
+#21234
+{MIntersection of Seeker Way and Market Road{x~
+You are standing on the red cobblestones of Seeker Way, which continue
+both north and south. To your west is the dirt road that leads to
+the shops of the hold. The livery is directly to your east and you can
+see the massive stone gatehouse to your south.
+~
+0 0 13
+D0
+~
+~
+0 0 21233
+D1
+~
+~
+0 0 21247
+D2
+~
+~
+0 0 21235
+D3
+~
+~
+0 0 21260
+C 0
+S
+#21235
+{MSeeker Way{x~
+The red cobblestones of Seeker Way begin at the gatehouse to the south and
+continue out of sight to the north. To the east, a low wood post fence
+holds livestock for later sale, while the livery is just north of that.
+A door to your west enters a tower that rises up the side of the wall.
+Farther to the north, a dirt road heads west from Seeker Way.
+~
+0 0 13
+D0
+~
+~
+0 0 21234
+D1
+~
+pen~
+1 0 21238
+D2
+~
+portcullis~
+1 0 21236
+D3
+~
+~
+1 21202 21239
+C 0
+S
+#21236
+{MInside the Gatehouse{x~
+You are inside the gatehouse of the hold, the stone ceiling arching high
+above you. Small holes scarred by the previous passage of acid and burning
+oil litter the ceiling, and the points of spikes are visible in holes
+beneath your feet. You decide to leave as quickly as possible.
+~
+0 8 1
+D0
+~
+portcullis~
+1 0 21235
+D2
+~
+gate~
+1 21202 21237
+C 0
+S
+#21237
+{MBefore Seeker's Hold{x~
+Before you stand the gates of Seeker's Hold, and beyond those the town
+and keep within. The high stone walls extend far to the east and west and
+are punctuated by towers, archers and guards.
+~
+0 1024 13
+D0
+~
+~
+1 21202 21236
+D3
+~
+~
+0 0 9737
+C 0
+S
+#21238
+{MHolding Pen{x~
+The holding pen was built to keep livestock going to market from running
+rampant in the streets and prevent theft as well. Pigs, sheep, cattle, and
+other animals are being tended to here.
+~
+0 0 2
+D3
+~
+pen~
+1 0 21235
+C 0
+S
+#21239
+{MBase of Gate Stairtower{x~
+This circular tower has a spiraling staircase leading up to the hold 
+walls and a heavy iron door to the east. 
+~
+0 8 1
+D1
+~
+~
+1 0 21235
+D4
+~
+~
+0 0 21240
+C 0
+S
+#21240
+{MTop of Gate Stairtower{x~
+A spiraling stone staircase leads down to ground level and a door opens
+south to the hold wall.
+~
+0 8 1
+D2
+~
+~
+1 0 21204
+D5
+~
+~
+0 0 21239
+C 0
+S
+#21241
+{MSeeker Way{x~
+Seeker Way heads north here away from Mill Road. A large stone and wood
+tower is near the moat to the west, and a low and wide wood and brick
+home with an anchor hanging over the door is to the east.
+~
+0 0 13
+D0
+~
+~
+0 0 21242
+D1
+~
+~
+1 0 21295
+D2
+~
+~
+0 0 21231
+D3
+~
+~
+0 0 21294
+C 0
+S
+#21242
+{MSeeker Way{x~
+Seeker Way comes to an end a bit to the north and continues south out
+of the hold. You can hear bits and pieces of music from the conservatory
+on the west side of the road, and odd smells and peculiar clicking
+sounds reach you from the large warehouse like building to the east.
+To the north you can make out a huge building near the end of Seeker Way.
+~
+0 0 13
+D0
+~
+~
+0 0 21243
+D1
+~
+~
+1 0 21293
+D2
+~
+~
+0 0 21241
+D3
+~
+~
+1 0 21292
+C 0
+S
+#21243
+{MIntersection of Seeker Way and Keep Road{x~
+Seeker Way finally ends here, its red cobblestones continuing several
+feet past keep road, all the way to the stairs leading into the town 
+hall to the north. The town hall rises high above you, and you can
+see two chimneys rise from the angled roof from here, smoke gives
+evidence to the existance of others. Keep road heads towards the 
+keep to the west, and ends at the hold wall a way to the east.
+~
+0 0 13
+D0
+~
+double_doors~
+1 0 21285
+D1
+~
+~
+0 0 21244
+D2
+~
+~
+0 0 21242
+D3
+~
+~
+0 0 21278
+C 0
+S
+#21244
+{MKeep Road{x~
+Keep Road heads west towards the keep, and east towards a mansion.
+To the north of the road a path works its way between
+a few trees to some unseen destination. The weaving house blocks travel
+to the south.
+~
+0 0 13
+D0
+~
+~
+0 0 21287
+D1
+~
+~
+0 0 21245
+D3
+~
+~
+0 0 21243
+C 0
+S
+#21245
+{MEnd of Keep Road{x~
+Keep Road ends here at the hold wall to the east, and heads towards
+Seeker Way and the keep to the west. You can see a mansion set back from
+the road a bit to the north, and there is a big hole in the ground
+to the south.
+~
+0 0 13
+D0
+~
+~
+0 0 21288
+D2
+~
+~
+0 0 21289
+D3
+~
+~
+0 0 21244
+C 0
+S
+#21246
+{MLiving Room{x~
+The living room is enormous. A large stone fireplace is in the middle
+of the north wall, a harpsichord to one side of it and a small bar to 
+the other. A stuffed sofa and endtables line the south wall west of
+the archway to the south, and two statues of different dwarf warriors
+are in the southeast corner of the room. Three matching chairs with
+plush purple cushions line the east wall, and four silver chandeliers
+light the room. An archway to the west leads down a small hallway.
+~
+0 8 1
+D2
+~
+~
+0 0 21291
+D3
+~
+~
+0 0 21379
+C 0
+S
+#21247
+{MLivery{x~
+The livery holds all the wagons, carriages, and carts of the town. It also
+includes a stable for taking care of the horses and oxen. Piles of hay,
+spare wagon wheels, and a few water troughs are strewn about the area.
+~
+0 0 1
+D3
+~
+~
+0 0 21234
+C 0
+S
+#21248
+{MForge Storeroom{x~
+Iron items are everywhere, on shelves, hanging from pegs on the wall,
+a stack of helmets in the corner. Its a wonder the place doesn't collapse
+under the weight of the inventory here. The forge is through the doorway
+to the east.
+~
+0 8 1
+D1
+~
+~
+0 0 21306
+D3
+~
+~
+1 0 21233
+C 0
+S
+#21249
+{MThe Demon's Inn{x~
+This is the common room of the Demon's Inn. You can take a seat at the
+bar or huge roaring fireplace, or head north to a side table.  A
+staircase next to the bar leads up to the rooms of the inn. There is
+a doorway to the south and the doorway to the east leads back out to 
+Seeker Way.
+~
+0 8 1
+D0
+~
+~
+0 0 21320
+D1
+~
+~
+1 0 21233
+D2
+~
+~
+1 0 21319
+D4
+~
+~
+0 0 21321
+C 0
+S
+#21250
+{MImpecunious Lane{x~
+The packed dirt of Impecunious Lane meets the cobblestones of Seeker Way
+to the west and continues to the east. The side of the forge blocks
+travel to the south, and the blacksmith's home lies to the north.
+~
+0 0 13
+D0
+~
+~
+1 0 21304
+D1
+~
+~
+0 0 21251
+D3
+~
+~
+0 0 21232
+C 0
+S
+#21251
+{MImpecunious Lane{x~
+The road runs west and east from here. A covered brick walkway goes
+north towards a house. A small dirt hill is in the middle of a lot to 
+the south.
+~
+0 0 13
+D0
+~
+~
+0 0 21305
+D1
+~
+~
+0 0 21252
+D3
+~
+~
+0 0 21250
+C 0
+S
+#21252
+{MBend in Impecunious Lane{x~
+The road turns from west to south here, and a small path leads off to the
+north. The east wall of the hold rises above you here.
+~
+0 0 13
+D0
+~
+~
+0 0 21256
+D2
+~
+~
+0 0 21253
+D3
+~
+~
+0 0 21251
+C 0
+S
+#21253
+{MImpecunious Lane{x~
+The road runs north and south, following the wall of the hold to the
+east. It looks like someone has dug a hole in the side of an odd looking
+little hill to the west of the road.
+~
+0 0 13
+D0
+~
+~
+0 0 21252
+D2
+~
+~
+0 0 21254
+D3
+~
+~
+0 0 21302
+C 0
+S
+#21254
+{MImpecunious Lane{x~
+The road continues north and south from here, following the hold wall
+just to the east. A peasant hovel is off to the west, a wagon up on bricks
+sits next to it.
+~
+0 0 13
+D0
+~
+~
+0 0 21253
+D2
+~
+~
+0 0 21255
+D3
+~
+~
+1 0 21301
+C 0
+S
+#21255
+{MEnd of Impecunious Lane{x~
+Impecunious Lane ends here at the hold wall. The wall runs north and west
+here. A small path leads into a vegetable patch to the west.
+~
+0 0 13
+D0
+~
+~
+0 0 21254
+D3
+~
+~
+0 0 21300
+C 0
+S
+#21256
+{MPath to Tower{x~
+A narrow dirt path leads between the wall of a house to the west and the
+wall of the hold to the east. At the north end of the path is a tower,
+and the path meets Impecunious Lane to the south.
+~
+0 0 13
+D0
+~
+~
+1 21202 21257
+D2
+~
+~
+0 0 21252
+C 0
+S
+#21257
+{MEast Stairtower{x~
+This circular tower has a spiral staircase that winds its way up
+to the top of the wall. Doors exit the tower to the south and west.
+~
+0 8 1
+D2
+~
+~
+1 0 21256
+D3
+~
+~
+1 0 21259
+D4
+~
+~
+0 0 21258
+C 0
+S
+#21258
+{MTop of East Stairtower{x~
+A door exits east to the hold wall and a spiral staircase goes to the
+tower base.
+~
+0 8 1
+D1
+~
+~
+1 0 21212
+D5
+~
+~
+0 0 21257
+C 0
+S
+#21259
+{MBarracks Courtyard{x~
+The courtyard is enclosed by barrack buildings to the north and west, 
+a stone wall to the south, and the tower ascending the hold wall to the
+east. A small obstacle course built from beams, rope, and pits dug in
+the ground is at one end of the courtyard.
+~
+0 0 2
+D0
+~
+~
+1 0 21333
+D1
+~
+~
+1 0 21257
+D3
+~
+~
+1 0 21332
+D5
+~
+camouflage~
+1 0 21335
+C 0
+S
+#21260
+{MMarket Road{x~
+Market Road passes between the tall inn building to the north and the
+equally high tower of the hold wall to the south. To the east the dirt
+of Market road meets the cobblestones of Seeker Way, while it continues
+towards the market to the west.
+~
+0 0 13
+D1
+~
+~
+0 0 21234
+D3
+~
+~
+0 0 21261
+C 0
+S
+#21261
+{MMarket Road{x~
+Market Road continues east and west from here. To the north side of the
+road is shop with a sign of grapes and a bottle hanging before it. A
+small park runs south from the road until it finally meets the hold wall.
+~
+0 0 13
+D0
+~
+~
+0 0 21263
+D1
+~
+~
+0 0 21260
+D2
+~
+~
+0 0 21264
+D3
+~
+~
+0 0 21262
+C 0
+S
+#21262
+{MMarket Road{x~
+Market Road ends just to the west where the market square begins.
+A large glassblowing shop is on the south side of the road and you
+can see the side of the butcher's shop to the north.
+~
+0 0 13
+D1
+~
+~
+0 0 21261
+D2
+~
+~
+1 0 21265
+D3
+~
+~
+0 0 21266
+C 0
+S
+#21263
+{MWine Seller{x~
+~
+0 8 1
+D2
+~
+~
+0 0 21261
+C 0
+S
+#21264
+{MSmall Park{x~
+The park is sandwiched in between the hold wall to the south, the
+glass shop to the west and a tower to the east. A gazebo is off to the
+west side of the park and bushes and trees dot the area.
+~
+0 0 3
+D0
+~
+~
+0 0 21261
+C 0
+S
+#21265
+{MGlassware shop{x~
+The room is littered with barrels and crates full of bottles, bulbs and
+vials packed in hay. Samples of the items available are present on a
+counter near the middle of the shop. A door leads deeper into the 
+building to the south.
+~
+0 0 1
+D0
+~
+~
+1 0 21262
+D2
+~
+~
+1 0 21312
+C 0
+S
+#21266
+{MMarket Square{x~
+Market square begins here and continues to the north and west.
+Market Road goes east from here to Seeker's Way. To the south is
+the office of the town scribe, and you can see a small spring in the
+middle of a stone pool to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 21269
+D1
+~
+~
+0 0 21262
+D2
+~
+~
+1 0 21267
+D3
+~
+~
+0 0 21268
+C 0
+S
+#21267
+{MTown Scribe{x~
+This is the office of the town scribe. The scribe reads and writes for
+the illiterate citizens of the hold. Hoards of various types of
+parchment are stored here along with a healthy supply of ink and
+writing quills, all of little value.
+~
+0 0 1
+D0
+~
+~
+1 0 21266
+C 0
+S
+#21268
+{MMarket Square{x~
+Market square continues north and east from here. To the west a 
+sign showing a candle hangs in place over a small, sweet smelling 
+shop. A large, brilliantly painted barn is to your south, and you
+see a pool of water to your northeast.
+~
+0 0 2
+D0
+~
+~
+0 0 21272
+D1
+~
+~
+0 0 21266
+D2
+~
+~
+1 0 21270
+D3
+~
+~
+1 0 21271
+C 0
+S
+#21269
+{MMarket Square{x~
+Market square continues west and south from here. The butcher's shop
+is east of here and to the north is a huge bakery with a large chimney
+that is intermittently spewing blasts of flame and smoke up into the
+air. There are a few stone benches by a small spring here.
+~
+0 0 2
+D0
+~
+~
+1 0 21274
+D1
+~
+~
+1 0 21273
+D2
+~
+~
+0 0 21266
+D3
+~
+~
+0 0 21272
+C 0
+S
+#21270
+{MPainter's Barn{x~
+The painter lives in this barn, sleeping on a pile of hay and using
+the loft like a shelf. Paint stained vats and buckets of every color
+lie about the place. Two huge painted splattered boulders sit off
+to one side. A door to the west opens onto a small garden.
+~
+0 0 1
+D0
+~
+~
+1 0 21268
+D3
+~
+~
+1 0 21276
+D4
+~
+~
+0 0 21336
+C 0
+S
+#21271
+{MWax worker{x~
+The candle shop smells heavily of the perfumed wax used in the candles.
+Several pots of melted wax sit on small stoves. Sticks with many
+wicks hanging from them are all over the place... on top of the pots,
+on top of buckets of water, and hanging from a rack cooling. A small
+table to one side is filled with jars of herbs, spices, and dyes used
+in the candles.
+~
+0 0 1
+D1
+~
+~
+1 0 21268
+C 0
+S
+#21272
+{MMarket Square{x~
+Market square continues east and south from here. A barber shop is
+to the west, and an alley cuts between the bakery and the hold wall
+to meet Mill Road to the north. To your east you see a small spring
+in the center of a stone pool.
+~
+0 0 2
+D0
+~
+~
+0 0 21277
+D1
+~
+~
+0 0 21269
+D2
+~
+~
+0 0 21268
+D3
+~
+~
+1 0 21275
+C 0
+S
+#21273
+{MButcher{x~
+You are startled at the scene before you realize the succubus behind
+the counter works here. Blood and gore are all over the place. Despite
+the bloody mess, the meat looks fresh enough and safe to eat.
+~
+0 0 1
+D3
+~
+~
+1 0 21269
+C 0
+S
+#21274
+{MBakery{x~
+You wondered why the bakery seemed so huge from the outside, and now
+you know... the baker is a dragon. The bakery was built to accomodate
+this large dragon, both the building itself and the oven are of
+titanic proportions.
+~
+0 0 1
+D2
+~
+~
+1 0 21269
+C 0
+S
+#21275
+{MBarber{x~
+This barber shop only has one chair, but is well equipped in other respects.
+The place has been swept clean of hair, but small footprints are
+visible several places on the walls and ceiling. 
+~
+0 0 1
+D1
+~
+~
+1 0 21272
+C 0
+S
+#21276
+{MPainter's herb garden{x~
+The garden is filled with herbs and plants of every sort and color.
+The painter uses them to make dyes and inks for the townspeople. The
+garden is bordered on the south and west by the high stone walls of the
+hold.
+~
+0 0 3
+D1
+~
+~
+1 0 21270
+C 0
+S
+#21277
+{MAlley next to Bakery{x~
+This narrow alley connects the market to south with Mill Road to the
+north. The alley is between the massive bakery building to the east
+and the hold wall to the west.
+~
+0 0 13
+D0
+~
+~
+0 0 21226
+D2
+~
+~
+0 0 21272
+C 0
+S
+#21278
+{MKeep Road{x~
+Keep Road passes the conservatory to the south. To the north is one of
+the stairtowers that goes to the top of the hold wall. Farther to the west
+Keep Road turns south to follow the path of the moat. Beyond the moat, the
+high stone wall of the keep rises. Posted on either side of the road
+is a sign warning you not to approach the keep.
+~
+0 0 13
+D0
+~
+~
+1 21202 21279
+D1
+~
+~
+0 0 21243
+D3
+~
+~
+0 0 21281
+C 0
+S
+#21279
+{MBottom of North Stairtower{x~
+A small table and a few chairs are at the bottom of this square stone
+tower. A barrel in the corner holds a few dozen arrows and a pair of
+crude spears to break on impact. Stairs lead up to the top of the tower
+and a door is set in the south wall.
+~
+0 0 1
+D2
+~
+~
+1 0 21278
+D4
+~
+~
+0 0 21280
+C 0
+S
+#21280
+{MNorth Stairtower{x~
+The roof of the tower is made up of thick shingles slanted to deflect
+blows and used because they won't catch fire. Stairs lead down to the
+tower base and a doorway to the north opens onto the hold wall.
+~
+0 0 1
+D0
+~
+~
+1 0 21216
+D5
+~
+~
+0 0 21279
+C 0
+S
+#21281
+{MKeep Road{x~
+Keep Road follows the moat to the south and heads into town to the east
+here. A run down house is just to the north, dangerously close to the
+edge of the moat. You can see the northeast tower of the keep from here,
+and a door that enters the keep from the hold wall. 
+~
+0 0 13
+D0
+~
+~
+0 0 21282
+D1
+~
+~
+0 0 21278
+D2
+~
+~
+0 0 21283
+C 0
+S
+#21282
+{MAbandoned House{x~
+This house is slanted to one side as if it would slide into the moat.
+Alot of furniture was left behind by the previous owner, probably
+because it is so moldy. An old couch barely covers a gaping hole in
+the floorboards and the ceiling looks ready to collapse as well.
+~
+0 0 1
+D2
+~
+~
+0 0 21281
+D5
+~
+couch~
+1 0 21360
+C 0
+S
+#21283
+{MBend in Keep Road{x~
+Keep Road makes a sharp turn west here as it heads towards a narrow
+plank bridge that crosses the moat. Keep Road continues following the
+moat to the north, and the waterwheel and water tower are visible to the
+south. A wide, low sign is set in the ground on either side of the
+bridge warning you not to approach the keep. The sign is probably
+low so you can't hide from the keep's archers behind it...
+~
+0 0 13
+D0
+~
+~
+0 0 21281
+D3
+~
+~
+0 0 21284
+C 0
+S
+#21284
+{MBefore the Keep{x~
+You stand on a narrow bridge of wood planks that crosses the moat. To the
+west the entrance of the keep of Seeker's Hold looms above you. A narrow
+stone staircase flanked on either side by a bed of iron spikes leads
+to a heavy iron door. A few feet above the door are a pair of stone
+gargoyles, the stone about their open mouths pitted as if by acid.
+Above this the stone that hangs out over the first floor of the keep
+is marked by small ports, and you can see scratches and singe marks
+on the wall below that tell of the fate of previous attackers. Higher
+still, the wall continues, broken only by narrow vertical slits for
+archers to fire down upon you. Atop it all are stone battlements with
+embrasure shutters. You finally take time to notice a small sign in the
+ground that says, "No Solicitors Allowed!". 
+~
+0 0 13
+D1
+~
+~
+0 0 21283
+D3
+~
+~
+1 21202 21351
+C 0
+S
+#21285
+{MTown Hall{x~
+The town hall is as vast as a cathedral. The chimneys of the six fireplaces
+used to heat the hall support the angled roof high above. Tapestries line
+the walls and help to warm the building. Festivals, feasts and other
+events are often held here, bringing in travelers from far abroad.
+The large doors of the hall are to the south, and a much smaller door
+leads north to the office of justice.
+~
+0 0 1
+D0
+~
+~
+1 0 21286
+D2
+~
+double_door~
+1 0 21243
+C 0
+S
+#21286
+{MOffice of Justice{x~
+It is here that disputes between people of the hold and surrounding land
+are settled. The small courtroom has areas set aside for the judge, and
+representatives of the people, the accuser and the accused. Crude split
+log benches line the stone walls, and the ever present portal awaits
+to banish criminals. A door leads south to the town hall.
+~
+0 0 1
+D2
+~
+~
+1 0 21285
+C 0
+S
+#21287
+{MSeeker's Shrine{x~
+This area holds a feeling of raw magical power so tangible you'd need
+more than just a puny knife to cut it. Sounds from the bustling hold
+just a few strides away do not reach this place, and you feel it
+would be a good place to meditate. Trees and bushes surround this
+small clearing, and a robed figure is sitting on one of the rocks
+near its center. A path traveled by many pilgrims visiting the Seeker
+makes its way back to Keep Road.
+~
+0 1032 1
+D2
+~
+~
+0 0 21244
+M 500 H 0
+C 0
+S
+#21288
+{MDwarf Mansion{x~
+You stand before the entrance of the wagon maker's mansion. Being
+a dwarf, his mansion doesn't look all that big to the taller races... 
+Small trees that make the wagon maker feel a bit less short line the
+path to mansion to the north. Keep Road is to the south.
+~
+0 8 1
+D0
+~
+~
+1 0 21291
+D2
+~
+~
+0 0 21245
+C 0
+S
+#21289
+{MMansion Construction Site{x~
+A big hole in the ground has been dug here where someone plans to put
+their wine cellar. Other than a couple shovels, picks, and huge
+mounds of dirt, nothing else is here. The hold wall is to the east,
+and Keep Road is back to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 21245
+C 0
+S
+#21290
+{MKitchen{x~
+This well equipped kitchen is large and very clean. All the counters and
+the stove and cabinets are low so the dwarves can easily get to everything.
+You can feel the heat coming from the stove from several feet away and
+you can open the stove door to the north if you want. 
+~
+0 8 1
+D0
+~
+stove~
+1 0 21378
+D2
+~
+~
+1 0 21314
+C 0
+S
+#21291
+{MFoyer{x~
+Four round stone pillars support the ceiling near the corners of this
+square foyer. A thick square plum colored rug with green trim covers
+the floor here. The rug is set at an odd 45 degree angle so that each
+corner of the rug almost reaches the middle of one of the walls.
+High archways lead to rooms to the north and east and the door
+to the south goes back outside.
+~
+0 8 1
+D0
+~
+~
+0 0 21246
+D1
+~
+~
+0 0 21314
+D2
+~
+~
+1 0 21288
+C 0
+S
+#21292
+{MConservatory{x~
+Doors lead off in all directions from this room. Classrooms are to the
+north and south of the hallway while the performance hall is at the end
+of the hallway to the west. Three small chandeliers are equally spaced
+along the length of the hallway, and a long red carpet runs from the
+doors of the conservatory to the east to the performance hall. A few 
+paintings of the more famous students and of people making large donations
+towards the construction and operation of the conservatory hang on the
+walls here.
+~
+0 8 1
+D0
+~
+~
+1 0 21374
+D1
+~
+~
+1 0 21242
+D2
+~
+~
+1 0 21375
+D3
+~
+~
+1 0 21373
+C 0
+S
+#21293
+{MWeaving House{x~
+This room takes up most of the building and contains two huge looms
+and a smaller one off to one side. Few households can afford the cost and
+room a loom consumes, so looms are here for use by all. More often than
+not, the use of the loom is paid for with an hour or two of extra weaving
+work than money. Bolts of finished cloth are scattered about, as are
+spools of thread and yarn. The road is back out the door to the west,
+and archways lead south and east.
+~
+0 8 1
+D1
+~
+~
+0 0 21376
+D2
+~
+~
+0 0 21377
+D3
+~
+~
+1 0 21242
+C 0
+S
+#21294
+{MThe Water Tower{x~
+The water tower is about 40 feet in diameter and a few stories high,
+composed of stone at the base and wood higher up. A conical roof
+drains rain water into the tower, but prevents water loss by
+evaporation. A small waterwheel drives a belt that dips buckets into
+a pool next to the moat and carries them to the top of the water
+tower where they are tipped over by a small peg and dump their
+contents onto the inverted cone roof. The waterwheel runs continously
+and has no control mechanism, so a device was recently installed
+to prevent the tower from flooding. A thick glass bottle is plugged
+to keep air in and tied by a long rope to a gate near the bottom
+of the tower. When the water level in the tower is too high, the
+bottle floating at the top pulls on the rope and keeps the gate
+open until the water level drops. The water tower is used during
+droughts and sieges, its water tested regularly for poison.
+~
+0 0 2
+D1
+~
+~
+0 0 21241
+C 0
+S
+#21295
+{MPirate Dining Hall{x~
+This large room has a stove in one corner and a table littered with 
+empty bottles and dirty dishes in the middle. A bucket of soapy water
+and a puddle of water are on the floor. Doors lead out of the room
+to the north, west, and east.
+~
+0 8 1
+D0
+~
+~
+1 0 21316
+D1
+~
+~
+1 0 21315
+D3
+~
+~
+1 0 21241
+C 0
+S
+#21296
+{MCommon Room{x~
+A fireplace is built into the north east corner of the room, directly
+under the staircase leading upstairs. A worn green rug has been placed
+near it. On the west wall is a trophy head of what must have been an
+enormous black bear. 
+~
+0 0 1
+D2
+~
+~
+1 0 21229
+D4
+~
+~
+0 0 21327
+C 0
+S
+#21297
+{MBefore a Tower{x~
+To the south is a short white stone tower. Even the untrained eye can see 
+the tower's battlements are of a decorative nature, and the walls were
+not built for defensive purposes. To the west a path follows the curving
+wall of the tower, while you can return to Mill Road to the north.
+~
+0 0 13
+D0
+~
+~
+0 0 21230
+D3
+~
+~
+0 0 21342
+C 0
+S
+#21298
+{MBlue Stone Path{x~
+A path of smooth blue stones winds it way from the road to the house,
+not to avoid any particular obstacle but to allow the visitor to
+view the scenery from various angles. Rose bushes line the path
+at some distance, while closer to the path small statues of woodland
+creatures dot the way. To the south the stone house appears even taller
+than before.
+~
+0 0 13
+D0
+~
+~
+0 0 21229
+D2
+~
+~
+1 0 21328
+C 0
+S
+#21299
+{MOn the Porch{x~
+The porch is covered by a continuation of the roof of the house and
+has a wood railing. The trees by the house have seen an onslaught of
+arrows, shot by someone on the porch judging by the angle the arrows
+still stuck in the tree are at. A door leads south into the house.
+~
+0 0 2
+D0
+~
+~
+0 0 21228
+D2
+~
+~
+1 0 21331
+C 0
+S
+#21300
+{MVegetable Patch{x~
+You spot some carrots, onions, and potatos planted in this lot and think
+it a mere garden until you spot a small mound with a man sized hole in
+the middle. You wonder what could be down there...
+~
+0 0 3
+D1
+~
+~
+0 0 21255
+D5
+~
+~
+0 0 21303
+C 0
+S
+#21301
+{MPeasant Hovel{x~
+A small one room peasant hovel. The walls are dried mud and thatch, and
+crudely made. The simple slanted roof of thatch and tar often leaks
+in heavy rains.
+~
+0 8 1
+D1
+~
+~
+1 0 21254
+C 0
+S
+#21302
+{MDingy Lean-To{x~
+This building isn't more than a few low mud walls and an angled roof of
+mud and rotting wood. A moldy straw mattress sits in the low end
+of the lean to. The floor is covered by a pair of fine pine panels.
+~
+0 8 1
+D1
+~
+~
+0 0 21253
+D5
+~
+panel~
+1 0 21317
+C 0
+S
+#21303
+{MA Gnome's Home{x~
+This little hole in the ground looks sturdy and is well furnished.
+An alcove off to one side holds a bed, while the main room has
+a clay fireplace with a kettle hanging over it, a pair of stools and
+a low table. Unfortunately, it looks like some sort of large animal
+has dug a hole in the wall here.
+~
+0 8 1
+D4
+~
+~
+0 0 21300
+C 0
+S
+#21304
+{MSmith's house{x~
+This room is used for cooking, eating, and entertaining guests. A
+painting of the family was made before they came here at no small 
+expense. It shows a happy couple and their two children and hangs
+on the north wall. 
+~
+0 0 1
+D1
+~
+~
+1 0 21309
+D2
+~
+~
+1 0 21250
+D3
+~
+~
+1 0 21308
+C 0
+S
+#21305
+{MBefore a Home{x~
+A covered brick walkway leads to a small brick home to the north. A
+few trees and bushes flank the walkway. Impecunious Lane is just to the
+south, another home is to the west and the hold wall is visible to
+the east.
+~
+0 0 13
+D0
+~
+~
+1 0 21368
+D2
+~
+~
+0 0 21251
+C 0
+S
+#21306
+{MThe Forge{x~
+This is the forge of the hold. A billows feeds air to a furnace of
+hot coals, and a trough is here to quench the metal. A few anvils of
+different shapes are near the furnace, and supplies of iron bars and 
+rods are stored in one corner.
+~
+0 0 1
+D3
+~
+~
+0 0 21248
+D5
+~
+trapdoor~
+2 21221 21307
+C 0
+S
+#21307
+{MUnder the Forge{x~
+The stench in this pit beneath the forge is all together unbearable.
+Whatever is at the end of the small manmade tunnel to the east must
+be the cause of the terrible odor.
+~
+0 9 1
+D1
+~
+~
+0 0 21311
+D4
+~
+trapdoor~
+2 21221 21306
+C 0
+S
+#21308
+{MJaek's room{x~
+Jaek's bedroom is a simple one. The only furniture in the room is his
+bed and a desk and chair. A walk in closet is in the middle of the
+north wall and the door to the east leads back to the center of the
+house. 
+~
+0 8 1
+D0
+~
+~
+2 21220 21310
+D1
+~
+~
+1 0 21304
+C 0
+S
+#21309
+{MMira's room{x~
+The bedroom is clean and simple, containing only a bed and a few chests
+used to hold clothes. Many of Mira's possessions were destroyed in a fire
+before she came here with her father.
+~
+0 0 1
+D3
+~
+~
+1 0 21304
+C 0
+S
+#21310
+{MJaek's closet{x~
+The inside of Jaek's closet is musty, moldy, and smells of burnt flesh.
+If you didn't know better, you'd think he was keeping dead bodies in
+here...
+~
+0 8193 1
+D2
+~
+~
+2 21220 21308
+C 0
+S
+#21311
+{MEarthen Cell{x~
+The filth in this small underground room is horrendous. Apparently
+someone has been living in this small chamber against their will
+for several months, with very little in the way of food, water, or
+even any light.
+~
+0 8193 1
+D3
+~
+~
+0 0 21307
+C 0
+S
+#21312
+{MWorkshop{x~
+The workshop is used to blow anf cut the glass used in the shops products.
+Wide tables span the west and east walls where Zebo and his apprentice
+work. The ovens where the glass is heated and worked take up the center
+of the room. A door leads north back to the shop, and another
+goes to Zebo's quarters to the south.
+~
+0 0 1
+D0
+~
+~
+1 0 21265
+D2
+~
+~
+1 21246 21313
+C 0
+S
+#21313
+{MZebo's Quarters{x~
+This wide rectangular room forms the south end of the shop building and
+is where Zebo sleeps and reads. The place is such a mess of scrolls,
+clothes and what used to be meals that you wonder how he ever gets
+anything done. 
+~
+0 0 1
+D0
+~
+~
+1 21246 21312
+C 0
+S
+#21314
+{MDining Hall{x~
+The dining hall has six cushioned chairs and a table with the legs trimmed
+for dwarf sized dining guests. A single silver chandelier lights the room,
+and a decorative axe and warhammer are mounted crossed over a dwarven
+round shield on the east wall. A doorway leads north out of the room, and
+the archway to the west returns to the foyer.
+~
+0 0 1
+D0
+~
+~
+1 0 21290
+D3
+~
+~
+0 0 21291
+C 0
+S
+#21315
+{MPirate's Pool{x~
+A large stone oval swimming pool full of salt water takes up the
+center of the room. A few potted plants hang from the ceiling here,
+and candles light the room. A keg of rum and a barrel of toy ships
+are off in a corner.
+~
+0 0 1
+D3
+~
+~
+1 0 21295
+C 0
+S
+#21316
+{MPirate Bedroom{x~
+The bedroom has a thick blue rug and painted floorboards. Paintings by
+various artists line the walls, and a statue of a man with a trident
+has been placed against one wall, all undoubtedly pirate loot. 
+~
+0 0 1
+D2
+~
+~
+1 0 21295
+C 0
+S
+#21317
+{MThe Old Mine Shaft{x~
+This is obviously an old mine shaft, but the miners are long gone, the
+veins mined out long ago. A newer looking ladder leads up to the surface and
+down deeper into the earth.
+~
+0 1 1
+D4
+~
+panel~
+1 0 21302
+D5
+~
+~
+0 0 21318
+C 0
+S
+#21318
+{MEntrance to the Underground{x~
+You have reached the bottom of a mine shaft. A heavy steel door is built
+into a recently built brick wall to the east. A ladder leads back up
+to the surface.
+~
+0 9 0
+D1
+~
+~
+2 21328 21339
+D4
+~
+~
+0 0 21317
+C 0
+S
+#21319
+{MDining Hall{x~
+This long room is often rented out for parties or used by special 
+guests. A blood red carpet covers the floor and matches the color of
+the cushions on the chairs. The table is wide and long, with demihuman
+leg bones that line the edge of the table and its legs. The bones have
+been embossed with gold patterns of vines and thorns. On the east wall
+a stately demon stands on a plateau looking down into a valley engulfed
+in flames, which actually appear to be burning as you view the painting.
+A mirror hangs on the west wall that doesn't show reflections of any
+living being. Four demons carved from a deep black wood stand with their
+feet planted near the top of each wall, their bodies leaning out over
+the table and their hands interlocked with those of the adjacent 
+demon to keep the group in their position arched above the table. 
+In three places on the table, the bones of a demihuman hand reach
+up out of a small chunk of cooled lava, fingers outspread for help
+that never came. A red candle with an odd green flame burns on each
+finger tip. Small bowls fashioned from demihuman skulls contain
+dried and crushed garlic, tea leaves, strawberry leaves, barley,
+and cinnamon. The common room of the inn is through the north door.
+~
+0 8 0
+D0
+~
+~
+1 0 21249
+C 0
+S
+#21320
+{MSide Table{x~
+The table is off in a dark, secluded corner of the bar. A painting on the
+north wall shows a family of demons sitting at a thick stone table 
+feasting upon some unidentifiable flesh and drinking from goblets of 
+blood. Salt and pepper shakers in the forms of dragons carved from white
+and black stone are on the table. In the center of the table a female
+demon statuette has a candle locked in a tight embrace. The legs of
+the table and chairs have been carved to resemble human bones.
+~
+0 8 1
+D2
+~
+~
+0 0 21249
+C 0
+S
+#21321
+{MInn Hallway{x~
+The staircase from below ends at a small landing with three doors. To
+the north and south are the rooms of the inn, while the inn's suite
+is through the door to the west.
+~
+0 8 1
+D0
+~
+~
+2 21310 21322
+D2
+~
+~
+2 21310 21323
+D3
+~
+~
+2 21311 21324
+D5
+~
+~
+0 0 21249
+C 0
+S
+#21322
+{MInn Room{x~
+This cheap room has a fireplace crammed in one corner and a bed in
+the other. A bad painting of a sunset hangs on the north wall.
+~
+0 8 1
+D2
+~
+~
+2 21310 21321
+M 250 H 250
+C 0
+S
+#21323
+{MInn Room{x~
+This room has a fireplace along the east wall and a bed along the west.
+A tapestry showing a battle between angels and demons takes up the
+south wall.
+~
+0 8 1
+D0
+~
+~
+2 21310 21321
+M 250 H 250
+C 0
+S
+#21324
+{MSuite Entrance{x~
+This room of the suite has a desk and expensive stone fireplace to sit
+at. There are two paintings on the west wall, on either side of the
+fireplace. Both appear to be portraits of the innkeeper's ancestors.
+The suite's bedroom is to the north, and the dining room is to the
+south.
+~
+0 8 1
+D0
+~
+~
+1 0 21325
+D1
+~
+~
+2 21311 21321
+D2
+~
+~
+1 0 21326
+M 350 H 350
+C 0
+S
+#21325
+{MSuite Bedroom{x~
+Although the room is big by any standards, the size of the bed makes it
+seem too small. The floor is has a green carpet on it, and a tub of
+hot water is in one corner.
+~
+0 8 1
+D2
+~
+~
+1 0 21324
+M 350 H 350
+C 0
+S
+#21326
+{MSuite Dining Room{x~
+This room of the suite has a table and chairs for eating meals. The floor
+is covered by a plush plum rug and the walls have wood paneling. The
+floor boards, ceiling boards and door frame are all exquisitely carved
+with disturbing hellish images. A 12 candle chandelier hangs over the table.
+~
+0 0 1
+D0
+~
+~
+1 0 21324
+M 350 H 350
+C 0
+S
+#21327
+{MBedroom{x~
+This bedroom is as large as the room below and a window in the
+west wall that looks down upon the moat. A chair and spinning
+wheel sit in one corner where Emily spins brightly colored
+thread on occasion.
+~
+0 0 1
+D5
+~
+~
+0 0 21296
+C 0
+S
+#21328
+{MPlanetarium{x~
+Projected onto the ceiling is a dazzling display of tiny white dots
+of light which you soon recognize as representing the stars of the sky.
+Hanging from the middle of the ceiling is a mobile with globes
+representing each of the planets. The planet Jupiter is smack dab
+in the middle of it all, forming a joviacentric system. How absurd.
+Although the room is immense and a good two stories high, the only
+other things in the room is a spiraling staircase leading up and down
+and the door to the north.
+~
+0 0 1
+D0
+~
+~
+1 0 21298
+D4
+~
+trapdoor~
+1 0 21329
+D5
+~
+trapdoor~
+1 0 21330
+C 0
+S
+#21329
+{MOn the Roof{x~
+There is a great view from up here, which is only enhanced by Simon's
+telescope, crude as it may be. The roof is essentially flat and featureless
+with the exception of some slight curvature which is needed for the 
+projections in the room below but has the added benefit of helping
+water drain off the roof.
+~
+0 0 2
+D5
+~
+trapdoor~
+1 0 21328
+C 0
+S
+#21330
+{MBasement{x~
+This room has neatly organized bookcases along part of each wall,
+as well as a drawing board and desk. Plans for a powerful telescope
+have been drawn up here. The books and scrolls cover everything
+known about the stars, which isn't all that much.
+~
+0 1 1
+D4
+~
+trapdoor~
+1 0 21328
+C 0
+S
+#21331
+{MInside the House{x~
+This wood house has three small beds, a table and a stove. A few empty
+crates and curtains add a bit of privacy. A basket of feathers sits
+next to a reel of twine and a can of arrowheads in one corner. A plaque
+is mounted near the door, commemorating Lt. Fletcher for action above
+and beyond the call of duty.
+~
+0 0 1
+D0
+~
+~
+1 0 21299
+C 0
+S
+#21332
+{MQuartermaster's Office{x~
+The room is crammed with files cabinets holding records of purchases
+as well as the military records of all the town guards. The 
+quartermaster's desk has a large stack of supply requistions on
+it, but only a fraction of them have been approved.
+~
+0 0 1
+D1
+~
+~
+1 0 21259
+C 0
+S
+#21333
+{MMess Hall{x~
+A large hall with three tables and a stove at the end of each. Although
+the hall is spotless, an unidentifiable smell reaches your nose. 
+~
+0 0 1
+D2
+~
+~
+1 0 21259
+D3
+~
+~
+1 0 21334
+C 0
+S
+#21334
+{MBarrack Bunks{x~
+The barrack bunkroom has enough bunks for 60 soldiers. Currently, only 
+about 20 of them are being used. Many of the archers and most of the
+town guard have houses they sleep. During wartime, the extra bunks arre
+used to house troops as they move from one waypoint to the next, and to
+act as a hospital.
+~
+0 0 1
+D1
+~
+~
+1 0 21333
+C 0
+S
+#21335
+{MIn a Pit{x~
+A small pit has been dug in the barracks courtyard and covered with
+branches and leaves.
+~
+0 9 1
+D4
+~
+camouflage~
+1 0 21259
+C 0
+S
+#21336
+{MHay Loft{x~
+The hay loft is rather empty, a few old ship sails are here for the
+giant to use as blankets, and some oversized gardening tools. The east
+side of the loft has a few loose boards in the wall.
+~
+0 0 1
+D1
+~
+board~
+1 0 21337
+D5
+~
+~
+0 0 21270
+C 0
+S
+#21337
+{MRoof of the Town Scribe{x~
+You are on the tiled roof of the scribe's office. A red painted barn is
+to the west, and a few feet seperate the roof of the glass shop from
+the one you are on now. The wall of the hold rises above the roof
+to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 21338
+D3
+~
+board~
+1 0 21336
+C 0
+S
+#21338
+{MGlass Shop Roof{x~
+You are up on the shingled roof of the glass shop you could make it
+to the roof of the scribe's office to the west, or jump down onto
+the roof of a gazebo to the east.
+~
+0 0 2
+D1
+~
+~
+0 0 21264
+D3
+~
+~
+0 0 21337
+C 0
+S
+#21339
+{MTunnel in the Underground{x~
+This long brick tunnel has a door at each end. Pieces of discarded
+and broken equipment lay all along the length of the tunnel, some 
+looking as if they were kicked out of the way. A few empty chests
+with broken locks are scattered about.
+~
+0 1 1
+D1
+~
+~
+1 0 21340
+D3
+~
+~
+2 21328 21318
+C 0
+S
+#21340
+{MUnderground Chamber{x~
+This large underground chamber is home to all manner of thieves and
+cutthroats, as well as the ocasional person wrongly accused by the
+law. The cave continues to the east, and a door set in a brick wall to
+the west leads to the surface.
+~
+0 8193 1
+D1
+~
+~
+0 0 21341
+D3
+~
+~
+1 0 21339
+C 0
+S
+#21341
+{MThe Black Market{x~
+This small cavern was set aside as a marketplace. Here the criminals of
+the underground can sell anything, no questions asked. Treasure and
+magic items are piled high here, relatively useless to those who sold
+them.
+~
+0 8201 1
+D3
+~
+~
+0 0 21340
+C 0
+S
+#21342
+{MPath around the Tower{x~
+This path follows the tower wall back towards the road to the east, and
+around to the tower entrance to the south. A small rock garden is here,
+reflecting light of different colors onto the tower wall.
+~
+0 0 13
+D1
+~
+~
+0 0 21297
+D2
+~
+~
+0 0 21343
+C 0
+S
+#21343
+{MAt the Tower Door{x~
+The entrance to the white tower is directly to your east, and the
+path heads north from the door back out towards the street. A small
+garden next to the path has tomatoes and carrots growing in it.
+~
+0 0 13
+D0
+~
+~
+0 0 21342
+D1
+~
+~
+1 0 21344
+C 0
+S
+#21344
+{MWhite Tower Foyer{x~
+This small room has a cheap rug on the floor for whiping your feet off
+on, and a series of pegs are sunk into the north wall for hanging
+coats on. Doorways go into the tower to the east, and back outside to
+the west.
+~
+0 8 1
+D1
+~
+~
+1 0 21345
+D3
+~
+~
+1 0 21343
+C 0
+S
+#21345
+{MTower Base{x~
+A spiraling staircase winds its way up the tower around the round
+chimney of the fireplace at the base. A bearskin rug sits in front of
+the fireplace and a couple of green blankets are draped over a
+pair of wood arm chairs facing the fireplace. A kitchen is visible 
+through an archway to the east, and a door leads to the foyer
+to the west.
+~
+0 8 1
+D1
+~
+~
+0 0 21346
+D3
+~
+~
+1 0 21344
+D4
+~
+~
+0 0 21347
+C 0
+S
+#21346
+{MTower Kitchen{x~
+This kitchen seems larger and better equipped than what a residence
+this size would need. It has a stove large enough for a person to
+climb into, a large table which appears to be used soley for preparing
+meals, and a metal meat locker that must be magical to remain as cold
+as it is. A small round window high in the wall lets in a bit of light.
+The archway goes west back to the tower base.
+~
+0 8 1
+D3
+~
+~
+0 0 21345
+C 0
+S
+#21347
+{MWhite Tower Staircase{x~
+The white staircase winds it way up the tower, ending at a trapdoor.
+Doors exit a landing on the staircase to the west and east.
+~
+0 8 1
+D1
+~
+~
+1 0 21349
+D3
+~
+~
+1 0 21350
+D4
+~
+~
+1 0 21348
+D5
+~
+~
+0 0 21345
+C 0
+S
+#21348
+{MAtop the White Tower{x~
+Thin, flimsy battlements surround the top of the white tower, but
+you suppose they look pretty from the ground. A couple of low wood
+chairs are up here next to a small table. The clouds above the tower
+are odd in that they don't seem to be going anywhere. A trapdoor leads
+back down into the tower staircase.
+~
+0 0 2
+D4
+~
+cloud~
+1 0 21371
+D5
+~
+trapdoor~
+1 0 21347
+C 0
+S
+#21349
+{MTower Dining Room{x~
+The dining room has six chairs and a table which is a bit small for
+so many chairs. A large window takes up much of the east wall and 
+looks out onto Seeker Way. A wood cabinet holding some mundane dishes and
+silverware is against the west wall next the door and has a hole chewed
+in one side by something with tiny teeth.
+~
+0 8 1
+D3
+~
+~
+1 0 21347
+C 0
+S
+#21350
+{MTower Bedroom{x~
+The bedroom has a window in the west wall, giving a view of little
+more than the tall building to the west and a section of Mill Road.
+A bed with purple sheets is against the north wall and a chest of
+clothes is at its foot. A painting of a white dragon poking its head
+through a cloud hangs on the south wall.
+~
+0 8 1
+D1
+~
+~
+1 0 21347
+C 0
+S
+#21351
+{MKeep Entrance{x~
+The entrance room to the keep is incredibly small, just large enough to
+securely mount doors on the north and east walls. A hole has been bored
+in the ceiling and west wall here, but you can't see what is on the
+other side.
+~
+0 8 1
+D0
+~
+~
+1 0 21352
+D1
+~
+~
+1 21202 21284
+C 0
+S
+#21352
+{MKeep Hallway{x~
+This narrow hallway runs north and south. The entrance to the keep is to the 
+south, while to the north you see a staircase. A heavy iron door is in 
+the middle of the west wall. 
+~
+0 9 1
+D0
+~
+~
+0 0 21353
+D2
+~
+~
+1 0 21351
+D3
+~
+~
+1 0 21361
+C 0
+S
+#21353
+{MNortheastern Stairtower{x~
+A stone hallway leads south from this room. A spiraling staircase winds
+up to the next level of the keep. A deep slit cut through the stone of
+the tower wall has been made specifically to allow an archer to fire
+upon enemies attempting to gain entrance to the keep from the south.
+~
+0 8 1
+D2
+~
+~
+0 0 21352
+D4
+~
+~
+0 0 21218
+D5
+~
+trapdoor~
+1 0 21354
+C 0
+S
+#21354
+{MBasement{x~
+This room is piled high with food enough to withstand the longest siege.
+Countless arrows and spears are stored here, along with jars of various
+medicines and cloth bandages. Somewhat out of place is the crate of
+books in one corner. The books contain the works of the hold's historians
+artists and scientist, so that their work would live on even if they and
+their homes are destroyed.
+~
+0 9 1
+D2
+~
+wall~
+1 0 21355
+D4
+~
+~
+1 0 21353
+C 0
+S
+#21355
+{MWater Room{x~
+This room has a large stone well in the middle of it that draws water
+from the moat. Other than several buckets the room is empty, as it has
+been known to flood on occasion. The well is covered by an iron
+grating to prevent unwanted visitors.
+~
+0 8 1
+D0
+~
+~
+1 0 21354
+D5
+~
+grating~
+1 21202 21358
+C 0
+S
+#21356
+{MKeep Hallway{x~
+This hallway is wide enough for two people to pass each other in.
+A doorway is at the north end of the hallway and the hallway opens
+up into a room to the south. A doorway is in the west wall and a
+single archer's slit is in the east wall.
+~
+0 8 1
+D0
+~
+~
+1 0 21218
+D2
+~
+~
+0 0 21357
+D3
+~
+~
+1 0 21365
+C 0
+S
+#21357
+{MArcher's Nest{x~
+This room is large and circular where it overhangs the southeast corner of
+the keep. Stone machicolations have been mounted periodically in the floor,
+allowing arrows, spears, and burning oil to be hurled at the attackers
+at the entrance to the keep below. Archer's slits are present every few
+feet of the wall, giving them a 270 degree field of fire. Each slit has
+a closable shutter which protects adjacent archers when opened. Two
+funnels near the east wall allow acid to be poured on those directly
+before the door to the keep, and a covered hole in the middle of the
+floor allows attack upon those just inside the keep. A ladder goes up
+to the top of the keep.
+~
+0 8 1
+D0
+~
+~
+0 0 21356
+D4
+~
+trapdoor~
+1 0 21367
+C 0
+S
+#21358
+{MIn a Well{x~
+~
+0 1 6
+D1
+~
+~
+0 0 21359
+D4
+~
+grating~
+1 21202 21355
+C 0
+S
+#21359
+{MIn the Moat{x~
+The moat stretches north to flow under the hold wall there, and south
+under the keep bridge before turning west to flow in from under the
+west wall. To your west you see a man made tunnel under the water,
+while to the east the water has flooded a house near the moat.
+~
+0 0 6
+D1
+~
+~
+0 0 21360
+D3
+~
+~
+0 0 21358
+C 0
+S
+#21360
+{MFlooded Basement{x~
+The west wall of the basement has crumbled near the base, letting water
+from the moat rush in and ruin everything here. Bits of rotting wood
+and muddy water are all that are left. Above you, you see a wood ceiling
+with a large hole in it.
+~
+0 9 1
+D3
+~
+~
+0 0 21359
+D4
+~
+couch~
+1 0 21282
+C 0
+S
+#21361
+{MMeeting Room{x~
+The soldiers of the keep eat and converse here rather than in the
+bunk rooms so they don't wake soldiers on other shifts. Important
+announcements and information are also posted here. A map of the 
+hold is on the west wall, and doors leave the room to the north, 
+south, and east.
+~
+0 9 1
+D0
+~
+~
+1 0 21362
+D1
+~
+~
+1 0 21352
+D2
+~
+~
+1 0 21363
+C 0
+S
+#21362
+{MOfficer's Bunks{x~
+This windowless room contains a few bunkbeds and foot lockers. The beds
+strike you as being quite peculiar, as each has a pillow at either end.
+Apparently, officers around here have very sensitive feet, or are 
+short enough to fit two to a bed. 
+~
+0 9 1
+D2
+~
+~
+1 0 21361
+C 0
+S
+#21363
+{MSoldier's Bunks{x~
+This room is somewhat more cramped than what you would have expected
+from looking at the outside of the keep, probably owing to the thickness
+of the walls. Hammocks line three walls, hanging from iron rings sunk 
+into stone columns. In the east wall is a hole covered by a heavy iron
+disk which the soldiers stick their spears through to gore enemies
+in the entrance to the keep.
+~
+0 9 1
+D0
+~
+~
+1 0 21361
+C 0
+S
+#21364
+{MArtillery Platform{x~
+This large stone platform forms the roof of the northwest corner of the
+keep, to the east is the stairtower and to the south is a wall of the
+keep on this level. The platform goes a few feet beyond the previous
+level of the keep to the north and west, and has holes in the overhanging
+portion to allow attacks to be made on those attempting to scale the
+walls. The battlements are especially high in this area and have steps
+near the edge of the platform that the archers must step up onto in 
+able to be able to fire down onto attackers below. This is to protect
+the catapult crews inside. Looking from southwest to north you see the
+river that feeds the moat. The job of the soldiers here is to kill
+anyone attempting to attack the hold from the river. A ladder leads
+up to the ballista platform on the roof.
+~
+0 0 2
+D1
+~
+~
+1 21202 21218
+D4
+~
+~
+0 0 21369
+C 0
+S
+#21365
+{MAlchemist's Kitchen{x~
+Here the alchemist produces the liquid death used against those who
+would lay siege to the hold. Contact poison, potent acids, oils and 
+even disease ridden slimes are either created or stored here, some going
+to Zebo in payment for his aid in the keep's construction. A pair of stoves
+are here for boiling liquids before they are cast down upon enemies. A
+small peephole in the west wall has a curved mirror in it, allowing one
+to view the entire west wall of the keep. Below this are a series of
+small sinks, each with piping to a different section of the west wall, 
+allowing the alchemist to efficiently kill attackers in relative safety
+without running all over the keep. Doors exit the room to the east and
+south.
+~
+0 8 1
+D1
+~
+~
+1 0 21356
+D2
+~
+~
+1 0 21366
+C 0
+S
+#21366
+{MSpell Caster's Sanctum{x~
+The only reason the clerics and mages forced to share this room manage
+to get along is because the clerics worship a war deity and the mages
+are well versed in death magic. A small altar and a couple of beds 
+line the west wall while the east wall has a desk with a few spellbooks,
+a workbench for preparing spell components and beds for mages and
+alchemist of the keep. The room has no windows, the only exit being
+a doorway to the north.
+~
+0 9 1
+D0
+~
+~
+1 0 21365
+C 0
+S
+#21367
+{MAtop the Keep{x~
+The top of this circular tower is protected by embattlements with wood
+embrasure shutters whose base swings away from the tower to allow
+attacks against those below. You are at the highest point in the hold
+and can see the river west of the hold, the forest to the south,
+and even the mist enshrouded mountains far to the northeast.
+~
+0 0 2
+D5
+~
+trapdoor~
+1 0 21357
+C 0
+S
+#21368
+{MPotter's Home{x~
+Clay tiles form the floor of this brick home, and clay shingles make up
+the ceiling. A hammock hangs near the back wall, and a workbench runs
+along the west wall. A great clay kiln dominates the center of the 
+room.
+~
+0 8 1
+D2
+~
+~
+1 0 21305
+C 0
+S
+#21369
+{MNorth of the Turret{x~
+You are at the top of a short iron ladder between the artillery platform
+below and the ballista platform to the south. A small circular stone wall
+is on the roof to the south with a door set in the middle of it.
+~
+0 8 1
+D2
+~
+~
+1 0 21370
+D5
+~
+~
+0 0 21364
+C 0
+S
+#21370
+{MThe Ballista Turret{x~
+The room is a technical masterpiece for its day and age. It consists of
+an inner wood platform and an outer one floating in a deep pool of oily
+water, all surrounded by a reinforced stone wall. On the inner platform
+the ballista is mounted in a fixed position, and an iron ring is mounted
+a few feet above the ballista on four posts. The ballista has a special
+telescopic sight devised by Zebo and Simon. The outer platform has six
+sets of iron posts mounted on it, and each of these has a triangular iron
+plate attached to a hinge at the top, forming the roof. When it comes
+time to fire, the dwarves that reload the ballista jump off the inner
+platform and onto the outer one, causing the ballista's platform to
+float higher and its iron ring to push the roof plates out of the way
+so it has a clear field of fire. The ballista can be easily turned
+because it is floating. After it has fired, the reloaders climb up 
+onto the ballista platform, and the roof plates automatically close,
+protecting them while they reload. The ballista is an important part of
+the hold's defenses because it is used to sink ships at extreme ranges.
+~
+0 8200 1
+D0
+~
+~
+1 0 21369
+C 0
+S
+#21371
+{MIn the Clouds above the White Tower{x~
+These clouds certainly aren't naturally occurring, as soon as you entered
+them you could see the outer surface in all directions. The white tower
+sits far beneath you, and the clouds appear to open up just a bit 
+farther up.
+~
+0 0 3
+D4
+~
+~
+0 0 21372
+D5
+~
+cloud~
+1 0 21348
+C 0
+S
+#21372
+{MAbove the Clouds{x~
+The clouds are directly below you, blocking your view of much of
+the hold beneath you, but you can make out the basically square
+shape formed by the wall and the river west of the hold. The air is thin
+and cold here, and real clouds mingle and mix with the magical ones
+below.
+~
+0 0 9
+D5
+~
+~
+0 0 21371
+C 0
+S
+#21373
+{MConservatory Performance Hall{x~
+The hall has a few rows of chairs facing a low semicircular stage in the
+center of the west wall. Blue curtains hang from the ceiling on either
+side of the stage, creating a small back stage area. Stained glass
+windows mounted high in the north and south walls let light into the
+hall. The doorway to the east is the only exit.
+~
+0 8 1
+D1
+~
+~
+1 0 21292
+C 0
+S
+#21374
+{MConservatory Classroom{x~
+~
+0 8 1
+D2
+~
+~
+1 0 21292
+C 0
+S
+#21375
+{MConservatory Classroom{x~
+~
+0 8 1
+D0
+~
+~
+1 0 21292
+C 0
+S
+#21376
+{MSpinning Room{x~
+The spinning room has a row of spinning wheels for spinning flax and wool.
+Off to one side is pair of crank operated braiders, most often used to
+braid threads of different colors together when it isn't jamming up.
+A tapestry made here adorns the east wall and a small stove is in one
+corner which is used for making tea and small meals. The archway to 
+the west heads back to the weaving room.
+~
+0 8 1
+D3
+~
+~
+0 0 21293
+C 0
+S
+#21377
+{MDyeing Room{x~
+This rooms has vats of dye used to color cloth, or thread and yarn for
+more elaborate garments of multiple colors. A few small stoves are used
+to heat those dyes which require it, and large windows are wide open in
+an attempt to vent some of the fumes coming off the vats. Several racks
+are mounted above shallow troughs to allow items to dry. The archway to 
+the north heads back towards the looms.
+~
+0 8 1
+D0
+~
+~
+0 0 21293
+C 0
+S
+#21378
+{MInside the Stove{x~
+Well, it was a tight fit, but you managed to get more or less all of
+you inside the lit stove. Don't ask me what you expected to find in
+a bed of hot coals, you were the one who did it.
+~
+0 8200 1
+D2
+~
+stove~
+1 0 21290
+C 0
+S
+#21379
+{MShort Hallway{x~
+The hallway begins at the living room to the east and ends at a doorway
+in the south wall. A chair has been placed next to the doorway at the
+end of the hall and a couple of empty wine bottles have been discarded
+under it.
+~
+0 8 1
+D1
+~
+~
+0 0 21246
+D2
+~
+~
+1 0 21380
+C 0
+S
+#21380
+{MMaster Bedroom{x~
+The bedroom is simple and has a luxurious bed with two end tables.
+A low bookshelf along the east wall holds records, journals, and a few
+reference books. Doors leave the room to the north and west.
+~
+0 8 1
+D0
+~
+~
+1 0 21379
+D3
+~
+~
+1 0 21381
+C 0
+S
+#21381
+{MBedroom Closet{x~
+The closet is full of little dwarf sized clothes in many different styles
+and colors but all of the finest make. A few boxes on a shelf and on the
+floor hold various other junk and a small ladder is here. A door leads
+east back to the bedroom.
+~
+0 8 1
+D1
+~
+~
+1 0 21380
+D4
+~
+ceiling~
+1 0 21382
+C 0
+S
+#21382
+{MIn the Attic{x~
+You are in a small space in the attic above the closet. The only
+thing you see up here are a bunch of cobwebs.
+~
+0 8 1
+D1
+~
+cobweb~
+1 0 21383
+D5
+~
+floor~
+1 0 21381
+C 0
+S
+#21383
+{MHidden Attic{x~
+This part of the attic was hidden by some nasty cobwebs. Old boxes,
+crates and clothes have been stashed up here. You can go back through
+the cobwebs to the west.
+~
+0 8 1
+D3
+~
+web~
+1 0 21382
+C 0
+S
+#21384
+{bVelt's {GMonster {rLab{x~
+~
+0 557069 1
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 21202 spec_cast_undead
+M 21221 spec_cast_mage
+M 21235 spec_cast_mage
+M 21240 spec_cast_undead
+M 21248 spec_cast_cleric
+M 21253 spec_cast_mage
+M 21254 spec_breath_frost
+M 21265 spec_breath_acid
+M 21267 spec_breath_fire
+M 21268 spec_cast_mage
+M 21269 spec_cast_cleric
+M 21270 spec_cast_mage
+M 21272 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 21217 3 2
+D 0 21218 1 2
+D 0 21218 3 2
+D 0 21224 0 2
+D 0 21225 2 2
+D 0 21235 1 1
+D 0 21235 3 2
+D 0 21238 3 1
+D 0 21239 1 2
+D 0 21256 0 2
+D 0 21257 2 2
+D 0 21259 5 1
+D 0 21265 2 1
+D 0 21270 3 1
+D 0 21276 1 1
+D 0 21278 0 2
+D 0 21279 2 2
+D 0 21282 5 1
+D 0 21284 3 2
+D 0 21288 0 1
+D 0 21290 0 1
+D 0 21291 2 1
+D 0 21292 0 1
+D 0 21295 0 1
+D 0 21298 2 1
+D 0 21299 2 1
+D 0 21302 5 1
+D 0 21306 5 2
+D 0 21307 4 2
+D 0 21308 0 2
+D 0 21310 2 2
+D 0 21312 0 1
+D 0 21312 2 2
+D 0 21313 0 2
+D 0 21316 2 1
+D 0 21317 4 1
+D 0 21318 1 2
+D 0 21321 0 2
+D 0 21321 2 2
+D 0 21321 3 2
+D 0 21322 2 2
+D 0 21323 0 2
+D 0 21324 1 2
+D 0 21328 0 1
+D 0 21328 5 1
+D 0 21330 4 1
+D 0 21331 0 1
+D 0 21335 4 1
+D 0 21336 1 1
+D 0 21337 3 1
+D 0 21339 1 1
+D 0 21339 3 2
+D 0 21340 3 1
+D 0 21348 4 1
+D 0 21351 0 1
+D 0 21351 1 2
+D 0 21352 2 1
+D 0 21352 3 1
+D 0 21353 5 1
+D 0 21354 2 1
+D 0 21354 4 1
+D 0 21355 0 1
+D 0 21355 5 2
+D 0 21356 3 1
+D 0 21357 4 1
+D 0 21358 4 2
+D 0 21360 4 1
+D 0 21361 1 1
+D 0 21364 1 2
+D 0 21365 1 1
+D 0 21367 5 1
+D 0 21369 2 1
+D 0 21370 0 1
+D 0 21371 5 1
+D 0 21374 2 1
+D 0 21378 2 1
+D 0 21379 2 1
+D 0 21380 0 1
+D 0 21380 3 1
+D 0 21381 1 1
+D 0 21381 4 1
+D 0 21382 1 1
+D 0 21382 5 1
+D 0 21383 3 1
+M 0 21203 12 21200 1
+E 0 21208 0 8
+E 0 21206 0 16
+E 0 21205 0 5
+M 0 21213 14 21202 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+E 0 21284 0 16
+M 0 21203 12 21205 1
+E 0 21205 0 5
+E 0 21209 0 16
+M 0 21213 14 21207 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+E 0 21285 0 16
+M 0 21203 12 21208 1
+E 0 21207 0 11
+E 0 21209 0 16
+M 0 21213 14 21210 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21284 0 16
+E 0 21288 0 6
+M 0 21203 12 21211 1
+E 0 21206 0 16
+E 0 21214 0 6
+E 0 21208 0 8
+M 0 21213 14 21213 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+E 0 21285 0 16
+M 0 21203 12 21214 1
+E 0 21209 0 16
+E 0 21205 0 5
+M 0 21213 14 21215 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+E 0 21284 0 16
+M 0 21264 3 21217 1
+M 0 21213 14 21217 2
+E 0 21285 0 16
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+M 0 21203 12 21217 1
+E 0 21205 0 5
+E 0 21206 0 16
+E 0 21214 0 6
+M 0 21249 12 21218 1
+G 0 21202 0
+E 0 21332 0 12
+E 0 21338 0 16
+E 0 21339 0 11
+E 0 21278 0 9
+M 0 21250 20 21218 1
+E 0 21330 0 5
+E 0 21331 0 16
+E 0 21287 0 11
+M 0 21213 14 21220 2
+E 0 21286 0 5
+E 0 21287 0 11
+E 0 21288 0 6
+E 0 21285 0 16
+M 0 21203 12 21221 1
+E 0 21214 0 6
+E 0 21209 0 16
+E 0 21205 0 5
+M 0 21203 12 21225 1
+E 0 21206 0 16
+G 0 21202 0
+E 0 21205 0 5
+M 0 21275 1 21226 1
+E 0 21346 0 16
+E 0 21288 0 6
+E 0 21265 0 10
+M 0 21218 20 21228 2
+M 0 21218 20 21235 2
+M 0 21203 12 21235 1
+E 0 21206 0 16
+G 0 21202 0
+E 0 21205 0 5
+M 0 21205 8 21238 6
+M 0 21206 5 21238 5
+M 0 21222 1 21238 1
+E 0 21255 0 3
+E 0 21256 0 8
+E 0 21257 0 16
+M 0 21275 3 21244 1
+E 0 21345 0 16
+E 0 21255 0 5
+O 0 21308 0 21246
+M 0 21211 1 21247 1
+G 0 21259 0
+E 0 21270 0 3
+E 0 21267 0 7
+E 0 21268 0 13
+E 0 21266 0 1
+E 0 21265 0 10
+E 0 21264 0 8
+E 0 21263 0 6
+E 0 21262 0 5
+E 0 21261 0 11
+E 0 21260 0 16
+E 0 21258 0 9
+E 0 21269 0 2
+M 0 21209 1 21247 1
+G 0 21201 0
+G 0 21200 0
+G 0 21204 0
+M 0 21200 1 21248 1
+G 0 21233 0
+G 0 21232 0
+G 0 21231 0
+G 0 21230 0
+G 0 21211 0
+G 0 21210 0
+O 0 21308 0 21249
+O 0 21312 0 21249
+M 0 21225 1 21249 1
+G 0 21311 0
+G 0 21310 0
+G 0 21318 0
+G 0 21313 0
+G 0 21314 0
+G 0 21316 0
+M 0 21203 12 21256 1
+E 0 21206 0 16
+G 0 21202 0
+E 0 21205 0 5
+M 0 21219 1 21263 1
+G 0 21239 0
+G 0 21238 0
+G 0 21236 0
+G 0 21235 0
+G 0 21234 0
+M 0 21210 1 21265 1
+G 0 21243 0
+G 0 21242 0
+G 0 21241 0
+G 0 21240 0
+G 0 21245 0
+G 0 21244 0
+G 0 21254 0
+G 0 21253 0
+M 0 21271 1 21267 1
+M 0 21218 20 21268 2
+O 0 21203 0 21269
+M 0 21239 1 21270 1
+E 0 21233 0 14
+E 0 21233 0 15
+M 0 21204 1 21271 1
+G 0 21215 0
+G 0 21216 0
+G 0 21217 0
+G 0 21218 0
+M 0 21227 1 21273 1
+G 0 21324 0
+G 0 21323 0
+G 0 21322 0
+G 0 21321 0
+G 0 21320 0
+G 0 21319 0
+G 0 21317 0
+M 0 21228 1 21274 1
+G 0 21327 0
+G 0 21326 0
+G 0 21325 0
+M 0 21238 1 21275 1
+E 0 21273 0 5
+M 0 21203 12 21278 1
+G 0 21202 0
+E 0 21205 0 5
+E 0 21206 0 16
+M 0 21245 1 21282 1
+M 0 21266 2 21284 1
+M 0 21267 2 21284 1
+M 0 21265 1 21284 1
+M 0 21264 3 21284 2
+M 0 21264 3 21284 2
+M 0 21208 1 21285 1
+E 0 21226 0 16
+E 0 21227 0 12
+E 0 21228 0 6
+E 0 21229 0 18
+O 0 21225 0 21286
+M 0 21212 1 21286 1
+E 0 21272 0 18
+E 0 21273 0 5
+E 0 21274 0 10
+E 0 21275 0 7
+E 0 21277 0 8
+E 0 21276 0 6
+E 0 21278 0 9
+E 0 21279 0 3
+E 0 21280 0 4
+E 0 21281 0 16
+E 0 21282 0 11
+E 0 21283 0 13
+E 0 21271 0 0
+M 0 21214 1 21287 1
+G 0 21315 0
+M 0 21261 1 21293 1
+M 0 21248 1 21294 1
+M 0 21215 1 21295 1
+E 0 21291 0 16
+E 0 21290 0 17
+O 0 21302 0 21295
+O 0 21308 0 21296
+M 0 21229 1 21296 1
+E 0 21207 0 11
+E 0 21230 0 16
+G 0 21320 0
+M 0 21233 1 21299 1
+E 0 21285 0 16
+M 0 21218 20 21300 1
+M 0 21218 20 21301 2
+O 0 21305 0 21301
+O 0 21309 0 21301
+M 0 21218 20 21302 2
+O 0 21305 0 21302
+M 0 21223 1 21303 1
+G 0 21316 0
+O 0 21309 0 21303
+O 0 21306 0 21303
+M 0 21224 5 21303 5
+M 0 21224 5 21303 5
+M 0 21224 5 21303 5
+O 0 21303 0 21304
+M 0 21201 1 21306 1
+E 0 21213 0 16
+E 0 21212 0 12
+G 0 21220 0
+O 0 21306 0 21308
+O 0 21304 0 21308
+O 0 21306 0 21309
+M 0 21202 1 21310 1
+E 0 21221 0 3
+E 0 21219 0 16
+M 0 21207 1 21311 1
+E 0 21222 0 2
+E 0 21223 0 8
+E 0 21224 0 9
+M 0 21220 1 21312 1
+E 0 21250 0 17
+G 0 21246 0
+E 0 21247 0 16
+M 0 21221 1 21313 1
+E 0 21248 0 16
+E 0 21251 0 6
+E 0 21252 0 12
+E 0 21249 0 3
+O 0 21302 0 21314
+M 0 21216 1 21315 1
+E 0 21297 0 5
+E 0 21289 0 16
+G 0 21296 0
+E 0 21294 0 17
+E 0 21293 0 18
+P 0 21300 1 21293 1
+M 0 21217 1 21315 1
+E 0 21299 0 16
+E 0 21295 0 13
+E 0 21298 0 6
+O 0 21301 0 21316
+M 0 21242 1 21318 1
+G 0 21328 0
+O 0 21302 0 21319
+O 0 21303 0 21320
+O 0 21307 0 21322
+O 0 21306 0 21322
+O 0 21306 0 21323
+O 0 21307 0 21323
+O 0 21308 0 21324
+O 0 21304 0 21324
+O 0 21301 0 21325
+O 0 21303 0 21326
+M 0 21226 1 21326 1
+G 0 21238 0
+G 0 21234 0
+G 0 21316 0
+M 0 21230 1 21327 1
+E 0 21254 0 2
+M 0 21232 1 21329 1
+E 0 21265 0 10
+M 0 21231 1 21330 1
+E 0 21268 0 13
+M 0 21234 1 21331 1
+E 0 21288 0 6
+G 0 21325 0
+M 0 21237 1 21332 1
+M 0 21235 1 21334 1
+G 0 21326 0
+M 0 21236 1 21335 1
+G 0 21235 0
+E 0 21208 0 8
+M 0 21240 1 21338 1
+E 0 21232 0 6
+M 0 21243 1 21340 1
+E 0 21329 0 16
+M 0 21241 1 21341 1
+G 0 21347 0
+G 0 21348 0
+O 0 21308 0 21345
+M 0 21244 1 21346 1
+G 0 21321 0
+G 0 21325 0
+G 0 21322 0
+G 0 21327 0
+M 0 21256 1 21348 1
+E 0 21282 0 11
+E 0 21273 0 5
+E 0 21209 0 16
+G 0 21320 0
+G 0 21318 0
+M 0 21255 1 21349 1
+G 0 21323 0
+M 0 21266 2 21351 1
+M 0 21267 2 21351 1
+M 0 21249 12 21352 1
+E 0 21338 0 16
+E 0 21339 0 11
+E 0 21283 0 13
+M 0 21250 20 21353 1
+E 0 21330 0 5
+E 0 21331 0 16
+G 0 21237 0
+M 0 21249 12 21355 1
+E 0 21286 0 5
+E 0 21338 0 16
+E 0 21254 0 2
+E 0 21339 0 11
+E 0 21274 0 10
+G 0 21237 0
+G 0 21237 0
+M 0 21250 20 21357 3
+G 0 21237 0
+G 0 21237 0
+E 0 21330 0 5
+E 0 21331 0 16
+M 0 21250 20 21357 3
+E 0 21330 0 5
+E 0 21288 0 6
+E 0 21331 0 16
+M 0 21250 20 21357 3
+E 0 21330 0 5
+G 0 21241 0
+E 0 21331 0 16
+M 0 21250 20 21361 1
+G 0 21317 0
+G 0 21325 0
+G 0 21238 0
+M 0 21249 12 21361 1
+G 0 21318 0
+G 0 21316 0
+G 0 21319 0
+O 0 21302 0 21361
+M 0 21249 12 21362 1
+E 0 21332 0 12
+M 0 21250 20 21363 1
+E 0 21230 0 16
+E 0 21330 0 5
+G 0 21331 0
+M 0 21252 1 21364 1
+E 0 21333 0 17
+M 0 21250 20 21364 2
+E 0 21331 0 16
+E 0 21330 0 5
+E 0 21288 0 6
+M 0 21250 20 21364 2
+E 0 21331 0 16
+E 0 21330 0 5
+G 0 21230 0
+E 0 21233 0 14
+E 0 21233 0 15
+M 0 21253 1 21365 1
+G 0 21244 0
+G 0 21245 0
+M 0 21269 1 21366 1
+E 0 21340 0 18
+P 0 21341 1 21340 1
+M 0 21270 1 21366 1
+M 0 21249 12 21367 1
+E 0 21338 0 16
+E 0 21339 0 11
+E 0 21332 0 12
+M 0 21268 1 21367 1
+M 0 21247 1 21368 1
+E 0 21233 0 14
+M 0 21251 1 21370 1
+E 0 21334 0 16
+M 0 21249 12 21370 4
+M 0 21249 12 21370 4
+M 0 21249 12 21370 4
+M 0 21249 12 21370 4
+M 0 21254 1 21372 1
+M 0 21260 1 21373 1
+E 0 21337 0 17
+M 0 21259 1 21373 1
+E 0 21336 0 17
+M 0 21257 2 21374 1
+E 0 21335 0 16
+O 0 21303 0 21374
+M 0 21258 6 21374 2
+M 0 21257 2 21375 1
+E 0 21335 0 16
+O 0 21302 0 21375
+M 0 21258 6 21375 3
+M 0 21262 1 21376 1
+M 0 21263 1 21377 1
+M 0 21272 1 21378 1
+E 0 21342 0 16
+M 0 21273 1 21379 1
+E 0 21231 0 16
+E 0 21232 0 6
+G 0 21238 0
+G 0 21238 0
+G 0 21326 0
+M 0 21274 1 21380 1
+M 0 21274 1 21383 1
+G 0 21343 0
+G 0 21254 0
+G 0 21344 0
+G 0 21311 0
+S
+
+
+
+#SHOPS
+21200 9 5 0 0 0 110 100 0 24
+21204 0 1 0 0 0 100 100 0 24
+21209 15 0 0 0 0 100 100 0 24
+21210 1 0 0 0 0 100 100 0 24
+21214 0 0 0 0 0 100 100 0 24
+21219 0 0 0 0 0 100 100 0 24
+21225 0 0 0 0 0 100 100 0 24
+21226 0 0 0 0 0 250 100 0 24
+21227 0 0 0 0 0 100 100 0 24
+21228 0 0 0 0 0 100 100 0 24
+21241 9 5 0 0 0 150 12 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

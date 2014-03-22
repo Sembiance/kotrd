@@ -1,0 +1,804 @@
+#PLAYER
+Name Tricky~
+Id   1087186257
+LogO 1089521656
+Vers 5
+Prom <{w%h{c/{w%H %m{c/{w%M %v{c/{w%V {B%X {x%K{c>{x ~
+Race Human~
+Sex  1
+Cla  3
+OCla -1
+Levl 15
+OldLvl 15
+Sec  0
+Plyd 49105
+Not  1089322792 1089473806 1089276313 0
+Scro 33
+Room 3054
+HMV  219 219 143 143 234 234
+Gold 77
+Silv 270
+Gold_bank 200
+Silv_bank 0
+Shares 0
+Share_level 15
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  15472
+QuestPnts 81
+PAct  DFGQTd
+Empower  0
+WName Tricky~
+Comm FMNO
+Deaf D
+Pos  8
+Prac 10
+Trai 6
+Alig  -1000
+Hit   14
+Dam   16
+ACs -5 -5 -8 58
+Wimp  15
+Attr 14 17 14 18 15
+AMod 4 3 5 7 3
+Pass Tre7mHHzMBRmc~
+Titl  Kid~
+Pnts 40
+TSex 1
+PSize 2
+LLev 12
+HMVP 176 143 184
+Cnd  0 0 13 13
+Alias a k paw~
+Sk 88 'dagger'
+Sk 75 'backstab'
+Sk 1 'circle'
+Sk 1 'dodge'
+Sk 75 'trip'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 1 'hide'
+Sk 1 'peek'
+Sk 67 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 16061
+Nest 1
+Cond 0
+Wear -1
+Cost 1300
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 2
+Cost 620
+End
+
+#O
+Vnum 6601
+Nest 0
+Cond 0
+Wear 1
+Cost 620
+End
+
+#O
+Vnum 4407
+Nest 0
+Cond 0
+Wear 10
+Cost 900
+End
+
+#O
+Vnum 18602
+Nest 0
+Cond 0
+Wear 5
+Cost 250
+End
+
+#O
+Vnum 18610
+Nest 0
+Cond 0
+Wear 6
+Cost 320
+End
+
+#O
+Vnum 18611
+Nest 0
+Cond 0
+Wear 12
+Cost 366
+End
+
+#O
+Vnum 4702
+Nest 0
+Cond 0
+Wear 3
+Cost 1000
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear 8
+Cost 1000
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 25123
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 1100
+Nest 0
+Cond 0
+Wear 0
+Cost 550
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 4238
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 14214
+Nest 0
+Cond 0
+Wear 16
+Cost 600
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'refresh'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Time 705
+Cost 0
+End
+
+#END

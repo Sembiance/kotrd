@@ -1,0 +1,600 @@
+#PLAYER
+Name Mantis~
+Id   1106196123
+LogO 1106428296
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K{W:%c{x ~
+Race Human~
+Clan ChaoS~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 23
+OldLvl 23
+Sec  0
+Plyd 7761
+Scro 33
+Room 3815
+HMV  751 804 270 270 138 232
+Gold 454
+Silv 3944
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 23
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  34050
+PAct  DGQTcd
+AfBy TV
+WName Mantis~
+Comm ENO
+RaceChan 0
+Deaf DP
+Pos  8
+Prac 21
+Trai 7
+Save  -63
+Alig  -1000
+Hit   240
+Dam   121
+ACs -282 -266 -266 -259
+Attr 18 18 18 21 18
+AMod 7 3 1 4 0
+Pass MaptPvMQ6dhSI~
+Titl  - Assassin of {RC{rh{Da{Wo{RS{x~
+Pnts 49
+TSex 1
+PSize 2
+LLev 2
+HMVP 273 160 232
+Cnd  0 26 38 38
+Boards       4 General 1104527061 Ideas 0 Announce 0 Personal 0 
+Sk 1 'sword'
+Sk 84 'dagger'
+Sk 1 'assassinate'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'dodge'
+Sk 76 'second attack'
+Sk 1 'third attack'
+Sk 75 'sneak'
+Sk 50 'recall'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Affc 'giant strength'   0 470 376   4   1          0
+Affc 'fly'   0 470 379   0   0     524288
+Affc 'stone skin'   0 480 376 -40  17          0
+Affc 'combat mind'   0 476  42 100  19          0
+Affc 'combat mind'   0 475  42 -255  17          0
+Affc 'combat mind'   0 476  42 100  18          0
+Affc 'bless'   0 471 126 -62  20          0
+Affc 'bless'   0 481 126 125  18          0
+Affc 'haste'   0 478   1   4   2    2097152
+End
+
+#O
+Vnum 4703
+Nest 0
+Cond 0
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Time 35
+Cost 0
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 15
+Cost -200
+End
+
+#O
+Vnum 15147
+Nest 0
+Cond 0
+Wear 14
+Cost -200
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 25122
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 624
+Nest 0
+Cond 0
+Wear 8
+Cost 1280
+End
+
+#O
+Vnum 2511
+Nest 0
+Cond 0
+Wear 20
+Cost 10000
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 3292
+Nest 1
+Cond 0
+Wear -1
+Cost 290
+Spell 1 'detect invis'
+Spell 2 'detect hidden'
+Spell 3 'detect magic'
+End
+
+#O
+Vnum 2513
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+Val  110 38 10 0 0
+End
+
+#O
+Vnum 2512
+Nest 0
+Cond 0
+Wear 0
+Cost 10000
+End
+
+#O
+Vnum 3729
+Nest 0
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name lybre cookies~
+ShD  a batch of Lybre's delicious cookies~
+Desc a batch of Lybre's delicious cookies~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name argon taco salad~
+ShD  Argon's taco salad~
+Desc Argon's taco salad~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name druh box peanut~
+ShD  Druh's large box of peanuts~
+Desc Druh's large box of peanuts~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Name amberdrake cupcake~
+ShD  Amberdrake's cupcake~
+Desc Amberdrake's cupcake~
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3164
+Nest 1
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 15123
+Nest 0
+Cond 0
+Wear 7
+Cost -200
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear -1
+Cost -900
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5638
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5645
+Nest 0
+Cond 0
+Wear 10
+Cost 1000
+End
+
+#O
+Vnum 11696
+Nest 0
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 8804
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 628
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 14214
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear -1
+Lev  11
+Cost 600
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  10  -1   4  18          0
+Affc 'reserved'   1  10  -1   3  19          0
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4704
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5647
+Nest 0
+Cond 0
+Wear 13
+Cost 1000
+End
+
+#O
+Vnum 15152
+Nest 0
+Cond 0
+Wear -1
+Cost -200
+End
+
+#O
+Vnum 4705
+Nest 0
+Cond 0
+Wear 16
+Cost 1000
+End
+
+#O
+Vnum 25108
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

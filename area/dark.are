@@ -1,0 +1,2070 @@
+#AREADATA
+Name Kingdom of Darkness~
+Builders Sting~
+VNUMs 10600 10699
+Credits 80 - 140~
+Security 8
+Flags F
+LEVELs 83 129
+End
+
+
+
+#MOBILES
+#10601
+guard darkness kod~
+Guard of Darkness~
+{cA huge guard stands here guarding the Kingdom of Darkness from the
+forces of good.{x
+~
+~
+Titan~
+ABT VZc -1000 0
+0
+100 70 1d1+8999 0d0+0 1d1+89 pound
+0 0 0 0
+0 Q I b
+stand stand male 0
+ACHMV ABCDEFGHIJKMV medium unknown
+F imm L
+F res H
+F vul I
+#10602
+high priest~
+High Priest of Darkness~
+{cThe High Priest of Darkness is here, forgiving you for your sins.{x
+~
+~
+unique~
+ABVa CDEFHZ -1000 0
+0
+250 0 1d1+9999 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEF medium unknown
+#10603
+vault guard~
+The Guard of the Vault~
+{cA guard stands here protecting the vault from thieves.{x
+~
+Your every movement is watched by this guard. He knows you would like to get
+your greedy, grubby
+little hands on the royal treasure. But don't count on it. This guard will cut
+you down in a second.
+~
+unique~
+ABT CDFGVZ -1000 0
+0
+100 80 1d1+9999 0d0+0 1d1+89 pound
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEF medium unknown
+#10604
+kod protector of darkness~
+Protector of Darkness~
+{cThe protector of the Angel of Darkness stands here.{x
+~
+This guard is the sworn protector of Sting, the Angel of Darkness, and his son
+Tariq, and he will protect
+them against anything that threatens their existence and reign in this
+kingdom... even if it means his life.
+Do you think you have what it takes to take this guy?
+~
+unique~
+ABCTV CDFGVZ -1000 0
+0
+104 100 1d1+16000 0d0+0 1d1+140 pound
+-44 -44 -44 -44
+CDFHIN 0 H 0
+stand stand male 7500
+AHMV ABCDEF medium unknown
+#10605
+statue angel darkness~
+Statue of Sting~
+{cStanding here is a statue of the Angel of Darkness.{x
+~
+~
+unique~
+ABOTV CDEFGHVZ -1000 0
+0
+129 110 1d1+19999 0d0+0 1d1+149 pound
+0 0 0 0
+0 0 0 0
+stand stand none 25000
+AHMV ABCDEF medium unknown
+#10606
+Tariq prince~
+Tariq, Prince of the Kingdom of Darkness~
+{cTariq, the future ruler of this Kingdom of Darkness, stands here.{x
+~
+~
+unique~
+ACOTVY CDEFGHPTVZc -1000 0
+0
+90 125 1d1+31999 0d0+0 1d1+199 pound
+0 0 0 0
+0 0 0 0
+stand stand male 25000
+AHMV ABCDEF medium unknown
+#10607
+executioner~
+The Executioner~
+{cThe executioner is here waiting to deliver your sentence.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABT Z -1000 0
+0
+93 75 1d1+12999 0d0+0 1d1+59 pound
+0 0 0 0
+0 0 0 0
+stand stand male 7500
+AHMV ABCDEF medium unknown
+#10608
+torturer~
+The Torturer~
+{cThe Torturer is here waiting for another Gypsy to put on the rack.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABT 0 -1000 0
+0
+93 70 1d1+12999 0d0+0 1d1+59 pound
+0 0 0 0
+0 0 0 0
+stand stand male 7500
+AHMV ABCDEF medium unknown
+#10609
+jailer~
+The Jailer~
+{cThe Jailer is here sitting in his chair making sure none of the
+prisoners escape.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABT 0 -1000 0
+0
+88 65 1d1+8999 0d0+0 1d1+59 pound
+0 0 0 0
+0 0 0 0
+stand stand male 5500
+AHMV ABCDEF medium unknown
+#10610
+statue shadow~
+Statue of Dhukka~
+{cA statue of the god of the Shadow clan is here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABOTV CDEFGHVZ 0 0
+0
+120 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 DF 0
+stand stand none 15000
+AHMV ABCDEF medium unknown
+#10611
+statue pirate~
+Statue of Blueblood~
+{cA statue of the great pirate god of Entropy is here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABOTV CDEFGHVZ -1000 0
+0
+122 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 D 0
+stand stand none 17500
+AHMV ABCDEF medium unknown
+#10612
+statue baal verzi~
+Statue of Nathan~
+{cA statue of the ruthless god of Ba'al Verzi is here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABOTV CDEFGHVZ -1000 0
+0
+121 100 1d1+22999 0d0+0 1d1+139 pound
+-30 -30 -30 -30
+0 0 D 0
+stand stand none 16000
+AHMV ABCDEF medium unknown
+#10613
+brutus beefcake barber~
+Brutus 'The Barber' Beefcake~
+{cThe Barber is waiting to give his next haircut.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABV 0 0 0
+0
+100 100 1d1+9999 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEF medium unknown
+#10614
+doctor kevorkian~
+Dr. Kevorkian~
+{cThe good doctor is here with a variety of items to treat whatever may be
+ailing you.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABV 0 -1000 0
+0
+110 0 1d1+9999 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium unknown
+#10615
+waiter~
+Rufus, the Waiter~
+{cRufus is here making sure your hunger is satisfied at his restaurant.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABV 0 0 0
+0
+100 0 1d1+9999 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium unknown
+#10616
+ghost queen allexandra~
+Ghost of Queen Allexandra~
+{cThe ghost of the long deceased queen of Darkness hovers here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABFOR CDEFGHTUVZ -1000 0
+0
+105 90 1d1+13999 0d0+0 1d1+134 pound
+0 0 0 0
+0 0 0 0
+stand stand female 4500
+AHMV ABCDEF medium unknown
+#10617
+protector vault guard~
+Protector of the Secret Vault~
+{cYou think you see something standing between you and the gold door to
+the east.{x
+~
+You barely notice the outline of this protector of the vault. He's here to 
+prevent anyone other than the
+royal family of Darkness, entrance to the real vault... and that includes you.
+~
+unique~
+ABFT CDEFGJQVZ -1000 0
+0
+110 85 1d1+12499 0d0+0 1d1+119 pound
+0 0 0 0
+0 0 0 0
+stand stand male 11000
+AHMV ABCDEF medium unknown
+#10618
+rat~
+Pinky the Rat~
+{cA small pinky laboratory rat is here.{x
+~
+You get down on your knees to look at this creature, and are amazed to see a 
+talking laboratory rat.
+~
+unique~
+AH PQUVZ 0 0
+0
+88 50 1d1+8999 0d0+0 1d1+79 pound
+0 0 0 0
+0 0 0 0
+stand stand male 22000
+AHMV ABCDEF medium unknown
+#10619
+brain rat~
+The Brain~
+{cA pink laboratory rat with huge ears and a big head  is here planning
+world domination.{x
+~
+You get down on your knees and look closer at this rat and are amazed to find a 
+talking rat. The Brain
+looks at you and tells you he is plotting to take over the world.
+~
+unique~
+AH HPQUVZ 0 0
+0
+100 75 1d1+12499 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand male 22000
+AHMV ABCDEF medium unknown
+#10620
+servant ~
+Servant of Darkness~
+{cA servant of the royal family of Darkness is here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ATY Z 0 0
+0
+95 80 1d1+9999 0d0+0 1d1+99 pound
+0 0 0 0
+0 0 0 0
+stand stand none 4500
+AHMV ABCDEF medium unknown
+#10621
+prisoner~
+a prisoner~
+{cA prisoner is here in shackles.{x
+~
+~
+unique~
+ABT 0 500 0
+0
+85 60 1d1+7999 0d0+0 1d1+79 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium unknown
+#10622
+corpse gypsy~
+corpse of a Gypsy~
+{cHere lies the headless corpse of a Gypsy.{x
+~
+You take a closer look at the mob.
+~
+unique~
+ABO 0 500 0
+0
+88 70 1d1+9499 0d0+0 1d1+94 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium unknown
+#10623
+corpse vigilante~
+corpse of a Vigilante~
+{cThe headless corpse of a Vigilante is here.{x
+~
+You take a closer look at the mob.
+~
+unique~
+AOY 0 500 0
+0
+88 0 1d1+9499 0d0+0 1d1+94 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium unknown
+#10625
+statue angel thuth~
+Statue of Halba~
+{cStanding here is a statue of the Angel of Truth.{x
+~
+~
+unique~
+ABOTV CDEFGHVZ 1000 0
+0
+125 110 1d1+19999 0d0+0 1d1+149 none
+0 0 0 0
+0 0 0 0
+stand stand none 25000
+AHMV ABCDEF medium unknown
+#10626
+bed spikes~
+{ca bed of sharp spikes{x~
+{ca bed of sharp spikes is here{x
+~
+~
+unique~
+ABFTe DFJLTV -2000 0
+0
+150 2000 50d50+52000 1d10+1800 5d5+700 crush
+-150 -150 -150 -150
+CDEFHJKOU ABCLQ DHIMN 0
+stand stand male 0
+AHJMV ABCDEFGHIJK giant unknown
+#0
+
+
+
+#OBJECTS
+#10601
+spiked armor~
+{cS{DpikeD Armo{cR {x~
+{c a suit of armor made of sharp spikes is here{x~
+SELECT_A_MATERIAL armor AT AD
+AC CDEF BCDE CE 0
+100 100 0 P
+A
+19 25
+A
+12 -500
+A
+13 -500
+A
+14 -200
+#10602
+key shadow~
+key to the 'Kingdom of Darkness'~
+A shadow in the form of a key lies here.~
+SELECT_A_MATERIAL key ERT AO
+0 0 0 0 0
+0 1 0 P
+E
+key~
+When you look closer at this shadow, you notice that it appears to be
+some kind of key. Your instincts tell you that this key unlocks great
+evil that you probably don't want to mess with.
+~
+#10603
+key quarters~
+key to the Royal Quarters~
+They key to the Royal Quarters lies here.~
+SELECT_A_MATERIAL key EFTY AO
+0 0 0 0 0
+0 5 0 P
+E
+key~
+This key is the key to the Royal Quarters of Sting, the Angel of
+Darkness, and his son Tariq.
+~
+#10604
+key vault~
+key to the vault~
+A key to the greatest riches in the world is here.~
+SELECT_A_MATERIAL key ET AO
+0 0 0 0 0
+0 5 0 P
+#10605
+vault key~
+key to the secret vault~
+This golden key unlocks treasure beyond your wildest dreams.~
+SELECT_A_MATERIAL key ET AO
+0 0 0 0 0
+0 8 0 P
+#10606
+sword darkness~
+sword of Darkness~
+A very dark and evil sword rests here.~
+STEEL weapon BEGJY AN
+sword 9 11 slash BE
+60 70 25000 P
+A
+19 7
+A
+18 7
+A
+13 50
+#10607
+sword protector~
+the Sword of the Protector~
+The sword of the Protector of Darkness lies here.~
+IRON weapon BEFJY AN
+sword 9 12 slash AE
+60 80 20000 P
+A
+19 7
+A
+18 7
+A
+13 50
+A
+5 2
+#10608
+scorpion death~
+scorpion Death Drop~
+A dark, evil object, some kind of weapon perhaps, with a gold scorpion
+engraved on it, rests here.~
+DARK_ELEM weapon BEIJY AN
+dagger 10 10 pierce CH
+64 50 150000 P
+A
+24 -10
+A
+19 9
+A
+18 9
+A
+17 35
+A
+14 -100
+A
+13 150
+A
+12 50
+#10609
+ring darkness kod~
+ring of Darkness~
+A dark and evil ring lies here collecting dust.~
+IRON armor BEGJ AB
+BCDE BCDE BCDE ACE 0
+60 8 15000 P
+A
+2 2
+A
+13 150
+A
+12 50
+A
+19 5
+A
+18 6
+#10610
+ring protector~
+ring of the Protector~
+A ring, belonging to the Protector of Darkness, is here.~
+IRON armor BEGIJT AB
+ABF ABF ABF CDE 0
+60 10 18000 P
+A
+24 -10
+A
+18 2
+A
+13 75
+A
+1 2
+#10611
+eye~
+eye of Truth~
+A golden eye hovers here.~
+ORGANIC light_source BEGHIJMY A
+0 0 DGH 0 0
+45 10 80000 P
+A
+24 -10
+A
+18 4
+A
+4 3
+A
+3 3
+#10612
+forsaker~
+the Forsaker~
+A weapon unlike anything you have ever seen before hovers here.~
+DARK_ELEM weapon BEGHIMRY AN
+axe 10 19 slice C
+90 90 28000 P
+A
+17 40
+A
+13 200
+A
+12 100
+A
+1 3
+A
+18 10
+A
+19 10
+#10613
+shield darkness~
+shield of Darkness~
+A huge shield with the symbol of the Darkness engraved upon it, lies
+here.~
+IRON armor BEGIJY AJ
+AF AF AF ADE 0
+45 70 7500 P
+A
+14 -50
+A
+5 3
+A
+18 8
+A
+19 8
+A
+20 -20
+A
+12 50
+A
+13 50
+#10614
+armor~
+dark armor~
+A dark suit of armor lies here almost unnoticeable in the shadows.~
+STEEL armor EGJ AD
+ABCDE ABCDE ABCDE ABCE 0
+50 90 15000 P
+A
+19 5
+A
+18 4
+A
+12 150
+A
+24 -10
+A
+14 -25
+A
+5 3
+#10615
+helmet~
+dark helmet~
+A dark helmet lies here almost unnoticeable in the shadows.~
+IRON armor EJ AE
+BCDE BCDE BCDE BCE 0
+45 15 10000 P
+A
+13 50
+A
+18 5
+A
+19 5
+#10616
+timberland boots~
+black Timberland boots~
+A pair of black Timberland boots rests here.~
+SELECT_A_MATERIAL armor EJWY AG
+F F F DE 0
+55 15 14000 P
+A
+19 4
+A
+18 4
+A
+14 75
+A
+13 50
+#10617
+levi's jeans denim~
+black Levi's jeans~
+A pair of black denim jeans are here.~
+SELECT_A_MATERIAL armor EG AF
+AF AF 0 ADE 0
+40 15 12000 P
+A
+18 2
+A
+14 25
+A
+13 50
+#10618
+shoes jordan~
+air Jordan's~
+A pair of black Air Jordan tennis shoes are here.~
+HIGH_LEATHER armor EGIWY AG
+ACDF ACDF ACDF ABCF 0
+60 15 125000 P
+A
+24 -5
+A
+19 3
+A
+18 4
+A
+14 50
+A
+13 75
+A
+12 35
+A
+2 2
+#10619
+shirt polo~
+black Polo shirt~
+A black, short-sleeved Polo shirt is here.~
+SELECT_A_MATERIAL armor EGY AD
+ABCF ABCF ABCF AF 0
+59 10 10000 P
+A
+18 3
+A
+13 30
+A
+12 20
+#10620
+soul gypsy~
+the Soul of a Gypsy~
+A lost soul is floating aimlessly here.~
+SELECT_A_MATERIAL armor EFGIJORY AQ
+DF DF DF ACDF 0
+60 1 5476 P
+A
+24 -10
+A
+13 75
+A
+12 50
+#10621
+shield~
+shield of the Protector~
+A huge, dark shield, belonging to the Protector of Darkness, is here.~
+IRON armor BEGJY AJ
+BDF BDF BDF ABF 0
+62 85 30000 P
+A
+13 150
+A
+12 75
+A
+18 10
+A
+19 10
+A
+3 2
+A
+4 2
+A
+20 -30
+#10622
+skin vigilante~
+the Skin of a Vigilante~
+A human skin lies here rotting.~
+ORGANIC armor EGJY AK
+BCF BCF BCF ABDF 0
+55 10 0 P
+A
+24 -10
+A
+13 75
+A
+12 50
+A
+5 3
+#10623
+skull harper~
+the Skull of a Harper~
+A human skull lies here.~
+BONE armor EGJY AO
+ABCF ABCF ABCF BDF 0
+55 15 0 P
+A
+24 -10
+A
+13 75
+A
+4 2
+A
+3 2
+A
+2 -4
+#10624
+skullcrusher~
+skullcrusher~
+A huge club rests here, waiting to crush some skulls.~
+HIGH_STEEL weapon BEY AN
+flail 10 15 crush DE
+73 100 120000 P
+A
+19 8
+A
+18 6
+A
+13 50
+A
+2 -2
+A
+1 2
+#10625
+souldestroyer~
+souldestroyer~
+An evil weapon of unknown origin lies here.~
+SELECT_A_MATERIAL weapon BEGJY AN
+sword 10 14 slash 0
+73 100 120000 P
+A
+19 8
+A
+18 6
+A
+13 50
+A
+2 -2
+A
+1 2
+#10626
+Bonecrusher mace~
+{WBone{DCrusher{x~
+{DA {rbloody {Dmace is lying here{x~
+SELECT_A_MATERIAL weapon BEY AN
+mace 10 11 crush 0
+60 50 65000 P
+A
+19 6
+A
+18 6
+A
+13 75
+A
+1 3
+#10627
+executioner axe~
+the Executioner~
+A huge, evil, bloody axe is here waiting for a head to chop off.~
+IRON weapon BEJY AN
+axe 8 12 crush 0
+58 80 72000 P
+A
+19 7
+A
+18 7
+A
+13 75
+A
+2 -3
+A
+1 2
+#10628
+key dungeon~
+key to the dungeon~
+An iron key lies here.~
+SELECT_A_MATERIAL key EPU AO
+0 0 0 0 0
+0 8 0 P
+#10630
+weed delusion~
+weed of Delusion~
+A half-smoked joint lies here.~
+ORGANIC potion EG AO
+90 'detect magic' 'detect good' 'detect evil' ''
+30 1 40000 P
+#10631
+weed paranoia~
+weed of Paranoia~
+A half-smoked joint is here.~
+SELECT_A_MATERIAL potion EG AO
+90 'frenzy' 'haste' 'giant strength' ''
+30 1 60000 P
+#10632
+weed harmony~
+weed of Harmony~
+A half-smoked joint lies here.~
+ORGANIC potion EG AO
+100 'calm' '' '' ''
+30 1 20000 P
+#10633
+clippers~
+hair clippers~
+A pair of hair clippers were probably dropped here by a barber.~
+SELECT_A_MATERIAL trash ABY AO
+0 0 0 0 0
+0 5 0 P
+#10634
+scissors~
+pair of barber scissors~
+A pair of shiny barber scissors were dropped here.~
+SELECT_A_MATERIAL trash AY AO
+0 0 0 0 0
+0 2 0 P
+#10635
+shield vaultkeeper~
+shield of the Vaultkeeper~
+A huge, dark shield lies here.~
+SELECT_A_MATERIAL armor BEGIY AJ
+0 0 0 0 0
+10 75 55000 P
+A
+19 4
+A
+14 -30
+A
+13 50
+A
+5 3
+A
+2 -2
+#10636
+sword vaultkeeper~
+sword of the Vaultkeeper~
+A long, powerful sword lies here.~
+IRON weapon BEGY AN
+sword 40 2 slash 0
+55 35 57200 P
+A
+19 6
+A
+18 4
+A
+13 50
+#10637
+cheese~
+a piece of cheese~
+A piece of cheese lies here.~
+SELECT_A_MATERIAL armor ABEG AO
+0 0 0 DF 0
+30 2 14000 P
+A
+12 100
+A
+4 3
+A
+3 3
+#10638
+aspirin pill~
+aspirin~
+A small pill lies here.~
+SELECT_A_MATERIAL pill EG AO
+90 'calm' 'cure disease' 'cure poison' ''
+30 1 2000 P
+#10640
+steak~
+steak and onions~
+A thick juicy steak, smothered with onions, is here waiting to be eaten.~
+SELECT_A_MATERIAL food 0 A
+BD AC 0 0 0
+10 4 50 P
+#10641
+burger~
+burger and fries~
+An juicy hamburger and crispy golden french fries are here tempting your taste 
+buds.~
+SELECT_A_MATERIAL food 0 A
+D BC 0 0 0
+30 4 55 P
+#10642
+lasagna~
+lasagna~
+A plate of lasagna is here.~
+SELECT_A_MATERIAL food 0 A
+BD BC 0 0 0
+30 6 55 P
+#10643
+red wine~
+red wine~
+A glass of red wine is here.~
+SELECT_A_MATERIAL drink 0 A
+3 3 'red wine' 0 0
+20 2 25 P
+#10644
+white wine~
+white wine~
+A glass of white wine is here.~
+SELECT_A_MATERIAL drink 0 A
+3 3 'red wine' 0 0
+20 2 25 P
+#10645
+fountain~
+fountain~
+A beautifully crafted marble fountain is here spouting crystal, clear, cool 
+water.~
+SELECT_A_MATERIAL fountain 0 0
+999 999 'water' 0 0
+0 200 0 P
+#10646
+altar evil~
+a strange black altar~
+{rAn {RAl{WTa{RR o{rF E{Rv{WiL{x~
+SELECT_A_MATERIAL furniture ABEGJLSY P
+A FJKLO EH DEKLMNOPQRSTUVWXYZabcdef DEKLMNOPQRSTUVWXYZabcdef
+110 0 0 P
+E
+altar~
+This black altar keeps changing its form right in front of your eyes.  The material
+it has been created from will shift from metal to water to liquid in the blink of an
+eye.  The only constant about it is that its general size and large flat top
+surface are always present, regardless of its current form.
+~
+#10648
+portal~
+{DA portal leading to the Pirate Kings morgue{x~
+{DAn evil looking device has been left here, it is humming.{x~
+SELECT_A_MATERIAL container BOTY AQ
+2000 AC 0 2000 25
+110 0 0 P
+#10649
+Golden Eagle Talon~
+a golden eagles talon~
+{cA golden eagles talon rests here.{x~
+ORGANIC weapon ABIKY AN
+dagger 10 10 pierce CH
+64 50 150000 P
+A
+24 -10
+A
+19 9
+A
+18 9
+A
+17 35
+A
+14 -100
+A
+13 150
+A
+12 50
+#0
+
+
+
+#ROOMS
+#10601
+{MPath to the Kingdom of Darkness{x~
+This old and overgrown path seems to lead off the main road towards some very
+thick darkness.  The darkness seems to have a life of its own and almost seems to be
+beckoning for you to enter.
+~
+0 8193 1
+D0
+It's too dark to see anything.
+
+~
+~
+0 -1 10602
+D1
+~
+~
+0 0 15953
+C 0
+S
+#10602
+{MPath to the Kingdom of Darkness{x~
+You can't see anything.
+~
+0 8193 1
+D2
+It's too dark to see anything.
+~
+path darkness~
+0 -1 10601
+D5
+It's too dark to see anything.
+~
+path darkness~
+0 -1 10603
+C 0
+S
+#10603
+{MPath to the Kingdom of Darkness{x~
+You can't see anything.
+~
+0 8193 3
+D4
+~
+~
+0 0 10602
+D5
+It's too dark to see anything.
+~
+path darkness~
+0 -1 10604
+C 0
+S
+#10604
+{MPath to the Kingdom of Darkness{x~
+You can't see anything.
+~
+0 8193 0
+D0
+~
+~
+0 0 10605
+D4
+~
+~
+0 0 10603
+C 0
+S
+#10605
+{MEntrance to the Kingdom of Darkness{x~
+Even as dark as it is in this area, you can still see the outline of
+the huge Castle of Darkness. But you'd have to be able to get pass the
+two huge guards standing here before you can proceed any further.
+~
+0 8193 0
+D0
+~
+~
+0 0 10606
+D2
+~
+~
+0 0 10604
+C 0
+S
+#10606
+{MInside the Castle of Darkness{x~
+After being surrounded by total darkness for such a long time, even
+the dim torch lighting of the castle hurts your eyes. When your eyes
+adjust to the lighting, you look around and notice an intersection not
+too far north. You take two steps north and suddenly freeze in your
+tracks as you can begin to sense the feeling of pure evil surrounding
+you. Maybe you should think twice about going any further.
+~
+0 8201 0
+D0
+You see an intersection not too far north.
+~
+intersection~
+0 -1 10607
+D2
+~
+~
+0 0 10605
+C 0
+S
+#10607
+{MIntersection in the Castle of Darkness{x~
+You have come to an intersection in this huge castle. Not far to the
+north, you can see what appears to be a statue room. To the east and
+west, you see doors along the hallway.
+~
+0 8201 1
+D0
+You can see what appears to be a room full of statues.
+~
+~
+0 -1 10608
+D1
+You can see the hallway extending east.
+~
+hallway~
+0 -1 10640
+D2
+You can see the iron doors to the entrance of this castle.
+~
+~
+0 -1 10606
+D3
+You can see the hallway extending west.
+~
+hallway~
+0 -1 10628
+C 0
+S
+#10608
+{MStatue Room{x~
+You look around and see huge 20 foot high statues to the gods of evil,
+darkness, and chaos, in the 4 corners of the room. As you proceed
+forward though, you can't help but feel as if the statues are watching
+you.
+~
+0 8201 1
+D0
+This appears to be the way to the throne of the Angel of Darkness.
+~
+throne room~
+0 -1 10613
+D1
+You see a room full of donations to the forces of evil.
+~
+~
+0 -1 10612
+D2
+You see an intersection not too far from the entrance of this great
+castle.
+~
+intersection~
+0 -1 10607
+D3
+You notice a prayer room.
+~
+~
+0 -1 10609
+C 0
+S
+#10609
+{MPrayer Room{x~
+You enter the prayer room where doers of evil worship their gods and
+beg for mercy for any acts of kindness or mercy they have shown to one
+who is of the light.
+~
+0 271368 1
+D0
+Beyond this door is the chamber of the High Priest of Darkness.
+~
+chambers~
+1 -1 10610
+D1
+You see a room full of statues of the gods of evil, darkness, and
+chaos.
+~
+~
+0 -1 10608
+D3
+You see an altar where sacrifices to the gods of darkness are made.
+~
+altar~
+0 -1 10611
+M 200 H 200
+C 0
+S
+#10610
+{MChambers of the High Priest{x~
+You enter the private chambers of the high priest of darkness.
+~
+0 8713 1
+D2
+~
+~
+1 -1 10609
+C 0
+S
+#10611
+{MSacrificial Altar{x~
+You enter the room and immediately take notice of the charred human
+remains (probably a Gypsy) upon the altar in front of you... a
+sacrifice to the gods of darkness. On the walls, you notice carvings
+of Sting, the Angel of Darkness, and scenes depicting his return to
+this realm, and his triumphs over the forces of good.
+~
+0 271373 1
+D1
+You notice a prayer room.
+~
+~
+0 -1 10609
+C 0
+S
+#10612
+{MDonation Room{x~
+As you enter this room, you immediately take notice of the several
+gifts to the forces of darkness to ensure our continued existence and
+our domination and annihilation of the forces of good throughout our
+world.
+~
+0 271373 1
+D3
+You see a room full of statues.
+~
+~
+0 -1 10608
+C 0
+S
+#10613
+{MWalkway to the Throne Room{x~
+You slowly follow the walkway toward the throne of Sting, the Angel of
+Darkness. From here, you can see Sting's throne as well as a guard on
+each side of the throne.
+~
+0 8201 1
+D0
+You see the walkway to Sting's throne continuing northward.
+~
+walkway~
+0 -1 10614
+D2
+You see a room full of statues.
+~
+~
+0 -1 10608
+C 0
+S
+#10614
+{MWalkway to the Throne Room{x~
+You tremble in fear as you continue forward to the throne of the Angel
+of Darkness.
+~
+0 8201 1
+D0
+You see the throne room of Sting, the Angel of Darkness.
+~
+throne room~
+0 -1 10615
+D2
+You see the walkway to the throne of Sting.
+~
+walkway~
+0 -1 10613
+C 0
+S
+#10615
+{MSting's Throne Room{x~
+As you enter, the first thing you notice is the huge throne of gold
+near the back wall of the room, and the two slightly smaller thrones
+on each side, as well as the carvings of this royal family in the wall
+behind the thrones. The several guards in the room also seem to draw
+your attention as they are all a lot bigger than you.
+~
+0 8201 1
+E
+throne~
+The center throne, as you may have guessed, belongs to none other than
+Sting, the Angel of Darkness. You also notice a long, black fur cloak
+lying over the throne. The throne to the right, only slightly smaller
+than Sting's, belonged to Sting's first queen Allexandra. The throne
+on the right, a bit smaller than Sting's, belongs to his only son,
+Tariq, the heir to the Kingdom of Darkness.
+~
+D0
+Because of the carvings in the walls, you fail to notice this door
+behind Sting's throne until you approach the wall and look closely at
+the carvings. But where it leads is unknown.
+~
+secret~
+2 10604 10624
+D1
+You see the entrance to the vault.
+~
+~
+0 -1 10622
+D2
+You see the walkway to the throne room of Sting.
+~
+walkway~
+0 -1 10614
+D3
+You see the entrance to the royal quarters.
+~
+hallway~
+0 -1 10616
+C 0
+S
+#10616
+{MEntrance to the Royal Quarters{x~
+As you enter this room, you look around and see two open doors to the
+north and west, a small hallway to the south leading to the servants'
+quarters, and the throne room back to the east.
+~
+0 8201 1
+D0
+This is the very spacious, but dark private quarters of Sting.
+~
+door~
+2 10603 10617
+D1
+You see the throne room of Sting, the Angel of Darkness.
+~
+~
+0 -1 10615
+D2
+This is the hallway leading to the servants' quarters.
+~
+hallway~
+0 -1 10619
+D3
+This room, not as big or dark as the room to the north, belongs to
+Tariq, Prince of the Kingdom of Darkness.
+~
+door~
+2 10603 10618
+C 0
+S
+#10617
+{MThe Royal Quarters of Sting{x~
+This room would probably qualify as one of the biggest bedrooms you
+have ever seen. And the only time you probably saw so much gold was in
+the vault of this castle. Just about everything in this room is made
+out of gold or has gold on it somewhere. You also take notice of the
+several busts of Sting, his queen, and his son, along the walls of the
+room.
+~
+0 8201 1
+D2
+You see the entrance to the royal chambers.
+~
+door~
+2 10603 10616
+D3
+You see the door to the closet.
+~
+closet~
+1 -1 10647
+C 0
+S
+#10618
+{MThe Royal Quarters of Prince Tariq{x~
+Excuse the mess... Tariq's still bitching at the interior decorators
+for screwing up his room. =)
+~
+0 8201 1
+D1
+You see the entrance to the Royal Quarters.
+~
+door~
+2 10603 10616
+C 0
+S
+#10619
+{MEntrance to the Servants' Quarters{x~
+You are at the entrance to the servants' quarters. To the north is the
+entrance to the royal quarters.
+~
+0 8201 1
+D0
+You see the entrance to the royal quarters.
+~
+~
+0 -1 10616
+D2
+You see the servants quarters.
+~
+~
+1 -1 10621
+D3
+You see the servants quarters.
+~
+~
+1 -1 10620
+C 0
+S
+#10620
+{MServants' Quarters{x~
+This room, not quite as spacious as the royal quarters, is rather
+large. It would have to be to fit 4 medium sized beds and the personal
+space for four servants.
+~
+0 8201 1
+D1
+You see the entrance to the servants' quarters.
+~
+hallway~
+1 -1 10619
+C 0
+S
+#10621
+{MServants' Quarters{x~
+This room, not quite as spacious as the royal quarters, is rather
+large. It would have to be to fit 4 medium sized beds and the personal
+space for four servants.
+~
+0 8201 1
+D0
+You see the entrance to the servants' quarters.
+~
+hallway~
+1 -1 10619
+C 0
+S
+#10622
+{MEntrance to the Vault{x~
+As you enter the room, two huge guards approach you and tell you that
+for your own safety, you'd better leave this room immediately. You
+seriously consider their advice, then you start thinking about all of
+the riches that could be behind that vault door.
+~
+0 8201 1
+D0
+You see a huge steel door leading to the vault.
+~
+vault~
+2 10604 10623
+D3
+You see the throne room of Sting, the Angel of Darkness.
+~
+~
+0 -1 10615
+C 0
+S
+#10623
+{MDeath Trap{x~
+You look north and see another locked door. But what you fail to
+notice is the spiked ceiling which is rapidly falling towards you.
+When you see the spikes above your head, you turn to run, but stumble
+over your feet, preventing your exit from this death trap. The spikes
+fall and you die instantly.
+~
+0 8205 1
+D2
+~
+~
+0 0 10622
+C 0
+S
+#10624
+{MSecret Passageway{x~
+Had you not been interested in seeing those carvings in the wall, you
+would not have noticed the door to this secret passageway. It is much
+dimmer in here than in the throne room, as there are fewer torches
+along this passageway. But where this passageway leads is a mystery.
+~
+0 8205 1
+D1
+This secret passageway continues eastward.
+~
+secret passageway~
+0 -1 10625
+D2
+You see the throne room of Sting, the Angel of Darkness.
+~
+secret~
+2 10604 10615
+C 0
+S
+#10625
+{MSecret Passageway{x~
+You continue along this secret passageway to an unknown destination.
+Though one thing you do know is that you can see a gold door to the
+east.
+~
+0 8205 1
+D1
+You see a gold door but can't see anything else.
+~
+vault door~
+0 -1 10626
+D3
+You see a secret passageway.
+~
+secret passageway~
+0 -1 10624
+C 0
+S
+#10626
+{MSecret Door to the Vault{x~
+Your adrenaline starts pumping as the excitement builds up. You have a
+very strong feeling that behind this door are riches beyond your
+wildest dreams. You approach the door and try to open it and see it's
+locked and try unsuccessfully to unlock the door with the key you used
+to get in this passageway. You feel disappointed and start back
+westward, when you hear movement around you. You know that no one
+followed you in here, and there are no other exits from this room.
+~
+0 8201 1
+D1
+You see the gold door to the vault, but no way to open it.
+~
+vault~
+2 10605 10627
+D3
+You see a secret passageway.
+~
+secret passageway~
+0 -1 10625
+C 0
+S
+#10627
+{MThe Vault{x~
+You enter the room and are almost blinded by the light reflecting off all
+of the gold in here.  When you can finally open your eyes and look at the
+treasure, you see nothing but gold bars, gold coins, and jewels everywhere. 
+~
+0 8205 1
+D3
+You see the door to this vault.
+~
+vault~
+2 10605 10626
+C 0
+S
+#10628
+{MHallway{x~
+You proceed westward along the hallway. You see a door to the north
+with the name 'Nathan' inscribed on it, and a door to the south with
+'Dhukka' inscribed on it. The hallway continues west.
+~
+0 8205 1
+D0
+You see a door with the name 'Nathan' inscribed on it.
+~
+~
+1 -1 10630
+D1
+You see an intersection near the entrance of this castle.
+~
+intersection~
+0 -1 10607
+D2
+You see a door with the name 'Dhukka' inscribed on it.
+~
+~
+1 -1 10629
+D3
+The hallway continues westward.
+~
+hallway~
+0 -1 10631
+C 0
+S
+#10629
+A guest room~
+This is a simple looking room, almost too plain to be a guest room in a castle.  A small
+bed and dresser next to the bed are in poor shape, looking as if no one has used either
+in quite some time.
+~
+0 271373 1
+D0
+You see a hallway.
+~
+hallway~
+1 -1 10628
+C 0
+S
+#10630
+A guest room.~
+This old and dusty room has not had a guest sleeping in it in many a year.  The bed
+looks to be on its last leg, litterally, as the other three legs are lying, strewn, about
+the room.  A small dresser is near the bed, also falling apart with age.
+~
+0 271373 1
+D2
+You see the hallway.
+~
+hallway~
+1 -1 10628
+C 0
+S
+#10631
+{MHallway{x~
+You continue westward along this hallway. To the south, you see a door
+with the name 'Blueblood' inscribed on it. To the north, you see a set
+of stairs leading downward.
+~
+0 8205 1
+D1
+The hallway continues eastward.
+~
+hallway~
+0 -1 10628
+D2
+~
+~
+1 -1 10632
+D5
+You see a set of stairs leading downward into darkness.
+~
+stairs~
+0 -1 10633
+C 0
+S
+#10632
+{DHidden Closet{x~
+You have stumbled upon a small damp closet.  Hidden as it is, this could be a
+good place to relax and rest a bit.
+~
+0 271373 1
+D0
+You see a hallway.
+~
+hallway~
+1 -1 10631
+M 200 H 200
+C 0
+S
+#10633
+{MStairs to the Dungeon{x~
+It's very dark. You can still see the bars to a few jail cells and
+hear screams through the doors to the north and south. You also notice
+the Jailer sitting here.
+~
+0 8201 1
+D0
+You see a wooden door, but what's inside is anyone's guess.
+~
+~
+1 -1 10634
+D1
+You can make out a hallway leading to several jail cells.
+~
+~
+0 -1 10636
+D2
+You see a wooden door, but what's inside is anyone's guess.
+~
+~
+1 -1 10635
+D4
+You can't see too much from down here.
+~
+hallway~
+0 -1 10631
+C 0
+S
+#10634
+{MTorture Chamber{x~
+Even in this dim light, you can see blood everywhere as well as
+several torture devices around the room. The screams of agony from the
+shackled Gypsy are enough to make your skin crawl, but the evil in you
+enjoys watching this entertainment.
+~
+0 8201 1
+D2
+You see the entrance to this dungeon.
+~
+entrance~
+1 -1 10633
+C 0
+S
+#10635
+{MExecution Room{x~
+Many executions have been held in this room... beheadings, poisonings,
+electrocutions, you name it, it's been done. You watch in anticipation
+and excitement as another Vigilante is dragged in this room to meet
+his doom.
+~
+0 8201 1
+D0
+You see the entrance to this dungeon.
+~
+entrance~
+1 -1 10633
+C 0
+S
+#10636
+{MVisiting the Prisoners{x~
+Looking around, to the north, east, and south, you see the doors to
+three dungeons where the good-doers in these lands are kept for their
+crimes against darkness.
+~
+0 8201 1
+D0
+You see a sturdy oak door keeping the criminals on the inside where
+they belong.
+~
+dungeon~
+2 10628 10637
+D1
+You see a sturdy oak door keeping the criminals on the inside where
+they belong.
+~
+dungeon~
+2 10628 10639
+D2
+You see a sturdy oak door keeping the criminals on the inside where
+they belong.
+~
+dungeon~
+2 10628 10638
+D3
+You see the entrance to these dungeons.
+~
+entrance~
+0 -1 10633
+C 0
+S
+#10637
+{MA Dungeon{x~
+As soon as you open the door, the prisoners beg and plead with you to
+take them away from this horrid place and save them from their punishment. 
+But the smell of urine and blood and rotting flesh has you with your head
+between your legs, spewing your lunch.  
+~
+0 8201 0
+D2
+You see the hallway leading to these jail cells.
+~
+hallway~
+2 10628 10636
+C 0
+S
+#10638
+{MA Dungeon{x~
+You take a look inside this dungeon, and see some familiar faces of
+Gypsies,
+Vigilantes, and Harpers captured, tried, and convicted of crimes
+against the
+Kingdom of Darkness. Even up to the end, they lie to you and swear
+their
+innocence of their crimes.
+~
+0 8201 1
+D0
+You see the hallway leading to these jail cells.
+~
+hallway~
+2 10628 10636
+C 0
+S
+#10639
+{MA Dungeon{x~
+You enter this room expecting to see more prisoners shackled to the
+walls, but instead, you look down near your feet and find two pink
+mice.
+~
+0 8201 1
+D3
+You see the hallway leading to these jail cells.
+~
+hallway~
+2 10628 10636
+C 0
+S
+#10640
+{MHallway{x~
+You proceed eastward along this hallway. You notice the castle's armoury north
+of here. To the south, you see a closed door that you probably shouldn't open.
+The hallway continues to the east.
+~
+0 8205 1
+D0
+You see the castle armoury.
+~
+armoury~
+0 -1 10641
+D1
+The hallway continues eastward.
+~
+hallway~
+0 -1 10643
+D2
+You see the door of the war room.
+~
+war room~
+1 -1 10642
+D3
+You see an intersection not too far from the entrance of this great castle.
+~
+intersection~
+0 -1 10607
+C 0
+S
+#10641
+{MArmoury{x~
+You see the castle armoury.
+~
+0 8201 1
+D2
+You see the hallway.
+~
+hallway~
+0 -1 10640
+C 0
+S
+#10642
+{MThe War Room{x~
+This is the room where all of the strategic planning and battle tactics used by
+the forces of darkness are created. No wonder the Gypsies and Vigilantes get
+slaughtered so much.
+~
+0 8204 0
+D0
+You see the hallway.
+~
+hallway~
+0 -1 10640
+C 0
+S
+#10643
+{MHallway{x~
+As you proceed eastward down this hallway, you notice to your north, an
+apothecary shop. To the south is a restaurant. And to your east, you see... a
+barber shop???
+~
+0 8205 1
+D0
+You smell the marijuana coming from the apothecary shop.
+~
+apothecary~
+0 -1 10644
+D1
+You see a barber shop.
+~
+barber~
+0 -1 10646
+D2
+You see the grocer's shop.
+~
+restaurant~
+0 -1 10645
+D3
+The hallway continues westward.
+~
+hallway~
+0 -1 10640
+C 0
+S
+#10644
+{MApothecary Shop{x~
+If you need healing, you've come to the right place. There's a variety
+of items
+to choose from to cure almost any ailment you have... for the right
+price of
+course...
+~
+0 8201 1
+D2
+You see the hallway.
+~
+hallway~
+0 -1 10643
+C 0
+S
+#10645
+{MChez Darkness{x~
+The smell of all this good food makes your mouth water. Everything on the menu 
+looks so appetizing. How do you decide?
+~
+0 8201 1
+D0
+You see the hallway.
+~
+hallway~
+0 -1 10643
+C 0
+S
+#10646
+{MBarber Shop{x~
+You look around at all of the hair covering the floor, then to the many bald
+people in the room, and you start to wonder if you made the right choice coming
+in here.
+~
+0 8201 1
+D3
+You see the hallway.
+~
+hallway~
+0 -1 10643
+C 0
+S
+#10647
+{MA Closet{x~
+In this huge closet, you see just about the entire wardrobe of Sting.
+~
+0 8205 1
+D1
+You see Sting's quarters.
+~
+~
+1 -1 10617
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 10613 spec_poison
+M 10616 spec_cast_undead
+M 10618 spec_poison
+M 10619 spec_poison
+M 10622 spec_cast_undead
+M 10623 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 10609 0 1
+D 0 10610 2 1
+D 0 10615 0 2
+D 0 10616 0 1
+D 0 10616 3 1
+D 0 10617 2 1
+D 0 10617 3 1
+D 0 10618 1 1
+D 0 10622 0 2
+D 0 10624 2 2
+D 0 10626 1 2
+D 0 10627 3 2
+D 0 10628 0 1
+D 0 10628 2 1
+D 0 10629 0 1
+D 0 10630 2 1
+D 0 10631 2 1
+D 0 10632 0 1
+D 0 10633 0 1
+D 0 10633 2 1
+D 0 10634 2 1
+D 0 10635 0 1
+D 0 10636 0 2
+D 0 10636 1 2
+D 0 10636 2 2
+D 0 10637 2 2
+D 0 10638 0 2
+D 0 10639 3 2
+D 0 10640 2 1
+D 0 10647 1 1
+M 0 10601 2 10605 2
+E 0 10609 0 1
+E 0 10614 0 5
+E 0 10615 0 6
+E 0 10613 0 11
+E 0 10606 0 16
+G 0 10602 0
+M 0 10605 1 10608 1
+E 0 10611 0 0
+E 0 10622 0 12
+E 0 10608 0 16
+E 0 10623 0 17
+E 0 10620 0 18
+G 0 10603 0
+M 0 10610 1 10608 1
+M 0 10611 1 10608 1
+M 0 10612 1 10608 1
+O 0 10645 0 10608
+O 0 10630 0 10609
+O 0 10632 0 10609
+M 0 10625 1 10614 10614
+E 0 10649 0 16
+M 0 10604 10 10615 10
+E 0 10610 0 1
+E 0 10619 0 5
+E 0 10617 0 7
+E 0 10616 0 8
+E 0 10621 0 11
+E 0 10607 0 16
+M 0 10604 10 10616 10
+E 0 10610 0 1
+E 0 10619 0 5
+E 0 10617 0 7
+E 0 10616 0 8
+E 0 10621 0 11
+E 0 10607 0 16
+M 0 10616 1 10617 1
+E 0 10625 0 16
+M 0 10606 1 10618 1
+E 0 10611 0 0
+E 0 10619 0 5
+E 0 10617 0 7
+E 0 10618 0 8
+E 0 10612 0 16
+E 0 10623 0 17
+E 0 10620 0 18
+G 0 10603 0
+G 0 10605 0
+M 0 10620 -1 10618 -1
+M 0 10620 1 10620 1
+E 0 10624 0 16
+M 0 10620 -1 10621 -1
+M 0 10603 2 10622 2
+E 0 10609 0 1
+E 0 10614 0 5
+E 0 10615 0 6
+E 0 10613 0 11
+E 0 10604 0 17
+E 0 10636 0 16
+M 0 10626 1 10627 1
+E 0 10601 0 5
+M 0 10609 1 10633 1
+E 0 10628 0 17
+M 0 10608 1 10634 1
+E 0 10626 0 16
+M 0 10622 2 10634 2
+M 0 10621 7 10634 7
+M 0 10607 1 10635 1
+E 0 10627 0 16
+M 0 10621 7 10635 7
+M 0 10622 2 10635 2
+M 0 10623 2 10635 2
+M 0 10621 7 10637 7
+M 0 10623 2 10638 2
+M 0 10619 1 10639 1
+E 0 10637 0 17
+M 0 10618 1 10639 1
+M 0 10614 1 10644 1
+G 0 10630 0
+G 0 10631 0
+G 0 10632 0
+G 0 10638 0
+M 0 10615 1 10645 1
+G 0 10640 0
+G 0 10641 0
+G 0 10642 0
+G 0 10643 0
+G 0 10644 0
+M 0 10613 1 10646 1
+E 0 10633 0 17
+G 0 10634 0
+O 0 10618 0 10647
+S
+
+
+
+#SHOPS
+10614 0 0 0 0 0 100 100 0 23
+10615 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

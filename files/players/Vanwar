@@ -1,0 +1,248 @@
+#PLAYER
+Name Vanwar~
+Id   1106902279
+LogO 1107324832
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Human~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 14
+OldLvl 14
+Sec  0
+Plyd 14920
+Scro 33
+Room 3054
+HMV  245 245 130 130 178 178
+Gold 412
+Silv 14380
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 14
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  21200
+QuestPnts 100
+PAct  DEFGQTd
+AfBy TV
+WName Vanwar~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 2
+Trai 3
+Save  -63
+Alig  77
+Hit   229
+Dam   115
+ACs -288 -274 -279 -209
+Attr 18 15 18 12 18
+AMod 3 0 0 5 0
+Pass VaND0bmua1lnE~
+Titl  The Wanderer~
+Pnts 50
+TSex 1
+PSize 2
+LLev 3
+HMVP 245 130 178
+Cnd  0 42 45 5
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 81 'sword'
+Sk 3 'dagger'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'dual wield'
+Sk 58 'enhanced damage'
+Sk 33 'hand to hand'
+Sk 26 'dodge'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'giant strength'   0 476 388   4   1          0
+Affc 'fly'   0 478 391   0   0     524288
+Affc 'stone skin'   0 478 388 -40  17          0
+Affc 'combat mind'   0 472  54 100  19          0
+Affc 'combat mind'   0 473  54 -255  17          0
+Affc 'combat mind'   0 479  54 100  18          0
+Affc 'bless'   0 474 138 -62  20          0
+Affc 'bless'   0 484 138 125  18          0
+Affc 'haste'   0 468  13   4   2    2097152
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 5639
+Nest 0
+Cond 0
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 3362
+Nest 0
+Cond 0
+Wear 13
+Cost 450
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 353 0 0
+End
+
+#O
+Vnum 15718
+Nest 0
+Cond 0
+Wear 6
+Cost -900
+End
+
+#O
+Vnum 5644
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 15
+Cost 1390
+End
+
+#O
+Vnum 4251
+Nest 0
+Cond 0
+Wear 14
+Cost 1390
+End
+
+#O
+Vnum 4241
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 3021
+Nest 0
+Cond 0
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 14536
+Nest 0
+Cond 0
+Wear 5
+Cost 2456
+End
+
+#O
+Vnum 1364
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3266
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3266
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#END

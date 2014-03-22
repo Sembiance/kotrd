@@ -1,0 +1,85 @@
+#PLAYER
+Name Monty~
+Id   1148391290
+LogO 1148392598
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Titan~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  1
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 1308
+Scro 33
+Room 3001
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3700
+PAct  DQTd
+AfBy c
+WName Monty~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 21 17 17 13 12
+AMod 0 0 0 0 0
+Pass Mogbp6be6njwM~
+Titl  the Demonic Soul~
+Pnts 77
+TSex 1
+PSize 5
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 31 14
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'giant strength'
+Sk 40 'sword'
+Sk 1 'dagger'
+Sk 1 'spear'
+Sk 1 'mace'
+Sk 1 'axe'
+Sk 1 'flail'
+Sk 1 'whip'
+Sk 1 'polearm'
+Sk 1 'exotic'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Gr 'warrior spells'
+End
+
+#END

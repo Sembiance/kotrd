@@ -1,0 +1,572 @@
+#PLAYER
+Name Sakara~
+Id   1098785634
+LogO 1101185745
+Vers 5
+Desc You see a man with a suprisingly shapely figure.  Dressed in a girdle, fishnet hose and platform sandals, he's dressed to kill.  You get the feeling that he's just a sweet transvestite from Transexual Transylvania.
+(Hey, its the best I could do at level seventeen.)
+~
+Prom <{r%h{w/{R%H {b%m{w/{B%M {Y%X{x> ~
+Race Seraph~
+Sex  1
+Cla  1
+OCla -1
+Levl 23
+OldLvl 23
+Sec  0
+Plyd 131805
+Scro 33
+Room 3002
+HMV  243 243 227 227 232 232
+Gold 874
+Silv 14661
+Gold_bank 5934
+Silv_bank 0
+Shares 0
+Share_level 23
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  38397
+QuestPnts 600
+PAct  CDEFGHQTd
+AfBy FT
+WName Sakara~
+Comm FNOQ
+Deaf D
+Pos  8
+Save  -2
+Alig  1000
+Hit   28
+Dam   18
+ACs -22 -24 -25 83
+Wimp  67
+Attr 19 19 22 15 20
+AMod 2 0 1 2 1
+Pass Saw.f3PvuXKnI~
+Titl  the {RL{Ba{Rm{Bi{Ra S{Bl{Ra{By{Re{Br{x~
+Pnts 53
+TSex 1
+PSize 2
+LLev 31
+HMVP 234 227 232
+Cnd  0 0 9 9
+Alias cure c 'cure critical'~
+Alias g grat {RG{BR{RA{BT{RS{B!{R!{B!{x~
+Alias bread c 'create food'~
+Alias water c 'create water'~
+Alias spring c 'create spring'~
+Boards       4 General 1101057842 Ideas 1100979557 Announce 1099099820 Personal 0 
+Sk 76 'cure light'
+Sk 1 'change sex'
+Sk 23 'cure blindness'
+Sk 76 'bless'
+Sk 83 'cure serious'
+Sk 68 'protection evil'
+Sk 1 'protection good'
+Sk 1 'earthquake'
+Sk 76 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 75 'heat metal'
+Sk 1 'remove curse'
+Sk 1 'flamestrike'
+Sk 1 'heal'
+Sk 1 'frenzy'
+Sk 1 'demonfire'
+Sk 1 'ray of truth'
+Sk 1 'holy word'
+Sk 1 'mass healing'
+Sk 1 'golden aura'
+Sk 75 'armor'
+Sk 75 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 75 'continual light'
+Sk 76 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'curse'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'floating disc'
+Sk 1 'infravision'
+Sk 1 'mass invis'
+Sk 1 'plague'
+Sk 75 'poison'
+Sk 1 'refresh'
+Sk 68 'sanctuary'
+Sk 1 'energy shield'
+Sk 77 'slow'
+Sk 75 'stone skin'
+Sk 23 'weaken'
+Sk 88 'mace'
+Sk 1 'enhanced damage'
+Sk 1 'fast healing'
+Sk 77 'meditation'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 1 'create zombie'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'cleric default'
+Gr 'attack'
+Gr 'benedictions'
+Gr 'creation'
+Gr 'curative'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'full protective'
+End
+
+#O
+Vnum 3164
+Nest 0
+Cond 0
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear 4
+Cost 1299
+End
+
+#O
+Vnum 16046
+Nest 0
+Cond 0
+Wear 5
+Cost 2150
+End
+
+#O
+Vnum 16044
+Nest 0
+Cond 0
+Wear 15
+Cost 1780
+End
+
+#O
+Vnum 80
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 81
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'combat mind'
+Spell 2 'bless'
+Spell 3 'armor'
+End
+
+#O
+Vnum 81
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'combat mind'
+Spell 2 'bless'
+Spell 3 'armor'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 82
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 231
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 169
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 235
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 100
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 71
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 273
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 0
+Wear -1
+Time 48
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 175
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 17
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 325
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 161
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 68
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3281
+Nest 1
+Cond 0
+Wear -1
+Time 256
+Cost 900
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear 0
+Cost 640
+Val  0 0 448 0 0
+End
+
+#O
+Vnum 16076
+Nest 0
+Cond 0
+Wear 14
+Cost 10
+End
+
+#O
+Vnum 4264
+Nest 0
+Cond 0
+Wear 3
+Cost 2610
+End
+
+#O
+Vnum 4266
+Nest 0
+Cond 0
+Wear 6
+Cost 1950
+End
+
+#O
+Vnum 4268
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4270
+Nest 0
+Cond 0
+Wear 8
+Cost 2850
+End
+
+#O
+Vnum 4272
+Nest 0
+Cond 0
+Wear 9
+Cost 2250
+End
+
+#O
+Vnum 4274
+Nest 0
+Cond 0
+Wear 10
+Cost 2150
+End
+
+#O
+Vnum 4276
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4278
+Nest 0
+Cond 0
+Wear 13
+Cost 1990
+End
+
+#O
+Vnum 4262
+Nest 0
+Cond 0
+Wear 11
+Cost 2210
+End
+
+#O
+Vnum 6515
+Enchanted
+Nest 0
+ExtF 68
+Cond 0
+Wear 16
+Lev  11
+Cost 500
+Affc 'reserved'   1  10  -1   5  18          0
+Affc 'reserved'   1  10  -1   4  19          0
+Affc 'reserved'   1  10  -1   2   1          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 16002
+Nest 0
+Cond 0
+Wear -1
+Cost 2399
+Spell 3 'flamestrike'
+End
+
+#END

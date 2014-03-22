@@ -1,0 +1,815 @@
+#PLAYER
+Name Fidelity~
+Id   1094625903
+LogO 1160192881
+Vers 5
+Prom {c< {rHP{w: %h  {MMana{w: %m  {gMove{w: %v  {BTNL{w: {C%X {c>{x  %K%c{W::{x ~
+Race Nephilim~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 3
+Levl 100
+OldLvl 100
+Sec  0
+Plyd 173143
+Scro 33
+Room 3054
+HMV  11155 11155 4858 4858 6026 6026
+Gold 38
+Silv 191
+Gold_bank 54800
+Silv_bank 1564000
+Shares 0
+Share_level 100
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  200004
+QuestPnts 822
+PAct  CDEGHQTbd
+AfBy DFHTUV
+WName Fidelity~
+Comm FKLMNO
+RaceChan 0
+Deaf 0
+Pos  8
+Prac 96
+Trai 32
+Save  -192
+Alig  -517
+Hit   545
+Dam   537
+ACs -1523 -1523 -1523 -1487
+Wimp  1000
+Attr 27 26 26 26 26
+AMod 36 4 16 19 0
+Pass FijnL4WzIA7Zo~
+Titl  {BU{bn{Be{bX{BP{be{Bc{bT{BE{bd {RF{ra{Rll{re{RN {yONE {c~
+Pnts 40
+TSex 1
+PSize 2
+LLev 41
+HMVP 2879 466 759
+Cnd  0 0 -1 -1
+Boards       4 General 0 Ideas 0 Announce 1099099820 Personal 0 
+Sk 76 'giant strength'
+Sk 75 'identify'
+Sk 100 'sword'
+Sk 100 'dagger'
+Sk 75 'spear'
+Sk 94 'mace'
+Sk 75 'axe'
+Sk 75 'flail'
+Sk 75 'whip'
+Sk 78 'polearm'
+Sk 84 'exotic'
+Sk 100 'backstab'
+Sk 94 'bash'
+Sk 77 'berserk'
+Sk 100 'circle'
+Sk 90 'dirt kicking'
+Sk 75 'disarm'
+Sk 100 'dual wield'
+Sk 100 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 99 'kick'
+Sk 100 'dodge'
+Sk 100 'parry'
+Sk 76 'shield block'
+Sk 75 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 1 'envenom'
+Sk 91 'fast healing'
+Sk 95 'haggle'
+Sk 100 'hide'
+Sk 96 'peek'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 75 'steal'
+Sk 50 'recall'
+Sk 76 'quicken'
+Sk 76 'sharp blade'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'warrior basics'
+Gr 'thief default'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Gr 'identify spell'
+Gr 'warrior spells'
+Affc 'sanctuary'   0 100  -1   0   0        128
+Affc 'levitation'   0 100  -1   0   0     524288
+Affc 'displacement'   0 100  -1 -96  17          0
+Affc 'displacement'   0 100  -1  12   2          0
+Affc 'displacement'   0 100  -1   0   0    1048576
+Affc 'enhanced strength'   0 100  -1  15   1          0
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 4
+Cost 15000
+End
+
+#O
+Vnum 3099
+Nest 0
+Cond 0
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 11891
+Nest 0
+Cond 0
+Wear 15
+Cost 25000
+End
+
+#O
+Vnum 6726
+Nest 0
+Cond 0
+Wear 12
+Cost 25000
+End
+
+#O
+Vnum 11905
+Enchanted
+Nest 0
+ExtF 302514370
+Cond 0
+Wear -1
+Cost 55000
+Affc 'reserved'   1 100  -1  60  18          0
+Affc 'reserved'   1 100  -1  60  19          0
+Affc 'reserved'   1 100  -1 -500  13          0
+Affc 'reserved'   1 100  -1 -400  14          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 6714
+Nest 0
+Cond 0
+Wear 6
+Cost 50000
+End
+
+#O
+Vnum 20427
+Nest 0
+Cond 0
+Wear 20
+Cost 306250
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 9350
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 8200
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 7300
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 8300
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 7750
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 9600
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 19223
+Nest 1
+Cond 0
+Wear -1
+Cost 7500
+Spell 1 'sanctuary'
+Spell 2 'shield block'
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 3291
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'fly'
+End
+
+#O
+Vnum 3291
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'fly'
+End
+
+#O
+Vnum 3291
+Nest 1
+Cond 0
+Wear -1
+Cost 250
+Spell 1 'fly'
+End
+
+#O
+Vnum 11710
+Enchanted
+Nest 1
+ExtF 69
+Cond 0
+Wear -1
+Lev  91
+Cost 12500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  90  -1  30  19          0
+Affc 'reserved'   1  90  -1  30  18          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1 -50  17          0
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 11889
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 7502
+Nest 1
+Cond 0
+Wear -1
+Cost 93476
+End
+
+#O
+Vnum 908
+Nest 1
+Cond 0
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 6708
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6738
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 11696
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+End
+
+#O
+Vnum 6738
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 6734
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 904
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 6770
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 3729
+Nest 1
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 2
+Name dragon bag~
+ShD  a {rDragon{x bag~
+Desc a {rDragon{x bag is on the floor~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 3
+Name scroll fallen~
+ShD  {DThe {WScroll {Dof the Fallen.{x~
+Desc {DA {WScroll {Dhas been left here.{x~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25320
+Nest 1
+Cond 0
+Wear -1
+Cost 2453
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25323
+Nest 1
+Cond 0
+Wear -1
+Cost 3521
+Spell 1 'combat mind'
+Spell 2 'adrenaline control'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 25318
+Nest 1
+Cond 0
+Wear -1
+Cost 4353
+End
+
+#O
+Vnum 6728
+Nest 1
+Name sapphire dragon ring Stumpy~
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6730
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6728
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6718
+Nest 1
+Cond 0
+Wear -1
+Cost 65000
+End
+
+#O
+Vnum 6714
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6752
+Nest 1
+Cond 0
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 6726
+Nest 1
+Cond 0
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 6736
+Nest 1
+Cond 0
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 6724
+Nest 1
+Cond 0
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 20413
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19225
+Nest 1
+Cond 0
+Wear -1
+Cost 9000
+Spell 1 'frenzy'
+Spell 2 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 3155
+Enchanted
+Nest 1
+ExtF 268435522
+Cond 0
+Wear -1
+Lev  96
+Cost 500
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'reserved'   1  95  -1  40  18          0
+Affc 'reserved'   1  95  -1  37  19          0
+Affc 'reserved'   1  95  -1 100  13          0
+Affc 'reserved'   1  95  -1  -5  20          0
+Affc 'reserved'   1  95  -1 -10  17          0
+Affc 'reserved'   1  95  -1   2   1          0
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 11708
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6739
+Nest 1
+Cond 0
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 6799
+Nest 0
+Cond 0
+Wear 10
+Cost 10000
+End
+
+#O
+Vnum 6701
+Nest 0
+Cond 0
+Wear 7
+Cost 50000
+End
+
+#O
+Vnum 6773
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 6702
+Nest 0
+Cond 0
+Wear 5
+Cost 75000
+End
+
+#O
+Vnum 6732
+Nest 0
+Cond 0
+Wear 14
+Cost 55000
+End
+
+#O
+Vnum 6781
+Nest 0
+Name mace dragon slayers Stumpy~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 6781
+Nest 0
+Name mace dragon slayers Stumpy~
+Cond 0
+Wear -1
+Cost 20000000
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Stumpy~
+Cond 0
+Wear 19
+Cost 20000000
+End
+
+#O
+Vnum 25318
+Nest 0
+Cond 0
+Wear 9
+Cost 4353
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 2
+Cost 3868
+End
+
+#O
+Vnum 25321
+Nest 0
+Cond 0
+Wear 1
+Cost 3868
+End
+
+#O
+Vnum 25320
+Nest 0
+Cond 0
+Wear 8
+Cost 2453
+End
+
+#O
+Vnum 25324
+Nest 0
+Cond 0
+Wear 13
+Cost 26362
+End
+
+#O
+Vnum 25309
+Nest 0
+Cond 0
+Wear 0
+Cost 3000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 6782
+Nest 0
+Name dagger dragon slayers Stumpy~
+Cond 0
+Wear 16
+Cost 20000000
+End
+
+#END

@@ -1,0 +1,2773 @@
+#AREADATA
+Name Monestary~
+Builders Morgase~
+VNUMs 19200 19399
+Credits 80 - 110~
+Security 8
+Flags F
+LEVELs 80 100
+End
+
+
+
+#MOBILES
+#19200
+Dark Demon~
+an evil dark demon~
+An evil dark demon ATTACKS YOU!
+~
+A huge form crouches in the corner.  Leathery wings lie folded tight
+around its body, and red eyes glow with a passionate hatred.  This Demon was
+imprisoned here by the Monestary Monks, and patiently awaits when it can
+escape, and turn on its captures.  For every living thing it kills, it gains
+strength.  Welcome to the fold...  
+~
+unique~
+ABFGTVY BDFGHJOPQTVac -1000 0
+0
+140 150 100d50+35000 100d15+29000 1d1+300 wrath
+-130 -130 -130 -130
+DEFIKLOQX ABEHLQ CIJKP NOYZ
+stand stand none 95000
+ACFIU ACDEFGHIJKPQUVX medium unknown
+#19201
+Ghost of the Crypt~
+a whispy silhouette~
+A whispy silhouette floats here.
+~
+A whipsy silhouette floats about the room.  You can't seem to look at it directly, it
+floats out of your line of vision every time.  A chill runs up your spine as it draws
+nearer and you hear the low unearthly moans eminanting from it.
+~
+Human~
+ABGOTV BDFOTY -700 0
+0
+95 40 100d10+20000 100d5+10000 10d7+5 wrath
+-80 -80 -80 -80
+CEFGK AILQ BDE NOP
+stand stand none 30000
+AHMV ABCDEFGHIJKMV medium unknown
+#19202
+Dark Skeleton~
+a dark skeleton~
+A dark skeleton paces in front of the door.
+~
+What appears to be a walking pile of bones paces before an iron door.  It looks at you
+and growls menacingly.
+~
+Human~
+AGOTY 0 -900 0
+0
+100 100 100d15+25000 100d10+6000 50d10+100 punch
+-80 -80 -80 -80
+CDEFIJKN ABIX KLQ HNO
+stand stand none 75000
+AHMV ABCDEFGHIJKMV medium unknown
+#19203
+garden snake~
+a garden snake~
+A garden snake rests here.
+~
+A rather nondescript garden snake lies sunning itself here.  It looks harmless enough
+but then looks can be deceiving.
+~
+snake~
+ABCGVW FPQd -400 0
+0
+85 30 150d10+15000 50d15+5000 10d10+20 bite
+-65 -65 -65 -65
+FKN ABKQ L HI
+stand stand male 30000
+AGXYc ADEFGKLQVXYc medium unknown
+#19204
+Herbalist~
+The Monestary Herbalist~
+The Monestary Herbalist works here.
+~
+The Herbalist is busy preparing the potions he will sell to visitors to the Monestary.
+He is a very quiet unassuming little man.  His potions are known far and wide as being
+the best quality available in the world.
+~
+Human~
+ABGQY DFHVc 0 0
+0
+110 200 1d100+30000 1d100+30000 15d10+40 punch
+-90 -90 -90 -90
+0 ABLNQ KP H
+stand stand male 50000
+AHMV ABCDEFGHIJKMV medium unknown
+#19205
+Monestary Priest~
+a monestary priest~
+A monestary priest wanders here.
+~
+You see before you a man in white robes who looks very much at peace with himself and
+his surroundings.  He looks at you, smiles and says "good day".
+~
+Human~
+AGQ CDFHNc 1000 0
+0
+100 55 200d10+25000 100d15+20000 15d9+25 punch
+-80 -80 -80 -80
+EFHKLQ ABNP CLQ 0
+stand stand male 75000
+AHMV ABCDEFGHIJKMV medium unknown
+#19206
+Monestary Monk~
+a monestary monk~
+A monestary monk stands here.
+~
+A monk stand before you wearing a brown sackcloth robe tied with a length of rope.  He
+watches you warily, uncomfortable in the presence of more worldly people.
+~
+Human~
+AGQ CDFHNPc 1000 0
+0
+90 35 100d15+18000 200d15+25000 9d10+20 punch
+-70 -70 -70 -70
+CEFKQU ABLNQ OP 0
+stand stand male 80000
+AHMV ABCDEFGHIJKMV medium unknown
+#19207
+Scribe~
+a scribe~
+A scribe diligently copies text here.
+~
+A scribe sits at a small wooden desk copying text and illustrations from one of the
+many books kept in the library.  His back is bent so that he can see in the dim light
+from a small oil lamp sitting on the desk.  He does not appreciate any interruptions
+while he is working.
+~
+Human~
+ABFGSY CDFHNc 1000 0
+0
+95 35 100d10+20000 100d10+15000 11d9+30 punch
+-75 -75 -75 -75
+BEFKO ABLNQ CMP 0
+stand stand male 10000
+AHMV ABCDEFGHIJKMV medium unknown
+#19208
+rat~
+a rat~
+A rat scampers among the shadows here.
+~
+A pair of glowing malevolent eyes follow your every movement.  The rat attacks the
+instant you invade his territory.
+~
+wolf~
+ACFGY DFPQVZ 0 0
+0
+80 20 100d10+10000 100d10+5000 8d8+10 bite
+-55 -55 -55 -55
+DFHKMU ALQ 0 H
+stand stand none 0
+AGV ACDEFGJKQV small unknown
+#19209
+Clydsdale~
+a Clydsdale~
+A HUGE Clydsdale stomps impatiently here.
+~
+A huge 10 foot tall Clydsdale shifts impatiently in his stall.  It looks as though he
+hasn't been fed in quite some time.  Probably because the monks are afraid to get too
+close to her.
+~
+dragon~
+ABFTY DFHJTVc 0 0
+0
+110 50 100d15+30000 100d10+20000 15d10+30 bite
+-90 -90 -90 -90
+CDEFIJKMO ABEHIJQX BEHIJKL FIOPY
+stand stand female 100000
+ABCDHILMZ ABCDEFGHIJKPQUVWXZ large unknown
+#19210
+Mercenary guard~
+a mercenary guard~
+A mercenary guard patrols here.
+~
+A mercenary guard glares at you as you enter her patrol area.  She doesn't attack, but
+waits warily to see what you will do.  Make no mistake, she will protect her masters.
+~
+Human~
+AGT DFNOac 0 0
+0
+90 30 100d10+20000 100d10+10000 10d10+20 punch
+-75 -75 -75 -75
+CEFIKNOTU ABH CFLPQ K
+stand stand female 60000
+AHMV ABCDEFGHIJKMV medium unknown
+#19211
+wandering mercenary~
+a wandering mercenary~
+A wandering mercenary roams here.
+~
+A wandering mercenary attacks you as soon as you invade what she considers to be her
+space.  Better be more careful where you walk in the future.
+~
+Human~
+AFTW DFHNOac 0 0
+0
+90 30 100d10+20000 100d10+10000 10d10+20 punch
+-75 -75 -75 -75
+CEFIKNOTU ABCH FLPQ K
+stand stand female 60000
+AHMV ABCDEFGHIJKMV medium unknown
+#0
+
+
+
+#OBJECTS
+#19200
+Monestary Gate key~
+the Monestary Gate key~
+The Monestary Gate key lies here.~
+SELECT_A_MATERIAL key O AP
+0 0 0 0 0
+80 50 0 P
+#19201
+key to Priest's office~
+a key to the Priest's office.~
+A key to the Priest's office lies here.~
+SELECT_A_MATERIAL key O AP
+0 0 0 0 0
+90 30 0 P
+#19202
+secret monestary key~
+a secret monestary key~
+A secret monestary key is lying here.~
+SELECT_A_MATERIAL key O AP
+0 0 0 0 0
+85 50 0 P
+#19203
+an iron door key~
+an iron door key~
+An iron door key is here.~
+SELECT_A_MATERIAL key O AP
+0 0 0 0 0
+95 100 0 P
+#19204
+Hidden Chamber key~
+a Hidden Chamber key~
+A Hidden Chamber key is here.~
+SELECT_A_MATERIAL key FO AP
+0 0 0 0 0
+100 20 0 P
+#19205
+a monk's cell key~
+a monk's cell key~
+A monk's cell key lies here.~
+SELECT_A_MATERIAL key O AP
+0 0 0 0 0
+80 30 0 P
+#19206
+The courtyard fountain~
+the courtyard fountain~
+A large fountain sprays water here.~
+SELECT_A_MATERIAL fountain O 0
+0 0 'water' 0 0
+0 0 0 P
+E
+fountain~
+~
+#19207
+Dark Demon Legplates~
+{DDark Demon {cLeg Plates{x~
+A pile of black bones lies here.~
+SELECT_A_MATERIAL armor BEJLMY AF
+CDE CDE CDE CDE 0
+100 150 30000 P
+A
+20 -15
+A
+19 15
+A
+18 15
+A
+17 -30
+A
+13 275
+A
+14 200
+#19208
+Demon Cloud~
+{DDark {BMisty {WCloud{x~
+A Dark Misty Cloud floats here.~
+WATER_ELEM armor BEJLMY AK
+BCDE BCDE BCDE BCDE 0
+100 200 35000 P
+A
+20 -20
+A
+17 -35
+A
+13 450
+A
+18 25
+A
+19 30
+A
+12 -250
+A
+1 10
+A
+2 5
+#19209
+Demon Claws~
+{DDemon's{x {rClaws{x~
+A pair of Demon Claws lie here.~
+ORGANIC weapon BEJLMY AN
+exotic 20 14 slice ABEH
+100 100 50000 P
+A
+1 -1
+A
+6 -1
+A
+18 45
+A
+19 55
+A
+17 -50
+A
+20 -10
+#19210
+Table~
+a white marble altar~
+A white marble altar stands here.~
+SELECT_A_MATERIAL furniture AO 0
+0 0 0 0 0
+0 0 0 P
+#19211
+Undead Axe~
+an undead axe~
+An undead axe lies here.~
+BONE weapon BEJ AN
+axe 20 12 cleave CEH
+95 400 9000 P
+A
+19 20
+A
+18 25
+A
+20 -10
+#19212
+Undead Shield~
+an undead shield~
+A pile of bones is here.~
+SELECT_A_MATERIAL armor BEJY AJ
+ADE ABCE ADE ABDE 0
+80 250 10000 P
+A
+1 2
+A
+5 3
+A
+3 -2
+A
+4 -1
+A
+19 15
+A
+18 10
+A
+17 -15
+A
+20 -25
+#19213
+Priest's Rosary~
+a priest's rosary~
+A priest's rosary glitters here.~
+SELECT_A_MATERIAL armor AGIKY AC
+BDE BDE BDE BDE 0
+100 50 10000 P
+A
+3 3
+A
+4 3
+A
+17 -30
+A
+19 15
+A
+18 15
+A
+14 500
+A
+12 500
+A
+13 500
+A
+20 -25
+#19214
+Holy Bible~
+a holy bible~
+A holy bible rests here.~
+SELECT_A_MATERIAL armor ABGIKY AO
+BCDE BCDE BCDE BCDE 0
+100 200 15000 P
+A
+2 -1
+A
+4 1
+A
+5 2
+A
+1 3
+A
+18 15
+A
+19 15
+A
+17 -30
+A
+20 -30
+A
+13 250
+A
+12 500
+#19215
+monk's robe~
+a monk's robe~
+A crumpled pile of cloth lies here.~
+SELECT_A_MATERIAL armor AGIKY AK
+BE BE BE ACE 0
+85 100 8000 P
+A
+12 150
+A
+13 100
+A
+18 7
+A
+19 8
+A
+3 2
+A
+4 2
+A
+20 -10
+#19216
+crucifix~
+a crucifix~
+A small silver crucifix lies here.~
+SELECT_A_MATERIAL armor AGIKY AQ
+ABE ABE ABE ABE 0
+85 100 8000 P
+A
+12 200
+A
+13 50
+A
+18 8
+A
+19 10
+A
+20 -10
+#19217
+Monk's Rosary~
+a monk's rosary~
+A monk's wooden rosary lies here.~
+SELECT_A_MATERIAL armor AGIKY AL
+AE AE AE AE 0
+85 50 5000 P
+A
+12 250
+A
+13 75
+A
+18 6
+A
+19 7
+A
+20 -15
+A
+5 2
+#19218
+monk's cap~
+a monk's cap~
+A small cloth cap sits here.~
+CLOTH armor AGIY AE
+ABCD ABCD ABCD BD 0
+85 50 6000 P
+A
+20 -5
+A
+18 5
+A
+19 6
+A
+13 150
+A
+12 150
+#19219
+Scribe's quill~
+a scribe's quill~
+A scribe's quill lies here.~
+SELECT_A_MATERIAL weapon AIK AN
+dagger 15 11 stab DEG
+90 25 15000 P
+A
+18 15
+A
+19 20
+A
+2 5
+#19220
+Mercenary Sword~
+a mercenary sword~
+A mercenary sword lies here.~
+STEEL weapon B AN
+sword 12 13 slash EG
+85 135 9000 P
+A
+18 15
+A
+19 20
+A
+5 2
+A
+2 1
+#19221
+Mercenary Shield~
+a mercenary shield~
+A mercenary shield rests against the wall here.~
+STEEL armor BG AJ
+ADE ADE ADE ADE 0
+85 500 9000 P
+A
+18 10
+A
+19 10
+A
+20 -5
+A
+17 -15
+A
+13 200
+A
+12 150
+#19222
+Mercenary Plate~
+a set of mercenary plate~
+A set of mercenary plate sits here.~
+STEEL armor BG AD
+BDE BDE BDE BDE 0
+85 750 15000 P
+A
+20 -10
+A
+17 -20
+A
+13 200
+A
+14 150
+A
+18 8
+A
+19 8
+#19223
+{wmilky white{x potion~
+a {wmilky white{x potion~
+A {wmilky white{x potion sits here.~
+SELECT_A_MATERIAL potion AI A
+90 'sanctuary' 'shield block' 'stone skin' 'armor'
+80 20 7500 P
+#19224
+{Dmidnight black{x potion~
+a {Dmidnight black{x potion~
+A {Dmidnight black{x potion sits here.~
+SELECT_A_MATERIAL potion AI A
+90 'bless' 'haste' '' ''
+80 20 6000 P
+#19225
+bloody blood red potion~
+a {rblood red{x potion~
+A {rblood red{x potion sits here.~
+SELECT_A_MATERIAL potion AI A
+100 'frenzy' 'invisibility' 'pass door' ''
+90 20 10000 P
+#19226
+lavender potion~
+a {Mlavender{x potion~
+A {Mlavender{x potion sits here.~
+SELECT_A_MATERIAL potion AI A
+100 'detect magic' 'detect poison' 'detect evil' 'detect good'
+90 20 10000 P
+#19227
+Belt of Bones~
+a Belt of Bones~
+A pile of bones lie here.~
+SELECT_A_MATERIAL armor AGIJOY AL
+ADE ADE ADE ADE 0
+85 300 87500 P
+A
+19 10
+A
+18 10
+A
+1 2
+A
+4 2
+A
+5 3
+A
+3 3
+#19228
+small necklace~
+a small necklace~
+A small necklace lies here.~
+SELECT_A_MATERIAL armor AG AC
+0 0 0 0 0
+0 20 100 P
+A
+3 1
+#19229
+glasses~
+a pair of glasses~
+A pair of glasses sit here.~
+SELECT_A_MATERIAL armor A AE
+0 0 0 0 0
+0 20 100 P
+A
+4 1
+A
+2 -1
+#19230
+horse whip~
+{wa horse whip{x~
+{wA horse whip has been left on the ground here.~
+LEATHER weapon B AN
+whip 94 2 scratch B
+90 25 6000 P
+A
+13 500
+A
+5 3
+A
+18 10
+A
+19 10
+#0
+
+
+
+#ROOMS
+#19200
+{gPath Along the Monestary Wall{x~
+You are standing before the great monestary.  In the distance to the north you can see
+the gate.  The path leads east and west along the wall.
+~
+0 4 2
+D0
+~
+~
+0 0 19243
+D1
+~
+~
+0 0 19201
+D2
+~
+~
+0 0 19899
+D3
+~
+~
+0 0 19242
+C 0
+S
+#19201
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 4 2
+D1
+~
+~
+0 0 19202
+D3
+~
+~
+0 0 19200
+C 0
+S
+#19202
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19203
+D3
+~
+~
+0 0 19201
+C 0
+S
+#19203
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19204
+D3
+~
+~
+0 0 19202
+C 0
+S
+#19204
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+west.  To the east is the door to the watchtower.
+~
+0 4 2
+D1
+~
+~
+1 0 19205
+D3
+~
+~
+0 0 19203
+C 0
+S
+#19205
+{rGround Floor of the Watchtower{x~
+You are standing in the watchtower.  To the west and north are doors.  A stairway leads
+up to the second floor of the tower.
+~
+0 9 0
+D0
+~
+~
+1 0 19208
+D3
+~
+~
+1 0 19204
+D4
+~
+~
+0 0 19206
+C 0
+S
+#19206
+{rSecond floor of the Watchtower{x~
+You are on the second floor of the watchtower in the guards sleeping chamber.  There
+are bunks along one wall and a small table with one chair against another.  A stairway
+leads up to the lookout post and another leads down to the ground floor.
+~
+0 9 0
+D4
+~
+~
+0 0 19207
+D5
+~
+~
+0 0 19205
+C 0
+S
+#19207
+{rThe lookout post of the Watchtower{x~
+You've climbed up to the lookout post of the watchtower.  The view is unobstructed for
+quite a distance in all directions.  Pieces of the battlements have begun to crumble in
+a few places.  Watch your step.
+~
+0 0 5
+D5
+~
+~
+0 0 19206
+C 0
+S
+#19208
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north.  The Watchtower is to the south.
+~
+0 4 2
+D0
+~
+~
+0 0 19209
+D2
+~
+~
+1 0 19205
+C 0
+S
+#19209
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19210
+D2
+~
+~
+0 0 19208
+C 0
+S
+#19210
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19211
+D2
+~
+~
+0 0 19209
+C 0
+S
+#19211
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19212
+D2
+~
+~
+0 0 19210
+C 0
+S
+#19212
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19213
+D2
+~
+~
+0 0 19211
+C 0
+S
+#19213
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19214
+D2
+~
+~
+0 0 19212
+C 0
+S
+#19214
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19215
+D2
+~
+~
+0 0 19213
+C 0
+S
+#19215
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19216
+D2
+~
+~
+0 0 19214
+C 0
+S
+#19216
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path coninues to the
+south.  To the north is the door to the watchtower.
+~
+0 4 2
+D0
+~
+~
+1 0 19217
+D2
+~
+~
+0 0 19215
+C 0
+S
+#19217
+{rGround Floor of the Watchtower{x~
+You are standing in the watchtower. To the south and west are doors. A stairway leads
+up to the secnd floor of the tower.
+~
+0 9 0
+D2
+~
+~
+1 0 19216
+D3
+~
+~
+1 0 19221
+D4
+~
+~
+0 0 19218
+C 0
+S
+#19218
+{rSecond Floor of the Watchtower{x~
+You are on the second floor of the watchtower in the guards sleeping chamber.  There
+are bunks along one wall and a small table with one chair against another.  A stairway
+leads up to the lookout post and another leads down to the ground floor.
+~
+0 9 0
+D4
+~
+~
+0 0 19219
+D5
+~
+~
+0 0 19217
+C 0
+S
+#19219
+{rThe lookout post of the Watchtower{x~
+You've climberd up to the lookout post of the watchtower.  The view is unobstructed for
+quite a distance in all directions.  Pieces of the battlements have begun to crumble in
+a few places.  You notice what appears to be a second stairway descending the outside
+of the tower to the east.
+~
+0 4 5
+D1
+~
+~
+0 0 19220
+D5
+~
+~
+0 0 19218
+C 0
+S
+#19220
+{rCrumbling Stairway{x~
+Oops!  You really should look before leaping.  The stairs crumbled beneath your weight.
+Better yell loudly for help and hope someone hears you!
+~
+0 5 5
+E
+dt~
+You feel your breath squeezing out through your mouth, slowly...  Blood
+bubbles!  
+~
+D3
+~
+~
+0 0 19219
+C 0
+S
+#19221
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+west.  To the east is the door to the watchtower.
+~
+0 4 2
+D1
+~
+~
+1 0 19217
+D3
+~
+~
+0 0 19222
+C 0
+S
+#19222
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path coninues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19221
+D3
+~
+~
+0 0 19223
+C 0
+S
+#19223
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19222
+D3
+~
+~
+0 0 19224
+C 0
+S
+#19224
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east.  To the west is the door to the watchtower.
+To the south a small dirt path winds between the buildings of the Monestary.
+~
+0 4 2
+D1
+~
+~
+0 0 19223
+D2
+~
+~
+0 0 19307
+D3
+~
+~
+1 0 19225
+C 0
+S
+#19225
+{rGround Floor of the Watchtower{x~
+You are standing in the watchtower.  To the south and east are doors.  A stairway leads
+up to the second floor.
+~
+0 9 0
+D1
+~
+~
+1 0 19224
+D2
+~
+~
+1 0 19228
+D4
+~
+~
+0 0 19226
+C 0
+S
+#19226
+{rSecond Floor of the Watchtower{x~
+You are on the secind floor of the watchtower in the guards sleeping chamber.  There
+are bunks along one wall and a small table with one chair against another.  A stairway
+leads up to the lookout post and another leads down to the ground floor.
+~
+0 9 0
+D4
+~
+~
+0 0 19227
+D5
+~
+~
+0 0 19225
+C 0
+S
+#19227
+{rThe lookout post of the Watchtower{x~
+You've climbed up to the lookout post of the watchtower.  The view is unobstructed for
+quite a distance in all directions.  Pieces of the battlements have begun to crumble in
+a few places.  Watch your step.
+~
+0 0 5
+D5
+~
+~
+0 0 19226
+C 0
+S
+#19228
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+south.  To the north is the door to the watchtower.
+~
+0 4 2
+D0
+~
+~
+1 0 19225
+D2
+~
+~
+0 0 19229
+C 0
+S
+#19229
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19228
+D2
+~
+~
+0 0 19230
+C 0
+S
+#19230
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19229
+D2
+~
+~
+0 0 19231
+C 0
+S
+#19231
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19230
+D2
+~
+~
+0 0 19232
+C 0
+S
+#19232
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19231
+D2
+~
+~
+0 0 19233
+C 0
+S
+#19233
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 19232
+D2
+~
+~
+0 0 19234
+C 0
+S
+#19234
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+north.  To the south is the door to the watchtower.
+~
+0 4 2
+D0
+~
+~
+0 0 19233
+D2
+~
+~
+1 0 19235
+C 0
+S
+#19235
+{rGround Floor of the Watchtower{x~
+You are standing in the watchtower.  To the north and east are doors.  A stairway leads
+up to the second floor of the tower.  After taking a closer look aroUnd you notice
+what appears to be a trap door in the floor here.
+~
+0 9 0
+D0
+~
+~
+1 0 19234
+D1
+~
+~
+1 0 19239
+D4
+~
+~
+0 0 19236
+D5
+~
+~
+0 0 19238
+C 0
+S
+#19236
+{rSecond Floor of the Watchtower{x~
+You are on the second floor of the watchtower in the guards sleeping chamber.  There
+are bunks along one wall and a small table with one cvhair against another.  A stairway
+leads up to the lookout post and another leads down to the ground floor.
+~
+0 9 0
+D4
+~
+~
+0 0 19237
+D5
+~
+~
+0 0 19235
+C 0
+S
+#19237
+{rThe lookout post of the Watchtower{x~
+You've climbed up to the lookout post of the watchtower.  The view is unobstructed for
+quite a distance in all directions.  Pieces of the battlements have begun to crumble in
+a few places.  Watch your step.
+~
+0 0 5
+D5
+~
+~
+0 0 19236
+C 0
+S
+#19238
+{rA Storage Room{x~
+You've wandered into the storage room below the watchtower.  Looking around you notice
+that there doesn't seem to be a way out.  Oh no!  You're stuck here!
+~
+0 13 0
+D4
+~
+~
+0 0 19235
+C 0
+S
+#19239
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east. To the west is the door to the watchtower.
+~
+0 4 2
+D1
+~
+~
+0 0 19240
+D3
+~
+~
+1 0 19235
+C 0
+S
+#19240
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19241
+D3
+~
+~
+0 0 19239
+C 0
+S
+#19241
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19242
+D3
+~
+~
+0 0 19240
+C 0
+S
+#19242
+{gPath Along the Monestary Wall{x~
+You are walking along the path surrounding the monestary.  The path continues to the
+east and west.
+~
+0 4 2
+D1
+~
+~
+0 0 19200
+D3
+~
+~
+0 0 19241
+C 0
+S
+#19243
+{gOutside the gate to the Monestary{x~
+You are standing outside the gate to the Monestary.  The gate seems to be locked.
+Perhaps the guard will be kind enough to let you in.
+~
+0 0 4
+D0
+~
+gate~
+2 19200 19244
+D2
+~
+~
+0 0 19200
+C 0
+S
+#19244
+{BInside the gate of the Monestary{x~
+You are standing inside the gate of the Monestary.  The courtyard is to the north.
+~
+0 0 1
+D0
+~
+~
+0 0 19245
+D2
+~
+gate~
+2 19200 19243
+C 0
+S
+#19245
+{YThe Southern Courtyard{x~
+You are standing in a grassy area of the southern courtyard.  There is a stone pathway
+leading to the north, east, and west.  To the south is the Monestary gate.
+~
+0 0 1
+D0
+~
+~
+0 0 19250
+D1
+~
+~
+0 0 19253
+D2
+~
+~
+0 0 19244
+D3
+~
+~
+0 0 19246
+C 0
+S
+#19246
+{YThe South Western Courtyard{x~
+You are standing in a grassy area of the northwestern courtyard.  A stone pathway leads to
+the north and east.
+~
+0 0 1
+D0
+~
+~
+0 0 19247
+D1
+~
+~
+0 0 19245
+C 0
+S
+#19247
+{YThe Western Courtyard{x~
+You are standing in a grassy area of the western courtyard.  A stone pathway leads to
+the south, east, and north.  To the west is the Monk's dormatory.
+~
+0 0 1
+D0
+~
+~
+0 0 19248
+D1
+~
+~
+0 0 19250
+D2
+~
+~
+0 0 19246
+D3
+~
+~
+1 0 19265
+C 0
+S
+#19248
+{YThe North Western Courtyard{x~
+You are standing in a grassy area of the northwestern courtyard.  A stone pathway leads
+to the south and east.  To the north are the Herbalist's rooms.
+~
+0 4 1
+D0
+~
+~
+0 0 19308
+D1
+~
+~
+0 0 19249
+D2
+~
+~
+0 0 19247
+C 0
+S
+#19249
+{YThe Northern Courtyard{x~
+You are standing in a grassy area of the northern courtyard.  A stone pathway leads to
+the east and west.  To the north is the door to the Priest's office.
+~
+0 0 1
+D0
+~
+~
+2 19201 19293
+D1
+~
+~
+0 0 19251
+D2
+~
+~
+0 0 19250
+D3
+~
+~
+0 0 19248
+C 0
+S
+#19250
+{YThe Center of the Courtyard{x~
+This is the center of the Monestary courtyard. Crystal clear water spills from an
+ornate fountain with statues of angels, wings spread, as the focal point.  A stone
+pathway circles the fountain and leads off in all four directions.
+~
+0 0 1
+D0
+~
+~
+0 0 19249
+D1
+~
+~
+0 0 19252
+D2
+~
+~
+0 0 19245
+D3
+~
+~
+0 0 19247
+C 0
+S
+#19251
+{YThe North Eastern Courtyard{x~
+You are standing in a grassy area of the northeastern courtyard.  A stone pathway leads
+to the south and west.
+~
+0 0 1
+D2
+~
+~
+0 0 19252
+D3
+~
+~
+0 0 19249
+C 0
+S
+#19252
+{YThe Eastern Courtyard{x~
+You are standing in a grassy area of the eastern courtyard.  A stone pathway leads to
+the north, west, and south.
+~
+0 0 1
+D0
+~
+~
+0 0 19251
+D2
+~
+~
+0 0 19253
+D3
+~
+~
+0 0 19250
+C 0
+S
+#19253
+{YThe South Eastern Courtyard{x~
+You are standing in a grassy area of the southeastern courtyard.  A stone pathway leads
+to the north and west.  To the south is the stableyard.
+~
+0 0 1
+D0
+~
+~
+0 0 19252
+D2
+~
+~
+0 0 19254
+D3
+~
+~
+0 0 19245
+C 0
+S
+#19254
+{yThe Stableyard{x~
+You have walked into the stableyard.  The yard is surrounded by a hand-hewn wooden
+fence, with water troughs lining the western side of the yard.  The smell of freshly
+cut hay and manure drifts on the breeze.  The stable is to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 19253
+D1
+~
+~
+1 0 19256
+D2
+~
+~
+0 0 19255
+C 0
+S
+#19255
+{yThe Stableyard{x~
+You are in the southern end of the stableyard.  The yard is surrounded by a hand-hewn
+wooden fence, with water troughs lining the western side of the yard.  The smell of
+freshly cut hay and manure drifts on the breeze.
+~
+0 0 1
+D0
+~
+~
+0 0 19254
+C 0
+S
+#19256
+{yHallway in the Stables{x~
+You are standing on the center walkway of the stable.  To the north and south you see
+stalls where some of the larger animals are kept.  The walkway continues to the east.
+~
+0 8 0
+D0
+~
+stall~
+1 0 19259
+D1
+~
+~
+0 0 19257
+D2
+~
+stall~
+1 0 19260
+D3
+~
+~
+1 0 19254
+C 0
+S
+#19257
+{yHallway in the Stables{x~
+You are standing on the center walkway of the stable.  To the north and south you see
+stalls where some of the larger animals are kept.  The walkway continues to the east
+and west.
+~
+0 8 0
+D0
+~
+stall~
+1 0 19261
+D1
+~
+~
+0 0 19258
+D2
+~
+stall~
+1 0 19262
+D3
+~
+~
+0 0 19256
+C 0
+S
+#19258
+{yHallway in the Stables{x~
+You are standing on the center walkway of the stable.  To the north and south you see
+stalls where some of the larger animals are kept.  The walkway continues to the west.
+~
+0 8 0
+D0
+~
+stall~
+1 0 19263
+D2
+~
+stall~
+1 0 19264
+D3
+~
+~
+0 0 19257
+C 0
+S
+#19259
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the south is the
+stable walkway.
+~
+0 9 0
+D2
+~
+stall~
+1 0 19256
+C 0
+S
+#19260
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the north is the
+stable walkway.
+~
+0 9 0
+D0
+~
+stall~
+1 0 19256
+C 0
+S
+#19261
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the south is the
+stable walkway.
+~
+0 9 0
+D2
+~
+stall~
+1 0 19257
+C 0
+S
+#19262
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the north is the
+stable walkway.
+~
+0 9 0
+D0
+~
+stall~
+1 0 19257
+C 0
+S
+#19263
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the south is the
+stable walkway.
+~
+0 9 0
+D2
+~
+stall~
+1 0 19258
+C 0
+S
+#19264
+{yA stall in the Stables{x~
+You are in one of the stalls in the stable. There is a thick layer of freshly cut hay
+on the floor.  Buckets for food and water are hung from the walls.  To the north is the
+stable walkway.
+~
+0 9 0
+D0
+~
+stall~
+1 0 19258
+C 0
+S
+#19265
+{mHallway in the monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the west.  To the east is the
+courtyard.
+~
+0 8 0
+D0
+~
+~
+1 0 19269
+D1
+~
+~
+1 0 19247
+D2
+~
+~
+1 0 19270
+D3
+~
+~
+0 0 19266
+C 0
+S
+#19266
+{mHallway in the Monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the east and west.
+~
+0 8 0
+D0
+~
+~
+1 19205 19271
+D1
+~
+~
+0 0 19265
+D2
+~
+~
+1 19205 19272
+D3
+~
+~
+0 0 19267
+C 0
+S
+#19267
+{mHallway in the Monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the east.  To the west is the
+stairway leading to the second floor.
+~
+0 8 0
+D0
+~
+~
+1 0 19273
+D1
+~
+~
+0 0 19266
+D2
+~
+~
+1 0 19274
+D3
+~
+~
+0 0 19268
+C 0
+S
+#19268
+{mStairway to the Second Floor of the Monk's Dormatory{x~
+You are standing at the bottom of the stairway to the second floor of the Monk's
+dormatory.  The stairway leads up to the second floor and you can hear the clanging of
+pots through the door to the north.
+~
+0 8 0
+D0
+~
+~
+1 0 19285
+D1
+~
+~
+0 0 19267
+D4
+~
+~
+0 0 19275
+C 0
+S
+#19269
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 0 19265
+C 0
+S
+#19270
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 0 19265
+C 0
+S
+#19271
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 19205 19266
+C 0
+S
+#19272
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 19205 19266
+C 0
+S
+#19273
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 0 19267
+C 0
+S
+#19274
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 0 19267
+C 0
+S
+#19275
+{mStairway to the First Floor of the Monk's Dormatory{x~
+You are standing at the top of the stairway to the ground floor of the Monk's dormatory.
+The stairway leads to the ground floor.  To the east is a hallway.
+~
+0 8 0
+D1
+~
+~
+0 0 19276
+D5
+~
+~
+0 0 19268
+C 0
+S
+#19276
+{mHallway in the Monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the east.  To the west is the
+stairway leading to the ground floor.
+~
+0 8 0
+D0
+~
+~
+1 19205 19279
+D1
+~
+~
+0 0 19277
+D2
+~
+~
+1 0 19280
+D3
+~
+~
+0 0 19275
+C 0
+S
+#19277
+{mHallway in the Monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the east and west.
+~
+0 8 0
+D0
+~
+~
+1 0 19281
+D1
+~
+~
+0 0 19278
+D2
+~
+~
+1 19205 19282
+D3
+~
+~
+0 0 19276
+C 0
+S
+#19278
+{mHallway in the Monk's Dormatory{x~
+You are in the hallway of the Monk's dormatory.  To the north and south are the
+sleeping cells for the monks.  The hallway continues to the west.
+~
+0 8 0
+D0
+~
+~
+1 19205 19283
+D2
+~
+~
+1 0 19284
+D3
+~
+~
+0 0 19277
+C 0
+S
+#19279
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 19205 19276
+C 0
+S
+#19280
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 0 19276
+C 0
+S
+#19281
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 0 19277
+C 0
+S
+#19282
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 19205 19277
+C 0
+S
+#19283
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+south is the hallway.
+~
+0 9 0
+D2
+~
+~
+1 19205 19278
+C 0
+S
+#19284
+{mA Monk's Cell{x~
+You are standing in one of the monk's cells.  There is a bed, wardrobe, and a nightstand
+with a small oil lamp.  A cross hangs on the wall above the head of the bed.  To the
+north is the hallway.
+~
+0 9 0
+D0
+~
+~
+1 0 19278
+C 0
+S
+#19285
+{GThe Monestary Kitchen{x~
+You are standing in the monestary kitchen.  The smell of freshly baked bread mingles
+with the scents of herbs and spices.  There are copper pots hanging from the ceiling
+above a wooden worktable.  Dried herbs and spices hang from the rafters within easy
+reach of the cooks helpers.  To the south is the stairway of the Monk's dormatory, and
+to the west is the dining hall.  A well stocked larder is to the north.
+~
+0 8 0
+D0
+~
+~
+0 0 19288
+D2
+~
+~
+1 0 19268
+D3
+~
+~
+1 0 19286
+C 0
+S
+#19286
+{GThe Monestary Dining Hall{x~
+You have entered the dining hall.  Here the monks relax and enjoy the many wonderful
+dishes created by the cook and his helpers.  There is a long dining table here with
+chairs flanking both sides.  A large ornate chair that very much resembles a throne sits
+at the head of the table for the Priest's comfort.  The sound of pots clanging and the
+aroma of something spicy cooking comes from the kitchen to the east.
+~
+0 8 0
+D1
+~
+~
+1 0 19285
+C 0
+S
+#19287
+{GThe Kitchen Garden{x~
+You are standing in the kitchen garden.  This section is devoted to the herbs and
+spices necessary to the cook for the preparation of tasty meals.  The garden continues
+to the north.  To the east is the larder.
+~
+0 0 2
+D0
+~
+~
+0 0 19290
+D1
+~
+~
+1 0 19288
+C 0
+S
+#19288
+{GThe Larder{x~
+This room is used for the same purpose as a pantry.  There are vegetables from the 
+garden stored in bushel baskets along one wall.  Barrels of salted fish and other meats
+line another of the walls and cans of preserved vegetables and fruits sit upon shelves
+above the barrels.  The door to the kitchen garden is to the west.  There is a wine
+cellar below this room, and the kitchen is to the south.
+~
+0 9 0
+D2
+~
+~
+0 0 19285
+D3
+~
+~
+1 0 19287
+D5
+~
+trapdoor~
+1 0 19289
+C 0
+S
+#19289
+{GThe Wine Cellar{x~
+This is the monestary's wine cellar.  The room is cool and damp and is filled with row
+after row of wooden racks holding hundreds of wine bottles.  A ladder leads back up to the
+larder above.
+~
+0 9 0
+D4
+~
+trapdoor~
+1 0 19288
+C 0
+S
+#19290
+{GThe Kitchen Garden{x~
+You are standing in the kitchen garden.  This section is devoted to the herbs and
+spices necessary to the cook for the preparation of tasty meals.  The garden continues
+to the south and east.
+~
+0 0 2
+D1
+~
+~
+0 0 19291
+D2
+~
+~
+0 0 19287
+C 0
+S
+#19291
+{GThe Kitchen Garden{x~
+You are standing in the kitchen garden.  Planted in neat rows in this section of the
+garden is a wide selection of vegetables.  The smell of freshly turned earth permeates the
+air.  The garden continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 19292
+D3
+~
+~
+0 0 19290
+C 0
+S
+#19292
+{GThe Kitchen Garden{x~
+You are standing in the kitchen garden.  Various small fruit trees are planted here.
+The garden continues to the west.
+~
+0 0 2
+D3
+~
+~
+0 0 19291
+C 0
+S
+#19293
+{wPriest's Office{x~
+You are standing in the Priest's office.  There is a large oak desk, polished to a high
+sheen sitting in the center of the room.  A large hand carved chair sits at the desk
+with two smaller chairs sitting in front for visitors.  The floor is covered by a large
+handwoven carpet with an intricate design depicting the last supper.  To the south is
+the courtyard.  There are doors leading to the north and west.  The library is to the
+east.
+~
+0 8 0
+D0
+~
+~
+1 0 19298
+D1
+~
+~
+0 0 19295
+D2
+~
+~
+2 19201 19249
+D3
+~
+~
+1 0 19294
+C 0
+S
+#19294
+{wThe Priest's Sleeping Chamber{x~
+You are standing in the Priest's sleeping chamber.  There is a bed, wardrobe, and a
+nightstand with a small oil lamp.  A cross hangs on the wall above the head of the bed.
+The only concession to comfort in this room is a small handwoven carpet at the side of
+the bed.  In all other respects, this room is no different than the monk's cells in the
+dormatory.
+~
+0 8 0
+D1
+~
+~
+1 0 19293
+C 0
+S
+#19295
+{wThe Library{x~
+You are standing in a huge room with bookshelves lining the walls from floor to ceiling.
+There are what seems to be thousands of books of all sizes.  The scribe's cubicles are
+to the north and east, and the Priest's office is to the west.
+~
+0 8 0
+D0
+~
+~
+0 0 19296
+D1
+~
+~
+0 0 19297
+D3
+~
+~
+0 0 19293
+C 0
+S
+#19296
+{wA Scribe's Cubicle{x~
+This is one of the two scribe's cubicles in the monestary.  Here young initiates with
+outstanding penmanship copy volumes from the library.  It is a painstaking process that
+can take years to accomplish.  To the south is the library.
+~
+0 8 0
+D2
+~
+~
+0 0 19295
+C 0
+S
+#19297
+{wA Scribe's Cubicle{x~
+This is one of the two scribe's cubicles in the monestary.  Here young initiates with
+outstanding penmanship copy volumes from the library.  It is a painstaking process that
+can take years to accomplish.  To the west is the library.
+~
+0 8 0
+D3
+~
+~
+0 0 19295
+C 0
+S
+#19298
+{WThe Vestibule{x~
+You are standing in the vestibule, the entrance to the monestary chapel.  The lighting
+is very poor allowing you to see only inches in front of you.  To the north is the
+chapel and to the south, the Priest's office.
+~
+0 9 0
+D0
+~
+~
+0 0 19299
+D2
+~
+~
+1 0 19293
+C 0
+S
+#19299
+{WThe Chapel{x~
+You are standing in the center of the chapel.  The vaulted ceilings cause your footsteps
+to echo as you walk.  The floor is made of marble cut into an intricate design.  There
+are two rows of pews on either side of the center aisle.  At the north end of the aisle
+you can just barely see the altar.  To the south is the vestibule.
+~
+0 9 0
+D0
+~
+~
+0 0 19300
+D2
+~
+~
+0 0 19298
+C 0
+S
+#19300
+{WThe Chapel Altar{x~
+You are standing in front of the altar.  On the altar you see two candles, one on each
+side, and a large bible in the middle.  Behind the altar is a large chair with two smaller
+chairs to each side.  In back of the chairs is a marble shelf extending outward from
+the wall.  There are three candelabra sitting on the shelf.  Above the shelf is a twenty
+foot crucifix.  As you walk around the altar you notice two long, deep scrapes in the
+floor behind the altar.  To the east is the sacristy and south is the chapel.
+~
+0 1036 0
+D1
+~
+~
+1 0 19301
+D2
+~
+~
+0 0 19299
+D5
+~
+altar~
+1 0 19302
+M 200 H 200
+C 0
+S
+#19301
+{WThe Sacristy{x~
+You are in the sacristy, the room in which the priest dons his vestments and prepares
+for mass.  There is a small wardrobe containing the robes for both the priest and the
+altar boys.  There is also a stand holding a basin and pitcher filled with water, and
+a table that holds the bread and wine for mass.  The altar is to the west.
+~
+0 9 0
+D3
+~
+~
+1 0 19300
+C 0
+S
+#19302
+{DThe Entrance to the Crypt{x~
+As you descend the stairs, you find yourself in a very dark room.  A dank musty odor
+lingers in the air.  It seems to originate to the south.
+~
+0 9 0
+D2
+~
+~
+0 0 19303
+D4
+~
+altar~
+1 0 19300
+C 0
+S
+#19303
+{DThe Crypt{x~
+You are standing in what looks to be an ancient crypt.  There are cubby holes in the
+walls that are filled with dust and what appear to be bones.  The smell of death and
+decay fills the room.  As you look around the room you notice that some of the bones
+seem to be moving.  To the south you see a very heavy iron door.
+~
+0 8201 0
+D2
+~
+~
+2 19203 19304
+M 50 H 50
+C 0
+S
+#19304
+{DHidden Chamber{x~
+You step through the entry way, and a heavy iron door slams closed behind
+you.  As you scan the room, you see a pair of glowing red eyes staring at
+you.  It is suddenly apparant why the monks have kept this chamber hidden,
+as a huge black demon hurls itself at you.  
+~
+0 8713 0
+D3
+~
+~
+2 19204 19305
+M 0 H 0
+C 0
+S
+#19305
+{RThe Chapel Garden{x~
+The Herbalist's Garden is very well tended and neat.  The smell of exotic
+plants fills the air and a small window to the south shows the interior of
+the Herbalist's drying room.  A small snake slithers suddenly from a crack
+in the south wall, with something in its mouth 
+~
+0 0 2
+D0
+~
+~
+0 0 19306
+C 0
+S
+#19306
+{RBehind the Hedges{x~
+You must be determined to leave this place.  Those hedges are thorny and
+scratched you, leaving you bleeding in a few places.  Hope you've found the
+key to the gate or you'll have to go back for it.  The small path winds from
+the north wall to the Herbalist Garden and back.  It is well beaten and the
+sides of the path have been carefully cleared of weeds.  The smell of
+strange herbs drifts from the south.  
+~
+0 1 3
+D0
+~
+gate~
+0 19202 19307
+D2
+~
+~
+0 0 19305
+M 100 H -50
+C 0
+S
+#19307
+{RPath to the Herb Garden{x~
+A dirt trail runs betweens two of the Monk huts, winding from the north
+wall to a small garden.  A row of hedges rises up in the path, cutting off
+the view of anything in the garden from the wall but you can smell strange
+scents drifting across the wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 19224
+D2
+~
+gate~
+0 19202 19306
+C 0
+S
+#19308
+{MThe Herbalist's prep room{x~
+You are standing in the Herbalist's preparation room, this is where the
+Herbalist mixes the herbs and liquids to make his various special potions. 
+To the south is the courtyard, to the west is the Herbalist drying room, and
+to the north is a window over looking the Chapel Garden.  
+~
+0 8 0
+D2
+~
+~
+0 0 19248
+D3
+~
+~
+0 0 19309
+C 0
+S
+#19309
+{MThe Herbalist's Drying Room{x~
+You are standing in the Herbalist's Drying Room, there are all different types of plants
+hanging around the room from the celing and from racks on the wall.  To the north is the
+door to the Herbalist's sleeping chamber, and to the east is the Herbalist's prep room.
+~
+0 9 0
+D0
+~
+~
+1 0 19310
+D1
+~
+~
+0 0 19308
+C 0
+S
+#19310
+{MThe Herbalist's Sleeping Chamber{x~
+You are standing in the herbalist's sleeping chamber.  There is a bed, wardrobe, and a
+nightstand with a small oil lamp.  A cross hangs on the wall above the head of the bed.
+A small vase of herbs and wildflowers sits on the nightstand.  To the south is the
+drying room.
+~
+0 9 0
+D2
+~
+~
+1 0 19309
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 19200 spec_breath_fire
+M 19203 spec_poison
+M 19206 spec_cast_cleric
+M 19207 spec_breath_lightning
+M 19208 spec_poison
+M 19209 spec_nasty
+M 19210 spec_guard
+M 19211 spec_guard
+S
+
+
+
+#RESETS
+D 0 19204 1 1
+D 0 19205 0 1
+D 0 19205 3 1
+D 0 19208 2 1
+D 0 19216 0 1
+D 0 19217 2 1
+D 0 19217 3 1
+D 0 19221 1 1
+D 0 19224 3 1
+D 0 19225 1 1
+D 0 19225 2 1
+D 0 19228 0 1
+D 0 19234 2 1
+D 0 19235 0 1
+D 0 19235 1 1
+D 0 19239 3 1
+D 0 19243 0 2
+D 0 19244 2 2
+D 0 19247 3 1
+D 0 19249 0 2
+D 0 19254 1 1
+D 0 19256 0 1
+D 0 19256 2 1
+D 0 19256 3 1
+D 0 19257 0 1
+D 0 19257 2 1
+D 0 19259 2 1
+D 0 19260 0 1
+D 0 19261 2 1
+D 0 19262 0 1
+D 0 19265 0 1
+D 0 19265 1 1
+D 0 19265 2 1
+D 0 19266 0 2
+D 0 19266 2 2
+D 0 19267 0 1
+D 0 19267 2 1
+D 0 19268 0 1
+D 0 19269 2 1
+D 0 19270 0 1
+D 0 19271 2 2
+D 0 19272 0 2
+D 0 19273 2 1
+D 0 19274 0 1
+D 0 19276 0 2
+D 0 19276 2 1
+D 0 19277 0 1
+D 0 19277 2 2
+D 0 19278 0 2
+D 0 19278 2 1
+D 0 19279 2 2
+D 0 19280 0 1
+D 0 19281 2 1
+D 0 19282 0 2
+D 0 19283 2 2
+D 0 19284 0 1
+D 0 19285 2 1
+D 0 19285 3 1
+D 0 19286 1 1
+D 0 19287 1 1
+D 0 19288 3 1
+D 0 19288 5 1
+D 0 19289 4 1
+D 0 19293 2 2
+D 0 19293 3 1
+D 0 19294 1 1
+D 0 19300 1 1
+D 0 19300 5 1
+D 0 19301 3 1
+D 0 19302 4 1
+D 0 19303 2 2
+D 0 19304 3 2
+D 0 19309 0 1
+D 0 19310 2 1
+M 0 19211 5 19202 1
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19205 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19207 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19211 5 19210 1
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19217 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19219 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19211 5 19223 1
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19225 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19227 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19211 5 19231 1
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19235 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19237 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19211 5 19240 1
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19210 10 19244 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19206 12 19246 12
+M 0 19205 1 19249 1
+E 0 19214 0 17
+E 0 19213 0 3
+G 0 19201 0
+M 0 19210 10 19251 2
+E 0 19222 0 5
+E 0 19221 0 11
+E 0 19220 0 16
+M 0 19206 12 19255 12
+M 0 19209 1 19262 1
+O 0 19230 0 19262
+M 0 19208 5 19263 5
+M 0 19208 5 19263 5
+M 0 19208 5 19263 5
+M 0 19208 5 19263 5
+M 0 19208 5 19263 5
+M 0 19206 12 19268 12
+G 0 19205 0
+M 0 19206 12 19271 12
+M 0 19206 12 19272 12
+M 0 19206 12 19279 12
+E 0 19215 0 12
+M 0 19206 12 19282 12
+E 0 19216 0 18
+M 0 19206 12 19283 12
+E 0 19217 0 13
+M 0 19206 12 19286 12
+E 0 19218 0 6
+M 0 19206 12 19287 12
+M 0 19206 12 19288 12
+M 0 19206 12 19291 12
+M 0 19207 2 19296 1
+E 0 19219 0 16
+M 0 19207 2 19297 1
+E 0 19219 0 16
+O 0 19210 0 19300
+M 0 19201 2 19302 1
+M 0 19202 1 19303 1
+E 0 19227 0 13
+G 0 19203 0
+E 0 19212 0 11
+E 0 19211 0 16
+M 0 19201 2 19303 1
+M 0 19200 1 19304 1
+G 0 19204 0
+E 0 19209 0 16
+E 0 19208 0 12
+E 0 19207 0 7
+M 0 19203 1 19305 1
+G 0 19200 0
+M 0 19204 1 19308 1
+G 0 19226 0
+G 0 19225 0
+G 0 19224 0
+G 0 19223 0
+S
+
+
+
+#SHOPS
+19204 10 0 0 0 0 120 20 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

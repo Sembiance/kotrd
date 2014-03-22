@@ -1,0 +1,614 @@
+#PLAYER
+Name Myllonir~
+Id   1087261960
+LogO 1136347776
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Giant~
+Clan Crimson Knights~
+Sex  1
+Cla  5
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla -1
+Levl 36
+OldLvl 36
+Sec  0
+Plyd 101493
+Scro 33
+Room 3001
+HMV  1122 1122 347 347 480 480
+Gold 28
+Silv 1522
+Gold_bank 11331
+Silv_bank 12854
+Shares 0
+Share_level 36
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  36384
+QuestPnts 144
+PAct  CDEFGQTcd
+AfBy J
+WName Myllonir~
+Comm EFINO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 1
+Trai 9
+Save  -2
+Alig  1000
+Hit   47
+Dam   38
+ACs -7 0 -5 59
+Wimp  150
+Attr 22 15 15 17 22
+AMod 0 0 0 0 0
+Pass MyE1GQj69A5v.~
+Titl  wins PK by accidentaly falling on victims~
+Pnts 40
+TSex 1
+PSize 4
+LLev 26
+HMVP 662 177 310
+Cnd  0 0 0 0
+Alias gi cast 'giant strength'~
+Alias kd kill darkanin~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'giant strength'
+Sk 98 'sword'
+Sk 21 'bash'
+Sk 75 'berserk'
+Sk 100 'dual wield'
+Sk 97 'enhanced damage'
+Sk 97 'kick'
+Sk 80 'parry'
+Sk 81 'second attack'
+Sk 76 'third attack'
+Sk 1 'fourth attack'
+Sk 50 'recall'
+Sk 1 'sharp blade'
+Sk 50 'clan recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior spells'
+End
+
+#O
+Vnum 10004
+Nest 0
+Cond 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 1395
+Nest 0
+Cond 0
+Wear 3
+Cost 1970
+End
+
+#O
+Vnum 5655
+Nest 0
+Cond 0
+Wear 9
+Cost 1000
+End
+
+#O
+Vnum 10236
+Nest 0
+Cond 0
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 4239
+Nest 0
+Cond 0
+Wear 7
+Cost 1350
+End
+
+#O
+Vnum 4245
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4247
+Nest 0
+Cond 0
+Wear 12
+Cost 1380
+End
+
+#O
+Vnum 4249
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear -1
+Cost 690
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 2
+Cost 1903
+End
+
+#O
+Vnum 16084
+Nest 0
+Cond 0
+Wear 1
+Cost 1903
+End
+
+#O
+Vnum 1395
+Nest 0
+Cond 0
+Wear 4
+Cost 1970
+End
+
+#O
+Vnum 9203
+Nest 0
+Cond 0
+Wear 19
+Cost 2800
+End
+
+#O
+Vnum 9206
+Nest 0
+Cond 0
+Wear 6
+Cost 3800
+End
+
+#O
+Vnum 9204
+Nest 0
+Cond 0
+Wear -1
+Cost 3100
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 23223
+Nest 0
+Cond 0
+Wear 14
+Cost 10000
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 9207
+Nest 0
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 9208
+Nest 0
+Cond 0
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 9226
+Nest 0
+Cond 0
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 9
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Val  3 0 34 0 0
+End
+
+#O
+Vnum 9227
+Nest 0
+Cond 0
+Wear -1
+Cost 1630
+End
+
+#O
+Vnum 10237
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 0
+Wear -1
+Cost 270
+Spell 1 'haste'
+End
+
+#O
+Vnum 2563
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Val  110 14 0 0 0
+End
+
+#O
+Vnum 9232
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 16
+Lev  30
+Cost 0
+Affc 'enchant weapon'   0 500  -1  30  18          0
+Affc 'enchant weapon'   1 500  -1  15  19          0
+Affc 'reserved'   1  29  -1   4  19          0
+End
+
+#O
+Vnum 2531
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2533
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+Val  110 78 0 0 0
+End
+
+#O
+Vnum 2532
+Nest 0
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2792
+Nest 0
+Cond 0
+Wear 0
+Cost 50346
+End
+
+#END

@@ -1,0 +1,78 @@
+#PLAYER
+Name Yyrkin~
+Id   1141426937
+LogO 1146179065
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Kender~
+Sex  1
+Cla  4
+AlertMe  0
+Hardcore  1
+CasterScore   0
+PrevHCLevel  1
+Legend -1
+OCla -1
+Levl 1
+OldLvl 1
+Sec  0
+Plyd 347
+Scro 33
+Room 3054
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Shares_level 0
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  3400
+PAct  DEFGQTd
+AfBy FV
+WName Yyrkin~
+Comm NO
+RaceChan 0
+Deaf DP
+Pos  5
+Prac 4
+Trai 3
+Alig  -1000
+ACs 100 100 100 100
+Attr 12 12 14 21 12
+AMod 0 0 0 0 0
+Pass YyldYu0aBnMTc~
+Titl .~
+Pnts 74
+TSex 1
+PSize 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 42 45 45
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 1 'invisibility'
+Sk 1 'sword'
+Sk 40 'dagger'
+Sk 1 'assassinate'
+Sk 1 'dirt kicking'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'peek'
+Sk 1 'steal'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'assassin basics'
+Gr 'invisibility spell'
+End
+
+#END

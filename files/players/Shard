@@ -1,0 +1,639 @@
+#PLAYER
+Name Shard~
+Id   1092092219
+LogO 1150901573
+Vers 5
+Prom <%h/%Hhp  %m/%Mm  %v/%Vmv><%Xxp to level><%k%K> ~
+Race Sidhe Elf~
+Sex  1
+Cla  2
+AlertMe  0
+Hardcore  0
+CasterScore   0
+PrevHCLevel  0
+Legend -1
+OCla 0
+Levl 94
+OldLvl 94
+Sec  0
+Plyd 350862
+Scro 33
+Room 20010
+HMV  6839 6839 6042 6042 4408 4408
+Gold 0
+Silv 2427
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 94
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  188937
+PAct  DGQTbd
+AfBy DFTV
+WName Shard~
+Comm KMNO
+RaceChan 0
+Deaf D
+Pos  8
+Prac 217
+Trai 66
+Save  -64
+Alig  1000
+Hit   216
+Dam   202
+ACs -754 -754 -754 -768
+Wimp  600
+Attr 14 27 25 17 14
+AMod 21 11 -2 16 19
+Pass ShbPlB6DH9FYY~
+Titl  of broken glass.~
+Pnts 40
+TSex 1
+PSize 5
+LLev 96
+HMVP 939 902 708
+Cnd  0 0 -1 -1
+Alias ss cast torm~
+Alias sss multi torm torm torm~
+Boards       4 General 0 Ideas 0 Announce 0 Personal 0 
+Sk 75 'magic missile'
+Sk 75 'chill touch'
+Sk 75 'burning hands'
+Sk 75 'shocking grasp'
+Sk 75 'colour spray'
+Sk 75 'fireball'
+Sk 76 'acid blast'
+Sk 77 'spellfire'
+Sk 75 'orb of chaos'
+Sk 75 'chain lightning'
+Sk 76 'wyldstryke'
+Sk 75 'acid storm'
+Sk 75 'wail of the banshee'
+Sk 97 'torment of cold'
+Sk 80 'sonic scream'
+Sk 75 'ventriloquate'
+Sk 75 'recharge'
+Sk 75 'sleep'
+Sk 75 'enchant armor'
+Sk 75 'enchant weapon'
+Sk 75 'charm person'
+Sk 78 'haste'
+Sk 75 'pass door'
+Sk 75 'portal'
+Sk 75 'nexus'
+Sk 75 'lightning bolt'
+Sk 1 'change sex'
+Sk 77 'detect evil'
+Sk 77 'detect good'
+Sk 79 'detect hidden'
+Sk 75 'armor'
+Sk 76 'blindness'
+Sk 75 'call lightning'
+Sk 75 'calm'
+Sk 77 'cancellation'
+Sk 75 'control weather'
+Sk 84 'curse'
+Sk 77 'detect invis'
+Sk 75 'detect magic'
+Sk 75 'detect poison'
+Sk 75 'dispel magic'
+Sk 75 'energy drain'
+Sk 79 'faerie fire'
+Sk 75 'faerie fog'
+Sk 75 'farsight'
+Sk 75 'fly'
+Sk 91 'gate'
+Sk 76 'giant strength'
+Sk 82 'identify'
+Sk 75 'infravision'
+Sk 75 'invisibility'
+Sk 75 'know alignment'
+Sk 75 'locate object'
+Sk 75 'mass invis'
+Sk 78 'plague'
+Sk 75 'poison'
+Sk 75 'refresh'
+Sk 82 'sanctuary'
+Sk 78 'energy shield'
+Sk 80 'slow'
+Sk 75 'stone skin'
+Sk 86 'summon'
+Sk 90 'teleport'
+Sk 82 'weaken'
+Sk 75 'word of recall'
+Sk 83 'apport'
+Sk 80 'combat mind'
+Sk 77 'adrenaline control'
+Sk 78 'enhanced strength'
+Sk 1 'aura sight'
+Sk 1 'awe'
+Sk 1 'thought shield'
+Sk 79 'psychic healing'
+Sk 1 'mental barrier'
+Sk 1 'share strength'
+Sk 1 'levitation'
+Sk 1 'obfuscate'
+Sk 82 'bio fortress'
+Sk 76 'cell adjustment'
+Sk 1 'displacement'
+Sk 75 'ectoplasmic form'
+Sk 1 'lend health'
+Sk 78 'complete healing'
+Sk 1 'energy containment'
+Sk 1 'enhance armor'
+Sk 1 'flesh armor'
+Sk 1 'inertial barrier'
+Sk 76 'domination'
+Sk 77 'disintegrate'
+Sk 1 'essence drain'
+Sk 1 'agitation'
+Sk 1 'ballistic attack'
+Sk 1 'control flames'
+Sk 77 'death field'
+Sk 1 'detonate'
+Sk 1 'ego whip'
+Sk 1 'inflict pain'
+Sk 1 'mind thrust'
+Sk 98 'project force'
+Sk 75 'psionic blast'
+Sk 1 'psychic crush'
+Sk 1 'psychic drain'
+Sk 1 'ultrablast'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'mace'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 100 'hand to hand'
+Sk 100 'dodge'
+Sk 100 'second attack'
+Sk 91 'fast healing'
+Sk 100 'haggle'
+Sk 99 'meditation'
+Sk 95 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 94 'spellcraft'
+Sk 1 'metamorph'
+Sk 94 'multiburst'
+Sk 1 'divine wrath'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'psionic basics'
+Gr 'mage default'
+Gr 'psionic default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'mage protective'
+Gr 'offensive'
+Gr 'full transport'
+Gr 'weather'
+Gr 'psi enhance'
+Gr 'psi attack'
+Gr 'psi general'
+Affc 'fly'   0  92  92   0   0     524288
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear 15
+Cost 7500
+End
+
+#O
+Vnum 11896
+Nest 0
+Cond 0
+Wear 14
+Cost 7500
+End
+
+#O
+Vnum 11860
+Nest 0
+Cond 0
+Wear 4
+Cost 12000
+End
+
+#O
+Vnum 11856
+Nest 0
+Cond 0
+Wear 10
+Cost 9900
+End
+
+#O
+Vnum 11860
+Nest 0
+Cond 0
+Wear 3
+Cost 12000
+End
+
+#O
+Vnum 7505
+Nest 0
+Cond 0
+Wear 12
+Cost 10000
+End
+
+#O
+Vnum 20416
+Enchanted
+Nest 0
+ExtF 66
+Cond 0
+Wear 16
+Lev  86
+Cost 30000
+Affc 'enchant weapon'   0  86  -1  17  18          0
+Affc 'enchant weapon'   1  86  -1   8  19          0
+Affc 'reserved'   1  85  -1  10  18          0
+Affc 'reserved'   1  85  -1  10  19          0
+Affc 'reserved'   1  85  -1 100  12          0
+End
+
+#O
+Vnum 20428
+Nest 0
+Cond 0
+Wear 20
+Cost 350000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6716
+Nest 1
+Cond 0
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3155
+Enchanted
+Nest 1
+ExtF 268435523
+Cond 0
+Wear -1
+Lev  96
+Cost 500
+Val  2 16 15 11 93
+Affc 'pvorpal blade'   5   0  -1   0   0         16
+Affc 'pshocking blade'   5   0  -1   0   0         64
+Affc 'enchant weapon'   0 100  -1  25  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+Affc 'reserved'   1  95  -1  40  18          0
+Affc 'reserved'   1  95  -1  37  19          0
+Affc 'reserved'   1  95  -1 100  13          0
+Affc 'reserved'   1  95  -1  -5  20          0
+Affc 'reserved'   1  95  -1 -10  17          0
+Affc 'reserved'   1  95  -1   2   1          0
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'psharp blade'   5   0  -1   0   0          8
+End
+
+#O
+Vnum 25421
+Nest 1
+Cond 0
+Wear -1
+Cost 187500
+End
+
+#O
+Vnum 6714
+Nest 0
+ExtF 524353
+Cond 0
+Wear 6
+Cost 50000
+Val  50 50 50 50 1
+End
+
+#O
+Vnum 6730
+Nest 0
+ExtF 524353
+Cond 0
+Wear 2
+Cost 25000
+Val  61 61 61 61 0
+End
+
+#O
+Vnum 6730
+Nest 0
+ExtF 524353
+Cond 0
+Wear 1
+Cost 25000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6724
+Nest 0
+ExtF 524354
+Cond 0
+Wear 13
+Cost 22500
+Val  62 62 62 62 0
+End
+
+#O
+Vnum 6734
+Nest 0
+Cond 0
+Wear 17
+Cost 8000
+End
+
+#O
+Vnum 6739
+Nest 0
+ExtF 17301569
+Cond 0
+Wear 9
+Cost 20000
+Val  37 37 37 37 19
+End
+
+#O
+Vnum 6738
+Nest 0
+ExtF 524352
+Cond 0
+Wear 11
+Cost 15000
+Val  68 68 68 68 0
+End
+
+#O
+Vnum 6708
+Nest 0
+ExtF 524353
+Cond 0
+Wear 18
+Cost 500000
+Val  6 6 6 6 0
+End
+
+#O
+Vnum 6736
+Nest 0
+ExtF 17301571
+Cond 0
+Wear 8
+Cost 50000
+Val  75 75 75 75 1
+End
+
+#O
+Vnum 6722
+Nest 0
+ExtF 17301570
+Cond 0
+Wear 7
+Cost 30000
+Val  43 43 43 43 0
+End
+
+#O
+Vnum 6718
+Nest 0
+ExtF 17301571
+Cond 0
+Wear 5
+Cost 65000
+Val  81 81 81 81 1
+End
+
+#O
+Vnum 6754
+Nest 0
+Cond 0
+Wear 0
+Cost 50000
+End
+
+#END

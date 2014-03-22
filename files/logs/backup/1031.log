@@ -1,0 +1,1923 @@
+Mon Dec 27 22:39:26 2004 :: ROM is ready to rock on port 5000.
+Mon Dec 27 22:39:42 2004 :: Sock.sinaddr:  69.240.65.225
+Mon Dec 27 22:39:45 2004 :: Sock.sinaddr:  67.19.185.236
+Mon Dec 27 22:39:46 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 22:39:46 2004 :: Sock.sinaddr:  67.170.53.94
+Mon Dec 27 22:39:46 2004 :: Loading Argon.
+Mon Dec 27 22:39:46 2004 :: Argon@67.141.86.144 has connected.
+Mon Dec 27 22:39:48 2004 :: Loading Sembiance.
+Mon Dec 27 22:39:50 2004 :: Sembiance@236.67-19-185.reverse.theplanet.com has connected.
+Mon Dec 27 22:39:51 2004 :: Loading Stumpy.
+Mon Dec 27 22:39:53 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Mon Dec 27 22:40:34 2004 :: Loading Venus.
+Mon Dec 27 22:40:34 2004 :: Venus@c-67-170-53-94.client.comcast.net has connected.
+Mon Dec 27 22:42:52 2004 :: Log Venus: snoop stumpy
+Mon Dec 27 22:52:06 2004 :: Log Venus: snoop self
+Mon Dec 27 22:53:45 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 22:53:45 2004 :: Loading Argon.
+Mon Dec 27 22:53:47 2004 :: Closing link to Argon.
+Mon Dec 27 22:53:54 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 22:53:54 2004 :: Loading Argon.
+Mon Dec 27 22:53:55 2004 :: Argon@67.141.86.144 has connected.
+Mon Dec 27 22:56:33 2004 :: Log Argon: mset argon class ranger
+Mon Dec 27 22:58:56 2004 :: Argon has quit.
+Mon Dec 27 22:58:58 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 22:58:58 2004 :: Loading Argon.
+Mon Dec 27 22:58:58 2004 :: Argon@67.141.86.144 has connected.
+Mon Dec 27 22:59:05 2004 :: Argon has quit.
+Mon Dec 27 22:59:06 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 22:59:06 2004 :: Loading Argon.
+Mon Dec 27 22:59:07 2004 :: Argon@67.141.86.144 has connected.
+Mon Dec 27 23:00:46 2004 :: Log Argon: mset
+Mon Dec 27 23:22:51 2004 :: Sock.sinaddr:  67.141.86.144
+Mon Dec 27 23:22:54 2004 :: Loading Conrad.
+Mon Dec 27 23:22:56 2004 :: Conrad@67.141.86.144 has connected.
+Mon Dec 27 23:25:19 2004 :: Log Venus: snoop con
+Mon Dec 27 23:25:23 2004 :: Log Conrad: choose
+Mon Dec 27 23:25:23 2004 :: Log Venus: snoop conrad
+Mon Dec 27 23:26:34 2004 :: Log Venus: snoop self
+Mon Dec 27 23:27:23 2004 :: Log Venus: mset conrad
+Mon Dec 27 23:27:27 2004 :: Log Venus: mset conrak clan malk
+Mon Dec 27 23:27:33 2004 :: Log Venus: mset conrad clan malk
+Mon Dec 27 23:30:57 2004 :: Conrad has quit.
+Mon Dec 27 23:54:52 2004 :: Log Stumpy: delete 23427
+Tue Dec 28 00:02:41 2004 :: Sock.sinaddr:  4.236.24.72
+Tue Dec 28 00:02:47 2004 :: Loading Golddragon.
+Tue Dec 28 00:02:50 2004 :: Golddragon@dialup-4.236.24.72.Dial1.NewYork1.Level3.net has connected.
+Tue Dec 28 00:21:00 2004 :: EOF encountered on read.
+Tue Dec 28 00:21:00 2004 :: Closing link to Golddragon.
+Tue Dec 28 00:35:13 2004 :: Golddragon has quit.
+Read_from_descriptor: Connection timed out
+Tue Dec 28 01:22:29 2004 :: Closing link to Argon.
+Tue Dec 28 01:56:51 2004 :: Sock.sinaddr:  216.40.243.218
+Tue Dec 28 01:56:51 2004 :: EOF encountered on read.
+Tue Dec 28 02:49:32 2004 :: Stumpy has quit.
+Tue Dec 28 02:49:36 2004 :: Sock.sinaddr:  69.240.65.225
+Tue Dec 28 02:49:40 2004 :: Loading Hocklar.
+Tue Dec 28 02:49:49 2004 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Dec 28 02:54:03 2004 :: a statue of Yavi got toasted by Hocklar at {MMuseum of the Gods{x [room 3036]
+Tue Dec 28 02:54:58 2004 :: a statue of Venus got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 02:55:19 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Tue Dec 28 02:56:14 2004 :: a small troll got toasted by Hocklar at {MDarker Cave{x [room 1524]
+Tue Dec 28 02:56:37 2004 :: Log Hocklar: cast summon bloody severed nose
+Tue Dec 28 03:06:08 2004 :: Log Venus: string obj stone long {gS{bp{ra{yt{ru{bl{ga{D'{ys {DEvil {RB{Bu{Gt{Yt{Me{Yr{GF{Bl{Ry {x
+Tue Dec 28 03:06:17 2004 :: Log Venus: string obj stone short {gS{bp{ra{yt{ru{bl{ga{D'{ys {DEvil {RB{Bu{Gt{Yt{Me{Yr{GF{Bl{Ry {x
+Tue Dec 28 03:06:31 2004 :: Log Venus: string obj stone name evil butterfly
+Tue Dec 28 03:14:52 2004 :: Log Venus: string obj helm long {DH{rocklar{D'{rs  {mP{ci{mMP{ci{mN {GF{Re{Cdo{Rr{Ga {Dof  {cV{Ma{CL{Mo{cR {x
+Tue Dec 28 03:14:58 2004 :: Log Venus: string obj helm short {DH{rocklar{D'{rs  {mP{ci{mMP{ci{mN {GF{Re{Cdo{Rr{Ga {Dof  {cV{Ma{CL{Mo{cR {x
+Tue Dec 28 03:15:16 2004 :: Log Venus: string obj helm name fedora
+Tue Dec 28 03:15:54 2004 :: Log Venus: string obj fedora short {DH{rocklar{D'{rs  {mP{ci{mMP{ci{mN {GF{Re{Cdo{Rr{Ga {Dof {cV{Ma{CL{Mo{cR {x
+Tue Dec 28 03:15:59 2004 :: Log Venus: string obj fedora long {DH{rocklar{D'{rs  {mP{ci{mMP{ci{mN {GF{Re{Cdo{Rr{Ga {Dof {cV{Ma{CL{Mo{cR {x
+Tue Dec 28 03:24:02 2004 :: Log Venus: snoop hock
+Tue Dec 28 03:24:09 2004 :: Hocklar has quit.
+Tue Dec 28 03:24:17 2004 :: Log Venus: snoop self
+Tue Dec 28 11:48:06 2004 :: Sock.sinaddr:  67.170.53.94
+Tue Dec 28 11:48:07 2004 :: Loading Venus.
+Tue Dec 28 11:48:09 2004 :: Closing link to Venus.
+Tue Dec 28 11:48:09 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Dec 28 12:20:06 2004 :: Sock.sinaddr:  65.206.46.218
+Tue Dec 28 12:20:11 2004 :: Loading Rinaldus.
+Tue Dec 28 12:20:12 2004 :: Closing link to Rinaldus.
+Tue Dec 28 12:20:16 2004 :: Sock.sinaddr:  65.206.46.218
+Tue Dec 28 12:20:18 2004 :: Loading Rinaldus.
+Tue Dec 28 12:20:18 2004 :: Rinaldus@65.206.46.218 has connected.
+Tue Dec 28 12:20:24 2004 :: Rinaldus has quit.
+Tue Dec 28 12:30:27 2004 :: Sock.sinaddr:  67.170.53.94
+Tue Dec 28 12:30:29 2004 :: Loading Venus.
+Tue Dec 28 12:30:31 2004 :: Closing link to Venus.
+Tue Dec 28 12:30:31 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Dec 28 12:48:04 2004 :: Sock.sinaddr:  67.141.86.144
+Tue Dec 28 12:48:05 2004 :: Loading Argon.
+Tue Dec 28 12:48:05 2004 :: Argon@67.141.86.144 reconnected.
+Tue Dec 28 12:48:44 2004 :: Log Argon: mset argon class mage
+Tue Dec 28 13:05:01 2004 :: EOF encountered on read.
+Tue Dec 28 13:05:01 2004 :: Closing link to Argon.
+Tue Dec 28 14:28:27 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 14:28:38 2004 :: Loading Brynn.
+Tue Dec 28 14:28:39 2004 :: Brynn@d66-222-216-154.abhsia.telus.net has connected.
+Read_from_descriptor: Connection timed out
+Tue Dec 28 14:46:39 2004 :: Closing link to Venus.
+Tue Dec 28 14:52:08 2004 :: Sock.sinaddr:  69.240.65.225
+Tue Dec 28 14:52:14 2004 :: Loading Hocklar.
+Tue Dec 28 14:52:16 2004 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Dec 28 14:54:08 2004 :: the beastly fido got toasted by Hocklar at {MThe {WTemple {MSquare{x  [room 3005]
+Tue Dec 28 14:54:08 2004 :: the beastly fido got toasted by Hocklar at {MThe {WTemple {MSquare{x  [room 3005]
+Tue Dec 28 14:54:42 2004 :: Log Hocklar: cast summon spider monkey pet
+Tue Dec 28 14:54:45 2004 :: a Spider Monkey got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 14:56:13 2004 :: A statue of the Fallen Red Dragon got toasted by Hocklar at {MThe {WTemple {Mof Immortals{x [room 3001]
+Tue Dec 28 14:58:12 2004 :: a statue of Yavi got toasted by Hocklar at {MMuseum of the Gods{x [room 3036]
+Tue Dec 28 14:58:30 2004 :: a statue of Venus got toasted by Hocklar at {MMuseum of the Gods{x [room 3036]
+Tue Dec 28 15:05:25 2004 :: Sock.sinaddr:  71.0.74.251
+Tue Dec 28 15:05:27 2004 :: Loading Ender.
+Tue Dec 28 15:05:29 2004 :: Ender@fl-71-0-74-251.dyn.sprint-hsd.net has connected.
+Tue Dec 28 15:05:49 2004 :: Ender has quit.
+Tue Dec 28 15:07:13 2004 :: a dancing sword got toasted by Hocklar at {MThe master Enchanter's chamber{x [room 1382]
+Tue Dec 28 15:08:34 2004 :: a Dragon Priest got toasted by Hocklar at {MThe {WTemple {Mof Immortals{x [room 3001]
+Tue Dec 28 15:08:58 2004 :: the dragon hatchling got toasted by Hocklar at {MThe Tower Gates{x [room 2201]
+Tue Dec 28 15:09:18 2004 :: A bodyguard got toasted by Hocklar at {MThe Court{x [room 2211]
+Tue Dec 28 15:09:18 2004 :: A bodyguard got toasted by Hocklar at {MThe Court{x [room 2211]
+Tue Dec 28 15:09:18 2004 :: A bodyguard got toasted by Hocklar at {MThe Court{x [room 2211]
+Tue Dec 28 15:09:18 2004 :: A bodyguard got toasted by Hocklar at {MThe Court{x [room 2211]
+Tue Dec 28 15:09:18 2004 :: A bodyguard got toasted by Hocklar at {MThe Court{x [room 2211]
+Tue Dec 28 15:09:27 2004 :: the draconian fool got toasted by Hocklar at {MThe Library{x [room 2214]
+Tue Dec 28 15:09:27 2004 :: the draconian fool got toasted by Hocklar at {MThe Library{x [room 2214]
+Tue Dec 28 15:09:27 2004 :: the holy Draconian got toasted by Hocklar at {MThe Library{x [room 2214]
+Tue Dec 28 15:09:27 2004 :: a powerful mage got toasted by Hocklar at {MThe Library{x [room 2214]
+Tue Dec 28 15:10:42 2004 :: the phase dragon got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: the draconian fool got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: A bodyguard got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: A bodyguard got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: A bodyguard got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: A bodyguard got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: A bodyguard got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:10:42 2004 :: the Draconian King got toasted by Hocklar at {MThe Court Ends{x [room 2216]
+Tue Dec 28 15:22:53 2004 :: A human slave got toasted by Hocklar at {Mbedroom{x [room 2217]
+Tue Dec 28 15:22:53 2004 :: the phase dragon got toasted by Hocklar at {Mbedroom{x [room 2217]
+Tue Dec 28 15:22:53 2004 :: A human slave got toasted by Hocklar at {Mbedroom{x [room 2217]
+Tue Dec 28 15:22:53 2004 :: A human slave got toasted by Hocklar at {Mbedroom{x [room 2217]
+Tue Dec 28 15:22:53 2004 :: the Draconian Queen got toasted by Hocklar at {Mbedroom{x [room 2217]
+Tue Dec 28 15:23:13 2004 :: the draconian fool got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: A bodyguard got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: A bodyguard got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: A bodyguard got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: A bodyguard got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: the Draconian got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: A bodyguard got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:13 2004 :: the Draconian got toasted by Hocklar at {MThe Second Floor{x [room 2210]
+Tue Dec 28 15:23:26 2004 :: the dragon hatchling got toasted by Hocklar at {MNursery{x [room 2205]
+Tue Dec 28 15:23:26 2004 :: the dragon hatchling got toasted by Hocklar at {MNursery{x [room 2205]
+Tue Dec 28 15:23:26 2004 :: the dragon hatchling got toasted by Hocklar at {MNursery{x [room 2205]
+Tue Dec 28 15:23:26 2004 :: the dragon hatchling got toasted by Hocklar at {MNursery{x [room 2205]
+Tue Dec 28 15:36:46 2004 :: Log Hocklar: cast summon druidess
+Tue Dec 28 15:36:49 2004 :: a druidess got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 15:39:18 2004 :: the cityguard got toasted by Hocklar at {MWest {WMain {MStreet{x [room 3013]
+Tue Dec 28 15:39:18 2004 :: the beastly fido got toasted by Hocklar at {MWest {WMain {MStreet{x [room 3013]
+Tue Dec 28 15:39:26 2004 :: the beastly fido got toasted by Hocklar at {MInside {Wthe West Gate of {MMidgaard{x [room 3040]
+Tue Dec 28 15:39:26 2004 :: the cityguard got toasted by Hocklar at {MInside {Wthe West Gate of {MMidgaard{x [room 3040]
+Tue Dec 28 15:39:26 2004 :: the cityguard got toasted by Hocklar at {MInside {Wthe West Gate of {MMidgaard{x [room 3040]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: {Dthe spirit of {WA harem girl{D got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:38 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 15:39:47 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 15:39:47 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 15:39:47 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 15:39:47 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 15:39:47 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 15:40:01 2004 :: a dragon soldier got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:01 2004 :: A Dragon of Virtue got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:04 2004 :: An Elite guard got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:06 2004 :: a dragon soldier got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:06 2004 :: a dragon soldier got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:07 2004 :: The captain got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:11 2004 :: A Dragon of Virtue got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:16 2004 :: Drakknar got toasted by Hocklar at {MDrakknor's Home{x [room 23225]
+Tue Dec 28 15:40:20 2004 :: A dragon noble got toasted by Hocklar at {MThe Court{x [room 23222]
+Tue Dec 28 15:40:20 2004 :: a citizen got toasted by Hocklar at {MThe Court{x [room 23222]
+Tue Dec 28 15:40:20 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23222]
+Tue Dec 28 15:40:20 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23222]
+Tue Dec 28 15:41:07 2004 :: a citizen got toasted by Hocklar at {MThe Court{x [room 23223]
+Tue Dec 28 15:41:07 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23223]
+Tue Dec 28 15:41:07 2004 :: a dragon citizen got toasted by Hocklar at {MThe Court{x [room 23223]
+Tue Dec 28 15:41:17 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23221]
+Tue Dec 28 15:41:17 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23221]
+Tue Dec 28 15:41:17 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23221]
+Tue Dec 28 15:41:28 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23218]
+Tue Dec 28 15:41:28 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23218]
+Tue Dec 28 15:41:29 2004 :: a dragon lieutenant got toasted by Hocklar at {MThe Court{x [room 23218]
+Tue Dec 28 15:41:32 2004 :: a dragon lieutenant got toasted by Hocklar at {MThe Court{x [room 23218]
+Tue Dec 28 15:41:36 2004 :: a dragon soldier got toasted by Hocklar at {MThe Court{x [room 23215]
+Tue Dec 28 15:41:36 2004 :: A citizen got toasted by Hocklar at {MThe Court{x [room 23215]
+Tue Dec 28 15:43:11 2004 :: a citizen got toasted by a citizen at {MThe Court{x [room 23220]
+Tue Dec 28 15:43:14 2004 :: an Outpost Guard got toasted by Hocklar at {MShikoku-San  Patrol Outpost{x [room 7525]
+Tue Dec 28 15:43:17 2004 :: an Outpost Guard got toasted by Hocklar at {MShikoku-San  Patrol Outpost{x [room 7525]
+Tue Dec 28 15:43:44 2004 :: a peasant got toasted by Hocklar at {MHouse of Natsuko{x [room 7535]
+Tue Dec 28 15:43:51 2004 :: Natsuko got toasted by Hocklar at {MHouse of Natsuko{x [room 7535]
+Tue Dec 28 15:52:26 2004 :: A Draconian Warrior got toasted by Hocklar at {MEntrance to Darklords Caslte{x [room 24152]
+Tue Dec 28 15:52:26 2004 :: A Draconian Warrior got toasted by Hocklar at {MEntrance to Darklords Caslte{x [room 24152]
+Tue Dec 28 15:52:26 2004 :: A Draconian Warrior got toasted by Hocklar at {MEntrance to Darklords Caslte{x [room 24152]
+Tue Dec 28 15:52:26 2004 :: A Draconian Warrior got toasted by Hocklar at {MEntrance to Darklords Caslte{x [room 24152]
+Tue Dec 28 15:52:33 2004 :: Sock.sinaddr:  67.170.53.94
+Tue Dec 28 15:52:34 2004 :: Loading Venus.
+Tue Dec 28 15:52:34 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Dec 28 15:54:14 2004 :: the newbie monster got toasted by Hocklar at {MThe Entrance To The Newbie Zone{x [room 18600]
+Tue Dec 28 15:54:22 2004 :: the creepy crawler got toasted by Hocklar at {MThe Dirty Hallway{x [room 18602]
+Tue Dec 28 15:54:22 2004 :: the baby dragon got toasted by Hocklar at {MThe Dirty Hallway{x [room 18602]
+Tue Dec 28 16:00:50 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Tue Dec 28 16:05:00 2004 :: a statue of Venus got toasted by Hocklar at {MMuseum of the Gods{x [room 3036]
+Tue Dec 28 16:05:25 2004 :: a statue of Yavi got toasted by Hocklar at {MMuseum of the Gods{x [room 3036]
+Tue Dec 28 16:05:43 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Tue Dec 28 16:07:44 2004 :: Lag got toasted by Hocklar at {MThe Lag Monster's Lair{x [room 23244]
+Tue Dec 28 16:11:21 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:11:31 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:11:41 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:12:01 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:12:22 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:12:32 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Tue Dec 28 16:12:54 2004 :: the cityguard got toasted by Hocklar at {MGrebe's Tavern{x [room 3352]
+Tue Dec 28 16:13:03 2004 :: A man covered in white robes got toasted by Hocklar at {MGrebe's Tavern{x [room 3352]
+Tue Dec 28 16:13:53 2004 :: the drunk got toasted by Hocklar at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 16:13:53 2004 :: the drunk got toasted by Hocklar at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 16:13:53 2004 :: the drunk got toasted by Hocklar at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 16:14:01 2004 :: A man covered in red robes got toasted by Hocklar at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 16:16:24 2004 :: a Dragon Priest got toasted by Hocklar at {MThe {WTemple {Mof Immortals{x [room 3001]
+Tue Dec 28 16:17:14 2004 :: A statue of the Fallen Red Dragon got toasted by Hocklar at {MThe {WTemple {Mof Immortals{x [room 3001]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: {Dthe spirit of {WA harem girl{D got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a harem girl got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:40 2004 :: a eunuch got toasted by Hocklar at {MHarem{x [room 9687]
+Tue Dec 28 16:17:53 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 16:17:53 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 16:17:53 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 16:17:53 2004 :: a concubine got toasted by Hocklar at {MHall O' Pleasure{x [room 2212]
+Tue Dec 28 16:19:05 2004 :: the guardian lynx got toasted by Hocklar at {MDead End{x [room 11705]
+Tue Dec 28 16:19:10 2004 :: the guardian lynx got toasted by Hocklar at {MDead End{x [room 11705]
+Tue Dec 28 16:19:41 2004 :: Log Hocklar: cast summon sand man sandman
+Tue Dec 28 16:20:29 2004 :: the Zdreni avenger got toasted by Hocklar at {MCrimson Chamber{x [room 11740]
+Tue Dec 28 16:21:07 2004 :: the Zdreni avenger got toasted by Hocklar at {MCrimson Chamber{x [room 11740]
+Tue Dec 28 16:21:21 2004 :: the Zdreni avenger got toasted by Hocklar at {MCrimson Chamber{x [room 11740]
+Tue Dec 28 16:21:40 2004 :: Log Hocklar: cast summon sand man sandman
+Tue Dec 28 16:21:54 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Tue Dec 28 16:27:06 2004 :: a black bear got toasted by {cA {YGolden {cDragon{x at {yA path in the {rRed {GForest{x [room 6704]
+Tue Dec 28 16:28:00 2004 :: [*****] BUG: Mobprog: endif without if, mob 99 prog 99
+Tue Dec 28 16:30:33 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Tue Dec 28 16:34:28 2004 :: Hocklar killed by {cA {YGolden {cDragon{x at 6704
+Tue Dec 28 16:34:28 2004 :: Hocklar got toasted by {cA {YGolden {cDragon{x at {yA path in the {rRed {GForest{x [room 6704]
+Tue Dec 28 16:34:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Tue Dec 28 16:42:51 2004 :: a black bear got toasted by {cA {YGolden {cDragon{x at {yA path in the {rRed {GForest{x [room 6704]
+Tue Dec 28 16:44:08 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Tue Dec 28 16:51:04 2004 :: {cA {YGolden {cDragon{x got toasted by Hocklar at {yA path in the {rRed {GForest{x [room 6704]
+Tue Dec 28 16:51:50 2004 :: a black bear got toasted by {cA big snake{x at {yA path in the {rRed {GForest{x [room 6706]
+Tue Dec 28 16:52:05 2004 :: {ca Dragon hatchling{x got toasted by Hocklar at {yA path in the {rRed {GForest{x [room 6706]
+Tue Dec 28 16:52:13 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Tue Dec 28 16:53:00 2004 :: Sock.sinaddr:  67.141.86.144
+Tue Dec 28 16:53:01 2004 :: Loading Argon.
+Tue Dec 28 16:53:02 2004 :: Argon@67.141.86.144 reconnected.
+Tue Dec 28 16:55:31 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 16:55:34 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 16:55:35 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 16:55:36 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 16:55:36 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 16:55:40 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Tue Dec 28 16:55:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Tue Dec 28 16:55:50 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Tue Dec 28 17:00:29 2004 :: Hocklar killed by {cA {WWhite {cDragon{x at 6715
+Tue Dec 28 17:00:29 2004 :: Hocklar got toasted by {cA {WWhite {cDragon{x at {yA path in the {rRed {GForest{x [room 6715]
+Tue Dec 28 17:00:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Tue Dec 28 17:10:15 2004 :: Brynn has quit.
+Tue Dec 28 17:10:19 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 17:10:24 2004 :: Loading Chame.
+Tue Dec 28 17:10:25 2004 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 17:10:34 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 17:10:38 2004 :: Loading Skeet.
+Tue Dec 28 17:10:39 2004 :: Skeet@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 17:18:21 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 17:20:57 2004 :: A Hyeanadon got toasted by Chame at {MDark, Damp Cave{x [room 4865]
+Tue Dec 28 17:46:47 2004 :: Fatima got toasted by Chame at {MYe Old Leather Shoppe{x [room 9637]
+Tue Dec 28 17:46:54 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 17:47:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 17:49:42 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 17:49:46 2004 :: Loading Enzio.
+Tue Dec 28 17:49:46 2004 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Dec 28 17:50:17 2004 :: Log Enzio: cast summon dark black owl
+Tue Dec 28 17:52:05 2004 :: the dark owl got toasted by Enzio at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 17:52:15 2004 :: Sock.sinaddr:  65.206.46.218
+Tue Dec 28 17:52:17 2004 :: Loading Rinaldus.
+Tue Dec 28 17:52:17 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 17:52:18 2004 :: Rinaldus@65.206.46.218 has connected.
+Tue Dec 28 17:53:02 2004 :: Log Argon: bonus enzio 25
+Tue Dec 28 17:53:30 2004 :: Rinaldus has quit.
+Tue Dec 28 17:54:56 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Tue Dec 28 17:55:40 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Tue Dec 28 17:56:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 17:56:55 2004 :: a bit of faith got toasted by Chame at {MMisty Lake{x [room 11626]
+Tue Dec 28 17:57:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:00:02 2004 :: Skeet has quit.
+Tue Dec 28 18:00:04 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 18:00:24 2004 :: Loading Skeet.
+Tue Dec 28 18:00:24 2004 :: Skeet@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 18:03:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:04:59 2004 :: a drakyri mage protector got toasted by Enzio at {MShimmering pathway{x [room 11813]
+Tue Dec 28 18:07:41 2004 :: jury member got toasted by Chame at {MCourt Room{x [room 10511]
+Tue Dec 28 18:07:46 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:07:49 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:08:21 2004 :: a drakyri healer got toasted by Enzio at {MChamber of the Guardian{x [room 11815]
+Tue Dec 28 18:10:15 2004 :: Hocklar has quit.
+Tue Dec 28 18:11:03 2004 :: a drakyri knight protector got toasted by Enzio at {MNarrow path{x [room 11810]
+Tue Dec 28 18:13:01 2004 :: {Dthe spirit of {WA drakyri knight protector{D got toasted by Enzio at {MNarrow path{x [room 11810]
+Tue Dec 28 18:16:09 2004 :: a drakyri healer got toasted by Enzio at {MBefore the Black Gates{x [room 11853]
+Tue Dec 28 18:18:31 2004 :: the Shell got toasted by Chame at {MA Vortex{x [room 8113]
+Tue Dec 28 18:18:43 2004 :: King Neptune got toasted by Chame at {MNeptunes Throne{x [room 8120]
+Tue Dec 28 18:19:30 2004 :: the hellish guardian got toasted by Enzio at {MBlack Marble Entryway{x [room 11854]
+Tue Dec 28 18:21:46 2004 :: {Dthe spirit of {WThe hellish guardian{D got toasted by Enzio at {MBlack Marble Entryway{x [room 11854]
+Tue Dec 28 18:28:33 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:28:47 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:28:48 2004 :: a howling beast got toasted by Enzio at {MDark niche{x [room 11857]
+Tue Dec 28 18:31:35 2004 :: Roc got toasted by Chame at {MInside the Birdfeeder{x [room 11621]
+Tue Dec 28 18:31:56 2004 :: A Seeker got toasted by Skeet at {MMarketplace of Marienburg{x [room 8439]
+Tue Dec 28 18:33:21 2004 :: a howling beast got toasted by Enzio at {MDark niche{x [room 11857]
+Tue Dec 28 18:34:28 2004 :: EOF encountered on read.
+Tue Dec 28 18:34:28 2004 :: Closing link to Argon.
+Tue Dec 28 18:43:31 2004 :: A man covered in red robes got toasted by Enzio at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 18:43:49 2004 :: A man covered in white robes got toasted by Enzio at {MGrebe's Tavern{x [room 3352]
+Tue Dec 28 18:45:05 2004 :: a peasant got toasted by Enzio at {MDragon Street{x [room 7537]
+Tue Dec 28 18:45:59 2004 :: a peasant got toasted by Enzio at {MThe Intersection of Dragon and Falcon Streets{x [room 7540]
+Tue Dec 28 18:47:05 2004 :: a peasant got toasted by Enzio at {MDragon Street North{x [room 7562]
+Tue Dec 28 18:48:18 2004 :: a peasant got toasted by Enzio at {MDragon Street North{x [room 7565]
+Tue Dec 28 18:51:17 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 18:51:27 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7566]
+Tue Dec 28 18:52:12 2004 :: A palace guard got toasted by Chame at {MBefore the Palace{x [room 23231]
+Read_from_descriptor: Connection timed out
+Tue Dec 28 18:52:18 2004 :: Closing link to Venus.
+Tue Dec 28 18:53:40 2004 :: a peasant got toasted by Enzio at {MA Peasant Hovel{x [room 7567]
+Tue Dec 28 18:55:34 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7547]
+Tue Dec 28 18:56:34 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7546]
+Tue Dec 28 18:57:38 2004 :: a peasant got toasted by Enzio at {MFalcon Street Dead End{x [room 7548]
+Tue Dec 28 18:57:58 2004 :: A man covered in red robes got toasted by Enzio at {MEntrance to the Grunting Boar Inn{x [room 3006]
+Tue Dec 28 18:58:28 2004 :: A man covered in white robes got toasted by Enzio at {MGrebe's Tavern{x [room 3352]
+Tue Dec 28 18:58:43 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:02:25 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:04:55 2004 :: a peasant got toasted by Enzio at {MA Peasant Hovel{x [room 7567]
+Tue Dec 28 19:05:52 2004 :: a peasant got toasted by Enzio at {MDragon Street{x [room 7537]
+Tue Dec 28 19:05:55 2004 :: Sock.sinaddr:  69.240.65.225
+Tue Dec 28 19:06:03 2004 :: Loading Stumpy.
+Tue Dec 28 19:06:06 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Tue Dec 28 19:06:54 2004 :: Skeet has quit.
+Tue Dec 28 19:06:54 2004 :: Chame has quit.
+Tue Dec 28 19:07:05 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 19:07:07 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 19:10:48 2004 :: Sock.sinaddr:  67.170.53.94
+Tue Dec 28 19:10:51 2004 :: Loading Venus.
+Tue Dec 28 19:10:52 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Dec 28 19:11:45 2004 :: a peasant got toasted by Enzio at {MDragon Street{x [room 7537]
+Tue Dec 28 19:12:49 2004 :: a peasant got toasted by Enzio at {MFalcon Street East{x [room 7541]
+Tue Dec 28 19:14:52 2004 :: a peasant got toasted by Enzio at {MFalcon Street East{x [room 7545]
+Tue Dec 28 19:17:52 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7547]
+Tue Dec 28 19:19:13 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7546]
+Tue Dec 28 19:20:16 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7554]
+Tue Dec 28 19:21:23 2004 :: Sock.sinaddr:  67.141.86.144
+Tue Dec 28 19:21:23 2004 :: Loading Argon.
+Tue Dec 28 19:21:24 2004 :: Argon@67.141.86.144 reconnected.
+Tue Dec 28 19:21:38 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7555]
+Tue Dec 28 19:21:51 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:21:52 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:21:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:22:44 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7558]
+Tue Dec 28 19:29:53 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Tue Dec 28 19:30:12 2004 :: Taisa Yoshimune got toasted by Enzio at {MTaisa(Colenel) Yoshimune's Quarters{x [room 7543]
+Tue Dec 28 19:30:49 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:35:34 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:38:34 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 19:39:30 2004 :: Enzio has quit.
+Tue Dec 28 19:39:35 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 19:39:38 2004 :: EOF encountered on read.
+Tue Dec 28 19:39:38 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 19:39:41 2004 :: Loading Seclar.
+Tue Dec 28 19:39:41 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Dec 28 19:41:15 2004 :: Seclar has quit.
+Tue Dec 28 19:41:17 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 19:41:19 2004 :: Loading Enzio.
+Tue Dec 28 19:41:19 2004 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Dec 28 19:44:25 2004 :: Taisa Yoshimune got toasted by Enzio at {MTaisa(Colenel) Yoshimune's Quarters{x [room 7543]
+Tue Dec 28 19:51:11 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Tue Dec 28 19:57:17 2004 :: Taisa Yoshimune got toasted by Enzio at {MTaisa(Colenel) Yoshimune's Quarters{x [room 7543]
+Tue Dec 28 19:59:58 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3003
+Tue Dec 28 20:00:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3002
+Tue Dec 28 20:01:50 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3000
+Tue Dec 28 20:02:29 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 20:03:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3004
+Tue Dec 28 20:06:49 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Tue Dec 28 20:06:54 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3003
+Tue Dec 28 20:10:07 2004 :: a peasant got toasted by Enzio at {MDragon Street South{x [room 7531]
+Tue Dec 28 20:11:22 2004 :: a peasant got toasted by Enzio at {MDragon Street South{x [room 7528]
+Tue Dec 28 20:12:04 2004 :: {Dthe spirit of {WA peasant{D got toasted by Enzio at {MDragon Street South{x [room 7528]
+Tue Dec 28 20:14:55 2004 :: a monk got toasted by Enzio at {MThe Shinto Shrine{x [room 7532]
+Tue Dec 28 20:15:55 2004 :: a peasant got toasted by Enzio at {MDragon Street{x [room 7534]
+Tue Dec 28 20:17:04 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7547]
+Tue Dec 28 20:17:23 2004 :: Log Venus: bonus all 1
+Tue Dec 28 20:17:28 2004 :: Log Venus: bonus all -1
+Tue Dec 28 20:17:34 2004 :: Log Venus: bonus all -100
+Tue Dec 28 20:17:42 2004 :: Log Venus: bonus all -500
+Tue Dec 28 20:17:46 2004 :: a samurai got toasted by Enzio at {MPractice Field{x [room 7546]
+Tue Dec 28 20:18:04 2004 :: Log Venus: bonus all 500
+Tue Dec 28 20:18:07 2004 :: Log Venus: bonus all 286
+Tue Dec 28 20:18:14 2004 :: Log Venus: bonus all 100
+Tue Dec 28 20:18:31 2004 :: Log Venus: bonus all 1
+Tue Dec 28 20:23:22 2004 :: Log Enzio: cast summon drakyri xaek nyxil sh'aya
+Tue Dec 28 20:23:58 2004 :: Nyxil got toasted by Enzio at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 20:25:04 2004 :: Log Enzio: cast summon golem child
+Tue Dec 28 20:25:38 2004 :: a golem child got toasted by Enzio at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 20:25:45 2004 :: Log Enzio: cast summon golem child
+Tue Dec 28 20:26:23 2004 :: a golem child got toasted by Enzio at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 20:28:56 2004 :: Janalis got toasted by Enzio at {MDomed Room{x [room 11855]
+Tue Dec 28 20:30:12 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 20:34:39 2004 :: Enzio has quit.
+Tue Dec 28 20:34:41 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 20:34:45 2004 :: Loading Seclar.
+Tue Dec 28 20:34:45 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Dec 28 20:38:29 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 21:05:15 2004 :: Seclar has quit.
+Tue Dec 28 21:30:50 2004 :: Log Venus: string mob fido long Donkey Kong
+Tue Dec 28 21:30:56 2004 :: Log Venus: string mob fido short Donkey Kong
+Tue Dec 28 21:31:00 2004 :: Log Venus: snoop fido
+Tue Dec 28 21:31:10 2004 :: Log Venus: snoop stump
+Tue Dec 28 21:33:02 2004 :: Log Venus: snoop self
+Read_from_descriptor: Connection timed out
+Tue Dec 28 21:41:40 2004 :: Closing link to Argon.
+Tue Dec 28 21:49:21 2004 :: Loading Chame.
+Tue Dec 28 21:49:21 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Tue Dec 28 21:49:21 2004 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 21:49:49 2004 :: Loading Skeet.
+Tue Dec 28 21:49:49 2004 :: Skeet@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 21:55:40 2004 :: Sock.sinaddr:  67.141.86.144
+Tue Dec 28 21:55:55 2004 :: Loading Argon.
+Tue Dec 28 21:55:55 2004 :: Argon@67.141.86.144 reconnected.
+Tue Dec 28 21:56:40 2004 :: Sock.sinaddr:  66.93.33.134
+Tue Dec 28 21:57:40 2004 :: Loading Seclar.
+Tue Dec 28 21:57:40 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Tue Dec 28 22:01:43 2004 :: the golem thief got toasted by Seclar at {MEnd of West Street{x [room 20423]
+Tue Dec 28 22:04:18 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA Black Square{x [room 4224]
+Tue Dec 28 22:04:18 2004 :: {Dthe spirit of {WThe pawn of the black court{D got toasted by Seclar at {MA Black Square{x [room 4224]
+Tue Dec 28 22:05:39 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:05:52 2004 :: Sock.sinaddr:  67.130.184.210
+Tue Dec 28 22:05:52 2004 :: EOF encountered on read.
+Tue Dec 28 22:07:45 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA White Square{x [room 4223]
+Tue Dec 28 22:09:17 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA White Square{x [room 4219]
+Tue Dec 28 22:10:02 2004 :: the Black Knight got toasted by Seclar at {MA White Square{x [room 4210]
+Tue Dec 28 22:10:37 2004 :: the White Bishop got toasted by Seclar at {MA White Square{x [room 4212]
+Tue Dec 28 22:10:37 2004 :: {Dthe spirit of {WThe white bishop{D got toasted by Seclar at {MA White Square{x [room 4212]
+Tue Dec 28 22:10:47 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA Black Square{x [room 4213]
+Tue Dec 28 22:10:59 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA White Square{x [room 4214]
+Tue Dec 28 22:11:11 2004 :: the Black Bishop got toasted by Seclar at {MA Black Square{x [room 4215]
+Tue Dec 28 22:11:20 2004 :: the Black Knight got toasted by Seclar at {MA White Square{x [room 4207]
+Tue Dec 28 22:11:40 2004 :: the Black King got toasted by Seclar at {MA Black Square{x [room 4213]
+Tue Dec 28 22:11:50 2004 :: the Black Queen got toasted by Seclar at {MA Black Square{x [room 4204]
+Tue Dec 28 22:12:01 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA Black Square{x [room 4204]
+Tue Dec 28 22:12:45 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA White Square{x [room 4203]
+Tue Dec 28 22:13:03 2004 :: the White Knight got toasted by Seclar at {MA White Square{x [room 4203]
+Tue Dec 28 22:13:35 2004 :: the Black Rook got toasted by Seclar at {MA Black Square{x [room 4202]
+Tue Dec 28 22:14:13 2004 :: the Pawn of the Black Court got toasted by Seclar at {MA Black Square{x [room 4225]
+Tue Dec 28 22:14:31 2004 :: the Black Bishop got toasted by Seclar at {MA White Square{x [room 4226]
+Tue Dec 28 22:15:17 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4237]
+Tue Dec 28 22:15:42 2004 :: the Ghost of Caliph Omar got toasted by Seclar at {MA White Square{x [room 4237]
+Tue Dec 28 22:15:55 2004 :: the Pawn of the White Court got toasted by Seclar at {MA White Square{x [room 4233]
+Tue Dec 28 22:16:13 2004 :: the White Rook got toasted by Seclar at {MA Black Square{x [room 4241]
+Tue Dec 28 22:16:13 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4241]
+Tue Dec 28 22:16:30 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4243]
+Tue Dec 28 22:16:41 2004 :: the White Bishop got toasted by Seclar at {MA White Square{x [room 4244]
+Tue Dec 28 22:16:46 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4245]
+Tue Dec 28 22:17:04 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4247]
+Tue Dec 28 22:17:16 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4256]
+Tue Dec 28 22:17:28 2004 :: the White Knight got toasted by Seclar at {MA Black Square{x [room 4254]
+Tue Dec 28 22:17:52 2004 :: the White Queen got toasted by Seclar at {MA Black Square{x [room 4261]
+Tue Dec 28 22:17:56 2004 :: the Pawn of the White Court got toasted by Seclar at {MA Black Square{x [room 4261]
+Tue Dec 28 22:18:09 2004 :: the White King got toasted by Seclar at {MA Black Square{x [room 4261]
+Tue Dec 28 22:19:06 2004 :: the White Rook got toasted by Seclar at {MA White Square{x [room 4264]
+Tue Dec 28 22:19:06 2004 :: {Dthe spirit of {WThe white rook{D got toasted by Seclar at {MA White Square{x [room 4264]
+Tue Dec 28 22:20:07 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:20:08 2004 :: the Black Rook got toasted by Seclar at {MA Black Square{x [room 4213]
+Tue Dec 28 22:22:59 2004 :: Log Seclar: cast summon djinn genie
+Tue Dec 28 22:24:07 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:27:11 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:32:02 2004 :: the wandering prophet got toasted by Seclar at {MThe Temple Gates{x [room 9613]
+Tue Dec 28 22:32:02 2004 :: A nomad merchant got toasted by Seclar at {MThe Temple Gates{x [room 9613]
+Tue Dec 28 22:33:37 2004 :: the wandering prophet got toasted by Seclar at {MNectar of the Gods{x [room 9619]
+Tue Dec 28 22:33:37 2004 :: A nomad merchant got toasted by Seclar at {MNectar of the Gods{x [room 9619]
+Tue Dec 28 22:35:21 2004 :: Sock.sinaddr:  67.170.53.94
+Tue Dec 28 22:35:25 2004 :: Loading Venus.
+Tue Dec 28 22:35:25 2004 :: [*****] BUG: Fread_obj: bad vnum 32.
+Tue Dec 28 22:35:27 2004 :: Closing link to Venus.
+Tue Dec 28 22:35:27 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Tue Dec 28 22:36:29 2004 :: The djinn got toasted by Chame at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 22:36:45 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:36:49 2004 :: Log Venus: snoop chame
+Tue Dec 28 22:36:58 2004 :: the Jailor got toasted by Chame at {BThe Night Garden of Midgaard{x [room 3360]
+Tue Dec 28 22:37:21 2004 :: Log Venus: snoop self
+Read_from_descriptor: Connection timed out
+Tue Dec 28 22:38:59 2004 :: Closing link to Argon.
+Tue Dec 28 22:40:20 2004 :: the mage got toasted by Seclar at {MA guest bedroom{x [room 1337]
+Tue Dec 28 22:41:39 2004 :: a pair of disembodied hands got toasted by Seclar at {MA hallway{x [room 1340]
+Tue Dec 28 22:42:25 2004 :: a pair of disembodied hands got toasted by Seclar at {MA hallway{x [room 1343]
+Tue Dec 28 22:43:01 2004 :: The ghoul got toasted by Seclar at {MThe Catacombs{x [room 3455]
+Tue Dec 28 22:43:01 2004 :: {Dthe spirit of {WThe ghoul{D got toasted by Seclar at {MThe Catacombs{x [room 3455]
+Tue Dec 28 22:43:32 2004 :: The ghoul got toasted by Seclar at {MEntrance to the Forbidden Catacombs{x [room 3450]
+Tue Dec 28 22:43:48 2004 :: The ghoul got toasted by Seclar at {MThe Catacombs{x [room 3452]
+Tue Dec 28 22:45:44 2004 :: Log Seclar: cast summon jay leno chin
+Tue Dec 28 22:46:05 2004 :: The guardian vampire got toasted by Seclar at {MDen of the Vampire{x [room 3460]
+Tue Dec 28 22:46:49 2004 :: Sock.sinaddr:  67.0.221.88
+Tue Dec 28 22:46:49 2004 :: EOF encountered on read.
+Tue Dec 28 22:46:50 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:47:11 2004 :: the quadrone got toasted by Chame at {MIn the Tower of Nirvana{x [room 9007]
+Tue Dec 28 22:47:37 2004 :: The hunting horror got toasted by Seclar at {MA Secret Passageway{x [room 3471]
+Tue Dec 28 22:47:52 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 22:47:58 2004 :: Skeet has quit.
+Tue Dec 28 22:48:04 2004 :: Sock.sinaddr:  66.222.216.154
+Tue Dec 28 22:48:08 2004 :: Loading Brynn.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 71.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 72.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 73.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 74.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 75.
+Tue Dec 28 22:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 76.
+Tue Dec 28 22:48:08 2004 :: Brynn@d66-222-216-154.abhsia.telus.net has connected.
+Tue Dec 28 22:52:27 2004 :: A Mummy got toasted by Seclar at {MDungeon{x [room 4860]
+Tue Dec 28 22:52:54 2004 :: Orcus got toasted by Seclar at {MOrcus' Study{x [room 4859]
+Tue Dec 28 22:53:35 2004 :: A Manes got toasted by Seclar at {MDungeon{x [room 4870]
+Tue Dec 28 22:54:07 2004 :: A Gray Ooze got toasted by Seclar at {MDungeon{x [room 4862]
+Tue Dec 28 22:57:09 2004 :: A Shadow got toasted by Seclar at {MDungeon{x [room 4873]
+Tue Dec 28 22:57:12 2004 :: {Dthe spirit of {WA shadow{D got toasted by Seclar at {MDungeon{x [room 4873]
+Tue Dec 28 22:57:15 2004 :: A Vampire got toasted by Seclar at {MDungeon{x [room 4873]
+Tue Dec 28 22:58:02 2004 :: A Mummy got toasted by Seclar at {MDungeon{x [room 4871]
+Tue Dec 28 22:59:06 2004 :: Log Seclar: cast summon jay leno chin
+Tue Dec 28 22:59:18 2004 :: A Shadow got toasted by Seclar at {MTropical Jungle{x [room 4879]
+Tue Dec 28 22:59:49 2004 :: An Axe Beak got toasted by Seclar at {MTropical Jungle{x [room 4882]
+Tue Dec 28 22:59:57 2004 :: A Kech got toasted by Seclar at {MTropical Jungle{x [room 4882]
+Tue Dec 28 23:00:41 2004 :: A Paleoscincus got toasted by Seclar at {MTropical Jungle{x [room 4884]
+Tue Dec 28 23:00:55 2004 :: A Manes got toasted by Seclar at {MTropical Jungle{x [room 4884]
+Tue Dec 28 23:01:16 2004 :: A Carnivorous Ape got toasted by Seclar at {MTropical Jungle{x [room 4886]
+Tue Dec 28 23:01:19 2004 :: A Bar-Lgura got toasted by Seclar at {MTropical Jungle{x [room 4886]
+Tue Dec 28 23:01:37 2004 :: A Tyrannosaurus Rex got toasted by Seclar at {MTropical Jungle{x [room 4887]
+Tue Dec 28 23:01:56 2004 :: A Bar-Lgura got toasted by Seclar at {MTropical Jungle{x [room 4888]
+Tue Dec 28 23:02:08 2004 :: A Kech got toasted by Seclar at {MTropical Jungle{x [room 4893]
+Tue Dec 28 23:03:08 2004 :: A Carnivorous Ape got toasted by Seclar at {MTropical Jungle{x [room 4891]
+Tue Dec 28 23:03:17 2004 :: An Axe Beak got toasted by Seclar at {MTropical Jungle{x [room 4890]
+Tue Dec 28 23:03:23 2004 :: A Baluchitherium got toasted by Seclar at {MTropical Jungle{x [room 4890]
+Tue Dec 28 23:03:42 2004 :: A Carnivorous Ape got toasted by Seclar at {MTropical Jungle{x [room 4889]
+Tue Dec 28 23:04:36 2004 :: A Gray Ooze got toasted by Seclar at {MDungeon{x [room 4875]
+Tue Dec 28 23:04:39 2004 :: A Zombie got toasted by Seclar at {MDungeon{x [room 4875]
+Tue Dec 28 23:04:52 2004 :: An undead creature got toasted by Seclar at {MDungeon{x [room 4876]
+Tue Dec 28 23:05:17 2004 :: A Black Pudding got toasted by Seclar at {MDungeon{x [room 4868]
+Tue Dec 28 23:06:49 2004 :: A Slime Creature got toasted by Seclar at {MDungeon{x [room 4867]
+Tue Dec 28 23:07:01 2004 :: An Ochre Jelly got toasted by Seclar at {MDungeon{x [room 4858]
+Tue Dec 28 23:08:50 2004 :: Jubilex got toasted by Seclar at {MJuiblex's Lair{x [room 4857]
+Tue Dec 28 23:09:01 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 23:09:04 2004 :: An Ochre Jelly got toasted by Seclar at {MDungeon{x [room 4856]
+Tue Dec 28 23:09:23 2004 :: A Black Pudding got toasted by Seclar at {MDungeon{x [room 4866]
+Tue Dec 28 23:09:37 2004 :: Log Seclar: cast summon david letterman
+Tue Dec 28 23:11:30 2004 :: A Hyeanadon got toasted by Seclar at {MDark, Damp Cave{x [room 4865]
+Tue Dec 28 23:12:11 2004 :: A Hyena got toasted by Seclar at {MDark, Damp Cave{x [room 4864]
+Tue Dec 28 23:12:14 2004 :: A Gnoll got toasted by Seclar at {MDark, Damp Cave{x [room 4864]
+Tue Dec 28 23:12:18 2004 :: A Gnoll got toasted by Seclar at {MDark, Damp Cave{x [room 4864]
+Tue Dec 28 23:14:20 2004 :: An undead creature got toasted by Seclar at {MWindy Plains{x [room 4853]
+Tue Dec 28 23:16:49 2004 :: a prisoner in Hell got toasted by Seclar at {MCell{x [room 10449]
+Tue Dec 28 23:17:06 2004 :: the golem thief got toasted by Chame at {MBeginning of West Street{x [room 20416]
+Tue Dec 28 23:18:04 2004 :: A Cleric of Verena got toasted by Seclar at {MChessboard{x [room 8477]
+Tue Dec 28 23:19:26 2004 :: an old centaur got toasted by Seclar at {MA Centaur's Hut{x [room 1712]
+Tue Dec 28 23:20:10 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 23:23:15 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Tue Dec 28 23:23:20 2004 :: Chame has quit.
+Tue Dec 28 23:24:06 2004 :: Brynn has quit.
+Tue Dec 28 23:35:35 2004 :: an orc warrior got toasted by Seclar at {MAn Evil Section of the Forest{x [room 8839]
+Tue Dec 28 23:41:33 2004 :: Dementia got toasted by Seclar at {CL{ce{Cx{cx{Ci{ce{w'{Cs {YHouse {Mof {RP{ra{Ri{rn{X [room 713]
+Tue Dec 28 23:44:24 2004 :: the barracks guard got toasted by Seclar at {MEntrance to barracks{x [room 6521]
+Tue Dec 28 23:47:39 2004 :: Peasant got toasted by Seclar at {MMarket Square{x [room 21269]
+Tue Dec 28 23:48:09 2004 :: Barber got toasted by Seclar at {MBarber{x [room 21275]
+Tue Dec 28 23:48:36 2004 :: Peasant got toasted by Seclar at {MMill Road{x [room 21226]
+Tue Dec 28 23:48:46 2004 :: Town Guard got toasted by Seclar at {MMill Road at West Gate{x [room 21225]
+Tue Dec 28 23:51:02 2004 :: Town Archer got toasted by Seclar at {MBase of West Stairtower{x [room 21224]
+Tue Dec 28 23:51:21 2004 :: a spell teacher got toasted by Seclar at {MThe spellmaster's lounge{x [room 1364]
+Tue Dec 28 23:51:42 2004 :: a spell teacher got toasted by Seclar at {MThe spellmaster's lounge{x [room 1364]
+Tue Dec 28 23:52:47 2004 :: the alley cat got toasted by Seclar at {MThe Northeastern Market Square{x [room 9516]
+Tue Dec 28 23:55:32 2004 :: Sock.sinaddr:  68.100.177.85
+Tue Dec 28 23:55:44 2004 :: Loading Dusk.
+Tue Dec 28 23:55:45 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Tue Dec 28 23:57:58 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:04 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:10 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:17 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:24 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:30 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:36 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:42 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:49 2004 :: A piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:58:55 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:59:01 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:59:07 2004 :: A piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Tue Dec 28 23:59:15 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23384]
+Wed Dec 29 00:00:26 2004 :: a prisoner got toasted by Seclar at {MTorture Chamber{x [room 10634]
+Wed Dec 29 00:00:32 2004 :: The Torturer got toasted by Seclar at {MTorture Chamber{x [room 10634]
+Wed Dec 29 00:00:38 2004 :: corpse of a Gypsy got toasted by Seclar at {MTorture Chamber{x [room 10634]
+Wed Dec 29 00:00:42 2004 :: a prisoner got toasted by Seclar at {MTorture Chamber{x [room 10634]
+Wed Dec 29 00:00:45 2004 :: a prisoner got toasted by Seclar at {MTorture Chamber{x [room 10634]
+Wed Dec 29 00:01:16 2004 :: The Jailer got toasted by Seclar at {MStairs to the Dungeon{x [room 10633]
+Wed Dec 29 00:01:34 2004 :: a prisoner got toasted by Seclar at {MExecution Room{x [room 10635]
+Wed Dec 29 00:01:39 2004 :: The Executioner got toasted by Seclar at {MExecution Room{x [room 10635]
+Wed Dec 29 00:01:43 2004 :: a prisoner got toasted by Seclar at {MExecution Room{x [room 10635]
+Wed Dec 29 00:01:45 2004 :: corpse of a Gypsy got toasted by Seclar at {MExecution Room{x [room 10635]
+Wed Dec 29 00:01:49 2004 :: corpse of a Vigilante got toasted by Seclar at {MExecution Room{x [room 10635]
+Wed Dec 29 00:02:09 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:15 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:22 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:26 2004 :: a prisoner got toasted by Seclar at {MA Dungeon{x [room 10637]
+Wed Dec 29 00:02:28 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:30 2004 :: a prisoner got toasted by Seclar at {MA Dungeon{x [room 10637]
+Wed Dec 29 00:02:34 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:41 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:47 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:53 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:02:56 2004 :: corpse of a Vigilante got toasted by Seclar at {MA Dungeon{x [room 10638]
+Wed Dec 29 00:02:59 2004 :: {Dthe spirit of {WCorpse of a vigilante{D got toasted by Seclar at {MA Dungeon{x [room 10638]
+Wed Dec 29 00:03:00 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:03:06 2004 :: A piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:03:12 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:03:18 2004 :: a piercer got toasted by Dusk at {MThe Cavern{x [room 23385]
+Wed Dec 29 00:03:27 2004 :: ip68-100-177-85.dc.dc.cox.net input spamming!
+Wed Dec 29 00:03:35 2004 :: The Brain got toasted by Seclar at {MA Dungeon{x [room 10639]
+Wed Dec 29 00:03:59 2004 :: Pinky the Rat got toasted by Seclar at {MA Dungeon{x [room 10639]
+Wed Dec 29 00:05:25 2004 :: Ghost of Queen Allexandra got toasted by Seclar at {MThe Royal Quarters of Sting{x [room 10617]
+Wed Dec 29 00:06:43 2004 :: Tariq, Prince of the Kingdom of Darkness got toasted by Seclar at {MThe Royal Quarters of Prince Tariq{x [room 10618]
+Wed Dec 29 00:09:55 2004 :: The Guard of the Vault got toasted by Seclar at {MEntrance to the Vault{x [room 10622]
+Wed Dec 29 00:11:27 2004 :: Statue of Halba got toasted by Seclar at {MWalkway to the Throne Room{x [room 10614]
+Wed Dec 29 00:12:39 2004 :: Statue of Nathan got toasted by Seclar at {MIntersection in the Castle of Darkness{x [room 10607]
+Wed Dec 29 00:14:47 2004 :: Statue of Blueblood got toasted by Seclar at {MIntersection in the Castle of Darkness{x [room 10607]
+Wed Dec 29 00:17:26 2004 :: Statue of Dhukka got toasted by Seclar at {MIntersection in the Castle of Darkness{x [room 10607]
+Wed Dec 29 00:18:03 2004 :: Statue of Sting got toasted by Seclar at {MStatue Room{x [room 10608]
+Wed Dec 29 00:20:07 2004 :: Brutus 'The Barber' Beefcake got toasted by Seclar at {MBarber Shop{x [room 10646]
+Wed Dec 29 00:21:11 2004 :: Guard of Darkness got toasted by Seclar at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Wed Dec 29 00:25:26 2004 :: Dusk has quit.
+Wed Dec 29 00:33:25 2004 :: Dr. Kevorkian got toasted by Seclar at {MApothecary Shop{x [room 10644]
+Wed Dec 29 00:47:47 2004 :: Sock.sinaddr:  67.170.53.94
+Wed Dec 29 00:47:50 2004 :: Loading Venus.
+Wed Dec 29 00:47:50 2004 :: [*****] BUG: Fread_obj: bad vnum 32.
+Wed Dec 29 00:47:54 2004 :: Closing link to Venus.
+Wed Dec 29 00:47:54 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Dec 29 00:50:29 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seclar RVNUM: ] ref A009
+Wed Dec 29 00:50:29 2004 :: Seclar has quit.
+Wed Dec 29 00:50:39 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 01:01:08 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 01:01:16 2004 :: Loading Seclar.
+Wed Dec 29 01:01:19 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 01:03:40 2004 :: Log Venus: mset
+Wed Dec 29 01:04:09 2004 :: Log Venus: mset stumpy wname {GStumpLicious{x
+Wed Dec 29 01:04:24 2004 :: Log Venus: mset 
+Wed Dec 29 01:04:30 2004 :: Log Venus: mset venus wname Venus
+Wed Dec 29 01:05:07 2004 :: Log Venus: mset venus wname {CMeatWagon{x
+Wed Dec 29 01:05:41 2004 :: Log Venus: mset venus wname Hockaloogie
+Wed Dec 29 01:05:49 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Dec 29 01:06:01 2004 :: Log Venus: mset venus wname {CVenus{x
+Wed Dec 29 01:06:22 2004 :: Dr. Kevorkian got toasted by Seclar at {MApothecary Shop{x [room 10644]
+Wed Dec 29 01:08:52 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 01:21:01 2004 :: a citizen got toasted by Seclar at {MThe North Wall{x [room 23300]
+Wed Dec 29 01:21:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 01:29:25 2004 :: Nalfeshnee got toasted by Seclar at {MA Large Room{x [room 25055]
+Wed Dec 29 01:29:25 2004 :: Nalfeshnee got toasted by Seclar at {MA Large Room{x [room 25055]
+Wed Dec 29 01:29:26 2004 :: {Dthe spirit of {WNalfeshnee{D got toasted by Seclar at {MA Large Room{x [room 25055]
+Wed Dec 29 01:30:02 2004 :: Nalfeshnee got toasted by Seclar at {MThe Castle Pantry{x [room 25056]
+Wed Dec 29 01:30:02 2004 :: Nalfeshnee got toasted by Seclar at {MThe Castle Pantry{x [room 25056]
+Wed Dec 29 01:30:19 2004 :: Nalfeshnee got toasted by Seclar at {MThe Castle Store Room{x [room 25057]
+Wed Dec 29 01:30:38 2004 :: a Storm Giant got toasted by Seclar at {MCastle Barracks{x [room 25058]
+Wed Dec 29 01:31:27 2004 :: A Mist Daemon got toasted by Seclar at {MThe Mist{x [room 25089]
+Wed Dec 29 01:31:55 2004 :: Keftab, the Ancient One got toasted by Seclar at {MHall of Ancients{x [room 25093]
+Wed Dec 29 01:33:03 2004 :: a Black Slayer got toasted by Seclar at {MThe Sanctuary{x [room 25082]
+Wed Dec 29 01:33:24 2004 :: a Storm Giant got toasted by Seclar at {MSanctuary Guard Post{x [room 25084]
+Wed Dec 29 01:34:06 2004 :: Kalas got toasted by Seclar at {MChamber of Kalas{x [room 25085]
+Wed Dec 29 01:42:19 2004 :: the clansman got toasted by Seclar at {MThe Shanty town{x [room 5641]
+Wed Dec 29 01:42:19 2004 :: the child got toasted by Seclar at {MThe Shanty town{x [room 5641]
+Wed Dec 29 01:42:19 2004 :: the child got toasted by Seclar at {MThe Shanty town{x [room 5641]
+Wed Dec 29 01:42:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 01:42:49 2004 :: Seclar has quit.
+Wed Dec 29 01:42:57 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 01:43:01 2004 :: Loading Enzio.
+Wed Dec 29 01:43:03 2004 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 01:45:14 2004 :: a Lost Soul got toasted by Enzio at {MA Steep Trail{x [room 25002]
+Wed Dec 29 01:45:43 2004 :: the Gatekeeper got toasted by Enzio at {MThe End of the Trail{x [room 25003]
+Wed Dec 29 01:46:49 2004 :: a Black Slayer got toasted by Enzio at {MGateway to the Abyss{x [room 25004]
+Wed Dec 29 01:49:10 2004 :: an Efreet got toasted by Enzio at {MThe Flaming Gates{x [room 25030]
+Wed Dec 29 01:50:54 2004 :: A hezrou got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:51:00 2004 :: A hezrou got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:51:07 2004 :: A glabrezu got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:51:13 2004 :: A hezrou got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:51:20 2004 :: A glabrezu got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:51:26 2004 :: A glabrezu got toasted by Enzio at {MInside a Small Stone Building{x [room 25034]
+Wed Dec 29 01:52:13 2004 :: a Storm Giant got toasted by Enzio at {MEnd of the Grand Hallway{x [room 25054]
+Wed Dec 29 01:52:20 2004 :: Nalfeshnee got toasted by Enzio at {MA Large Room{x [room 25055]
+Wed Dec 29 01:52:26 2004 :: Nalfeshnee got toasted by Enzio at {MThe Castle Pantry{x [room 25056]
+Wed Dec 29 01:52:38 2004 :: Nalfeshnee got toasted by Enzio at {MThe Castle Store Room{x [room 25057]
+Wed Dec 29 01:52:50 2004 :: a Storm Giant got toasted by Enzio at {MCastle Barracks{x [room 25058]
+Wed Dec 29 02:00:32 2004 :: Kalas got toasted by Enzio at {MChamber of Kalas{x [room 25085]
+Wed Dec 29 02:01:46 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 02:02:23 2004 :: Enzio has quit.
+Wed Dec 29 02:02:30 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 02:02:35 2004 :: Loading Seclar.
+Wed Dec 29 02:02:37 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 02:07:18 2004 :: Log Seclar: cast summon jacklyn captain guard cityguard
+Wed Dec 29 02:07:21 2004 :: Captain Jacklyn got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Wed Dec 29 02:16:57 2004 :: the Death knight got toasted by Seclar at {MCastle Throne Room{x [room 25050]
+Wed Dec 29 02:48:04 2004 :: an Efreet got toasted by Seclar at {MThe Flaming Gates{x [room 25030]
+Wed Dec 29 02:53:33 2004 :: the Neo-Otyugh got toasted by Seclar at {MA Large Room{x [room 25039]
+Wed Dec 29 03:03:05 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 03:21:11 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seclar RVNUM: ] ref A009
+Wed Dec 29 03:21:11 2004 :: Seclar has quit.
+Wed Dec 29 03:38:10 2004 :: Stumpy has quit.
+Wed Dec 29 06:20:15 2004 :: Sock.sinaddr:  24.80.17.49
+Wed Dec 29 06:20:23 2004 :: Loading Excelsior.
+Wed Dec 29 06:20:23 2004 :: [*****] BUG: Fread_obj: bad vnum 55.
+Wed Dec 29 06:20:25 2004 :: Excelsior@S01060050dad00d05.vc.shawcable.net has connected.
+Wed Dec 29 06:21:58 2004 :: Excelsior has quit.
+Read_from_descriptor: Connection timed out
+Wed Dec 29 06:38:26 2004 :: Closing link to Venus.
+Wed Dec 29 08:23:24 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 08:23:28 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 08:23:39 2004 :: Loading Slice.
+Wed Dec 29 08:24:00 2004 :: EOF encountered on read.
+Wed Dec 29 08:24:00 2004 :: Closing link to Slice.
+Wed Dec 29 08:24:30 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 08:24:39 2004 :: Loading Slice.
+Wed Dec 29 08:24:41 2004 :: Slice@mail.carpentercontractors.com has connected.
+Wed Dec 29 08:25:31 2004 :: a statue of {COphelia{x got toasted by Slice at {MThe {WCommon {MSquare{x [room 3025]
+Wed Dec 29 08:25:44 2004 :: the cityguard got toasted by Slice at {MGrebe's Tavern{x [room 3352]
+Wed Dec 29 08:25:47 2004 :: A man covered in white robes got toasted by Slice at {MGrebe's Tavern{x [room 3352]
+Wed Dec 29 08:30:22 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 08:30:23 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 08:30:23 2004 :: EOF encountered on read.
+Wed Dec 29 08:30:23 2004 :: Closing link to Slice.
+Wed Dec 29 08:30:27 2004 :: Loading Slice.
+Wed Dec 29 08:30:28 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 08:34:24 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 08:35:45 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 08:35:56 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:36:04 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:36:16 2004 :: Athena got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:36:28 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:36:35 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:36:43 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:37:06 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 08:39:20 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 08:39:35 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 08:39:43 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 08:39:53 2004 :: A citizen got toasted by Slice at {MWeapon Shop{x [room 936]
+Wed Dec 29 08:40:00 2004 :: A citizen got toasted by Slice at {MWeapon Shop{x [room 936]
+Wed Dec 29 08:40:08 2004 :: A citizen got toasted by Slice at {MWeapon Shop{x [room 936]
+Wed Dec 29 08:40:19 2004 :: A citizen got toasted by Slice at {MArmoury{x [room 935]
+Wed Dec 29 08:40:27 2004 :: A citizen got toasted by Slice at {MArmoury{x [room 935]
+Wed Dec 29 08:40:34 2004 :: A citizen got toasted by Slice at {MArmoury{x [room 935]
+Wed Dec 29 08:41:01 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:08 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:16 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:16 2004 :: {Dthe spirit of {WA pegasus{D got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:24 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:32 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:41:39 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:42:01 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:42:09 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:42:16 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:42:24 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:46:57 2004 :: a statue of {COphelia{x got toasted by Slice at {MThe {WCommon {MSquare{x [room 3025]
+Wed Dec 29 08:47:10 2004 :: A man covered in white robes got toasted by Slice at {MGrebe's Tavern{x [room 3352]
+Wed Dec 29 08:47:23 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 08:47:30 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 08:47:40 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 08:47:48 2004 :: a Statue of Argon got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 08:49:01 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Wed Dec 29 08:49:18 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 08:49:26 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 08:49:36 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 08:49:44 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 08:50:01 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:50:09 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:50:16 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:50:26 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:50:33 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:50:41 2004 :: Athena got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:50:52 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 08:51:04 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 08:51:14 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 08:51:22 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 08:51:34 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 08:51:41 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 08:51:52 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 08:51:59 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 08:52:22 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:52:30 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:52:37 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:52:45 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:52:52 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:53:00 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 08:53:18 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:53:46 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:53:54 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:54:02 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 08:54:15 2004 :: a statue of {COphelia{x got toasted by Slice at {MThe {WCommon {MSquare{x [room 3025]
+Wed Dec 29 08:54:28 2004 :: A man covered in white robes got toasted by Slice at {MGrebe's Tavern{x [room 3352]
+Wed Dec 29 08:54:40 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 08:54:40 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 08:54:54 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 08:55:01 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 08:55:09 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 08:55:44 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 08:57:16 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 08:57:24 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 08:57:34 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 08:57:41 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 08:58:23 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:58:30 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 08:58:39 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:58:46 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:58:59 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 08:59:10 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 08:59:22 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 08:59:41 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 08:59:49 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 08:59:59 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:00:06 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:00:17 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:00:24 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:00:48 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:00:56 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:01:03 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:01:11 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:01:18 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:01:26 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:01:49 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:01:57 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:02:04 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:02:12 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:03:12 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:03:52 2004 :: Hera got toasted by Slice at {MBedroom{x [room 945]
+Wed Dec 29 09:04:14 2004 :: a statue of {COphelia{x got toasted by Slice at {MThe {WCommon {MSquare{x [room 3025]
+Wed Dec 29 09:04:17 2004 :: Slice killed by {Dthe spirit of {WA statue of ophelia{D at 3025
+Wed Dec 29 09:04:17 2004 :: Slice got toasted by {Dthe spirit of {WA statue of ophelia{D at {MThe {WCommon {MSquare{x [room 3025]
+Wed Dec 29 09:06:01 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:07:10 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:07:16 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:07:16 2004 :: EOF encountered on read.
+Wed Dec 29 09:07:16 2004 :: EOF encountered on read.
+Wed Dec 29 09:07:16 2004 :: Closing link to Slice.
+Wed Dec 29 09:07:36 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:07:36 2004 :: EOF encountered on read.
+Wed Dec 29 09:07:41 2004 :: Loading Slice.
+Wed Dec 29 09:07:42 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 09:08:05 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 09:08:05 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 09:08:12 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:08:16 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:08:24 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:08:40 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:08:51 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:09:08 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:09:16 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:09:27 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:09:34 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:09:45 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:09:52 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:11:01 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:11:04 2004 :: Loading Slice.
+Wed Dec 29 09:11:07 2004 :: Closing link to Slice.
+Wed Dec 29 09:11:07 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 09:11:17 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:11:25 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:11:32 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:11:46 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 09:11:56 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 09:12:06 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:12:14 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:12:26 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:12:27 2004 :: EOF encountered on read.
+Wed Dec 29 09:12:27 2004 :: Closing link to Slice.
+Wed Dec 29 09:12:32 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:12:35 2004 :: Loading Slice.
+Wed Dec 29 09:12:35 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 09:12:47 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:12:58 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:13:05 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:13:26 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:13:34 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:13:41 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:13:44 2004 :: EOF encountered on read.
+Wed Dec 29 09:13:44 2004 :: Closing link to Slice.
+Wed Dec 29 09:13:49 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:13:51 2004 :: Loading Slice.
+Wed Dec 29 09:13:52 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 09:14:00 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:14:08 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:14:16 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:14:32 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:14:39 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:14:47 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:14:54 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:15:25 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:16:09 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:17:25 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 09:17:25 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 09:17:32 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:17:34 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:17:42 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:17:50 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:18:01 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:18:13 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:18:21 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:18:33 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:18:40 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:18:51 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:18:59 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:19:07 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:19:07 2004 :: {Dthe spirit of {WApollo{D got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:19:17 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:19:24 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:19:37 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 09:19:49 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 09:19:58 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:20:05 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:20:15 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:20:22 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:20:30 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:20:38 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:21:18 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:21:26 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:21:33 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:21:41 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:21:48 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:21:56 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:22:11 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:22:19 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:22:19 2004 :: {Dthe spirit of {WA cook{D got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:22:26 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:22:34 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:22:53 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:23:42 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 09:23:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 09:23:50 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:23:54 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:24:02 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:24:11 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:24:52 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:25:00 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:25:09 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:25:17 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:25:28 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:25:35 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:25:43 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:25:52 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:26:00 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:26:11 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 09:26:27 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 09:26:35 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:26:35 2004 :: {Dthe spirit of {WA citizen{D got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:26:43 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:26:53 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:27:00 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:27:11 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:27:18 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:27:39 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:27:46 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:27:54 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:28:01 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:28:09 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:28:16 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:28:32 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:28:32 2004 :: {Dthe spirit of {WA cook{D got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:28:39 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:28:47 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:28:54 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:29:15 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:30:41 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 09:30:41 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 09:30:52 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:31:00 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:31:08 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:32:27 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:32:35 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:32:45 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:32:52 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:33:04 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:33:11 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:33:21 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:33:28 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:33:36 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:33:47 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 09:33:58 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 09:34:12 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:34:20 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:34:29 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:34:29 2004 :: {Dthe spirit of {WA citizen{D got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:34:37 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:34:45 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:34:53 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:35:12 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:35:19 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:35:27 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:35:34 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:35:42 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:35:50 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:36:02 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:36:10 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:36:10 2004 :: {Dthe spirit of {WA cook{D got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:36:17 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:36:25 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:36:44 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:37:38 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:38:09 2004 :: A statue of the Fallen Red Dragon got toasted by Slice at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 09:38:09 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 09:38:16 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:38:18 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:38:26 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:38:34 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:38:45 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:39:45 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:39:52 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 905]
+Wed Dec 29 09:40:01 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:40:08 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 906]
+Wed Dec 29 09:40:18 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:40:26 2004 :: A serving boy got toasted by Slice at {MResidence{x [room 925]
+Wed Dec 29 09:40:36 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:40:44 2004 :: an apprentice musician got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:40:51 2004 :: Apollo got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:40:51 2004 :: {Dthe spirit of {WApollo{D got toasted by Slice at {MResidence{x [room 926]
+Wed Dec 29 09:41:01 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 907]
+Wed Dec 29 09:41:09 2004 :: A citizen got toasted by Slice at {MZeus Street{x [room 908]
+Wed Dec 29 09:41:17 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:41:25 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 928]
+Wed Dec 29 09:41:37 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:41:45 2004 :: A citizen got toasted by Slice at {MAres Street{x [room 934]
+Wed Dec 29 09:41:54 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:42:01 2004 :: A Golden Maiden got toasted by Slice at {MSmithy{x [room 937]
+Wed Dec 29 09:42:23 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:42:31 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:42:38 2004 :: a roc got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:42:48 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:42:55 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:43:03 2004 :: a pegasus got toasted by Slice at {MStable{x [room 933]
+Wed Dec 29 09:43:16 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:43:23 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:43:31 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:43:38 2004 :: a cook got toasted by Slice at {MKitchen{x [room 914]
+Wed Dec 29 09:44:16 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 09:44:21 2004 :: EOF encountered on read.
+Wed Dec 29 09:44:21 2004 :: Closing link to Slice.
+Wed Dec 29 09:44:28 2004 :: Loading Slice.
+Wed Dec 29 09:44:29 2004 :: Slice@mail.carpentercontractors.com reconnected.
+Wed Dec 29 09:44:46 2004 :: Poseidon got toasted by Slice at {MBedroom{x [room 946]
+Wed Dec 29 09:45:01 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 09:45:05 2004 :: a statue of Venus got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:45:13 2004 :: a statue of Yavi got toasted by Slice at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 09:45:21 2004 :: a statue of Sembiance got toasted by Slice at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 09:47:40 2004 :: mail.carpentercontractors.com input spamming!
+Wed Dec 29 09:48:36 2004 :: a golem warrior got toasted by Slice at {MMain Street{x [room 20411]
+Wed Dec 29 09:49:39 2004 :: the Elven Wizard got toasted by Slice at {MA grassy field{x [room 1128]
+Wed Dec 29 09:50:26 2004 :: Slice has quit.
+Wed Dec 29 10:32:08 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 10:32:16 2004 :: Loading Lacinated.
+Wed Dec 29 10:32:17 2004 :: Lacinated@mail.carpentercontractors.com has connected.
+Wed Dec 29 10:32:29 2004 :: Lacinated has quit.
+Wed Dec 29 10:48:21 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 10:48:27 2004 :: Loading Ender.
+Wed Dec 29 10:48:27 2004 :: Ender@mail.carpentercontractors.com has connected.
+Wed Dec 29 10:48:53 2004 :: Ender has quit.
+Wed Dec 29 11:14:39 2004 :: Sock.sinaddr:  65.206.46.218
+Wed Dec 29 11:14:46 2004 :: Loading Rinaldus.
+Wed Dec 29 11:14:47 2004 :: Rinaldus@65.206.46.218 has connected.
+Wed Dec 29 11:14:57 2004 :: Rinaldus has quit.
+Wed Dec 29 11:19:27 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 11:19:46 2004 :: Loading Seclar.
+Wed Dec 29 11:19:48 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 11:20:15 2004 :: Seclar has quit.
+Wed Dec 29 11:20:23 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 11:20:29 2004 :: Loading Enzio.
+Wed Dec 29 11:20:31 2004 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 11:20:44 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:28:14 2004 :: Dr. Kevorkian got toasted by Enzio at {MApothecary Shop{x [room 10644]
+Wed Dec 29 11:28:24 2004 :: dsl093-033-134.snd1.dsl.speakeasy.net input spamming!
+Wed Dec 29 11:29:26 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 11:29:28 2004 :: Loading Ender.
+Wed Dec 29 11:29:29 2004 :: Ender@mail.carpentercontractors.com has connected.
+Wed Dec 29 11:29:45 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:30:36 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:30:39 2004 :: Ender has quit.
+Wed Dec 29 11:30:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:42:45 2004 :: Sock.sinaddr:  151.213.93.160
+Wed Dec 29 11:42:46 2004 :: Loading Lena.
+Wed Dec 29 11:42:46 2004 :: Lena@h160.93.213.151.ip.alltel.net has connected.
+Read_from_descriptor: Connection reset by peer
+Wed Dec 29 11:42:47 2004 :: Closing link to Enzio.
+Wed Dec 29 11:43:09 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 11:43:16 2004 :: Loading Enzio.
+Wed Dec 29 11:43:19 2004 :: Enzio@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Wed Dec 29 11:43:29 2004 :: Lena has quit.
+Wed Dec 29 11:43:30 2004 :: Sock.sinaddr:  151.213.93.160
+Wed Dec 29 11:43:31 2004 :: Loading Maya.
+Wed Dec 29 11:43:32 2004 :: Maya@h160.93.213.151.ip.alltel.net has connected.
+Wed Dec 29 11:43:45 2004 :: Maya has quit.
+Wed Dec 29 11:43:47 2004 :: Sock.sinaddr:  151.213.93.160
+Wed Dec 29 11:43:49 2004 :: Loading Lydia.
+Wed Dec 29 11:43:51 2004 :: Lydia@h160.93.213.151.ip.alltel.net has connected.
+Wed Dec 29 11:45:03 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:45:10 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:46:29 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:46:36 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 11:46:46 2004 :: Enzio has quit.
+Wed Dec 29 12:37:08 2004 :: Loading Seclar.
+Wed Dec 29 12:37:08 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 12:44:27 2004 :: Dr. Kevorkian got toasted by Seclar at {MApothecary Shop{x [room 10644]
+Wed Dec 29 12:46:15 2004 :: Sock.sinaddr:  67.141.86.144
+Wed Dec 29 12:46:15 2004 :: Loading Argon.
+Wed Dec 29 12:46:16 2004 :: Argon@67.141.86.144 reconnected.
+Read_from_descriptor: Connection timed out
+Wed Dec 29 12:55:07 2004 :: Closing link to Lydia.
+Wed Dec 29 13:03:07 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Seclar RVNUM: ] ref A009
+Wed Dec 29 13:03:07 2004 :: Seclar has quit.
+Wed Dec 29 13:03:21 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 13:05:20 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 13:05:24 2004 :: Loading Slice.
+Wed Dec 29 13:05:26 2004 :: Slice@mail.carpentercontractors.com has connected.
+Wed Dec 29 13:06:37 2004 :: Argon has quit.
+Wed Dec 29 13:16:03 2004 :: a lost adventurer got toasted by Slice at {MA small clearing{x [room 1311]
+Wed Dec 29 13:17:01 2004 :: Ezmerelda got toasted by Slice at {Mthe kitchen{x [room 1320]
+Wed Dec 29 13:17:09 2004 :: The cook's assistant got toasted by Slice at {Mthe kitchen{x [room 1320]
+Wed Dec 29 13:17:09 2004 :: {Dthe spirit of {WThe cook's assistant{D got toasted by Slice at {Mthe kitchen{x [room 1320]
+Wed Dec 29 13:21:52 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 13:22:08 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 13:35:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 13:36:01 2004 :: Slice has quit.
+Wed Dec 29 13:47:11 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 13:47:16 2004 :: Loading Stumpy.
+Wed Dec 29 13:47:19 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 14:10:25 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 14:10:26 2004 :: Loading Fnor.
+Wed Dec 29 14:10:26 2004 :: Fnor@c-24-7-44-192.client.comcast.net has connected.
+Wed Dec 29 14:12:45 2004 :: EOF encountered on read.
+Wed Dec 29 14:12:45 2004 :: Closing link to Fnor.
+Wed Dec 29 14:29:44 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Fnor RVNUM: ] ref A009
+Wed Dec 29 14:29:44 2004 :: Fnor has quit.
+Wed Dec 29 15:02:18 2004 :: Sock.sinaddr:  67.170.53.94
+Wed Dec 29 15:02:18 2004 :: Loading Venus.
+Wed Dec 29 15:02:19 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Dec 29 15:12:05 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 15:12:09 2004 :: Loading Slice.
+Wed Dec 29 15:12:11 2004 :: Slice@mail.carpentercontractors.com has connected.
+Wed Dec 29 15:14:51 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3001
+Wed Dec 29 15:15:42 2004 :: Slice has quit.
+Wed Dec 29 15:36:41 2004 :: Sock.sinaddr:  67.170.53.94
+Wed Dec 29 15:36:42 2004 :: Loading Venus.
+Wed Dec 29 15:36:44 2004 :: Closing link to Venus.
+Wed Dec 29 15:36:44 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Dec 29 15:48:47 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Wed Dec 29 15:50:19 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Wed Dec 29 16:22:35 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 16:22:36 2004 :: Loading Fnor.
+Wed Dec 29 16:22:36 2004 :: Fnor@c-24-7-44-192.client.comcast.net has connected.
+Wed Dec 29 16:25:48 2004 :: Sock.sinaddr:  65.170.3.132
+Wed Dec 29 16:25:52 2004 :: Loading Slice.
+Wed Dec 29 16:25:53 2004 :: Slice@mail.carpentercontractors.com has connected.
+Wed Dec 29 16:26:02 2004 :: Slice has quit.
+Read_from_descriptor: Connection reset by peer
+Wed Dec 29 16:37:54 2004 :: Closing link to Fnor.
+Wed Dec 29 16:37:57 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 16:37:58 2004 :: Loading Fnor.
+Wed Dec 29 16:37:58 2004 :: Fnor@c-24-7-44-192.client.comcast.net reconnected.
+Wed Dec 29 16:38:34 2004 :: Loading Seclar.
+Wed Dec 29 16:38:34 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 16:43:56 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 16:45:06 2004 :: Draconian Villager got toasted by Fnor at {MEntrance of a Draconian Village{x [room 24101]
+Wed Dec 29 16:45:38 2004 :: Draconian Villager got toasted by Fnor at {MUnholy Shrine{x [room 24102]
+Wed Dec 29 16:46:07 2004 :: Draconian Villager got toasted by Fnor at {MUnholy Shrine{x [room 24102]
+Wed Dec 29 16:47:15 2004 :: Draconian Priest got toasted by Fnor at {MUnholy Shrine{x [room 24102]
+Wed Dec 29 16:47:37 2004 :: a draconian mage got toasted by Fnor at {MUnholy Shrine{x [room 24102]
+Wed Dec 29 16:48:06 2004 :: Draconian Villager got toasted by Fnor at {MIntersection in the Village{x [room 24104]
+Wed Dec 29 16:48:24 2004 :: Draconian Villager got toasted by Fnor at {MPath in the Village{x [room 24128]
+Wed Dec 29 16:48:48 2004 :: Draconian Villager got toasted by Fnor at {MPath in the Village{x [room 24128]
+Wed Dec 29 16:49:07 2004 :: Draconian Villager got toasted by Fnor at {MPath in the Village{x [room 24128]
+Wed Dec 29 16:49:50 2004 :: a draconian child got toasted by Fnor at {MPath in the Village{x [room 24128]
+Wed Dec 29 16:50:26 2004 :: Draconian Villager got toasted by Fnor at {MTown Square{x [room 24111]
+Wed Dec 29 16:50:44 2004 :: Draconian Villager got toasted by Fnor at {MTown Square{x [room 24111]
+Wed Dec 29 16:52:22 2004 :: Village Elder got toasted by Fnor at {MTown Square{x [room 24111]
+Wed Dec 29 16:52:47 2004 :: Draconian Villager got toasted by Fnor at {MPath in the Village{x [room 24129]
+Wed Dec 29 16:53:05 2004 :: {Dthe spirit of {WDraconian villager{D got toasted by Fnor at {MPath in the Village{x [room 24129]
+Wed Dec 29 16:53:27 2004 :: Draconian Villager got toasted by Fnor at {MPath in the Village{x [room 24129]
+Wed Dec 29 16:54:31 2004 :: Draconian Villager got toasted by Fnor at {MA Draconian Hut{x [room 24135]
+Wed Dec 29 16:54:57 2004 :: Draconian Villager got toasted by Fnor at {MA Draconian Hut{x [room 24135]
+Wed Dec 29 16:58:00 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 16:58:05 2004 :: the goblin got toasted by Fnor at {MThe Goblin Headquarters{x [room 3556]
+Wed Dec 29 16:58:19 2004 :: the goblin lieutenant got toasted by Fnor at {MA Tunnel in the Mountains{x [room 3553]
+Wed Dec 29 16:58:42 2004 :: The goblin got toasted by Fnor at {MThe Dark Forest{x [room 3520]
+Wed Dec 29 16:58:53 2004 :: the wyvern got toasted by Fnor at {MMuddy Ground{x [room 3516]
+Wed Dec 29 16:59:06 2004 :: the goblin leader got toasted by Fnor at {MNear the Mountains{x [room 3517]
+Wed Dec 29 16:59:14 2004 :: The goblin got toasted by Fnor at {MNear the Mountains{x [room 3517]
+Wed Dec 29 16:59:18 2004 :: the goblin got toasted by Fnor at {MNear the Mountains{x [room 3517]
+Wed Dec 29 17:02:10 2004 :: A wily little mongoose got toasted by Fnor at {MInto the Blinding Sandstorm{x [room 8764]
+Wed Dec 29 17:03:43 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3004
+Wed Dec 29 17:04:48 2004 :: the Royal Herald got toasted by Fnor at {MThe Entrance Hall{x [room 15207]
+Wed Dec 29 17:05:20 2004 :: Jeanette the Royal guard got toasted by Fnor at {MThe Great Hall{x [room 15212]
+Write_to_descriptor: Connection reset by peer
+Wed Dec 29 17:06:44 2004 :: Closing link to Fnor.
+Wed Dec 29 17:07:15 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 17:07:16 2004 :: Loading Fnor.
+Wed Dec 29 17:07:16 2004 :: Fnor@c-24-7-44-192.client.comcast.net reconnected.
+Wed Dec 29 17:08:28 2004 :: Sock.sinaddr:  67.141.86.144
+Wed Dec 29 17:08:29 2004 :: Loading Argon.
+Wed Dec 29 17:08:29 2004 :: Argon@67.141.86.144 has connected.
+Wed Dec 29 17:09:25 2004 :: Andrew the Royal guard got toasted by Fnor at {MThe Small Passage{x [room 15210]
+Wed Dec 29 17:09:33 2004 :: Log Argon: guild argon none
+Wed Dec 29 17:11:49 2004 :: the thief got toasted by Fnor at {MAlley at Levee{x [room 3045]
+Wed Dec 29 17:14:39 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3004
+Write_to_descriptor: Connection reset by peer
+Wed Dec 29 17:15:30 2004 :: Closing link to Fnor.
+Wed Dec 29 17:15:32 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 17:15:33 2004 :: Loading Fnor.
+Wed Dec 29 17:15:33 2004 :: Fnor@c-24-7-44-192.client.comcast.net reconnected.
+Wed Dec 29 17:16:42 2004 :: Log Argon: snoop sec
+Wed Dec 29 17:17:55 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3000
+Wed Dec 29 17:19:25 2004 :: Log Argon: snoop self
+Wed Dec 29 17:20:49 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 17:25:53 2004 :: the Fire Ruler got toasted by Seclar at {MThe Fire Chamber{x [room 9245]
+Wed Dec 29 17:32:33 2004 :: Log Seclar: cast summon goblin thief
+Wed Dec 29 17:32:36 2004 :: goblin thief got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Wed Dec 29 17:35:36 2004 :: the Warlock of Firetop Mountain got toasted by Seclar at {MThe Warlock's Chambers{x [room 5834]
+Wed Dec 29 17:35:44 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 17:37:52 2004 :: Magnus wizard got toasted by Seclar at {MPrivate Room{x [room 10300]
+Wed Dec 29 17:38:14 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 17:41:31 2004 :: Yevaud got toasted by Seclar at {MYevaud's Lair{x [room 6360]
+Wed Dec 29 17:43:18 2004 :: Log Seclar: cast summon killer assassin
+Write_to_descriptor: Connection reset by peer
+Wed Dec 29 17:46:25 2004 :: Closing link to Fnor.
+Wed Dec 29 17:46:28 2004 :: Sock.sinaddr:  24.7.44.192
+Wed Dec 29 17:46:29 2004 :: Loading Fnor.
+Wed Dec 29 17:46:29 2004 :: Fnor@c-24-7-44-192.client.comcast.net reconnected.
+Wed Dec 29 17:47:22 2004 :: the eye killer got toasted by Seclar at {MSunrise{x [room 16071]
+Wed Dec 29 17:51:53 2004 :: Log Stumpy: cast summon golem mage
+Wed Dec 29 17:52:00 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 17:52:04 2004 :: Log Seclar: cast summon killer assassin
+Wed Dec 29 17:52:08 2004 :: the killer got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Read_from_descriptor: Connection reset by peer
+Wed Dec 29 17:52:36 2004 :: Closing link to Venus.
+Wed Dec 29 17:53:11 2004 :: Seclar has quit.
+Wed Dec 29 17:53:17 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 17:54:06 2004 :: the golem mage got toasted by A Rephaim Cleric at {wT{Whe {wP{Wath of {wT{Whe {wR{Wephaim {d [room 23659]
+Wed Dec 29 17:54:16 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 17:55:23 2004 :: Sock.sinaddr:  67.170.53.94
+Wed Dec 29 17:55:27 2004 :: Loading Venus.
+Wed Dec 29 17:55:27 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Dec 29 17:55:55 2004 :: Andrew the Royal guard got toasted by Fnor at {MThe Guard Room{x [room 15208]
+Wed Dec 29 17:56:17 2004 :: Michael the Royal guard got toasted by Fnor at {MThe Guard Room{x [room 15208]
+Wed Dec 29 17:58:26 2004 :: Jerry the Royal guard got toasted by Fnor at {MThe Great Hall{x [room 15218]
+Wed Dec 29 17:58:47 2004 :: the Cleaning Woman got toasted by Fnor at {MThe Kitchen{x [room 15205]
+Wed Dec 29 17:58:58 2004 :: the Chef got toasted by Fnor at {MThe Kitchen{x [room 15205]
+Wed Dec 29 17:59:52 2004 :: Matt the Royal guard got toasted by Fnor at {MThe passage{x [room 15220]
+Wed Dec 29 18:00:02 2004 :: the Cleaning Woman got toasted by Fnor at {MThe passage{x [room 15220]
+Wed Dec 29 18:00:39 2004 :: Hans the Royal guard got toasted by Fnor at {MBy the stage{x [room 15242]
+Wed Dec 29 18:01:26 2004 :: Jim the Royal guard got toasted by Fnor at {MThe Ball Room{x [room 15241]
+Wed Dec 29 18:01:55 2004 :: the horrible ghost got toasted by Fnor at {MThe corridor{x [room 15240]
+Wed Dec 29 18:02:16 2004 :: the Cleaning Woman got toasted by Fnor at {MBy the treasure room{x [room 15236]
+Wed Dec 29 18:02:49 2004 :: Bertram the Royal guard got toasted by Fnor at {MBy the treasure room{x [room 15236]
+Wed Dec 29 18:03:00 2004 :: David got toasted by Fnor at {MBy the treasure room{x [room 15236]
+Wed Dec 29 18:03:07 2004 :: Dick got toasted by Fnor at {MBy the treasure room{x [room 15236]
+Wed Dec 29 18:04:45 2004 :: the Cleaning Woman got toasted by Fnor at {MAt a bend in the corridor{x [room 15230]
+Wed Dec 29 18:04:54 2004 :: the Cleaning Woman got toasted by Fnor at {MThe corridor{x [room 15231]
+Wed Dec 29 18:06:36 2004 :: Jeanette the Royal guard got toasted by Fnor at {MThe small passage{x [room 15219]
+Wed Dec 29 18:06:57 2004 :: Anne the Royal guard got toasted by Fnor at {MA passage{x [room 15214]
+Wed Dec 29 18:07:23 2004 :: Boris the Royal guard got toasted by Fnor at {MThe small passage{x [room 15224]
+Wed Dec 29 18:08:35 2004 :: Peter, the Captain of the Royal guard got toasted by Fnor at {MThe small passage{x [room 15224]
+Wed Dec 29 18:10:34 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3004
+Wed Dec 29 18:11:48 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3003
+Wed Dec 29 18:16:48 2004 :: Fnor has quit.
+Wed Dec 29 18:21:13 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 18:23:04 2004 :: Lydia has quit.
+Wed Dec 29 18:51:12 2004 :: Sock.sinaddr:  67.141.86.144
+Wed Dec 29 18:51:20 2004 :: Loading Argon.
+Wed Dec 29 18:51:29 2004 :: Closing link to Argon.
+Wed Dec 29 18:51:29 2004 :: Argon@67.141.86.144 reconnected.
+Wed Dec 29 18:57:52 2004 :: Stumpy has quit.
+Wed Dec 29 19:29:44 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 19:29:49 2004 :: Loading Stumpy.
+Wed Dec 29 19:29:53 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 19:57:12 2004 :: Sock.sinaddr:  67.170.53.94
+Wed Dec 29 19:57:18 2004 :: Loading Venus.
+Wed Dec 29 19:57:19 2004 :: Closing link to Venus.
+Wed Dec 29 19:57:19 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Wed Dec 29 19:59:18 2004 :: Loading Seclar.
+Wed Dec 29 19:59:18 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net has connected.
+Wed Dec 29 20:06:49 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 20:07:46 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 20:08:05 2004 :: Lister got toasted by Seclar at {MEastern End of Poor Alley{x [room 3024]
+Wed Dec 29 20:12:03 2004 :: Bonkers T. Bobcat got toasted by Seclar at {MThe Rubber Room{x [room 4319]
+Wed Dec 29 20:13:14 2004 :: Log Stumpy: start
+Wed Dec 29 20:13:21 2004 :: a cute little stupid lemming got toasted by Seclar at {MOn a Steel Bridge{x [room 4324]
+Wed Dec 29 20:14:19 2004 :: a man behind a curtain got toasted by Seclar at {MThe Control Booth{x [room 4323]
+Wed Dec 29 20:16:20 2004 :: a really scary clown got toasted by Seclar at {MThe Clown Room{x [room 4314]
+Wed Dec 29 20:24:12 2004 :: the Pope got toasted by Seclar at {MThe Southern Hedge Maze{x [room 4320]
+Wed Dec 29 20:24:36 2004 :: a small child got toasted by Seclar at {MZero-G Room{x [room 4318]
+Wed Dec 29 20:30:25 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:30:32 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:30:36 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:34:48 2004 :: a Rephaim Cleric got toasted by a golem worker at {wT{Whe {wS{Whrine of {wT{Whe {wR{Wephaim {d [room 23629]
+Wed Dec 29 20:35:39 2004 :: {Dthe spirit of {WA rephaim cleric{D got toasted by Seclar at {wT{Whe {wS{Whrine of {wT{Whe {wR{Wephaim {d [room 23629]
+Wed Dec 29 20:40:16 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 20:41:01 2004 :: Loading Stumpy.
+Wed Dec 29 20:41:05 2004 :: Closing link to Stumpy.
+Wed Dec 29 20:41:05 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net reconnected.
+Wed Dec 29 20:49:19 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 20:53:20 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:53:32 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:53:45 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 20:55:21 2004 :: a statue of Venus got toasted by Seclar at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 20:56:25 2004 :: a statue of Yavi got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Wed Dec 29 21:00:24 2004 :: a golem worker got toasted by Seclar at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:01:40 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:09:20 2004 :: a golem worker got toasted by a statue of Sembiance at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:09:41 2004 :: Seclar killed by a statue of Sembiance at 3036
+Wed Dec 29 21:09:41 2004 :: Seclar got toasted by a statue of Sembiance at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:14:33 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:14:37 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:14:42 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:14:46 2004 :: Sock.sinaddr:  66.222.216.154
+Wed Dec 29 21:14:52 2004 :: Loading Chame.
+Wed Dec 29 21:14:52 2004 :: Chame@d66-222-216-154.abhsia.telus.net has connected.
+Wed Dec 29 21:15:00 2004 :: a golem worker got toasted by Seclar at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:15:59 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:17:40 2004 :: a golem worker got toasted by a statue of Sembiance at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:20:48 2004 :: Log Venus: string mob long Lorena Bobbitt
+Wed Dec 29 21:20:55 2004 :: Log Venus: string mob fido long Lorena Bobbitt
+Wed Dec 29 21:21:00 2004 :: Log Venus: string mob fido short Lorena Bobbitt
+Wed Dec 29 21:21:18 2004 :: Log Venus: string mob fido long Lorena Bobbitt is here, sharpening her knife.
+Wed Dec 29 21:21:41 2004 :: Log Venus: string mob fido name lorena bobbitt
+Wed Dec 29 21:21:44 2004 :: Log Venus: snoop stumpy
+Wed Dec 29 21:21:52 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:22:14 2004 :: a golem worker got toasted by Seclar at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:22:28 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:22:36 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:22:40 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:23:40 2004 :: Log Venus: snoop self
+Wed Dec 29 21:24:17 2004 :: a statue of Sembiance got toasted by Seclar at {MMuseum of the Gods{x [room 3036]
+Wed Dec 29 21:28:33 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:31:32 2004 :: bloody severed nose got toasted by Seclar at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:34:13 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:35:45 2004 :: a golem worker got toasted by a Statue of Argon at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:37:58 2004 :: Chame has quit.
+Wed Dec 29 21:38:43 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:39:33 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:41:41 2004 :: a golem worker got toasted by a Statue of Argon at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:42:07 2004 :: a golem worker got toasted by a Statue of Argon at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:42:11 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:44:13 2004 :: Sock.sinaddr:  4.236.27.127
+Wed Dec 29 21:44:18 2004 :: Loading Golddragon.
+Wed Dec 29 21:44:20 2004 :: Golddragon@dialup-4.236.27.127.Dial1.NewYork1.Level3.net has connected.
+Wed Dec 29 21:44:55 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:44:58 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:45:01 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:45:16 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:53:56 2004 :: a golem worker got toasted by a Statue of Argon at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:55:06 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:15 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:19 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:25 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:28 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:55 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:55:59 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 21:56:20 2004 :: EOF encountered on read.
+Wed Dec 29 21:56:20 2004 :: Closing link to Golddragon.
+Wed Dec 29 21:56:38 2004 :: a golem worker got toasted by Seclar at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:57:23 2004 :: Log Seclar: cast summon golem wife
+Wed Dec 29 21:57:32 2004 :: Log Seclar: cast summon golem wife
+Wed Dec 29 21:58:23 2004 :: the golem wife got toasted by Seclar at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 21:59:23 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 21:59:37 2004 :: a golem worker got toasted by a Statue of Argon at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 22:02:03 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 22:02:07 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 22:02:19 2004 :: Log Seclar: cast summon golem worker
+Wed Dec 29 22:06:19 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 22:06:25 2004 :: Loading Seclar.
+Wed Dec 29 22:06:29 2004 :: Closing link to Seclar.
+Wed Dec 29 22:06:29 2004 :: Seclar@dsl093-033-134.snd1.dsl.speakeasy.net reconnected.
+Wed Dec 29 22:06:42 2004 :: Sock.sinaddr:  66.93.33.134
+Wed Dec 29 22:11:31 2004 :: the golem wife got toasted by Seclar at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 22:11:36 2004 :: a Statue of Argon got toasted by Seclar at {MMuseum of the Gods{x [room 3062]
+Wed Dec 29 22:13:21 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:24 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:28 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:31 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:35 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:39 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:42 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:46 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:50 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:13:56 2004 :: A statue of the Fallen Red Dragon got toasted by Seclar at {MThe {WTemple {Mof Immortals{x [room 3001]
+Wed Dec 29 22:13:56 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3011
+Wed Dec 29 22:15:02 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ CN: Golddragon RVNUM: ] ref A009
+Wed Dec 29 22:15:02 2004 :: Golddragon has quit.
+Wed Dec 29 22:16:03 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 22:20:19 2004 :: Brian got toasted by Seclar at {MThe Training Room{x [room 15223]
+Wed Dec 29 22:20:39 2004 :: [*****] BUG: HANDLER.C : CHAR_TO_ROOM - NO RM  [ MVNUM: 20402 RVNUM: ] ref A009
+Wed Dec 29 22:23:38 2004 :: Sock.sinaddr:  65.206.46.218
+Wed Dec 29 22:23:40 2004 :: Loading Rinaldus.
+Wed Dec 29 22:23:41 2004 :: Rinaldus@65.206.46.218 has connected.
+Wed Dec 29 22:26:46 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 22:27:07 2004 :: Rinaldus has quit.
+Wed Dec 29 22:31:03 2004 :: Sock.sinaddr:  65.206.46.218
+Wed Dec 29 22:31:04 2004 :: Loading Rinaldus.
+Wed Dec 29 22:31:05 2004 :: Rinaldus@65.206.46.218 has connected.
+Wed Dec 29 22:43:03 2004 :: Rinaldus has quit.
+Wed Dec 29 22:46:35 2004 :: Sock.sinaddr:  65.206.46.218
+Wed Dec 29 22:46:41 2004 :: Loading Rinaldus.
+Wed Dec 29 22:46:45 2004 :: Rinaldus@65.206.46.218 has connected.
+Wed Dec 29 22:55:04 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 22:58:58 2004 :: the elite gargoyle got toasted by Seclar at {MSecond Level of the Eastern Tower{x [room 1636]
+Wed Dec 29 23:00:02 2004 :: Sock.sinaddr:  216.40.243.218
+Wed Dec 29 23:00:02 2004 :: EOF encountered on read.
+Wed Dec 29 23:00:41 2004 :: the elite gargoyle got toasted by Seclar at {MSecond Level of the Eastern Tower{x [room 1636]
+Wed Dec 29 23:01:40 2004 :: the gargoyle shaman got toasted by Seclar at {MThe Shaman's Room{x [room 1638]
+Wed Dec 29 23:02:59 2004 :: a shadow got toasted by Seclar at {MThe Spiral Stairs{x [room 1642]
+Wed Dec 29 23:03:24 2004 :: a shadow got toasted by Seclar at {MThird Level of Western Tower{x [room 1643]
+Wed Dec 29 23:03:44 2004 :: A burly minotaur got toasted by Seclar at {MIt's too dark to see anything!{x [room 1644]
+Wed Dec 29 23:03:51 2004 :: a shadow got toasted by Seclar at {MIt's too dark to see anything!{x [room 1644]
+Wed Dec 29 23:05:32 2004 :: A burly minotaur got toasted by Seclar at {MThird Level of Eastern Tower{x [room 1647]
+Wed Dec 29 23:05:40 2004 :: a lesser golem got toasted by Seclar at {MThird Level of Eastern Tower{x [room 1647]
+Wed Dec 29 23:05:55 2004 :: a lesser golem got toasted by Seclar at {MThird Level of Eastern Tower{x [room 1647]
+Wed Dec 29 23:07:07 2004 :: a shadow got toasted by Seclar at {MTurret of the Western Tower{x [room 1650]
+Wed Dec 29 23:07:15 2004 :: the spectre got toasted by Seclar at {MOn the Other Side{x [room 1651]
+Wed Dec 29 23:07:34 2004 :: the ancient wyvern got toasted by Seclar at {MThe Chamber{x [room 1652]
+Wed Dec 29 23:09:18 2004 :: Rinaldus has quit.
+Wed Dec 29 23:10:08 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:10:57 2004 :: the black pudding got toasted by Seclar at {MThe Armory{x [room 1645]
+Wed Dec 29 23:12:01 2004 :: the captain got toasted by Seclar at {MThe Officer's Quarters{x [room 1646]
+Wed Dec 29 23:13:23 2004 :: Stumpy has quit.
+Wed Dec 29 23:13:28 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:13:31 2004 :: Loading Hocklar.
+Wed Dec 29 23:13:33 2004 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 23:13:56 2004 :: the elite gargoyle got toasted by Seclar at {MThe Library{x [room 1639]
+Wed Dec 29 23:14:30 2004 :: the stone gargoyle got toasted by Seclar at {MBase of the Eastern Tower{x [room 1631]
+Wed Dec 29 23:14:48 2004 :: Log Argon: mset
+Wed Dec 29 23:14:57 2004 :: the stone gargoyle got toasted by Seclar at {MBase of the Western Tower{x [room 1625]
+Wed Dec 29 23:14:57 2004 :: Log Argon: string
+Wed Dec 29 23:15:11 2004 :: the stone gargoyle got toasted by Seclar at {MThe Grand Lobby{x [room 1624]
+Wed Dec 29 23:15:11 2004 :: {Dthe spirit of {WThe stone gargoyle{D got toasted by Seclar at {MThe Grand Lobby{x [room 1624]
+Wed Dec 29 23:15:18 2004 :: the stone gargoyle got toasted by Seclar at {MThe Grand Lobby{x [room 1624]
+Wed Dec 29 23:15:35 2004 :: a killer frog got toasted by Seclar at {MWestern Moat{x [room 1620]
+Wed Dec 29 23:15:53 2004 :: the golem beggar got toasted by Hocklar at {MThe South Entrance to the Settlement{x [room 20401]
+Wed Dec 29 23:16:18 2004 :: the savage minotaur got toasted by Seclar at {MMinotaur's Room{x [room 1610]
+Wed Dec 29 23:17:35 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 23:17:58 2004 :: a citizen got toasted by Seclar at {MThe Northwest Corner{x [room 23304]
+Wed Dec 29 23:18:20 2004 :: a golem worker got toasted by Seclar at {MThe Northwest Corner{x [room 23304]
+Wed Dec 29 23:18:31 2004 :: Log Argon: snoop hock
+Wed Dec 29 23:18:47 2004 :: the golem beggar got toasted by Hocklar at {MThe South Entrance to the Settlement{x [room 20401]
+Wed Dec 29 23:19:47 2004 :: the golem beggar got toasted by Hocklar at {MThe South Entrance to the Settlement{x [room 20401]
+Wed Dec 29 23:21:50 2004 :: Log Argon: snoop self
+Wed Dec 29 23:26:43 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 23:30:30 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Wed Dec 29 23:32:23 2004 :: Log Argon: bonus all 100 qp
+Wed Dec 29 23:33:27 2004 :: Argon has quit.
+Wed Dec 29 23:34:49 2004 :: Loading Dusk.
+Wed Dec 29 23:34:50 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:35:00 2004 :: a golem worker got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Wed Dec 29 23:35:02 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Wed Dec 29 23:35:07 2004 :: a golem worker got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Wed Dec 29 23:36:00 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Wed Dec 29 23:37:17 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Wed Dec 29 23:37:42 2004 :: Dusk has quit.
+Wed Dec 29 23:37:43 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:37:46 2004 :: Loading Keihaji.
+Wed Dec 29 23:37:46 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:37:46 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:37:46 2004 :: Keihaji@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:38:28 2004 :: Keihaji has quit.
+Wed Dec 29 23:38:29 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:38:38 2004 :: Loading Stealth.
+Wed Dec 29 23:38:39 2004 :: Stealth@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:40:25 2004 :: Stealth has quit.
+Wed Dec 29 23:40:26 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:40:28 2004 :: Loading Synn.
+Wed Dec 29 23:40:28 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:40:29 2004 :: Synn@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:41:12 2004 :: Synn has quit.
+Wed Dec 29 23:41:13 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:41:15 2004 :: Loading Genzo.
+Wed Dec 29 23:41:16 2004 :: Genzo@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:42:10 2004 :: Hocklar has quit.
+Wed Dec 29 23:42:15 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:42:19 2004 :: Loading Fidelity.
+Wed Dec 29 23:42:21 2004 :: Fidelity@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 23:42:34 2004 :: Log Venus: bonus genzo 200 qp
+Wed Dec 29 23:42:49 2004 :: Fidelity has quit.
+Wed Dec 29 23:42:58 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:43:02 2004 :: Loading Vernon.
+Wed Dec 29 23:43:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Wed Dec 29 23:43:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:43:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:43:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Wed Dec 29 23:43:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Wed Dec 29 23:43:12 2004 :: Closing link to Vernon.
+Wed Dec 29 23:43:19 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:43:51 2004 :: Loading Spatula.
+Wed Dec 29 23:43:51 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Wed Dec 29 23:43:51 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:43:54 2004 :: Closing link to Spatula.
+Wed Dec 29 23:43:57 2004 :: Genzo has quit.
+Wed Dec 29 23:43:58 2004 :: Sock.sinaddr:  68.100.177.85
+Wed Dec 29 23:43:59 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:44:00 2004 :: Loading Dusk.
+Wed Dec 29 23:44:02 2004 :: Loading Spatula.
+Wed Dec 29 23:44:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Wed Dec 29 23:44:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:44:02 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Wed Dec 29 23:44:04 2004 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 23:45:33 2004 :: Guard of Darkness got toasted by Dusk at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Wed Dec 29 23:45:44 2004 :: Guard of Darkness got toasted by Dusk at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Wed Dec 29 23:45:55 2004 :: Brutus 'The Barber' Beefcake got toasted by Dusk at {MBarber Shop{x [room 10646]
+Wed Dec 29 23:46:17 2004 :: The Guard of the Vault got toasted by Dusk at {MEntrance to the Vault{x [room 10622]
+Wed Dec 29 23:46:47 2004 :: The Jailer got toasted by Dusk at {MStairs to the Dungeon{x [room 10633]
+Wed Dec 29 23:47:50 2004 :: Spatula has quit.
+Wed Dec 29 23:47:55 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:47:59 2004 :: Loading Fidelity.
+Wed Dec 29 23:48:01 2004 :: Closing link to Fidelity.
+Wed Dec 29 23:48:05 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:48:08 2004 :: Loading Vernon.
+Wed Dec 29 23:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Wed Dec 29 23:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Wed Dec 29 23:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Wed Dec 29 23:48:08 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Wed Dec 29 23:48:09 2004 :: Closing link to Vernon.
+Wed Dec 29 23:48:24 2004 :: Sock.sinaddr:  12.207.136.251
+Wed Dec 29 23:48:28 2004 :: Sock.sinaddr:  69.240.65.225
+Wed Dec 29 23:48:30 2004 :: Loading Tzeria.
+Wed Dec 29 23:48:31 2004 :: Loading Spatula.
+Wed Dec 29 23:48:31 2004 :: Tzeria@12-207-136-251.client.mchsi.com has connected.
+Wed Dec 29 23:48:33 2004 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Wed Dec 29 23:50:05 2004 :: the cityguard got toasted by Tzeria at {MInside {Wthe East Gate of {MMidgaard{x [room 3041]
+Wed Dec 29 23:50:40 2004 :: Tzeria has quit.
+Wed Dec 29 23:50:45 2004 :: corpse of a Gypsy got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Wed Dec 29 23:50:56 2004 :: The Torturer got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Wed Dec 29 23:51:12 2004 :: a prisoner got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Wed Dec 29 23:51:21 2004 :: a prisoner got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Wed Dec 29 23:51:28 2004 :: a prisoner got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Wed Dec 29 23:51:45 2004 :: corpse of a Gypsy got toasted by Dusk at {MExecution Room{x [room 10635]
+Wed Dec 29 23:51:52 2004 :: a prisoner got toasted by Dusk at {MExecution Room{x [room 10635]
+Wed Dec 29 23:51:59 2004 :: a prisoner got toasted by Dusk at {MExecution Room{x [room 10635]
+Wed Dec 29 23:52:10 2004 :: The Executioner got toasted by Dusk at {MExecution Room{x [room 10635]
+Wed Dec 29 23:52:39 2004 :: a prisoner got toasted by Dusk at {MA Dungeon{x [room 10637]
+Wed Dec 29 23:52:46 2004 :: a prisoner got toasted by Dusk at {MA Dungeon{x [room 10637]
+Wed Dec 29 23:53:04 2004 :: Pinky the Rat got toasted by Dusk at {MA Dungeon{x [room 10639]
+Wed Dec 29 23:54:09 2004 :: a dragon soldier got toasted by Dusk at {MA Mountain Road{x [room 23203]
+Wed Dec 29 23:54:16 2004 :: a dragon soldier got toasted by Dusk at {MA Mountain Road{x [room 23203]
+Wed Dec 29 23:54:24 2004 :: a dragon soldier got toasted by Dusk at {MA Mountain Road{x [room 23203]
+Wed Dec 29 23:54:50 2004 :: a gateguard got toasted by Dusk at {MBefore the City of Cloudy Mountain{x [room 23205]
+Wed Dec 29 23:56:14 2004 :: A warrior got toasted by Dusk at {MThe Court{x [room 23207]
+Wed Dec 29 23:56:20 2004 :: A citizen got toasted by Dusk at {MThe Court{x [room 23208]
+Wed Dec 29 23:56:28 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23208]
+Wed Dec 29 23:56:36 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23208]
+Wed Dec 29 23:56:44 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23208]
+Wed Dec 29 23:57:27 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23211]
+Wed Dec 29 23:57:35 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23211]
+Wed Dec 29 23:58:13 2004 :: A mage got toasted by Dusk at {MThe Court{x [room 23214]
+Wed Dec 29 23:58:28 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Wed Dec 29 23:58:53 2004 :: Raechalin got toasted by Dusk at {MA Noble's Home{x [room 23269]
+Wed Dec 29 23:58:54 2004 :: a citizen got toasted by Dusk at {MA Noble's Home{x [room 23269]
+Wed Dec 29 23:59:39 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23217]
+Wed Dec 29 23:59:47 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23217]
+Wed Dec 29 23:59:55 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23217]
+Wed Dec 29 23:59:58 2004 :: {Dthe spirit of {WA dragon soldier{D got toasted by Dusk at {MThe Court{x [room 23217]
+Thu Dec 30 00:00:02 2004 :: a thief got toasted by Dusk at {MThe Court{x [room 23217]
+Thu Dec 30 00:01:14 2004 :: a dragon citizen got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:01:22 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:01:30 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:01:36 2004 :: Spatula has quit.
+Thu Dec 30 00:01:41 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:01:45 2004 :: Loading Vernon.
+Thu Dec 30 00:01:45 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:01:45 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:01:45 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:01:45 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:01:45 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Thu Dec 30 00:01:55 2004 :: Closing link to Vernon.
+Thu Dec 30 00:01:56 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23220]
+Thu Dec 30 00:02:00 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:02:01 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23220]
+Thu Dec 30 00:02:03 2004 :: Loading Vernon.
+Thu Dec 30 00:02:03 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:02:03 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:02:03 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:02:03 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:02:03 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Thu Dec 30 00:02:08 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23220]
+Thu Dec 30 00:02:35 2004 :: Closing link to Vernon.
+Thu Dec 30 00:02:41 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:02:55 2004 :: A Dragon of Anarchy got toasted by Dusk at {MThe Court{x [room 23223]
+Thu Dec 30 00:02:58 2004 :: The Brain got toasted by The Brain at {MVisiting the Prisoners{x [room 10636]
+Thu Dec 30 00:02:59 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23223]
+Thu Dec 30 00:03:02 2004 :: Loading Vernon.
+Thu Dec 30 00:03:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:03:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:03:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:03:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:03:02 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Thu Dec 30 00:03:04 2004 :: Closing link to Vernon.
+Thu Dec 30 00:03:07 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23223]
+Thu Dec 30 00:03:09 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:03:14 2004 :: Loading Vernon.
+Thu Dec 30 00:03:14 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:03:14 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:03:14 2004 :: [*****] BUG: Fread_obj: bad vnum 25321.
+Thu Dec 30 00:03:14 2004 :: [*****] BUG: Fread_obj: bad vnum 25322.
+Thu Dec 30 00:03:14 2004 :: [*****] BUG: Fread_obj: bad vnum 25325.
+Thu Dec 30 00:03:16 2004 :: A Dragon of Virtue got toasted by Dusk at {MThe Court{x [room 23223]
+Thu Dec 30 00:03:22 2004 :: A citizen got toasted by Dusk at {MThe Court{x [room 23223]
+Thu Dec 30 00:04:01 2004 :: Closing link to Vernon.
+Thu Dec 30 00:04:09 2004 :: the Pope got toasted by Seclar at {MThe Southern Hedge Maze{x [room 4320]
+Thu Dec 30 00:04:10 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:04:18 2004 :: Loading Spatula.
+Thu Dec 30 00:04:20 2004 :: Spatula@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Thu Dec 30 00:04:28 2004 :: a small child got toasted by Seclar at {MZero-G Room{x [room 4318]
+Thu Dec 30 00:04:43 2004 :: Bonkers T. Bobcat got toasted by Seclar at {MThe Rubber Room{x [room 4319]
+Thu Dec 30 00:05:41 2004 :: a man behind a curtain got toasted by Seclar at {MThe Control Booth{x [room 4323]
+Thu Dec 30 00:05:58 2004 :: Don King got toasted by Seclar at {MOn a Steel Bridge{x [room 4324]
+Thu Dec 30 00:07:09 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23226]
+Thu Dec 30 00:07:17 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23226]
+Thu Dec 30 00:07:21 2004 :: a small child got toasted by Seclar at {MOn a Steel Bridge{x [room 4324]
+Thu Dec 30 00:07:25 2004 :: a dragon guard got toasted by Dusk at {MThe Court{x [room 23226]
+Thu Dec 30 00:07:55 2004 :: a cute little stupid lemming got toasted by Seclar at {MOn a Steel Bridge{x [room 4324]
+Thu Dec 30 00:07:56 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:08:08 2004 :: a cute little stupid lemming got toasted by Seclar at {MOn a Steel Bridge{x [room 4324]
+Thu Dec 30 00:09:30 2004 :: a really scary clown got toasted by Seclar at {MThe Clown Room{x [room 4314]
+Thu Dec 30 00:09:46 2004 :: Johnny Carson got toasted by Seclar at {MThe Jester's Room{x [room 4315]
+Thu Dec 30 00:10:13 2004 :: Spatula has quit.
+Thu Dec 30 00:10:15 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23228]
+Thu Dec 30 00:10:47 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 00:10:48 2004 :: Loading Hocklar.
+Thu Dec 30 00:10:48 2004 :: Hocklar@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Thu Dec 30 00:10:50 2004 :: {Dthe spirit of {WA dragon lieutenant{D got toasted by Dusk at {MThe Court{x [room 23228]
+Thu Dec 30 00:10:54 2004 :: A mage got toasted by Dusk at {MThe Court{x [room 23228]
+Thu Dec 30 00:11:16 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23227]
+Thu Dec 30 00:11:34 2004 :: A Dragon of Virtue got toasted by Dusk at {MThe Court{x [room 23224]
+Thu Dec 30 00:11:34 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:11:43 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23224]
+Thu Dec 30 00:11:51 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23224]
+Thu Dec 30 00:11:59 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23224]
+Thu Dec 30 00:12:13 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23221]
+Thu Dec 30 00:12:21 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23221]
+Thu Dec 30 00:12:36 2004 :: A citizen got toasted by Dusk at {MThe Court{x [room 23221]
+Thu Dec 30 00:15:22 2004 :: A Dragon of Virtue got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:15:48 2004 :: the enforcer eye got toasted by Seclar at {MDiamond Street{x [room 16047]
+Thu Dec 30 00:17:17 2004 :: the lizard man got toasted by Seclar at {MForgotten Alley{x [room 16149]
+Thu Dec 30 00:17:49 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:17:55 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:17:59 2004 :: a dragon guard got toasted by Dusk at {MThe Court{x [room 23222]
+Thu Dec 30 00:19:16 2004 :: Log Hocklar: cast summon bloody severed nose
+Thu Dec 30 00:19:43 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:20:00 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Dec 30 00:20:13 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:20:50 2004 :: Log Hocklar: cast summon bloody severed nose
+Thu Dec 30 00:21:01 2004 :: the beastly fido got toasted by Hocklar at {MThe {WTemple {MSquare{x  [room 3005]
+Thu Dec 30 00:21:01 2004 :: the thief got toasted by Hocklar at {MThe {WTemple {MSquare{x  [room 3005]
+Thu Dec 30 00:21:07 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:22:15 2004 :: a peasant got toasted by Dusk at {MA Rice Paddy Field{x [room 7519]
+Thu Dec 30 00:22:22 2004 :: a peasant got toasted by Dusk at {MA Road{x [room 7510]
+Thu Dec 30 00:23:04 2004 :: a peasant got toasted by Dusk at {MThe Road to Shikoku{x [room 7520]
+Thu Dec 30 00:23:08 2004 :: a peasant got toasted by Dusk at {MThe Road to Shikoku{x [room 7520]
+Thu Dec 30 00:23:34 2004 :: a peasant got toasted by Dusk at {MA Rice Paddy Field{x [room 7518]
+Thu Dec 30 00:24:04 2004 :: a peasant got toasted by Dusk at {MA Rice Paddy Field{x [room 7518]
+Thu Dec 30 00:24:25 2004 :: a peasant got toasted by Dusk at {MA Rice Paddy Field{x [room 7517]
+Thu Dec 30 00:25:47 2004 :: an Outpost Guard got toasted by Dusk at {MShikoku-San  Patrol Outpost{x [room 7525]
+Thu Dec 30 00:25:55 2004 :: an Outpost Guard got toasted by Dusk at {MShikoku-San  Patrol Outpost{x [room 7525]
+Thu Dec 30 00:27:13 2004 :: Farmers guarddog got toasted by Seclar at {MA Farmer's House{x [room 10039]
+Thu Dec 30 00:27:22 2004 :: Matsushita got toasted by Dusk at {MHouse of Matsushita{x [room 7529]
+Thu Dec 30 00:27:23 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:27:44 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:28:04 2004 :: a slender girl got toasted by Dusk at {MKahiwaya Ryokan Inn{x [room 7530]
+Thu Dec 30 00:28:44 2004 :: a peasant got toasted by Dusk at {MDragon Street South{x [room 7531]
+Thu Dec 30 00:29:11 2004 :: a peasant got toasted by Dusk at {MSento{x [room 7533]
+Thu Dec 30 00:29:21 2004 :: a peasant got toasted by Dusk at {MThe Shinto Shrine{x [room 7532]
+Thu Dec 30 00:29:41 2004 :: a monk got toasted by Dusk at {MThe Shinto Shrine{x [room 7532]
+Thu Dec 30 00:29:54 2004 :: {Dthe spirit of {WA monk{D got toasted by Dusk at {MThe Shinto Shrine{x [room 7532]
+Thu Dec 30 00:30:12 2004 :: a peasant got toasted by Dusk at {MA Peasant Hovel{x [room 7536]
+Thu Dec 30 00:30:34 2004 :: a peasant got toasted by Dusk at {MShikaya's General Shop{x [room 7539]
+Thu Dec 30 00:30:34 2004 :: Log Hocklar: cast summon water puddle elemental
+Thu Dec 30 00:30:37 2004 :: a puddle got toasted by Hocklar at {BThe Night Garden of Midgaard{x [room 3360]
+Thu Dec 30 00:31:06 2004 :: a peasant got toasted by Dusk at {MThe Intersection of Dragon and Falcon Streets{x [room 7540]
+Thu Dec 30 00:31:13 2004 :: a peasant got toasted by Dusk at {MThe Intersection of Dragon and Falcon Streets{x [room 7540]
+Thu Dec 30 00:31:46 2004 :: a peasant got toasted by Dusk at {MHizen Tadayoshi's Armoury{x [room 7563]
+Thu Dec 30 00:32:12 2004 :: a peasant got toasted by Dusk at {MSwordsmith of Hatorio Hanzo{x [room 7564]
+Thu Dec 30 00:32:27 2004 :: Hatorio Hanzo got toasted by Dusk at {MSwordsmith of Hatorio Hanzo{x [room 7564]
+Thu Dec 30 00:32:52 2004 :: Hizen Tadayoshi got toasted by Dusk at {MHizen Tadayoshi's Armoury{x [room 7563]
+Thu Dec 30 00:33:28 2004 :: a peasant got toasted by Dusk at {MFalcon Street East{x [room 7542]
+Thu Dec 30 00:33:43 2004 :: a peasant got toasted by Dusk at {MFalcon Street East{x [room 7545]
+Thu Dec 30 00:33:53 2004 :: a samurai got toasted by Dusk at {MPractice Field{x [room 7547]
+Thu Dec 30 00:34:04 2004 :: a samurai got toasted by Dusk at {MPractice Field{x [room 7546]
+Thu Dec 30 00:35:24 2004 :: Shoui Ienari got toasted by Dusk at {MShoui(Lieutenant) Ienari's Quarters{x [room 7544]
+Thu Dec 30 00:36:29 2004 :: Guard of Darkness got toasted by Dusk at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Thu Dec 30 00:36:57 2004 :: Brutus 'The Barber' Beefcake got toasted by Dusk at {MBarber Shop{x [room 10646]
+Thu Dec 30 00:37:19 2004 :: a prisoner got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 00:37:23 2004 :: corpse of a Gypsy got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 00:37:33 2004 :: The Torturer got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 00:37:39 2004 :: a prisoner got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 00:37:48 2004 :: corpse of a Vigilante got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 00:37:59 2004 :: a prisoner got toasted by Dusk at {MA Dungeon{x [room 10637]
+Thu Dec 30 00:39:37 2004 :: The Guard of the Vault got toasted by Dusk at {MEntrance to the Vault{x [room 10622]
+Thu Dec 30 00:41:40 2004 :: Protector of Darkness got toasted by Dusk at {MSting's Throne Room{x [room 10615]
+Thu Dec 30 00:41:56 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:42:35 2004 :: Log Seclar: cast summon construction worker female
+Thu Dec 30 00:42:39 2004 :: Log Seclar: cast summon construction worker female
+Thu Dec 30 00:42:42 2004 :: Log Seclar: cast summon construction worker female
+Thu Dec 30 00:42:54 2004 :: Log Seclar: cast summon construction worker male
+Thu Dec 30 00:42:56 2004 :: Protector of Darkness got toasted by Dusk at {MSting's Throne Room{x [room 10615]
+Thu Dec 30 00:43:06 2004 :: male construction worker got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Thu Dec 30 00:43:09 2004 :: the female construction worker got toasted by Seclar at {BThe Night Garden of Midgaard{x [room 3360]
+Thu Dec 30 00:43:23 2004 :: Protector of Darkness got toasted by Dusk at {MSting's Throne Room{x [room 10615]
+Thu Dec 30 00:43:59 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:44:01 2004 :: Protector of Darkness got toasted by Dusk at {MSting's Throne Room{x [room 10615]
+Thu Dec 30 00:44:19 2004 :: Protector of Darkness got toasted by Dusk at {MEntrance to the Royal Quarters{x [room 10616]
+Thu Dec 30 00:45:12 2004 :: Protector of Darkness got toasted by Dusk at {MEntrance to the Royal Quarters{x [room 10616]
+Thu Dec 30 00:45:37 2004 :: Protector of Darkness got toasted by Dusk at {MEntrance to the Royal Quarters{x [room 10616]
+Thu Dec 30 00:47:32 2004 :: Tariq, Prince of the Kingdom of Darkness got toasted by Dusk at {MThe Royal Quarters of Prince Tariq{x [room 10618]
+Thu Dec 30 00:48:22 2004 :: Ghost of Queen Allexandra got toasted by Dusk at {MThe Royal Quarters of Sting{x [room 10617]
+Thu Dec 30 00:49:09 2004 :: Statue of Halba got toasted by Dusk at {MWalkway to the Throne Room{x [room 10614]
+Thu Dec 30 00:50:17 2004 :: Statue of Blueblood got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 00:51:04 2004 :: Loryn got toasted by Seclar at {MBlack oak bedroom{x [room 11865]
+Thu Dec 30 00:52:56 2004 :: Statue of Dhukka got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 00:55:01 2004 :: Statue of Sting got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 00:55:34 2004 :: {Dthe spirit of {WA dragon soldier{D got toasted by Dusk at {MA Mountain Road{x [room 23202]
+Thu Dec 30 00:55:39 2004 :: a gateguard got toasted by Dusk at {MBefore the City of Cloudy Mountain{x [room 23205]
+Thu Dec 30 00:55:41 2004 :: {Dthe spirit of {WA gateguard{D got toasted by Dusk at {MBefore the City of Cloudy Mountain{x [room 23205]
+Thu Dec 30 00:55:48 2004 :: a dragon guard got toasted by Dusk at {MThe Court{x [room 23207]
+Thu Dec 30 00:56:28 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:56:28 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23210]
+Thu Dec 30 00:56:34 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23210]
+Thu Dec 30 00:56:48 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 00:56:57 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 00:57:13 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 00:57:20 2004 :: pcp09766644pcs.albqrq01.nm.comcast.net input spamming!
+Thu Dec 30 00:57:21 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 00:57:30 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 00:57:40 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 00:57:41 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:57:48 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 00:58:11 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:58:19 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:58:20 2004 :: {Dthe spirit of {WA dragon soldier{D got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:58:24 2004 :: a citizen got toasted by a citizen at {MThe Court{x [room 23210]
+Thu Dec 30 00:58:35 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:58:44 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23219]
+Thu Dec 30 00:58:44 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:58:55 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23222]
+Thu Dec 30 00:58:55 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 00:59:09 2004 :: A Dragon of Virtue got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 00:59:20 2004 :: An Elite guard got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 00:59:25 2004 :: a dragon soldier got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 00:59:42 2004 :: a citizen got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 00:59:51 2004 :: The captain got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 01:00:07 2004 :: EOF encountered on read.
+Thu Dec 30 01:00:07 2004 :: Closing link to Dusk.
+Thu Dec 30 01:00:09 2004 :: Sock.sinaddr:  68.100.177.85
+Thu Dec 30 01:00:13 2004 :: Loading Dusk.
+Thu Dec 30 01:00:14 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net reconnected.
+Thu Dec 30 01:00:47 2004 :: Drakknar got toasted by Dusk at {MDrakknor's Home{x [room 23225]
+Thu Dec 30 01:01:53 2004 :: Guard of Darkness got toasted by Dusk at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Thu Dec 30 01:02:08 2004 :: Brutus 'The Barber' Beefcake got toasted by Dusk at {MBarber Shop{x [room 10646]
+Thu Dec 30 01:02:40 2004 :: Protector of Darkness got toasted by Dusk at {MSting's Throne Room{x [room 10615]
+Thu Dec 30 01:03:38 2004 :: The Guard of the Vault got toasted by Dusk at {MEntrance to the Vault{x [room 10622]
+Thu Dec 30 01:04:05 2004 :: Protector of Darkness got toasted by Dusk at {MEntrance to the Royal Quarters{x [room 10616]
+Thu Dec 30 01:06:10 2004 :: Statue of Blueblood got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 01:07:05 2004 :: Statue of Dhukka got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 01:07:38 2004 :: Yevaud got toasted by Seclar at {MYevaud's Lair{x [room 6360]
+Thu Dec 30 01:07:47 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 01:08:02 2004 :: Statue of Sting got toasted by Dusk at {MStatue Room{x [room 10608]
+Thu Dec 30 01:08:24 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 01:08:31 2004 :: The Jailer got toasted by Dusk at {MStairs to the Dungeon{x [room 10633]
+Thu Dec 30 01:08:38 2004 :: corpse of a Gypsy got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 01:08:46 2004 :: a prisoner got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 01:09:00 2004 :: The Torturer got toasted by Dusk at {MTorture Chamber{x [room 10634]
+Thu Dec 30 01:09:07 2004 :: corpse of a Vigilante got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 01:09:15 2004 :: a prisoner got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 01:09:26 2004 :: The Executioner got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 01:09:48 2004 :: corpse of a Gypsy got toasted by Dusk at {MExecution Room{x [room 10635]
+Thu Dec 30 01:11:15 2004 :: a dragon soldier got toasted by Dusk at {MA Mountain Road{x [room 23202]
+Thu Dec 30 01:11:27 2004 :: a gateguard got toasted by Dusk at {MBefore the City of Cloudy Mountain{x [room 23205]
+Thu Dec 30 01:12:01 2004 :: A dragon noble got toasted by Dusk at {MThe Court{x [room 23207]
+Thu Dec 30 01:12:13 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23210]
+Thu Dec 30 01:13:20 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:13:28 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:13:36 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:13:43 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:13:51 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:14:02 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23213]
+Thu Dec 30 01:15:03 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23216]
+Thu Dec 30 01:15:40 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:15:48 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:15:50 2004 :: {Dthe spirit of {WA dragon soldier{D got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:15:55 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:16:03 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:16:10 2004 :: a dragon guard got toasted by Dusk at {MThe Court{x [room 23212]
+Thu Dec 30 01:16:43 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23209]
+Thu Dec 30 01:16:50 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23209]
+Thu Dec 30 01:17:00 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23215]
+Thu Dec 30 01:17:00 2004 :: {Dthe spirit of {WA dragon soldier{D got toasted by Dusk at {MThe Court{x [room 23215]
+Thu Dec 30 01:17:07 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23215]
+Thu Dec 30 01:17:16 2004 :: a citizen got toasted by Dusk at {MThe Court{x [room 23215]
+Thu Dec 30 01:17:56 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:18:04 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:18:11 2004 :: a dragon soldier got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:18:21 2004 :: A Dragon of Virtue got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:18:30 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:18:37 2004 :: a dragon lieutenant got toasted by Dusk at {MThe Court{x [room 23218]
+Thu Dec 30 01:19:20 2004 :: Guard of Darkness got toasted by Dusk at {MEntrance to the Kingdom of Darkness{x [room 10605]
+Thu Dec 30 01:19:38 2004 :: The Guard of the Vault got toasted by Dusk at {MEntrance to the Vault{x [room 10622]
+Thu Dec 30 01:20:14 2004 :: Log Venus: bonus all -100
+Thu Dec 30 01:20:19 2004 :: Log Venus: bonus all 101
+Write_to_descriptor: Resource temporarily unavailable
+Thu Dec 30 01:20:36 2004 :: Closing link to Dusk.
+Thu Dec 30 01:20:39 2004 :: Sock.sinaddr:  68.100.177.85
+Thu Dec 30 01:20:45 2004 :: Loading Dusk.
+Thu Dec 30 01:20:45 2004 :: Dusk has quit.
+Thu Dec 30 01:20:45 2004 :: [*****] BUG: Char_from_room: ch not found.
+Thu Dec 30 01:20:45 2004 :: [*****] BUG: Extract_char: char not found.
+Thu Dec 30 01:20:45 2004 :: Closing link to Dusk.
+Thu Dec 30 01:20:46 2004 :: Sock.sinaddr:  68.100.177.85
+Thu Dec 30 01:20:49 2004 :: Loading Dusk.
+Thu Dec 30 01:20:50 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Thu Dec 30 01:21:38 2004 :: EOF encountered on read.
+Thu Dec 30 01:21:38 2004 :: Closing link to Dusk.
+Thu Dec 30 01:21:39 2004 :: Sock.sinaddr:  68.100.177.85
+Thu Dec 30 01:21:40 2004 :: Dusk has quit.
+Thu Dec 30 01:21:42 2004 :: Loading Stealth.
+Thu Dec 30 01:21:43 2004 :: Stealth@ip68-100-177-85.dc.dc.cox.net has connected.
+Thu Dec 30 01:21:53 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 01:22:51 2004 :: Stealth has quit.
+Thu Dec 30 01:22:52 2004 :: Sock.sinaddr:  68.100.177.85
+Thu Dec 30 01:22:54 2004 :: Loading Dusk.
+Thu Dec 30 01:22:56 2004 :: Dusk@ip68-100-177-85.dc.dc.cox.net has connected.
+Thu Dec 30 01:22:59 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 01:26:58 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 01:27:27 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 99
+Thu Dec 30 01:27:56 2004 :: Dusk has quit.
+Thu Dec 30 03:07:04 2004 :: Log Venus: snoop sec
+Thu Dec 30 03:07:18 2004 :: Log Venus: snoop self
+Thu Dec 30 03:08:08 2004 :: Log Venus: snoop sec
+Thu Dec 30 03:09:26 2004 :: Log Venus: snoop self
+Thu Dec 30 03:18:51 2004 :: Seclar has quit.
+Thu Dec 30 03:20:24 2004 :: a golem worker got toasted by Hocklar at {MMain Street{x [room 20411]
+Thu Dec 30 03:20:39 2004 :: the golem thief got toasted by Hocklar at {MMain Street{x [room 20411]
+Thu Dec 30 03:21:06 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 03:41:44 2004 :: Hocklar has quit.
+Thu Dec 30 11:35:45 2004 :: Sock.sinaddr:  24.7.44.192
+Thu Dec 30 11:35:46 2004 :: Loading Fnor.
+Thu Dec 30 11:35:46 2004 :: Fnor@c-24-7-44-192.client.comcast.net has connected.
+Thu Dec 30 11:42:32 2004 :: Fnor has quit.
+Read_from_descriptor: Connection timed out
+Thu Dec 30 11:54:05 2004 :: Closing link to Venus.
+Thu Dec 30 11:57:00 2004 :: Sock.sinaddr:  24.7.44.192
+Thu Dec 30 11:57:10 2004 :: Loading Fnor.
+Thu Dec 30 11:57:28 2004 :: Fnor@c-24-7-44-192.client.comcast.net has connected.
+Thu Dec 30 11:58:46 2004 :: Sock.sinaddr:  67.170.53.94
+Thu Dec 30 11:58:50 2004 :: Loading Venus.
+Thu Dec 30 11:58:51 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Dec 30 11:58:51 2004 :: EOF encountered on read.
+Thu Dec 30 11:58:51 2004 :: Closing link to Fnor.
+Thu Dec 30 11:59:01 2004 :: Sock.sinaddr:  24.7.44.192
+Thu Dec 30 11:59:02 2004 :: Loading Fnor.
+Thu Dec 30 11:59:02 2004 :: Fnor@c-24-7-44-192.client.comcast.net reconnected.
+Thu Dec 30 11:59:25 2004 :: Fnor has quit.
+Thu Dec 30 12:44:35 2004 :: Sock.sinaddr:  67.141.86.144
+Thu Dec 30 12:44:35 2004 :: Loading Argon.
+Thu Dec 30 12:44:36 2004 :: Argon@67.141.86.144 has connected.
+Thu Dec 30 12:46:59 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 12:50:13 2004 :: Argon has quit.
+Read_from_descriptor: Connection timed out
+Thu Dec 30 13:02:58 2004 :: Closing link to Venus.
+Thu Dec 30 13:49:28 2004 :: Sock.sinaddr:  67.170.53.94
+Thu Dec 30 13:49:30 2004 :: Loading Venus.
+Thu Dec 30 13:49:31 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Dec 30 14:27:51 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 14:28:20 2004 :: Loading Stumpy.
+Thu Dec 30 14:28:24 2004 :: Stumpy@69.240.65.225 has connected.
+Read_from_descriptor: Connection timed out
+Thu Dec 30 14:47:36 2004 :: Closing link to Venus.
+Thu Dec 30 14:50:59 2004 :: Stumpy has quit.
+Thu Dec 30 14:51:04 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 14:51:24 2004 :: Sock.sinaddr:  67.170.53.94
+Thu Dec 30 14:51:26 2004 :: Loading Venus.
+Thu Dec 30 14:51:26 2004 :: Venus@c-67-170-53-94.client.comcast.net reconnected.
+Thu Dec 30 14:51:47 2004 :: Fodder@69.240.65.225 new player.
+Thu Dec 30 14:52:37 2004 :: {Cthe big hatchling{x got toasted by Fodder at {MThe Darkened Room{x [room 3720]
+Thu Dec 30 14:52:51 2004 :: [*****] BUG: MOBprogs: MAX_CALL_LEVEL exceeded, vnum 3007
+Thu Dec 30 14:53:43 2004 :: the young snarling dragon got toasted by Fodder at {MThe End of Mud School!{x [room 3721]
+Thu Dec 30 14:53:55 2004 :: Log Fodder: delete
+Thu Dec 30 14:53:59 2004 :: Log Fodder: delete
+Thu Dec 30 14:53:59 2004 :: Fodder has quit.
+Thu Dec 30 14:54:04 2004 :: Sock.sinaddr:  69.240.65.225
+Thu Dec 30 14:54:08 2004 :: Loading Stumpy.
+Thu Dec 30 14:54:12 2004 :: Stumpy@pcp09766644pcs.albqrq01.nm.comcast.net has connected.
+Thu Dec 30 15:29:54 2004 :: Log Venus: mset venus wname SpatulaSucks!
+Thu Dec 30 15:30:29 2004 :: Log Venus: mset venus wname {x
+Thu Dec 30 15:30:47 2004 :: Log Venus: mset venus clan none
+Thu Dec 30 15:30:51 2004 :: Log Venus: guild venus none
+Thu Dec 30 15:32:24 2004 :: Log Venus: mset venus wname {r@{g}--{G>{g-{DVenus{g-{G>{g--{x
+Thu Dec 30 15:41:25 2004 :: Closing link to Stumpy.
+Thu Dec 30 15:41:25 2004 :: Closing link to Venus.
+Thu Dec 30 15:41:25 2004 :: Closing link to Sembiance.
+Thu Dec 30 15:41:31 2004 :: Normal termination of game.

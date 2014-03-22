@@ -1,0 +1,242 @@
+#AREADATA
+Name Tower of Knowledge~
+Builders Sembiance~
+VNUMs 25500 25699
+Credits ALL   ~
+Security 9
+Flags J
+LEVELs 0 0
+End
+
+
+
+#MOBILES
+#25699
+old man oldman7~
+{c an old man{x~
+{can old man{x
+~
+You see an old man. His ears are missing, yet he still hears you. From the
+looks of his clothes you can tell he is an ancient wizard. He is only about
+five feet tall, and other than his clothes, he has nothing else on him.
+~
+Human~
+ABGRY 0 0 0
+0
+7 0 1d12+47 1d1+1900 1d6+0 none
+8 8 8 -60
+FGN C 0 D
+stand stand male 7
+AHMV ABCDEFGHIJKMV medium unknown
+M SPEECH 25501 tower of knowledge~
+M GRALL 25500 100~
+#0
+
+
+
+#OBJECTS
+#25500
+a magic rock~
+{Ga MAGIC ROCK!{x~
+{Ga MAGIC ROCK!{x~
+SELECT_A_MATERIAL key ABGOSTb AO
+0 0 0 0 0
+5 40 7142 P
+A
+13 200
+A
+1 3
+E
+dropmessage~
+{RGRRR!!!! WHAT!!{x
+{RWhy the {YHELL{R did you drop me!{x
+{RYou big ass! You big huge {CPIECE OF CRAP!!{x
+{RPick me up right now darn you!{x
+{RYou don't realized how {GMAGIC{R I AM!!!{x
+~
+E
+removemessage~
+{ROoooh... :({x
+{RNow i'm gonna be cold :({x
+~
+E
+wearmessage~
+{ROh goodie! WARMTH!{x
+{RWhile wearing me my magic is in full effect!{x
+~
+E
+pickupmessage~
+{RHi! I am a {GMAGIC ROCK!{x
+T{RThanks for picking me up! I was getting lonely...{x
+{RBeing a magic rock, I can open up doors that other keys can't!{x
+{RPlease don't drop me. I have a tongue on me!{x
+~
+#25510
+sapphire stone~
+{Ba mysterious sapphire stone{x~
+{Ba mysterious sapphire stone{x ~
+SAPPHIRE segment SY AO
+DFHIJNO ABCFHIJNO 0 0 0
+5 0 2500 P
+A
+3 2
+E
+dropmessage~
+~
+E
+removemessage~
+~
+E
+wearmessage~
+~
+E
+pickupmessage~
+~
+#25513
+amethyst stone~
+{ma mysterious amethyst stone{x~
+{ma mysterious amethyst stone{x~
+AMETHYST segment SY AO
+ABDFHIJNO BDFHIJNO 0 0 0
+5 0 2500 P
+A
+1 2
+E
+dropmessage~
+~
+E
+removemessage~
+~
+E
+wearmessage~
+~
+E
+pickupmessage~
+~
+#25516
+diamond stone~
+{Wa mysterious diamond stone{x~
+{Wa mysterious diamond stone{x~
+DIAMOND segment SY AO
+BCDFHIJNO ACDFHIJNO 0 0 0
+5 0 2500 P
+A
+1 2
+E
+dropmessage~
+{DThe mysterious black onyx seems to expand the air as it falls to the ground.{x
+ 
+{DYou wonder to yourself why you would ever drop such a wonderous stone.{x
+~
+E
+removemessage~
+{DYou feel unsure about your decision to remove the black onyx.{x
+{DYou feel smaller.{x
+~
+E
+wearmessage~
+{DYour mysterious onyx stone seems larger than it really is.{x
+{DAs you hold it, you feel your overall girth increase.{x
+~
+E
+pickupmessage~
+{DYour mysterious onyx stone feels larger than it actually is.{x
+~
+#25519
+onyx stone~
+{Da mysterious onyx stone{x~
+{Da mysterious onyx stone{x~
+ONYX segment SY AO
+AEFHIJNO EFHIJNO 0 0 0
+5 0 5000 P
+A
+13 200
+E
+dropmessage~
+{DThe mysterious black onyx seems to expand the air as it falls to the ground.{x
+ 
+{DYou wonder to yourself why you would ever drop such a wonderous stone.{x
+~
+E
+removemessage~
+{DYou feel unsure about your decision to remove the black onyx.{x
+{DYou feel smaller.{x
+~
+E
+wearmessage~
+{DYour mysterious onyx stone seems larger than it really is.{x
+{DAs you hold it, you feel your overall girth increase.{x
+~
+E
+pickupmessage~
+{DYour mysterious onyx stone feels larger than it actually is.{x
+~
+#0
+
+
+
+#ROOMS
+#25500
+{MEntry Way{x~
+{cYou are in the Entry Way to the "{yTower of Knowledge{c". To the north is an
+an arch-way leading into the main lobby. To the right of the arch-way is a
+small table with some brocheures stacked on it. There is some sort of writing
+scrawled on the ceiling. Two torches are affixed to the wall, providing light.
+~
+0 12 1
+C 0
+S
+#25555
+storage room~
+don't come in here! danger!
+~
+0 8196 1
+C 0
+S
+#25699
+{MOld Man's Hut{x~
+{cYou are in a small hut. There is a blanket on the floor and a small stove in
+the corner. You can tell that this is a hut for one person and the smell of the
+hut tells you its an old man.{x
+~
+0 525324 1
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 25699 1 25699 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#25500
+say Welcome adventurer!
+~
+#25501
+say ahh.. so you came seeking information about the tower of knowledge... I suppose you wanna know where it might come into phase at eh?
+say well, its been a long time, but I think it might appear near old thalos... but its been so long... i'm not entirely sure
+shrug
+~
+#25502
+~
+#25503
+~
+#25504
+~
+#0
+
+#$

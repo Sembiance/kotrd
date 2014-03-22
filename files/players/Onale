@@ -1,0 +1,97 @@
+#PLAYER
+Name Onale~
+Id   1091123279
+LogO 1094448008
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race Titan~
+Sex  1
+Cla  6
+OCla -1
+Levl 7
+OldLvl 7
+Sec  0
+Plyd 37769
+Not  0 0 0 0
+Scro 33
+Room 3001
+HMV  91 91 113 113 68 136
+Gold 0
+Silv 5
+Gold_bank 0
+Silv_bank 0
+Shares 0
+Share_level 7
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  10765
+PAct  FQTd
+AfBy c
+Empower  0
+WName Onale~
+Comm N
+Deaf DP
+Pos  8
+Prac 16
+Trai 9
+Save  -31
+Alig  1000
+Hit   62
+ACs 85 83 87 96
+Wimp  10
+Attr 19 14 15 12 13
+AMod 0 0 0 0 0
+Pass OnXUxOXTt/RiU~
+Titl  The Friendly~
+Pnts 50
+TSex 1
+PSize 5
+LLev 7
+HMVP 91 113 136
+Cnd  0 0 0 0
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'hand to hand'
+Sk 1 'dodge'
+Sk 1 'parry'
+Sk 1 'shield block'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'paladin basics'
+Gr 'paladin default'
+Affc 'bless'   0 246  96 -31  20          0
+Affc 'bless'   0 243  96  62  18          0
+End
+
+#O
+Vnum 3355
+Nest 0
+Cond 0
+Wear 3
+Cost 510
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear 5
+Cost 900
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+End
+
+#END

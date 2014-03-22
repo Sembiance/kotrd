@@ -1,0 +1,411 @@
+#PLAYER
+Name Phelan~
+Id   1098169552
+LogO 1098497670
+Vers 5
+Prom {C<{G%h %m %v {M%e {w%X {Y%g {W%s{C>{x ~
+Race Human~
+Sex  1
+Cla  3
+OCla -1
+Levl 19
+OldLvl 19
+Sec  0
+Plyd 186301
+Not  1098330345 0 0 0
+Scro 58
+Room 3033
+HMV  390 390 328 328 408 408
+Gold 257
+Silv 38
+Gold_bank 36478
+Silv_bank 17466
+Shares 0
+Share_level 19
+Shares_bought 0
+Duration 0
+Bounty 0
+House 0
+Exp  19236
+PAct  CEFHTd
+AfBy N
+Empower  0
+WName Phelan~
+Comm LMNO
+Deaf DP
+Pos  8
+Prac 8
+Trai 6
+Save  6
+Alig  0
+Hit   44
+Dam   29
+ACs 17 15 15 90
+Attr 17 18 18 18 15
+AMod 1 1 1 4 0
+Pass PhFEc8blvxh.o~
+Titl  says 'I have not used the TITLE command yet!'{x~
+Pnts 40
+TSex 1
+PSize 2
+LLev 32
+HMVP 190 138 208
+Cnd  0 0 0 26
+Alias / recall~
+Alias t trip~
+Alias b backstab~
+Sk 77 'sword'
+Sk 75 'dagger'
+Sk 66 'backstab'
+Sk 1 'dodge'
+Sk 78 'trip'
+Sk 1 'second attack'
+Sk 1 'hide'
+Sk 75 'peek'
+Sk 61 'pick lock'
+Sk 1 'sneak'
+Sk 50 'recall'
+Sk 1 'quicken'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'protection evil'   0   8   9   6  20       8192
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3021
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear -1
+Lev  1
+Cost 250
+Affc 'enchant weapon'   0 100  -1  20  18          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 4240
+Nest 0
+Cond 0
+Wear 8
+Cost 1450
+End
+
+#O
+Vnum 4244
+Nest 0
+Cond 0
+Wear 10
+Cost 1150
+End
+
+#O
+Vnum 4248
+Nest 0
+Cond 0
+Wear 13
+Cost 990
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 22011
+Nest 0
+Cond 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 22015
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear -1
+Cost 1299
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 0
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16013
+Nest 0
+Cond 0
+Wear -1
+Cost 2380
+End
+
+#O
+Vnum 16013
+Nest 0
+Cond 0
+Wear 7
+Cost 2380
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 0
+Wear -1
+Cost 1299
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear -1
+Cost 1050
+End
+
+#O
+Vnum 16008
+Nest 0
+Cond 0
+Wear 6
+Cost 3840
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 14
+Cost 690
+End
+
+#O
+Vnum 16065
+Nest 0
+Cond 0
+Wear 15
+Cost 690
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear -1
+Cost 1050
+End
+
+#O
+Vnum 16007
+Nest 0
+Cond 0
+Wear -1
+Cost 1050
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 0
+Wear -1
+Cost 640
+Val  0 0 487 0 0
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 0
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 0
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3361
+Nest 0
+Cond 0
+Wear 12
+Cost 380
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 0
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 0
+Wear 5
+Cost 1280
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 0
+Wear 11
+Cost 710
+End
+
+#O
+Vnum 18615
+Nest 0
+Cond 0
+Wear 18
+Cost 400
+End
+
+#O
+Vnum 16033
+Enchanted
+Nest 0
+ExtF 68
+Cond 0
+Wear 16
+Lev  10
+Cost 1642
+Val  2 4 5 2 4
+Affc 'pdrain blade'   5   0  -1   0   0          4
+Affc 'reserved'   1   9  -1   2  19          0
+Affc 'reserved'   1   9  -1  -1   2          0
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  20  18          0
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 3280
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 72
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 4
+Cost -900
+End
+
+#O
+Vnum 15724
+Nest 0
+Cond 0
+Wear 3
+Cost -900
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 1
+Cost 460
+End
+
+#O
+Vnum 6511
+Nest 0
+Cond 0
+Wear 2
+Cost 460
+End
+
+#END
