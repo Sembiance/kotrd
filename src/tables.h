@@ -1,3 +1,45 @@
+struct flag_type
+{
+    char *name;
+    int bit;
+    bool settable;
+};
+
+struct command_type
+{
+    char *      com;
+};
+
+struct position_type
+{
+    char *name;
+    char *short_name;
+};
+
+struct sex_type
+{
+    char *name;
+};
+
+struct size_type
+{
+    char *name;
+};
+
+struct  bit_type
+{
+    const   struct  flag_type * table;
+    char *              help;
+};
+
+struct quest_type
+{
+ char *  obj_name;
+ int     vnum;
+ int     qp_cost;
+ int     level;
+};
+
 /* game tables */
 extern	const	struct	position_type	position_table[];
 extern	const	struct	sex_type	sex_table[];
@@ -49,46 +91,3 @@ extern	const	struct	flag_type	position_flags[];
 extern	const	struct	flag_type	ac_type[];
 extern	const	struct	flag_type	racechan_flags[];
 extern	const	struct	bit_type	bitvector_type[];
-
-
-struct command_type
-{
-    char *      com;
-};
-
-struct flag_type
-{
-    char *name;
-    int bit;
-    bool settable;
-};
-
-struct position_type
-{
-    char *name;
-    char *short_name;
-};
-
-struct sex_type
-{
-    char *name;
-};
-
-struct size_type
-{
-    char *name;
-};
-
-struct	bit_type
-{
-	const	struct	flag_type *	table;
-	char *				help;
-};
-
-struct quest_type
-{
- char *  obj_name;
- int     vnum;
- int     qp_cost;
- int     level;
-};

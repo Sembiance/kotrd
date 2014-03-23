@@ -502,7 +502,7 @@ char *	strenquote(char * str)
 }
 ///////////////////////////////////////////////////////////////////////////
 // strndup
-char *		strndup(char * str, unsigned long length)
+/*char *		strndup(char * str, unsigned long length)
 {
 	char *		result;
 
@@ -514,7 +514,7 @@ char *		strndup(char * str, unsigned long length)
 	memcpy(result, str, length);
 
 	return result;
-}
+}*/
 
 ///////////////////////////////////////////////////////////////////////////
 // strchrrepeat

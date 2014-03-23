@@ -25,7 +25,7 @@ char *			strstrstrip(char * str, char * strip);		// Optional return value
 Boolean			strendswith(char * string, char * match);
 Boolean			strstartswith(char * string, char * match);
 char *			strstrrep(char * str, char * match, char * replacement);
-char *		strndup(char * str, unsigned long length);
+/*char *		strndup(char * str, unsigned long length);*/
 char *          strchrrepeat(char letter, unsigned long count);
 
 char *			strenquote(char * str);
