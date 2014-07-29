@@ -2,7 +2,7 @@ CC      = gcc
 PROF    = -O -g3
 NOCRYPT =
 C_FLAGS =  -Wall -Wno-char-subscripts -Wcast-align -Wstrict-prototypes $(PROF) $(NOCRYPT)
-L_FLAGS =  $(PROF) -lcrypt
+L_FLAGS =  $(PROF)
 
 O_FILES =   	act_clan.o \
 		act_comm.o \
@@ -68,7 +68,7 @@ O_FILES =   	act_clan.o \
 
 rom: $(O_FILES)
 	rm -f rom
-	$(CC) $(L_FLAGS) -o rom $(O_FILES)
+	$(CC) $(L_FLAGS) -o rom $(O_FILES) -lm -lcrypt
 
 .c.o: merc.h
 	$(CC) -c $(C_FLAGS) $<
