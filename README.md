@@ -1,11 +1,13 @@
-Build and run instructions:
-
+Build and Run
+=============
+<pre>
 git clone https://github.com/Sembiance/kotrd.git
 cd kotrd
 cd src
 make
 cd ../area
 ./startup.sh
+</pre>
 
 Then you can telnet into 5000 :)
 
