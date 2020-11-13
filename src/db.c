@@ -40,8 +40,8 @@ extern  DESCRIPTOR_DATA *descriptor_free;
 extern	PC_DATA		*pcdata_free;
 extern  AFFECT_DATA	*affect_free;
 
-int remvalue;
-int dpran;
+extern int remvalue;
+extern int dpran;
 
 extern int port,control;
 

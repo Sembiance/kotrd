@@ -36,7 +36,7 @@ void    stones_player_quit(CHAR_DATA * ch);
  * Local functions.
  */
 void	affect_modify	args( ( CHAR_DATA *ch, AFFECT_DATA *paf, bool fAdd ) );
-bool isdp;
+extern bool isdp;
 
 extern int atoi  args( ( const char *string ) );
 

@@ -12,8 +12,8 @@
 void talk_auction (char *argument, CHAR_DATA * ch);
 void raw_kill( CHAR_DATA *victim, CHAR_DATA *killer );
 void save_helps(void);
-bool isdp;
-int remvalue;
+extern bool isdp;
+extern int remvalue;
 
 /*
  * Local functions.

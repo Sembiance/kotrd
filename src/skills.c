@@ -34,8 +34,6 @@ void    group_gain      args( ( CHAR_DATA *ch, CHAR_DATA *victim ) );
 void    one_hit         args( ( CHAR_DATA *ch, CHAR_DATA *victim, int dt, bool secondary ));
 void    update_pkinfo   args( ( CHAR_DATA *ch, CHAR_DATA *victim ) );
 
-int remvalue;
-
 int  gain_skills_array_sort(const void *a, const void *b)
 {
     char bufA[MAX_STRING_LENGTH];
