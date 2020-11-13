@@ -8,7 +8,19 @@
 #include <string.h> 
 #include <time.h> 
 #include "merc.h"
-#include "dpit.h" 
+//#include "dpit.h" 
+
+int min_level;
+int max_level;
+int indp;
+int dptype;
+int dptimeleft;
+int dptimer;
+int cost_level;
+int jackpot;
+bool isdp;
+int remvalue;
+int dpran;
 
 /* [DragonPIT] The DragonLord: ! */
 
